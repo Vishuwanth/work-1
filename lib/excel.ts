@@ -26,13 +26,13 @@ export function readRows(xlsxPath?: string): Row[] {
 
   const rows: Row[] = [];
   // grid[0] is the header row (Excel row 2); grid[k] is Excel row k + 2.
-  // A content row is any row carrying data in at least one column (759 rows);
-  // rows without a Support Page Title get an empty title/slug.
+  // A content row is one with a non-empty Support Page Title (719 rows). Rows that
+  // carry a pillar/status but no title are incomplete placeholders in the sheet —
+  // they have no topic/slug and can't be generated or reviewed, so we skip them.
   for (let i = 1; i < grid.length; i++) {
     const cells = grid[i] || [];
-    const hasData = cells.some((c) => str(c) !== "");
-    if (!hasData) continue;
     const title = str(cells[COL.title]);
+    if (title === "") continue;
     rows.push({
       rowNum: i + 2,
       pillarName: str(cells[COL.pillarName]),

@@ -4,8 +4,14 @@ import { readRows } from "@/lib/excel";
 describe("readRows", () => {
   const rows = readRows();
 
-  it("reads all 759 content rows from the workbook", () => {
-    expect(rows.length).toBe(759);
+  it("reads all 719 titled content rows from the workbook", () => {
+    // 719 rows have a Support Page Title; 40 more carry only pillar/status
+    // (incomplete placeholders) and are intentionally skipped.
+    expect(rows.length).toBe(719);
+  });
+
+  it("skips rows without a Support Page Title (no empty slugs)", () => {
+    expect(rows.every((r) => r.title !== "" && r.slug !== "")).toBe(true);
   });
 
   it("maps row 463 with the correct title and slug", () => {

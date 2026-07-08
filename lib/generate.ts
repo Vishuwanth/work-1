@@ -213,7 +213,8 @@ export async function runGenerate(row: Row, opts: GenerateOpts = {}): Promise<Ge
 
   const dir = opts.outDir ?? resolve(process.cwd(), RAW_DIR);
   mkdirSync(dir, { recursive: true });
-  const fixturePath = join(dir, `${slugify(row.title)}.json`);
+  // Match the Python pipeline's naming so both generation paths produce identical filenames.
+  const fixturePath = join(dir, `${slugify(row.title)}-faq-section.json`);
   writeFileSync(fixturePath, JSON.stringify(fixture, null, 2) + "\n");
   return { ok: true, fixturePath };
 }
