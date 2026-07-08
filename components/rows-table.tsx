@@ -4,7 +4,6 @@ import * as React from "react";
 import {
   type ColumnDef,
   type SortingState,
-  flexRender,
   getCoreRowModel,
   getFilteredRowModel,
   getSortedRowModel,
