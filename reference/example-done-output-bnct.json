@@ -1,0 +1,114 @@
+{
+  "pillar": "Boron Neutron Capture Therapy (BNCT)",
+  "contentType": "Treatment",
+  "runner": "seed-treatment.js",
+  "slug": "⚠ VERIFY: boron-neutron-capture-therapy-bnct",
+  "route": "⚠ VERIFY: /treatments/boron-neutron-capture-therapy-bnct",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Boron Neutron Capture Therapy (BNCT)",
+    "intro": "Common questions from patients and families researching Boron Neutron Capture Therapy as a possible treatment option.",
+    "groups": [
+      {
+        "title": "Understanding BNCT",
+        "items": [
+          {
+            "q": "What is Boron Neutron Capture Therapy (BNCT)?",
+            "a": "<p>BNCT is a targeted radiotherapy that combines a boron-containing drug with a neutron beam to destroy cancer cells while limiting damage to nearby healthy tissue. The boron compound builds up preferentially inside tumor cells, and neutron exposure triggers a nuclear reaction that releases short-range particles lethal only within about one cell's width. This gives BNCT a highly localized effect compared with conventional radiation, though its use remains limited to specific cancers and specialized treatment centers.</p>"
+          },
+          {
+            "q": "How does BNCT work?",
+            "a": "<p>BNCT works in two steps: a boron-10 compound is infused into the bloodstream and builds up more in cancer cells than in normal tissue, then a neutron beam is aimed at the tumor site. When neutrons strike the boron-10 atoms, the resulting reaction releases high-energy particles that travel less than the width of a single cell, destroying the cancer cell from within while sparing tissue where boron has not concentrated.</p>"
+          },
+          {
+            "q": "What cancers is BNCT used to treat?",
+            "a": "<p>BNCT is currently approved in Japan specifically for unresectable, locally advanced, or recurrent head and neck cancers that can no longer be treated with further surgery or standard radiation. Outside this approved use, it is being studied in clinical trials for recurrent glioblastoma and other brain tumors, meningioma, melanoma, liver cancer, and recurrent nasopharyngeal cancer. Whether BNCT applies to a specific case depends on tumor type, location, boron uptake, and specialist review.</p>"
+          },
+          {
+            "q": "Is BNCT the same as regular radiation therapy?",
+            "a": "<p>No, BNCT is not the same as conventional radiation therapy, even though both use radiation to damage cancer cells. Standard radiotherapy delivers radiation broadly along a beam path, while BNCT concentrates its cell-killing effect mainly where a boron drug has accumulated inside tumor cells. This can spare more surrounding healthy tissue in appropriate cases, and BNCT is typically delivered in a single session rather than the multiple sessions used in standard radiotherapy.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for BNCT?",
+            "a": "<p>Eligibility for BNCT depends on cancer type, tumor location, prior treatments, and how well the tumor takes up the boron compound, which is often checked with specialized PET imaging beforehand. It is generally considered for patients with unresectable or recurrent head and neck cancer who have exhausted standard surgical and radiation options, or for select patients enrolled in trials for other cancers. Final eligibility is determined by a specialist BNCT team after full medical record review.</p>"
+          },
+          {
+            "q": "What happens during a BNCT session?",
+            "a": "<p>A BNCT session begins with an intravenous infusion of a boron-containing drug over roughly two to three hours to allow it to concentrate in the tumor. The patient is then positioned at the neutron source, and irradiation typically lasts about 30 to 60 minutes in a single sitting. Most protocols require only one treatment session rather than the daily sessions used in conventional radiotherapy, though the exact plan depends on the treating center's protocol.</p>"
+          },
+          {
+            "q": "What are the side effects of BNCT?",
+            "a": "<p>Reported side effects of BNCT include localized skin reactions, mucositis, fatigue, and swelling in the treated area, with severity depending on tumor location and prior treatment history. Because BNCT concentrates its effect on boron-rich tissue, some patients experience less damage to surrounding healthy structures than with conventional radiation, though this varies by case. Side effects should be discussed in detail with the treating oncology team, who can advise on monitoring specific to the individual patient.</p>"
+          },
+          {
+            "q": "Is BNCT painful or does it require anesthesia?",
+            "a": "<p>BNCT is not generally described as painful, and most patients remain awake during the neutron irradiation itself, similar to standard radiotherapy sessions. The boron infusion is delivered through an IV line, which may cause mild discomfort at the insertion site. Positioning for head and neck treatment can require staying still for an extended period, and sedation may be used in select cases. The treating team can advise on comfort measures for a specific patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does BNCT cost?",
+            "a": "<p>The cost of BNCT varies widely depending on the country, hospital, boron drug used, imaging required, and whether treatment is within an approved program or a clinical trial. Published estimates are limited because BNCT is available at only a small number of specialized centers worldwide. Costs typically include pre-treatment PET imaging, the boron infusion, neutron irradiation, and follow-up care. Patients should request a personalized cost estimate directly from the treating hospital before making travel plans.</p>"
+          },
+          {
+            "q": "Which countries offer BNCT?",
+            "a": "<p>Japan is currently the only country where BNCT is a nationally approved and insurance-covered treatment, specifically for recurrent head and neck cancer. China, Taiwan, and Finland have active BNCT research centers offering the therapy through clinical trials or compassionate-use programs, and other countries are developing accelerator-based BNCT systems. Availability at any given center can change as programs open, pause, or complete enrollment, so current status should be confirmed directly with the facility.</p>"
+          },
+          {
+            "q": "Is BNCT available in India?",
+            "a": "<p>BNCT is not currently an established, routinely available treatment within India, and access typically requires traveling to a country with an operating BNCT center, such as Japan, China, or Taiwan. Indian patients interested in BNCT usually need their medical records and imaging reviewed by a treating center abroad to determine whether they meet the trial or treatment criteria. Availability, admission, and travel arrangements should be confirmed directly with the receiving hospital beforehand.</p>"
+          },
+          {
+            "q": "Is BNCT approved or still experimental?",
+            "a": "<p>BNCT's regulatory status differs by country and cancer type. In Japan, it has been an approved, insurance-reimbursed treatment for unresectable or recurrent head and neck cancer since 2020. In most other countries, including China and across Europe, BNCT remains investigational and is offered mainly through clinical trials or compassionate-use programs rather than as a routine approved therapy. Patients should confirm the exact regulatory status of the specific program they are considering.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Are there clinical trials for BNCT beyond head and neck cancer?",
+            "a": "<p>Yes, clinical trials are studying BNCT for cancers beyond head and neck disease, including recurrent glioblastoma and other brain tumors, meningioma, melanoma, liver cancer, and recurrent nasopharyngeal cancer. These trials are at varying stages, and enrollment is never guaranteed; it depends on strict inclusion and exclusion criteria set by each study. Interested patients typically need imaging and pathology records reviewed by the trial's investigators before eligibility can be determined.</p>"
+          },
+          {
+            "q": "Can BNCT be used for brain tumors like glioblastoma?",
+            "a": "<p>BNCT is being investigated for recurrent glioblastoma and other malignant brain tumors, but it is not yet an approved standard treatment for these cancers. Early studies have explored boron delivery and neutron dosing specifically for brain tumor tissue, and results are still being evaluated. Whether BNCT could be an option for a particular brain tumor case depends on prior treatment, tumor location, and enrollment in an active trial, as determined by the treating neuro-oncology team.</p>"
+          },
+          {
+            "q": "How is a patient selected for a BNCT clinical trial?",
+            "a": "<p>Selection for a BNCT clinical trial usually begins with a review of the patient's diagnosis, imaging, pathology, and prior treatment history by the trial's investigators. Many trials also require boron-specific PET imaging to confirm the tumor will take up the boron compound adequately. Because each study sets its own inclusion and exclusion criteria, meeting general eligibility for BNCT does not guarantee acceptance into a specific trial; enrollment and benefit are never guaranteed.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed to be evaluated for BNCT?",
+            "a": "<p>A BNCT evaluation typically requires recent imaging such as CT, MRI, or PET scans, pathology or biopsy reports confirming the tumor type, a summary of all prior surgeries and radiation treatment, and current bloodwork. Some centers also request detailed records of tumor location and size, since boron uptake and neutron planning depend on this information. Exact document requirements vary by hospital, so patients should confirm the full checklist with the treating center directly.</p>"
+          },
+          {
+            "q": "How can international patients access BNCT treatment abroad?",
+            "a": "<p>International access to BNCT generally starts with sending medical records and imaging to a treating center for review, since each hospital sets its own eligibility and admission criteria. If accepted, patients then need to plan for visa arrangements, travel, accommodation near the treatment center, and follow-up care after the neutron irradiation session. Acceptance, visa approval, and treatment timelines are never guaranteed and depend on the hospital's assessment and each country's entry requirements.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with BNCT?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify treatment centers or trials researching BNCT for their specific cancer type, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support. Final treatment decisions, including whether BNCT is a suitable option, are always made by the treating oncology team after reviewing the patient's diagnosis, imaging, prior treatment, and overall health. CancerFax does not replace the treating medical team or guarantee treatment access or outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalTherapy (and MedicalProcedure where relevant), MedicalWebPage, and BreadcrumbList schema for the parent Treatment page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

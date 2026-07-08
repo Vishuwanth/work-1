@@ -1,0 +1,707 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CancerFax FAQ Review</title>
+<style>
+  /* ===== Design tokens — light is the base, dark + explicit toggles override ===== */
+  :root{
+    --bg:#e9edf3; --surface:#ffffff; --surface2:#f1f4f9; --border:#d7dde7;
+    --text:#182231; --muted:#5a6474; --faint:#8b95a4;
+    --accent:#2f6fb0; --accent-bg:#e3eef9; --accent-border:#b6d2ec;
+    --green:#1c854b; --green-bg:#e0f2e6; --green-border:#a7dabb;
+    --amber:#8a5d00; --amber-line:#c79318; --amber-bg:#fbefcf; --amber-border:#e7cf8e;
+    --red:#b1332d; --red-bg:#fbe3e1; --red-border:#eeb2ad;
+    --pending-bar:#c4ccd8;
+    --shadow:0 1px 2px rgba(24,34,49,.06),0 8px 24px rgba(24,34,49,.06);
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,system-ui,sans-serif;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#121316; --surface:#1a1b1f; --surface2:#212228; --border:#2f3138;
+      --text:#e7e8ec; --muted:#9aa0ad; --faint:#6c7280;
+      --accent:#7db8f0; --accent-bg:#16324f; --accent-border:#2c5a86;
+      --green:#5fd08a; --green-bg:#173d24; --green-border:#2f6b41;
+      --amber:#e6b64a; --amber-line:#e6b64a; --amber-bg:#3d2f10; --amber-border:#5a4718;
+      --red:#e88a8a; --red-bg:#42201f; --red-border:#6b2f2c;
+      --pending-bar:#3a3b42;
+      --shadow:0 1px 2px rgba(0,0,0,.35),0 10px 30px rgba(0,0,0,.35);
+    }
+  }
+  /* Explicit toggle wins over the media query in both directions */
+  :root[data-theme="light"]{
+    --bg:#e9edf3; --surface:#ffffff; --surface2:#f1f4f9; --border:#d7dde7;
+    --text:#182231; --muted:#5a6474; --faint:#8b95a4;
+    --accent:#2f6fb0; --accent-bg:#e3eef9; --accent-border:#b6d2ec;
+    --green:#1c854b; --green-bg:#e0f2e6; --green-border:#a7dabb;
+    --amber:#8a5d00; --amber-line:#c79318; --amber-bg:#fbefcf; --amber-border:#e7cf8e;
+    --red:#b1332d; --red-bg:#fbe3e1; --red-border:#eeb2ad;
+    --pending-bar:#c4ccd8;
+    --shadow:0 1px 2px rgba(24,34,49,.06),0 8px 24px rgba(24,34,49,.06);
+  }
+  :root[data-theme="dark"]{
+    --bg:#121316; --surface:#1a1b1f; --surface2:#212228; --border:#2f3138;
+    --text:#e7e8ec; --muted:#9aa0ad; --faint:#6c7280;
+    --accent:#7db8f0; --accent-bg:#16324f; --accent-border:#2c5a86;
+    --green:#5fd08a; --green-bg:#173d24; --green-border:#2f6b41;
+    --amber:#e6b64a; --amber-line:#e6b64a; --amber-bg:#3d2f10; --amber-border:#5a4718;
+    --red:#e88a8a; --red-bg:#42201f; --red-border:#6b2f2c;
+    --pending-bar:#3a3b42;
+    --shadow:0 1px 2px rgba(0,0,0,.35),0 10px 30px rgba(0,0,0,.35);
+  }
+
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);
+    font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+  button,input,textarea{font-family:inherit}
+  ::selection{background:var(--accent-bg)}
+
+  /* ===== Header ===== */
+  header{display:flex;align-items:center;gap:18px;padding:12px 20px;background:var(--surface);
+    border-bottom:1px solid var(--border);position:sticky;top:0;z-index:6}
+  .brand{font-weight:700;font-size:15px;letter-spacing:-.01em;display:flex;align-items:baseline;gap:8px}
+  .brand .mark{color:var(--accent);font-size:16px}
+  .brand small{color:var(--faint);font-weight:500;font-size:11.5px;font-variant-numeric:tabular-nums}
+  .progress{flex:1;max-width:440px;min-width:180px}
+  .pbar{height:8px;border-radius:6px;background:var(--surface2);overflow:hidden;display:flex;
+    border:1px solid var(--border)}
+  .pbar i{display:block;height:100%;transition:width .35s ease}
+  .pstats{display:flex;flex-wrap:wrap;gap:14px;margin-top:6px;font-size:11px;color:var(--muted);
+    font-variant-numeric:tabular-nums}
+  .dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;vertical-align:middle}
+  .hdr-actions{display:flex;align-items:center;gap:8px;margin-left:auto}
+
+  .btn{padding:7px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);
+    color:var(--text);font-size:12px;font-weight:500;cursor:pointer;transition:background .12s,border-color .12s,transform .05s;
+    white-space:nowrap}
+  .btn:hover{background:var(--border)}
+  .btn:active{transform:translateY(1px)}
+  .btn.primary{background:var(--accent-bg);color:var(--accent);border-color:var(--accent-border)}
+  .btn.primary:hover{filter:brightness(1.04)}
+  .btn.ghost{background:transparent;color:var(--muted);border-style:dashed}
+  .btn.ghost:hover{color:var(--text);border-color:var(--accent-border)}
+  .btn.icon{padding:7px 9px;color:var(--muted)}
+  .btn:focus-visible,.pill:focus-visible,input:focus-visible,textarea:focus-visible,.li:focus-visible{
+    outline:2px solid var(--accent);outline-offset:2px}
+
+  /* ===== Layout ===== */
+  .layout{display:flex;height:calc(100vh - 93px);min-height:0}
+  aside{flex:0 0 340px;border-right:1px solid var(--border);display:flex;flex-direction:column;
+    background:var(--surface);min-height:0}
+  .search{margin:14px 14px 10px;padding:9px 12px;border-radius:9px;border:1px solid var(--border);
+    background:var(--bg);color:var(--text);font-size:12.5px}
+  .search::placeholder{color:var(--faint)}
+  .filters{display:flex;flex-wrap:wrap;gap:6px;padding:0 14px 12px;border-bottom:1px solid var(--border)}
+  .pill{padding:4px 11px;border:1px solid var(--border);border-radius:20px;font-size:11px;color:var(--muted);
+    cursor:pointer;background:transparent;font-variant-numeric:tabular-nums;transition:background .12s,color .12s}
+  .pill:hover{color:var(--text)}
+  .pill.on{background:var(--accent-bg);color:var(--accent);border-color:var(--accent-border);font-weight:600}
+  .pill .n{opacity:.7;margin-left:2px}
+
+  .list{overflow-y:auto;flex:1;min-height:0}
+  .li{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 15px;
+    border-bottom:1px solid var(--border);cursor:pointer;border-left:3px solid transparent}
+  .li:hover{background:var(--surface2)}
+  .li.active{background:var(--accent-bg);border-left-color:var(--accent)}
+  .li .t{font-size:12.5px;font-weight:600;line-height:1.35;color:var(--text)}
+  .li .sub{font-size:10.5px;color:var(--faint);margin-top:3px;font-variant-numeric:tabular-nums}
+  .li .dup{color:var(--amber-line);font-weight:600}
+
+  .chip{padding:3px 10px;border-radius:20px;font-size:10.5px;font-weight:600;white-space:nowrap;
+    border:1px solid transparent;font-variant-numeric:tabular-nums}
+  .c-pend{background:var(--surface2);color:var(--muted);border-color:var(--border)}
+  .c-ok{background:var(--green-bg);color:var(--green);border-color:var(--green-border)}
+  .c-work{background:var(--red-bg);color:var(--red);border-color:var(--red-border)}
+  .c-verify{background:var(--amber-bg);color:var(--amber);border-color:var(--amber-border)}
+
+  .sidebar-empty{padding:26px 18px;color:var(--faint);font-size:12px;text-align:center;line-height:1.6}
+
+  /* ===== Main / detail ===== */
+  main{flex:1;overflow-y:auto;padding:26px 34px 40px;min-width:0}
+  .detail-wrap{max-width:820px;margin:0 auto}
+  .phead{display:flex;justify-content:space-between;align-items:flex-start;gap:18px;margin-bottom:4px}
+  .ptitle{font-size:21px;font-weight:700;line-height:1.25;margin:0;letter-spacing:-.015em;text-wrap:balance}
+  .meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;margin:10px 0 0;font-size:11.5px;color:var(--muted)}
+  .meta .sep{color:var(--faint)}
+  .meta b{color:var(--text);font-weight:600}
+  .verify-row{margin-top:12px;gap:8px}
+  .verify{background:var(--amber-bg);color:var(--amber);padding:5px 11px;border-radius:7px;font-size:11.5px;
+    border:1px solid var(--amber-border);font-weight:600;display:inline-flex;align-items:center;gap:6px}
+  .verify.resolved{background:var(--green-bg);color:var(--green);border-color:var(--green-border)}
+  .verify.ok{background:var(--surface2);color:var(--muted);border-color:var(--border);font-weight:500}
+  .verify code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:11px}
+  .vedit{display:flex;flex-direction:column;gap:4px;font-size:10.5px;color:var(--amber-line);
+    text-transform:uppercase;letter-spacing:.5px;font-weight:600;flex:1;min-width:240px}
+  .vinput{padding:7px 10px;border-radius:7px;border:1px solid var(--amber-border);background:var(--bg);
+    color:var(--text);font-size:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+
+  .statussel{display:flex;gap:7px;flex-shrink:0}
+  .btn.st-ok.on{background:var(--green-bg);color:var(--green);border-color:var(--green-border)}
+  .btn.st-work.on{background:var(--red-bg);color:var(--red);border-color:var(--red-border)}
+
+  .groups{margin-top:8px}
+  .grp{font-size:11px;text-transform:uppercase;letter-spacing:.7px;color:var(--accent);font-weight:700;
+    margin:26px 0 6px;padding-bottom:6px;border-bottom:1px solid var(--border)}
+  .qa{padding:12px 0;border-bottom:1px solid var(--border)}
+  .qa:last-child{border-bottom:none}
+  .q{font-weight:650;font-size:13.5px;color:var(--text);line-height:1.4}
+  .a{color:var(--muted);font-family:var(--serif);font-size:15px;line-height:1.62;margin-top:6px}
+  .a p{margin:0 0 .6em}
+  .a p:last-child{margin-bottom:0}
+  .a-edit{width:100%;margin-top:6px;min-height:92px;padding:10px 12px;border-radius:8px;
+    border:1px solid var(--accent-border);background:var(--bg);color:var(--text);font-family:var(--serif);
+    font-size:14px;line-height:1.55;resize:vertical}
+
+  .disclaimer{margin-top:24px;padding:12px 14px;border-radius:9px;background:var(--surface2);
+    border:1px solid var(--border);color:var(--faint);font-size:11px;line-height:1.55}
+  .disclaimer b{color:var(--muted);text-transform:uppercase;letter-spacing:.5px;font-size:10px}
+
+  .actions{position:sticky;bottom:0;background:linear-gradient(transparent,var(--bg) 34%);
+    padding:20px 0 6px;margin-top:20px;display:flex;gap:9px;align-items:center;flex-wrap:wrap}
+  .notes{flex:1;min-width:200px;padding:9px 12px;border-radius:8px;border:1px solid var(--border);
+    background:var(--surface);color:var(--text);font-size:12.5px}
+  .notes::placeholder{color:var(--faint)}
+
+  /* ===== Empty / placeholder ===== */
+  .placeholder{display:flex;flex-direction:column;align-items:center;justify-content:center;
+    text-align:center;height:100%;color:var(--muted);gap:12px;padding:40px}
+  .placeholder .big{font-size:17px;font-weight:600;color:var(--text)}
+  .placeholder .glyph{font-size:34px;opacity:.5}
+  .placeholder code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    background:var(--surface2);padding:2px 7px;border-radius:5px;border:1px solid var(--border);font-size:12px}
+
+  /* ===== Toast + banner + drop overlay ===== */
+  .toast{position:fixed;left:50%;bottom:26px;transform:translate(-50%,20px);background:var(--surface);
+    color:var(--text);border:1px solid var(--border);border-radius:10px;padding:11px 16px;font-size:12.5px;
+    box-shadow:var(--shadow);z-index:20;opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;
+    max-width:min(520px,90vw)}
+  .toast.show{opacity:1;transform:translate(-50%,0)}
+  .toast .warn{color:var(--amber-line);font-weight:600}
+  .lsbanner{background:var(--amber-bg);color:var(--amber);text-align:center;padding:8px 14px;font-size:12px;
+    border-bottom:1px solid var(--amber-border)}
+  .lsbanner[hidden]{display:none}
+
+  .dropzone{position:fixed;inset:0;z-index:30;background:color-mix(in srgb,var(--accent-bg) 88%,transparent);
+    display:none;align-items:center;justify-content:center;pointer-events:none}
+  body.dragging .dropzone{display:flex}
+  .dropzone .card{border:2px dashed var(--accent);border-radius:16px;padding:44px 60px;background:var(--surface);
+    color:var(--accent);font-size:16px;font-weight:600;box-shadow:var(--shadow)}
+
+  @media (max-width:780px){
+    .layout{flex-direction:column;height:auto}
+    aside{flex:none;width:100%;border-right:none;border-bottom:1px solid var(--border);max-height:44vh}
+    main{padding:20px}
+    .progress{display:none}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none !important}}
+</style>
+</head>
+<body>
+<div id="app">
+  <div class="lsbanner" id="lsBanner" hidden>Storage is unavailable or full — your decisions won't persist after this tab closes. You can still export them.</div>
+  <header>
+    <div class="brand"><span class="mark">✚</span>CancerFax FAQ Review <small id="srcLabel">output/faq · 0 pages loaded</small></div>
+    <div class="progress" id="progress" aria-label="Review progress"></div>
+    <div class="hdr-actions">
+      <button class="btn icon" id="themeBtn" title="Toggle light / dark" aria-label="Toggle theme">◐</button>
+      <button class="btn ghost" id="dropBtn">⤓ Drop JSON files</button>
+      <button class="btn primary" id="exportBtn">⇪ Export decisions</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside>
+      <input class="search" id="search" placeholder="Search pages…" autocomplete="off" aria-label="Search pages">
+      <div class="filters" id="filters"></div>
+      <div class="list" id="list"></div>
+    </aside>
+    <main id="detail"></main>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<div class="dropzone" id="dropzone"><div class="card">Drop FAQ JSON files to load</div></div>
+<input type="file" id="fileInput" accept=".json,application/json" multiple hidden>
+
+<script>
+/* ===== CONTRACTS ===== */
+// A "page" is one fixture wrapper as written by faq_write.py:
+//   { pillar, contentType, runner, slug, route, section|sectionToMerge:{type,id,h2,intro,groups[]},
+//     schemaRecommendation, medicalDisclaimer }
+const VERIFY_RE = /^\s*⚠\s*VERIFY:\s*/;
+
+function cleanSlug(raw) {            // strip "⚠ VERIFY:" prefix; return {value, needsVerify}
+  const s = String(raw ?? "");
+  return { value: s.replace(VERIFY_RE, "").trim(), needsVerify: VERIFY_RE.test(s) };
+}
+function getSection(page) {           // returns the faq section regardless of key
+  return page.section || page.sectionToMerge || null;
+}
+function sectionKey(page) {           // which key held it (preserved on output)
+  return page.sectionToMerge ? "sectionToMerge" : "section";
+}
+function faqCount(page) {
+  const s = getSection(page); if (!s) return 0;
+  return (s.groups || []).reduce((n, g) => n + (g.items || []).length, 0);
+}
+function isFaqShape(page) {
+  const s = getSection(page);
+  return !!(s && s.type === "faq" && Array.isArray(s.groups));
+}
+function pageVerifyFlags(page) {      // count of ⚠ VERIFY fields (slug + route)
+  return [page.slug, page.route].filter(v => VERIFY_RE.test(String(v ?? ""))).length;
+}
+function ensureP(html) {              // guarantee an answer stays <p>-wrapped for output
+  const t = String(html ?? "").trim();
+  return /^<p>[\s\S]*<\/p>$/.test(t) ? t : `<p>${t.replace(/^<p>|<\/p>$/g, "")}</p>`;
+}
+window.__contracts = { cleanSlug, getSection, sectionKey, faqCount, isFaqShape, pageVerifyFlags, ensureP };
+
+// small HTML escaper for reviewer-facing text (questions/titles/notes) — answers stay raw HTML
+function esc(s){ return String(s ?? "").replace(/[&<>"']/g, c => (
+  {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+/* ===== STATE ===== */
+const LS_KEY = "cancerfax-faq-review:v1";
+let REVIEW = {};                       // { "<slug>": { status, note, edits:{answers:{}, slug, route} } }
+function loadReview() {
+  try { REVIEW = JSON.parse(localStorage.getItem(LS_KEY) || "{}"); }
+  catch { REVIEW = {}; }
+}
+function saveReview() {
+  try { localStorage.setItem(LS_KEY, JSON.stringify(REVIEW)); return true; }
+  catch { return false; }             // quota/unavailable -> caller warns, keeps in-memory REVIEW
+}
+function reviewFor(slug) {             // default record for an untouched page
+  return REVIEW[slug] || (REVIEW[slug] = { status: "pending", note: "", edits: { answers: {}, slug: "", route: "" } });
+}
+let lsWarned = false;
+function persist(){                    // save; warn once (non-blocking) if storage fails
+  if (!saveReview() && !lsWarned) { lsWarned = true; document.getElementById("lsBanner").hidden = false; }
+}
+
+/* ===== DATA ===== */
+const BAKED = [
+  {
+    "pillar": "What is the difference between leukemia, lymphoma, and myeloma?",
+    "contentType": "⚠ VERIFY",
+    "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+    "slug": "⚠ VERIFY: what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
+    "route": "⚠ VERIFY: /<section>/what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
+    "section": {
+      "type": "faq",
+      "id": "faq",
+      "h2": "Frequently Asked Questions About the Difference Between Leukemia, Lymphoma, and Myeloma",
+      "intro": "Common questions from patients and families trying to understand how leukemia, lymphoma, and myeloma differ, and how each of these blood cancers is diagnosed and treated.",
+      "groups": [
+        {
+          "title": "Understanding the Difference",
+          "items": [
+            { "q": "What is the difference between leukemia, lymphoma, and myeloma?", "a": "<p>Leukemia, lymphoma, and myeloma are three distinct blood cancers that differ mainly by which cell they start in and where they grow. Leukemia begins in blood-forming cells of the bone marrow and releases abnormal white blood cells into the bloodstream. Lymphoma starts in lymphocytes within the lymph nodes and lymphatic system. Myeloma arises from plasma cells in the bone marrow. Correct classification guides treatment and depends on specialist review.</p>" },
+            { "q": "Where does each of these blood cancers start in the body?", "a": "<p>Each of these blood cancers begins in a different location. Leukemia develops in the bone marrow, the spongy tissue inside bones where blood cells are made, and typically enters the bloodstream. Lymphoma usually starts in the lymph nodes and lymphatic tissue, though it can spread to the marrow and organs. Myeloma grows within the bone marrow itself, where abnormal plasma cells accumulate. Confirming the exact origin requires specialist testing and pathology review.</p>" },
+            { "q": "Are leukemia, lymphoma, and myeloma all types of blood cancer?", "a": "<p>Yes, leukemia, lymphoma, and myeloma are all classified as blood cancers, also called hematological cancers. They develop from cells of the blood, bone marrow, or lymphatic system, which is why they are grouped together. Despite this shared category, they behave differently, affect different cell types, and are managed by hematologists or hemato-oncologists. Understanding that they are related but distinct helps patients and families follow their specific diagnosis and care plan.</p>" },
+            { "q": "What do leukemia, lymphoma, and myeloma have in common?", "a": "<p>Leukemia, lymphoma, and myeloma all arise from cells of the blood and immune system, most originating from white blood cells. All three involve the uncontrolled growth of abnormal cells that can crowd out healthy blood cells, weaken immunity, and cause fatigue, infections, or anemia. They are also frequently treated with overlapping approaches such as chemotherapy, targeted therapy, immunotherapy, and stem cell transplant. The specific plan depends on the exact diagnosis and specialist review.</p>" }
+          ]
+        },
+        {
+          "title": "Types and Diagnosis",
+          "items": [
+            { "q": "What are the main types of leukemia?", "a": "<p>Leukemia is mainly divided into four types based on how fast it grows and which cells it affects. Acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML) progress quickly, while chronic lymphocytic leukemia (CLL) and chronic myeloid leukemia (CML) develop more slowly. Acute types usually need prompt treatment, while chronic types may be monitored before therapy begins. Less common forms also exist, and the exact subtype is confirmed through blood and bone marrow testing.</p>" },
+            { "q": "What are the main types of lymphoma?", "a": "<p>Lymphoma is broadly divided into Hodgkin lymphoma and non-Hodgkin lymphoma, which together include dozens of subtypes. Hodgkin lymphoma is identified by specific abnormal cells called Reed-Sternberg cells and often responds well to treatment. Non-Hodgkin lymphoma is far more common and ranges from slow-growing (indolent) to fast-growing (aggressive) forms, such as diffuse large B-cell lymphoma. The precise subtype, confirmed by lymph node biopsy, strongly influences treatment and requires specialist review.</p>" },
+            { "q": "What is multiple myeloma and how is it different from lymphoma?", "a": "<p>Multiple myeloma is a cancer of plasma cells, the antibody-producing white blood cells found in the bone marrow. Unlike lymphoma, which usually forms tumors in lymph nodes, myeloma builds up inside the marrow and can weaken bones, causing bone pain, anemia, kidney problems, and high calcium levels. Both are blood cancers, but they start from different cell stages and are diagnosed and treated differently. Confirmation requires bone marrow testing and specialist review.</p>" },
+            { "q": "How are leukemia, lymphoma, and myeloma diagnosed?", "a": "<p>Leukemia, lymphoma, and myeloma are diagnosed using different combinations of tests based on where each cancer grows. Leukemia is usually found through blood counts and a bone marrow biopsy. Lymphoma is typically confirmed by removing and examining a lymph node, often with PET or CT imaging for staging. Myeloma is diagnosed through bone marrow biopsy, blood and urine protein tests, and bone imaging. Final diagnosis and staging are determined by the treating hematology team.</p>" }
+          ]
+        },
+        {
+          "title": "Treatment and Prognosis",
+          "items": [
+            { "q": "How is leukemia treated?", "a": "<p>Leukemia treatment depends on the subtype, the patient's age, and overall health, and may include chemotherapy, targeted therapy, immunotherapy, or a stem cell (bone marrow) transplant. Acute leukemias often need intensive treatment quickly, while some chronic leukemias are managed with oral targeted drugs such as tyrosine kinase inhibitors. Newer options like CAR T-cell therapy may be considered for selected cases. Final treatment decisions should be made by the treating hemato-oncology team.</p>" },
+            { "q": "How is lymphoma treated?", "a": "<p>Lymphoma treatment varies widely by subtype and stage and may include chemotherapy, immunotherapy with antibodies such as rituximab, radiation therapy, targeted drugs, or stem cell transplant. Some slow-growing lymphomas may be monitored with active surveillance before treatment begins, while aggressive types usually require prompt combination therapy. CAR T-cell therapy may be considered for certain relapsed or hard-to-treat cases. The most suitable approach depends on specialist review and the treating oncology team.</p>" },
+            { "q": "How is myeloma treated?", "a": "<p>Myeloma is generally treated with a combination of drug therapies rather than surgery, since it is spread throughout the bone marrow. Treatment often includes targeted drugs, immunotherapy, chemotherapy, and steroids, sometimes followed by an autologous stem cell transplant using the patient's own cells. Medicines to protect bones and manage kidney or calcium problems may also be used. Myeloma is often treatable but tends to relapse, so long-term specialist follow-up is important.</p>" },
+            { "q": "Which is more serious - leukemia, lymphoma, or myeloma?", "a": "<p>No single blood cancer is universally more serious than the others, because outlook depends on the specific subtype, stage, genetic features, age, and response to treatment. Some slow-growing lymphomas and chronic leukemias may be managed for years, while certain acute leukemias are aggressive and need urgent care. Myeloma is often controllable but usually not considered curable. Survival varies greatly between individuals, so prognosis should always be discussed with the treating oncology team.</p>" }
+          ]
+        },
+        {
+          "title": "Cost, Access, and Countries",
+          "items": [
+            { "q": "How much does blood cancer treatment cost?", "a": "<p>The cost of treating leukemia, lymphoma, or myeloma varies widely depending on the cancer type, stage, treatment chosen, and country. Standard chemotherapy is generally less expensive than advanced options such as stem cell transplant or CAR T-cell therapy, which can cost tens of thousands of dollars. Final costs depend on the hospital, diagnostics, protocol, length of stay, and any complications. Patients should request a personalized estimate from the treating hospital before planning.</p>" },
+            { "q": "Is treatment for leukemia, lymphoma, and myeloma available in India?", "a": "<p>Yes, treatment for leukemia, lymphoma, and myeloma is widely available in India at accredited cancer centers in cities such as Delhi, Mumbai, Chennai, Bengaluru, and Hyderabad. Indian hospitals offer chemotherapy, targeted therapy, stem cell transplants, and, at selected centers, CAR T-cell therapy, often at a lower cost than in Western countries. Availability, eligibility, and cost depend on the exact diagnosis and hospital assessment, which should be confirmed directly with the treating center.</p>" },
+            { "q": "What is CAR T-cell therapy and which blood cancers is it used for?", "a": "<p>CAR T-cell therapy is an advanced immunotherapy that reprograms a patient's own immune cells to attack cancer, and it is mainly used for certain blood cancers. It may be considered for selected cases of relapsed or hard-to-treat B-cell lymphomas, acute lymphoblastic leukemia, and multiple myeloma. It is not suitable for everyone and carries specific risks. Eligibility depends on cancer type, previous treatment, overall health, and specialist review by a qualified cell-therapy team.</p>" }
+          ]
+        },
+        {
+          "title": "Practical Questions for International Patients",
+          "items": [
+            { "q": "What medical reports are needed for a blood cancer diagnosis or second opinion?", "a": "<p>A blood cancer evaluation or second opinion usually requires recent blood test results including a complete blood count, bone marrow or lymph node biopsy reports, and pathology findings confirming the cancer type. Imaging such as PET, CT, or MRI scans, along with any genetic or flow cytometry testing, is often needed for staging. A summary of previous treatments is also helpful. Exact requirements vary by hospital and should be confirmed with the treating center.</p>" },
+            { "q": "How can international patients access blood cancer treatment abroad?", "a": "<p>International access to blood cancer treatment usually begins with sending medical records and pathology reports to a hospital abroad for review, since each center sets its own eligibility and admission criteria. If accepted, patients then arrange visas, travel, accommodation, and follow-up care. Access to advanced options like CAR T-cell therapy or transplant may depend on donor availability and specialist assessment. Hospital acceptance, visa approval, and treatment timelines are never guaranteed and depend on individual review.</p>" },
+            { "q": "How does CancerFax help patients with blood cancer such as leukemia, lymphoma, and myeloma?", "a": "<p>CancerFax helps patients with leukemia, lymphoma, and myeloma organize their medical reports, identify relevant specialists, hospitals, or clinical trials for their specific diagnosis, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Final treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, subtype, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace the treating medical team or guarantee treatment access or outcomes.</p>" }
+          ]
+        }
+      ]
+    },
+    "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+    "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+  },
+  {
+    "pillar": "AML treatment guide: induction, consolidation, and when is transplant needed?",
+    "contentType": "⚠ VERIFY",
+    "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+    "slug": "⚠ VERIFY: aml-treatment-guide-induction-consolidation-and-when-is-transplant-needed",
+    "route": "⚠ VERIFY: /<section>/aml-treatment-guide-induction-consolidation-and-when-is-transplant-needed",
+    "section": {
+      "type": "faq",
+      "id": "faq",
+      "h2": "Frequently Asked Questions About AML Treatment: Induction, Consolidation, and Transplant",
+      "intro": "Common questions from patients and families researching acute myeloid leukemia (AML) treatment, including induction and consolidation chemotherapy and when a stem cell transplant may be needed.",
+      "groups": [
+        {
+          "title": "Understanding AML and Its Treatment Phases",
+          "items": [
+            { "q": "What is acute myeloid leukemia (AML)?", "a": "<p>Acute myeloid leukemia (AML) is a fast-growing blood and bone marrow cancer in which immature white blood cells, called blasts, multiply abnormally and crowd out healthy blood cells. This can cause anemia, infections, and easy bleeding, and it usually requires prompt treatment. AML is diagnosed through blood tests, a bone marrow biopsy, and genetic testing, and its subtype and molecular markers guide the treatment plan chosen by the hematology team.</p>" },
+            { "q": "What are the main phases of AML treatment?", "a": "<p>AML treatment is usually delivered in two main phases: induction, which aims to clear leukemia cells and achieve remission, followed by consolidation, which targets remaining hidden cells to prevent relapse. Some patients also receive a stem cell transplant or maintenance therapy depending on their risk. The exact sequence depends on AML subtype, genetic markers, age, and overall fitness, and is decided by the treating hematology team.</p>" },
+            { "q": "What does remission mean in AML treatment?", "a": "<p>Complete remission in AML means no leukemia blasts are detectable in the blood, bone marrow blast levels have returned to normal, and blood counts have recovered. Remission does not always mean the leukemia is permanently gone, since hidden cells can remain, which is why consolidation therapy often follows. Doctors may also test for measurable residual disease to guide further treatment. Remission status should always be confirmed by the treating hematology team.</p>" },
+            { "q": "How do doctors decide which AML treatment is right for a patient?", "a": "<p>AML treatment decisions depend on risk stratification, which combines chromosome (cytogenetic) findings with molecular markers such as FLT3, NPM1, IDH, and TP53, along with the patient's age and overall health. These factors group AML into favorable, intermediate, or adverse risk, which influences whether standard chemotherapy, targeted drugs, or a stem cell transplant may be considered. Final treatment decisions should be made by the treating hematology team after full review.</p>" }
+          ]
+        },
+        {
+          "title": "Induction and Consolidation Therapy",
+          "items": [
+            { "q": "What is induction chemotherapy for AML?", "a": "<p>Induction chemotherapy is the first, intensive phase of AML treatment, aimed at rapidly clearing leukemia blasts from the blood and bone marrow to achieve remission. It often requires a hospital stay of several weeks while blood counts recover and infections are managed. Induction produces remission in many patients for whom it is appropriate, but suitability depends on age, fitness, and AML subtype, as assessed by the treating hematology team.</p>" },
+            { "q": "What is the 7+3 chemotherapy regimen?", "a": "<p>The 7+3 regimen is a standard intensive induction treatment for AML, combining seven days of continuous cytarabine with three days of an anthracycline drug such as daunorubicin or idarubicin. It has been a mainstay of AML therapy for decades and aims to bring the bone marrow into remission. It is generally used for fitter patients, and whether it suits a particular case depends on age, health, and specialist review.</p>" },
+            { "q": "What is consolidation therapy for AML?", "a": "<p>Consolidation therapy is the phase that follows remission, designed to destroy any remaining hidden leukemia cells and reduce the risk of relapse. It may involve higher-dose cytarabine chemotherapy, further cycles of targeted drugs, or an allogeneic stem cell transplant, depending on the patient's relapse risk. Patients with higher-risk AML often receive more intensive consolidation. The exact approach depends on risk group, fitness, and decisions made by the treating hematology team.</p>" },
+            { "q": "Are there targeted therapies for AML?", "a": "<p>Yes, several targeted therapies are now used for AML depending on its molecular markers. FLT3 inhibitors such as midostaurin or gilteritinib may be added for FLT3-mutated AML, IDH inhibitors for IDH-mutated disease, and venetoclax combined with a hypomethylating agent like azacitidine is often used for older or less fit patients. Eligibility depends on genetic testing, age, and overall health, and should be decided by the treating hematology team.</p>" }
+          ]
+        },
+        {
+          "title": "Stem Cell Transplant and When It Is Needed",
+          "items": [
+            { "q": "What is an allogeneic stem cell transplant for AML?", "a": "<p>An allogeneic stem cell transplant replaces a patient's diseased bone marrow with healthy blood-forming stem cells from a matched donor, usually after high-dose chemotherapy. The donated immune cells can also help fight remaining leukemia, an effect called graft-versus-leukemia. It is a demanding procedure with significant risks, including graft-versus-host disease and infection. Whether it is suitable depends on AML risk, donor availability, age, and fitness, as judged by the transplant team.</p>" },
+            { "q": "When is a stem cell transplant needed for AML?", "a": "<p>A stem cell transplant may be considered for AML when the risk of relapse with chemotherapy alone is high, such as in intermediate- or adverse-risk disease based on cytogenetics and mutations like FLT3-ITD. It is often recommended in first complete remission for higher-risk patients and after relapse. Favorable-risk patients may not need one. The decision depends on risk stratification, donor availability, and specialist review by the treating team.</p>" },
+            { "q": "Who is eligible for a stem cell transplant?", "a": "<p>Eligibility for an allogeneic stem cell transplant depends on the patient's age, overall fitness, organ function, AML risk group, and the availability of a suitably matched donor. Younger, fitter patients generally tolerate the procedure better, but reduced-intensity conditioning has made transplant possible for some older patients. A matched sibling, unrelated, or haploidentical donor may be used. Final eligibility is determined by the transplant team after detailed medical and donor assessment.</p>" },
+            { "q": "Is a transplant needed for relapsed or refractory AML?", "a": "<p>For relapsed or refractory AML, an allogeneic stem cell transplant is often considered the main option offering a chance of long-term control, usually after further chemotherapy to bring the disease back into remission. Targeted drugs or clinical trials may also be used to achieve a response before transplant. Suitability depends on the patient's fitness, donor availability, and how the leukemia responds to re-treatment, as assessed by the treating hematology team.</p>" }
+          ]
+        },
+        {
+          "title": "Cost, Access, and Countries",
+          "items": [
+            { "q": "How much does AML treatment cost?", "a": "<p>The cost of AML treatment varies widely depending on the country, hospital, AML subtype, drugs used, length of hospital stay, and whether a stem cell transplant or targeted therapy is required. Intensive induction, prolonged hospitalization, supportive care, and transplant all add substantially to the total. Because costs differ greatly between centers and individual cases, patients should request a personalized estimate from the treating hospital rather than relying on fixed figures.</p>" },
+            { "q": "How much does a stem cell transplant for AML cost in India?", "a": "<p>An allogeneic stem cell transplant for AML in India is often estimated in the range of roughly ₹15–35 lakh, though the final cost depends on the hospital, donor type, complications, length of stay, and supportive care needed. India is frequently more affordable than many Western countries, which draws international patients. These figures are estimates only, and patients should confirm a personalized cost estimate directly with the treating transplant center.</p>" },
+            { "q": "Which countries offer advanced AML treatment and transplant?", "a": "<p>Advanced AML treatment and allogeneic stem cell transplantation are available in many countries with established hematology and transplant centers, including India, the United States, several European nations, Singapore, Turkey, and others. India is a common destination for international patients seeking transplant care at comparatively lower cost. Availability, waiting times, and donor access vary between centers, so patients should confirm current options and admission criteria directly with the treating hospital.</p>" }
+          ]
+        },
+        {
+          "title": "Practical Questions for International Patients",
+          "items": [
+            { "q": "What medical reports are needed to plan AML treatment abroad?", "a": "<p>Planning AML treatment abroad usually requires recent blood counts, a bone marrow biopsy report, cytogenetic and molecular test results such as FLT3, NPM1, and IDH status, and a summary of any previous chemotherapy or treatment. Details of overall health, organ function, and prior transplant assessment may also be requested. Exact document requirements vary by hospital, so patients should confirm the full checklist with the treating center before travel.</p>" },
+            { "q": "How can international patients access AML treatment and transplant abroad?", "a": "<p>International patients can access AML treatment abroad by first sending their medical records for review, since each hospital sets its own eligibility and admission criteria. If accepted, they arrange visa approval, travel, accommodation, and donor coordination where a transplant is planned. Because AML can progress quickly, timely record review and planning are important. Acceptance, visa approval, and treatment timelines are never guaranteed and depend on the hospital's assessment and each country's requirements.</p>" },
+            { "q": "How does CancerFax help patients with AML treatment?", "a": "<p>CancerFax helps patients organize medical reports, identify hematology and transplant centers experienced in AML, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Final treatment decisions, including whether induction, consolidation, targeted therapy, or a stem cell transplant is suitable, are always made by the treating hematology team after reviewing the patient's diagnosis, genetic markers, previous treatment, and overall health. CancerFax does not replace the treating team or guarantee outcomes.</p>" }
+          ]
+        }
+      ]
+    },
+    "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+    "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+  }
+];
+
+let PAGES = {};                        // { "<cleanSlug>": pageObject }
+const loadErrors = [];                 // [{name, reason}]
+const dupes = {};                      // slug -> true when a load overwrote an existing page
+function addPage(page, sourceName) {
+  if (!page || !isFaqShape(page)) { loadErrors.push({ name: sourceName, reason: "not a FAQ fixture" }); return false; }
+  const key = cleanSlug(page.slug).value || (getSection(page).h2 || sourceName);
+  if (PAGES[key]) dupes[key] = true;
+  PAGES[key] = page; return true;
+}
+function loadBaked() { BAKED.forEach((p, i) => addPage(p, `baked[${i}]`)); }
+async function ingestFiles(fileList) {
+  const before = loadErrors.length;
+  for (const f of fileList) {
+    try { addPage(JSON.parse(await f.text()), f.name); }
+    catch { loadErrors.push({ name: f.name, reason: "invalid JSON" }); }
+  }
+  renderAll();
+  if (loadErrors.length > before) {
+    const skipped = loadErrors.slice(before);
+    toast(`Skipped ${skipped.length} file${skipped.length===1?"":"s"}: ` +
+      skipped.map(e => `${esc(e.name)} (${e.reason})`).join(", "), true);
+  }
+}
+
+/* ===== UI STATE ===== */
+let SELECTED = null;
+let FILTER = "all";
+let QUERY = "";
+let EDITING = false;
+
+/* ===== RENDER_SIDEBAR ===== */
+function matchesFilter(key) {
+  const p = PAGES[key], r = reviewFor(key);
+  if (QUERY && !getSection(p).h2.toLowerCase().includes(QUERY.toLowerCase())) return false;
+  switch (FILTER) {
+    case "pending": return r.status === "pending";
+    case "approved": return r.status === "approved";
+    case "needs-work": return r.status === "needs-work";
+    case "verify": return pageVerifyFlags(p) > 0;
+    default: return true;
+  }
+}
+const FILTER_DEFS = [
+  { id: "all", label: "All" },
+  { id: "pending", label: "Pending" },
+  { id: "verify", label: "⚠ VERIFY" },
+  { id: "needs-work", label: "Needs work" },
+  { id: "approved", label: "Approved" },
+];
+function filterCount(id) {
+  const keys = Object.keys(PAGES);
+  if (id === "all") return keys.length;
+  if (id === "verify") return keys.filter(k => pageVerifyFlags(PAGES[k]) > 0).length;
+  return keys.filter(k => reviewFor(k).status === id).length;
+}
+function statusChip(key) {
+  const p = PAGES[key], r = reviewFor(key), vf = pageVerifyFlags(p);
+  if (vf > 0 && r.status === "pending") return `<span class="chip c-verify" title="${vf} field(s) need verification">⚠ ${vf}</span>`;
+  if (r.status === "approved") return `<span class="chip c-ok">approved</span>`;
+  if (r.status === "needs-work") return `<span class="chip c-work">needs work</span>`;
+  return `<span class="chip c-pend">pending</span>`;
+}
+function renderSidebar() {
+  const filtersEl = document.getElementById("filters");
+  filtersEl.innerHTML = FILTER_DEFS.map(f =>
+    `<button class="pill ${FILTER === f.id ? "on" : ""}" data-filter="${f.id}">${f.label} <span class="n">(${filterCount(f.id)})</span></button>`
+  ).join("");
+  filtersEl.querySelectorAll(".pill").forEach(el =>
+    el.addEventListener("click", () => { FILTER = el.dataset.filter; renderSidebar(); }));
+
+  const listEl = document.getElementById("list");
+  const keys = Object.keys(PAGES).filter(matchesFilter);
+  if (Object.keys(PAGES).length === 0) {
+    listEl.innerHTML = `<div class="sidebar-empty">No pages loaded yet.<br>Drop <code>output/faq/*.json</code> to begin.</div>`;
+    return;
+  }
+  if (keys.length === 0) {
+    listEl.innerHTML = `<div class="sidebar-empty">No pages match this filter or search.</div>`;
+    return;
+  }
+  listEl.innerHTML = keys.map(key => {
+    const p = PAGES[key], s = getSection(p);
+    const dup = dupes[key] ? ` · <span class="dup">reloaded</span>` : "";
+    return `<div class="li ${key === SELECTED ? "active" : ""}" data-key="${esc(key)}" tabindex="0" role="button">
+      <div><div class="t">${esc(s.h2)}</div>
+      <div class="sub">${esc(p.pillar || "—")} · ${faqCount(p)} FAQs${dup}</div></div>
+      ${statusChip(key)}</div>`;
+  }).join("");
+  listEl.querySelectorAll(".li").forEach(el => {
+    const select = () => { SELECTED = el.dataset.key; EDITING = false; renderSidebar(); renderDetail(); };
+    el.addEventListener("click", select);
+    el.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); select(); } });
+  });
+}
+
+/* ===== RENDER_DETAIL ===== */
+function verifyField(label, raw, editKey, r) {
+  const c = cleanSlug(raw), edited = r.edits[editKey];
+  if (EDITING) {
+    return `<label class="vedit"><span>${label}</span>
+      <input class="vinput" data-vk="${editKey}" value="${esc(edited || c.value)}" spellcheck="false"></label>`;
+  }
+  if (edited) return `<span class="verify resolved">✓ ${label}: <code>${esc(edited)}</code></span>`;
+  if (c.needsVerify) return `<span class="verify">⚠ VERIFY ${label}: <code>${esc(c.value)}</code></span>`;
+  return `<span class="verify ok">${label}: <code>${esc(c.value)}</code></span>`;
+}
+function renderDetail() {
+  const main = document.getElementById("detail");
+  if (Object.keys(PAGES).length === 0) {
+    main.innerHTML = `<div class="placeholder"><div class="glyph">⤓</div>
+      <div class="big">Drop your <code>output/faq/*.json</code> files here</div>
+      <div>Use the “Drop JSON files” button or drag files anywhere onto this window.</div></div>`;
+    return;
+  }
+  if (!SELECTED || !PAGES[SELECTED]) {
+    main.innerHTML = `<div class="placeholder"><div class="glyph">◧</div>
+      <div class="big">Select a page to review</div></div>`;
+    return;
+  }
+  const p = PAGES[SELECTED], s = getSection(p), r = reviewFor(SELECTED);
+  const groups = s.groups || [];
+
+  const groupsHtml = groups.map((g, gi) => {
+    const items = (g.items || []).map((it, ii) => {
+      const k = gi + "." + ii, edited = r.edits.answers[k];
+      const body = EDITING
+        ? `<textarea class="a-edit" data-k="${k}" aria-label="Answer">${esc(edited != null ? edited : it.a)}</textarea>`
+        : `<div class="a">${edited != null ? ensureP(edited) : it.a}</div>`;
+      return `<div class="qa"><div class="q">${esc(it.q)}</div>${body}</div>`;
+    }).join("");
+    return `<div class="grp">${esc(g.title || "Group " + (gi + 1))}</div>${items}`;
+  }).join("");
+
+  main.innerHTML = `<div class="detail-wrap">
+    <div class="phead">
+      <div class="phead-l">
+        <h1 class="ptitle">${esc(s.h2)}</h1>
+        <div class="meta">
+          <span><b>${esc(p.pillar || "—")}</b></span><span class="sep">·</span>
+          <span>Content type: ${esc(p.contentType || "—")}</span><span class="sep">·</span>
+          <span>${faqCount(p)} FAQs / ${groups.length} groups</span>
+        </div>
+        <div class="meta verify-row">
+          ${verifyField("slug", p.slug, "slug", r)}
+          ${verifyField("route", p.route, "route", r)}
+        </div>
+      </div>
+      <div class="statussel">
+        <button class="btn st-ok ${r.status === "approved" ? "on" : ""}" id="btnApprove">✓ Approve</button>
+        <button class="btn st-work ${r.status === "needs-work" ? "on" : ""}" id="btnWork">Needs work</button>
+      </div>
+    </div>
+    <div class="groups">${groupsHtml}</div>
+    <div class="disclaimer"><b>Medical disclaimer</b><br>${esc(p.medicalDisclaimer || "")}</div>
+    <div class="actions">
+      <button class="btn" id="btnEdit">${EDITING ? "✓ Done editing" : "✎ Edit answers & slug"}</button>
+      <button class="btn" id="btnCopy">⧉ Copy corrected JSON</button>
+      <input class="notes" id="noteInput" placeholder="Reviewer note (saved with your decision)…" value="${esc(r.note)}">
+    </div></div>`;
+
+  // ----- wire detail actions -----
+  const setStatus = st => {
+    r.status = (r.status === st ? "pending" : st); // click again clears back to pending
+    persist(); renderSidebar(); renderProgress(); renderDetail();
+  };
+  main.querySelector("#btnApprove").addEventListener("click", () => setStatus("approved"));
+  main.querySelector("#btnWork").addEventListener("click", () => setStatus("needs-work"));
+  main.querySelector("#btnEdit").addEventListener("click", () => { EDITING = !EDITING; renderDetail(); });
+  main.querySelector("#btnCopy").addEventListener("click", copyPage);
+  main.querySelector("#noteInput").addEventListener("input", e => { r.note = e.target.value; persist(); });
+  main.querySelectorAll(".a-edit").forEach(t =>
+    t.addEventListener("input", e => { r.edits.answers[t.dataset.k] = e.target.value; persist(); }));
+  main.querySelectorAll(".vinput").forEach(inp =>
+    inp.addEventListener("input", e => { r.edits[inp.dataset.vk] = e.target.value; persist(); renderSidebar(); }));
+}
+
+/* ===== EDITOR — applyEdits overlay (never mutates PAGES) ===== */
+function applyEdits(page, key) {
+  const r = reviewFor(key), out = JSON.parse(JSON.stringify(page));
+  const sec = out.sectionToMerge || out.section;
+  (sec.groups || []).forEach((g, gi) => (g.items || []).forEach((it, ii) => {
+    const e = r.edits.answers[gi + "." + ii]; if (e != null) it.a = ensureP(e);
+  }));
+  if (r.edits.slug)  out.slug  = r.edits.slug;   // resolved value replaces the ⚠ VERIFY string
+  if (r.edits.route) out.route = r.edits.route;
+  return out;
+}
+
+/* ===== EXPORT + COPY ===== */
+function copyPage() {
+  const txt = JSON.stringify(applyEdits(PAGES[SELECTED], SELECTED), null, 2);
+  const done = () => toast("Copied corrected JSON to clipboard");
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(txt).then(done).catch(() => fallbackCopy(txt, done));
+  } else fallbackCopy(txt, done);
+}
+function fallbackCopy(txt, done) {
+  const ta = document.createElement("textarea");
+  ta.value = txt; ta.style.position = "fixed"; ta.style.opacity = "0";
+  document.body.appendChild(ta); ta.select();
+  try { document.execCommand("copy"); done(); } catch { toast("Copy failed — clipboard is blocked", true); }
+  document.body.removeChild(ta);
+}
+function buildExport() {
+  return Object.keys(PAGES).map(key => {
+    const r = reviewFor(key);
+    return { slug: key, status: r.status, note: r.note, correctedFixture: applyEdits(PAGES[key], key) };
+  });
+}
+function doExport() {
+  if (Object.keys(PAGES).length === 0) { toast("Nothing to export — load some pages first", true); return; }
+  const blob = new Blob([JSON.stringify(buildExport(), null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = "faq-review-decisions.json";
+  document.body.appendChild(a); a.click(); a.remove();
+  URL.revokeObjectURL(url);
+  toast("Exported faq-review-decisions.json");
+}
+
+/* ===== PROGRESS BOARD ===== */
+function renderProgress() {
+  const keys = Object.keys(PAGES), total = keys.length;
+  let approved = 0, needsWork = 0, pending = 0, verify = 0;
+  keys.forEach(k => {
+    const st = reviewFor(k).status;
+    if (st === "approved") approved++; else if (st === "needs-work") needsWork++; else pending++;
+    if (pageVerifyFlags(PAGES[k]) > 0) verify++;
+  });
+  const pct = n => total ? (n / total * 100) : 0;
+  document.getElementById("srcLabel").textContent = `output/faq · ${total} page${total === 1 ? "" : "s"} loaded`;
+  document.getElementById("progress").innerHTML = `
+    <div class="pbar" role="img" aria-label="${approved} approved, ${needsWork} needs work, ${pending} pending of ${total}">
+      <i style="width:${pct(approved)}%;background:var(--green)"></i>
+      <i style="width:${pct(needsWork)}%;background:var(--red)"></i>
+      <i style="width:${pct(pending)}%;background:var(--pending-bar)"></i>
+    </div>
+    <div class="pstats">
+      <span><span class="dot" style="background:var(--green)"></span>${approved} approved</span>
+      <span><span class="dot" style="background:var(--red)"></span>${needsWork} needs work</span>
+      <span><span class="dot" style="background:var(--pending-bar)"></span>${pending} pending</span>
+      <span><span class="dot" style="background:var(--amber-line)"></span>${verify} with VERIFY</span>
+    </div>`;
+}
+
+/* ===== Toast ===== */
+let toastTimer = null;
+function toast(msg, warn) {
+  const el = document.getElementById("toast");
+  el.innerHTML = warn ? `<span class="warn">⚠</span> ${msg}` : msg;
+  el.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => el.classList.remove("show"), 4200);
+}
+
+/* ===== BOOT ===== */
+function renderAll() {
+  if (!PAGES[SELECTED]) SELECTED = Object.keys(PAGES)[0] || null;
+  renderSidebar(); renderDetail(); renderProgress();
+}
+function BOOT() {
+  // theme toggle (works with the Artifact viewer's data-theme mechanism)
+  document.getElementById("themeBtn").addEventListener("click", () => {
+    const cur = document.documentElement.getAttribute("data-theme");
+    const isDark = cur ? cur === "dark"
+      : matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.setAttribute("data-theme", isDark ? "light" : "dark");
+  });
+
+  // file picker
+  const fileInput = document.getElementById("fileInput");
+  document.getElementById("dropBtn").addEventListener("click", () => fileInput.click());
+  fileInput.addEventListener("change", e => { ingestFiles(e.target.files); fileInput.value = ""; });
+
+  // whole-window drag / drop
+  let dragDepth = 0;
+  window.addEventListener("dragover", e => { e.preventDefault(); });
+  window.addEventListener("dragenter", e => { e.preventDefault(); dragDepth++; document.body.classList.add("dragging"); });
+  window.addEventListener("dragleave", e => { e.preventDefault(); if (--dragDepth <= 0) document.body.classList.remove("dragging"); });
+  window.addEventListener("drop", e => {
+    e.preventDefault(); dragDepth = 0; document.body.classList.remove("dragging");
+    if (e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files.length) ingestFiles(e.dataTransfer.files);
+  });
+
+  document.getElementById("exportBtn").addEventListener("click", doExport);
+
+  const search = document.getElementById("search");
+  search.addEventListener("input", () => { QUERY = search.value; renderSidebar(); });
+
+  // boot sequence
+  loadReview();
+  loadBaked();
+  renderAll();
+}
+BOOT();
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+
+# env
+.env
+.env.local
+.env*.local
+
+# build / cache
+dist/
+*.tsbuildinfo
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# os
+.DS_Store
+
+# brainstorm scratchpad (visual-companion mockups)
+.superpowers/

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "source": "bytedance/deer-flow",
+      "sourceType": "github",
+      "skillPath": "skills/public/find-skills/SKILL.md",
+      "computedHash": "202da6ad9e3c65949fa70371e89b1f55a1f5bd6d11b20b4491af17de495a0caf"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "b0f78bc58cc5a3ac68afdf6f2de214e147b09a3f8686447cb3804a921fa198c2"
+    }
+  }
+}

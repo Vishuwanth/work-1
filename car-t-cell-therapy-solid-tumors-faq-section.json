@@ -1,0 +1,105 @@
+{
+  "type": "faq",
+  "id": "faq",
+  "h2": "Frequently Asked Questions About CAR T-Cell Therapy for Solid Tumors",
+  "intro": "Common questions from patients and families exploring CAR T-cell therapy options for solid tumors, including how it works, eligibility, safety, cost, and access.",
+  "groups": [
+    {
+      "title": "Understanding CAR T-Cell Therapy for Solid Tumors",
+      "items": [
+        {
+          "q": "What is CAR T-cell therapy for solid tumors?",
+          "a": "<p>CAR T-cell therapy for solid tumors uses a patient's own genetically engineered T-cells to recognize and attack proteins found on tumors such as gastric, pancreatic, or neuroblastoma cancers. Unlike CAR T-cell therapy for blood cancers, which has multiple approved products, solid tumor CAR-T remains largely investigational, with one approved therapy so far. Suitability depends on cancer type, biomarker expression, prior treatments, overall health, and review by a qualified oncology team before any decision is made.</p>"
+        },
+        {
+          "q": "How does CAR T-cell therapy work against solid tumors?",
+          "a": "<p>CAR T-cell therapy works by collecting a patient's T-cells, engineering them in a lab to carry a receptor that targets a specific tumor antigen, then returning them to the body after conditioning chemotherapy. In solid tumors, these modified cells must also penetrate dense tumor tissue and overcome an immune-suppressive microenvironment, which is harder than in blood cancers. Whether this approach is appropriate depends on tumor biology, antigen expression, and assessment by a specialist oncology team.</p>"
+        },
+        {
+          "q": "Why is CAR T-cell therapy harder to use in solid tumors than in blood cancers?",
+          "a": "<p>CAR T-cell therapy is harder in solid tumors because tumor cells sit inside dense tissue with a hostile immune environment that can block T-cells from reaching or surviving near the cancer. Blood cancer cells circulate freely and are easier for engineered T-cells to find. Solid tumors also show more antigen variation between cells, which can let some cancer cells escape detection. These biological differences are why fewer CAR T-cell products are approved for solid tumors so far.</p>"
+        },
+        {
+          "q": "Which solid tumors are being targeted with CAR T-cell therapy?",
+          "a": "<p>CAR T-cell therapy is being studied or used in solid tumors including gastric and gastroesophageal junction cancer, pancreatic cancer, neuroblastoma, melanoma, mesothelioma, and select HER2-positive or PSMA-positive tumors. Target antigens under investigation include Claudin18.2, GD2, HER2, mesothelin, EGFRvIII, and MUC16. Most of this research remains in clinical trials, and only Claudin18.2-targeted therapy for gastric cancer has received regulatory approval so far. Suitability depends on confirmed antigen expression and specialist evaluation.</p>"
+        },
+        {
+          "q": "Is there an approved CAR T-cell therapy for solid tumors?",
+          "a": "<p>Yes, one CAR T-cell therapy for solid tumors has received regulatory approval. Satricabtagene autoleucel (satri-cel), a Claudin18.2-targeted CAR T-cell product, was approved by China's National Medical Products Administration in 2026 for Claudin18.2-positive, HER2-negative advanced gastric or gastroesophageal junction cancer after at least two prior treatment lines. It is considered the world's first approved CAR T-cell therapy for a solid tumor. Most other solid tumor CAR-T approaches remain available only through clinical trials.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Eligibility, Process, and Safety",
+      "items": [
+        {
+          "q": "Who is eligible for CAR T-cell therapy for solid tumors?",
+          "a": "<p>Eligibility for CAR T-cell therapy in solid tumors depends on confirmed expression of the target antigen on the tumor, cancer type and stage, prior treatments received, and overall organ function and fitness to tolerate conditioning chemotherapy and possible immune side effects. Patients typically need to stay near the treatment center for weeks after infusion for monitoring. Because criteria vary by product and trial, eligibility should always be confirmed through review by the treating oncology team.</p>"
+        },
+        {
+          "q": "What tests are needed to check eligibility for CAR T-cell therapy?",
+          "a": "<p>Eligibility for CAR T-cell therapy typically requires biopsy or pathology confirmation of the tumor type, biomarker testing to confirm target antigen expression such as Claudin18.2 or GD2, recent imaging to assess disease extent, blood counts, and organ function tests including heart, liver, and kidney function. A record of prior treatments and current performance status is also needed. The treating specialist and manufacturing center review these reports before confirming eligibility for a specific therapy.</p>"
+        },
+        {
+          "q": "How does the CAR T-cell therapy process work, step by step?",
+          "a": "<p>The CAR T-cell therapy process begins with leukapheresis, a procedure that collects T-cells from the patient's blood, followed by several weeks of laboratory engineering to insert the targeting receptor. Patients then receive short-course lymphodepleting chemotherapy to prepare the body, followed by infusion of the modified cells. Close monitoring for reactions such as cytokine release syndrome continues for at least two to four weeks, with the full process typically taking four to eight weeks overall.</p>"
+        },
+        {
+          "q": "What are the risks and side effects of CAR T-cell therapy for solid tumors?",
+          "a": "<p>The main risks of CAR T-cell therapy include cytokine release syndrome, which can cause fever, low blood pressure, and organ stress, and neurotoxicity, which may affect thinking or coordination. Solid tumor CAR-T also carries a risk of on-target, off-tumor toxicity if the targeted antigen appears on healthy tissue. These effects are usually managed with medications such as tocilizumab or corticosteroids under close monitoring. Risk levels vary by product and patient, and should be discussed with the treating team.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Cost, Access, and Countries",
+      "items": [
+        {
+          "q": "Which countries offer CAR T-cell therapy for solid tumors?",
+          "a": "<p>China currently leads access to CAR T-cell therapy for solid tumors, home to the first approved product and numerous active clinical trials for cancers such as gastric, pancreatic, and gastrointestinal tumors. The United States and parts of Europe also run solid tumor CAR-T trials, mainly for antigens like GD2, HER2, and mesothelin. Availability changes frequently as trials open and close, so current access should always be confirmed with the specific hospital or trial site.</p>"
+        },
+        {
+          "q": "Is CAR T-cell therapy for solid tumors available in India?",
+          "a": "<p>CAR T-cell therapy for solid tumors is not yet widely available within India, where cell therapy programs are still developing and mainly focused on blood cancers. Patients from India seeking solid tumor CAR-T access typically look toward countries such as China, where trial infrastructure and the first approved solid tumor CAR-T product exist. Access from India depends on medical eligibility, hospital acceptance abroad, biomarker testing, and coordination with the receiving treatment center.</p>"
+        },
+        {
+          "q": "How much does CAR T-cell therapy for solid tumors cost?",
+          "a": "<p>Reliable fixed pricing for CAR T-cell therapy in solid tumors is not widely published because most treatment is delivered through clinical trials, which can reduce direct costs but do not guarantee free access. Where commercial or compassionate access exists, costs can run into tens of thousands of dollars or more depending on the product, hospital, and country. Final cost always depends on diagnostics, treatment protocol, hospital stay, and complications, and should be confirmed directly with the treating center.</p>"
+        },
+        {
+          "q": "How can international patients access CAR T-cell therapy for solid tumors abroad?",
+          "a": "<p>International patients typically start by sending medical reports, pathology, and biomarker results for review by a specialist team to check whether a suitable CAR T-cell therapy or trial exists for their tumor type. If a potential match is identified, the process involves hospital or trial-site evaluation, visa and travel planning, and coordination of leukapheresis and treatment scheduling. Access always depends on medical eligibility, biomarker confirmation, hospital acceptance, and visa approval, none of which can be guaranteed in advance.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Clinical Trials and Advanced Options",
+      "items": [
+        {
+          "q": "How do clinical trials for CAR T-cell therapy in solid tumors work?",
+          "a": "<p>Clinical trials for CAR T-cell therapy in solid tumors test new antigen targets, CAR designs, or combination approaches under strict protocols with defined inclusion and exclusion criteria. Enrollment requires submission of medical records, pathology, and biomarker testing, followed by investigator review to confirm eligibility. Trials do not guarantee enrollment or clinical benefit, and patients may be excluded based on prior treatment, organ function, or disease characteristics. Interested patients should discuss trial options with their oncology team.</p>"
+        },
+        {
+          "q": "What is GD2-targeted CAR T-cell therapy used for?",
+          "a": "<p>GD2-targeted CAR T-cell therapy is an investigational approach studied mainly in neuroblastoma, a childhood cancer, and in some GD2-positive tumors such as melanoma. Clinical trial data have shown meaningful response rates in relapsed or refractory neuroblastoma, though treatment can cause neurotoxicity that requires careful monitoring and, in some trial designs, a built-in safety switch. GD2-targeted CAR-T remains available only through clinical trials, and eligibility depends on confirmed GD2 expression and investigator assessment.</p>"
+        },
+        {
+          "q": "What is Claudin18.2 CAR T-cell therapy (satricabtagene autoleucel)?",
+          "a": "<p>Claudin18.2 CAR T-cell therapy, known as satricabtagene autoleucel or satri-cel, targets the Claudin18.2 protein found on some gastric and gastroesophageal junction cancer cells. It became the first CAR T-cell therapy approved for a solid tumor after trial data showed improved progression-free survival compared with standard treatment in previously treated, Claudin18.2-positive, HER2-negative patients. Eligibility requires confirmed biomarker testing and specialist review, and treatment carries risks such as cytokine release syndrome that require monitoring.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Practical Questions for International Patients",
+      "items": [
+        {
+          "q": "What medical reports are needed before starting the CAR T-cell therapy evaluation process?",
+          "a": "<p>A CAR T-cell therapy evaluation for a solid tumor generally requires pathology and biopsy reports confirming diagnosis, biomarker or immunohistochemistry results showing target antigen status, recent CT, MRI, or PET imaging, a full treatment history, and current blood and organ function tests. Having these reports organized in English, where possible, helps specialists assess eligibility faster. A specialist team reviews all reports before advising whether any approved therapy or clinical trial may be appropriate.</p>"
+        },
+        {
+          "q": "How does CancerFax help patients access CAR T-cell therapy for solid tumors?",
+          "a": "<p>CancerFax helps patients organize medical reports, biomarker and pathology results, identify hospitals or clinical trials that may be relevant to their tumor type, and estimate possible costs. The team also coordinates second opinions, appointment scheduling, travel, visa, and follow-up support alongside the patient's treating oncology team. CancerFax does not make treatment decisions or guarantee trial enrollment, hospital acceptance, or outcomes — these are determined by the treating specialists after full case review.</p>"
+        }
+      ]
+    }
+  ]
+}
