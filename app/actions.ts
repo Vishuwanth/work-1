@@ -68,6 +68,11 @@ export async function getFixture(slug: string): Promise<Fixture | null> {
   return done?.fixture ?? null;
 }
 
+/** The persisted review record for a slug (or a fresh pending default). */
+export async function getReview(slug: string): Promise<ReviewRecord> {
+  return recordFor(readTracker(), slug);
+}
+
 /** Merge a patch into the slug's tracker record (edits shallow-merged) and persist. */
 export async function saveReview(slug: string, patch: Partial<ReviewRecord>): Promise<void> {
   const tracker = readTracker();
