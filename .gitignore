@@ -25,3 +25,6 @@ __pycache__/
 
 # brainstorm scratchpad (visual-companion mockups)
 .superpowers/
+
+# agent tooling (not part of the app)
+.agents/
