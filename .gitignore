@@ -48,3 +48,7 @@ __pycache__/
 
 # agent tooling (not part of the app)
 .agents/
+
+# runtime review state (local, changes constantly)
+output/faq/tracker.json
+output/faq/toggles.json
