@@ -26,10 +26,10 @@ from pathlib import Path
 import openpyxl
 
 HERE = Path(__file__).resolve().parent
-PROMPT_PATH = HERE / "faq-generation-prompt.md"
-DEFAULT_XLSX = HERE / "CancerFax_Content_Architecture_1.xlsx"
+PROMPT_PATH = HERE.parent / "docs" / "prompts" / "faq-generation-prompt.md"
+DEFAULT_XLSX = HERE.parent / "docs" / "source" / "CancerFax_Content_Architecture_1.xlsx"
 DEFAULT_SHEET = "All 300 Pages"
-DEFAULT_OUT = HERE / "output" / "faq"
+DEFAULT_OUT = HERE.parent / "output" / "faq" / "raw"
 DEFAULT_MODEL = "claude-opus-4-8"
 
 MEDICAL_DISCLAIMER = (
