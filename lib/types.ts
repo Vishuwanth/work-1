@@ -58,6 +58,7 @@ export interface ReviewRecord {
   };
   reviewedAt?: string;
   movedAt?: string;
+  generatedAt?: string;
 }
 
 /** UI toggles persisted in toggles.json. */
