@@ -267,7 +267,9 @@ export function RowsTable({ views, onOpen, onGenerate }: RowsTableProps) {
             {rows.length === 0 ? (
               <TableRow>
                 <TableCell colSpan={cols.length} className="h-32 text-center text-muted-foreground">
-                  No rows match the current filters.
+                  {views.length === 0
+                    ? "No content rows found — check docs/source/…xlsx"
+                    : "No rows match your filters"}
                 </TableCell>
               </TableRow>
             ) : (

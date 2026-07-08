@@ -6,7 +6,7 @@ import { revalidatePath } from "next/cache";
 
 import type { Fixture, ReviewRecord, RowView, OverviewStats, Toggles } from "@/lib/types";
 import { readRows } from "@/lib/excel";
-import { cleanSlug, applyEdits } from "@/lib/fixtures";
+import { cleanSlug, computeMovedFixture } from "@/lib/fixtures";
 import { readTracker, writeTracker, recordFor } from "@/lib/tracker";
 import { deriveRowViews, overviewStats } from "@/lib/state";
 import { runGenerate, type GenerateResult } from "@/lib/generate";
@@ -51,8 +51,24 @@ function readToggles(): Toggles {
 }
 
 /** Load rows + fixtures + tracker into the derived views/stats/toggles the UI renders. */
-export async function loadAll(): Promise<{ views: RowView[]; stats: OverviewStats; toggles: Toggles }> {
-  const rows = readRows();
+export async function loadAll(): Promise<{
+  views: RowView[];
+  stats: OverviewStats;
+  toggles: Toggles;
+  error?: string;
+}> {
+  let rows;
+  try {
+    rows = readRows();
+  } catch (e) {
+    // Missing/unreadable workbook: surface a message instead of a 500.
+    return {
+      views: [],
+      stats: overviewStats([]),
+      toggles: readToggles(),
+      error: `Could not read the content workbook at docs/source/CancerFax_Content_Architecture_1.xlsx — ${(e as Error).message}`,
+    };
+  }
   const rawBySlug = new Map(listFixtures(RAW_DIR).map((e) => [e.slug, e.fixture]));
   const doneBySlug = new Map(listFixtures(DONE_DIR).map((e) => [e.slug, e.fixture]));
   const tracker = readTracker();
@@ -93,7 +109,7 @@ async function move(slug: string, fromDir: string, toDir: string): Promise<void>
   const tracker = readTracker();
   const rec = recordFor(tracker, slug);
   mkdirSync(toDir, { recursive: true });
-  writeFileSync(join(toDir, entry.file), JSON.stringify(applyEdits(entry.fixture, rec), null, 2) + "\n");
+  writeFileSync(join(toDir, entry.file), JSON.stringify(computeMovedFixture(entry.fixture, rec), null, 2) + "\n");
   unlinkSync(join(fromDir, entry.file));
   tracker[slug] = { ...rec, movedAt: new Date().toISOString() };
   writeTracker(tracker);

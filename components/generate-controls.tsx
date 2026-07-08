@@ -19,7 +19,7 @@ export async function generateWithToast(slug: string): Promise<boolean> {
   }
   const authy = AUTH_RE.test(result.error);
   toast.error(authy ? "Claude is not logged in" : "Generation failed", {
-    description: authy ? "run `claude` once to log in" : result.error.slice(0, 200),
+    description: authy ? "run `claude` once in a terminal to log in" : result.error.slice(0, 200),
   });
   return false;
 }

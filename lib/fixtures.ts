@@ -64,3 +64,12 @@ export function applyEdits(fx: Fixture, rec: ReviewRecord): Fixture {
   if (rec.edits.route) out.route = rec.edits.route;
   return out;
 }
+
+/**
+ * The fixture as it should land in done/: the review record's edits applied and
+ * slug/route resolved (the pure transform the raw→done move persists). Never
+ * mutates the input.
+ */
+export function computeMovedFixture(fx: Fixture, rec: ReviewRecord): Fixture {
+  return applyEdits(fx, rec);
+}

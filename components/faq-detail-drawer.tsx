@@ -5,7 +5,7 @@ import { toast } from "sonner";
 import { AlertTriangle, Check, Copy, Loader2, Pencil, X } from "lucide-react";
 
 import type { Fixture, ReviewRecord, Toggles } from "@/lib/types";
-import { cleanSlug, getSection, applyEdits, faqCount } from "@/lib/fixtures";
+import { cleanSlug, getSection, applyEdits, faqCount, isFaqShape } from "@/lib/fixtures";
 import { getFixture, getReview, saveReview, approveRow, moveToDone } from "@/app/actions";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -28,6 +28,15 @@ interface EditBuffer {
 }
 
 const stripP = (html: string) => html.replace(/^\s*<p>/i, "").replace(/<\/p>\s*$/i, "").trim();
+
+/** Why a loaded fixture is not a usable faq section (for the inline invalid message). */
+function invalidReason(fx: Fixture): string {
+  const s = getSection(fx);
+  if (!s) return "no section found in the fixture";
+  if (s.type !== "faq") return `section type is "${s.type}", expected "faq"`;
+  if (!Array.isArray(s.groups)) return "section has no groups array";
+  return "unknown reason";
+}
 
 function VerifyChip({ label, raw }: { label: string; raw: string }) {
   const { value, needsVerify } = cleanSlug(raw);
@@ -141,10 +150,12 @@ export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }
                 <div key={i} className="h-16 animate-pulse rounded-md bg-muted" />
               ))}
             </div>
-          ) : !fixture || !section ? (
+          ) : !fixture ? (
             <p className="text-sm text-muted-foreground">
-              This row has not been generated yet. Use Generate on the row to create a fixture.
+              This row has no generated fixture yet. Use Generate on the row to create one.
             </p>
+          ) : !isFaqShape(fixture) || !section ? (
+            <p className="text-sm text-warning">Fixture is invalid: {invalidReason(fixture)}</p>
           ) : (
             <div className="space-y-6">
               {editing ? (
@@ -216,7 +227,7 @@ export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }
           )}
         </div>
 
-        {fixture && section ? (
+        {fixture && isFaqShape(fixture) && section ? (
           <div className="sticky bottom-0 flex flex-wrap items-center gap-2 border-t bg-card px-5 py-3">
             <Button size="sm" onClick={onApprove} disabled={pending}>
               {pending ? <Loader2 className="h-4 w-4 animate-spin" /> : <Check className="h-4 w-4" />}

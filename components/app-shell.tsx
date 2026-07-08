@@ -11,11 +11,11 @@ import { FaqDetailDrawer } from "@/components/faq-detail-drawer";
 import { GenerateControls, generateWithToast } from "@/components/generate-controls";
 
 interface AppShellProps {
-  initial: { views: RowView[]; stats: OverviewStats; toggles: Toggles };
+  initial: { views: RowView[]; stats: OverviewStats; toggles: Toggles; error?: string };
 }
 
 export function AppShell({ initial }: AppShellProps) {
-  const { views, stats, toggles } = initial;
+  const { views, stats, toggles, error } = initial;
   const router = useRouter();
   const [, startTransition] = React.useTransition();
   const [selectedSlug, setSelectedSlug] = React.useState<string | null>(null);
@@ -47,6 +47,15 @@ export function AppShell({ initial }: AppShellProps) {
           FAQ fixture review — generate, verify, approve, and move to done.
         </p>
       </header>
+
+      {error ? (
+        <div
+          role="alert"
+          className="mb-6 rounded-lg border border-destructive/40 bg-destructive/10 px-4 py-3 text-sm text-destructive"
+        >
+          {error}
+        </div>
+      ) : null}
 
       <div className="mb-6">
         <BentoOverview stats={stats} toggles={toggles} onToggle={onToggle} />
