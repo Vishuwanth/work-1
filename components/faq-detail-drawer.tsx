@@ -6,7 +6,7 @@ import { AlertTriangle, Check, Copy, Loader2, Pencil, X } from "lucide-react";
 
 import type { Fixture, ReviewRecord, Toggles } from "@/lib/types";
 import { cleanSlug, getSection, applyEdits, faqCount, isFaqShape } from "@/lib/fixtures";
-import { getFixture, getReview, saveReview, approveRow, moveToDone } from "@/app/actions";
+import { getFixture, getReview, saveReview, approveRow, moveToDone, moveBack } from "@/app/actions";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -28,6 +28,17 @@ interface EditBuffer {
 }
 
 const stripP = (html: string) => html.replace(/^\s*<p>/i, "").replace(/<\/p>\s*$/i, "").trim();
+
+/**
+ * Answer HTML comes from our own generation pipeline (a single trusted `<p>…</p>`),
+ * so it's not attacker-controlled. Still, as defense-in-depth before injecting it,
+ * strip any <script> blocks and inline event handlers.
+ */
+function sanitizeAnswerHtml(html: string): string {
+  return html
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "")
+    .replace(/\son\w+\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)/gi, "");
+}
 
 /** Why a loaded fixture is not a usable faq section (for the inline invalid message). */
 function invalidReason(fx: Fixture): string {
@@ -104,6 +115,8 @@ export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }
   const onNeedsWork = () =>
     slug && mutate(() => saveReview(slug, { reviewStatus: "needs-work" }), "Marked needs work");
   const onMove = () => slug && mutate(() => moveToDone(slug), "Moved to done");
+  const onMoveBack = () =>
+    slug && mutate(() => moveBack(slug), "Moved back to raw (un-approved)");
   const onSaveNote = (note: string) =>
     slug && mutate(() => saveReview(slug, { note }), "Note saved");
 
@@ -201,7 +214,9 @@ export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }
                           <div
                             className="prose-sm text-sm leading-relaxed text-muted-foreground [&_p]:m-0"
                             dangerouslySetInnerHTML={{
-                              __html: buffer.answers[key] != null ? `<p>${buffer.answers[key]}</p>` : it.a,
+                              __html: sanitizeAnswerHtml(
+                                buffer.answers[key] != null ? `<p>${buffer.answers[key]}</p>` : it.a,
+                              ),
                             }}
                           />
                         )}
@@ -236,6 +251,11 @@ export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }
             {approved && !toggles.autoMove ? (
               <Button size="sm" variant="secondary" onClick={onMove} disabled={pending}>
                 Move to done
+              </Button>
+            ) : null}
+            {approved ? (
+              <Button size="sm" variant="outline" onClick={onMoveBack} disabled={pending}>
+                Move back to raw
               </Button>
             ) : null}
             <Button size="sm" variant="outline" onClick={onNeedsWork} disabled={pending}>

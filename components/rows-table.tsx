@@ -287,7 +287,16 @@ export function RowsTable({ views, onOpen, onGenerate }: RowsTableProps) {
                       data-index={vr.index}
                       ref={(el) => virtualizer.measureElement(el)}
                       onClick={() => onOpen(v.slug)}
-                      className="cursor-pointer"
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter" || e.key === " ") {
+                          e.preventDefault();
+                          onOpen(v.slug);
+                        }
+                      }}
+                      tabIndex={0}
+                      role="button"
+                      aria-label={`Open ${v.title}`}
+                      className="cursor-pointer focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset focus-visible:ring-ring"
                     >
                       <TableCell className="tabular text-muted-foreground">{v.rowNum}</TableCell>
                       <TableCell className="font-medium text-foreground">{v.title}</TableCell>
@@ -295,7 +304,13 @@ export function RowsTable({ views, onOpen, onGenerate }: RowsTableProps) {
                       <TableCell className="text-sm text-muted-foreground">{v.contentType || "—"}</TableCell>
                       <TableCell className="text-sm text-muted-foreground">{v.excelStatus || "—"}</TableCell>
                       <TableCell>
-                        <ContentBadge state={v.contentState} />
+                        {v.invalid ? (
+                          <Badge variant="destructive" title="Fixture failed to parse">
+                            ⚠ Invalid
+                          </Badge>
+                        ) : (
+                          <ContentBadge state={v.contentState} />
+                        )}
                       </TableCell>
                       <TableCell>
                         <ReviewBadge status={v.reviewStatus} verify={v.verifyCount} />

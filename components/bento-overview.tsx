@@ -114,6 +114,44 @@ function PipelineChart({ stats }: { stats: OverviewStats }) {
   );
 }
 
+/** 7-day generation throughput (generated-per-day from tracker timestamps). */
+function ThroughputChart({ throughput }: { throughput: OverviewStats["throughput"] }) {
+  const max = Math.max(1, ...throughput.map((p) => p.count));
+  const W = 260;
+  const H = 96;
+  const gap = 10;
+  const n = Math.max(1, throughput.length);
+  const bw = (W - gap * (n - 1)) / n;
+  const dayLabel = (iso: string) => iso.slice(5); // MM-DD
+  return (
+    <Tile className="col-span-2">
+      <div className="mb-2 flex items-center justify-between">
+        <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+          Throughput · last 7 days
+        </span>
+        <Sparkles className="h-4 w-4 text-primary" />
+      </div>
+      <svg viewBox={`0 0 ${W} ${H + 18}`} className="w-full" role="img" aria-label="FAQs generated per day, last 7 days">
+        {throughput.map((p, i) => {
+          const h = (p.count / max) * H;
+          const x = i * (bw + gap);
+          return (
+            <g key={p.date}>
+              <rect x={x} y={H - h} width={bw} height={Math.max(h, 1)} rx={3} className="fill-primary transition-[height] duration-300" />
+              <text x={x + bw / 2} y={H - h - 3} textAnchor="middle" className="tabular fill-foreground text-[9px]">
+                {p.count || ""}
+              </text>
+              <text x={x + bw / 2} y={H + 12} textAnchor="middle" className="tabular fill-muted-foreground text-[7px]">
+                {dayLabel(p.date)}
+              </text>
+            </g>
+          );
+        })}
+      </svg>
+    </Tile>
+  );
+}
+
 function PillarTile({ perPillar }: { perPillar: Record<string, number> }) {
   const entries = Object.entries(perPillar).sort((a, b) => b[1] - a[1]);
   const max = Math.max(1, ...entries.map(([, v]) => v));
@@ -205,6 +243,7 @@ export function BentoOverview({ stats, toggles, onToggle }: BentoOverviewProps) 
         accent="primary"
       />
 
+      <ThroughputChart throughput={stats.throughput} />
       <PipelineChart stats={stats} />
       <PillarTile perPillar={stats.perPillar} />
 
