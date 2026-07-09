@@ -48,16 +48,18 @@ export function BatchPanel({
 }: BatchPanelProps) {
   const [state, setState] = React.useState<RunState>(INITIAL);
   const abortRef = React.useRef<AbortController | null>(null);
-  const startedRef = React.useRef<string[] | null>(null);
 
   // Latest callbacks without re-triggering the run effect.
   const cbs = React.useRef({ onStatus, onDone, concurrency });
   cbs.current = { onStatus, onDone, concurrency };
 
   React.useEffect(() => {
-    // Run once per distinct `slugs` array identity (a fresh Start or Retry).
-    if (!slugs || slugs === startedRef.current) return;
-    startedRef.current = slugs;
+    // A new `slugs` array identity (a fresh Start or Retry) drives one run. The
+    // effect is self-contained: its cleanup aborts its own fetch. Under React
+    // Strict Mode the effect runs twice (mount → cleanup → mount); the first
+    // fetch is aborted by its cleanup and the second survives — so no stale
+    // guard here (a guard would let the survivor bail out and leave nothing).
+    if (!slugs) return;
     setState({ ...INITIAL, total: slugs.length });
     slugs.forEach((s) => cbs.current.onStatus(s, "queued"));
 
