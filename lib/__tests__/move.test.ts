@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { computeMovedFixture, getSection, verifyFlags } from "@/lib/fixtures";
+import { applyEdits, getSection, verifyFlags } from "@/lib/fixtures";
 import type { Fixture, ReviewRecord } from "@/lib/types";
 
 // A freshly generated raw fixture: unresolved (⚠ VERIFY) slug/route and an
@@ -23,7 +23,7 @@ const rawFixture: Fixture = {
   medicalDisclaimer: "disclaimer",
 };
 
-describe("computeMovedFixture (approve → move transform)", () => {
+describe("applyEdits (approve → move transform)", () => {
   const record: ReviewRecord = {
     reviewStatus: "approved",
     note: "looks good",
@@ -35,7 +35,7 @@ describe("computeMovedFixture (approve → move transform)", () => {
   };
 
   it("applies the answer edit, resolves slug/route (no ⚠ VERIFY left), and does not mutate the input", () => {
-    const moved = computeMovedFixture(rawFixture, record);
+    const moved = applyEdits(rawFixture, record);
 
     // edit applied and kept wrapped in a single <p>
     expect(getSection(moved)!.groups[0].items[0].a).toBe("<p>corrected answer</p>");

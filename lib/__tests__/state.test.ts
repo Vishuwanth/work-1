@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { deriveRowViews, overviewStats } from "@/lib/state";
+import { deriveRowViews, overviewStats, throughputByDay } from "@/lib/state";
 import type { Row, Fixture, ReviewRecord } from "@/lib/types";
 
 function mkFixture(overrides: Partial<Fixture>): Fixture {
@@ -81,5 +81,34 @@ describe("overviewStats", () => {
     expect(stats.pending).toBe(2);
     expect(stats.withVerify).toBe(1);
     expect(stats.perPillar).toEqual({ Leukemia: 2 });
+  });
+});
+
+describe("throughputByDay", () => {
+  const now = new Date("2026-07-08T12:00:00Z");
+  const mk = (generatedAt?: string): ReviewRecord => ({
+    reviewStatus: "pending",
+    note: "",
+    edits: { answers: {}, slug: "", route: "" },
+    generatedAt,
+  });
+
+  it("returns a 7-day window (oldest → newest) bucketing generatedAt by UTC day", () => {
+    const tracker: Record<string, ReviewRecord> = {
+      a: mk("2026-07-08T09:00:00Z"),
+      b: mk("2026-07-08T23:30:00Z"),
+      c: mk("2026-07-06T01:00:00Z"),
+      old: mk("2026-06-01T00:00:00Z"), // outside the window
+      never: mk(undefined), // never generated
+    };
+    const out = throughputByDay(tracker, 7, now);
+
+    expect(out).toHaveLength(7);
+    expect(out[0].date).toBe("2026-07-02");
+    expect(out[6].date).toBe("2026-07-08");
+    expect(out[6].count).toBe(2); // a + b
+    expect(out[4].date).toBe("2026-07-06");
+    expect(out[4].count).toBe(1); // c
+    expect(out.reduce((n, p) => n + p.count, 0)).toBe(3); // old + never excluded
   });
 });

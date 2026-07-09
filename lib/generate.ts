@@ -23,6 +23,14 @@ interface ContentInfo {
   schema: string;
 }
 
+/** The FAQPage + MedicalWebPage + BreadcrumbList recommendation, parameterized by parent page label. */
+function faqSchemaRec(parent?: string): string {
+  return (
+    "Use FAQPage schema for this section, combined with MedicalWebPage and " +
+    `BreadcrumbList schema for the parent ${parent ? parent + " " : ""}page.`
+  );
+}
+
 const CONTENT_TYPE_MAP: Record<string, ContentInfo> = {
   treatment: {
     runner: "seed-treatment.js",
@@ -35,24 +43,28 @@ const CONTENT_TYPE_MAP: Record<string, ContentInfo> = {
   guide: {
     runner: "seed-guide.js",
     routeBase: "/guides",
-    schema:
-      "Use FAQPage schema for this section, combined with MedicalWebPage and " +
-      "BreadcrumbList schema for the parent Guide page.",
+    schema: faqSchemaRec("Guide"),
   },
   insight: {
     runner: "seed-insight.js",
     routeBase: "/insights",
-    schema:
-      "Use FAQPage schema for this section, combined with MedicalWebPage and " +
-      "BreadcrumbList schema for the parent Insight page.",
+    schema: faqSchemaRec("Insight"),
   },
 };
 
-const CONTENT_TYPE_ALIASES: Record<string, string> = {
-  insights: "insight",
-  guides: "guide",
-  treatments: "treatment",
-};
+/** The five recognized page kinds (plus "unknown"), derived from the free-text Content Type. */
+export type ContentTypeKind = "treatment" | "guide" | "insight" | "trial" | "pillar" | "unknown";
+
+/** Normalize the sheet's free-text Content Type into one canonical kind (substring match). */
+export function normalizeContentType(raw: string): ContentTypeKind {
+  const ct = (raw || "").toLowerCase();
+  if (ct.includes("trial")) return "trial";
+  if (ct.includes("treatment") || ct.includes("condition")) return "treatment";
+  if (ct.includes("guide")) return "guide";
+  if (ct.includes("insight") || ct.includes("support")) return "insight";
+  if (ct.includes("pillar")) return "pillar";
+  return "unknown";
+}
 
 const PILLAR_GROUPS =
   "5 thematic groups (Understanding / Eligibility, Process & Safety / " +
@@ -69,21 +81,32 @@ export interface PageTargets {
 
 /** FAQ count + group targets by page type. Blank/unknown -> Pillar default (18/5). */
 export function pageTargets(contentType: string): PageTargets {
-  const ct = (contentType || "").toLowerCase();
-  if (ct.includes("trial"))
-    return { count: 6, min: 5, max: 8, groups: 2, groupHint: "2 thematic groups (or one flowing list if the topic is narrow)" };
-  if (ct.includes("treatment") || ct.includes("condition"))
-    return { count: 10, min: 8, max: 12, groups: 4, groupHint: "3-4 thematic groups" };
-  if (ct.includes("insight") || ct.includes("guide") || ct.includes("support"))
-    return { count: 8, min: 6, max: 10, groups: 3, groupHint: "2-3 thematic groups (or one flowing list if the topic is narrow)" };
-  if (ct.includes("pillar"))
-    return { count: 18, min: 15, max: 20, groups: 5, groupHint: PILLAR_GROUPS };
-  return { count: 18, min: 15, max: 20, groups: 5, groupHint: PILLAR_GROUPS };
+  switch (normalizeContentType(contentType)) {
+    case "trial":
+      return { count: 6, min: 5, max: 8, groups: 2, groupHint: "2 thematic groups (or one flowing list if the topic is narrow)" };
+    case "treatment":
+      return { count: 10, min: 8, max: 12, groups: 4, groupHint: "3-4 thematic groups" };
+    case "guide":
+    case "insight":
+      return { count: 8, min: 6, max: 10, groups: 3, groupHint: "2-3 thematic groups (or one flowing list if the topic is narrow)" };
+    case "pillar":
+    case "unknown":
+    default:
+      return { count: 18, min: 15, max: 20, groups: 5, groupHint: PILLAR_GROUPS };
+  }
 }
 
 function contentTypeInfo(contentType: string): ContentInfo | null {
-  const key = CONTENT_TYPE_ALIASES[contentType.toLowerCase()] ?? contentType.toLowerCase();
-  return CONTENT_TYPE_MAP[key] ?? null;
+  switch (normalizeContentType(contentType)) {
+    case "treatment":
+      return CONTENT_TYPE_MAP.treatment;
+    case "guide":
+      return CONTENT_TYPE_MAP.guide;
+    case "insight":
+      return CONTENT_TYPE_MAP.insight;
+    default:
+      return null;
+  }
 }
 
 function buildOverride(t: PageTargets): string {
@@ -147,9 +170,7 @@ export function wrapSection(row: Row, section: FaqSection): Fixture {
   } else {
     runner = "⚠ VERIFY: unknown (Content Type not set in sheet)";
     route = `⚠ VERIFY: /<section>/${slug}`;
-    schemaRec =
-      "Use FAQPage schema for this section, combined with MedicalWebPage and " +
-      "BreadcrumbList schema for the parent page.";
+    schemaRec = faqSchemaRec();
   }
   const isDone = row.excelStatus.toLowerCase() === "done";
   const sectionField = isDone ? "sectionToMerge" : "section";

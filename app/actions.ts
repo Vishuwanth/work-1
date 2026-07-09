@@ -6,9 +6,9 @@ import { revalidatePath } from "next/cache";
 
 import type { Fixture, ReviewRecord, RowView, OverviewStats, Toggles } from "@/lib/types";
 import { readRows } from "@/lib/excel";
-import { cleanSlug, computeMovedFixture } from "@/lib/fixtures";
+import { applyEdits } from "@/lib/fixtures";
 import { readTracker, writeTracker, recordFor } from "@/lib/tracker";
-import { deriveRowViews, overviewStats } from "@/lib/state";
+import { deriveRowViews, overviewStats, throughputByDay } from "@/lib/state";
 import { runGenerate, type GenerateResult } from "@/lib/generate";
 
 const RAW_DIR = resolve(process.cwd(), "output/faq/raw");
@@ -16,30 +16,50 @@ const DONE_DIR = resolve(process.cwd(), "output/faq/done");
 const TOGGLES_PATH = resolve(process.cwd(), "output/faq/toggles.json");
 const DEFAULT_TOGGLES: Toggles = { autoGenerate: false, autoMove: true };
 
+const FAQ_SUFFIX = "-faq-section.json";
+
+/**
+ * The row slug for a fixture file. Files are named `<slugify(title)>-faq-section.json`,
+ * and the filename is stable across the raw→done move — so it (not the editable in-file
+ * slug) is the stable key that matches `row.slug === slugify(title)`.
+ */
+function slugFromFilename(file: string): string {
+  if (file.endsWith(FAQ_SUFFIX)) return file.slice(0, -FAQ_SUFFIX.length);
+  return file.replace(/\.json$/, "");
+}
+
 interface FixtureEntry {
   fixture: Fixture;
   slug: string;
   file: string;
 }
 
-/** Read + parse every fixture in a directory, keyed by its parsed (cleaned) slug. */
-function listFixtures(dir: string): FixtureEntry[] {
+interface FixtureListing {
+  entries: FixtureEntry[];
+  /** Filename-derived slug → parse error message, for fixtures that failed to parse. */
+  invalid: Map<string, string>;
+}
+
+/** Read + parse every fixture in a directory, keyed by its FILENAME-derived slug. */
+function listFixtures(dir: string): FixtureListing {
   let names: string[];
   try {
     names = readdirSync(dir).filter((n) => n.endsWith(".json"));
   } catch {
-    return [];
+    return { entries: [], invalid: new Map() };
   }
-  const out: FixtureEntry[] = [];
+  const entries: FixtureEntry[] = [];
+  const invalid = new Map<string, string>();
   for (const file of names) {
+    const slug = slugFromFilename(file);
     try {
       const fixture = JSON.parse(readFileSync(join(dir, file), "utf8")) as Fixture;
-      out.push({ fixture, slug: cleanSlug(fixture.slug).value, file });
-    } catch {
-      // skip unparseable fixtures
+      entries.push({ fixture, slug, file });
+    } catch (e) {
+      invalid.set(slug, (e as Error).message);
     }
   }
-  return out;
+  return { entries, invalid };
 }
 
 function readToggles(): Toggles {
@@ -69,18 +89,25 @@ export async function loadAll(): Promise<{
       error: `Could not read the content workbook at docs/source/CancerFax_Content_Architecture_1.xlsx — ${(e as Error).message}`,
     };
   }
-  const rawBySlug = new Map(listFixtures(RAW_DIR).map((e) => [e.slug, e.fixture]));
-  const doneBySlug = new Map(listFixtures(DONE_DIR).map((e) => [e.slug, e.fixture]));
+  const rawListing = listFixtures(RAW_DIR);
+  const doneListing = listFixtures(DONE_DIR);
+  const rawBySlug = new Map(rawListing.entries.map((e) => [e.slug, e.fixture]));
+  const doneBySlug = new Map(doneListing.entries.map((e) => [e.slug, e.fixture]));
+  const invalidSlugs = new Set<string>([
+    ...Array.from(rawListing.invalid.keys()),
+    ...Array.from(doneListing.invalid.keys()),
+  ]);
   const tracker = readTracker();
-  const views = deriveRowViews(rows, rawBySlug, doneBySlug, tracker);
-  return { views, stats: overviewStats(views), toggles: readToggles() };
+  const views = deriveRowViews(rows, rawBySlug, doneBySlug, tracker, invalidSlugs);
+  const stats = { ...overviewStats(views), throughput: throughputByDay(tracker) };
+  return { views, stats, toggles: readToggles() };
 }
 
 /** The parsed fixture for a slug: raw takes precedence over done. */
 export async function getFixture(slug: string): Promise<Fixture | null> {
-  const raw = listFixtures(RAW_DIR).find((e) => e.slug === slug);
+  const raw = listFixtures(RAW_DIR).entries.find((e) => e.slug === slug);
   if (raw) return raw.fixture;
-  const done = listFixtures(DONE_DIR).find((e) => e.slug === slug);
+  const done = listFixtures(DONE_DIR).entries.find((e) => e.slug === slug);
   return done?.fixture ?? null;
 }
 
@@ -104,12 +131,12 @@ export async function saveReview(slug: string, patch: Partial<ReviewRecord>): Pr
 
 /** Atomically move a fixture between dirs, writing the edited version under the same filename. */
 async function move(slug: string, fromDir: string, toDir: string): Promise<void> {
-  const entry = listFixtures(fromDir).find((e) => e.slug === slug);
+  const entry = listFixtures(fromDir).entries.find((e) => e.slug === slug);
   if (!entry) throw new Error(`fixture not found in ${fromDir}: ${slug}`);
   const tracker = readTracker();
   const rec = recordFor(tracker, slug);
   mkdirSync(toDir, { recursive: true });
-  writeFileSync(join(toDir, entry.file), JSON.stringify(computeMovedFixture(entry.fixture, rec), null, 2) + "\n");
+  writeFileSync(join(toDir, entry.file), JSON.stringify(applyEdits(entry.fixture, rec), null, 2) + "\n");
   unlinkSync(join(fromDir, entry.file));
   tracker[slug] = { ...rec, movedAt: new Date().toISOString() };
   writeTracker(tracker);

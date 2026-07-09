@@ -10,14 +10,9 @@ export function cleanSlug(raw: unknown): { value: string; needsVerify: boolean }
   return { value: s.replace(VERIFY_RE, "").trim(), needsVerify: VERIFY_RE.test(s) };
 }
 
-/** The FAQ section regardless of which key held it. */
+/** The FAQ section regardless of which key held it (pending uses `section`, done `sectionToMerge`). */
 export function getSection(fx: Fixture): FaqSection | null {
-  return fx.section || fx.sectionToMerge || null;
-}
-
-/** Which key held the section (preserved on output). */
-export function sectionKey(fx: Fixture): "section" | "sectionToMerge" {
-  return fx.sectionToMerge ? "sectionToMerge" : "section";
+  return fx.section ?? fx.sectionToMerge ?? null;
 }
 
 /** Total FAQ items across all groups. */
@@ -51,7 +46,7 @@ export function ensureP(html: unknown): string {
  */
 export function applyEdits(fx: Fixture, rec: ReviewRecord): Fixture {
   const out: Fixture = JSON.parse(JSON.stringify(fx));
-  const sec = out.sectionToMerge || out.section;
+  const sec = out.section ?? out.sectionToMerge;
   if (sec) {
     (sec.groups || []).forEach((g, gi) =>
       (g.items || []).forEach((it, ii) => {
@@ -63,13 +58,4 @@ export function applyEdits(fx: Fixture, rec: ReviewRecord): Fixture {
   if (rec.edits.slug) out.slug = rec.edits.slug;
   if (rec.edits.route) out.route = rec.edits.route;
   return out;
-}
-
-/**
- * The fixture as it should land in done/: the review record's edits applied and
- * slug/route resolved (the pure transform the raw→done move persists). Never
- * mutates the input.
- */
-export function computeMovedFixture(fx: Fixture, rec: ReviewRecord): Fixture {
-  return applyEdits(fx, rec);
 }

@@ -12,7 +12,7 @@ import { describe, it, expect } from "vitest";
 import { mkdtempSync, mkdirSync, readdirSync, readFileSync, writeFileSync, renameSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
-import { cleanSlug, getSection, faqCount, verifyFlags, computeMovedFixture, applyEdits } from "@/lib/fixtures";
+import { cleanSlug, getSection, applyEdits } from "@/lib/fixtures";
 import { readTracker, writeTracker, recordFor } from "@/lib/tracker";
 import { deriveRowViews, overviewStats } from "@/lib/state";
 import type { Row, Fixture, ReviewRecord } from "@/lib/types";
@@ -70,7 +70,7 @@ describe("end-to-end review workflow (real fixtures, temp workspace)", () => {
     // --- STEP 3: approve & move (applyEdits + atomic fs move), as the action does ---
     const srcFile = Object.keys(rowsByFile).find((f) => rowsByFile[f].slug === target.slug)!;
     const rawFx = JSON.parse(readFileSync(join(raw, srcFile), "utf8")) as Fixture;
-    const corrected = computeMovedFixture(rawFx, rec);   // === applyEdits(rawFx, rec)
+    const corrected = applyEdits(rawFx, rec);
     writeFileSync(join(done, srcFile), JSON.stringify(corrected, null, 2) + "\n");
     renameSync(join(raw, srcFile), join(raw, srcFile + ".moved")); // simulate unlink-from-raw
     // (real action unlinks; we rename so we can assert it's gone from the active set)

@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { buildPrompt, pageTargets, wrapSection, parseSectionFromOutput } from "@/lib/generate";
+import { buildPrompt, pageTargets, wrapSection, parseSectionFromOutput, normalizeContentType } from "@/lib/generate";
 import type { Row, FaqSection } from "@/lib/types";
 
 const blankRow: Row = {
@@ -27,6 +27,20 @@ const section: FaqSection = {
   intro: "intro",
   groups: [{ title: "G", items: [{ q: "q", a: "<p>a</p>" }] }],
 };
+
+describe("normalizeContentType", () => {
+  it("maps free-text content types to a canonical kind (substring, case-insensitive)", () => {
+    expect(normalizeContentType("Clinical Trial")).toBe("trial");
+    expect(normalizeContentType("Treatment Page")).toBe("treatment");
+    expect(normalizeContentType("condition")).toBe("treatment");
+    expect(normalizeContentType("Guides")).toBe("guide");
+    expect(normalizeContentType("Insights")).toBe("insight");
+    expect(normalizeContentType("Support")).toBe("insight");
+    expect(normalizeContentType("Pillar")).toBe("pillar");
+    expect(normalizeContentType("")).toBe("unknown");
+    expect(normalizeContentType("something else")).toBe("unknown");
+  });
+});
 
 describe("pageTargets", () => {
   it("defaults blank content type to the pillar target of 18", () => {

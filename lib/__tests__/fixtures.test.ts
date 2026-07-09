@@ -4,7 +4,6 @@ import { resolve } from "node:path";
 import {
   cleanSlug,
   getSection,
-  sectionKey,
   faqCount,
   verifyFlags,
   isFaqShape,
@@ -39,12 +38,10 @@ describe("fixture helpers", () => {
     expect(cleanSlug("plain")).toEqual({ value: "plain", needsVerify: false });
   });
 
-  it("getSection / sectionKey resolve either key", () => {
+  it("getSection resolves either key", () => {
     expect(getSection(inlineFixture)).toBe(inlineFixture.section);
-    expect(sectionKey(inlineFixture)).toBe("section");
     const merged: Fixture = { ...inlineFixture, section: undefined, sectionToMerge: inlineFixture.section };
     expect(getSection(merged)).toBe(merged.sectionToMerge);
-    expect(sectionKey(merged)).toBe("sectionToMerge");
   });
 
   it("faqCount counts all items", () => {

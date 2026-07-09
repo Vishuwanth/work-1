@@ -73,7 +73,15 @@ export type RowView = Row & {
   reviewStatus: ReviewStatus;
   verifyCount: number;
   faqCount: number | null;
+  /** The fixture file exists but could not be parsed as JSON. */
+  invalid?: boolean;
 };
+
+/** A single day's generation count, for the 7-day throughput chart. */
+export interface ThroughputPoint {
+  date: string;
+  count: number;
+}
 
 /** Aggregate counts for the command-center overview. */
 export interface OverviewStats {
@@ -84,4 +92,6 @@ export interface OverviewStats {
   pending: number;
   withVerify: number;
   perPillar: Record<string, number>;
+  /** Generated-per-day for the last 7 days (oldest → newest). */
+  throughput: ThroughputPoint[];
 }
