@@ -1,0 +1,68 @@
+{
+  "pillar": "Standard Treatment vs Precision Oncology",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: standard-treatment-vs-precision-oncology",
+  "route": "⚠ VERIFY: /insights/standard-treatment-vs-precision-oncology",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Standard Treatment vs Precision Oncology",
+    "intro": "These answers explain how standard cancer treatment differs from precision oncology, who each approach may suit, and how eligibility, testing, cost, and access are typically decided.",
+    "groups": [
+      {
+        "title": "Understanding Standard Treatment and Precision Oncology",
+        "items": [
+          {
+            "q": "What is the difference between standard cancer treatment and precision oncology?",
+            "a": "<p>Standard cancer treatment uses established protocols such as surgery, chemotherapy, and radiation that apply broadly to a cancer type and stage, while precision oncology tailors therapy to the specific genetic and molecular features of an individual tumor. Standard care is well-studied and widely available, whereas precision approaches may be considered when biomarker testing identifies a targetable change. The right choice depends on cancer type, stage, biomarker profile, previous treatment, and specialist review.</p>"
+          },
+          {
+            "q": "What is precision oncology?",
+            "a": "<p>Precision oncology is an approach that selects cancer treatment based on the molecular and genetic profile of a patient's tumor rather than the cancer type alone. It may involve targeted therapy or immunotherapy matched to specific biomarkers found through genomic testing. This approach may be suitable for selected patients whose tumors carry actionable mutations. Whether it applies depends on cancer type, stage, test results, and review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does standard cancer treatment work?",
+            "a": "<p>Standard cancer treatment follows evidence-based protocols developed from large clinical trials for a given cancer type and stage. It commonly combines surgery, chemotherapy, radiation, or hormone therapy to remove or control the disease. These treatments are widely available and supported by long-term data. Standard care remains the foundation for most patients, and precision options are usually considered alongside or after it, based on the treating team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Testing, and Safety",
+        "items": [
+          {
+            "q": "Who is a candidate for precision oncology instead of standard treatment?",
+            "a": "<p>Candidates for precision oncology are typically patients whose tumors show specific genetic or molecular changes that can be matched to a targeted therapy or immunotherapy. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Not every tumor carries an actionable target, so many patients still benefit most from standard care. A qualified oncology team decides suitability after reviewing test results and medical history.</p>"
+          },
+          {
+            "q": "Is precision oncology better than standard chemotherapy?",
+            "a": "<p>Precision oncology is not automatically better than standard chemotherapy; it depends on the individual tumor and situation. For patients with a matching biomarker, targeted therapy or immunotherapy may offer benefits with a different side-effect profile, while others respond best to established chemotherapy. Both approaches carry risks and limitations. The most appropriate option should be discussed with a qualified oncology team based on diagnosis, stage, biomarkers, and overall health.</p>"
+          },
+          {
+            "q": "What tests are needed to know if precision oncology is an option?",
+            "a": "<p>Knowing whether precision oncology is an option usually requires biomarker or genomic testing of the tumor, often using a biopsy sample or specialized panels such as next-generation sequencing. These tests look for mutations, gene changes, or protein markers that may match a targeted therapy. Test availability and relevance depend on cancer type and stage. Final decisions about which tests to run should be made by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "Does precision oncology cost more than standard treatment?",
+            "a": "<p>Precision oncology can cost more than standard treatment because genomic testing and newer targeted or immunotherapy drugs may carry higher prices, though this varies widely. Final cost depends on hospital, diagnosis, stage, tests required, treatment protocol, complications, and length of stay. Some standard treatments can also become costly over time. Patients should request a detailed estimate from the treating hospital, as costs are not fixed and cannot be guaranteed.</p>"
+          },
+          {
+            "q": "Is precision oncology available in India and for international patients?",
+            "a": "<p>Precision oncology is available at select cancer centers in India and several other countries, but access depends on tumor type, biomarker results, and hospital capabilities. For international patients, access also depends on hospital acceptance, medical record review, visa approval, and travel fitness. Availability of specific targeted drugs or clinical trials varies by location. A qualified oncology team should confirm whether a suitable precision option exists for a given patient.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with standard treatment vs precision oncology?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support when weighing standard treatment against precision oncology. It can also help gather the biomarker and genomic test results needed for review. Treatment decisions are always made by the qualified oncology team after assessing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

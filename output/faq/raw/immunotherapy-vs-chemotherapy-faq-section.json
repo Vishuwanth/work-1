@@ -1,0 +1,64 @@
+{
+  "pillar": "Immunotherapy vs Chemotherapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: immunotherapy-vs-chemotherapy",
+  "route": "⚠ VERIFY: /insights/immunotherapy-vs-chemotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy vs Chemotherapy",
+    "intro": "This section explains how immunotherapy and chemotherapy differ, how doctors choose between them, and what patients and caregivers should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding the Difference",
+        "items": [
+          {
+            "q": "What is the difference between immunotherapy and chemotherapy?",
+            "a": "<p>The main difference is that immunotherapy helps your own immune system recognize and attack cancer cells, while chemotherapy uses drugs that directly kill rapidly dividing cells. Chemotherapy acts broadly across the body, whereas immunotherapy works by boosting or unblocking immune responses. Each has different mechanisms, side effects, and response patterns. The right choice depends on cancer type, stage, biomarker profile, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does immunotherapy work compared to chemotherapy?",
+            "a": "<p>Immunotherapy works by helping immune cells find and destroy cancer, often using checkpoint inhibitors that release natural brakes on the immune system. Chemotherapy instead uses cytotoxic drugs that damage fast-growing cells, including cancer cells. Because their mechanisms differ, they can produce different response timelines and side effects. Whether one, the other, or a combination may be considered depends on cancer type, biomarkers, and overall health, and should be reviewed by the treating medical team.</p>"
+          },
+          {
+            "q": "Which is better, immunotherapy or chemotherapy?",
+            "a": "<p>Neither treatment is universally better, because effectiveness depends on the individual cancer and patient. For some cancers with specific biomarkers, immunotherapy may offer durable responses, while chemotherapy remains highly effective and standard for many other cancers. In some cases they are combined. The most suitable option depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and final treatment decisions should be made by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Response, and Side Effects",
+        "items": [
+          {
+            "q": "Is immunotherapy suitable for all cancer patients?",
+            "a": "<p>Immunotherapy is not suitable for every cancer patient, as it works best in selected cases. Eligibility often depends on biomarkers such as PD-L1 expression, tumor mutational burden, or mismatch repair status, along with cancer type and stage. Some cancers respond well, while others show little benefit. Suitability may be considered only after testing and specialist assessment, and should always be discussed with a qualified oncology team before starting treatment.</p>"
+          },
+          {
+            "q": "What are the side effects of immunotherapy versus chemotherapy?",
+            "a": "<p>The side effects differ because the treatments act differently on the body. Chemotherapy commonly causes hair loss, nausea, fatigue, and low blood counts due to its effect on fast-dividing cells. Immunotherapy can cause immune-related effects such as inflammation of the skin, thyroid, lungs, or bowel. Both may be manageable with monitoring and supportive care. Side effects vary by individual and drug, and should be reviewed regularly with the treating medical team.</p>"
+          },
+          {
+            "q": "How quickly do immunotherapy and chemotherapy start working?",
+            "a": "<p>Response times can differ between the two treatments. Chemotherapy may show measurable effects within a few cycles, while immunotherapy can sometimes take longer to produce a visible response, and imaging may occasionally look unusual before improvement. Response is not guaranteed with either approach and varies by cancer type and patient. Progress is tracked through scans and tests, and treatment adjustments should be decided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "Is immunotherapy more expensive than chemotherapy?",
+            "a": "<p>Immunotherapy is often more expensive than many chemotherapy regimens, though costs vary widely. Final cost depends on the hospital, diagnosis, stage, required tests, treatment protocol, duration, possible complications, and length of stay. Some chemotherapy drugs are relatively affordable, while newer immunotherapy agents can be costly. Estimated ranges should be confirmed with the treating hospital, as no fixed price or acceptance at a specific cost can be assured in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients choosing between immunotherapy and chemotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It does not decide treatment or replace medical care. Whether immunotherapy, chemotherapy, or a combination may be suitable depends on the diagnosis, stage, biomarkers, previous treatment, and overall health, and treatment decisions are always made by the qualified oncology team after reviewing the patient's complete medical picture.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

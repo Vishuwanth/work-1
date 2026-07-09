@@ -1,0 +1,64 @@
+{
+  "pillar": "CAR-T Therapy Explained",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: car-t-therapy-explained",
+  "route": "⚠ VERIFY: /insights/car-t-therapy-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About CAR-T Therapy Explained",
+    "intro": "CAR-T cell therapy is an advanced form of immunotherapy that uses a patient's own modified immune cells to target certain cancers. These FAQs explain how it works, who it may suit, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Therapy",
+        "items": [
+          {
+            "q": "What is CAR-T cell therapy?",
+            "a": "<p>CAR-T cell therapy is a type of immunotherapy that reprograms a patient's own T-cells to recognize and attack cancer cells. Doctors collect the T-cells, genetically modify them in a laboratory to add chimeric antigen receptors, and then infuse them back into the body. It may be considered for certain blood cancers after other treatments, and suitability depends on cancer type, previous therapy, biomarker profile, and specialist review.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work?",
+            "a": "<p>CAR-T therapy works by engineering a patient's T-cells to target specific proteins found on cancer cells. In the laboratory, the cells are modified to carry a chimeric antigen receptor, multiplied in large numbers, and then infused back into the patient. Once inside the body, these cells identify and destroy cancer cells carrying the target antigen. Response varies between patients and should be closely monitored by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with CAR-T therapy?",
+            "a": "<p>CAR-T therapy is mainly used for certain blood cancers, including some types of leukemia, lymphoma, and multiple myeloma. It is not currently a standard option for most solid tumors, although research is ongoing. Whether CAR-T may be suitable depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Final treatment decisions should be made by the treating medical team after detailed evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for CAR-T therapy?",
+            "a": "<p>Eligibility for CAR-T therapy depends on cancer type, disease stage, prior treatments, organ function, and overall health. It may be considered for selected patients with certain blood cancers that have relapsed or not responded to standard therapy. Patients usually need to be fit enough to tolerate the process. Eligibility is confirmed only after medical record review and assessment by a qualified oncology and transplant team.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T therapy?",
+            "a": "<p>CAR-T therapy can cause side effects, including cytokine release syndrome, which may bring fever, low blood pressure, and breathing difficulty. Some patients experience neurological symptoms such as confusion or seizures, along with low blood counts and increased infection risk. Most side effects are managed in specialized centers with close monitoring. Severity varies between patients, and any symptoms should be discussed promptly with the treating medical team.</p>"
+          },
+          {
+            "q": "How long does the CAR-T therapy process take?",
+            "a": "<p>The CAR-T therapy process usually takes several weeks from start to finish. After the T-cells are collected, they are sent to a laboratory to be modified and multiplied, which often takes a few weeks. Patients may receive short chemotherapy before the modified cells are infused, followed by close monitoring in hospital. Exact timelines vary by center and patient condition, and should be confirmed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does CAR-T therapy cost?",
+            "a": "<p>CAR-T therapy is one of the more expensive cancer treatments, and the final cost depends on the hospital, country, cancer type, and the specific product used. Additional costs may include hospital stay, tests, supportive care, and management of complications. Estimated ranges vary widely between centers, so figures should be confirmed directly with the hospital. Cost should be discussed early with the treating team and financial coordinators.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}
