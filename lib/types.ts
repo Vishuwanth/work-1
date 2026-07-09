@@ -2,6 +2,8 @@
 
 export type ContentState = "not-generated" | "raw" | "done";
 export type ReviewStatus = "pending" | "approved" | "needs-work";
+/** Transient client-side generation status overlaid on a row during a batch/single run. */
+export type GenStatus = "queued" | "running" | "done" | "failed" | "skipped";
 
 /** One content row read from the "All 300 Pages" workbook sheet. */
 export interface Row {

@@ -206,6 +206,10 @@ export type GenerateResult =
   | { ok: true; fixturePath: string }
   | { ok: false; error: string };
 
+// Re-exported for server-side callers; the definitions live in the client-safe
+// lib/gen-errors.ts (no Node imports) so client components can use them too.
+export { AUTH_RE, RATE_RE, classifyGenError } from "@/lib/gen-errors";
+
 /** Spawn `claude -p <prompt>`, parse + wrap + validate + write the raw fixture. */
 export async function runGenerate(row: Row, opts: GenerateOpts = {}): Promise<GenerateResult> {
   const prompt = buildPrompt(row);

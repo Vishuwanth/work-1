@@ -248,13 +248,6 @@ export function BentoOverview({ stats, toggles, onToggle }: BentoOverviewProps) 
       <PillarTile perPillar={stats.perPillar} />
 
       <ToggleTile
-        label="Auto-generate"
-        description="Queue ungenerated rows through claude -p."
-        checked={toggles.autoGenerate}
-        icon={<Zap className="h-5 w-5" />}
-        onCheckedChange={(v) => onToggle({ ...toggles, autoGenerate: v })}
-      />
-      <ToggleTile
         label="Auto-move on approve"
         description="Move raw → done when a row is approved."
         checked={toggles.autoMove}

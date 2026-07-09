@@ -2,17 +2,21 @@
 
 import * as React from "react";
 import { useRouter } from "next/navigation";
+import { toast } from "sonner";
 
-import type { RowView, OverviewStats, Toggles } from "@/lib/types";
-import { setToggles } from "@/app/actions";
+import type { RowView, OverviewStats, Toggles, GenStatus } from "@/lib/types";
+import { setToggles, generateRow } from "@/app/actions";
+import { AUTH_RE } from "@/lib/gen-errors";
 import { BentoOverview } from "@/components/bento-overview";
 import { RowsTable } from "@/components/rows-table";
 import { FaqDetailDrawer } from "@/components/faq-detail-drawer";
-import { GenerateControls, generateWithToast } from "@/components/generate-controls";
+import { BatchPanel } from "@/components/batch-panel";
 
 interface AppShellProps {
   initial: { views: RowView[]; stats: OverviewStats; toggles: Toggles; error?: string };
 }
+
+const DEFAULT_CONCURRENCY = 3;
 
 export function AppShell({ initial }: AppShellProps) {
   const { views, stats, toggles, error } = initial;
@@ -21,7 +25,15 @@ export function AppShell({ initial }: AppShellProps) {
   const [selectedSlug, setSelectedSlug] = React.useState<string | null>(null);
   const [open, setOpen] = React.useState(false);
 
+  const [genStatus, setGenStatus] = React.useState<Record<string, GenStatus>>({});
+  const [batchSlugs, setBatchSlugs] = React.useState<string[] | null>(null);
+  const [concurrency, setConcurrency] = React.useState(DEFAULT_CONCURRENCY);
+
   const refresh = React.useCallback(() => router.refresh(), [router]);
+  const setStatus = React.useCallback(
+    (slug: string, status: GenStatus) => setGenStatus((m) => ({ ...m, [slug]: status })),
+    [],
+  );
 
   const onToggle = (t: Toggles) => {
     startTransition(async () => {
@@ -35,9 +47,26 @@ export function AppShell({ initial }: AppShellProps) {
     setOpen(true);
   };
 
+  // Single-row on-demand generate — Server Action, with the same per-row live status.
   const onGenerate = (slug: string) => {
-    generateWithToast(slug).then(() => router.refresh());
+    setStatus(slug, "running");
+    generateRow(slug).then((result) => {
+      if (result.ok) {
+        toast.success("FAQ generated", { description: slug });
+        setStatus(slug, "done");
+      } else {
+        const authy = AUTH_RE.test(result.error);
+        toast.error(authy ? "Claude is not logged in" : "Generation failed", {
+          description: authy ? "run `claude` in a terminal to log in" : result.error.slice(0, 200),
+        });
+        setStatus(slug, "failed");
+      }
+      router.refresh();
+    });
   };
+
+  // Batch — a fresh array reference starts the streaming run in BatchPanel.
+  const onRunBatch = (slugs: string[]) => setBatchSlugs([...slugs]);
 
   return (
     <div className="mx-auto max-w-[1200px] px-4 py-6 sm:px-6">
@@ -61,16 +90,31 @@ export function AppShell({ initial }: AppShellProps) {
         <BentoOverview stats={stats} toggles={toggles} onToggle={onToggle} />
       </div>
 
-      <div className="mb-3">
-        <GenerateControls
-          views={views}
-          autoGenerate={toggles.autoGenerate}
-          onStop={() => onToggle({ ...toggles, autoGenerate: false })}
-          onChanged={refresh}
-        />
-      </div>
+      {batchSlugs ? (
+        <div className="mb-3">
+          <BatchPanel
+            slugs={batchSlugs}
+            concurrency={concurrency}
+            onConcurrencyChange={setConcurrency}
+            onStatus={setStatus}
+            onDone={refresh}
+            onClose={() => {
+              setBatchSlugs(null);
+              setGenStatus({});
+            }}
+            onRetry={onRunBatch}
+          />
+        </div>
+      ) : null}
 
-      <RowsTable views={views} onOpen={onOpen} onGenerate={onGenerate} />
+      <RowsTable
+        views={views}
+        onOpen={onOpen}
+        onGenerate={onGenerate}
+        genStatus={genStatus}
+        onRunBatch={onRunBatch}
+        batchRunning={batchSlugs !== null}
+      />
 
       <FaqDetailDrawer
         slug={selectedSlug}
