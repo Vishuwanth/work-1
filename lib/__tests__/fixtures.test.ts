@@ -85,7 +85,7 @@ describe("fixture helpers against a real fixture", () => {
     readFileSync(
       resolve(
         process.cwd(),
-        "output/faq/raw/what-is-the-difference-between-leukemia-lymphoma-and-myeloma-faq-section.json",
+        "lib/__tests__/fixtures/what-is-the-difference-between-leukemia-lymphoma-and-myeloma-faq-section.json",
       ),
       "utf8",
     ),

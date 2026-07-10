@@ -17,7 +17,9 @@ import { readTracker, writeTracker, recordFor } from "@/lib/tracker";
 import { deriveRowViews, overviewStats } from "@/lib/state";
 import type { Row, Fixture, ReviewRecord } from "@/lib/types";
 
-const REAL_RAW = join(process.cwd(), "output/faq/raw");
+// Stable committed test fixtures (2 seed FAQ sections), decoupled from the live
+// output/faq/raw contents which migrate to done/ as the user reviews.
+const REAL_RAW = join(process.cwd(), "lib/__tests__/fixtures");
 
 function loadFixtures(dir: string): Map<string, Fixture> {
   const m = new Map<string, Fixture>();

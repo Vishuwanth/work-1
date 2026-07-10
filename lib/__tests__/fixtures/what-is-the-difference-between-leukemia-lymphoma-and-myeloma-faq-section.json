@@ -1,0 +1,114 @@
+{
+  "pillar": "What is the difference between leukemia, lymphoma, and myeloma?",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
+  "route": "⚠ VERIFY: /<section>/what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Difference Between Leukemia, Lymphoma, and Myeloma",
+    "intro": "Common questions from patients and families trying to understand how leukemia, lymphoma, and myeloma differ, and how each of these blood cancers is diagnosed and treated.",
+    "groups": [
+      {
+        "title": "Understanding the Difference",
+        "items": [
+          {
+            "q": "What is the difference between leukemia, lymphoma, and myeloma?",
+            "a": "<p>Leukemia, lymphoma, and myeloma are three distinct blood cancers that differ mainly by which cell they start in and where they grow. Leukemia begins in blood-forming cells of the bone marrow and releases abnormal white blood cells into the bloodstream. Lymphoma starts in lymphocytes within the lymph nodes and lymphatic system. Myeloma arises from plasma cells in the bone marrow. Correct classification guides treatment and depends on specialist review.</p>"
+          },
+          {
+            "q": "Where does each of these blood cancers start in the body?",
+            "a": "<p>Each of these blood cancers begins in a different location. Leukemia develops in the bone marrow, the spongy tissue inside bones where blood cells are made, and typically enters the bloodstream. Lymphoma usually starts in the lymph nodes and lymphatic tissue, though it can spread to the marrow and organs. Myeloma grows within the bone marrow itself, where abnormal plasma cells accumulate. Confirming the exact origin requires specialist testing and pathology review.</p>"
+          },
+          {
+            "q": "Are leukemia, lymphoma, and myeloma all types of blood cancer?",
+            "a": "<p>Yes, leukemia, lymphoma, and myeloma are all classified as blood cancers, also called hematological cancers. They develop from cells of the blood, bone marrow, or lymphatic system, which is why they are grouped together. Despite this shared category, they behave differently, affect different cell types, and are managed by hematologists or hemato-oncologists. Understanding that they are related but distinct helps patients and families follow their specific diagnosis and care plan.</p>"
+          },
+          {
+            "q": "What do leukemia, lymphoma, and myeloma have in common?",
+            "a": "<p>Leukemia, lymphoma, and myeloma all arise from cells of the blood and immune system, most originating from white blood cells. All three involve the uncontrolled growth of abnormal cells that can crowd out healthy blood cells, weaken immunity, and cause fatigue, infections, or anemia. They are also frequently treated with overlapping approaches such as chemotherapy, targeted therapy, immunotherapy, and stem cell transplant. The specific plan depends on the exact diagnosis and specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Types and Diagnosis",
+        "items": [
+          {
+            "q": "What are the main types of leukemia?",
+            "a": "<p>Leukemia is mainly divided into four types based on how fast it grows and which cells it affects. Acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML) progress quickly, while chronic lymphocytic leukemia (CLL) and chronic myeloid leukemia (CML) develop more slowly. Acute types usually need prompt treatment, while chronic types may be monitored before therapy begins. Less common forms also exist, and the exact subtype is confirmed through blood and bone marrow testing.</p>"
+          },
+          {
+            "q": "What are the main types of lymphoma?",
+            "a": "<p>Lymphoma is broadly divided into Hodgkin lymphoma and non-Hodgkin lymphoma, which together include dozens of subtypes. Hodgkin lymphoma is identified by specific abnormal cells called Reed-Sternberg cells and often responds well to treatment. Non-Hodgkin lymphoma is far more common and ranges from slow-growing (indolent) to fast-growing (aggressive) forms, such as diffuse large B-cell lymphoma. The precise subtype, confirmed by lymph node biopsy, strongly influences treatment and requires specialist review.</p>"
+          },
+          {
+            "q": "What is multiple myeloma and how is it different from lymphoma?",
+            "a": "<p>Multiple myeloma is a cancer of plasma cells, the antibody-producing white blood cells found in the bone marrow. Unlike lymphoma, which usually forms tumors in lymph nodes, myeloma builds up inside the marrow and can weaken bones, causing bone pain, anemia, kidney problems, and high calcium levels. Both are blood cancers, but they start from different cell stages and are diagnosed and treated differently. Confirmation requires bone marrow testing and specialist review.</p>"
+          },
+          {
+            "q": "How are leukemia, lymphoma, and myeloma diagnosed?",
+            "a": "<p>Leukemia, lymphoma, and myeloma are diagnosed using different combinations of tests based on where each cancer grows. Leukemia is usually found through blood counts and a bone marrow biopsy. Lymphoma is typically confirmed by removing and examining a lymph node, often with PET or CT imaging for staging. Myeloma is diagnosed through bone marrow biopsy, blood and urine protein tests, and bone imaging. Final diagnosis and staging are determined by the treating hematology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment and Prognosis",
+        "items": [
+          {
+            "q": "How is leukemia treated?",
+            "a": "<p>Leukemia treatment depends on the subtype, the patient's age, and overall health, and may include chemotherapy, targeted therapy, immunotherapy, or a stem cell (bone marrow) transplant. Acute leukemias often need intensive treatment quickly, while some chronic leukemias are managed with oral targeted drugs such as tyrosine kinase inhibitors. Newer options like CAR T-cell therapy may be considered for selected cases. Final treatment decisions should be made by the treating hemato-oncology team.</p>"
+          },
+          {
+            "q": "How is lymphoma treated?",
+            "a": "<p>Lymphoma treatment varies widely by subtype and stage and may include chemotherapy, immunotherapy with antibodies such as rituximab, radiation therapy, targeted drugs, or stem cell transplant. Some slow-growing lymphomas may be monitored with active surveillance before treatment begins, while aggressive types usually require prompt combination therapy. CAR T-cell therapy may be considered for certain relapsed or hard-to-treat cases. The most suitable approach depends on specialist review and the treating oncology team.</p>"
+          },
+          {
+            "q": "How is myeloma treated?",
+            "a": "<p>Myeloma is generally treated with a combination of drug therapies rather than surgery, since it is spread throughout the bone marrow. Treatment often includes targeted drugs, immunotherapy, chemotherapy, and steroids, sometimes followed by an autologous stem cell transplant using the patient's own cells. Medicines to protect bones and manage kidney or calcium problems may also be used. Myeloma is often treatable but tends to relapse, so long-term specialist follow-up is important.</p>"
+          },
+          {
+            "q": "Which is more serious - leukemia, lymphoma, or myeloma?",
+            "a": "<p>No single blood cancer is universally more serious than the others, because outlook depends on the specific subtype, stage, genetic features, age, and response to treatment. Some slow-growing lymphomas and chronic leukemias may be managed for years, while certain acute leukemias are aggressive and need urgent care. Myeloma is often controllable but usually not considered curable. Survival varies greatly between individuals, so prognosis should always be discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does blood cancer treatment cost?",
+            "a": "<p>The cost of treating leukemia, lymphoma, or myeloma varies widely depending on the cancer type, stage, treatment chosen, and country. Standard chemotherapy is generally less expensive than advanced options such as stem cell transplant or CAR T-cell therapy, which can cost tens of thousands of dollars. Final costs depend on the hospital, diagnostics, protocol, length of stay, and any complications. Patients should request a personalized estimate from the treating hospital before planning.</p>"
+          },
+          {
+            "q": "Is treatment for leukemia, lymphoma, and myeloma available in India?",
+            "a": "<p>Yes, treatment for leukemia, lymphoma, and myeloma is widely available in India at accredited cancer centers in cities such as Delhi, Mumbai, Chennai, Bengaluru, and Hyderabad. Indian hospitals offer chemotherapy, targeted therapy, stem cell transplants, and, at selected centers, CAR T-cell therapy, often at a lower cost than in Western countries. Availability, eligibility, and cost depend on the exact diagnosis and hospital assessment, which should be confirmed directly with the treating center.</p>"
+          },
+          {
+            "q": "What is CAR T-cell therapy and which blood cancers is it used for?",
+            "a": "<p>CAR T-cell therapy is an advanced immunotherapy that reprograms a patient's own immune cells to attack cancer, and it is mainly used for certain blood cancers. It may be considered for selected cases of relapsed or hard-to-treat B-cell lymphomas, acute lymphoblastic leukemia, and multiple myeloma. It is not suitable for everyone and carries specific risks. Eligibility depends on cancer type, previous treatment, overall health, and specialist review by a qualified cell-therapy team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed for a blood cancer diagnosis or second opinion?",
+            "a": "<p>A blood cancer evaluation or second opinion usually requires recent blood test results including a complete blood count, bone marrow or lymph node biopsy reports, and pathology findings confirming the cancer type. Imaging such as PET, CT, or MRI scans, along with any genetic or flow cytometry testing, is often needed for staging. A summary of previous treatments is also helpful. Exact requirements vary by hospital and should be confirmed with the treating center.</p>"
+          },
+          {
+            "q": "How can international patients access blood cancer treatment abroad?",
+            "a": "<p>International access to blood cancer treatment usually begins with sending medical records and pathology reports to a hospital abroad for review, since each center sets its own eligibility and admission criteria. If accepted, patients then arrange visas, travel, accommodation, and follow-up care. Access to advanced options like CAR T-cell therapy or transplant may depend on donor availability and specialist assessment. Hospital acceptance, visa approval, and treatment timelines are never guaranteed and depend on individual review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with blood cancer such as leukemia, lymphoma, and myeloma?",
+            "a": "<p>CancerFax helps patients with leukemia, lymphoma, and myeloma organize their medical reports, identify relevant specialists, hospitals, or clinical trials for their specific diagnosis, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Final treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, subtype, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace the treating medical team or guarantee treatment access or outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}
