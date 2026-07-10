@@ -11,7 +11,7 @@ import {
   useReactTable,
 } from "@tanstack/react-table";
 import { useVirtualizer } from "@tanstack/react-virtual";
-import { ArrowDown, ArrowUp, ArrowUpDown, Loader2, Search, Sparkles } from "lucide-react";
+import { ArrowDown, ArrowUp, ArrowUpDown, CheckCheck, Loader2, Search, Sparkles } from "lucide-react";
 
 import type { RowView, ContentState, ReviewStatus, GenStatus } from "@/lib/types";
 import { cn } from "@/lib/utils";
@@ -36,6 +36,8 @@ interface RowsTableProps {
   genStatus: Record<string, GenStatus>;
   /** Start a batch for these slugs (checked rows, else filtered ungenerated). */
   onRunBatch: (slugs: string[]) => void;
+  /** Bulk-approve every currently-generated (raw) row. */
+  onApproveAll: () => void;
   /** A batch is currently running — disable batch controls. */
   batchRunning: boolean;
 }
@@ -139,7 +141,15 @@ function SortHeader({
   );
 }
 
-export function RowsTable({ views, onOpen, onGenerate, genStatus, onRunBatch, batchRunning }: RowsTableProps) {
+export function RowsTable({
+  views,
+  onOpen,
+  onGenerate,
+  genStatus,
+  onRunBatch,
+  onApproveAll,
+  batchRunning,
+}: RowsTableProps) {
   const [globalFilter, setGlobalFilter] = React.useState("");
   const [pillar, setPillar] = React.useState(ALL);
   const [content, setContent] = React.useState(ALL);
@@ -233,6 +243,11 @@ export function RowsTable({ views, onOpen, onGenerate, genStatus, onRunBatch, ba
   const batchLabel = selectedSlugs.length
     ? `Generate ${selectedSlugs.length} selected`
     : `Generate ${ungeneratedInView.length} in view`;
+  // Bulk-approve targets every generated-but-not-yet-approved row, globally
+  // (raw or done — matches approveAllGenerated).
+  const unapprovedCount = views.filter(
+    (v) => v.contentState !== "not-generated" && v.reviewStatus !== "approved",
+  ).length;
 
   const cols: { id: string; label: string; className: string; sortable?: boolean }[] = [
     { id: "select", label: "", className: "w-10" },
@@ -312,7 +327,16 @@ export function RowsTable({ views, onOpen, onGenerate, genStatus, onRunBatch, ba
         </div>
         <Button
           size="sm"
+          variant="outline"
           className="ml-auto"
+          disabled={unapprovedCount === 0}
+          onClick={onApproveAll}
+          title="Approve every generated row that isn't approved yet"
+        >
+          <CheckCheck className="h-4 w-4" /> Approve {unapprovedCount} generated
+        </Button>
+        <Button
+          size="sm"
           disabled={batchRunning || batchTargets.length === 0}
           onClick={() => onRunBatch(batchTargets)}
         >

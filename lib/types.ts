@@ -67,6 +67,8 @@ export interface ReviewRecord {
 export interface Toggles {
   autoGenerate: boolean;
   autoMove: boolean;
+  /** Approve (and move, if autoMove) a row the instant it's generated — no review step. */
+  autoApprove: boolean;
 }
 
 /** A Row enriched with derived generation + review state. */

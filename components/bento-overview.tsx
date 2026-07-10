@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { Sparkles, CheckCircle2, AlertTriangle, Layers, Zap, ArrowRightToLine } from "lucide-react";
+import { Sparkles, CheckCircle2, CheckCheck, AlertTriangle, Layers, Zap, ArrowRightToLine } from "lucide-react";
 
 import type { OverviewStats, Toggles } from "@/lib/types";
 import { cn } from "@/lib/utils";
@@ -253,6 +253,13 @@ export function BentoOverview({ stats, toggles, onToggle }: BentoOverviewProps) 
         checked={toggles.autoMove}
         icon={<ArrowRightToLine className="h-5 w-5" />}
         onCheckedChange={(v) => onToggle({ ...toggles, autoMove: v })}
+      />
+      <ToggleTile
+        label="Auto-approve on generate"
+        description="Approve each row the instant it's generated — skips review."
+        checked={toggles.autoApprove}
+        icon={<CheckCheck className="h-5 w-5" />}
+        onCheckedChange={(v) => onToggle({ ...toggles, autoApprove: v })}
       />
     </section>
   );

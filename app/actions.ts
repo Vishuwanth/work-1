@@ -14,7 +14,7 @@ import { runGenerate, type GenerateResult } from "@/lib/generate";
 const RAW_DIR = resolve(process.cwd(), "output/faq/raw");
 const DONE_DIR = resolve(process.cwd(), "output/faq/done");
 const TOGGLES_PATH = resolve(process.cwd(), "output/faq/toggles.json");
-const DEFAULT_TOGGLES: Toggles = { autoGenerate: false, autoMove: true };
+const DEFAULT_TOGGLES: Toggles = { autoGenerate: false, autoMove: true, autoApprove: false };
 
 const FAQ_SUFFIX = "-faq-section.json";
 
@@ -159,6 +159,45 @@ export async function approveRow(slug: string, autoMove: boolean): Promise<void>
   writeTracker(tracker);
   if (autoMove) await moveToDone(slug);
   else revalidatePath("/");
+}
+
+/**
+ * Bulk-approve a set of slugs (one tracker write), then move each raw->done when
+ * autoMove is on. Rows not currently in raw (already moved) skip the move quietly.
+ * Returns the number approved.
+ */
+export async function approveRows(slugs: string[], autoMove: boolean): Promise<number> {
+  const now = new Date().toISOString();
+  const tracker = readTracker();
+  for (const slug of slugs) {
+    tracker[slug] = { ...recordFor(tracker, slug), reviewStatus: "approved", reviewedAt: now };
+  }
+  writeTracker(tracker);
+  if (autoMove) {
+    for (const slug of slugs) {
+      try {
+        await moveToDone(slug);
+      } catch {
+        // Not in raw (already in done) — approval already recorded above.
+      }
+    }
+  }
+  revalidatePath("/");
+  return slugs.length;
+}
+
+/**
+ * Approve every generated-but-not-yet-approved row at once — whether it's still in
+ * raw or already moved to done (covers autoMove being off). Returns the number approved.
+ */
+export async function approveAllGenerated(autoMove: boolean): Promise<number> {
+  const tracker = readTracker();
+  const generated = [
+    ...listFixtures(RAW_DIR).entries.map((e) => e.slug),
+    ...listFixtures(DONE_DIR).entries.map((e) => e.slug),
+  ];
+  const toApprove = generated.filter((s) => (tracker[s]?.reviewStatus ?? "pending") !== "approved");
+  return approveRows(toApprove, autoMove);
 }
 
 /** Generate a fixture for a row via `claude -p`; stamp generatedAt on success. */

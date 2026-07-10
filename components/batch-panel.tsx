@@ -14,7 +14,8 @@ interface BatchPanelProps {
   concurrency: number;
   onConcurrencyChange: (n: number) => void;
   onStatus: (slug: string, status: GenStatus) => void;
-  onDone: () => void;
+  /** Called once when the batch finishes, with the slugs that were freshly generated. */
+  onDone: (doneSlugs: string[]) => void;
   onClose: () => void;
   onRetry: (slugs: string[]) => void;
 }
@@ -48,6 +49,7 @@ export function BatchPanel({
 }: BatchPanelProps) {
   const [state, setState] = React.useState<RunState>(INITIAL);
   const abortRef = React.useRef<AbortController | null>(null);
+  const doneSlugsRef = React.useRef<string[]>([]);
 
   // Latest callbacks without re-triggering the run effect.
   const cbs = React.useRef({ onStatus, onDone, concurrency });
@@ -61,6 +63,7 @@ export function BatchPanel({
     // guard here (a guard would let the survivor bail out and leave nothing).
     if (!slugs) return;
     setState({ ...INITIAL, total: slugs.length });
+    doneSlugsRef.current = [];
     slugs.forEach((s) => cbs.current.onStatus(s, "queued"));
 
     const ctrl = new AbortController();
@@ -71,7 +74,10 @@ export function BatchPanel({
       if (e.type === "row") {
         cbs.current.onStatus(e.slug, e.status);
         if (e.status === "running") return setState((s) => ({ ...s, running: s.running + 1 }));
-        if (e.status === "done") return setState((s) => ({ ...s, done: s.done + 1, running: Math.max(0, s.running - 1) }));
+        if (e.status === "done") {
+          doneSlugsRef.current.push(e.slug);
+          return setState((s) => ({ ...s, done: s.done + 1, running: Math.max(0, s.running - 1) }));
+        }
         if (e.status === "skipped") return setState((s) => ({ ...s, skipped: s.skipped + 1 }));
         if (e.status === "failed")
           return setState((s) => ({
@@ -84,7 +90,7 @@ export function BatchPanel({
       if (e.type === "aborted") return setState((s) => ({ ...s, aborted: { reason: e.reason, message: e.message } }));
       if (e.type === "done") {
         setState((s) => ({ ...s, finished: true, running: 0 }));
-        cbs.current.onDone();
+        cbs.current.onDone(doneSlugsRef.current);
       }
     };
 

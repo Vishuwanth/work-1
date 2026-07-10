@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { toast } from "sonner";
 
 import type { RowView, OverviewStats, Toggles, GenStatus } from "@/lib/types";
-import { setToggles, generateRow } from "@/app/actions";
+import { setToggles, generateRow, approveRows, approveAllGenerated } from "@/app/actions";
 import { AUTH_RE } from "@/lib/gen-errors";
 import { BentoOverview } from "@/components/bento-overview";
 import { RowsTable } from "@/components/rows-table";
@@ -50,10 +50,11 @@ export function AppShell({ initial }: AppShellProps) {
   // Single-row on-demand generate — Server Action, with the same per-row live status.
   const onGenerate = (slug: string) => {
     setStatus(slug, "running");
-    generateRow(slug).then((result) => {
+    generateRow(slug).then(async (result) => {
       if (result.ok) {
-        toast.success("FAQ generated", { description: slug });
         setStatus(slug, "done");
+        if (toggles.autoApprove) await approveRows([slug], toggles.autoMove);
+        toast.success(toggles.autoApprove ? "FAQ generated + approved" : "FAQ generated", { description: slug });
       } else {
         const authy = AUTH_RE.test(result.error);
         toast.error(authy ? "Claude is not logged in" : "Generation failed", {
@@ -67,6 +68,29 @@ export function AppShell({ initial }: AppShellProps) {
 
   // Batch — a fresh array reference starts the streaming run in BatchPanel.
   const onRunBatch = (slugs: string[]) => setBatchSlugs([...slugs]);
+
+  // When the batch finishes: auto-approve the freshly-generated rows if enabled, then refresh.
+  const onBatchDone = (doneSlugs: string[]) => {
+    if (toggles.autoApprove && doneSlugs.length) {
+      approveRows(doneSlugs, toggles.autoMove).then((n) => {
+        toast.success(`Auto-approved ${n} generated ${n === 1 ? "row" : "rows"}`);
+        router.refresh();
+      });
+    } else {
+      router.refresh();
+    }
+  };
+
+  // One-time bulk: approve every currently-generated (raw) row.
+  const onApproveAll = () => {
+    startTransition(async () => {
+      const n = await approveAllGenerated(toggles.autoMove);
+      toast.success(
+        n ? `Approved ${n} generated ${n === 1 ? "row" : "rows"}${toggles.autoMove ? " → done" : ""}` : "Nothing to approve",
+      );
+      router.refresh();
+    });
+  };
 
   return (
     <div className="mx-auto max-w-[1200px] px-4 py-6 sm:px-6">
@@ -97,7 +121,7 @@ export function AppShell({ initial }: AppShellProps) {
             concurrency={concurrency}
             onConcurrencyChange={setConcurrency}
             onStatus={setStatus}
-            onDone={refresh}
+            onDone={onBatchDone}
             onClose={() => {
               setBatchSlugs(null);
               setGenStatus({});
@@ -113,6 +137,7 @@ export function AppShell({ initial }: AppShellProps) {
         onGenerate={onGenerate}
         genStatus={genStatus}
         onRunBatch={onRunBatch}
+        onApproveAll={onApproveAll}
         batchRunning={batchSlugs !== null}
       />
 
