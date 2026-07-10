@@ -147,10 +147,19 @@ export function RowsTable({ views, onOpen, onGenerate, genStatus, onRunBatch, ba
   const [sorting, setSorting] = React.useState<SortingState>([{ id: "rowNum", desc: false }]);
   const [rowSelection, setRowSelection] = React.useState<RowSelectionState>({});
 
-  const pillars = React.useMemo(
-    () => Array.from(new Set(views.map((v) => v.pillarName).filter(Boolean))).sort(),
-    [views],
-  );
+  // Pillars annotated with how many rows are still ungenerated, sorted most-work-
+  // first so fully-done pillars sink to the bottom (marked ✓) and you can see at a
+  // glance which pillar still has content to generate.
+  const pillars = React.useMemo(() => {
+    const m = new Map<string, { name: string; ungen: number }>();
+    for (const v of views) {
+      if (!v.pillarName) continue;
+      const e = m.get(v.pillarName) ?? { name: v.pillarName, ungen: 0 };
+      if (v.contentState === "not-generated") e.ungen++;
+      m.set(v.pillarName, e);
+    }
+    return Array.from(m.values()).sort((a, b) => b.ungen - a.ungen || a.name.localeCompare(b.name));
+  }, [views]);
 
   const columns = React.useMemo<ColumnDef<RowView>[]>(
     () => [
@@ -257,8 +266,18 @@ export function RowsTable({ views, onOpen, onGenerate, genStatus, onRunBatch, ba
           <SelectContent>
             <SelectItem value={ALL}>All pillars</SelectItem>
             {pillars.map((p) => (
-              <SelectItem key={p} value={p}>
-                {p}
+              <SelectItem key={p.name} value={p.name}>
+                <span className="flex w-full items-center justify-between gap-3">
+                  <span className="truncate">{p.name}</span>
+                  <span
+                    className={cn(
+                      "tabular shrink-0 text-xs",
+                      p.ungen ? "font-medium text-primary" : "text-muted-foreground",
+                    )}
+                  >
+                    {p.ungen ? `${p.ungen} left` : "✓ done"}
+                  </span>
+                </span>
               </SelectItem>
             ))}
           </SelectContent>
