@@ -1,0 +1,64 @@
+{
+  "pillar": "Immunotherapy for Kidney Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: immunotherapy-for-kidney-cancer",
+  "route": "⚠ VERIFY: /insights/immunotherapy-for-kidney-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy for Kidney Cancer",
+    "intro": "Immunotherapy has become an important option for advanced kidney cancer, helping the body's own immune system fight the disease. These answers explain how it works, who it may suit, and what patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy for Kidney Cancer",
+        "items": [
+          {
+            "q": "What is immunotherapy for kidney cancer?",
+            "a": "<p>Immunotherapy for kidney cancer is a treatment that helps the body's own immune system find and attack cancer cells. It is most often used for advanced or metastatic renal cell carcinoma, the most common type of kidney cancer. The main drugs are immune checkpoint inhibitors, which release natural brakes on immune cells. Whether it suits a patient depends on cancer stage, risk group, previous treatment, and specialist review.</p>"
+          },
+          {
+            "q": "How does immunotherapy work for kidney cancer?",
+            "a": "<p>Immunotherapy works by removing the \"brakes\" that cancer uses to hide from the immune system. Checkpoint inhibitor drugs block proteins such as PD-1, PD-L1, or CTLA-4, allowing immune cells called T cells to recognize and destroy kidney cancer cells. Unlike chemotherapy, it targets the immune response rather than the tumor directly. Responses vary between patients, and treatment effects should be monitored regularly by the oncology team.</p>"
+          },
+          {
+            "q": "Which immunotherapy drugs are used for kidney cancer?",
+            "a": "<p>Common immunotherapy drugs for kidney cancer include checkpoint inhibitors such as nivolumab, pembrolizumab, ipilimumab, and avelumab. They are often combined with each other or with targeted therapies like axitinib, cabozantinib, or lenvatinib for advanced disease. The exact combination depends on the cancer's risk category, stage, and prior treatment. Drug availability differs by country, and the final regimen should be selected by a qualified oncology team after full evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Treatment, and Side Effects",
+        "items": [
+          {
+            "q": "Who is eligible for kidney cancer immunotherapy?",
+            "a": "<p>Eligibility for kidney cancer immunotherapy depends on cancer type, stage, risk group, overall health, and previous treatments. It may be considered for selected patients with advanced or metastatic renal cell carcinoma, and sometimes after surgery in higher-risk cases. Patients with certain autoimmune conditions or organ transplants may not be suitable. A thorough assessment, including imaging and blood tests, helps the treating team decide if immunotherapy is appropriate.</p>"
+          },
+          {
+            "q": "What are the side effects of immunotherapy for kidney cancer?",
+            "a": "<p>The most common side effects of kidney cancer immunotherapy are immune-related reactions, where the activated immune system affects healthy tissues. These can include fatigue, skin rash, diarrhea, and inflammation of the thyroid, liver, lungs, or bowel. Most effects are manageable when caught early, but some can be serious and need prompt care. Side effects vary between patients and should always be reported quickly to the treating oncology team.</p>"
+          },
+          {
+            "q": "Is immunotherapy better than targeted therapy for kidney cancer?",
+            "a": "<p>Immunotherapy is not automatically better than targeted therapy; the two are often used together for advanced kidney cancer. Combinations of checkpoint inhibitors with targeted drugs, or two immunotherapy agents, have shown benefit for selected patients in clinical studies. The best approach depends on risk group, tumor features, overall health, and how the disease behaves. Treatment choice should be individualized and decided by the treating medical team, not by a single rule.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does immunotherapy for kidney cancer cost?",
+            "a": "<p>The cost of immunotherapy for kidney cancer varies widely and depends on the drugs used, number of cycles, hospital, country, and whether it is combined with targeted therapy. Because these medicines are given over many months, total costs can be significant and are difficult to predict in advance. Final expenses also depend on tests, monitoring, and any complications. A detailed estimate should be obtained from the treating hospital after review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy for kidney cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support for kidney cancer immunotherapy. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

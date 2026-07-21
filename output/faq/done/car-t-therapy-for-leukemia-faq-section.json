@@ -1,0 +1,68 @@
+{
+  "pillar": "CAR-T Therapy for Leukemia",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: car-t-therapy-for-leukemia",
+  "route": "⚠ VERIFY: /guides/car-t-therapy-for-leukemia",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About CAR-T Therapy for Leukemia",
+    "intro": "Clear, patient-friendly answers about how CAR-T cell therapy is used for leukemia, who may qualify, what the process involves, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Therapy for Leukemia",
+        "items": [
+          {
+            "q": "What is CAR-T cell therapy for leukemia?",
+            "a": "<p>CAR-T cell therapy for leukemia is a personalized treatment that reprograms a patient's own T cells to recognize and attack leukemia cells. Doctors collect the patient's immune cells, genetically modify them in a laboratory to carry a chimeric antigen receptor (CAR), then infuse them back to target markers such as CD19. It may be considered for certain B-cell leukemias after other treatments, following specialist review.</p>"
+          },
+          {
+            "q": "Which types of leukemia can CAR-T therapy treat?",
+            "a": "<p>CAR-T therapy is most established for B-cell acute lymphoblastic leukemia (B-ALL), particularly in children and young adults whose disease has relapsed or not responded to chemotherapy. Approved CD19-directed products are used in selected cases, and research is ongoing for chronic lymphocytic leukemia (CLL) and other subtypes. Whether CAR-T is suitable depends on leukemia type, prior treatment, and specialist assessment, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work against leukemia?",
+            "a": "<p>CAR-T therapy works by training the immune system to find and destroy leukemia cells. A patient's T cells are collected through a process called leukapheresis, engineered in a lab to express a receptor targeting a protein like CD19, and multiplied. After a short course of lymphodepleting chemotherapy, the modified cells are infused back, where they can recognize and kill cancer cells. Response varies between patients and requires close medical monitoring.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for CAR-T therapy for leukemia?",
+            "a": "<p>Eligibility for CAR-T therapy depends on leukemia type, age, previous treatments, disease markers, and overall health. It may be considered for selected patients with relapsed or refractory B-cell ALL after other therapies have failed. Adequate organ function and fitness for the process are usually required. Final eligibility is decided by the treating team after reviewing medical records, and should always be confirmed by a qualified oncology specialist.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T therapy?",
+            "a": "<p>The main side effects of CAR-T therapy include cytokine release syndrome (CRS), which can cause fever, low blood pressure, and breathing difficulty, and neurological effects such as confusion. Other risks include low blood counts and increased infection risk. Most side effects appear in the first weeks and are managed in specialized centers. Severity varies between patients, and any symptoms should be reported promptly to the medical team.</p>"
+          },
+          {
+            "q": "How long does CAR-T treatment take?",
+            "a": "<p>The full CAR-T process usually takes several weeks from start to finish. After cell collection, manufacturing the engineered cells typically takes about two to four weeks. Patients then receive lymphodepleting chemotherapy before the cell infusion, followed by close monitoring in or near the hospital for several weeks to watch for side effects. Exact timelines vary by center and product and should be confirmed with the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does CAR-T therapy for leukemia cost?",
+            "a": "<p>CAR-T therapy is an expensive treatment, and the total cost depends on the country, hospital, product used, and level of supportive care needed. Published prices for approved products can run into hundreds of thousands of dollars, and additional costs cover hospital stay, tests, and management of complications. Final cost depends on diagnosis, protocol, length of stay, and treating-team advice, so patients should request a detailed estimate before proceeding.</p>"
+          },
+          {
+            "q": "Which countries offer CAR-T therapy for leukemia?",
+            "a": "<p>CAR-T therapy for leukemia is available in several countries, including the United States, parts of Europe, China, and India, though approved products and access vary by location. Some centers offer commercial approved therapies, while others provide access through clinical trials with strict eligibility criteria. Availability depends on hospital acceptance, medical review, and patient condition, and international patients should confirm options and requirements with the specific treatment center.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T therapy for leukemia?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

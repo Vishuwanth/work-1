@@ -1,0 +1,68 @@
+{
+  "pillar": "Cancer Treatment in China",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-china",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in China",
+    "intro": "China has become an option some international patients consider for advanced cancer care, including cell therapies and clinical trials. These answers explain what is available, how access works, and what to plan for.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in China",
+        "items": [
+          {
+            "q": "What is cancer treatment in China?",
+            "a": "<p>Cancer treatment in China refers to the diagnostic and therapeutic care offered by Chinese hospitals, including surgery, chemotherapy, radiotherapy, immunotherapy, targeted therapy, and cell-based treatments such as CAR-T. Several large centers treat international patients and run active clinical trials. The right approach depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be confirmed by a qualified oncology team after full record review.</p>"
+          },
+          {
+            "q": "What advanced cancer treatments are available in China?",
+            "a": "<p>China offers a range of advanced options, including CAR-T cell therapy, targeted therapy, immunotherapy, precision-medicine approaches, and access to early-phase clinical trials for certain cancers. Some treatments available in China may not yet be routinely offered elsewhere. Whether any of these is appropriate depends on cancer type, stage, biomarkers, and prior therapy, and must be decided by the treating specialists after reviewing the patient's medical history.</p>"
+          },
+          {
+            "q": "Is cancer treatment in China safe and of good quality?",
+            "a": "<p>Leading cancer centers in China follow international clinical standards and treat large numbers of patients each year. Quality can vary between hospitals, so care is best sought at established, experienced centers with dedicated international patient services. Safety and outcomes depend on the specific diagnosis, treatment plan, and hospital. Patients are encouraged to seek a second opinion and confirm that a center is suited to their condition before proceeding.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Eligibility, and Cost",
+        "items": [
+          {
+            "q": "Who can access cancer treatment in China?",
+            "a": "<p>International cancer patients may be able to access treatment in China, but acceptance is not automatic. Eligibility depends on the hospital, the diagnosis, cancer stage, previous treatment, travel fitness, and specialist review of medical records. For clinical trials or cell therapies, additional inclusion and exclusion criteria apply. Final acceptance and treatment decisions are made by the treating medical team, and hospital admission or visa approval cannot be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How much does cancer treatment in China cost?",
+            "a": "<p>The cost of cancer treatment in China varies widely and can only be estimated after the diagnosis and plan are known. Final cost depends on the hospital, cancer type, stage, tests required, treatment protocol, length of stay, and any complications. Advanced therapies such as CAR-T are typically far more expensive than standard treatment. A personalized estimate should be requested from the hospital, and quoted figures are not fixed or guaranteed.</p>"
+          },
+          {
+            "q": "Can international patients join clinical trials or get CAR-T therapy in China?",
+            "a": "<p>Some international patients may be considered for clinical trials or CAR-T cell therapy in China, but enrollment is never guaranteed. Trials have strict inclusion and exclusion criteria, and eligibility is decided only after medical record review and investigator assessment. Participation does not guarantee benefit. Patients should discuss trial options, risks, and alternatives with a qualified oncology team before making any decision to travel for treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed to start treatment in China?",
+            "a": "<p>Hospitals in China typically need a full set of recent medical reports to assess a case. These usually include pathology or biopsy results, imaging scans such as CT, MRI, or PET, blood tests, biomarker or genetic reports, and a summary of previous treatment. Complete, translated records help specialists give an accurate opinion and estimate. The treating team may request further tests before confirming whether treatment is suitable.</p>"
+          },
+          {
+            "q": "How do international patients travel to China for cancer treatment?",
+            "a": "<p>Traveling to China for cancer treatment generally involves obtaining a medical opinion, a hospital invitation, and a valid visa before departure. Access also depends on the patient's condition and fitness to travel, plus planning for accommodation, translation, and follow-up care. Visa approval and hospital admission cannot be guaranteed and depend on official and medical review. Early planning and clear communication with the chosen hospital help avoid delays.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer treatment in China?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and cannot guarantee hospital acceptance, visa approval, or treatment outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

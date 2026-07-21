@@ -1,0 +1,114 @@
+{
+  "pillar": "What are natural killer cells and how do they fight cancer?",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: what-are-natural-killer-cells-and-how-do-they-fight-cancer",
+  "route": "⚠ VERIFY: /<section>/what-are-natural-killer-cells-and-how-do-they-fight-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Natural Killer Cells and How They Fight Cancer",
+    "intro": "Natural killer (NK) cells are part of the body's first line of immune defence against cancer. These answers explain what NK cells are, how they detect and destroy abnormal cells, and how NK-based therapies such as CAR NK cell therapy are being studied for cancer patients.",
+    "groups": [
+      {
+        "title": "Understanding Natural Killer Cells",
+        "items": [
+          {
+            "q": "What are natural killer cells?",
+            "a": "<p>Natural killer (NK) cells are a type of white blood cell that forms part of the body's innate immune system. They act as an early defence, patrolling the blood and tissues to find and destroy infected, stressed, or abnormal cells, including some cancer cells. Unlike T cells, NK cells can attack threats without needing to be trained first, making them a fast-acting part of natural immunity.</p>"
+          },
+          {
+            "q": "How do natural killer cells recognise cancer cells?",
+            "a": "<p>Natural killer cells recognise cancer cells by scanning for missing or altered surface signals. Healthy cells display \"self\" markers called MHC class I proteins that tell NK cells to stand down. Many cancer and virus-infected cells lose these markers or show stress signals, which removes the \"do not attack\" message. This shift in balance can activate NK cells, though recognition depends on each tumour's specific biology.</p>"
+          },
+          {
+            "q": "How do natural killer cells kill cancer cells?",
+            "a": "<p>Natural killer cells kill cancer cells mainly by releasing toxic granules containing perforin and granzymes. Perforin creates pores in the target cell's membrane, allowing granzymes to enter and trigger programmed cell death. NK cells can also signal a tumour cell to self-destruct through death-receptor pathways and release immune messengers that recruit other defences. The overall effect and strength of this response vary between individuals and cancer types.</p>"
+          },
+          {
+            "q": "How are NK cells different from T cells?",
+            "a": "<p>NK cells differ from T cells mainly in how quickly and how specifically they respond. NK cells belong to the innate immune system and can attack abnormal cells rapidly without prior exposure. T cells are part of adaptive immunity and must first be trained to recognise a specific target. Because NK cells do not require this matching step, researchers are exploring them for potentially lower-toxicity, \"off-the-shelf\" cell therapies.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "What is CAR NK cell therapy?",
+            "a": "<p>CAR NK cell therapy is an experimental treatment in which natural killer cells are engineered to carry a chimeric antigen receptor (CAR) that helps them target specific cancer markers. The aim is to combine the natural cancer-fighting ability of NK cells with more precise tumour recognition. It is still largely studied within clinical trials, and suitability depends on cancer type, stage, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "Who may be suitable for NK cell–based therapy?",
+            "a": "<p>NK cell–based therapy may be considered for selected patients, often those with certain blood cancers or specific solid tumours being studied in trials. Suitability depends on cancer type, stage, biomarker profile, previous treatments, and overall health. Because most NK cell approaches remain investigational, eligibility is decided after detailed medical review by a qualified oncology and cell-therapy team, and it is not appropriate for every patient.</p>"
+          },
+          {
+            "q": "How is NK cell therapy given to patients?",
+            "a": "<p>NK cell therapy is usually given as an intravenous infusion after the cells are prepared in a specialised laboratory. Depending on the protocol, NK cells may come from the patient, a healthy donor, umbilical cord blood, or cell lines, and are sometimes expanded or engineered before use. The exact process, preparation steps, and any conditioning treatment vary by trial and should be explained by the treating team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of NK cell therapy?",
+            "a": "<p>NK cell therapy may cause side effects, though early studies suggest it may carry a lower risk of severe cytokine release syndrome than some T-cell therapies. Reported effects can include fever, chills, fatigue, infusion reactions, and temporary drops in blood counts. Because these treatments are still being evaluated, the full safety profile is not fully established, and all risks should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does NK cell therapy cost?",
+            "a": "<p>The cost of NK cell therapy varies widely and cannot be stated as a fixed price. Final cost depends on the hospital, country, cancer type, whether the treatment is part of a clinical trial, laboratory processing, hospital stay, supportive care, and any complications. Some clinical trials may cover parts of the treatment. Patients should request a written estimate and confirm all inclusions with the treating centre before planning.</p>"
+          },
+          {
+            "q": "Which countries offer NK cell and CAR NK cell therapy?",
+            "a": "<p>NK cell and CAR NK cell therapies are mainly available through clinical trials and specialised centres in countries such as China, the United States, and parts of Europe and Asia. Availability changes as research advances, and access often depends on active trials, regulatory approvals, and hospital acceptance. Patients should confirm current options directly with a specialised cell-therapy centre, as eligibility and availability differ between locations.</p>"
+          },
+          {
+            "q": "Is NK cell therapy available in India?",
+            "a": "<p>NK cell therapy in India is limited mainly to research settings and select specialised centres, and availability continues to evolve. Some cell-therapy and clinical-trial programmes may explore NK-based approaches, but access depends on the specific hospital, ongoing studies, and medical review. Because standard availability is not guaranteed, patients should verify current options and eligibility directly with an oncology team experienced in advanced immunotherapy.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Are NK cell therapies still in clinical trials?",
+            "a": "<p>Yes, most NK cell and CAR NK cell therapies are still being evaluated in clinical trials. Researchers are studying their safety, effectiveness, and best use across different cancers, including certain blood cancers and solid tumours. Enrolment is not guaranteed and depends on trial-specific inclusion and exclusion criteria, medical record review, and investigator assessment. Participation should always be discussed carefully with the treating oncology team.</p>"
+          },
+          {
+            "q": "Can NK cell therapy be combined with other cancer treatments?",
+            "a": "<p>NK cell therapy may be studied in combination with other treatments such as chemotherapy, antibodies, or other immunotherapies to try to improve response. The idea is that combined approaches might enhance the immune attack on cancer, but this depends on cancer type, prior therapy, and trial design. NK cell therapy does not replace standard cancer treatment, and any combination should be guided by the treating medical team.</p>"
+          },
+          {
+            "q": "Are \"off-the-shelf\" NK cells being developed?",
+            "a": "<p>Yes, researchers are actively developing \"off-the-shelf\" NK cell products designed to be prepared in advance from donors, cord blood, or cell lines. Because NK cells generally do not require close patient matching, these ready-made options may allow faster access than fully personalised therapies. This remains an area of ongoing research, and the safety, effectiveness, and availability of such products are still being studied in clinical trials.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access NK cell therapy or trials?",
+            "a": "<p>International patients can explore NK cell therapy or trials by first arranging a specialist review of their medical records. Access depends on hospital acceptance, trial eligibility, medical suitability, visa approval, and fitness to travel, none of which can be guaranteed in advance. A structured second opinion, current test reports, and clear communication with the treating centre help patients understand whether these options are realistic for their situation.</p>"
+          },
+          {
+            "q": "What medical reports are needed to explore NK cell therapy?",
+            "a": "<p>To explore NK cell therapy, patients usually need recent and complete medical records. These often include pathology and biopsy reports, biomarker or genetic test results, imaging scans, blood test results, and a summary of previous treatments. A detailed history helps specialists assess suitability and identify possible trials. The exact reports required vary by centre and protocol, so patients should confirm the checklist with the treating team.</p>"
+          },
+          {
+            "q": "Should I get a second opinion before choosing NK cell therapy?",
+            "a": "<p>A second opinion is strongly encouraged before considering NK cell or any experimental cancer therapy. Because these treatments are largely investigational, an independent specialist review helps confirm the diagnosis, clarify whether NK cell therapy is appropriate, and compare it with established options. Final treatment decisions should be made by a qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, prior treatment, and overall health.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with NK cell and CAR NK cell therapy?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is meant to guide patients through the process, not to replace medical advice or guarantee treatment access or outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,64 @@
+{
+  "pillar": "Clinical Trials Based on Mutations",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: clinical-trials-based-on-mutations",
+  "route": "⚠ VERIFY: /insights/clinical-trials-based-on-mutations",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Clinical Trials Based on Mutations",
+    "intro": "Clinical trials based on mutations match new treatments to the specific genetic changes found in a patient's tumor. These FAQs explain how mutation-based trials work, who may qualify, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Mutation-Based Clinical Trials",
+        "items": [
+          {
+            "q": "What are clinical trials based on mutations?",
+            "a": "<p>Clinical trials based on mutations are studies that test new treatments matched to specific genetic changes found in a patient's tumor. Instead of selecting patients only by cancer type, these trials enroll people whose tumors carry a particular biomarker or mutation, such as EGFR, ALK, BRAF, or KRAS. Eligibility depends on tumor testing, cancer stage, previous treatment, and investigator review, and is confirmed only after complete medical records are assessed.</p>"
+          },
+          {
+            "q": "How are patients matched to a clinical trial based on their mutation?",
+            "a": "<p>Patients are matched to a mutation-based trial when tumor testing identifies a genetic change the trial is designed to target. Doctors compare the mutation, cancer type, stage, and treatment history against the trial's inclusion and exclusion criteria. A molecular tumor board or investigator often reviews the results before enrollment. Matching does not guarantee a place in the trial, and final eligibility is decided after the treating team and study staff review complete records.</p>"
+          },
+          {
+            "q": "What is the role of NGS testing in finding mutation-based trials?",
+            "a": "<p>Next-generation sequencing (NGS) plays a central role by reading many genes at once to detect mutations that may match a clinical trial. A comprehensive NGS panel can reveal targetable alterations, fusions, or biomarkers like tumor mutational burden that guide trial selection. Results should be interpreted by a qualified oncology or molecular team, since not every mutation has an available trial, and sample quality, tumor tissue, and timing can all affect the findings.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Mutations, and Access",
+        "items": [
+          {
+            "q": "Who is eligible for mutation-based clinical trials?",
+            "a": "<p>Eligibility for mutation-based clinical trials depends on the specific mutation, cancer type, stage, prior treatments, organ function, and overall health. Each trial sets strict inclusion and exclusion criteria, and a confirmed targetable mutation from tumor testing is usually required. Some trials accept patients only after standard treatments, while others allow earlier enrollment. Final eligibility is determined by the investigator after reviewing medical records, and meeting one criterion does not guarantee acceptance.</p>"
+          },
+          {
+            "q": "Which mutations are commonly targeted in these clinical trials?",
+            "a": "<p>Commonly targeted mutations include EGFR, ALK, ROS1, BRAF, KRAS G12C, HER2, MET, RET, NTRK fusions, and BRCA changes, among others. These alterations appear across cancers such as lung, colorectal, breast, melanoma, and ovarian tumors, and many have matched targeted therapies in trials. The relevant mutations depend on your cancer type and testing results, so which trials may apply should be discussed with a qualified oncology team after reviewing your biomarker profile.</p>"
+          },
+          {
+            "q": "Are mutation-based clinical trials available internationally?",
+            "a": "<p>Mutation-based clinical trials are available in several countries, including the United States, parts of Europe, China, India, and other regions with active research centers. Access for international patients depends on hospital acceptance, medical record review, trial openings, visa approval, and fitness to travel. Some trials only enroll local residents, while others accept overseas patients. Enrollment and benefit are never guaranteed, and eligibility is confirmed only after investigators assess complete diagnostic and molecular reports.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed to apply for a mutation-matched trial?",
+            "a": "<p>To apply for a mutation-matched trial, you generally need recent tumor testing or NGS reports, pathology and biopsy results, imaging scans, and a summary of previous treatments. Blood tests, organ function results, and a current medical report from your oncologist are often required. Complete and up-to-date records help investigators assess eligibility, though additional or repeat testing may be requested. Final requirements vary by trial and are confirmed during the medical review process.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with clinical trials based on mutations?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trial centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support for mutation-based clinical trials. It does not decide eligibility or guarantee enrollment or benefit. Treatment and trial decisions are always made by the qualified oncology team and investigators after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

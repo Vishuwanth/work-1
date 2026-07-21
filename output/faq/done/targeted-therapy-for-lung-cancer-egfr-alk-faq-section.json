@@ -1,0 +1,64 @@
+{
+  "pillar": "Targeted Therapy for Lung Cancer (EGFR, ALK)",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: targeted-therapy-for-lung-cancer-egfr-alk",
+  "route": "⚠ VERIFY: /insights/targeted-therapy-for-lung-cancer-egfr-alk",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy for Lung Cancer (EGFR, ALK)",
+    "intro": "Targeted therapy has changed how certain lung cancers are treated by focusing on specific genetic changes such as EGFR mutations and ALK rearrangements. These answers explain what it is, who it may suit, and how patients can access it.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy for Lung Cancer",
+        "items": [
+          {
+            "q": "What is targeted therapy for lung cancer?",
+            "a": "<p>Targeted therapy for lung cancer is a treatment that uses drugs designed to block specific genetic changes, such as EGFR or ALK alterations, that drive cancer growth. Unlike chemotherapy, which affects rapidly dividing cells throughout the body, targeted therapy focuses on cancer cells carrying these particular changes. It is mainly used in non-small cell lung cancer and is prescribed only after biomarker testing confirms a matching mutation.</p>"
+          },
+          {
+            "q": "What are EGFR and ALK mutations in lung cancer?",
+            "a": "<p>EGFR and ALK are genetic alterations found in some non-small cell lung cancers that can drive tumour growth. EGFR (epidermal growth factor receptor) mutations and ALK (anaplastic lymphoma kinase) rearrangements act like faulty switches that keep cancer cells multiplying. Identifying them through molecular testing helps oncologists choose matching targeted drugs. These changes are more common in certain patients, including some non-smokers, but laboratory testing is needed to confirm them.</p>"
+          },
+          {
+            "q": "How does targeted therapy work?",
+            "a": "<p>Targeted therapy works by blocking the abnormal proteins produced by changes such as EGFR or ALK, interrupting the signals that tell cancer cells to grow and divide. These drugs, often called tyrosine kinase inhibitors, are usually taken as daily oral tablets. By focusing on specific molecular targets, they may control the disease while sparing many healthy cells. Response and duration vary between patients and should be monitored by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Testing, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for EGFR or ALK targeted therapy?",
+            "a": "<p>Eligibility for EGFR or ALK targeted therapy depends on confirming the matching alteration through biomarker testing, along with cancer type, stage, previous treatment, and overall health. It is mainly considered for non-small cell lung cancer and may be suitable for selected patients whose tumours carry these specific changes. Patients without a detectable EGFR or ALK alteration are generally not candidates. Final treatment decisions should be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What tests are needed before starting targeted therapy?",
+            "a": "<p>Before starting targeted therapy, patients usually need molecular or biomarker testing to check for EGFR, ALK, and other alterations. This may involve a tissue biopsy, and sometimes a blood-based liquid biopsy, analysed by methods such as PCR or next-generation sequencing. Imaging scans and general health assessments are also common. Accurate testing is essential, because targeted drugs only help when a matching mutation is present and confirmed by the laboratory.</p>"
+          },
+          {
+            "q": "What are the side effects of EGFR and ALK inhibitors?",
+            "a": "<p>Side effects of EGFR and ALK inhibitors are generally different from chemotherapy but still require monitoring. Common effects may include skin rash, diarrhoea, mouth sores, liver enzyme changes, and fatigue; some ALK drugs can affect vision or heart rhythm. Most side effects are manageable with dose adjustment and supportive care. Patients should report new symptoms promptly, as tolerance varies and management should always be guided by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does targeted therapy for lung cancer cost and how can international patients access it?",
+            "a": "<p>The cost of targeted therapy for lung cancer varies widely and depends on the specific drug, treatment duration, hospital, country, tests, and whether newer or generic versions are used. Because these medicines are often taken long term, expenses can add up over time. For international patients, access also depends on hospital acceptance, medical review, visa approval, and travel fitness. Estimated costs should be confirmed with the treating hospital before planning treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy for lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

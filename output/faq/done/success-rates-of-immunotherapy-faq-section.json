@@ -1,0 +1,68 @@
+{
+  "pillar": "Success Rates of Immunotherapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: success-rates-of-immunotherapy",
+  "route": "⚠ VERIFY: /insights/success-rates-of-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Success Rates of Immunotherapy",
+    "intro": "Immunotherapy success rates vary widely depending on cancer type, stage, and biomarkers. These answers explain what the numbers mean, what affects them, and how patients can seek reliable guidance.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy Success Rates",
+        "items": [
+          {
+            "q": "What is the success rate of immunotherapy?",
+            "a": "<p>Immunotherapy success rates vary widely by cancer type, stage, and biomarker profile, with some patients achieving long-lasting responses and others seeing little benefit. In cancers like melanoma, lung cancer, and certain kidney cancers, checkpoint inhibitors can produce durable results in a meaningful share of patients, while other tumors respond less often. Reported rates depend on the drug, the setting, and how response is measured, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which cancers respond best to immunotherapy?",
+            "a": "<p>Immunotherapy tends to work best in cancers with high mutation burden or specific biomarkers, such as melanoma, non-small cell lung cancer, kidney cancer, bladder cancer, and Hodgkin lymphoma. Tumors that express PD-L1 or show microsatellite instability (MSI-high) may respond more often to checkpoint inhibitors. Response is not guaranteed, and suitability depends on cancer type, stage, prior treatment, and specialist review by the treating medical team.</p>"
+          },
+          {
+            "q": "How is immunotherapy success measured?",
+            "a": "<p>Immunotherapy success is usually measured by response rate, progression-free survival, and overall survival, rather than a single number. Doctors track whether tumors shrink, stay stable, or grow using scans and clinical assessment over time. Because immunotherapy can sometimes work slowly or cause temporary swelling before shrinkage, response is judged carefully. The most meaningful measure is often how long a benefit lasts, which varies between patients and cancer types.</p>"
+          }
+        ]
+      },
+      {
+        "title": "What Affects Success and What to Expect",
+        "items": [
+          {
+            "q": "Does immunotherapy work for everyone?",
+            "a": "<p>No, immunotherapy does not work for everyone, and many patients do not respond or may stop responding over time. Success depends on cancer type, biomarker profile, tumor characteristics, previous treatment, and overall health. Some patients experience durable benefit, while others see little effect or develop resistance. Because outcomes vary, eligibility and expected benefit should be assessed individually by a qualified oncology team before starting treatment.</p>"
+          },
+          {
+            "q": "What factors affect immunotherapy success rates?",
+            "a": "<p>Immunotherapy success rates are influenced by cancer type, stage, PD-L1 expression, tumor mutation burden, microsatellite status, prior therapies, and a patient's overall health. Combination approaches and the timing of treatment can also affect results. A patient's immune function and other medical conditions may play a role too. Because so many factors interact, response cannot be predicted precisely and should be evaluated by the treating oncology team.</p>"
+          },
+          {
+            "q": "How long does it take to know if immunotherapy is working?",
+            "a": "<p>Immunotherapy may take several weeks to a few months to show clear benefit, and doctors usually reassess with scans around two to three months after starting. Unlike some treatments, immunotherapy can occasionally cause tumors to appear larger temporarily before improving, known as pseudoprogression. Because responses vary, the treating team monitors symptoms, blood tests, and imaging over time to decide whether to continue, adjust, or change treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Improving Results, Trials, and Getting Help",
+        "items": [
+          {
+            "q": "Can immunotherapy be combined with other treatments to improve results?",
+            "a": "<p>Yes, immunotherapy is often combined with chemotherapy, targeted therapy, radiation, or another immunotherapy to improve response in selected patients. Combination treatment may increase effectiveness for certain cancers but can also raise the risk of side effects. Whether a combination is suitable depends on cancer type, stage, biomarkers, and overall health. The choice of combination and its expected benefit should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Are immunotherapy success rates higher in clinical trials?",
+            "a": "<p>Immunotherapy success rates in clinical trials may differ from everyday practice because trials often enroll carefully selected patients who meet strict criteria. Trials can offer access to newer drugs or combinations, but enrollment does not guarantee benefit, and eligibility is decided after medical record review and investigator assessment. Reported trial results should be interpreted with caution and discussed with the treating oncology team when weighing options.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy success rates?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions about immunotherapy are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support helps patients understand realistic expectations around immunotherapy success rates without guaranteeing any particular outcome.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

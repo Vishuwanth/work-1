@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Treatment in South Korea",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-south-korea",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-south-korea",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in South Korea",
+    "intro": "South Korea is a recognized destination for advanced cancer care, drawing international patients with modern hospitals and specialist expertise. These answers explain treatments, costs, and how patients from abroad can access care.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in South Korea",
+        "items": [
+          {
+            "q": "What is cancer treatment in South Korea known for?",
+            "a": "<p>Cancer treatment in South Korea is known for advanced technology, experienced oncology specialists, and internationally accredited hospitals. Leading centers such as Samsung Medical Center, Asan Medical Center, and Severance Hospital offer surgery, chemotherapy, radiation, targeted therapy, and immunotherapy. South Korea also invests in precision oncology and early cancer detection. The most appropriate treatment depends on cancer type, stage, biomarker profile, and overall health, and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which cancer treatments are available in South Korea?",
+            "a": "<p>South Korea offers a full range of cancer treatments, including surgery, chemotherapy, radiation therapy, targeted therapy, and immunotherapy. Advanced options such as robotic surgery, proton therapy, and molecular or genomic testing may be available at selected centers. Some hospitals also run clinical trials for newer therapies. The suitability of any treatment depends on cancer type, stage, previous therapy, and specialist review, and final decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Is proton therapy available in South Korea?",
+            "a": "<p>Yes, proton therapy is available at selected cancer centers in South Korea, including the National Cancer Center and Samsung Medical Center. Proton therapy is a precise form of radiation that may reduce damage to surrounding healthy tissue and may be considered for certain tumors, including some pediatric and hard-to-reach cancers. Eligibility depends on tumor type, location, stage, and specialist assessment, and whether it is suitable should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How much does cancer treatment cost in South Korea?",
+            "a": "<p>The cost of cancer treatment in South Korea varies widely depending on the cancer type, stage, treatment protocol, and hospital. Simpler treatments may cost less, while surgery, immunotherapy, or proton therapy can be significantly more expensive. Final cost also depends on diagnostic tests, length of stay, complications, and follow-up care. Because estimates differ for each patient, it is best to request a personalized cost estimate after the treating team reviews your medical reports.</p>"
+          },
+          {
+            "q": "How can international patients access cancer treatment in South Korea?",
+            "a": "<p>International patients can access cancer treatment in South Korea through hospital international patient departments, which review medical records and arrange appointments. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's overall condition. Many major hospitals offer English-language coordination and translation support. Admission and treatment cannot be guaranteed in advance, so it is important to share complete, up-to-date reports so the medical team can assess suitability.</p>"
+          },
+          {
+            "q": "What medical reports are needed to start treatment in South Korea?",
+            "a": "<p>To begin the review process, hospitals in South Korea typically need recent medical reports, including pathology or biopsy results, imaging scans such as CT, MRI, or PET, blood tests, and a summary of previous treatments. Biomarker or genetic test results are also helpful where available. Complete and current records allow specialists to assess the case accurately. Additional tests may be requested after review, and final treatment planning is done by the treating oncology team.</p>"
+          },
+          {
+            "q": "Do international patients need a visa for cancer treatment in South Korea?",
+            "a": "<p>Yes, international patients usually need a medical visa to receive cancer treatment in South Korea, though requirements vary by nationality. A hospital invitation or appointment confirmation is often needed to support the application. Visa approval is decided by immigration authorities and cannot be guaranteed. Patients should also confirm travel fitness with their doctor before planning the trip. Arranging documents early and keeping medical records ready can help make the process smoother.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer treatment in South Korea?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers in South Korea, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It acts as a bridge between patients and hospitals to simplify the international treatment journey. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,68 @@
+{
+  "pillar": "How CAR-T Therapy Works",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: how-car-t-therapy-works",
+  "route": "⚠ VERIFY: /insights/how-car-t-therapy-works",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How CAR-T Therapy Works",
+    "intro": "These answers explain, in plain language, how CAR-T cell therapy is made, how it targets cancer cells, and what patients and caregivers can generally expect from the process.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Therapy",
+        "items": [
+          {
+            "q": "What is CAR-T cell therapy?",
+            "a": "<p>CAR-T cell therapy is a type of immunotherapy that reprograms a patient's own T cells to recognize and attack cancer cells. Doctors collect T cells from the blood, genetically modify them in a laboratory to carry a chimeric antigen receptor (CAR), and then return them to the body. It is used mainly for certain blood cancers and may be considered for selected patients after specialist review.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work?",
+            "a": "<p>CAR-T therapy works by engineering immune cells to find a specific protein on cancer cells. After T cells are collected, a laboratory adds a chimeric antigen receptor that targets an antigen such as CD19 or BCMA. The modified cells are multiplied and infused back into the patient, where they bind to cancer cells and destroy them. Response depends on cancer type, disease burden, and the treating team's assessment.</p>"
+          },
+          {
+            "q": "Which cancers can CAR-T therapy treat?",
+            "a": "<p>CAR-T therapy is currently approved mainly for certain blood cancers, including some types of leukemia, lymphoma, and multiple myeloma. It targets antigens like CD19 or BCMA found on these cancer cells. Its use in solid tumors is still being studied in clinical trials. Whether CAR-T may be suitable depends on cancer type, stage, previous treatment, biomarker profile, and review by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "The Treatment Process and Safety",
+        "items": [
+          {
+            "q": "What are the main steps in CAR-T treatment?",
+            "a": "<p>CAR-T treatment usually involves several steps over a few weeks. First, T cells are collected from the blood through a process called leukapheresis. The cells are then genetically modified and grown in a laboratory, which can take about two to four weeks. Patients receive a short course of chemotherapy to prepare the body before the CAR-T cells are infused. Close monitoring follows, and the exact timeline depends on the treatment center.</p>"
+          },
+          {
+            "q": "How long does CAR-T therapy take to work?",
+            "a": "<p>CAR-T therapy can begin acting within days to a few weeks after infusion, as the modified cells expand and attack cancer cells. Doctors typically assess response with scans or bone marrow tests around one month and again later. Some patients respond quickly, while others may not respond as expected. The depth and durability of the response vary and should be evaluated by the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T therapy?",
+            "a": "<p>CAR-T therapy can cause side effects that range from mild to serious and require careful monitoring. Common ones include cytokine release syndrome, which brings fever and low blood pressure, and neurological symptoms such as confusion. It may also lower blood counts and raise infection risk. Most side effects are managed in specialized centers, and their likelihood and severity differ between patients and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy suitable for everyone?",
+            "a": "<p>CAR-T therapy is not suitable for everyone and is usually considered for selected patients with specific blood cancers that have relapsed or not responded to earlier treatment. Eligibility depends on cancer type, antigen target, overall health, organ function, and previous therapies. Some patients may be too unwell for the process. Final decisions on suitability should be made by the treating medical team after a detailed review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access CAR-T therapy?",
+            "a": "<p>International patients can access CAR-T therapy at approved centers in countries such as the United States, China, and India, though access depends on several factors. These include hospital acceptance, medical record review, fitness for treatment, visa approval, and cost. Because CAR-T is complex and time-sensitive, early planning helps. Availability of specific products varies by country, and eligibility is confirmed only after assessment by the treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

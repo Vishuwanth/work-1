@@ -1,0 +1,68 @@
+{
+  "pillar": "TIL Therapy for Melanoma",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: til-therapy-for-melanoma",
+  "route": "⚠ VERIFY: /insights/til-therapy-for-melanoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About TIL Therapy for Melanoma",
+    "intro": "TIL therapy is an advanced cell-based treatment being used and studied for advanced melanoma. These FAQs explain how it works, who may be eligible, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy for Melanoma",
+        "items": [
+          {
+            "q": "What is TIL therapy for melanoma?",
+            "a": "<p>TIL therapy is a form of personalized cell therapy that uses tumor-infiltrating lymphocytes (TILs)—immune cells found inside a patient's own melanoma—to fight the cancer. These cells are surgically removed, grown into large numbers in a laboratory, and then infused back into the patient. It is generally studied for advanced or metastatic melanoma and may be considered for selected patients after review by a specialist oncology team.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by expanding a patient's own tumor-fighting immune cells outside the body and returning them in large numbers. Surgeons remove a piece of the melanoma tumor, and the lymphocytes inside it are grown in a laboratory over several weeks. Before infusion, patients usually receive lymphodepleting chemotherapy, followed by the TIL infusion and interleukin-2 to help the cells survive and attack remaining cancer cells.</p>"
+          },
+          {
+            "q": "Which melanoma patients may be considered for TIL therapy?",
+            "a": "<p>TIL therapy may be considered for selected patients with advanced or metastatic melanoma, often after other treatments such as immunotherapy have stopped working. Eligibility depends on cancer type, stage, tumor accessibility for surgery, previous treatment, overall health, and specialist review. Patients generally need to be fit enough for surgery and lymphodepleting chemotherapy. Final decisions about suitability should be made by a qualified oncology team after full assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Process, Safety, and Results",
+        "items": [
+          {
+            "q": "What does the TIL therapy process involve?",
+            "a": "<p>The TIL therapy process usually involves several stages spread over a few weeks. First, surgeons remove a portion of the melanoma tumor so that immune cells can be extracted and grown in a laboratory. Patients then receive lymphodepleting chemotherapy to prepare the body, followed by infusion of the expanded TILs and, in many protocols, interleukin-2. Recovery is monitored closely in hospital, and timelines depend on the treating center and patient condition.</p>"
+          },
+          {
+            "q": "What are the possible side effects of TIL therapy?",
+            "a": "<p>TIL therapy can cause significant side effects, many linked to the lymphodepleting chemotherapy and interleukin-2 rather than the cells themselves. These may include low blood counts, infection risk, fever, fatigue, low blood pressure, and fluid buildup. Because the treatment is intensive, patients are cared for in specialized centers with close monitoring. Side effects vary between individuals, and risks should be discussed in detail with the treating oncology and critical-care team beforehand.</p>"
+          },
+          {
+            "q": "How effective is TIL therapy for advanced melanoma?",
+            "a": "<p>TIL therapy has shown meaningful responses in some patients with advanced melanoma, including cases where previous immunotherapy stopped working. In clinical studies, a portion of patients experienced tumor shrinkage, and some had durable responses lasting months or longer. However, results vary widely, and TIL therapy does not work for everyone. It does not guarantee a cure, and outcomes depend on individual factors assessed by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does TIL therapy cost?",
+            "a": "<p>The cost of TIL therapy varies and can be substantial because it involves surgery, laboratory cell manufacturing, chemotherapy, a hospital stay, and intensive monitoring. A reliable fixed price cannot be given in advance. Final cost depends on the hospital, country, diagnosis, stage, tests, treatment protocol, possible complications, and length of stay. Patients should request a detailed written estimate from the treating center, as actual expenses may differ from initial quotes.</p>"
+          },
+          {
+            "q": "Where is TIL therapy available and how can international patients access it?",
+            "a": "<p>TIL therapy is available mainly at specialized cancer centers and through clinical trials in certain countries, and availability continues to expand. For international patients, access depends on hospital acceptance, medical record review, treatment fitness, visa approval, and travel arrangements. Some patients access it through approved therapies and others through clinical trials with strict eligibility criteria. Access and admission are never guaranteed and are confirmed only after specialist assessment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL therapy for melanoma?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers offering TIL therapy, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and cannot guarantee treatment acceptance or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

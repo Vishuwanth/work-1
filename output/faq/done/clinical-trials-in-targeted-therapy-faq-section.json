@@ -1,0 +1,64 @@
+{
+  "pillar": "Clinical Trials in Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: clinical-trials-in-targeted-therapy",
+  "route": "⚠ VERIFY: /insights/clinical-trials-in-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Clinical Trials in Targeted Therapy",
+    "intro": "Clinical trials in targeted therapy test new drugs that act on specific genes, proteins, or biomarkers driving a patient's cancer. These answers explain how such trials work, who may qualify, and how international patients can explore them.",
+    "groups": [
+      {
+        "title": "Understanding Clinical Trials in Targeted Therapy",
+        "items": [
+          {
+            "q": "What are clinical trials in targeted therapy?",
+            "a": "<p>Clinical trials in targeted therapy are research studies that test new drugs designed to act on specific genes, proteins, or biomarkers driving a patient's cancer. Unlike standard chemotherapy, targeted agents aim to block molecular signals that help tumors grow. These trials evaluate how safe and effective an investigational treatment is, and participation is voluntary. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, and investigator review by the study team.</p>"
+          },
+          {
+            "q": "How do targeted therapy clinical trials work?",
+            "a": "<p>Targeted therapy clinical trials work by testing an investigational drug in carefully selected patients whose tumors carry a specific molecular target. After medical record review and required tests, eligible participants receive the study treatment under close monitoring, with regular scans and lab checks. Trials often run in phases that assess safety, dosing, and effectiveness. Response is not guaranteed, and all decisions about joining or continuing should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What biomarkers or tests are needed for these trials?",
+            "a": "<p>Most targeted therapy trials require biomarker testing to confirm a specific molecular target before enrollment. This usually involves tissue biopsy, genomic or molecular profiling, and sometimes blood-based (liquid biopsy) testing, alongside recent imaging, pathology reports, and blood work. The exact requirements depend on the trial and cancer type. Final eligibility is confirmed only after the study investigator reviews these reports, and additional tests may be requested before a decision is made.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Participation",
+        "items": [
+          {
+            "q": "Who is eligible for a targeted therapy clinical trial?",
+            "a": "<p>Eligibility for a targeted therapy clinical trial depends on cancer type, stage, biomarker profile, previous treatments, and overall health. Each trial has strict inclusion and exclusion criteria, such as a confirmed molecular target, adequate organ function, and specific prior-treatment history. Some trials accept newly diagnosed patients, while others focus on advanced or treatment-resistant cancer. Enrollment is not guaranteed and is decided only after medical record review and assessment by the study investigator.</p>"
+          },
+          {
+            "q": "Are targeted therapy clinical trials safe?",
+            "a": "<p>Targeted therapy clinical trials follow strict safety standards, ethics-committee oversight, and ongoing monitoring, but no trial is completely risk-free. Investigational drugs may cause side effects that are known, uncommon, or not yet fully understood. Participants are watched closely with regular tests and can usually withdraw at any time. The potential benefits and risks vary by trial and patient, and should be carefully discussed with the treating medical team before enrolling.</p>"
+          },
+          {
+            "q": "What are the potential benefits and risks of joining a trial?",
+            "a": "<p>Joining a targeted therapy trial may offer access to promising new treatments and close medical monitoring, but benefit is never guaranteed. Possible advantages include additional treatment options when standard therapy is limited. Risks include unknown or serious side effects, extra clinic visits, and the possibility that the drug does not help. Some trials also use comparison groups. Whether a trial is suitable should be reviewed carefully with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "How can international patients access targeted therapy clinical trials?",
+            "a": "<p>International patients can access targeted therapy trials by first having their medical records and biomarker reports reviewed to identify studies that may match their diagnosis. Access depends on trial availability, hospital acceptance, investigator assessment, visa approval, and fitness to travel. Because trials have strict criteria and limited slots, enrollment cannot be promised. Patients should plan for medical review, a possible second opinion, estimated costs, travel, and follow-up care with their treating team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with clinical trials in targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to clinical trials in targeted therapy. It does not decide eligibility or guarantee enrollment. Treatment and trial decisions are always made by the qualified oncology team and study investigators after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

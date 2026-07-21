@@ -1,0 +1,64 @@
+{
+  "pillar": "Success Rates of TIL Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: success-rates-of-til-therapy",
+  "route": "⚠ VERIFY: /insights/success-rates-of-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Success Rates of TIL Therapy",
+    "intro": "TIL (tumor-infiltrating lymphocyte) therapy uses a patient's own immune cells to fight cancer, and its reported success varies by cancer type, prior treatment, and patient health. These answers explain what the response data mean and what patients should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy Success Rates",
+        "items": [
+          {
+            "q": "What are the success rates of TIL therapy?",
+            "a": "<p>Reported success rates for TIL therapy vary widely depending on cancer type, disease stage, and previous treatments. In studies of advanced melanoma, objective response rates have often been reported in roughly the 30–50% range, with some patients experiencing durable benefit. These figures come from selected clinical trial populations and may not apply to every patient. Actual outcomes depend on individual factors and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How effective is TIL therapy for melanoma?",
+            "a": "<p>TIL therapy has shown the most established results in advanced melanoma that has progressed after other treatments. Clinical trials have reported meaningful tumor shrinkage in a substantial proportion of selected patients, and a smaller group has experienced long-lasting responses. Melanoma remains the cancer where TIL therapy is best studied. Effectiveness still depends on tumor characteristics, prior therapy, and overall health, and results should be interpreted with a specialist.</p>"
+          },
+          {
+            "q": "Does TIL therapy work for cancers other than melanoma?",
+            "a": "<p>TIL therapy is being investigated in several cancers beyond melanoma, including lung, cervical, head and neck, and certain other solid tumors. Early research suggests possible benefit for selected patients, but evidence outside melanoma is still limited and largely experimental. Response rates in these cancers are not yet well established. Whether TIL therapy may be considered for a specific non-melanoma cancer should be reviewed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What does objective response rate mean for TIL therapy?",
+            "a": "<p>Objective response rate (ORR) is the percentage of patients whose tumors shrink significantly after treatment, based on standardized imaging criteria. For TIL therapy, ORR helps compare how often the treatment produces measurable tumor reduction in trials. A response does not always mean a cure, and some responses are partial or temporary. ORR is only one measure of benefit and should be understood alongside durability, side effects, and individual clinical context.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Factors That Influence Outcomes",
+        "items": [
+          {
+            "q": "What factors affect the success of TIL therapy?",
+            "a": "<p>Success with TIL therapy depends on several factors, including cancer type, tumor burden, previous treatments, the quality and quantity of tumor-infiltrating lymphocytes collected, and the patient's overall health. Younger, fitter patients with fewer prior therapies may sometimes respond better in trials, though this is not guaranteed. Because these variables interact, eligibility and likely benefit vary from person to person and should be assessed by the treating medical team.</p>"
+          },
+          {
+            "q": "Can TIL therapy provide long-lasting responses?",
+            "a": "<p>Some patients treated with TIL therapy have experienced durable responses lasting months or years, particularly in advanced melanoma. Because TIL therapy is a one-time infusion of living immune cells, responses in certain patients can persist after treatment ends. However, durable benefit is seen in only a portion of responders, and outcomes cannot be predicted for any individual. Long-term results should be discussed realistically with a qualified oncology specialist.</p>"
+          },
+          {
+            "q": "Is TIL therapy a cure for cancer?",
+            "a": "<p>TIL therapy is not a guaranteed cure for cancer. It may shrink tumors and, in some patients, produce long-lasting responses, but many patients see partial benefit or no response. It is generally studied in advanced cancers that have progressed after standard treatment. Whether TIL therapy may be suitable, and what realistic outcomes look like, depends on the individual case and must be decided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support for International Patients",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with TIL therapy success rates?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients understand published response data in the context of their own diagnosis. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

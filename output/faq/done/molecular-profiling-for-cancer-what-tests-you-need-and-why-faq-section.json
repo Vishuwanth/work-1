@@ -1,0 +1,114 @@
+{
+  "pillar": "Molecular profiling for cancer: what tests you need and why",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: molecular-profiling-for-cancer-what-tests-you-need-and-why",
+  "route": "⚠ VERIFY: /<section>/molecular-profiling-for-cancer-what-tests-you-need-and-why",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Molecular Profiling for Cancer",
+    "intro": "Molecular profiling analyzes the genes and proteins inside a tumor to help guide more precise treatment decisions. These FAQs explain which tests may be needed, how the process works, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Molecular Profiling",
+        "items": [
+          {
+            "q": "What is molecular profiling for cancer?",
+            "a": "<p>Molecular profiling is a group of laboratory tests that examine the genes, mutations, and proteins inside a tumor to understand what is driving the cancer. It looks beyond the standard microscope view of a biopsy to identify specific biomarkers that may influence treatment. Results can help oncologists consider targeted therapy, immunotherapy, or clinical trials. The right tests depend on cancer type, stage, and specialist review of your reports.</p>"
+          },
+          {
+            "q": "Why do doctors recommend molecular profiling?",
+            "a": "<p>Doctors recommend molecular profiling to match treatment more closely to the biology of an individual tumor. By identifying mutations or biomarkers such as EGFR, ALK, BRAF, HER2, or PD-L1, the results may reveal whether targeted therapy or immunotherapy could be options. It can also help explain why a treatment stopped working. Whether profiling is useful depends on cancer type, stage, and the treating oncology team's assessment.</p>"
+          },
+          {
+            "q": "What is the difference between molecular profiling and a standard biopsy?",
+            "a": "<p>A standard biopsy confirms whether cancer is present and identifies the tumor type under a microscope, while molecular profiling analyzes the tumor's genetic and protein makeup. Both usually use the same tissue sample, but profiling adds a deeper layer of information about mutations and biomarkers. This extra detail may help guide targeted or immune-based treatment choices. The tests needed should be discussed with your pathology and oncology team.</p>"
+          },
+          {
+            "q": "What biomarkers does molecular profiling look for?",
+            "a": "<p>Molecular profiling looks for biomarkers that can influence treatment, including gene mutations, gene fusions, protein expression, and markers of immunotherapy response. Common examples are EGFR, ALK, ROS1, BRAF, KRAS, HER2, BRCA1/2, PD-L1, microsatellite instability (MSI), and tumor mutational burden (TMB). Which biomarkers are tested depends on the cancer type, available tissue, and specialist recommendations. A qualified oncology team decides which panel is most relevant for each patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who should consider molecular profiling?",
+            "a": "<p>Molecular profiling may be considered for patients with advanced, metastatic, recurrent, or hard-to-treat cancers, and for certain cancer types where biomarkers commonly guide therapy. It may also help when standard treatment has stopped working or when eligibility for targeted therapy is unclear. It is not required for every patient. Whether profiling is suitable depends on cancer type, stage, previous treatment, overall health, and review by the treating oncology team.</p>"
+          },
+          {
+            "q": "How is a molecular profiling test done?",
+            "a": "<p>Molecular profiling is usually done in a specialized laboratory using a tumor tissue sample or, in some cases, a blood sample. The lab extracts genetic material and analyzes it with techniques such as next-generation sequencing (NGS), PCR, or immunohistochemistry. No additional procedure is needed if enough tissue from an earlier biopsy is available. The exact method depends on the cancer type, sample quality, and the tests your oncology team recommends.</p>"
+          },
+          {
+            "q": "What sample is needed for molecular profiling?",
+            "a": "<p>Most molecular profiling uses a tumor tissue sample, often from a biopsy or surgery that has already been performed and stored as a paraffin block. When tissue is limited or difficult to obtain, a blood-based liquid biopsy may be considered. Adequate, good-quality sample material improves the reliability of results. Whether existing tissue is enough or a fresh sample is needed should be confirmed by your pathology and oncology team.</p>"
+          },
+          {
+            "q": "Is molecular profiling safe and are there any risks?",
+            "a": "<p>Molecular profiling itself is a laboratory analysis and does not involve extra risk when performed on tissue that has already been collected. If a new biopsy is required to obtain a sample, that procedure carries the usual biopsy-related risks, such as minor bleeding or discomfort. Results may sometimes be inconclusive or reveal uncertain findings. Any risks and the value of testing should be discussed with your qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does molecular profiling cost?",
+            "a": "<p>The cost of molecular profiling varies widely depending on the type of test, from single-gene tests to large comprehensive panels. Broad next-generation sequencing panels generally cost more than targeted single-marker tests. Final pricing depends on the laboratory, country, cancer type, number of biomarkers tested, and whether tissue or blood is used. Because these ranges change, costs should be confirmed directly with the testing laboratory or treating hospital.</p>"
+          },
+          {
+            "q": "Is molecular profiling available in India?",
+            "a": "<p>Molecular profiling is available in India through several cancer hospitals and specialized diagnostic laboratories that offer single-gene tests, targeted panels, and comprehensive genomic profiling. Availability of specific advanced panels or liquid biopsy may vary by center. Some samples are also sent to international reference laboratories for certain tests. Which tests are accessible and appropriate depends on your cancer type and the recommendations of your treating oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer advanced molecular profiling?",
+            "a": "<p>Advanced molecular profiling, including comprehensive genomic sequencing and liquid biopsy, is offered in many countries with established cancer centers, such as India, the United States, China, Singapore, and several European nations. Some specialized panels are processed by international reference laboratories that accept samples from abroad. Access depends on the test required, laboratory availability, and shipping logistics. Your oncology team can advise which option best fits your situation.</p>"
+          },
+          {
+            "q": "Does insurance cover molecular profiling?",
+            "a": "<p>Insurance coverage for molecular profiling varies by country, insurer, policy, and the specific test ordered. Some plans cover profiling when it directly guides an approved treatment decision, while others may not cover broad panels considered exploratory. Pre-authorization is often required. Because coverage rules differ significantly, patients should confirm details with their insurer and hospital billing team before testing. Final coverage decisions are made by the insurance provider, not the laboratory.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What is comprehensive genomic profiling or NGS?",
+            "a": "<p>Comprehensive genomic profiling uses next-generation sequencing (NGS) to analyze many genes at once, rather than testing a single mutation. It can detect a broad range of alterations, including mutations, fusions, and markers like MSI and TMB, from one tissue or blood sample. This wider view may uncover treatment options or trial opportunities that single tests miss. Whether a broad panel is worthwhile depends on cancer type and specialist review.</p>"
+          },
+          {
+            "q": "What is a liquid biopsy in molecular profiling?",
+            "a": "<p>A liquid biopsy is a blood test that detects fragments of tumor DNA circulating in the bloodstream, allowing molecular profiling without a tissue sample. It may be considered when tissue is limited, hard to reach, or when doctors want to monitor changes over time. It does not replace tissue testing in every situation and can sometimes miss alterations. Its role should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Can molecular profiling help find clinical trials?",
+            "a": "<p>Molecular profiling can help identify clinical trials that target a specific mutation or biomarker found in a patient's tumor. Many modern trials require particular genetic alterations for enrollment, so profiling results can point toward relevant studies. However, profiling does not guarantee trial eligibility or acceptance. Final eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed for molecular profiling abroad?",
+            "a": "<p>For molecular profiling arranged abroad, laboratories typically need the pathology report, the biopsy or surgical tissue block or slides, and a summary of the diagnosis and previous treatment. Recent imaging and clinical notes may also help interpret results. Requirements differ between laboratories and countries. Confirming the exact documents and sample type in advance helps avoid delays. Your treating team and the receiving laboratory can specify what is required.</p>"
+          },
+          {
+            "q": "How long does it take to get molecular profiling results?",
+            "a": "<p>Molecular profiling results usually take from a few days to a few weeks, depending on the test type and laboratory. Single-gene tests are often faster, while comprehensive genomic panels and international sample shipping can take longer. Sample quality and the need for repeat testing may also affect timing. Because turnaround varies, patients should confirm expected timelines with the laboratory or hospital coordinating the test.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with molecular profiling?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or laboratories offering molecular profiling, estimate possible costs, and coordinate second opinions, sample logistics, appointments, travel, visa, and follow-up support. Treatment and testing decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to specific tests depends on laboratory availability and medical review.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

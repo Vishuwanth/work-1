@@ -1,0 +1,68 @@
+{
+  "pillar": "Stem Cell Therapy vs CAR-T Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: stem-cell-therapy-vs-car-t-therapy",
+  "route": "⚠ VERIFY: /insights/stem-cell-therapy-vs-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stem Cell Therapy vs CAR-T Therapy",
+    "intro": "Stem cell therapy and CAR-T therapy are both advanced cell-based cancer treatments, but they work in very different ways and suit different situations. These FAQs explain the key differences to help patients and caregivers understand each option.",
+    "groups": [
+      {
+        "title": "Understanding the Two Therapies",
+        "items": [
+          {
+            "q": "What is the difference between stem cell therapy and CAR-T therapy?",
+            "a": "<p>Stem cell therapy and CAR-T therapy differ mainly in how they treat cancer. Stem cell transplantation replaces diseased bone marrow with healthy blood-forming stem cells, often after high-dose chemotherapy. CAR-T therapy re-engineers a patient's own T-cells to recognise and attack cancer cells directly. Stem cell therapy rebuilds the blood system, while CAR-T uses the immune system as a targeted treatment. Both are used for selected blood cancers after specialist review.</p>"
+          },
+          {
+            "q": "How does stem cell therapy work in cancer treatment?",
+            "a": "<p>Stem cell therapy works by replacing damaged or cancerous bone marrow with healthy blood-forming stem cells. After high-dose chemotherapy or radiation destroys diseased cells, stem cells from the patient (autologous) or a donor (allogeneic) are infused to rebuild healthy blood and immune cells. It is used in conditions such as leukemia, lymphoma, and myeloma. Suitability depends on cancer type, stage, donor availability, and overall health, and should be assessed by a transplant specialist.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work?",
+            "a": "<p>CAR-T therapy works by genetically modifying a patient's own T-cells to target cancer. Doctors collect T-cells from the blood, engineer them in a laboratory to carry chimeric antigen receptors (CARs), and infuse them back so they can find and destroy cancer cells. It is mainly used for certain relapsed or refractory blood cancers, such as some lymphomas, leukemias, and myeloma. Eligibility depends on cancer type, prior treatment, and specialist evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Uses, and Safety",
+        "items": [
+          {
+            "q": "Which cancers are treated with stem cell therapy versus CAR-T therapy?",
+            "a": "<p>Both therapies are mainly used for blood cancers, but for different situations. Stem cell transplantation is commonly considered for leukemia, lymphoma, myeloma, and some inherited blood disorders. CAR-T therapy may be considered for certain relapsed or hard-to-treat lymphomas, B-cell leukemias, and multiple myeloma. Neither is a standard option for most solid tumours today. The right choice depends on diagnosis, stage, biomarkers, previous treatment, and review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy better than stem cell therapy?",
+            "a": "<p>Neither therapy is universally better; each suits different patients and cancers. CAR-T therapy may be considered when blood cancers relapse or do not respond to earlier treatment, offering a targeted immune approach without needing a donor. Stem cell therapy may be preferred when the blood or marrow system must be rebuilt. Response, risks, and suitability vary between individuals, so the final decision should be made by the treating medical team after full assessment.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of each therapy?",
+            "a": "<p>Both therapies carry serious risks that require close monitoring in specialised centres. Stem cell therapy can involve infection, graft-versus-host disease (with donor cells), and prolonged low blood counts. CAR-T therapy can cause cytokine release syndrome and neurological side effects, sometimes severe. Side effects vary by patient, cancer type, and treatment protocol. These therapies should only be given in experienced centres, and potential benefits and risks should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Practical Questions",
+        "items": [
+          {
+            "q": "How much do stem cell therapy and CAR-T therapy cost?",
+            "a": "<p>Costs vary widely and depend on many factors, so fixed prices cannot be guaranteed. CAR-T therapy is generally more expensive because of its personalised cell-engineering process, while stem cell transplant costs depend on whether cells come from the patient or a donor. Final cost depends on the hospital, country, diagnosis, stage, tests, protocol, complications, and length of stay. A personalised estimate should be obtained after medical record review by the treating centre.</p>"
+          },
+          {
+            "q": "How can international patients access these therapies?",
+            "a": "<p>International patients can access stem cell and CAR-T therapy at selected specialised centres, subject to several conditions. Access depends on hospital acceptance, medical record review, treatment fitness, visa approval, and the patient's overall condition. Because both therapies need advanced facilities, availability differs by country and centre. Patients usually need detailed reports, pathology, and a second opinion before planning travel. Admission, timing, and suitability are decided by the treating team, not guaranteed in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell therapy and CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support aims to make navigating complex cell-based therapies clearer for patients and caregivers, without replacing the guidance of treating doctors and hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,68 @@
+{
+  "pillar": "What is TIL Therapy?",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: what-is-til-therapy",
+  "route": "⚠ VERIFY: /insights/what-is-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About TIL Therapy",
+    "intro": "TIL therapy is an advanced form of cellular immunotherapy being studied for certain solid tumours. These answers explain what it is, how it works, who it may suit, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy",
+        "items": [
+          {
+            "q": "What is TIL therapy?",
+            "a": "<p>TIL therapy, or tumour-infiltrating lymphocyte therapy, is a form of cellular immunotherapy that uses a patient's own immune cells taken from inside their tumour. These naturally cancer-fighting T cells are removed, grown into large numbers in a laboratory, and then infused back to help the immune system attack cancer. It is an advanced treatment studied mainly in melanoma and certain other solid tumours, and eligibility depends on specialist review.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by expanding the immune cells that already exist inside a tumour so they can better fight cancer. Surgeons remove a small piece of tumour, and the lymphocytes within it are multiplied into billions of cells in a laboratory. After a short course of preparatory chemotherapy, these cells are infused back, often with a drug called interleukin-2. Response varies between patients and depends on cancer type, prior treatment, and overall health.</p>"
+          },
+          {
+            "q": "Which cancers may be treated with TIL therapy?",
+            "a": "<p>TIL therapy has been studied most extensively in advanced melanoma, where it has shown responses in selected patients after other treatments. Research is ongoing in other solid tumours such as cervical, lung, and head and neck cancers, though availability outside clinical trials remains limited. Whether TIL therapy may be suitable depends on cancer type, stage, previous therapies, tumour accessibility, and overall health, and should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for TIL therapy?",
+            "a": "<p>Eligibility for TIL therapy may include patients with advanced or metastatic solid tumours, often melanoma, whose disease has progressed after standard treatments. Candidates generally need a tumour that can be safely removed for cell harvesting and must be fit enough for preparatory chemotherapy. Final eligibility depends on cancer type, biomarker profile, organ function, previous treatment, and specialist assessment, and treatment decisions should always be made by the treating medical team.</p>"
+          },
+          {
+            "q": "What does the TIL therapy process involve?",
+            "a": "<p>The TIL therapy process involves several stages over a few weeks. First, a portion of tumour is surgically removed and the immune cells inside are grown in a laboratory. Patients then receive a short course of chemotherapy to prepare the body, followed by infusion of the expanded cells and sometimes interleukin-2. A hospital stay is usually required for close monitoring. Timelines and steps vary by centre and individual patient condition.</p>"
+          },
+          {
+            "q": "What are the possible side effects of TIL therapy?",
+            "a": "<p>Side effects of TIL therapy are mainly linked to the preparatory chemotherapy and interleukin-2 rather than the cells themselves. These may include low blood counts, infection risk, fever, fatigue, fluid retention, and temporary effects on blood pressure or organ function. Most side effects are managed in hospital under close supervision. The type and severity vary between patients, and potential risks should be discussed carefully with the treating oncology team beforehand.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "How much does TIL therapy cost?",
+            "a": "<p>The cost of TIL therapy varies widely and cannot be stated as a fixed figure. Because it involves surgery, laboratory cell manufacturing, chemotherapy, hospital admission, and specialist care, expenses depend on the hospital, country, diagnosis, and length of stay. Some patients may access it through clinical trials, which can affect cost. Final pricing depends on the treating centre and individual treatment plan and should be confirmed directly with the hospital.</p>"
+          },
+          {
+            "q": "How can international patients access TIL therapy?",
+            "a": "<p>International patients may access TIL therapy at a small number of specialised centres, often through clinical trials or approved programmes in select countries. Access depends on hospital acceptance, medical record review, tumour suitability, visa approval, and fitness to travel, and cannot be guaranteed. Patients usually need recent pathology, imaging, and treatment history for evaluation. A second opinion and specialist assessment help determine whether this option may be appropriate for an individual.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL therapy?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

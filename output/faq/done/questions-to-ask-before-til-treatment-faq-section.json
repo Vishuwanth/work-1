@@ -1,0 +1,68 @@
+{
+  "pillar": "Questions to Ask Before TIL Treatment",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-to-ask-before-til-treatment",
+  "route": "⚠ VERIFY: /insights/questions-to-ask-before-til-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions to Ask Before TIL Treatment",
+    "intro": "Preparing for tumor-infiltrating lymphocyte (TIL) therapy means knowing what to ask your oncology team. These questions help patients and caregivers understand eligibility, the process, risks, and practical planning before starting treatment.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy and Eligibility",
+        "items": [
+          {
+            "q": "What is TIL therapy and how does it work?",
+            "a": "<p>TIL therapy is a form of cell-based immunotherapy that uses tumor-infiltrating lymphocytes, immune cells taken from a patient's own tumor. These cells are grown in large numbers in a laboratory and then infused back to help the immune system attack cancer. The process usually involves surgery to collect tissue, cell expansion, lymphodepleting chemotherapy, infusion, and often interleukin-2 support. Suitability depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "Am I eligible for TIL treatment?",
+            "a": "<p>Eligibility for TIL therapy depends on your cancer type, stage, tumor accessibility, previous treatments, and overall health. It has been studied most in advanced melanoma and certain solid tumors, and may be considered for selected patients when standard options are limited. Ask whether your tumor can be surgically sampled and whether you are fit for lymphodepleting chemotherapy. Final eligibility should be confirmed by a qualified oncology team after reviewing your complete medical records.</p>"
+          },
+          {
+            "q": "What questions should I ask about my cancer type and stage?",
+            "a": "<p>Ask your oncologist whether TIL therapy has shown activity in your specific cancer type and stage. Useful questions include whether your tumor is suitable for cell collection, how your biomarker profile affects the decision, and what standard treatments you may have first. Understanding where TIL fits among your options helps set realistic expectations. Treatment decisions should be made with your treating team based on your diagnosis, prior therapy, and overall condition.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Process, Risks, and Recovery",
+        "items": [
+          {
+            "q": "What does the TIL treatment process involve step by step?",
+            "a": "<p>The TIL treatment process typically involves several stages over a few weeks. First, surgeons remove a piece of tumor to collect immune cells, which are then expanded in a laboratory. Before infusion, patients usually receive lymphodepleting chemotherapy to prepare the body. The grown cells are infused back, often followed by interleukin-2 to support their activity. Ask your team about the expected timeline, hospital stay, and monitoring at each step.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of TIL therapy?",
+            "a": "<p>TIL therapy can cause side effects from the lymphodepleting chemotherapy, the cell infusion, and interleukin-2 support. These may include low blood counts, infection risk, fever, fatigue, low blood pressure, and fluid retention, sometimes requiring intensive monitoring. Side effects vary between patients and depend on the protocol used. Ask your care team how risks will be managed and what support is available. All treatment decisions should be discussed with your qualified oncology team.</p>"
+          },
+          {
+            "q": "How long is recovery and hospital stay after TIL treatment?",
+            "a": "<p>Recovery time after TIL therapy varies, but many patients spend several days to a few weeks in hospital because of the intensive chemotherapy and monitoring involved. Ask your team about the expected length of stay, how blood counts will be tracked, and when you can safely travel or return to daily activities. Recovery depends on your overall health, the protocol used, and how you respond, so timelines should be confirmed with your treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Planning",
+        "items": [
+          {
+            "q": "How much does TIL therapy cost and what affects the price?",
+            "a": "<p>The cost of TIL therapy varies widely and cannot be stated as a fixed figure. Final cost depends on the hospital, country, diagnosis, tumor collection surgery, laboratory cell production, chemotherapy, length of stay, supportive care, and any complications. Ask for a written estimate and what it includes, plus follow-up expenses. Because pricing changes by center and protocol, request current figures directly from the treating hospital rather than relying on general ranges.</p>"
+          },
+          {
+            "q": "What should international patients ask before traveling for TIL treatment?",
+            "a": "<p>International patients should ask about hospital acceptance, medical record review, estimated cost, expected duration, and follow-up care before traveling. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and your condition, none of which can be guaranteed in advance. Ask which reports are needed, whether a second opinion is possible, and how post-treatment monitoring will continue at home. Confirm all arrangements with the treating team before making travel commitments.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL treatment?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is meant to help patients prepare and ask the right questions, not to replace medical advice from the treating doctors and hospital.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

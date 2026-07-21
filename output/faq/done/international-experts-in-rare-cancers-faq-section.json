@@ -1,0 +1,68 @@
+{
+  "pillar": "International Experts in Rare Cancers",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: international-experts-in-rare-cancers",
+  "route": "⚠ VERIFY: /insights/international-experts-in-rare-cancers",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About International Experts in Rare Cancers",
+    "intro": "Rare cancers are often best managed by specialists who see these tumors regularly, and international expertise can add valuable perspective. These answers explain who these experts are, when a global opinion may help, and how patients can access one.",
+    "groups": [
+      {
+        "title": "Understanding Rare Cancer Expertise",
+        "items": [
+          {
+            "q": "Who are international experts in rare cancers?",
+            "a": "<p>International experts in rare cancers are oncologists, surgeons, and pathologists who focus on uncommon tumor types and treat them frequently at high-volume or specialist centers. Because rare cancers are diagnosed infrequently, many general oncologists see very few cases, while these specialists build deep experience across diagnosis, pathology review, and treatment planning. Their involvement may help clarify a diagnosis or refine options, though final decisions always rest with the treating oncology team.</p>"
+          },
+          {
+            "q": "What counts as a rare cancer?",
+            "a": "<p>A rare cancer is generally defined as one that affects fewer than 6 people per 100,000 each year, though definitions vary by country. Examples include sarcomas, mesothelioma, adrenocortical carcinoma, many neuroendocrine tumors, and rare childhood cancers. Because these cancers are uncommon, diagnosis and treatment can be challenging, and specialist or expert review may be considered to confirm the tumor type and discuss suitable, evidence-based management approaches.</p>"
+          },
+          {
+            "q": "Why does specialist experience matter more for rare cancers?",
+            "a": "<p>Specialist experience matters because rare cancers can be difficult to diagnose accurately and may respond differently to treatment than common cancers. Experts who see many cases are more familiar with unusual pathology, relevant biomarkers, and newer or trial-based options. Studies suggest that care at high-volume centers may be associated with better outcomes for some rare cancers, but results depend on tumor type, stage, and individual patient factors reviewed by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Getting an Expert Opinion",
+        "items": [
+          {
+            "q": "When should a patient seek an international expert opinion for a rare cancer?",
+            "a": "<p>Seeking an international expert opinion may be considered when a rare cancer diagnosis is uncertain, when local treatment options are limited, or when a second perspective on pathology or a treatment plan would be helpful. It can also be useful before major surgery or when exploring clinical trials. Whether an outside opinion changes management depends on the individual case and should be discussed with the current treating oncology team.</p>"
+          },
+          {
+            "q": "What reports are needed for an expert review of a rare cancer?",
+            "a": "<p>An expert review of a rare cancer usually needs the pathology or biopsy report, tumor tissue blocks or slides for possible re-review, imaging scans such as CT, MRI, or PET, and a summary of previous treatments. Biomarker or molecular testing results, if available, are also valuable. Complete and legible records help specialists assess the case accurately, though the treating team decides what additional testing may be required.</p>"
+          },
+          {
+            "q": "Can a rare cancer diagnosis change after expert pathology review?",
+            "a": "<p>Yes, a rare cancer diagnosis can sometimes change after expert pathology review, since uncommon tumors are easy to misclassify under a microscope. Specialist pathologists at reference centers may reclassify the tumor type or grade, which can influence treatment recommendations. This does not happen in every case, and any revised diagnosis should be confirmed and interpreted by the treating oncology team before treatment decisions are made.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support",
+        "items": [
+          {
+            "q": "How can international patients access rare cancer experts?",
+            "a": "<p>International patients can access rare cancer experts through remote second opinions, teleconsultations, or in-person referral to specialist centers. Access depends on hospital acceptance, medical record review, travel fitness, and, for in-person care, visa approval. Many centers first review records remotely before advising whether travel is needed. Availability and timelines vary by country and center, and admission or treatment acceptance cannot be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How much does an international rare cancer opinion cost?",
+            "a": "<p>The cost of an international rare cancer opinion varies widely depending on the center, country, whether pathology re-review is needed, and if consultation is remote or in person. Remote second opinions are usually less costly than travel-based care. Final costs depend on the hospital, tests required, treatment protocol, and length of stay if treatment follows. Patients should request a written estimate, as quoted figures are not fixed guarantees.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with international experts in rare cancers?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers for rare cancers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax supports coordination but does not replace the guidance of doctors or hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

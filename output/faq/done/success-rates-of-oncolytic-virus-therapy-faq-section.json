@@ -1,0 +1,64 @@
+{
+  "pillar": "Success Rates of Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: success-rates-of-oncolytic-virus-therapy",
+  "route": "⚠ VERIFY: /insights/success-rates-of-oncolytic-virus-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Success Rates of Oncolytic Virus Therapy",
+    "intro": "Oncolytic virus therapy uses modified viruses to infect and destroy cancer cells while stimulating the immune system. These answers explain how success is measured, what influences outcomes, and how patients can explore this evolving treatment.",
+    "groups": [
+      {
+        "title": "Understanding Success Rates",
+        "items": [
+          {
+            "q": "What is the success rate of oncolytic virus therapy?",
+            "a": "<p>Success rates for oncolytic virus therapy vary widely and depend on the specific virus, cancer type, stage, and whether it is combined with other treatments. In some approved uses, such as talimogene laherparepvec (T-VEC) for advanced melanoma, a portion of treated patients show meaningful tumor shrinkage, while many others may not respond. Most oncolytic viruses remain experimental, so reported outcomes come mainly from clinical trials and should be interpreted cautiously with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How is success measured in oncolytic virus therapy?",
+            "a": "<p>Success in oncolytic virus therapy is usually measured by tumor response, duration of response, progression-free survival, and overall survival. Doctors also track immune activation and quality of life. A partial or complete response means the tumor shrinks or disappears on imaging, but response does not guarantee cure. Because many studies are early-phase, results vary between trials and cannot be compared directly. Final interpretation of outcomes should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Which cancers respond best to oncolytic virus therapy?",
+            "a": "<p>Melanoma has shown some of the most established responses to oncolytic virus therapy, particularly with T-VEC delivered directly into tumors. Research is also ongoing in glioblastoma, some sarcomas, bladder, head and neck, and certain solid tumors. Response depends heavily on tumor type, accessibility for injection, immune status, and prior treatment. Because most applications are still investigational, suitability for any specific cancer should be confirmed through specialist review and available clinical trial criteria.</p>"
+          }
+        ]
+      },
+      {
+        "title": "What Affects Outcomes and Safety",
+        "items": [
+          {
+            "q": "Does oncolytic virus therapy work better with immunotherapy?",
+            "a": "<p>Oncolytic virus therapy may work better when combined with immunotherapy, and this is an active area of research. The virus can expose tumor targets and attract immune cells, potentially improving the effect of checkpoint inhibitors in selected patients. Some trials report higher response rates with combinations than with either treatment alone. However, results differ by cancer type and trial design, and any combination approach should be evaluated and decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What factors affect the success of oncolytic virus therapy?",
+            "a": "<p>Success depends on cancer type, stage, tumor location, immune system status, previous treatments, and the specific virus used. Tumors that can be reached for direct injection and patients with a responsive immune environment may show better outcomes in trials. Pre-existing immunity to the virus and heavily pre-treated disease can reduce effectiveness. Because outcomes vary between individuals, eligibility and expected benefit should always be assessed through specialist review and appropriate testing.</p>"
+          },
+          {
+            "q": "Is oncolytic virus therapy safe?",
+            "a": "<p>Oncolytic virus therapy is generally designed to target cancer cells while limiting harm to healthy tissue, and reported side effects are often mild to moderate. Common effects can include fever, chills, fatigue, and injection-site reactions. Because most viruses are genetically modified and many remain experimental, longer-term safety continues to be studied in clinical trials. Safety for any individual depends on overall health and cancer type and should be discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Practical Questions",
+        "items": [
+          {
+            "q": "Is oncolytic virus therapy available outside clinical trials?",
+            "a": "<p>Only a small number of oncolytic virus therapies are approved for routine use, such as T-VEC for certain advanced melanoma cases in some countries. Most others are available only through clinical trials with strict inclusion and exclusion criteria. Enrollment and benefit are never guaranteed and are decided after medical record review and investigator assessment. Availability differs by country and hospital, so options should be confirmed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with oncolytic virus therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to oncolytic virus therapy. Access to any specific therapy or clinical trial depends on medical review, eligibility, and hospital acceptance. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

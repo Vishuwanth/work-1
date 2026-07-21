@@ -1,0 +1,68 @@
+{
+  "pillar": "Questions Patients Should Ask",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-patients-should-ask",
+  "route": "⚠ VERIFY: /insights/questions-patients-should-ask",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions Patients Should Ask About CAR-T Cell Therapy",
+    "intro": "Knowing what to ask before starting CAR-T cell therapy helps patients and caregivers make informed, confident decisions. These questions cover eligibility, safety, cost, and access so conversations with your oncology team are clearer.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T and Your Eligibility",
+        "items": [
+          {
+            "q": "What questions should I ask before starting CAR-T cell therapy?",
+            "a": "<p>Before starting CAR-T cell therapy, ask whether it is appropriate for your specific cancer type, stage, and previous treatments. Useful questions include how CAR-T works, what response rates look like for your condition, what side effects to expect, how long recovery takes, and what alternatives exist. Eligibility depends on cancer type, disease status, organ function, and overall health, so these details should be discussed with your treating oncology team.</p>"
+          },
+          {
+            "q": "Am I eligible for CAR-T cell therapy?",
+            "a": "<p>Eligibility for CAR-T cell therapy depends on your cancer type, disease stage, prior treatments, and overall health. It may be considered for selected patients with certain blood cancers such as some lymphomas, leukemias, and multiple myeloma, often after other treatments have been tried. Doctors also assess organ function, infection status, and fitness for the process. Final eligibility is decided by your specialist after reviewing your medical records and test results.</p>"
+          },
+          {
+            "q": "How do I ask my doctor if CAR-T is right for my cancer?",
+            "a": "<p>Ask your doctor directly whether your cancer type and current disease status match approved or trial-based CAR-T options. Helpful questions include which CAR-T products target your cancer, what your realistic goals of treatment are, and how CAR-T compares with chemotherapy, transplant, or other therapies. Bring your pathology, biomarker, and treatment history reports. The suitability of CAR-T should always be confirmed by your qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Side Effects, and the Treatment Process",
+        "items": [
+          {
+            "q": "What side effects should I ask about with CAR-T cell therapy?",
+            "a": "<p>Ask specifically about cytokine release syndrome (CRS) and neurological side effects, which are the most closely monitored risks of CAR-T cell therapy. Also ask about infection risk, low blood counts, and how long you may need close observation. Side effects range from mild to serious and are usually managed in specialized centers. Discuss warning signs, monitoring plans, and how your care team will respond if complications develop.</p>"
+          },
+          {
+            "q": "How long does the CAR-T treatment process take?",
+            "a": "<p>The CAR-T treatment process typically spans several weeks, so ask your team for a timeline specific to your case. It usually involves collecting your T-cells, sending them to a laboratory to be engineered, a short chemotherapy phase, and then the cell infusion followed by monitoring. Manufacturing can take a few weeks. Recovery and follow-up vary by patient, and exact timing depends on your condition and the treatment center.</p>"
+          },
+          {
+            "q": "What should I ask about recovery and follow-up after CAR-T?",
+            "a": "<p>Ask how long you must stay near the treatment center, how often follow-up visits and scans are needed, and what symptoms require urgent attention. Recovery after CAR-T cell therapy varies, and some patients need weeks of close monitoring for delayed side effects and low immunity. Discuss caregiver support, when normal activities can resume, and long-term monitoring plans. Your treating team will tailor follow-up to your response and overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Treatment",
+        "items": [
+          {
+            "q": "What questions should I ask about the cost of CAR-T cell therapy?",
+            "a": "<p>Ask for an estimated total cost that includes the CAR-T product, hospital stay, monitoring, supportive care, and possible complication management. CAR-T is an expensive therapy, and final costs depend on the hospital, country, cancer type, and length of stay. Also ask about insurance coverage, clinical trial options that may reduce cost, and what expenses are not included. Cost estimates should be confirmed directly with the treating hospital.</p>"
+          },
+          {
+            "q": "How can international patients access CAR-T cell therapy?",
+            "a": "<p>International patients can access CAR-T cell therapy at selected specialized centers, but access depends on hospital acceptance, medical review, and travel fitness. Ask which countries and hospitals offer suitable CAR-T options, what reports are required, and whether clinical trials are available. Also plan for visa approval, length of stay, and follow-up care. Admission and treatment cannot be guaranteed and are decided after the hospital reviews your medical records.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with questions about CAR-T cell therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This makes it easier to ask the right questions and compare CAR-T options across hospitals and countries. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

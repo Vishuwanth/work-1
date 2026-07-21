@@ -1,0 +1,114 @@
+{
+  "pillar": "PSMA and Prostate Cancer: Understanding the Target",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: psma-and-prostate-cancer-understanding-the-target",
+  "route": "⚠ VERIFY: /<section>/psma-and-prostate-cancer-understanding-the-target",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About PSMA and Prostate Cancer",
+    "intro": "PSMA is a protein target that has transformed how prostate cancer is imaged and treated. These FAQs explain what PSMA is, how it is used in scans and radioligand therapy, and what patients and caregivers should understand.",
+    "groups": [
+      {
+        "title": "Understanding PSMA",
+        "items": [
+          {
+            "q": "What is PSMA in prostate cancer?",
+            "a": "<p>PSMA, or prostate-specific membrane antigen, is a protein found in large amounts on the surface of most prostate cancer cells. Because it is highly expressed on prostate tumors and only weakly present in healthy tissue, PSMA acts as a molecular target that doctors can use to locate cancer on specialized scans and to deliver treatment directly to cancer cells. Its role depends on individual tumor biology and specialist assessment.</p>"
+          },
+          {
+            "q": "Why is PSMA important as a target?",
+            "a": "<p>PSMA is important because it appears on the surface of most prostate cancer cells, making it a precise handle for both imaging and therapy. Doctors can attach a radioactive tracer to a molecule that binds PSMA, allowing tumors to be seen on scans or treated with targeted radiation. This targeted approach may spare healthy tissue, though expression levels vary between patients and must be confirmed by testing.</p>"
+          },
+          {
+            "q": "Do all prostate cancers express PSMA?",
+            "a": "<p>Most prostate cancers express PSMA, but not all do, and levels can vary widely between patients and even within the same tumor. Some aggressive or neuroendocrine prostate cancers may show low or absent PSMA. This is why a PSMA PET scan is often used to confirm whether a patient's tumor takes up the tracer before considering PSMA-targeted therapy, and results are always interpreted by a specialist.</p>"
+          },
+          {
+            "q": "What is the difference between a PSMA PET scan and PSMA therapy?",
+            "a": "<p>A PSMA PET scan is a diagnostic imaging test that uses a small amount of radioactive tracer to show where PSMA-expressing prostate cancer is located in the body. PSMA therapy, such as radioligand therapy, uses a similar targeting molecule carrying a stronger radioactive particle to treat those cancer cells. Imaging identifies suitable candidates, while therapy delivers treatment; both depend on tumor PSMA expression and medical review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for PSMA-targeted treatment?",
+            "a": "<p>PSMA-targeted treatment may be considered for selected patients with advanced or metastatic prostate cancer whose tumors clearly express PSMA on a PET scan. Eligibility depends on cancer type, stage, biomarker profile, previous treatments, kidney and bone marrow function, and overall health. A PSMA PET scan usually confirms suitable uptake before therapy. Final decisions should be made by a qualified oncology team after full review.</p>"
+          },
+          {
+            "q": "How does a PSMA PET scan work?",
+            "a": "<p>A PSMA PET scan works by injecting a small amount of a radioactive tracer that binds to PSMA on prostate cancer cells. After a short waiting period, a PET/CT scanner detects where the tracer has collected, highlighting areas of cancer that may not appear on standard imaging. The scan is generally well tolerated, uses low radiation doses, and its findings should be interpreted alongside other tests by specialists.</p>"
+          },
+          {
+            "q": "What are the possible side effects of PSMA radioligand therapy?",
+            "a": "<p>PSMA radioligand therapy may cause side effects such as tiredness, dry mouth, nausea, and temporary drops in blood counts, since PSMA is also present in salivary glands and kidneys. Most effects are mild to moderate, but some patients may experience kidney or bone marrow changes that require monitoring. Side effects vary by individual, and any treatment risks should be discussed carefully with the treating medical team.</p>"
+          },
+          {
+            "q": "How many cycles of PSMA therapy are usually given?",
+            "a": "<p>PSMA radioligand therapy is typically given as a course of several cycles, often up to around six, spaced a few weeks apart, depending on the specific treatment and patient response. The exact number varies based on how the cancer responds, side effects, kidney and blood counts, and overall health. Treatment is monitored with scans and blood tests, and the final schedule is decided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does PSMA-targeted treatment cost?",
+            "a": "<p>The cost of PSMA-targeted treatment varies widely depending on the country, hospital, type of scan or therapy, number of cycles, and supporting tests. PSMA PET scans and radioligand therapy are specialized procedures, so prices differ between centers. Final cost depends on diagnosis, stage, treatment protocol, length of stay, and possible complications. Patients should request a detailed written estimate from the treating hospital before starting.</p>"
+          },
+          {
+            "q": "Is PSMA therapy available in India?",
+            "a": "<p>PSMA PET imaging and PSMA radioligand therapy are available at selected specialized cancer and nuclear medicine centers in India, though availability differs by city and hospital. Access depends on tumor PSMA expression, the patient's condition, and the treating team's assessment. Availability and approval status can change over time, so patients should confirm current options directly with an experienced center and have their reports reviewed by a specialist.</p>"
+          },
+          {
+            "q": "Which countries offer PSMA-targeted care?",
+            "a": "<p>PSMA PET scans and PSMA-targeted therapies are offered in several countries with advanced nuclear medicine facilities, including parts of India, Germany, and other centers in Europe, Asia, and Australia. Availability, approval status, and specific tracers or therapies differ between countries and hospitals. Because regulations and access change over time, patients should verify current options with the treating center and ensure their medical records are reviewed by qualified specialists.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What is PSMA theranostics?",
+            "a": "<p>PSMA theranostics is an approach that combines diagnosis and therapy using the same PSMA target. A PSMA PET scan first identifies cancer that expresses the protein, and if uptake is suitable, a matching therapy delivers targeted radiation to those cells. This see-and-treat strategy may help personalize care for selected patients with advanced prostate cancer, though its use depends on tumor biology, overall health, and specialist evaluation.</p>"
+          },
+          {
+            "q": "Are there clinical trials for PSMA-based treatments?",
+            "a": "<p>Yes, clinical trials are studying newer PSMA-based treatments, including different radioactive particles, combinations with other therapies, and use at earlier stages of prostate cancer. Trial participation is not guaranteed, as eligibility is decided after medical record review and investigator assessment against strict inclusion and exclusion criteria. Trials may offer access to emerging options, but benefit cannot be promised and should be discussed with the oncology team.</p>"
+          },
+          {
+            "q": "How does PSMA therapy compare with other advanced prostate cancer treatments?",
+            "a": "<p>PSMA radioligand therapy is one of several options for advanced prostate cancer, alongside hormone therapy, chemotherapy, and other targeted or bone-directed treatments. It may be considered for selected patients whose cancer expresses PSMA and has progressed despite standard treatments. It does not replace all other therapies and is often used within a broader plan. The best sequence depends on individual factors and treating-team decisions.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed to plan PSMA treatment?",
+            "a": "<p>Planning PSMA treatment usually requires recent medical reports including a confirmed prostate cancer diagnosis, biopsy and pathology results, PSA blood levels, and imaging such as a PSMA PET scan, CT, MRI, or bone scan. Details of previous treatments, current medications, and kidney and blood function are also important. Complete, up-to-date records help specialists assess suitability, though final decisions rest with the treating oncology team.</p>"
+          },
+          {
+            "q": "How can international patients access PSMA treatment abroad?",
+            "a": "<p>International patients can access PSMA treatment abroad by sharing their medical reports with an experienced center for review, obtaining a treatment opinion and cost estimate, and then arranging travel if accepted. Access depends on hospital acceptance, medical suitability, visa approval, travel fitness, and the patient's condition. None of these can be guaranteed in advance, so early planning and a specialist second opinion are strongly recommended before travel.</p>"
+          },
+          {
+            "q": "Should I get a second opinion before starting PSMA therapy?",
+            "a": "<p>A second opinion can be helpful before starting PSMA therapy, especially for advanced prostate cancer where treatment choices are complex. Reviewing scans, pathology, and PSMA expression with another experienced specialist may confirm whether the therapy is appropriate or whether other options should be considered first. A second opinion supports informed decisions, but final treatment plans should always be made with your treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with PSMA and prostate cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support for PSMA-related care. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, PSMA expression, previous treatment, and overall health. CancerFax supports coordination and access but does not replace doctors, hospitals, or medical advice.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

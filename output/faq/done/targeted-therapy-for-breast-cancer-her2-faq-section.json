@@ -1,0 +1,68 @@
+{
+  "pillar": "Targeted Therapy for Breast Cancer (HER2)",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: targeted-therapy-for-breast-cancer-her2",
+  "route": "⚠ VERIFY: /insights/targeted-therapy-for-breast-cancer-her2",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy for Breast Cancer (HER2)",
+    "intro": "Clear, patient-friendly answers about HER2-targeted therapy for breast cancer, including how it works, who may be eligible, side effects, cost, and access for international patients.",
+    "groups": [
+      {
+        "title": "Understanding HER2-Targeted Therapy",
+        "items": [
+          {
+            "q": "What is HER2-targeted therapy for breast cancer?",
+            "a": "<p>HER2-targeted therapy is a treatment that specifically attacks breast cancer cells that make too much of a protein called HER2. About one in five breast cancers are HER2-positive, meaning the cancer grows faster and may respond to these medicines. Drugs such as trastuzumab bind to HER2 and slow or stop cancer growth. Whether it is suitable depends on cancer type, stage, HER2 test results, and specialist review by the treating oncology team.</p>"
+          },
+          {
+            "q": "How does HER2-targeted therapy work?",
+            "a": "<p>HER2-targeted therapy works by blocking the HER2 protein that signals breast cancer cells to grow and divide. Medicines like trastuzumab and pertuzumab attach to HER2 receptors on the cell surface, interrupting growth signals and helping the immune system recognise cancer cells. Newer antibody-drug conjugates carry chemotherapy directly to HER2-positive cells. The exact combination depends on cancer stage, previous treatment, biomarker profile, and overall health, and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How do I know if my breast cancer is HER2-positive?",
+            "a": "<p>Your breast cancer is confirmed HER2-positive through laboratory tests done on a tissue biopsy or surgical sample. Two common tests are IHC (immunohistochemistry), which measures HER2 protein levels, and FISH, which checks for extra copies of the HER2 gene. These results guide whether HER2-targeted therapy may be considered. Accurate HER2 testing is essential, and results should always be reviewed by a pathologist and your treating oncology team before starting treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for HER2-targeted therapy?",
+            "a": "<p>HER2-targeted therapy may be considered for patients whose breast cancer tests HER2-positive on IHC or FISH testing. It may be used in early-stage, locally advanced, or metastatic breast cancer, sometimes alongside chemotherapy or hormone therapy. Eligibility depends on cancer type, stage, biomarker profile, heart function, previous treatment, and overall health. It is not suitable for HER2-negative cancers. Final eligibility should be confirmed by a qualified oncology team after reviewing your reports.</p>"
+          },
+          {
+            "q": "What are the benefits of HER2-targeted therapy?",
+            "a": "<p>HER2-targeted therapy can improve outcomes for many patients with HER2-positive breast cancer by slowing cancer growth and lowering the risk of recurrence. When added to chemotherapy, it has helped many patients respond better than with chemotherapy alone. Benefits vary by individual and depend on cancer stage, biomarker profile, and treatment response. It does not guarantee a cure, and results differ from person to person, so expectations should be discussed with your oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of HER2-targeted therapy?",
+            "a": "<p>Common side effects of HER2-targeted therapy can include fatigue, fever, chills, nausea, and diarrhoea, especially early in treatment. A more serious concern is a possible effect on heart function, so doctors often monitor the heart with regular scans. Antibody-drug conjugates may cause additional effects like low blood counts. Side effects vary by drug and patient, and any symptoms should be reported to and managed by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does HER2-targeted therapy cost?",
+            "a": "<p>The cost of HER2-targeted therapy varies widely depending on the specific drug, number of cycles, hospital, and country of treatment. Original branded medicines are generally more expensive, while approved biosimilars may lower costs in some regions. Final cost also depends on diagnosis, stage, additional tests, treatment protocol, complications, and length of care. Because prices are not fixed, patients should request a detailed written estimate from the treating hospital before starting therapy.</p>"
+          },
+          {
+            "q": "How can international patients access HER2-targeted therapy?",
+            "a": "<p>International patients can access HER2-targeted therapy at cancer centres in countries such as India, where several approved medicines and biosimilars are available. Access depends on hospital acceptance, medical record review, visa approval, travel fitness, and the patient's condition. Patients usually need HER2 test results, pathology reports, and recent imaging for review. Admission and treatment cannot be guaranteed in advance and are confirmed only after the treating oncology team assesses the complete medical file.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with HER2-targeted therapy for breast cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support helps international patients navigate the process more smoothly but does not replace medical care or guarantee treatment acceptance or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

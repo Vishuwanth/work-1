@@ -1,0 +1,64 @@
+{
+  "pillar": "Cholangiocarcinoma Treatment",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: cholangiocarcinoma-treatment",
+  "route": "⚠ VERIFY: /insights/cholangiocarcinoma-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cholangiocarcinoma Treatment",
+    "intro": "Cholangiocarcinoma (bile duct cancer) is a rare cancer whose treatment depends on tumor location, stage, and overall health. These answers explain the main options, eligibility, and access for international patients.",
+    "groups": [
+      {
+        "title": "Understanding Cholangiocarcinoma Treatment",
+        "items": [
+          {
+            "q": "What is cholangiocarcinoma and how is it treated?",
+            "a": "<p>Cholangiocarcinoma is a rare cancer that forms in the bile ducts, which carry bile from the liver to the intestine. Treatment depends on tumor location (intrahepatic, perihilar, or distal), stage, and overall health. Options may include surgery, chemotherapy, radiation, targeted therapy, and immunotherapy. Because this cancer is often diagnosed late, a personalized plan reviewed by a specialist hepatobiliary oncology team is important for choosing the most suitable approach.</p>"
+          },
+          {
+            "q": "Can cholangiocarcinoma be cured with surgery?",
+            "a": "<p>Surgery offers the best chance of long-term control when cholangiocarcinoma is caught early and confined to a removable area. Complete removal of the tumor with clear margins may be considered curative in selected patients, sometimes followed by chemotherapy to lower recurrence risk. However, many tumors are found at an advanced stage where surgery is not possible. Eligibility for surgery should be assessed by an experienced hepatobiliary surgical team.</p>"
+          },
+          {
+            "q": "What role does biomarker testing play in bile duct cancer treatment?",
+            "a": "<p>Biomarker testing can identify genetic changes that guide targeted treatment for cholangiocarcinoma. Tests may look for alterations such as FGFR2 fusions, IDH1 mutations, HER2, or MSI/dMMR status, which can make certain patients candidates for targeted drugs or immunotherapy. Testing is usually done on a tumor biopsy or sometimes a blood sample. Results should be interpreted by an oncology team to decide whether a biomarker-matched therapy may be suitable.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment Options, Eligibility, and Safety",
+        "items": [
+          {
+            "q": "What are the treatment options for advanced cholangiocarcinoma?",
+            "a": "<p>For advanced or metastatic cholangiocarcinoma, treatment often combines chemotherapy with immunotherapy as a standard first-line approach for eligible patients. Targeted therapies may be considered when biomarkers such as FGFR2 or IDH1 are present. Radiation, liver-directed therapies, and biliary stenting can help control symptoms. The right combination depends on cancer stage, biomarker profile, previous treatment, and overall health, and should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Is targeted therapy or immunotherapy suitable for all bile duct cancer patients?",
+            "a": "<p>Targeted therapy and immunotherapy are not suitable for every cholangiocarcinoma patient. They may be considered for selected patients whose tumors carry specific biomarkers, such as FGFR2 fusions, IDH1 mutations, or high microsatellite instability. Suitability depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Because these therapies carry their own side effects, final decisions should be made by a qualified oncology team after reviewing test results.</p>"
+          },
+          {
+            "q": "What are the possible side effects of cholangiocarcinoma treatment?",
+            "a": "<p>Side effects of cholangiocarcinoma treatment vary by the therapy used and the individual patient. Chemotherapy may cause fatigue, nausea, and low blood counts, while targeted drugs and immunotherapy can affect the eyes, skin, thyroid, or other organs. Surgery and liver-directed treatments carry procedure-related risks. Most side effects can be monitored and managed with supportive care, and any new symptoms should be discussed promptly with the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support for International Patients",
+        "items": [
+          {
+            "q": "How much does cholangiocarcinoma treatment cost?",
+            "a": "<p>The cost of cholangiocarcinoma treatment varies widely and cannot be fixed in advance. Final cost depends on the hospital, diagnosis, stage, tests, treatment protocol, use of targeted or immunotherapy drugs, complications, and length of stay. Surgery, chemotherapy, and newer targeted agents each carry different price ranges. A detailed estimate is usually possible only after medical review, and treating-team advice determines the actual plan and expenses.</p>"
+          },
+          {
+            "q": "How can international patients access cholangiocarcinoma treatment abroad?",
+            "a": "<p>International patients can access cholangiocarcinoma treatment abroad after sharing medical reports for review by a specialist center. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition, and none of these can be guaranteed. Patients typically arrange a second opinion, cost estimate, and travel planning before departure. CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

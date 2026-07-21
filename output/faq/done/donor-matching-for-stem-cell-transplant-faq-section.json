@@ -1,0 +1,68 @@
+{
+  "pillar": "Donor Matching for Stem Cell Transplant",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: donor-matching-for-stem-cell-transplant",
+  "route": "⚠ VERIFY: /insights/donor-matching-for-stem-cell-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Donor Matching for Stem Cell Transplant",
+    "intro": "Donor matching is one of the most important steps before an allogeneic stem cell transplant. These answers explain how matching works, who can donate, and how international patients can begin the search.",
+    "groups": [
+      {
+        "title": "Understanding Donor Matching",
+        "items": [
+          {
+            "q": "What is donor matching for a stem cell transplant?",
+            "a": "<p>Donor matching is the process of finding a person whose tissue type closely matches the patient's before an allogeneic stem cell transplant. It is based mainly on human leukocyte antigen (HLA) markers, which help the immune system recognize the body's own cells. A close match lowers the risk of graft-versus-host disease and rejection. The best-matched donor for a patient depends on HLA results, availability, and the transplant team's assessment.</p>"
+          },
+          {
+            "q": "What is HLA typing and why does it matter?",
+            "a": "<p>HLA typing is a blood or cheek-swab test that identifies specific immune-system markers used to match a donor and patient. These markers, inherited from both parents, help doctors judge how well a donor's cells will be accepted. A better HLA match generally reduces the risk of complications such as graft-versus-host disease. HLA typing results, along with cancer type and overall health, guide donor selection and should be reviewed by the transplant team.</p>"
+          },
+          {
+            "q": "How closely does a stem cell donor need to match?",
+            "a": "<p>Doctors usually aim for the closest possible HLA match, often described as a 10/10 or 8/8 match across key markers. A fully matched donor generally lowers transplant risks, but partial matches may be considered when no full match is available. The acceptable level of matching depends on the patient's diagnosis, urgency, transplant type, and center protocols. The final decision on match adequacy is made by the treating transplant team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Finding a Donor and Match Types",
+        "items": [
+          {
+            "q": "Who can be a stem cell donor?",
+            "a": "<p>A stem cell donor can be a sibling, another relative, or an unrelated volunteer identified through a donor registry. Siblings have about a one-in-four chance of being a full match, so many patients need an unrelated or partially matched donor. Donors are typically healthy adults who pass medical screening. Whether a specific person is a suitable donor depends on HLA results, health status, and evaluation by the transplant center.</p>"
+          },
+          {
+            "q": "What is a haploidentical (half-matched) transplant?",
+            "a": "<p>A haploidentical transplant uses a donor who is a half HLA match, most often a parent, child, or sibling. This option may be considered when a fully matched donor cannot be found, since almost every patient has a half-matched family member. Advances in transplant techniques have improved outcomes with half-matched donors. Suitability depends on the patient's diagnosis, health, and center experience, and should be discussed with a qualified transplant team.</p>"
+          },
+          {
+            "q": "How are unrelated donors and cord blood found?",
+            "a": "<p>Unrelated donors and cord blood units are found by searching international registries and public cord blood banks after HLA typing. These databases hold millions of volunteer profiles and stored cord blood samples used when no family match exists. Search time varies by ethnicity and HLA type, as some backgrounds are underrepresented. Availability of a suitable match cannot be guaranteed and is confirmed through registry coordination and transplant-center review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does donor matching and stem cell transplant cost?",
+            "a": "<p>Costs vary widely depending on the country, hospital, donor source, and transplant type. HLA typing itself is relatively low-cost, but unrelated donor searches, registry fees, cord blood units, hospitalization, and post-transplant care add significantly to the total. Final costs depend on diagnosis, complications, length of stay, and the treating team's advice. Patients should request a detailed written estimate from the transplant center before planning treatment.</p>"
+          },
+          {
+            "q": "How can international patients access donor matching?",
+            "a": "<p>International patients can begin by sharing recent medical reports and HLA typing results with a transplant center for review. Access to a specific center or donor search depends on hospital acceptance, medical evaluation, visa approval, travel fitness, and donor availability, none of which can be guaranteed in advance. Coordinating family HLA testing early can speed the process. A qualified transplant team makes final decisions about eligibility and donor selection.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with donor matching for stem cell transplant?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help arrange HLA typing and registry searches through partner hospitals. Treatment and donor-matching decisions are always made by the qualified transplant team after reviewing the patient's diagnosis, HLA results, previous treatment, and overall health. CancerFax supports coordination but does not replace the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

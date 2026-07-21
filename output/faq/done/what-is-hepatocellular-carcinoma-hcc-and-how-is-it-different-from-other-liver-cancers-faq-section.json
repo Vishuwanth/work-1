@@ -1,0 +1,114 @@
+{
+  "pillar": "What is hepatocellular carcinoma (HCC) and how is it different from other liver cancers?",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: what-is-hepatocellular-carcinoma-hcc-and-how-is-it-different-from-other-liver-cancers",
+  "route": "⚠ VERIFY: /<section>/what-is-hepatocellular-carcinoma-hcc-and-how-is-it-different-from-other-liver-cancers",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Hepatocellular Carcinoma (HCC)",
+    "intro": "Hepatocellular carcinoma (HCC) is the most common type of primary liver cancer, and it behaves differently from other liver cancers. These FAQs explain what HCC is, how it is diagnosed and treated, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Hepatocellular Carcinoma (HCC)",
+        "items": [
+          {
+            "q": "What is hepatocellular carcinoma (HCC)?",
+            "a": "<p>Hepatocellular carcinoma (HCC) is a cancer that begins in the main functional cells of the liver, called hepatocytes. It is the most common type of primary liver cancer, meaning it starts in the liver rather than spreading from elsewhere. HCC usually develops in people with long-term liver damage, such as cirrhosis, hepatitis B, or hepatitis C. Early HCC often causes no symptoms, so diagnosis depends on imaging, blood tests, and specialist review.</p>"
+          },
+          {
+            "q": "How is HCC different from other liver cancers?",
+            "a": "<p>HCC is different from other liver cancers because it arises from hepatocytes, the liver's own cells, and is strongly linked to cirrhosis and chronic hepatitis. Other liver cancers include cholangiocarcinoma, which starts in the bile ducts, and metastatic liver cancer, which spreads from organs like the colon, breast, or lung. These differ in causes, imaging appearance, and treatment. Accurate diagnosis by a specialist team determines which cancer type is present and how it is managed.</p>"
+          },
+          {
+            "q": "What causes hepatocellular carcinoma?",
+            "a": "<p>Hepatocellular carcinoma is most often caused by long-term liver damage and inflammation. Common risk factors include chronic hepatitis B or hepatitis C infection, cirrhosis from any cause, heavy alcohol use, and fatty liver disease linked to obesity and diabetes. Exposure to aflatoxins, a mould toxin found in some stored foods, also raises risk in certain regions. Not everyone with these risks develops HCC, and individual risk depends on many factors reviewed by a doctor.</p>"
+          },
+          {
+            "q": "What are the symptoms of HCC?",
+            "a": "<p>Early hepatocellular carcinoma often causes no symptoms, which is why screening in high-risk patients is important. As the cancer grows, symptoms may include upper abdominal pain or a mass, unexplained weight loss, loss of appetite, fatigue, nausea, and yellowing of the skin or eyes called jaundice. Some people notice abdominal swelling from fluid buildup. These symptoms can have many causes, so any persistent changes should be assessed by a qualified medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Diagnosis, Staging, and Safety",
+        "items": [
+          {
+            "q": "How is hepatocellular carcinoma diagnosed?",
+            "a": "<p>Hepatocellular carcinoma is often diagnosed using a combination of imaging and blood tests rather than a biopsy alone. Contrast CT or MRI scans can show a typical HCC pattern in patients with cirrhosis, sometimes allowing diagnosis without a tissue sample. A blood test for alpha-fetoprotein (AFP) may support the diagnosis. A biopsy is used in unclear cases. Final diagnosis and staging should be confirmed by an experienced liver cancer specialist team.</p>"
+          },
+          {
+            "q": "What is the AFP blood test in HCC?",
+            "a": "<p>The AFP blood test measures alpha-fetoprotein, a protein that can be raised in some people with hepatocellular carcinoma. It is used alongside imaging to help diagnose HCC, monitor response to treatment, and check for recurrence. However, AFP is not accurate on its own, since some HCC tumours produce little AFP and other liver conditions can raise it. Test results should always be interpreted together with imaging by the treating oncology team.</p>"
+          },
+          {
+            "q": "How is HCC staged?",
+            "a": "<p>Hepatocellular carcinoma is staged by looking at the tumour size and number, whether blood vessels or nearby structures are involved, and whether it has spread outside the liver. Because HCC usually develops in a damaged liver, staging systems such as BCLC also consider liver function and overall health. This combined assessment helps guide treatment choices. Staging should be determined by a specialist team using imaging, blood tests, and clinical evaluation.</p>"
+          },
+          {
+            "q": "Is HCC screening recommended for high-risk patients?",
+            "a": "<p>HCC screening may be recommended for people at higher risk, such as those with cirrhosis or chronic hepatitis B. Screening typically involves an ultrasound of the liver, sometimes with an AFP blood test, usually every six months. The goal is to detect cancer early, when more treatment options may be available. Whether screening is suitable, and how often, depends on individual risk factors and should be decided with a qualified doctor.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment Options for HCC",
+        "items": [
+          {
+            "q": "How is hepatocellular carcinoma treated?",
+            "a": "<p>Hepatocellular carcinoma treatment depends on the tumour, liver function, and overall health. Options may include surgery to remove part of the liver, liver transplant, or local treatments such as ablation. For tumours confined to the liver, TACE, which delivers chemotherapy directly to the tumour's blood supply, may be considered. Advanced HCC may be treated with targeted therapy or immunotherapy. The right approach depends on specialist review and should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "When is surgery an option for HCC?",
+            "a": "<p>Surgery may be considered for hepatocellular carcinoma when the tumour can be removed while leaving enough healthy, well-functioning liver behind. This depends on tumour size and location, the number of tumours, blood vessel involvement, and how well the liver works. Patients with good liver function and localized disease are more likely to be surgical candidates. Suitability for surgery is decided after careful assessment by a liver surgeon and multidisciplinary team.</p>"
+          },
+          {
+            "q": "What is TACE for liver cancer?",
+            "a": "<p>TACE, or transarterial chemoembolization, is a treatment that delivers chemotherapy directly into the blood vessels feeding a liver tumour and then blocks that blood supply. This targets the tumour while limiting effects on the rest of the body. TACE may be considered for HCC that cannot be removed by surgery but has not spread outside the liver. Whether TACE is appropriate depends on tumour and liver factors reviewed by the treating team.</p>"
+          },
+          {
+            "q": "Can a liver transplant treat HCC?",
+            "a": "<p>A liver transplant may be an option for selected patients with hepatocellular carcinoma, as it can treat both the cancer and the underlying liver disease. Transplant is generally considered when tumours meet specific size and number criteria and have not spread beyond the liver. Availability depends on donor organs, waiting lists, and overall health. Eligibility is assessed carefully by a transplant team, and final decisions are made after detailed medical review.</p>"
+          },
+          {
+            "q": "What advanced therapies are available for HCC?",
+            "a": "<p>Advanced hepatocellular carcinoma may be treated with systemic therapies when the cancer has spread or cannot be treated locally. These may include targeted drugs that interfere with tumour growth and blood supply, and immunotherapy, which helps the immune system act against cancer cells. Some patients receive combinations of these treatments. Suitability depends on liver function, previous treatment, and overall health, and should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does HCC treatment cost?",
+            "a": "<p>The cost of hepatocellular carcinoma treatment varies widely and cannot be quoted as a fixed figure. It depends on the treatment type, such as surgery, TACE, transplant, targeted therapy, or immunotherapy, as well as the hospital, diagnostic tests, stage of disease, length of stay, and any complications. Costs differ between countries and centres. A reliable estimate should be based on your specific diagnosis and treatment plan advised by the treating medical team.</p>"
+          },
+          {
+            "q": "Which countries offer advanced HCC treatment?",
+            "a": "<p>Advanced hepatocellular carcinoma treatment is available in several countries with experienced liver cancer centres, including India, China, and other nations with established oncology and transplant programmes. Availability of specific procedures such as TACE, transplant, targeted therapy, or clinical trials varies by hospital and country. Access depends on hospital acceptance, medical review, and individual patient factors. Choosing a centre should be guided by specialist advice and confirmed diagnosis.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access HCC treatment abroad?",
+            "a": "<p>International patients can access hepatocellular carcinoma treatment abroad by first having their medical reports reviewed by a specialist at the chosen centre. Access depends on hospital acceptance, medical review, visa approval, fitness to travel, and the patient's condition. Practical steps often include gathering imaging and pathology, obtaining a treatment estimate, and planning travel and follow-up care. Hospital admission, visa approval, and treatment acceptance cannot be guaranteed and depend on individual assessment.</p>"
+          },
+          {
+            "q": "What medical reports are needed for an HCC opinion abroad?",
+            "a": "<p>For a hepatocellular carcinoma opinion abroad, doctors usually need recent imaging such as CT or MRI scans of the liver, along with any ultrasound reports. Blood tests including liver function tests and AFP levels are helpful, as are hepatitis B and C results, biopsy or pathology reports if available, and a summary of previous treatments. Complete, up-to-date records help the specialist team give more accurate advice and plan appropriate next steps.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with hepatocellular carcinoma?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is meant to make the process clearer for international patients and does not replace the guidance of doctors or hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

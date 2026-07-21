@@ -1,0 +1,68 @@
+{
+  "pillar": "Questions to Ask About Gene Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-to-ask-about-gene-therapy",
+  "route": "⚠ VERIFY: /insights/questions-to-ask-about-gene-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions to Ask About Gene Therapy",
+    "intro": "Gene therapy for cancer is a fast-moving field, and asking the right questions helps patients and caregivers understand whether it fits their situation. These FAQs cover the key questions to raise with your oncology team about eligibility, safety, cost, and access.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy and Your Questions",
+        "items": [
+          {
+            "q": "What questions should I ask before starting gene therapy for cancer?",
+            "a": "<p>Start by asking whether gene therapy is an approved treatment or a clinical trial for your specific cancer type and stage. Useful questions include how the therapy works, what results have been seen in patients like you, what the realistic goals are, and what alternatives exist. You should also ask about side effects, hospital stay, follow-up, and cost. The final decision should be made with your qualified oncology team after reviewing your reports and overall health.</p>"
+          },
+          {
+            "q": "How do I know if I am eligible for gene therapy?",
+            "a": "<p>Eligibility for gene therapy depends on your cancer type, stage, biomarker or genetic profile, previous treatments, and overall health. Ask your oncologist whether your diagnosis matches an approved therapy or an open clinical trial, and which specific tests are needed to confirm suitability. Some therapies target particular gene mutations or cell markers, so molecular testing is often required. A specialist review of your full medical records is the only reliable way to confirm whether you may be considered.</p>"
+          },
+          {
+            "q": "What is the difference between approved gene therapy and clinical-trial gene therapy?",
+            "a": "<p>Approved gene therapies have passed formal regulatory review and are available as standard care for defined cancer types, while trial therapies are still being studied for safety and effectiveness. Ask your team whether the option offered is approved in your country or part of a research study. Trial participation may give access to newer approaches but involves strict eligibility criteria and uncertain benefit. Understanding this difference helps set realistic expectations for outcomes, cost, and monitoring.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Side Effects, and Results",
+        "items": [
+          {
+            "q": "What side effects and risks should I ask about with gene therapy?",
+            "a": "<p>Ask your oncology team about both short-term and long-term side effects, since these vary by the type of gene therapy used. Common questions include the risk of immune reactions, fever, fatigue, infection, or effects on blood counts, and how these are monitored and managed. You should also ask about rare but serious risks and any long-term follow-up needed. Side effects depend on the specific therapy, your health, and prior treatments, so answers should come from your treating team.</p>"
+          },
+          {
+            "q": "What results or success rates should I expect from gene therapy?",
+            "a": "<p>Ask your doctor what outcomes have been reported for patients with your cancer type, stage, and biomarker profile, rather than general figures. Realistic questions include how the therapy may affect the tumor, how long benefits might last, and what happens if it does not work. Results vary widely between patients, and no treatment can promise a cure or guaranteed response. Understanding the intended goal, whether control, remission, or symptom relief, helps you weigh gene therapy against other options.</p>"
+          },
+          {
+            "q": "How long does gene therapy take and what does recovery involve?",
+            "a": "<p>Ask about the full timeline, including preparation tests, the treatment procedure, hospital stay, and recovery, as this differs by therapy type. Some approaches require cell collection, processing, and later infusion over several weeks, while others are given more directly. You should also ask about monitoring after treatment and when you can resume normal activities. Recovery depends on the specific therapy, your overall health, and how your body responds, so your treating team can give the most accurate schedule.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Care",
+        "items": [
+          {
+            "q": "How much does gene therapy for cancer cost?",
+            "a": "<p>Gene therapy costs vary widely depending on the therapy type, hospital, country, and whether it is approved care or part of a clinical trial. Ask for a written estimate that covers tests, the procedure, hospital stay, supportive care, and follow-up, and confirm what is not included. Final cost also depends on your diagnosis, stage, complications, and length of treatment. Because prices are not fixed, request a detailed breakdown from the treating hospital before making any decisions.</p>"
+          },
+          {
+            "q": "How can international patients access gene therapy and what reports are needed?",
+            "a": "<p>International patients can explore gene therapy by sharing recent medical records, including pathology, imaging, biomarker or genetic test results, and a summary of previous treatments, for specialist review. Ask which specific reports each center requires and whether a second opinion is possible. Access depends on hospital acceptance, medical review, travel fitness, and visa approval, none of which can be guaranteed in advance. Planning ahead for reports, estimated cost, travel, and follow-up care makes the process smoother.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with questions about gene therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to prepare the right questions and documents before speaking with a gene therapy team. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

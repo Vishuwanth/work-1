@@ -1,0 +1,68 @@
+{
+  "pillar": "Types of Gene Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: types-of-gene-therapy-in-oncology",
+  "route": "⚠ VERIFY: /insights/types-of-gene-therapy-in-oncology",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Types of Gene Therapy in Oncology",
+    "intro": "Gene therapy in oncology covers several distinct approaches that add, edit, silence, or deliver genes to fight cancer. This section explains the main types, how they differ, and what patients should know about eligibility, access, and cost.",
+    "groups": [
+      {
+        "title": "Understanding the Main Types of Gene Therapy",
+        "items": [
+          {
+            "q": "What are the main types of gene therapy used in cancer treatment?",
+            "a": "<p>Gene addition, gene editing, gene silencing, oncolytic virus therapy, and gene-modified cell therapies such as CAR T-cell treatment are the main types of gene therapy studied in oncology. Gene addition inserts a working gene, gene editing corrects or disables a faulty one, and gene silencing switches off a harmful gene. Suitability depends on cancer type, stage, biomarkers, prior treatment, and specialist review, and final decisions rest with the treating oncology team.</p>"
+          },
+          {
+            "q": "What is the difference between gene addition and gene editing in cancer?",
+            "a": "<p>Gene addition delivers a new, functioning gene into cells without changing existing DNA, while gene editing directly alters the cell's own DNA using tools such as CRISPR. Gene addition is often used to give immune cells new cancer-targeting instructions, whereas editing can repair or remove a specific faulty sequence. Both approaches remain highly specialized, and their use depends on cancer type, available trials, and assessment by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is gene silencing therapy in oncology?",
+            "a": "<p>Gene silencing therapy works by switching off or reducing the activity of a gene that helps cancer grow, rather than adding or editing DNA. It commonly uses molecules such as small interfering RNA (siRNA) or antisense oligonucleotides to block a harmful gene's signal. This approach is still largely investigational in cancer, and whether it may be considered depends on the tumour's molecular profile and specialist evaluation within approved treatment or trial settings.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How Different Gene Therapies Work",
+        "items": [
+          {
+            "q": "How does CAR T-cell therapy fit into gene therapy for cancer?",
+            "a": "<p>CAR T-cell therapy is a type of gene-modified cell therapy in which a patient's own T-cells are genetically engineered to recognise and attack cancer cells. Because it changes the genetic instructions of immune cells, it is considered a form of gene therapy. It may be suitable for selected blood cancers such as certain leukaemias and lymphomas. Eligibility depends on cancer type, prior treatment, and detailed review by a specialist transplant or immunotherapy team.</p>"
+          },
+          {
+            "q": "What is oncolytic virus therapy and how does it work?",
+            "a": "<p>Oncolytic virus therapy uses modified viruses that are designed to infect and destroy cancer cells while sparing most healthy cells. The virus multiplies inside tumour cells, causing them to break down, and can also alert the immune system to attack the cancer. It is approved for a small number of cancers, such as certain melanomas, and is under study in others. Its use depends on cancer type, location, and specialist assessment.</p>"
+          },
+          {
+            "q": "Are gene therapies given directly into the body or made in a lab?",
+            "a": "<p>Gene therapies are delivered in two broad ways: in vivo, where the gene-carrying agent is given directly into the body, and ex vivo, where a patient's cells are modified in a laboratory and then returned. CAR T-cell therapy is an ex vivo example, while many oncolytic virus and gene-addition treatments are given in vivo. The right method depends on the therapy, the cancer, and the treating oncology team's plan.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "Is gene therapy suitable for every cancer patient?",
+            "a": "<p>Gene therapy is not suitable for every cancer patient and is currently used for a limited range of cancers, often after standard treatments. Suitability depends on cancer type, stage, biomarker and genetic profile, previous treatment, overall health, and specialist review. Many gene therapies are still available mainly through clinical trials or specialised centres. Whether any type may be considered should always be discussed with a qualified oncology team familiar with the patient's full history.</p>"
+          },
+          {
+            "q": "How much does gene therapy for cancer cost and where is it available?",
+            "a": "<p>Gene therapy costs vary widely and can be substantial, especially for advanced treatments such as CAR T-cell therapy, with prices differing by country, hospital, and treatment type. Some options are offered in selected centres in India, the United States, China, and Europe, often within approved programmes or trials. Final cost depends on diagnosis, protocol, tests, hospital stay, and complications, and access depends on hospital acceptance and medical review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with types of gene therapy in oncology?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to gene therapy options. Because gene therapies are complex and highly specialized, treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to any specific therapy or trial depends on medical review and hospital acceptance.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,68 @@
+{
+  "pillar": "Immunotherapy for Lung Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: immunotherapy-for-lung-cancer",
+  "route": "⚠ VERIFY: /insights/immunotherapy-for-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy for Lung Cancer",
+    "intro": "Immunotherapy has changed how advanced lung cancer is treated, but many patients and caregivers still have questions about how it works, who it helps, and what it costs. These answers cover the essentials in clear, plain language.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy for Lung Cancer",
+        "items": [
+          {
+            "q": "What is immunotherapy for lung cancer?",
+            "a": "<p>Immunotherapy for lung cancer is a treatment that helps your own immune system recognize and attack cancer cells. It most often uses checkpoint inhibitors — drugs such as pembrolizumab, nivolumab, or atezolizumab — that block proteins like PD-1, PD-L1, or CTLA-4 that tumors use to hide from immune attack. It may be considered for selected patients with non-small cell or small cell lung cancer, depending on stage, biomarkers, and specialist review.</p>"
+          },
+          {
+            "q": "How does immunotherapy work for lung cancer?",
+            "a": "<p>Immunotherapy works by removing the “brakes” that lung cancer cells use to switch off the immune system. Checkpoint inhibitors block PD-1 or PD-L1 signals, allowing T-cells to detect and destroy tumor cells more effectively. It can be given alone or combined with chemotherapy, depending on the cancer type and PD-L1 level. Response varies between patients, and suitability should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which types of lung cancer can be treated with immunotherapy?",
+            "a": "<p>Immunotherapy may be used for both non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC), though it is most established in NSCLC. It is often considered for advanced or metastatic disease, and increasingly for earlier stages before or after surgery. Tumors without targetable EGFR or ALK mutations tend to respond better. The final choice depends on cancer type, stage, biomarker profile, and specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for lung cancer immunotherapy?",
+            "a": "<p>Eligibility for lung cancer immunotherapy depends on cancer type, stage, PD-L1 expression, biomarker testing, previous treatment, and overall health. Patients with high PD-L1 levels may be suitable for immunotherapy alone, while others may receive it combined with chemotherapy. People with certain autoimmune conditions or organ transplants may not be suitable. Eligibility should be confirmed by a qualified oncology team after reviewing pathology, imaging, and biomarker reports.</p>"
+          },
+          {
+            "q": "What are the benefits of immunotherapy for lung cancer?",
+            "a": "<p>The main benefit of immunotherapy is that it can offer durable, long-lasting responses in selected lung cancer patients, sometimes lasting years. Compared with chemotherapy, it may cause fewer traditional side effects such as hair loss or nausea for some people. It may improve survival in advanced NSCLC, especially with high PD-L1 expression. However, it does not work for everyone, and outcomes depend on individual disease and biomarker profile.</p>"
+          },
+          {
+            "q": "What are the side effects of immunotherapy for lung cancer?",
+            "a": "<p>Immunotherapy side effects happen when the activated immune system also attacks healthy tissue, causing inflammation. Common effects include fatigue, skin rash, and diarrhea, while less common but serious ones can affect the lungs, thyroid, liver, or bowel. Most are manageable when detected early, so any new symptoms should be reported promptly. Side effects vary between patients and should be monitored by the treating oncology team throughout treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does immunotherapy for lung cancer cost?",
+            "a": "<p>The cost of lung cancer immunotherapy varies widely by country, drug, dose, and number of cycles, so any figures should be treated as estimates only. Treatment is typically given every few weeks and may continue for many months, which affects the total. Final cost depends on the hospital, diagnosis, stage, tests, treatment protocol, complications, and length of stay. A personalized estimate should be confirmed with the treating hospital.</p>"
+          },
+          {
+            "q": "Is immunotherapy for lung cancer available in India, and how can international patients access it?",
+            "a": "<p>Immunotherapy for lung cancer is available at many major cancer centers in India, as well as in China, Turkey, and other countries. For international patients, access depends on hospital acceptance, medical record review, visa approval, travel fitness, and overall condition. Required documents usually include pathology, PD-L1 and biomarker results, and recent imaging. A second opinion and personalized plan should be arranged before travel with the treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy for lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

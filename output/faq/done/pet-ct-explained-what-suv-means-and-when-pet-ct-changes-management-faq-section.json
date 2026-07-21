@@ -1,0 +1,114 @@
+{
+  "pillar": "PET-CT explained: what SUV means and when PET-CT changes management",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: pet-ct-explained-what-suv-means-and-when-pet-ct-changes-management",
+  "route": "⚠ VERIFY: /<section>/pet-ct-explained-what-suv-means-and-when-pet-ct-changes-management",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About PET-CT and SUV",
+    "intro": "PET-CT combines a metabolic PET scan with a detailed CT scan to show where cancer cells are active in the body. These FAQs explain what SUV means, how the scan works, and when PET-CT results may change cancer management.",
+    "groups": [
+      {
+        "title": "Understanding PET-CT and SUV",
+        "items": [
+          {
+            "q": "What is a PET-CT scan?",
+            "a": "<p>A PET-CT scan is a combined imaging test that shows both the location and the activity of cells in the body. The PET part uses a small amount of radioactive sugar tracer, usually FDG, to highlight cells that use more glucose, such as many cancer cells. The CT part adds detailed anatomy. Together they help doctors detect, stage, and monitor cancer, though findings should always be interpreted by the treating team.</p>"
+          },
+          {
+            "q": "What does SUV mean on a PET-CT report?",
+            "a": "<p>SUV, or standardized uptake value, is a number that estimates how much tracer a tissue absorbs on a PET-CT scan. A higher SUV usually means more metabolic activity, which can suggest cancer, but it is not a diagnosis on its own. Infection, inflammation, and normal organs can also raise SUV. Values depend on scanner settings, blood sugar, and timing, so results should be reviewed by a qualified radiologist and oncology team.</p>"
+          },
+          {
+            "q": "What is a normal or high SUV value?",
+            "a": "<p>There is no single SUV number that reliably separates cancer from non-cancer for every patient. As a rough guide, an SUVmax below about 2.5 is often considered low, while higher values may raise concern, but many exceptions exist. Trends over time and comparison with prior scans often matter more than one number. SUV interpretation depends on cancer type, tracer, and technique, and should be explained by the reporting specialist.</p>"
+          },
+          {
+            "q": "How is PET-CT different from a CT or MRI scan?",
+            "a": "<p>PET-CT differs from a standard CT or MRI because it shows cell activity, not just structure. CT and MRI give detailed pictures of size, shape, and location, while PET adds information about how metabolically active a tissue is. This can help spot small or scattered cancer sites that look normal on anatomy alone. The choice between tests depends on cancer type, stage, and the clinical question, and should be guided by your medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who may need a PET-CT scan?",
+            "a": "<p>PET-CT may be considered for selected patients to help stage certain cancers, assess whether treatment is working, plan radiotherapy, or investigate suspected recurrence. It is most useful in cancers known to take up FDG well, such as many lymphomas and lung, head and neck, and some other tumors. It is not required for every patient or every cancer. Whether PET-CT is appropriate depends on diagnosis, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How should I prepare for a PET-CT scan?",
+            "a": "<p>Preparation for a PET-CT scan usually involves fasting for about four to six hours and avoiding strenuous exercise beforehand, because muscle and food can affect tracer uptake. Blood sugar is often checked, since high glucose can reduce image quality, which matters for people with diabetes. You may be asked to rest quietly after the injection. Always follow the exact instructions given by your imaging center, as protocols vary between hospitals.</p>"
+          },
+          {
+            "q": "Is a PET-CT scan safe?",
+            "a": "<p>PET-CT is generally considered safe for most patients, though it does involve a small dose of radiation from the tracer and the CT component. For people needing cancer staging or monitoring, doctors usually judge the benefit to outweigh this limited risk. Pregnant or breastfeeding patients should inform staff, as special precautions may apply. Any concerns about radiation, allergies, or repeated scans should be discussed with your treating and imaging teams.</p>"
+          },
+          {
+            "q": "How long does a PET-CT scan take?",
+            "a": "<p>A PET-CT appointment usually takes around two to three hours in total, even though the actual scanning time is often only 20 to 40 minutes. Most of the time is spent resting quietly for about an hour after the tracer injection so it can distribute through the body. Times vary by hospital, scanner, and the area being imaged. Your center will confirm the expected duration when scheduling your appointment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does a PET-CT scan cost?",
+            "a": "<p>PET-CT costs vary widely by country, hospital, and scan type, so any figure should be treated as an estimate only. In India, a whole-body FDG PET-CT is often priced in a moderate range, while costs in the USA and some other countries can be significantly higher. Final pricing depends on the tracer used, area scanned, contrast, and facility. Ask the specific center for a written estimate before booking.</p>"
+          },
+          {
+            "q": "Is PET-CT available in India?",
+            "a": "<p>PET-CT is widely available in India at many major cancer hospitals and diagnostic centers in larger cities. Facilities commonly offer whole-body FDG PET-CT and, in some centers, newer tracers for selected cancers. Availability, waiting time, and tracer options vary by location and hospital. International patients often choose India for imaging alongside treatment, but access and scheduling should be confirmed directly with the chosen center in advance.</p>"
+          },
+          {
+            "q": "Which countries offer PET-CT scans?",
+            "a": "<p>PET-CT is offered in many countries with established cancer care, including India, China, the USA, the UK, across much of Europe, and in parts of the Middle East and Southeast Asia. Access, cost, and the range of available tracers differ between locations and even between hospitals within a country. For patients considering imaging abroad, availability and scheduling should be confirmed with the specific facility as part of overall treatment planning.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "When does PET-CT change cancer management?",
+            "a": "<p>PET-CT can change management when it reveals disease that other scans miss or rules out spread that was suspected. For example, it may upstage or downstage a cancer, redirect a patient from surgery to systemic therapy, guide radiotherapy planning, or show whether treatment is working. Not every scan changes the plan, and results are always weighed with biopsy and clinical findings. The treating oncology team makes the final decision.</p>"
+          },
+          {
+            "q": "What are the limitations of PET-CT and SUV?",
+            "a": "<p>PET-CT and SUV have important limitations that patients should understand. Infection, inflammation, recent surgery, and normal tissues can cause false-positive uptake, while small or slow-growing tumors may show little tracer and be missed. SUV numbers are affected by blood sugar, timing, and scanner type, so they are not directly comparable between machines. Because of this, PET-CT findings usually need confirmation with biopsy or other tests before major decisions.</p>"
+          },
+          {
+            "q": "Are there newer PET tracers beyond FDG?",
+            "a": "<p>Yes, several PET tracers beyond standard FDG are used for selected cancers. Examples include PSMA-based tracers for prostate cancer and DOTA tracers for certain neuroendocrine tumors, which can be more specific for those diseases. Some newer tracers are mainly available in specialized centers or through research settings. Whether an alternative tracer is suitable depends on cancer type and specialist assessment, and availability varies between hospitals and countries.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "Can PET-CT show whether cancer has spread?",
+            "a": "<p>PET-CT can help show whether cancer has spread to lymph nodes or distant organs, which is a key reason it is used for staging. Because it detects metabolic activity across the whole body, it may reveal sites not seen on CT or MRI alone. However, it can miss very small deposits and sometimes flag non-cancer activity. Suspicious findings usually need biopsy or further imaging, interpreted by the treating team.</p>"
+          },
+          {
+            "q": "Do I need a PET-CT for follow-up after treatment?",
+            "a": "<p>A PET-CT is not always needed for routine follow-up after cancer treatment, and practice varies by cancer type. It may be considered when doctors want to check response to therapy, investigate rising tumor markers, or evaluate suspected recurrence. In some cancers, other scans or blood tests are used instead to limit unnecessary radiation. Whether and when to repeat PET-CT should be decided by your oncology team based on your situation.</p>"
+          },
+          {
+            "q": "What reports should I bring for a PET-CT review abroad?",
+            "a": "<p>For a PET-CT review abroad, it helps to bring your previous imaging files and reports, biopsy and pathology results, biomarker or molecular reports, and a summary of past treatment. Prior PET-CT images on disc are especially useful for comparison. Having complete records allows specialists to interpret new findings in context and avoid repeat tests. The receiving hospital can confirm exactly which documents and image formats they require before your visit.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with PET-CT?",
+            "a": "<p>CancerFax helps patients organize medical reports and prior imaging, identify relevant specialists or diagnostic centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment and imaging decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to any hospital, scan, or cost cannot be guaranteed and depends on medical review and facility acceptance.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

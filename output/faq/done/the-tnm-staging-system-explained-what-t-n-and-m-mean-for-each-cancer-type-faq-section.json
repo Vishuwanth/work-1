@@ -1,0 +1,114 @@
+{
+  "pillar": "The TNM staging system explained: what T, N, and M mean for each cancer type",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: the-tnm-staging-system-explained-what-t-n-and-m-mean-for-each-cancer-type",
+  "route": "⚠ VERIFY: /<section>/the-tnm-staging-system-explained-what-t-n-and-m-mean-for-each-cancer-type",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the TNM Staging System",
+    "intro": "This guide explains what the T, N, and M categories mean, how they combine into an overall cancer stage, and why the details can vary from one cancer type to another. It is meant to help you read your own pathology and radiology reports with more confidence.",
+    "groups": [
+      {
+        "title": "Understanding the TNM Staging System",
+        "items": [
+          {
+            "q": "What is the TNM staging system?",
+            "a": "<p>The TNM staging system is an internationally used method for describing how far a cancer has spread in the body. It looks at three features: the size and extent of the main tumour (T), whether nearby lymph nodes are involved (N), and whether the cancer has spread to distant organs (M). These are combined into an overall stage, usually 0 to 4. The exact meaning of each category depends on the specific cancer type and should be interpreted by your oncology team.</p>"
+          },
+          {
+            "q": "What do T, N, and M mean in cancer staging?",
+            "a": "<p>In TNM staging, T, N, and M each describe a different aspect of the cancer. T (tumour) describes the size or local extent of the primary tumour. N (nodes) describes whether and how many nearby lymph nodes contain cancer. M (metastasis) describes whether the cancer has spread to distant parts of the body. Numbers added to each letter give more detail, and their precise definitions vary by cancer type and should be reviewed with your treating doctor.</p>"
+          },
+          {
+            "q": "What does the T category describe?",
+            "a": "<p>The T category describes the size of the primary tumour and how deeply it has grown into nearby tissues. It usually ranges from T1 to T4, where higher numbers generally mean a larger tumour or deeper local invasion. What counts as T1 or T4 differs between cancers; for example, breast, lung, and colon tumours use different size and invasion cut-offs. Your pathology and imaging reports and your specialist provide the accurate interpretation of your T stage.</p>"
+          },
+          {
+            "q": "What does the N category mean?",
+            "a": "<p>The N category shows whether cancer has reached the nearby (regional) lymph nodes and, if so, how many are involved. N0 means no cancer was found in regional nodes, while N1, N2, or N3 generally indicate increasing lymph node involvement. The number and location of affected nodes can strongly influence treatment planning. Because node definitions differ by cancer type, your N stage should always be reviewed together with the rest of your report by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What does the M category mean?",
+            "a": "<p>The M category indicates whether the cancer has spread to distant organs beyond the primary site and regional lymph nodes. M0 means no distant spread was detected, while M1 means distant metastasis is present, such as in the liver, lungs, bones, or brain. The M category often has the greatest impact on overall stage and treatment approach. Distant spread is confirmed through imaging and sometimes biopsy, and results should be interpreted by your treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How Staging Is Determined and What It Means",
+        "items": [
+          {
+            "q": "How is TNM combined into stages 0 to 4?",
+            "a": "<p>The T, N, and M categories are grouped together to give an overall stage, usually written as stage 0 through stage 4. In general, lower stages describe smaller, localised cancers, while higher stages describe larger tumours, more lymph node involvement, or distant spread. The exact way T, N, and M combine into a stage number is defined separately for each cancer type. Your final stage should always be confirmed and explained by your oncology team.</p>"
+          },
+          {
+            "q": "Does TNM staging mean the same thing for every cancer type?",
+            "a": "<p>No, the TNM framework is shared, but the specific definitions differ for each cancer type. A T2 breast tumour, a T2 lung tumour, and a T2 colon tumour are defined by different size or depth criteria, and the same is true for the N and M categories. This is why a stage should never be compared directly across cancers. The correct interpretation depends on your cancer type, biopsy results, imaging, and review by a qualified specialist.</p>"
+          },
+          {
+            "q": "What is the difference between clinical and pathological TNM staging?",
+            "a": "<p>Clinical staging is based on examinations, imaging, and biopsies done before surgery, while pathological staging is based on tissue examined after an operation. Clinical stage is often written with a small \"c\" (such as cT2), and pathological stage with a small \"p\" (such as pT2). Pathological staging can be more precise because the removed tissue is studied directly. Both types of staging carry useful information and should be discussed with your treating surgical and oncology team.</p>"
+          },
+          {
+            "q": "What do markings like TX, N0, or M1 mean?",
+            "a": "<p>These are shorthand codes used within the TNM system to summarise findings. TX or NX means the tumour or nodes could not be fully assessed, while T0 or N0 means no primary tumour or no node involvement was found. M0 means no distant spread, and M1 means distant metastasis is present. Numbers such as T1 to T4 or N1 to N3 add detail. The meaning of each code depends on cancer type and should be reviewed with your doctor.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Staging Across Cancer Types and Countries",
+        "items": [
+          {
+            "q": "Which cancers use the TNM staging system?",
+            "a": "<p>Most solid tumours are staged using the TNM system, including breast, lung, colorectal, stomach, oesophageal, head and neck, bladder, kidney, prostate, and many others. For these cancers, T, N, and M provide a common language that doctors worldwide can understand. However, the detailed criteria are tailored to each cancer type. Whether TNM applies to your specific diagnosis, and how it should be read, is best confirmed by your treating oncology team using your reports.</p>"
+          },
+          {
+            "q": "Which cancers do not use TNM staging?",
+            "a": "<p>Some cancers are not staged with the TNM system because it does not fit their behaviour. Blood cancers such as leukaemia, and many lymphomas and myeloma, use separate systems based on blood counts, marrow involvement, or specific criteria like Ann Arbor staging. Certain brain tumours are also classified differently, often by tumour grade and molecular features rather than T, N, and M. Your specialist can explain which staging or classification system applies to your particular diagnosis.</p>"
+          },
+          {
+            "q": "Who decides the TNM stage and which system version is used?",
+            "a": "<p>Your TNM stage is determined by the doctors managing your care, typically pathologists, radiologists, surgeons, and oncologists working together. Most centres follow internationally recognised guidelines, such as those from the AJCC and UICC, which are updated periodically into new editions. Because criteria can change between editions, the same tumour may occasionally be described slightly differently over time. Any questions about which system or edition was used should be directed to your treating medical team.</p>"
+          },
+          {
+            "q": "Is the TNM system used the same way in India, China, and the USA?",
+            "a": "<p>The core TNM framework is international, so hospitals in India, China, the USA, and elsewhere generally use the same T, N, and M definitions for a given cancer type. This makes it easier to share reports and seek second opinions across countries. Small differences can occur if centres follow different guideline editions or add local staging notes. When comparing reports from different countries, it helps to have them reviewed together by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Staging, Treatment Decisions and Clinical Trials",
+        "items": [
+          {
+            "q": "How does TNM stage affect treatment decisions?",
+            "a": "<p>TNM stage is one of the main factors doctors use to plan treatment, because it summarises how far the cancer has spread. Earlier stages may be managed with surgery or localised radiation, while more advanced stages may involve chemotherapy, targeted therapy, immunotherapy, or combinations. However, stage is not the only consideration; cancer type, biomarkers, previous treatment, and overall health also matter. Final treatment decisions should always be made by your oncology team after reviewing your complete medical picture.</p>"
+          },
+          {
+            "q": "Do clinical trials use TNM staging for eligibility?",
+            "a": "<p>Yes, many clinical trials use TNM stage as part of their eligibility criteria, since trials often focus on a specific stage or extent of disease. Your stage may help identify which trials could be relevant, but it does not guarantee enrolment. Eligibility is decided only after investigators review your full medical records against detailed inclusion and exclusion criteria. Whether a particular trial is suitable for you should be assessed by the trial team and your treating doctors.</p>"
+          },
+          {
+            "q": "Are biomarkers replacing the TNM staging system?",
+            "a": "<p>Biomarkers are not replacing TNM staging, but they increasingly work alongside it. For some cancers, features such as hormone receptor status, HER2, EGFR, or other molecular markers are now combined with T, N, and M to give a more complete picture and guide targeted treatment. TNM still provides the anatomical foundation for staging. How much weight biomarkers carry depends on the cancer type, and their role in your care should be discussed with your specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports do I need to confirm my TNM stage?",
+            "a": "<p>To confirm a TNM stage, doctors usually need your pathology or biopsy report, relevant imaging such as CT, MRI, PET, or ultrasound scans, and any surgical or operative notes if surgery was done. Blood tests and biomarker results may also be helpful. Having complete, clearly labelled reports makes review and second opinions much easier, especially across countries. Your treating team can tell you which specific tests are needed to establish or update your stage accurately.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients understand their TNM stage?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to gather the pathology, imaging, and biomarker information needed to review a TNM stage across different hospitals or countries. Treatment and staging decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

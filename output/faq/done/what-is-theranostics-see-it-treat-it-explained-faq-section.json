@@ -1,0 +1,118 @@
+{
+  "pillar": "What Is Theranostics? See It, Treat It Explained",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: what-is-theranostics-see-it-treat-it-explained",
+  "route": "⚠ VERIFY: /<section>/what-is-theranostics-see-it-treat-it-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Theranostics",
+    "intro": "Theranostics combines diagnosis and treatment using paired radioactive agents that first find cancer cells and then deliver targeted radiation to them. These FAQs explain how it works, who it may help, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Theranostics",
+        "items": [
+          {
+            "q": "What is theranostics?",
+            "a": "<p>Theranostics is a cancer approach that combines diagnosis and therapy using a matched pair of radioactive agents that target the same molecule on cancer cells. One agent is linked to an imaging isotope to locate disease on a scan, and a nearly identical agent is linked to a treatment isotope to deliver radiation directly to those cells. The name comes from \"therapy\" plus \"diagnostics,\" reflecting its see-it, treat-it design.</p>"
+          },
+          {
+            "q": "What does \"see it, treat it\" mean in theranostics?",
+            "a": "<p>\"See it, treat it\" means the same molecular target is first imaged and then treated using two closely matched radioactive compounds. Doctors first give a diagnostic tracer that lights up cancer cells on a PET or SPECT scan, confirming the target is present. If the scan shows uptake, a therapeutic version delivering radiation may be considered. This pairing helps ensure treatment is aimed at tumors that actually carry the target.</p>"
+          },
+          {
+            "q": "How does theranostics work?",
+            "a": "<p>Theranostics works by attaching a radioactive isotope to a molecule that binds a specific marker on cancer cells. The diagnostic isotope emits signals a scanner detects, showing where the cancer is and whether it expresses the target. A therapeutic isotope on the same targeting molecule then emits radiation that damages nearby cancer cells while limiting exposure to healthy tissue. Response depends on target expression, cancer type, and specialist assessment.</p>"
+          },
+          {
+            "q": "What is the difference between theranostics and standard imaging?",
+            "a": "<p>The key difference is that theranostics uses imaging not only to see cancer but to guide targeted treatment with a matched radioactive agent. Standard imaging like CT or MRI shows the size and location of tumors, while a theranostic scan confirms whether cancer cells carry a specific molecular target. If they do, a paired therapy may be considered. This links what is seen on the scan directly to a treatment decision.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for theranostics?",
+            "a": "<p>Eligibility for theranostics depends on whether a scan shows the cancer expresses the specific target the therapy is designed to bind. It may be suitable for selected patients with certain cancers, such as neuroendocrine tumors or advanced prostate cancer, when standard treatments have been used or are unsuitable. Eligibility also depends on cancer type, stage, previous treatment, kidney and bone marrow function, and overall health, and should be confirmed by a specialist team.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with theranostics?",
+            "a": "<p>Theranostics is most established for neuroendocrine tumors and metastatic prostate cancer, where well-studied targets exist. Neuroendocrine tumors may be treated using agents that bind somatostatin receptors, while prostate cancer may be treated using agents that bind PSMA. Research is exploring other cancers and targets, but availability varies. Whether theranostics is appropriate for a specific cancer depends on target expression on a scan and review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is the theranostics treatment process like?",
+            "a": "<p>The process usually begins with a diagnostic PET or SPECT scan to confirm the cancer carries the required target. If uptake is confirmed and blood and organ function are suitable, the therapeutic agent is given by intravenous infusion, often in several cycles spaced weeks apart. Patients are monitored between cycles with scans and blood tests. The exact schedule, number of cycles, and dosing are decided by the treating nuclear medicine and oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of theranostics?",
+            "a": "<p>Common side effects of theranostics can include tiredness, nausea, temporary drops in blood counts, and mild effects on the kidneys or salivary glands, depending on the agent used. Most side effects are manageable, but some patients may experience more significant effects that require monitoring. Because the treatment is radioactive, brief safety precautions are advised after each dose. Individual risks depend on the agent, dose, and health, and should be discussed with the treating team.</p>"
+          },
+          {
+            "q": "Is theranostics safe?",
+            "a": "<p>Theranostics is generally considered a well-tolerated, targeted approach when delivered by an experienced nuclear medicine team, but it is not risk-free. Because it uses radiation, patients follow short-term safety precautions to limit exposure to others, and organ function is checked before and during treatment. Safety depends on correct patient selection, dosing, and monitoring. Any decision to proceed should be made by a qualified specialist team after reviewing the patient's reports and overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does theranostics cost?",
+            "a": "<p>The cost of theranostics varies widely and depends on the specific agent, number of cycles, hospital, and country of treatment. Because each cycle involves a specialized radioactive drug plus imaging and monitoring, the total for a full course can be substantial. Final cost depends on diagnosis, stage, tests, treatment protocol, complications, length of stay, and the treating team's advice, so patients should request a detailed estimate before starting.</p>"
+          },
+          {
+            "q": "Is theranostics available in India?",
+            "a": "<p>Theranostics is available at selected specialized hospitals and nuclear medicine centers in India, including certain agents for neuroendocrine and prostate cancers. Availability depends on the specific isotope, regulatory approval, and whether a center has the required facilities and radiation licensing. India is often considered by international patients for its specialist expertise and comparatively lower costs. Whether a specific therapy is available and suitable should be confirmed with the treating center after medical review.</p>"
+          },
+          {
+            "q": "Which countries offer theranostics?",
+            "a": "<p>Theranostics is offered in several countries with advanced nuclear medicine facilities, including India, parts of Europe, the United States, and increasingly China and other regions. Availability of a particular agent depends on local regulatory approval, isotope supply, and specialized infrastructure. Because approvals differ by country, the same therapy may be accessible in one location but not another. International patients should verify availability and eligibility directly with the treating center before making travel plans.</p>"
+          },
+          {
+            "q": "Is theranostics covered by insurance?",
+            "a": "<p>Insurance coverage for theranostics varies by country, insurer, and the specific approved indication. Some health systems and insurers cover established therapies for approved cancers, while newer or off-label uses may not be covered. Coverage often depends on documentation showing target expression and prior treatments. Because policies differ, patients should confirm coverage, pre-authorization requirements, and out-of-pocket costs with their insurer and the treating hospital before beginning treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Are there clinical trials for theranostics?",
+            "a": "<p>Yes, many clinical trials are studying theranostics for new cancer types, targets, and radioactive agents. Trials may offer access to emerging therapies, but enrollment is not guaranteed and depends on strict inclusion and exclusion criteria. Eligibility is decided only after medical record review and investigator assessment, and participation does not guarantee benefit. Patients interested in trials should discuss options with their oncology team and review the specific requirements of each study.</p>"
+          },
+          {
+            "q": "Is theranostics a replacement for chemotherapy or standard treatment?",
+            "a": "<p>Theranostics is not a guaranteed replacement for chemotherapy or standard cancer treatment; it is one option that may be used alongside or after other therapies in selected patients. For some cancers, it may be considered when standard treatments have been tried or are unsuitable. Whether it is used instead of, before, or in combination with other treatments depends on cancer type, stage, and prior therapy, and is decided by the treating medical team.</p>"
+          },
+          {
+            "q": "How is theranostics expected to develop in the future?",
+            "a": "<p>Theranostics is an actively growing field, with research focused on new molecular targets, more precise isotopes, and applications in additional cancers. Scientists are studying combinations with immunotherapy and other treatments, as well as ways to better select patients using imaging. While early results are encouraging, many approaches remain investigational and are not yet standard care. Future availability will depend on ongoing trial results, regulatory approval, and specialist evaluation for each patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access theranostics?",
+            "a": "<p>International patients can access theranostics by sharing their diagnosis, scans, and pathology with a specialized center to confirm whether the therapy may be suitable. Access depends on hospital acceptance, medical review confirming target expression, visa approval, travel fitness, and the patient's condition. Because treatment involves several cycles and monitoring, planning for an extended stay is often needed. Admission, eligibility, and timelines cannot be guaranteed and are confirmed only after specialist review.</p>"
+          },
+          {
+            "q": "What medical reports are needed to evaluate theranostics?",
+            "a": "<p>To evaluate whether theranostics may be suitable, specialists usually need recent diagnostic scans, pathology or biopsy reports, prior treatment history, and blood tests showing kidney and bone marrow function. A confirmatory PET or SPECT scan is often required to show the cancer carries the specific target. Additional imaging and reports may be requested. Organizing complete and up-to-date records helps the treating team assess eligibility and plan safe treatment more accurately.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with theranostics?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is intended to guide patients through the process, not to guarantee eligibility, hospital admission, treatment access, or any specific outcome.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

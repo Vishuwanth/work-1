@@ -1,0 +1,114 @@
+{
+  "pillar": "MRD (minimal residual disease) testing: what it is and why it changes your treatment plan",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: mrd-minimal-residual-disease-testing-what-it-is-and-why-it-changes-your-treatment-plan",
+  "route": "⚠ VERIFY: /<section>/mrd-minimal-residual-disease-testing-what-it-is-and-why-it-changes-your-treatment-plan",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About MRD (Minimal Residual Disease) Testing",
+    "intro": "MRD testing looks for tiny amounts of cancer left after treatment for leukaemia, lymphoma, and myeloma. These answers explain what the test measures, how it is done, and how results may influence treatment decisions made with your oncology team.",
+    "groups": [
+      {
+        "title": "Understanding MRD Testing",
+        "items": [
+          {
+            "q": "What is MRD (minimal residual disease) testing?",
+            "a": "<p>MRD testing detects very small numbers of cancer cells that remain in the body after treatment, even when standard tests and scans appear normal. It is mainly used in blood cancers such as leukaemia, lymphoma, and myeloma. By measuring disease at a much deeper level, MRD helps show how well treatment has worked. Results are interpreted alongside your full clinical picture by a qualified haematology or oncology team.</p>"
+          },
+          {
+            "q": "What does MRD-positive or MRD-negative mean?",
+            "a": "<p>MRD-negative means no residual cancer cells were found at the test's level of sensitivity, while MRD-positive means a small amount of disease was still detected. MRD-negative results are generally linked with a better response and lower relapse risk, but they do not guarantee a cure. MRD-positive results may prompt closer monitoring or a change in plan. Interpretation depends on the cancer type, timing, and your treating specialist's review.</p>"
+          },
+          {
+            "q": "How is MRD different from a normal blood test or scan?",
+            "a": "<p>MRD testing is far more sensitive than routine blood counts, bone marrow microscopy, or imaging scans. Standard tests may detect one cancer cell among a hundred, while MRD methods can find one abnormal cell among ten thousand to a million cells. This deeper sensitivity can reveal residual disease that would otherwise go unnoticed. The exact sensitivity varies by method and laboratory, and results should always be reviewed by your oncology team.</p>"
+          },
+          {
+            "q": "Which methods are used for MRD testing?",
+            "a": "<p>The main MRD methods are flow cytometry, polymerase chain reaction (PCR), and next-generation sequencing (NGS). Flow cytometry studies proteins on cell surfaces, while PCR and NGS detect specific genetic changes linked to the cancer. Each method differs in sensitivity, cost, and availability. The right approach depends on your cancer type, available markers, and laboratory expertise, and should be decided by your haematology or oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who may benefit from MRD testing?",
+            "a": "<p>MRD testing may be considered for selected patients with certain blood cancers, including acute lymphoblastic leukaemia, acute myeloid leukaemia, chronic lymphocytic leukaemia, multiple myeloma, and some lymphomas. It is most useful when a measurable marker exists and when results could change monitoring or treatment. Suitability depends on cancer type, disease markers, treatment stage, and specialist judgement, and should be discussed with your treating oncology team before testing.</p>"
+          },
+          {
+            "q": "How is an MRD test sample collected?",
+            "a": "<p>An MRD sample is usually taken from bone marrow or, in some cases, from a peripheral blood draw, depending on the cancer type and test method. Bone marrow sampling involves a needle inserted into the hip bone, often under local anaesthetic. Blood-based MRD testing is less invasive where validated. Your care team will explain which sample type is appropriate and how the procedure is performed for your specific situation.</p>"
+          },
+          {
+            "q": "Is MRD testing safe?",
+            "a": "<p>MRD testing is generally considered safe, as it mainly involves standard blood or bone marrow sampling rather than any new treatment. Bone marrow collection may cause temporary soreness, minor bruising, or brief discomfort at the site, and serious complications are uncommon. Blood-based sampling carries even lower risk. Any procedure-related concerns, including bleeding or infection risk, should be discussed with your treating medical team beforehand.</p>"
+          },
+          {
+            "q": "How often is MRD testing repeated?",
+            "a": "<p>MRD testing is often repeated at set points during and after treatment, such as after induction, before or after transplant, or during long-term follow-up. The timing depends on the cancer type, treatment protocol, and how results are used to guide decisions. Repeated testing helps track whether disease is decreasing, stable, or returning. Your oncology team decides the schedule based on established guidelines and your individual response.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does MRD testing cost?",
+            "a": "<p>MRD testing costs vary widely depending on the method used, the laboratory, and the country, with more advanced next-generation sequencing generally costing more than flow cytometry. Final cost depends on the test type, number of repeat tests, sample handling, hospital charges, and whether it is bundled into a treatment programme. Because prices are not fixed, patients should request a clear written estimate from the treating hospital or laboratory.</p>"
+          },
+          {
+            "q": "Is MRD testing available in India?",
+            "a": "<p>MRD testing is available at several specialised cancer centres and reference laboratories in India, particularly for leukaemia, lymphoma, and myeloma. Availability of specific methods such as flow cytometry, PCR, or next-generation sequencing may differ between centres. Turnaround time, sensitivity, and cost can also vary. Patients should confirm which MRD method a centre offers and whether it matches their cancer type through their treating oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer advanced MRD testing?",
+            "a": "<p>Advanced MRD testing is offered in many countries with established haematology and cancer laboratory services, including India, the United States, several European nations, China, and parts of Southeast Asia. Access to highly sensitive methods like next-generation sequencing may be more limited and concentrated in specialised centres. Availability, quality, and cost differ by location, so patients should verify capabilities directly with the hospital or laboratory before travelling.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "How does MRD testing change a treatment plan?",
+            "a": "<p>MRD testing can influence a treatment plan by helping the team judge whether current therapy is working deeply enough. MRD-negative results may support continuing or de-escalating treatment in selected cases, while persistent MRD may prompt intensified therapy, a change of drugs, or consideration of transplant. These are complex, individual decisions. Final treatment choices should always be made by the treating medical team based on full clinical assessment.</p>"
+          },
+          {
+            "q": "Is MRD used to guide stem cell transplant decisions?",
+            "a": "<p>MRD results may be one factor considered when planning a stem cell transplant, especially in leukaemia and myeloma. Persistent MRD before transplant can indicate a higher relapse risk and may influence timing or additional therapy, while MRD-negative status may reassure the team. However, MRD is only part of the decision, alongside donor availability, fitness, and disease type. Transplant decisions are always made by the specialist transplant team.</p>"
+          },
+          {
+            "q": "How is MRD used in clinical trials?",
+            "a": "<p>MRD is increasingly used in clinical trials as a marker to measure how deeply treatments clear disease and to compare new therapies. Some trials use MRD status to guide whether treatment is intensified, reduced, or stopped. Trial participation does not guarantee benefit, and eligibility is decided after medical record review and investigator assessment. Trials often have strict inclusion and exclusion criteria that must be met before enrolment.</p>"
+          },
+          {
+            "q": "Can MRD testing predict whether cancer will come back?",
+            "a": "<p>MRD testing can help estimate relapse risk but cannot predict outcomes with certainty for any individual. Studies across several blood cancers show that MRD-negative patients often have lower relapse rates than MRD-positive patients, yet relapses can still occur after negative results, and some MRD-positive patients remain stable. MRD is one prognostic tool among many. Results should be interpreted in context by your treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed to arrange MRD testing abroad?",
+            "a": "<p>For MRD testing abroad, hospitals usually request your diagnosis details, bone marrow and biopsy reports, previous flow cytometry or genetic test results, treatment history, and recent blood counts. Having identified disease markers from earlier testing is often important, as some MRD methods track specific mutations. Requirements vary by centre and method. Your treating oncology team and the receiving hospital can confirm the exact reports needed before travel.</p>"
+          },
+          {
+            "q": "How can international patients access MRD testing?",
+            "a": "<p>International patients can access MRD testing by sharing medical records with a specialised cancer centre, which reviews whether the appropriate method is available for their cancer type. Access depends on hospital acceptance, medical review, sample logistics, visa approval, and travel fitness, none of which can be guaranteed. Because MRD often requires prior disease markers, planning ahead is important. A clear cost estimate and coordination with the treating team help avoid delays.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with MRD testing?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or laboratories offering MRD testing, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment and testing decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee test availability, hospital acceptance, or specific outcomes, and does not replace the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

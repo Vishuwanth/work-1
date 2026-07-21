@@ -1,0 +1,68 @@
+{
+  "pillar": "Cancer Treatment in Turkey",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-turkey",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-turkey",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in Turkey",
+    "intro": "Turkey has become a major destination for international cancer care, combining accredited hospitals, experienced oncologists, and competitive costs. These answers explain what treatment in Turkey involves, who it may suit, and how patients from abroad can plan safely.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in Turkey",
+        "items": [
+          {
+            "q": "Is Turkey a good option for cancer treatment?",
+            "a": "<p>Turkey is widely used by international patients for cancer treatment because it offers accredited hospitals, experienced oncology teams, and modern technology at competitive costs. Many leading centers in Istanbul, Ankara, and Izmir hold international accreditations such as JCI. Whether Turkey is suitable for a specific patient depends on the cancer type, stage, biomarker profile, previous treatment, and overall health, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What types of cancer are treated in Turkey?",
+            "a": "<p>Hospitals in Turkey treat a wide range of cancers, including breast, lung, colorectal, prostate, blood cancers, and many solid tumors. Available treatments may include surgery, chemotherapy, radiotherapy, immunotherapy, targeted therapy, and stem cell transplantation. The most appropriate approach depends on the cancer type, stage, biomarker findings, and the patient's overall condition. Final treatment decisions should always be made by the treating medical team after reviewing complete records.</p>"
+          },
+          {
+            "q": "What treatment technologies are available in Turkish cancer hospitals?",
+            "a": "<p>Many Turkish cancer centers offer advanced technologies such as PET-CT imaging, robotic surgery, IMRT and stereotactic radiotherapy, and modern chemotherapy and immunotherapy protocols. Some larger hospitals also provide bone marrow and stem cell transplantation. Availability varies between hospitals, and not every technology suits every patient. Which options are appropriate depends on the diagnosis, stage, and specialist review by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Planning",
+        "items": [
+          {
+            "q": "How much does cancer treatment cost in Turkey?",
+            "a": "<p>Cancer treatment costs in Turkey are often lower than in Western Europe or the United States, though prices vary widely by case. Final cost depends on the hospital, diagnosis, stage, tests required, treatment protocol, length of stay, and any complications. Estimates should be confirmed in writing before travel. A hospital cannot guarantee a fixed price until it reviews the patient's medical reports and finalizes a treatment plan.</p>"
+          },
+          {
+            "q": "How can international patients access cancer treatment in Turkey?",
+            "a": "<p>International patients usually begin by sharing their medical reports for a remote review, after which a hospital may propose a treatment plan and estimate. Access depends on hospital acceptance, medical suitability, visa approval, and fitness to travel. None of these can be guaranteed in advance. Patients should also plan for accommodation, an interpreter if needed, and follow-up care once they return home.</p>"
+          },
+          {
+            "q": "What medical reports are needed to plan treatment in Turkey?",
+            "a": "<p>To plan cancer treatment in Turkey, hospitals typically request recent pathology or biopsy reports, imaging such as CT, MRI, or PET-CT, blood test results, and a summary of previous treatments. Biomarker or genetic testing results may also help guide targeted options. Complete, up-to-date records allow the oncology team to give a more accurate opinion and estimate, though the final plan is confirmed only after specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Trials, and Support",
+        "items": [
+          {
+            "q": "Is it safe to travel to Turkey for cancer treatment?",
+            "a": "<p>Traveling to Turkey for cancer treatment can be reasonable for selected patients treated at accredited hospitals, but safety depends on the individual's condition. Some patients may not be fit to travel during active illness or intensive therapy. Fitness to fly, infection risk, and continuity of care must be assessed beforehand. These decisions should be made together with the treating medical team based on the patient's current health.</p>"
+          },
+          {
+            "q": "Are cancer clinical trials available in Turkey?",
+            "a": "<p>Some hospitals in Turkey participate in cancer clinical trials, but availability changes over time and depends on the cancer type and study criteria. Enrollment is never guaranteed and is decided only after medical record review and investigator assessment. Trials often have strict inclusion and exclusion rules, and participation may involve additional evaluations. Patients should discuss potential trials and their risks and benefits with the treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer treatment in Turkey?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax supports coordination and planning but does not replace the doctors or hospitals providing care.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

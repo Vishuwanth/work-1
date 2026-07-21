@@ -1,0 +1,64 @@
+{
+  "pillar": "Cost of CAR-T Therapy Worldwide",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: cost-of-car-t-therapy-worldwide",
+  "route": "⚠ VERIFY: /insights/cost-of-car-t-therapy-worldwide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of CAR-T Therapy Worldwide",
+    "intro": "CAR-T cell therapy is one of the most expensive cancer treatments available, and prices vary widely between countries. These answers explain typical cost ranges, what drives them, and how international patients can plan.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Costs",
+        "items": [
+          {
+            "q": "How much does CAR-T therapy cost worldwide?",
+            "a": "<p>CAR-T cell therapy typically costs between roughly US$100,000 and US$500,000 for the cell product alone, depending on the country, product, and cancer type. In the United States, approved CAR-T products are among the most expensive, while India and China often offer lower-priced options. Final costs depend on the hospital, disease, hospital stay, complications, and supportive care, and should be confirmed with the treating oncology team before starting.</p>"
+          },
+          {
+            "q": "Why is CAR-T therapy so expensive?",
+            "a": "<p>CAR-T therapy is expensive because each dose is made individually from the patient's own immune cells. The process involves collecting T-cells, genetically engineering them in a specialized lab, growing them, and returning them to the patient. This complex, personalized manufacturing, along with strict quality controls, intensive hospital monitoring, and management of possible side effects, drives the high cost. Prices vary by country, product, and treatment center.</p>"
+          },
+          {
+            "q": "Does the CAR-T price include hospital and other costs?",
+            "a": "<p>The commonly quoted CAR-T price usually covers only the cell product, not the full treatment. Additional costs may include pre-treatment tests, cell collection, chemotherapy before infusion, hospital admission, intensive care if needed, and management of side effects such as cytokine release syndrome. Total expenses depend on the hospital, length of stay, complications, and follow-up care, so patients should request a detailed estimate from the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost by Country and Access",
+        "items": [
+          {
+            "q": "How much does CAR-T therapy cost in India?",
+            "a": "<p>CAR-T therapy in India is generally more affordable than in Western countries, with locally developed products often estimated in the range of a few million rupees, roughly US$40,000 to US$100,000 for the cell product. Actual costs depend on the specific product, hospital, cancer type, stage, and required supportive care. Because pricing and availability change, patients should confirm current estimates directly with the treating hospital and oncology team.</p>"
+          },
+          {
+            "q": "How much does CAR-T therapy cost in China?",
+            "a": "<p>CAR-T therapy in China is often lower priced than in the United States or Europe, with commercial products and clinical-trial-based options available at some specialized centers. Reported costs vary widely depending on the product, hospital, and whether the treatment is part of a trial. Because prices and eligibility differ by center, international patients should seek a written estimate and medical review before planning treatment in China.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy covered by insurance?",
+            "a": "<p>Insurance coverage for CAR-T therapy varies by country, insurer, and specific policy. In some regions, approved CAR-T products for certain blood cancers may be partly or fully covered, while in others patients pay out of pocket. Coverage may also depend on the cancer type, prior treatments, and whether the therapy is approved for that indication. Patients should confirm coverage details directly with their insurer before treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Planning as an International Patient",
+        "items": [
+          {
+            "q": "Can international patients access CAR-T therapy abroad?",
+            "a": "<p>International patients may be able to access CAR-T therapy in countries such as the United States, India, or China, but access is not guaranteed. It depends on hospital acceptance, medical record review, the cancer type and stage, travel fitness, visa approval, and available slots. Some options may be through approved products and others through clinical trials with strict criteria. Eligibility and cost should be confirmed with the treating center.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant CAR-T centers or specialists, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help patients compare options across countries and understand what a cost estimate includes. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

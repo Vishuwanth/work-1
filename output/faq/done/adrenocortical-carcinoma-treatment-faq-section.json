@@ -1,0 +1,68 @@
+{
+  "pillar": "Adrenocortical Carcinoma Treatment",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: adrenocortical-carcinoma-treatment",
+  "route": "⚠ VERIFY: /insights/adrenocortical-carcinoma-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Adrenocortical Carcinoma Treatment",
+    "intro": "Adrenocortical carcinoma is a rare cancer of the adrenal glands that usually needs a combination of surgery, medication, and specialist care. These FAQs explain how it is treated, what to expect, and how international patients can reach experienced centres.",
+    "groups": [
+      {
+        "title": "Understanding Adrenocortical Carcinoma Treatment",
+        "items": [
+          {
+            "q": "What is adrenocortical carcinoma and how is it treated?",
+            "a": "<p>Adrenocortical carcinoma (ACC) is a rare cancer that begins in the outer layer of the adrenal gland, and treatment usually combines surgery with medication. Complete surgical removal of the tumour offers the best chance of control for early-stage disease, while mitotane, chemotherapy, or radiation may be added for larger or advanced tumours. The right approach depends on stage, hormone activity, and overall health, and should be planned by an experienced oncology team.</p>"
+          },
+          {
+            "q": "Is surgery the main treatment for adrenocortical carcinoma?",
+            "a": "<p>Surgery is the main treatment for adrenocortical carcinoma when the tumour can be completely removed. An operation called adrenalectomy removes the affected adrenal gland, and achieving clear margins is linked to better outcomes. Surgery is usually performed by a specialist experienced in adrenal tumours, sometimes with removal of nearby tissue. Whether surgery is suitable depends on tumour size, spread, and patient fitness, and should be assessed by the treating surgical and oncology team.</p>"
+          },
+          {
+            "q": "What is mitotane and how does it help in adrenocortical carcinoma?",
+            "a": "<p>Mitotane is a medication used specifically for adrenocortical carcinoma that acts on adrenal cortex cells and can help control tumour growth and hormone production. It may be given after surgery to lower the risk of recurrence, or alongside chemotherapy in advanced disease. Mitotane requires careful blood-level monitoring and can cause side effects, so it must be managed by a specialist team. Its use depends on individual risk factors and the treating oncologist's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment Options, Eligibility, and Safety",
+        "items": [
+          {
+            "q": "What chemotherapy is used for advanced adrenocortical carcinoma?",
+            "a": "<p>The most established chemotherapy for advanced adrenocortical carcinoma is the EDP-M regimen, which combines etoposide, doxorubicin, and cisplatin with mitotane. This combination may be considered when the cancer has spread or cannot be removed by surgery. Response varies between patients, and treatment aims to slow progression and manage symptoms rather than guarantee a cure. The choice of chemotherapy depends on stage, previous treatment, and overall health, and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can radiation therapy be used for adrenocortical carcinoma?",
+            "a": "<p>Radiation therapy may be used in selected cases of adrenocortical carcinoma, often after surgery or to relieve symptoms from cancer that has spread. It can help target the tumour bed to reduce local recurrence risk or ease pain from bone or other metastases. Radiation is not suitable for every patient and is usually combined with other treatments. Whether it is appropriate depends on tumour location, stage, and specialist review by the radiation oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of adrenocortical carcinoma treatment?",
+            "a": "<p>Side effects of adrenocortical carcinoma treatment depend on the therapies used and vary from person to person. Surgery carries the usual operative risks, mitotane can cause nausea, fatigue, and hormone imbalances that may need steroid support, and chemotherapy may lead to low blood counts, nausea, and hair loss. Hormone-producing tumours can also cause symptoms before treatment. Most side effects can be monitored and managed, and any concerns should be discussed promptly with the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support for International Patients",
+        "items": [
+          {
+            "q": "Is adrenocortical carcinoma treatment available in India?",
+            "a": "<p>Adrenocortical carcinoma treatment is available at several specialised cancer centres in India that offer adrenal surgery, mitotane therapy, chemotherapy, and radiation. Because ACC is rare, care is best managed at hospitals experienced in endocrine and rare cancers with access to multidisciplinary teams. Availability of specific medicines and clinical trials can vary between centres. Suitability, treatment planning, and estimated costs should be confirmed after medical review by the chosen hospital's oncology team.</p>"
+          },
+          {
+            "q": "Are there clinical trials for adrenocortical carcinoma?",
+            "a": "<p>Clinical trials for adrenocortical carcinoma are ongoing and may study targeted therapy, immunotherapy, or new drug combinations for advanced disease. Trials can offer access to emerging treatments, but they follow strict inclusion and exclusion criteria. Eligibility is decided only after review of medical records and assessment by the trial investigators, and enrolment or benefit cannot be guaranteed. Patients interested in trials should discuss options with their oncologist and confirm availability at participating centres.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with adrenocortical carcinoma treatment?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. For a rare cancer like adrenocortical carcinoma, this support can make it easier to reach experienced centres and organise timely, coordinated care.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

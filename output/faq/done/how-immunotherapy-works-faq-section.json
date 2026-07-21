@@ -1,0 +1,68 @@
+{
+  "pillar": "How Immunotherapy Works",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: how-immunotherapy-works",
+  "route": "⚠ VERIFY: /insights/how-immunotherapy-works",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How Immunotherapy Works",
+    "intro": "Immunotherapy helps the body's own immune system recognize and attack cancer cells. These answers explain how it works, who it may suit, and what patients and caregivers should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding How Immunotherapy Works",
+        "items": [
+          {
+            "q": "How does immunotherapy work against cancer?",
+            "a": "<p>Immunotherapy works by helping the immune system find and destroy cancer cells more effectively. Cancer often hides from immune defenses or switches them off, and immunotherapy removes these blocks or strengthens the immune response. Depending on the type, it may reactivate T-cells, mark cancer cells for attack, or train the immune system to recognize tumor proteins. The exact mechanism depends on the drug type, cancer type, and the patient's overall health.</p>"
+          },
+          {
+            "q": "What are the main types of immunotherapy?",
+            "a": "<p>The main types of immunotherapy include checkpoint inhibitors, CAR T-cell therapy, monoclonal antibodies, cancer vaccines, and cytokines. Checkpoint inhibitors release the brakes on T-cells, while CAR T-cell therapy re-engineers a patient's own immune cells to target cancer. Monoclonal antibodies flag cancer cells for destruction. The most suitable type depends on cancer type, stage, biomarker profile, and prior treatment, and should be decided by a qualified oncology team after full review.</p>"
+          },
+          {
+            "q": "What are immune checkpoint inhibitors?",
+            "a": "<p>Immune checkpoint inhibitors are drugs that block proteins which normally stop immune cells from attacking healthy tissue. Cancer cells sometimes misuse these checkpoints, such as PD-1, PD-L1, and CTLA-4, to avoid immune attack. By blocking them, these drugs allow T-cells to recognize and destroy cancer more effectively. They are used in several cancers, but suitability depends on biomarker testing and specialist assessment of each patient's situation.</p>"
+          },
+          {
+            "q": "How is immunotherapy different from chemotherapy?",
+            "a": "<p>Immunotherapy differs from chemotherapy because it targets the immune system rather than directly killing cancer cells. Chemotherapy attacks rapidly dividing cells throughout the body, which can affect healthy tissue too. Immunotherapy instead activates or strengthens the body's natural defenses to fight cancer, sometimes offering longer-lasting responses in selected patients. Side effect patterns also differ. The right approach depends on cancer type, stage, and treatment goals discussed with the oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Is immunotherapy suitable for all cancer patients?",
+            "a": "<p>Immunotherapy is not suitable for every cancer patient, and eligibility varies widely. It works best for certain cancers and for patients whose tumors show specific biomarkers, such as PD-L1 expression or high tumor mutational burden. Factors like cancer type, stage, previous treatment, and overall health all influence whether it may be considered. Biomarker testing and a full review by a qualified oncology team help determine if it is appropriate.</p>"
+          },
+          {
+            "q": "What are the possible benefits of immunotherapy?",
+            "a": "<p>Immunotherapy may offer durable responses in selected patients, sometimes controlling cancer for longer periods than other treatments. Because it trains the immune system, some patients continue to benefit even after treatment ends. It may be used alone or combined with chemotherapy, radiation, or surgery. Benefits vary by cancer type, stage, and biomarker profile, and outcomes cannot be guaranteed. Any expected benefit should be discussed with the treating medical team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of immunotherapy?",
+            "a": "<p>Immunotherapy can cause side effects when an activated immune system also attacks healthy tissue. Common effects include fatigue, skin rash, and flu-like symptoms, while less common immune-related reactions may affect the lungs, bowel, liver, or hormone glands. Most are manageable when detected early, so patients are monitored closely. Severity varies between individuals, and any new symptoms should be reported promptly to the treating oncology team for evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support",
+        "items": [
+          {
+            "q": "How can international patients access immunotherapy?",
+            "a": "<p>International patients may access immunotherapy through hospitals and cancer centers that offer these treatments, but access depends on several factors. These include hospital acceptance, medical record review, biomarker testing, visa approval, travel fitness, and overall condition. Some newer therapies may only be available in certain countries or clinical trials. Patients should arrange a specialist review, gather complete medical reports, and confirm availability and cost before planning treatment abroad.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It also helps patients understand whether immunotherapy or a clinical trial may be an option to explore. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

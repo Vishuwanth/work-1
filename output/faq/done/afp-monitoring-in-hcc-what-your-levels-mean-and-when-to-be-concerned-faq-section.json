@@ -1,0 +1,110 @@
+{
+  "pillar": "AFP monitoring in HCC: what your levels mean and when to be concerned",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: afp-monitoring-in-hcc-what-your-levels-mean-and-when-to-be-concerned",
+  "route": "⚠ VERIFY: /<section>/afp-monitoring-in-hcc-what-your-levels-mean-and-when-to-be-concerned",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About AFP Monitoring in HCC",
+    "intro": "Alpha-fetoprotein (AFP) is a blood marker often used alongside imaging to monitor hepatocellular carcinoma (HCC). These FAQs explain what AFP levels may mean, how they are tracked over time, and when a change should prompt a conversation with your liver cancer team.",
+    "groups": [
+      {
+        "title": "Understanding AFP and HCC Monitoring",
+        "items": [
+          {
+            "q": "What is AFP and why is it used in liver cancer?",
+            "a": "<p>AFP (alpha-fetoprotein) is a protein measured through a simple blood test that can be raised in some people with hepatocellular carcinoma (HCC). It is used as a tumor marker to help support diagnosis, monitor response to treatment, and watch for possible recurrence. AFP is not a standalone test, so results are always interpreted alongside imaging such as CT or MRI and reviewed by a qualified liver cancer team.</p>"
+          },
+          {
+            "q": "What is a normal AFP level?",
+            "a": "<p>A normal AFP level is generally below about 10 ng/mL in most adults, though reference ranges vary slightly between laboratories. Mildly raised values can occur with benign liver conditions, hepatitis, cirrhosis, or pregnancy, so a single elevated result does not confirm cancer. Because interpretation depends on your liver health, history, and imaging, AFP values should always be reviewed by your treating medical team rather than judged in isolation.</p>"
+          },
+          {
+            "q": "What AFP level is considered concerning in HCC?",
+            "a": "<p>Very high AFP levels, often above 400 ng/mL, are considered more suspicious for hepatocellular carcinoma, especially when supported by imaging. However, many people with HCC have normal or only mildly elevated AFP, and some non-cancerous liver conditions raise it too. There is no single cut-off that confirms or excludes cancer. Any concerning value depends on your overall picture and should be discussed with your oncology or hepatology team.</p>"
+          },
+          {
+            "q": "Can you have HCC with a normal AFP level?",
+            "a": "<p>Yes, you can have hepatocellular carcinoma even when AFP levels are normal. A significant proportion of HCC tumors produce little or no AFP, so a normal result does not rule out cancer. This is why AFP is combined with imaging such as ultrasound, CT, or MRI for surveillance and diagnosis. If symptoms or scans raise concern, further evaluation may be recommended regardless of the AFP value.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "How often should AFP be tested during HCC monitoring?",
+            "a": "<p>AFP is often checked every few months during active surveillance or treatment, but the exact schedule depends on your situation. Many centers test AFP alongside imaging roughly every three to six months for people at risk or after treatment. The interval may change based on cancer stage, treatment type, liver function, and prior results. Your medical team decides the most appropriate testing frequency for your individual case.</p>"
+          },
+          {
+            "q": "What does a rising AFP level mean after treatment?",
+            "a": "<p>A rising AFP level after treatment may suggest that the cancer is active, progressing, or has returned, but it is not proof on its own. Trends over several tests matter more than a single reading, and results are always confirmed with imaging. Some increases relate to liver inflammation rather than cancer. If your AFP is climbing, your team will usually arrange scans and further review before making decisions.</p>"
+          },
+          {
+            "q": "Is a single high AFP result enough to diagnose liver cancer?",
+            "a": "<p>No, a single high AFP result is not enough to diagnose liver cancer. AFP can be raised by hepatitis, cirrhosis, other liver conditions, and occasionally other cancers, so it lacks the accuracy to confirm a diagnosis alone. Doctors combine AFP with imaging, and sometimes a biopsy, to reach a reliable conclusion. Diagnosis of hepatocellular carcinoma should always be made by a qualified specialist reviewing the full clinical picture.</p>"
+          },
+          {
+            "q": "Is the AFP blood test safe?",
+            "a": "<p>The AFP test is a routine, low-risk blood draw that is considered very safe for most people. It involves taking a small sample of blood from a vein, with only minor risks such as brief discomfort, bruising, or lightheadedness. No special preparation is usually required. Because it is simple and non-invasive, AFP can be repeated regularly for monitoring, though the timing and interpretation should be guided by your medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does an AFP test cost?",
+            "a": "<p>AFP testing is generally an affordable blood test, but the exact cost varies by country, laboratory, and whether it is bundled with other investigations. In many regions it is a relatively low-cost marker, though prices differ between public and private facilities. Final costs depend on the hospital, additional tests ordered, and any accompanying imaging. For accurate pricing, it is best to confirm directly with the treating hospital or laboratory.</p>"
+          },
+          {
+            "q": "Is AFP monitoring available in India?",
+            "a": "<p>Yes, AFP testing is widely available across hospitals and diagnostic laboratories in India, including major cancer and liver centers. It is a commonly used marker for hepatocellular carcinoma surveillance and follow-up. Availability, turnaround time, and cost can differ between facilities and cities. For international patients, AFP is usually offered as part of a broader liver cancer workup that includes imaging and specialist review arranged through the treating center.</p>"
+          },
+          {
+            "q": "Which imaging tests are used alongside AFP?",
+            "a": "<p>Ultrasound, CT, and MRI are the imaging tests most commonly used alongside AFP for hepatocellular carcinoma. Ultrasound is often used for routine surveillance, while contrast-enhanced CT or MRI provides more detailed assessment of suspicious findings. Combining AFP trends with imaging improves the overall picture more than either test alone. The choice and frequency of imaging depend on your risk factors, liver condition, and the recommendations of your medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Are there newer markers beyond AFP for HCC?",
+            "a": "<p>Yes, additional markers such as AFP-L3 and des-gamma-carboxy prothrombin (DCP, also called PIVKA-II) may be used in some centers alongside standard AFP. These can add information for selected patients, particularly when AFP results are unclear. Availability varies by country and laboratory, and they do not replace imaging. Whether these tests are suitable for you depends on your case and should be decided by your treating oncology or hepatology team.</p>"
+          },
+          {
+            "q": "Is AFP used to guide advanced HCC treatments?",
+            "a": "<p>AFP may help inform treatment decisions in advanced hepatocellular carcinoma, and certain targeted therapies are studied in patients with elevated AFP levels. It can also be tracked to assess how a tumor is responding over time. However, AFP is only one factor among many, including stage, liver function, and imaging. Treatment planning for advanced HCC should always be led by a qualified specialist reviewing your complete medical profile.</p>"
+          },
+          {
+            "q": "Can AFP levels affect clinical trial eligibility?",
+            "a": "<p>AFP levels can be part of the eligibility criteria for some hepatocellular carcinoma clinical trials, as certain studies focus on patients with specific AFP thresholds. However, eligibility is never based on AFP alone and is decided after full review of your medical records and investigator assessment. Trials often have strict inclusion and exclusion criteria, and participation does not guarantee enrollment or benefit. A specialist can advise whether relevant trials may apply.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports should international patients prepare for AFP review?",
+            "a": "<p>International patients should gather recent AFP blood results, prior AFP values to show trends, and imaging reports such as ultrasound, CT, or MRI. Pathology or biopsy results, hepatitis status, liver function tests, and a summary of previous treatments are also helpful. Having organized, up-to-date records allows a specialist to interpret AFP more accurately. Your treating team abroad will confirm exactly which documents they need for review.</p>"
+          },
+          {
+            "q": "Can AFP results from one country be reviewed by doctors abroad?",
+            "a": "<p>Yes, AFP results can usually be reviewed by doctors abroad, especially when reported with the laboratory reference range and the date of testing. Because reference ranges and units can vary between labs, sharing the original reports helps specialists interpret them correctly. AFP trends across multiple tests are often more useful than a single value. A second opinion or remote review can be arranged, subject to the accepting hospital's process.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with AFP monitoring in HCC?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to track AFP results and imaging across visits. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and access depends on hospital acceptance and medical review.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

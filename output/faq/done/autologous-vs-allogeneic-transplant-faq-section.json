@@ -1,0 +1,64 @@
+{
+  "pillar": "Autologous vs Allogeneic Transplant",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: autologous-vs-allogeneic-transplant",
+  "route": "⚠ VERIFY: /insights/autologous-vs-allogeneic-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Autologous vs Allogeneic Transplant",
+    "intro": "Autologous and allogeneic stem cell transplants are two different approaches used in cancer care, and the right choice depends on the patient's diagnosis, disease status, and overall health. These FAQs explain how they differ, who they may suit, and what patients should discuss with their treating team.",
+    "groups": [
+      {
+        "title": "Understanding the Two Transplant Types",
+        "items": [
+          {
+            "q": "What is the difference between an autologous and allogeneic stem cell transplant?",
+            "a": "<p>An autologous stem cell transplant uses the patient's own stem cells, while an allogeneic transplant uses cells collected from a matched donor. In autologous transplants, cells are stored and returned after high-dose chemotherapy. Allogeneic transplants introduce a new immune system that may help fight cancer but carries higher risks. The choice depends on cancer type, stage, disease status, donor availability, age, and overall health, and should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "When is an autologous transplant used?",
+            "a": "<p>An autologous transplant is often considered for cancers such as multiple myeloma, Hodgkin and non-Hodgkin lymphoma, and certain other blood cancers. It allows doctors to give high-dose chemotherapy and then restore blood cell production using the patient's own previously collected stem cells. It is generally more suitable when the bone marrow is healthy enough to provide adequate cells. Eligibility depends on disease response, age, organ function, and specialist review.</p>"
+          },
+          {
+            "q": "When is an allogeneic transplant recommended?",
+            "a": "<p>An allogeneic transplant may be considered for conditions such as acute leukemia, myelodysplastic syndromes, and some cases where the patient's own marrow is affected by disease. Donor cells can create a new immune system that may recognize and attack remaining cancer cells, known as the graft-versus-tumor effect. Because it carries higher risks, it is usually reserved for selected patients. Eligibility depends on donor matching, disease type, age, and overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Which transplant is safer, autologous or allogeneic?",
+            "a": "<p>Autologous transplants generally carry lower short-term risks because they use the patient's own cells, avoiding immune rejection and graft-versus-host disease. Allogeneic transplants have higher risks, including graft-versus-host disease and infection, but may offer disease-fighting benefits that autologous transplants cannot. Neither option is risk-free, and the safest choice varies from patient to patient. The treating team weighs potential benefits against risks based on diagnosis, disease status, age, and overall condition.</p>"
+          },
+          {
+            "q": "Do you need a donor for an autologous transplant?",
+            "a": "<p>No, an autologous transplant does not require a donor because it uses the patient's own stem cells, collected and stored before high-dose treatment. An allogeneic transplant, by contrast, requires a matched donor, who may be a sibling, an unrelated registry donor, or sometimes a partially matched family member. Finding a suitable donor can affect timing and eligibility. Whether a transplant is possible depends on medical review, disease status, and the treating team's assessment.</p>"
+          },
+          {
+            "q": "What is graft-versus-host disease and which transplant causes it?",
+            "a": "<p>Graft-versus-host disease (GVHD) is a condition where donor immune cells attack the patient's own tissues, and it occurs only with allogeneic transplants. It can affect the skin, gut, liver, and other organs, ranging from mild to serious. Autologous transplants do not cause GVHD because they use the patient's own cells. Doctors use matching and medications to reduce this risk, but it cannot be fully eliminated, so careful monitoring by the transplant team is essential.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Choosing an Approach and Patient Support",
+        "items": [
+          {
+            "q": "How is the right transplant type chosen for a patient?",
+            "a": "<p>The choice between an autologous and allogeneic transplant depends on the specific cancer type, disease stage, remission status, patient age, donor availability, and overall health. Some diseases respond better to one approach, while others may require the disease-fighting effect of donor cells. Doctors also consider previous treatments and organ function. This decision is complex and individualized, and should be made only after detailed evaluation and discussion with a qualified transplant and oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with autologous vs allogeneic transplant?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Whether an autologous or allogeneic transplant is suitable, and which option is chosen, is always decided by the qualified oncology and transplant team after reviewing the patient's diagnosis, disease status, donor availability, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

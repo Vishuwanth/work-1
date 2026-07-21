@@ -1,0 +1,64 @@
+{
+  "pillar": "Eligibility for Immunotherapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: eligibility-for-immunotherapy",
+  "route": "⚠ VERIFY: /insights/eligibility-for-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for Immunotherapy",
+    "intro": "This short guide answers common questions about who may qualify for cancer immunotherapy, including the biomarkers, tests, and health factors doctors weigh before recommending treatment.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy Eligibility",
+        "items": [
+          {
+            "q": "What determines eligibility for immunotherapy?",
+            "a": "<p>Eligibility for immunotherapy depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Doctors review markers such as PD-L1 expression, microsatellite instability (MSI), and tumor mutational burden (TMB) to judge whether a patient may respond. Organ function, performance status, and any autoimmune conditions also matter. Final eligibility should be confirmed by a qualified oncology team after reviewing pathology, imaging, and laboratory reports.</p>"
+          },
+          {
+            "q": "Who is a good candidate for immunotherapy?",
+            "a": "<p>A good candidate for immunotherapy is often a patient whose tumor shows markers linked to response, such as high PD-L1 expression, MSI-high status, or high tumor mutational burden. Reasonable organ function, an acceptable performance status, and no serious active autoimmune disease also support eligibility. Suitability varies by cancer type and stage and may be considered for selected patients only after specialist review of complete medical records.</p>"
+          },
+          {
+            "q": "Is immunotherapy suitable for all cancer patients?",
+            "a": "<p>Immunotherapy is not suitable for all cancer patients. It works best in certain cancer types and in tumors carrying specific biomarkers, while others may respond poorly. Patients with uncontrolled autoimmune disease, organ transplants, or very weak overall health may not qualify. Whether immunotherapy may be considered depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Tests and Health Factors",
+        "items": [
+          {
+            "q": "What tests are needed to check immunotherapy eligibility?",
+            "a": "<p>Immunotherapy eligibility is usually assessed using biomarker tests performed on tumor tissue or blood. Common tests include PD-L1 immunohistochemistry, microsatellite instability (MSI) or mismatch repair (MMR) testing, and tumor mutational burden (TMB). Blood tests for organ function and imaging to confirm stage are also needed. Which tests apply depends on cancer type, and results should be interpreted by the treating oncology team before any decision.</p>"
+          },
+          {
+            "q": "Can patients with autoimmune diseases receive immunotherapy?",
+            "a": "<p>Patients with autoimmune diseases can sometimes receive immunotherapy, but they need careful evaluation. Because immunotherapy stimulates the immune system, it may worsen conditions such as rheumatoid arthritis, lupus, or inflammatory bowel disease. In selected patients with mild or well-controlled disease, treatment may still be considered with close monitoring. This decision depends on disease severity and overall health and should be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Does cancer stage affect immunotherapy eligibility?",
+            "a": "<p>Cancer stage can affect immunotherapy eligibility, but the treatment is used across several stages. It is often considered for advanced, metastatic, or recurrent cancers, and in some cancers it may be given earlier alongside surgery or chemotherapy. Eligibility still depends on biomarker profile, previous treatment, and overall health rather than stage alone. The treating oncology team decides suitability after reviewing complete diagnostic and pathology reports.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support",
+        "items": [
+          {
+            "q": "How can international patients find out if they qualify for immunotherapy?",
+            "a": "<p>International patients can find out if they qualify for immunotherapy by having their medical records and biomarker reports reviewed by an oncology specialist. This usually involves sharing pathology, imaging, and prior treatment details for a second opinion. Access abroad also depends on hospital acceptance, medical review, visa approval, and travel fitness. Eligibility and treatment plans should always be confirmed by the treating medical team before travel.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy eligibility?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

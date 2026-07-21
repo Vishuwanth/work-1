@@ -1,0 +1,60 @@
+{
+  "pillar": "Safety Profile of Oncolytic Viruses",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: safety-profile-of-oncolytic-viruses",
+  "route": "⚠ VERIFY: /insights/safety-profile-of-oncolytic-viruses",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Safety Profile of Oncolytic Viruses",
+    "intro": "Oncolytic viruses are modified viruses used to attack cancer cells, and many patients ask how safe they are. These FAQs explain their known side effects, safety precautions, and how patients can explore access.",
+    "groups": [
+      {
+        "title": "How Safe Are Oncolytic Viruses?",
+        "items": [
+          {
+            "q": "Are oncolytic viruses safe for cancer patients?",
+            "a": "<p>Oncolytic viruses are generally considered to have a favourable safety profile in studied settings, though no cancer treatment is completely risk-free. They are engineered to replicate mainly inside tumour cells, which helps limit harm to healthy tissue. Most reported side effects are mild and temporary, but reactions can vary between patients. Safety depends on the specific virus, dose, cancer type, and overall health, and should be assessed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the common side effects of oncolytic virus therapy?",
+            "a": "<p>The most common side effects of oncolytic virus therapy are mild, flu-like symptoms such as fever, chills, fatigue, and body aches. Injection-site reactions like pain, redness, or swelling are also frequently reported when the virus is given directly into a tumour. These effects usually reflect the immune system responding to the virus and often settle within a few days. Symptoms vary by patient and should be discussed with the treating medical team.</p>"
+          },
+          {
+            "q": "Can oncolytic viruses cause serious complications?",
+            "a": "<p>Serious complications from oncolytic virus therapy are uncommon but possible, which is why patients are monitored closely during treatment. Rare risks may include high or prolonged fever, strong immune reactions, or spread of the virus beyond the tumour in vulnerable patients. People with weakened immune systems may face higher risks. Because outcomes differ between individuals, any severe or persistent symptoms should be reported promptly and managed by the qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Precautions, Transmission, and Eligibility",
+        "items": [
+          {
+            "q": "Can oncolytic viruses spread to other people?",
+            "a": "<p>The risk of oncolytic viruses spreading to other people is generally considered low, but precautions are still advised. Small amounts of virus can sometimes be shed through the injection site or bodily fluids, so patients may be asked to keep wounds covered and follow hygiene guidance. Extra care is often recommended around pregnant women, infants, and people with weakened immunity. Specific precautions depend on the product used and should be explained by the treating team.</p>"
+          },
+          {
+            "q": "Who should avoid oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy may not be suitable for people with severely weakened immune systems, certain active infections, or specific health conditions. Pregnancy and some immune-related disorders can also affect eligibility because of possible safety concerns. Whether the therapy is appropriate depends on cancer type, stage, immune status, previous treatment, and overall health. A specialist review is needed before starting, and final decisions should be made by the treating oncology team.</p>"
+          },
+          {
+            "q": "How is the safety of oncolytic virus therapy monitored?",
+            "a": "<p>The safety of oncolytic virus therapy is monitored through close clinical follow-up, including regular checks of symptoms, blood tests, and imaging where needed. Patients are often observed after each dose to watch for fever, immune reactions, or injection-site problems. In clinical trials, safety data are recorded carefully and reviewed by medical teams and regulators. The exact monitoring plan depends on the product and cancer type and is guided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with the safety profile of oncolytic viruses?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support so safety questions can be reviewed properly. Access to oncolytic virus therapy is not guaranteed and often depends on clinical trial eligibility or regional approval. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

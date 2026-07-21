@@ -1,0 +1,68 @@
+{
+  "pillar": "Targeted Therapy for Leukemia (BCR-ABL)",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: targeted-therapy-for-leukemia-bcr-abl",
+  "route": "⚠ VERIFY: /insights/targeted-therapy-for-leukemia-bcr-abl",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy for Leukemia (BCR-ABL)",
+    "intro": "These questions explain how BCR-ABL targeted therapy works for leukemia, who it may suit, and what patients and caregivers should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding BCR-ABL Targeted Therapy",
+        "items": [
+          {
+            "q": "What is BCR-ABL targeted therapy for leukemia?",
+            "a": "<p>BCR-ABL targeted therapy uses tyrosine kinase inhibitors (TKIs) to block the abnormal BCR-ABL protein that drives certain leukemias. This protein forms from the Philadelphia chromosome and signals leukemia cells to grow. TKIs such as imatinib, dasatinib, nilotinib, bosutinib, and ponatinib target this signal to control the disease. It is mainly used for chronic myeloid leukemia (CML) and Philadelphia-positive acute lymphoblastic leukemia, with therapy guided by specialist review.</p>"
+          },
+          {
+            "q": "Which leukemias are BCR-ABL positive?",
+            "a": "<p>BCR-ABL positive leukemias mainly include chronic myeloid leukemia (CML) and a subset of acute lymphoblastic leukemia known as Philadelphia-positive ALL (Ph+ ALL). These cancers carry the Philadelphia chromosome, an abnormal genetic change that produces the BCR-ABL fusion gene. Testing through PCR, FISH, or cytogenetics confirms whether this marker is present. Identifying BCR-ABL status is important because it helps the oncology team decide if targeted therapy may be appropriate.</p>"
+          },
+          {
+            "q": "How does a tyrosine kinase inhibitor (TKI) work?",
+            "a": "<p>A tyrosine kinase inhibitor works by blocking the abnormal BCR-ABL protein that tells leukemia cells to multiply uncontrollably. By binding to this protein, TKIs interrupt the growth signal and help reduce the number of leukemia cells over time. Most TKIs are taken as daily oral tablets, allowing many patients to be treated at home. Response is monitored with regular blood tests and BCR-ABL levels reviewed by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Monitoring",
+        "items": [
+          {
+            "q": "Who is eligible for BCR-ABL targeted therapy?",
+            "a": "<p>BCR-ABL targeted therapy may be considered for patients whose leukemia tests positive for the BCR-ABL gene or Philadelphia chromosome. Eligibility depends on cancer type, phase, previous treatment, overall health, and specialist review. It is commonly used in CML and, alongside other treatment, in Philadelphia-positive ALL. The choice of specific TKI can vary between patients. Final treatment decisions should be made by the treating oncology team after reviewing all reports.</p>"
+          },
+          {
+            "q": "What are the possible side effects of BCR-ABL TKIs?",
+            "a": "<p>Common side effects of BCR-ABL TKIs may include fatigue, nausea, low blood counts, fluid retention, muscle cramps, skin rash, and diarrhea. Some TKIs may affect the heart, liver, or blood pressure and require regular monitoring. Side effects differ between medicines and between patients, and many can be managed with dose adjustment or supportive care. Any new or severe symptoms should be discussed promptly with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How is response to targeted therapy monitored?",
+            "a": "<p>Response to BCR-ABL targeted therapy is monitored using regular blood tests and molecular testing that measures BCR-ABL levels. A PCR test tracks how much of the abnormal gene remains, showing whether the therapy is controlling the leukemia. Bone marrow tests may be done at certain points. Monitoring helps the team confirm progress, detect resistance early, and adjust treatment if needed. Testing schedules are decided by the treating oncologist based on individual response.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Practical Questions",
+        "items": [
+          {
+            "q": "What happens if leukemia becomes resistant to a TKI?",
+            "a": "<p>If leukemia becomes resistant to one TKI, the oncology team may consider switching to another TKI or exploring other options. Resistance can occur when new mutations, such as the T315I mutation, change how the BCR-ABL protein responds to treatment. Mutation testing helps guide the next choice, and newer-generation TKIs or clinical trials may be options for selected patients. These decisions should be made by the treating medical team after careful evaluation.</p>"
+          },
+          {
+            "q": "How much does BCR-ABL targeted therapy cost and is it available to international patients?",
+            "a": "<p>The cost of BCR-ABL targeted therapy varies widely depending on the specific TKI, treatment duration, hospital, country, and whether generic options are available. Because therapy is often long-term, ongoing monitoring costs should also be considered. International patients may access treatment subject to hospital acceptance, medical review, visa approval, and travel fitness. Estimates are not fixed, and final cost depends on diagnosis, protocol, and the treating team's advice after reviewing reports.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with BCR-ABL targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help gather BCR-ABL and mutation testing results needed for specialist review. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to any therapy depends on medical review and hospital acceptance.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,64 @@
+{
+  "pillar": "Checkpoint Inhibitors Explained",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: checkpoint-inhibitors-explained",
+  "route": "⚠ VERIFY: /insights/checkpoint-inhibitors-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Checkpoint Inhibitors",
+    "intro": "Checkpoint inhibitors are a form of cancer immunotherapy that helps the immune system recognize and fight cancer. These FAQs explain how they work, who may benefit, their risks, and how international patients can access them.",
+    "groups": [
+      {
+        "title": "Understanding Checkpoint Inhibitors",
+        "items": [
+          {
+            "q": "What are checkpoint inhibitors?",
+            "a": "<p>Checkpoint inhibitors are a type of cancer immunotherapy that helps your own immune system recognize and attack cancer cells. They work by blocking proteins called immune checkpoints, which some tumors use to hide from immune attack. Common targets include PD-1, PD-L1, and CTLA-4. Unlike chemotherapy, checkpoint inhibitors do not directly kill cancer; instead, they release the natural brakes on immune cells so these cells can respond more effectively.</p>"
+          },
+          {
+            "q": "How do checkpoint inhibitors work?",
+            "a": "<p>Checkpoint inhibitors work by blocking the \"brake\" signals that stop immune cells from attacking tumors. Cancer cells often display proteins such as PD-L1 that bind to PD-1 on T cells, switching those immune cells off. Drugs targeting PD-1, PD-L1, or CTLA-4 interrupt this signal, allowing T cells to stay active and target cancer. The strength and duration of the immune response can vary between patients and cancer types.</p>"
+          },
+          {
+            "q": "Which cancers are treated with checkpoint inhibitors?",
+            "a": "<p>Checkpoint inhibitors are used in many cancers, including melanoma, lung, kidney, bladder, head and neck, liver, and certain cancers with specific biomarkers. Common drugs include pembrolizumab, nivolumab, atezolizumab, durvalumab, and ipilimumab. Whether a checkpoint inhibitor may be suitable depends on cancer type, stage, PD-L1 expression, tumor mutational burden, MSI status, previous treatment, and specialist review. Approved uses differ by country and cancer indication.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for checkpoint inhibitor treatment?",
+            "a": "<p>Eligibility for checkpoint inhibitors depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and is decided by the treating oncology team. Doctors often test tumors for markers such as PD-L1 expression, microsatellite instability (MSI), or tumor mutational burden to help predict who may benefit. Patients with certain autoimmune conditions or organ transplants may need extra caution. Final decisions should be made after specialist review.</p>"
+          },
+          {
+            "q": "What are the benefits of checkpoint inhibitors?",
+            "a": "<p>The main benefit of checkpoint inhibitors is that some patients experience durable, long-lasting responses, even in advanced cancers that were difficult to treat before. Because they act through the immune system, responses can sometimes continue after treatment ends. However, not everyone responds, and benefit depends on cancer type, biomarkers, and individual factors. Checkpoint inhibitors do not guarantee a cure and are used as part of an overall treatment plan.</p>"
+          },
+          {
+            "q": "What are the side effects of checkpoint inhibitors?",
+            "a": "<p>Checkpoint inhibitors can cause immune-related side effects when the activated immune system attacks healthy tissue. These may affect the skin, thyroid, lungs, liver, bowel, or other organs, causing rash, fatigue, diarrhea, or hormone changes. Most side effects are manageable when found early, but some can be serious and need prompt treatment, sometimes with steroids. Patients should report new symptoms quickly and be monitored by their oncology team throughout treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much do checkpoint inhibitors cost and where are they available?",
+            "a": "<p>The cost of checkpoint inhibitor treatment varies widely and depends on the specific drug, dosing, number of cycles, hospital, country, and any additional tests or supportive care. These medicines are available in many countries, including India, the USA, China, and parts of Europe, though approved uses differ. For international patients, access also depends on hospital acceptance, medical review, and travel fitness. Final cost estimates should be confirmed with the treating hospital.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with checkpoint inhibitors?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

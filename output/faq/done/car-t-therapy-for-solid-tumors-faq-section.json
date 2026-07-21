@@ -1,0 +1,68 @@
+{
+  "pillar": "CAR-T Therapy for Solid Tumors",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: car-t-therapy-for-solid-tumors",
+  "route": "⚠ VERIFY: /guides/car-t-therapy-for-solid-tumors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About CAR-T Therapy for Solid Tumors",
+    "intro": "CAR-T therapy for solid tumors is an experimental cell-based treatment being studied mainly in clinical trials. These answers explain how it works, who may be eligible, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Therapy for Solid Tumors",
+        "items": [
+          {
+            "q": "What is CAR-T therapy for solid tumors?",
+            "a": "<p>CAR-T therapy for solid tumors is an experimental treatment that reprograms a patient's own T-cells to recognize and attack cancers such as lung, liver, brain, or gastrointestinal tumors. Unlike blood cancers, where CAR-T is approved, its use in solid tumors is still largely investigational and studied mainly in clinical trials. Suitability depends on cancer type, tumor markers, previous treatment, and specialist review, and outcomes vary widely between patients.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work against solid tumors?",
+            "a": "<p>CAR-T therapy works by collecting a patient's T-cells, genetically modifying them in a laboratory to carry a chimeric antigen receptor, and reinfusing them to target tumor-specific proteins. In solid tumors, the engineered cells must also penetrate dense tumor tissue and overcome an immunosuppressive environment, which makes treatment harder than in blood cancers. Because responses are not guaranteed, this approach should be discussed with a qualified oncology and cell-therapy team.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy approved for solid tumors?",
+            "a": "<p>CAR-T therapy is not yet widely approved for most solid tumors and remains primarily available through clinical trials. Current approvals focus on certain blood cancers, while solid-tumor programs targeting antigens such as GD2, mesothelin, Claudin 18.2, or EGFR are still being tested. Availability depends on the country, the specific trial, and eligibility after medical record review, so patients should confirm current options with a specialist center.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Risks",
+        "items": [
+          {
+            "q": "Who is eligible for CAR-T therapy for solid tumors?",
+            "a": "<p>Eligibility for CAR-T therapy in solid tumors is decided case by case, usually within a clinical trial. Selection depends on cancer type, tumor antigen expression, disease stage, previous treatments, organ function, and overall health. Many patients considered are those whose cancer has progressed after standard therapies. Final eligibility is confirmed only after medical record review and investigator assessment, and meeting general criteria does not guarantee trial enrollment or benefit.</p>"
+          },
+          {
+            "q": "What are the potential benefits of CAR-T therapy for solid tumors?",
+            "a": "<p>The potential benefit of CAR-T therapy for solid tumors is a targeted immune attack that may shrink tumors in selected patients when standard treatments have stopped working. Because research is still early, responses are variable and not assured, and some patients may see little or no benefit. Any possible advantage should be weighed against the risks and discussed carefully with the treating oncology and cell-therapy team.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of CAR-T therapy?",
+            "a": "<p>The main risks of CAR-T therapy include cytokine release syndrome, which can cause fever and low blood pressure, and neurological effects such as confusion. Solid-tumor CAR-T may also carry a risk of \"on-target, off-tumor\" damage if healthy tissues share the targeted antigen. These side effects can be serious and require close monitoring in specialized centers. The treating medical team manages risks based on each patient's condition and response.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does CAR-T therapy for solid tumors cost?",
+            "a": "<p>The cost of CAR-T therapy for solid tumors varies widely and is often hard to estimate because most treatment happens within clinical trials, some of which may cover certain expenses. Final costs depend on the country, hospital, trial protocol, hospital stay, supportive care, and any complications. Patients should request a written estimate from the treating center and confirm what is and is not included before making plans.</p>"
+          },
+          {
+            "q": "How can international patients access CAR-T therapy for solid tumors?",
+            "a": "<p>International patients may access CAR-T therapy for solid tumors mainly through clinical trials or specialized cell-therapy centers abroad. Access depends on hospital acceptance, medical record review, trial eligibility, visa approval, travel fitness, and the patient's overall condition, none of which are guaranteed. Patients typically need recent pathology, imaging, biomarker or antigen testing, and treatment history, and a second opinion is often recommended before travel.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T therapy for solid tumors?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or clinical-trial centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee trial enrollment, hospital admission, or treatment outcomes, which depend on medical review and investigator assessment.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

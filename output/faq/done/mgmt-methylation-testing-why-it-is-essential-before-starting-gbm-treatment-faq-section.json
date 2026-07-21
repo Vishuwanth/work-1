@@ -1,0 +1,114 @@
+{
+  "pillar": "MGMT methylation testing: why it is essential before starting GBM treatment",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: mgmt-methylation-testing-why-it-is-essential-before-starting-gbm-treatment",
+  "route": "⚠ VERIFY: /<section>/mgmt-methylation-testing-why-it-is-essential-before-starting-gbm-treatment",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About MGMT Methylation Testing Before GBM Treatment",
+    "intro": "MGMT methylation testing helps guide chemotherapy decisions in glioblastoma (GBM). These answers explain what the test shows, how it is done, and why it matters before starting treatment.",
+    "groups": [
+      {
+        "title": "Understanding MGMT Methylation Testing",
+        "items": [
+          {
+            "q": "What is MGMT methylation testing?",
+            "a": "<p>MGMT methylation testing is a laboratory test that checks whether the MGMT gene in a glioblastoma tumour is switched off (methylated) or active (unmethylated). MGMT is a DNA-repair gene, and when it is methylated the tumour repairs chemotherapy damage less effectively. This result helps the oncology team predict how the tumour may respond to temozolomide chemotherapy and supports more informed treatment planning after specialist review.</p>"
+          },
+          {
+            "q": "Why is MGMT testing important before starting GBM treatment?",
+            "a": "<p>MGMT testing is important because it helps predict how a glioblastoma may respond to temozolomide, the standard chemotherapy used in GBM. A methylated result often suggests a better chance of benefit from chemotherapy, while an unmethylated result may prompt the team to consider clinical trials or alternative strategies. Knowing MGMT status before treatment allows the oncology team to plan therapy more precisely, though final decisions depend on the full clinical picture.</p>"
+          },
+          {
+            "q": "What does a methylated versus unmethylated MGMT result mean?",
+            "a": "<p>A methylated MGMT result means the gene that repairs chemotherapy-related DNA damage is largely switched off, which is generally linked with a better response to temozolomide. An unmethylated result means the repair gene remains active, so chemotherapy may be less effective for that tumour. These results guide, but do not decide, treatment on their own, and should always be interpreted by the treating neuro-oncology team alongside other factors.</p>"
+          },
+          {
+            "q": "How is MGMT testing different from IDH mutation testing?",
+            "a": "<p>MGMT methylation testing and IDH mutation testing give different information about a brain tumour. MGMT testing predicts likely response to temozolomide chemotherapy, while IDH testing helps classify the tumour type and provides prognostic information under current WHO criteria. Both tests are often performed together on glioblastoma samples. The combined results help the oncology team confirm the diagnosis and shape a treatment plan suited to the individual patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who should have MGMT methylation testing?",
+            "a": "<p>MGMT methylation testing may be recommended for patients diagnosed with glioblastoma or certain other high-grade gliomas, especially before starting temozolomide-based treatment. It may be particularly useful for older patients or those where the team is weighing chemotherapy against alternative options or trials. Whether testing is suitable depends on tumour type, tissue availability, and specialist review, so eligibility should always be discussed with the treating neuro-oncology team.</p>"
+          },
+          {
+            "q": "How is the MGMT methylation test performed?",
+            "a": "<p>MGMT methylation testing is performed on tumour tissue already removed during surgery or biopsy, so no separate procedure is usually needed. The laboratory examines the DNA in the sample using methods such as methylation-specific PCR or pyrosequencing to see whether the MGMT gene is methylated. Because different laboratories use different techniques, results should be interpreted by the treating team in the context of the specific test method used.</p>"
+          },
+          {
+            "q": "How long does it take to get MGMT results?",
+            "a": "<p>MGMT methylation results typically take about one to two weeks, though timing varies by laboratory, testing method, and workload. Some centres process the sample locally, while others send it to a specialised molecular laboratory, which can add to the wait. If timing is a concern, the oncology team can advise whether treatment should begin before results return. Actual turnaround times should be confirmed with the testing hospital or laboratory.</p>"
+          },
+          {
+            "q": "Is a new biopsy needed for MGMT methylation testing?",
+            "a": "<p>A new biopsy is usually not needed for MGMT testing, because the test can be done on tumour tissue already collected during surgery or an earlier biopsy. Hospitals often store this tissue as paraffin-embedded blocks that can be retrieved for molecular testing. A fresh procedure is considered only if no suitable sample exists or the tissue is inadequate. The treating team will confirm whether stored tissue is sufficient for reliable testing.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does MGMT methylation testing cost?",
+            "a": "<p>The cost of MGMT methylation testing varies widely depending on the country, laboratory, and testing method used. It is generally a modest part of overall glioblastoma care compared with surgery, radiotherapy, and chemotherapy. Final cost depends on the hospital, whether tissue retrieval is needed, and if it is bundled with other molecular tests such as IDH. Patients should ask the testing centre for a written estimate before proceeding.</p>"
+          },
+          {
+            "q": "Is MGMT methylation testing available in India?",
+            "a": "<p>MGMT methylation testing is available in India at several major cancer centres and specialised molecular pathology laboratories. Many hospitals offer it alongside IDH and other brain tumour markers as part of glioblastoma diagnostics. Availability, method, and turnaround time differ between centres, and some samples may be referred to reference laboratories. Patients should confirm with the specific hospital whether testing is offered on-site or sent out, and request timelines and cost details.</p>"
+          },
+          {
+            "q": "Which countries offer MGMT methylation testing?",
+            "a": "<p>MGMT methylation testing is offered in many countries with established neuro-oncology and molecular pathology services, including India, China, several European nations, and the United States. It is a recognised part of modern glioblastoma diagnosis, though laboratory methods and reporting styles vary internationally. For patients considering testing or treatment abroad, availability, sample transport, and result interpretation should be arranged and confirmed in advance with the chosen hospital or laboratory.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Does MGMT status affect eligibility for clinical trials?",
+            "a": "<p>MGMT status can affect eligibility for some glioblastoma clinical trials, as certain studies enrol only methylated or only unmethylated patients to test specific treatments. Investigators use MGMT and other markers to match patients to the right trial design. However, enrolment is never guaranteed and depends on full medical record review, inclusion and exclusion criteria, and investigator assessment. Patients interested in trials should discuss suitable options with their oncology team.</p>"
+          },
+          {
+            "q": "Can MGMT-unmethylated patients still receive temozolomide?",
+            "a": "<p>Yes, patients with unmethylated MGMT tumours may still receive temozolomide, since it remains part of the standard glioblastoma protocol in many situations. An unmethylated result suggests chemotherapy may be less effective, but it does not automatically rule it out, and other factors such as age and overall health matter. The treating neuro-oncology team weighs these factors together, and final treatment decisions are made after reviewing the complete clinical picture.</p>"
+          },
+          {
+            "q": "What treatment options exist for MGMT-unmethylated GBM?",
+            "a": "<p>Treatment options for MGMT-unmethylated glioblastoma may include surgery, radiotherapy, temozolomide in selected cases, tumour-treating fields, and enrolment in clinical trials exploring newer therapies. Because chemotherapy benefit may be lower, teams sometimes place greater emphasis on trials or alternative strategies. The most appropriate plan depends on tumour features, age, overall health, and specialist review, and should be decided by the treating oncology team rather than on MGMT status alone.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed for MGMT testing abroad?",
+            "a": "<p>For MGMT testing abroad, hospitals usually need the histopathology report, the surgical or biopsy details, and access to the stored tumour tissue block or slides. Existing MRI scans and prior treatment summaries help the team interpret results in context. Requirements vary between centres, and some may request that tissue be shipped under specific conditions. Confirming the exact documents and sample format with the receiving hospital in advance helps avoid delays.</p>"
+          },
+          {
+            "q": "Can MGMT testing be done on older tumour samples or blocks?",
+            "a": "<p>MGMT testing can often be done on older tumour samples, as paraffin-embedded tissue blocks and slides can remain suitable for molecular testing for years when stored properly. However, very old or poorly preserved samples may sometimes give unreliable results. The laboratory checks whether the tissue quality and tumour content are adequate before testing. If the stored sample is not usable, the treating team will advise on the next appropriate steps.</p>"
+          },
+          {
+            "q": "Should I get a second opinion on my MGMT result?",
+            "a": "<p>A second opinion on an MGMT result may be reasonable, especially when the result is borderline, testing methods differ, or major treatment decisions depend on it. Because laboratories use different techniques and thresholds, an expert neuro-oncology review can add helpful context. A second opinion supports, rather than replaces, your treating team, and any change in interpretation should be discussed with the doctors managing your care before adjusting the treatment plan.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with MGMT methylation testing?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify laboratories or centres offering MGMT and related molecular testing, estimate possible costs, and coordinate second opinions, sample logistics, appointments, travel, visa, and follow-up support. Treatment and testing decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, tumour type, biomarkers, previous treatment, and overall health, and CancerFax does not replace the role of the treating doctors or hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

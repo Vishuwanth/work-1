@@ -1,0 +1,68 @@
+{
+  "pillar": "TIL Treatment Process",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: til-treatment-process",
+  "route": "⚠ VERIFY: /insights/til-treatment-process",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the TIL Treatment Process",
+    "intro": "These questions explain how the tumor-infiltrating lymphocyte (TIL) treatment process works, what each stage involves, and how patients may access it, in plain, patient-friendly language.",
+    "groups": [
+      {
+        "title": "Understanding the TIL Treatment Process",
+        "items": [
+          {
+            "q": "What is the TIL treatment process?",
+            "a": "<p>The TIL treatment process uses a patient's own tumor-infiltrating lymphocytes—immune cells found inside a tumor—to fight cancer. It generally involves surgically removing a piece of tumor, isolating and multiplying these immune cells in a specialized lab over several weeks, then infusing them back after a short course of chemotherapy. The full process is complex, performed at specialized centers, and suitability depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How does TIL therapy work step by step?",
+            "a": "<p>TIL therapy works in several stages. First, surgeons remove a small tumor sample; next, laboratory scientists extract the tumor-infiltrating lymphocytes and grow them into billions of cells over roughly two to four weeks. The patient then receives brief lymphodepleting chemotherapy to prepare the body, followed by reinfusion of the expanded cells. Interleukin-2 may be given afterward to support the cells. Timing and protocols vary by center and patient.</p>"
+          },
+          {
+            "q": "How long does the TIL treatment process take?",
+            "a": "<p>The TIL treatment process typically takes around four to six weeks from tumor collection to cell infusion, though timelines vary. Growing enough immune cells in the lab usually requires two to four weeks, followed by a hospital stay for chemotherapy, infusion, and recovery. Some patients need additional time for testing and eligibility review. The exact schedule depends on the treating center, manufacturing success, and the patient's overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Steps, Procedures, and Safety",
+        "items": [
+          {
+            "q": "Is surgery required for TIL therapy?",
+            "a": "<p>Yes, most TIL therapy requires surgery to obtain a tumor sample, because the immune cells used are collected directly from tumor tissue. Surgeons remove an accessible lesion, often around one to two centimeters, which is sent to the laboratory for cell isolation. Whether surgery is feasible depends on tumor location, size, and the patient's fitness for a procedure. This should be assessed by the treating surgical and oncology team.</p>"
+          },
+          {
+            "q": "What is lymphodepleting chemotherapy in the TIL process?",
+            "a": "<p>Lymphodepleting chemotherapy is a short course of chemotherapy given before the TIL cells are infused. It temporarily lowers existing immune cells to create space, helping the newly grown tumor-infiltrating lymphocytes expand and work more effectively. This step usually lasts a few days and is followed by cell reinfusion. Because it lowers immunity for a period, patients are monitored closely in hospital. The specific drugs and doses depend on the treatment protocol.</p>"
+          },
+          {
+            "q": "What are the side effects of the TIL treatment process?",
+            "a": "<p>Side effects of the TIL treatment process can include those from lymphodepleting chemotherapy, such as low blood counts, infection risk, and fatigue, and those from interleukin-2 support, including fever, low blood pressure, and fluid retention. Most side effects occur during the hospital stay and are managed by an experienced team. Severity varies between patients. Risks and benefits should be discussed carefully with a qualified oncology team before starting treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "Who may be eligible for TIL therapy?",
+            "a": "<p>TIL therapy may be considered for selected patients with certain solid tumors, most notably advanced melanoma, and is being studied in other cancers through clinical trials. Eligibility generally depends on cancer type, an accessible tumor for collection, previous treatments, organ function, and overall fitness. Because the process is demanding, careful specialist assessment is essential. Final eligibility is decided by the treating medical team after reviewing reports, imaging, and biomarker information.</p>"
+          },
+          {
+            "q": "Where is TIL therapy available and how can international patients access it?",
+            "a": "<p>TIL therapy is available at a limited number of specialized cancer centers and through approved treatments or clinical trials in select countries, including the United States and parts of Asia and Europe. International patients may access it after medical record review, hospital acceptance, travel fitness assessment, and visa approval. Availability, timing, and cost vary widely. Access cannot be guaranteed and should be planned with the treating center and a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the TIL treatment process?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers offering TIL therapy, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This helps international patients navigate the complex TIL treatment process while final eligibility and care remain with the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

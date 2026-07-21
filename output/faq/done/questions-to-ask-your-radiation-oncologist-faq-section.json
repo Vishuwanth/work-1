@@ -1,0 +1,114 @@
+{
+  "pillar": "Questions to Ask Your Radiation Oncologist",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: questions-to-ask-your-radiation-oncologist",
+  "route": "⚠ VERIFY: /<section>/questions-to-ask-your-radiation-oncologist",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions to Ask Your Radiation Oncologist",
+    "intro": "Knowing what to ask your radiation oncologist helps you understand your treatment, its goals, and its side effects before you begin. These questions are meant to guide a fuller conversation with your treating team, who make final decisions based on your diagnosis and overall health.",
+    "groups": [
+      {
+        "title": "Understanding Your Radiation Treatment",
+        "items": [
+          {
+            "q": "What questions should I ask my radiation oncologist before starting treatment?",
+            "a": "<p>Ask your radiation oncologist about the goal of treatment, the type of radiation planned, how many sessions you will need, and the expected side effects. You may also ask why radiation is recommended for your cancer, whether it is curative or palliative, and how success will be measured. Bringing a written list helps, and the answers depend on your cancer type, stage, and overall health, which your treating team will review carefully.</p>"
+          },
+          {
+            "q": "What is the goal of my radiation therapy?",
+            "a": "<p>The goal of radiation therapy may be curative, meaning it aims to destroy the cancer, or palliative, meaning it aims to relieve symptoms such as pain or bleeding. Ask your radiation oncologist which goal applies to your situation and what a realistic outcome looks like. Understanding the intent helps you weigh benefits against side effects. The goal depends on your cancer type, stage, and whether radiation is used alone or with other treatments.</p>"
+          },
+          {
+            "q": "What type of radiation therapy will I receive?",
+            "a": "<p>Radiation therapy can be delivered externally, using a machine that directs beams at the tumour, or internally, using implants placed near the cancer, known as brachytherapy. Ask your radiation oncologist which technique is planned, such as IMRT, stereotactic radiosurgery, or proton therapy, and why it suits your case. Each method has different precision and side-effect profiles. The choice depends on tumour location, size, nearby organs, and specialist assessment of your individual situation.</p>"
+          },
+          {
+            "q": "How many radiation sessions will I need and how long does each take?",
+            "a": "<p>The number of radiation sessions varies widely, from a single treatment to several weeks of daily sessions, depending on your cancer and treatment goal. Ask your radiation oncologist about the total number of sessions, the schedule, and how long each appointment lasts. Most individual sessions take only a few minutes of actual radiation, though setup adds time. Your exact plan is based on tumour type, dose needed, and the technique chosen by your team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "How does radiation therapy work and what happens during a session?",
+            "a": "<p>Radiation therapy works by using high-energy beams or sources to damage the DNA of cancer cells so they cannot grow or divide. During a session you lie still on a treatment table while the machine delivers radiation to the targeted area, which is painless and usually brief. Ask your radiation oncologist how positioning and imaging are used to protect healthy tissue. The exact process depends on the technique and body area being treated.</p>"
+          },
+          {
+            "q": "What side effects should I expect from radiation therapy?",
+            "a": "<p>Side effects from radiation therapy depend on the treated area but often include fatigue, skin changes, and irritation of nearby tissues. Ask your radiation oncologist which specific short-term and long-term effects apply to you, when they may appear, and how they can be managed. Some effects ease after treatment ends, while others may develop later. Your team can explain what to watch for and when to report symptoms, based on your dose and treatment site.</p>"
+          },
+          {
+            "q": "Will radiation therapy affect my daily life and ability to work?",
+            "a": "<p>Radiation therapy affects people differently, and many continue daily activities or work during treatment, though fatigue may build over time. Ask your radiation oncologist how your specific plan might affect energy, diet, travel to sessions, and any restrictions. Some treatments require rest or extra care for the skin or treated area. The impact depends on the body region treated, the number of sessions, and how your body responds, which your team will monitor.</p>"
+          },
+          {
+            "q": "Can radiation therapy be combined with chemotherapy, surgery, or immunotherapy?",
+            "a": "<p>Radiation therapy is often combined with chemotherapy, surgery, or other treatments to improve results, and the sequence matters. Ask your radiation oncologist whether your plan is combined, why that order was chosen, and how side effects may overlap. Concurrent chemoradiation, for example, can increase certain effects. Whether combination treatment is suitable depends on your cancer type, stage, biomarker profile, previous treatment, and overall health, and should be coordinated with your full oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does radiation therapy cost?",
+            "a": "<p>The cost of radiation therapy varies widely depending on the technique, number of sessions, and country of treatment, so ask your radiation oncologist or hospital for a written estimate. Advanced methods such as proton therapy or stereotactic radiosurgery generally cost more than standard external beam radiation. Final cost also depends on your diagnosis, stage, imaging, planning, and length of care. Requesting an itemised estimate early helps you plan and compare options.</p>"
+          },
+          {
+            "q": "Is radiation therapy available in India and other countries?",
+            "a": "<p>Radiation therapy is widely available in India and many other countries, with major hospitals offering IMRT, stereotactic radiosurgery, brachytherapy, and, in select centres, proton therapy. Ask which techniques a specific hospital provides and whether they match your recommended plan. Availability of advanced equipment varies between centres and countries. If you are considering treatment abroad, confirm the technology, specialist experience, and estimated cost with the hospital before making any travel or treatment decisions.</p>"
+          },
+          {
+            "q": "How do I know if a radiation centre has the right technology for my cancer?",
+            "a": "<p>Ask your radiation oncologist which technique is recommended for your cancer, then confirm that the centre has that specific equipment and experienced staff. For example, some tumours benefit from proton therapy or stereotactic techniques not available everywhere. You can also ask about the centre's case volume for your cancer type. Matching the right technology to your situation depends on tumour location and specialist review, and is best confirmed directly with the treating hospital.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What advanced radiation options like proton therapy or SBRT should I ask about?",
+            "a": "<p>Advanced radiation options include proton therapy, stereotactic body radiotherapy (SBRT), and stereotactic radiosurgery, which can target tumours precisely while sparing nearby tissue. Ask your radiation oncologist whether any of these are appropriate for your cancer and how they compare with standard radiation in benefits and side effects. These techniques are not suitable for every case. Whether an advanced option may be considered depends on tumour type, location, size, and specialist assessment of your situation.</p>"
+          },
+          {
+            "q": "Are there clinical trials involving radiation therapy that I could join?",
+            "a": "<p>Clinical trials involving radiation therapy may be an option for some patients and can offer access to newer techniques or combinations. Ask your radiation oncologist whether any trials are relevant to your cancer and what participation would involve. Eligibility is decided after medical record review and investigator assessment, and trials have strict inclusion and exclusion criteria. Joining a trial does not guarantee benefit, and your treating team can explain the potential risks and considerations.</p>"
+          },
+          {
+            "q": "What questions should I ask about long-term effects and follow-up after radiation?",
+            "a": "<p>Ask your radiation oncologist about possible long-term effects, how they will be monitored, and what your follow-up schedule will look like after treatment ends. You may also ask when to expect imaging or tests to check response, what symptoms should prompt an earlier visit, and who to contact between appointments. Long-term effects depend on the treated area and dose. Clear follow-up planning helps detect and manage any late effects with your treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports should I prepare before seeing a radiation oncologist?",
+            "a": "<p>Prepare your pathology or biopsy report, recent imaging such as CT, MRI, or PET scans, and a summary of previous treatments before seeing a radiation oncologist. Bringing your complete medical history, current medications, and prior radiation records, if any, helps the specialist plan accurately. Ask in advance which specific documents are needed. Having organised reports supports a faster, clearer consultation, especially if you are seeking a second opinion or planning treatment in another city or country.</p>"
+          },
+          {
+            "q": "What should international patients ask about planning radiation treatment abroad?",
+            "a": "<p>International patients should ask about the recommended technique, total treatment duration, estimated cost, and how many weeks they must stay near the hospital. Also ask about pre-treatment tests, follow-up care, and whether records can be shared with doctors back home. Access to treatment abroad depends on hospital acceptance, medical review, visa approval, and travel fitness, none of which can be guaranteed. Confirming these details early helps you plan travel, accommodation, and support realistically.</p>"
+          },
+          {
+            "q": "Is it worth getting a second opinion before starting radiation therapy?",
+            "a": "<p>A second opinion before starting radiation therapy can confirm the diagnosis, treatment goal, and whether the recommended technique is the most suitable. Ask whether alternative approaches exist and how they compare in benefits and side effects. Many patients find a second opinion reassuring, and it rarely delays care significantly. This is your decision, and seeking one is common practice. A second radiation oncologist can review your reports and discuss options based on your specific situation.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with questions to ask their radiation oncologist?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or radiation centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make consultations with a radiation oncologist clearer and better prepared. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax supports coordination but does not replace the advice of your treating doctors.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

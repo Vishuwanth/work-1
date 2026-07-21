@@ -1,0 +1,68 @@
+{
+  "pillar": "Types of Targeted Therapy Drugs",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: types-of-targeted-therapy-drugs",
+  "route": "⚠ VERIFY: /insights/types-of-targeted-therapy-drugs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Types of Targeted Therapy Drugs",
+    "intro": "Targeted therapy uses drugs designed to act on specific molecules that cancer cells depend on to grow and spread. These FAQs explain the main types, how they work, who they may suit, and what patients should know about side effects, cost, and access.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy Drug Types",
+        "items": [
+          {
+            "q": "What are the main types of targeted therapy drugs?",
+            "a": "<p>The main types of targeted therapy drugs are monoclonal antibodies and small-molecule inhibitors. Monoclonal antibodies are large lab-made proteins that attach to targets on or around cancer cells, while small-molecule inhibitors are tiny compounds that enter cells to block signals driving growth. Other groups include tyrosine kinase inhibitors, angiogenesis inhibitors, PARP inhibitors, and proteasome inhibitors. The most suitable type depends on cancer type, biomarker profile, and specialist review.</p>"
+          },
+          {
+            "q": "What is the difference between monoclonal antibodies and small-molecule inhibitors?",
+            "a": "<p>Monoclonal antibodies and small-molecule inhibitors differ mainly in size, targets, and how they are given. Monoclonal antibodies are large proteins, usually given by infusion, that act on targets on the cell surface or in the surrounding environment. Small-molecule inhibitors are much smaller, often taken as tablets, and can pass inside cells to block internal growth signals. Which type may be considered depends on the tumour's biomarkers and specialist assessment.</p>"
+          },
+          {
+            "q": "What are tyrosine kinase inhibitors (TKIs)?",
+            "a": "<p>Tyrosine kinase inhibitors, or TKIs, are small-molecule drugs that block enzymes called tyrosine kinases, which help signal cancer cells to grow and divide. They are used in cancers such as certain leukemias and lung, kidney, and thyroid cancers when specific genetic changes are present. TKIs are usually taken as tablets. Their suitability depends on cancer type, biomarker testing, previous treatment, and review by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How They Work, Eligibility, and Safety",
+        "items": [
+          {
+            "q": "How do targeted therapy drugs find and attack cancer cells?",
+            "a": "<p>Targeted therapy drugs work by acting on specific molecules that cancer cells rely on to grow, divide, or spread. Rather than affecting all rapidly dividing cells like traditional chemotherapy, they focus on particular proteins, genetic mutations, or blood-vessel signals linked to the tumour. This may help slow cancer growth while sometimes sparing healthy cells. Testing for the relevant biomarker is usually needed before a targeted drug is considered.</p>"
+          },
+          {
+            "q": "Who is eligible for targeted therapy drugs?",
+            "a": "<p>Eligibility for targeted therapy drugs depends mainly on whether the tumour carries a specific target the drug is designed to act on. Doctors usually order biomarker or genetic testing on tumour tissue or blood to check for suitable mutations or proteins. Not every patient has a matching target, so targeted therapy may be suitable for selected patients only. Cancer type, stage, previous treatment, and overall health also guide the decision.</p>"
+          },
+          {
+            "q": "What are the common side effects of targeted therapy drugs?",
+            "a": "<p>Common side effects of targeted therapy drugs vary by drug type but may include skin rashes, diarrhoea, high blood pressure, fatigue, and liver changes. Some drugs can affect wound healing or blood clotting. These effects are often different from traditional chemotherapy and are usually manageable with monitoring and supportive care. Side effects should be discussed with the treating oncology team, who can adjust the dose or treatment if problems develop.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much do targeted therapy drugs cost?",
+            "a": "<p>The cost of targeted therapy drugs varies widely depending on the specific drug, cancer type, dose, and treatment duration. Some newer targeted drugs are expensive, while biosimilar or generic versions may cost less. Final cost also depends on the hospital, country, tests required, length of treatment, and any complications. Patients should ask their treating team and hospital for a detailed written estimate before starting, as prices are not fixed.</p>"
+          },
+          {
+            "q": "Are targeted therapy drugs available for international patients?",
+            "a": "<p>Availability of targeted therapy drugs for international patients depends on the drug's approval status in each country and on hospital access. Some targeted drugs are widely available, while newer ones may only be offered in certain centres or through clinical trials. Access also depends on hospital acceptance, medical record review, visa approval, and travel fitness. International patients should confirm drug availability and estimated cost with the treating hospital before planning travel.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with types of targeted therapy drugs?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This guidance can help patients understand which types of targeted therapy drugs may be relevant to their situation.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

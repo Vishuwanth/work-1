@@ -1,0 +1,64 @@
+{
+  "pillar": "Tests Before Gene Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: tests-before-gene-therapy",
+  "route": "⚠ VERIFY: /insights/tests-before-gene-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Tests Before Gene Therapy",
+    "intro": "Before gene therapy for cancer, patients usually complete a series of tests to confirm the diagnosis, check the genetic target, and assess overall fitness. These answers explain the common tests, why they matter, and what patients can expect.",
+    "groups": [
+      {
+        "title": "Understanding Tests Before Gene Therapy",
+        "items": [
+          {
+            "q": "What tests are done before gene therapy for cancer?",
+            "a": "<p>Tests before gene therapy for cancer usually include biomarker or genetic testing, blood tests, imaging scans, and checks of heart, lung, kidney, and liver function. These help confirm the diagnosis, identify the genetic target the therapy aims at, and assess whether the patient is fit enough for treatment. The exact tests depend on the cancer type, the specific therapy, and the treating team's protocol, and should be reviewed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Why are tests needed before starting gene therapy?",
+            "a": "<p>Tests are needed before gene therapy to confirm that the treatment is appropriate and likely to be suitable for the patient. They help doctors verify the cancer type and stage, check for the specific genetic marker the therapy targets, and make sure vital organs can tolerate the treatment. Testing also establishes a baseline to measure response later. Final decisions about starting therapy are made by the treating medical team after reviewing all results.</p>"
+          },
+          {
+            "q": "What is biomarker or genetic testing before gene therapy?",
+            "a": "<p>Biomarker or genetic testing looks at the cancer's DNA, RNA, or proteins to find the specific abnormality that a gene therapy is designed to target. Because many gene and cell therapies only work when a particular marker is present, this test helps determine whether a patient may be considered a candidate. Samples usually come from a tumour biopsy or blood. Results should always be interpreted by a qualified oncology and pathology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Common Tests and What They Check",
+        "items": [
+          {
+            "q": "Is a biopsy always required before gene therapy?",
+            "a": "<p>A biopsy is often required before gene therapy, but not in every case. Many gene and cell therapies target a specific genetic change, and a tissue biopsy allows detailed analysis of the tumour to confirm that marker. In some situations a blood-based test may provide the needed information instead. Whether a fresh biopsy is necessary depends on the cancer type, previous samples available, and the therapy protocol, and is decided by the treating specialists.</p>"
+          },
+          {
+            "q": "What blood tests are done before gene therapy?",
+            "a": "<p>Blood tests before gene therapy typically include a complete blood count, liver and kidney function tests, and screening for infections such as hepatitis B, hepatitis C, and HIV. These checks help confirm the patient is well enough for treatment and reduce the risk of complications. For some cell therapies, blood is also collected to manufacture the treatment. The specific panel depends on the therapy and should be guided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Are imaging scans part of testing before gene therapy?",
+            "a": "<p>Imaging scans are usually part of testing before gene therapy to measure the extent of the cancer and establish a baseline. Doctors may use CT, MRI, or PET scans depending on the cancer type and where it has spread. These images help confirm staging, guide planning, and allow the team to track how the cancer responds after treatment. The choice and timing of scans are decided by the treating medical team.</p>"
+          },
+          {
+            "q": "How long do tests before gene therapy take?",
+            "a": "<p>Tests before gene therapy can take from a few days to several weeks, depending on the tests required and how quickly results return. Genetic and biomarker testing often takes the longest because tumour samples need specialised laboratory analysis. Imaging, blood work, and organ-function checks are usually faster. Timelines vary between hospitals and countries and can be affected by sample logistics. The treating team can give a more accurate estimate for an individual patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with tests before gene therapy?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to testing before gene therapy. It can also help arrange biomarker or genetic testing where available. Treatment and testing decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

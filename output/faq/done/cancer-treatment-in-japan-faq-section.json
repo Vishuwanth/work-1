@@ -1,0 +1,64 @@
+{
+  "pillar": "Cancer Treatment in Japan",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-japan",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-japan",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in Japan",
+    "intro": "Common questions from international patients and caregivers about receiving cancer treatment in Japan, including its specialties, costs, and how overseas patients can access care.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in Japan",
+        "items": [
+          {
+            "q": "Why do international patients choose Japan for cancer treatment?",
+            "a": "<p>Japan is known for advanced cancer care, experienced oncology teams, and access to technologies such as proton and heavy-ion (carbon-ion) therapy. Many patients consider Japan for its precision diagnostics, strong quality standards, and specialized centers for cancers of the stomach, liver, lung, and other organs. Whether Japan is suitable depends on cancer type, stage, previous treatment, and overall health, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What types of cancer treatment are available in Japan?",
+            "a": "<p>Japan offers the full range of modern cancer treatment, including surgery, chemotherapy, radiation, immunotherapy, and targeted therapy. It is especially recognized for advanced radiation options such as proton beam and carbon-ion therapy, available at selected centers. The most appropriate approach depends on cancer type, stage, biomarker profile, and prior treatment, and final decisions should be made by the treating medical team after reviewing the patient's records.</p>"
+          },
+          {
+            "q": "Is proton or heavy-ion therapy available in Japan?",
+            "a": "<p>Yes, Japan is one of the world leaders in proton and heavy-ion (carbon-ion) therapy, with several dedicated particle therapy centers. These advanced forms of radiation may be considered for certain solid tumors where precise targeting can spare surrounding healthy tissue. Eligibility depends on tumor type, location, size, and previous treatment, and suitability must be confirmed by a radiation oncology specialist after a full medical review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does cancer treatment in Japan cost for international patients?",
+            "a": "<p>The cost of cancer treatment in Japan varies widely depending on the diagnosis, stage, treatment type, and length of stay. Advanced options such as particle therapy usually cost more than standard treatment, and international patients typically pay out of pocket. Final costs also depend on the hospital, required tests, complications, and treating team advice, so it is best to request a personalized estimate before travel.</p>"
+          },
+          {
+            "q": "How can international patients access cancer treatment in Japan?",
+            "a": "<p>International patients usually begin by sharing their medical reports for review by a Japanese hospital or specialist. Access depends on hospital acceptance, medical suitability, visa approval, and fitness to travel. Many centers work through international patient departments or coordinators who arrange appointments and estimates. Because Japan does not guarantee admission or visa approval, it is important to plan early and confirm each step with the receiving hospital.</p>"
+          },
+          {
+            "q": "What medical reports are needed to plan treatment in Japan?",
+            "a": "<p>To plan cancer treatment in Japan, hospitals generally request recent medical reports, including pathology or biopsy results, imaging scans such as CT, MRI, or PET, blood tests, and a treatment summary of any prior therapy. Biomarker or genetic test results may also be needed for targeted treatment planning. Complete and translated records help specialists assess suitability, but final eligibility is confirmed only after the treating team reviews the case.</p>"
+          },
+          {
+            "q": "Do doctors in Japan speak English, and is language support available?",
+            "a": "<p>Many major cancer hospitals in Japan have international patient services with English-speaking staff or medical interpreters, though this varies by center. Language support can help with consultations, consent, and daily care, but it is not available everywhere. Patients are encouraged to confirm interpreter availability in advance and arrange translation of medical documents. Clear communication supports safer care, and specific arrangements should be checked directly with the chosen hospital.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Planning and Support",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with cancer treatment in Japan?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and cannot guarantee hospital admission, visa approval, or specific treatment outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

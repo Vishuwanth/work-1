@@ -1,0 +1,68 @@
+{
+  "pillar": "Mesothelioma Advanced Treatment",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: mesothelioma-advanced-treatment",
+  "route": "⚠ VERIFY: /insights/mesothelioma-advanced-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Mesothelioma Advanced Treatment",
+    "intro": "Mesothelioma is a rare, aggressive cancer of the lining of the lungs, abdomen, or heart, often linked to asbestos exposure. These FAQs explain advanced treatment options, eligibility, and access for international patients.",
+    "groups": [
+      {
+        "title": "Understanding Advanced Mesothelioma Treatment",
+        "items": [
+          {
+            "q": "What is advanced treatment for mesothelioma?",
+            "a": "<p>Advanced mesothelioma treatment refers to newer or combined therapies used beyond standard surgery and chemotherapy. These may include immunotherapy, targeted therapy, heated intraperitoneal chemotherapy (HIPEC), and multimodal approaches that combine surgery, radiation, and drug therapy. The right option depends on cancer type, location, stage, cell subtype, previous treatment, and overall health. Treatment plans should always be reviewed and confirmed by a qualified mesothelioma specialist team.</p>"
+          },
+          {
+            "q": "How does immunotherapy work for mesothelioma?",
+            "a": "<p>Immunotherapy helps the body's own immune system recognize and attack mesothelioma cells. For some patients with unresectable pleural mesothelioma, combinations of immune checkpoint inhibitors may be considered as a first-line option. Response varies from person to person and is not guaranteed. Eligibility depends on cancer subtype, stage, biomarker profile, and overall fitness, and should be decided by the treating oncology team after full review.</p>"
+          },
+          {
+            "q": "Is surgery an option for advanced mesothelioma?",
+            "a": "<p>Surgery may be considered for selected patients with earlier-stage or localized mesothelioma, but it is not suitable for everyone. Procedures such as pleurectomy/decortication or extrapleural pneumonectomy aim to remove visible tumor, often combined with chemotherapy or radiation. In advanced or widespread disease, surgery may not be appropriate. Suitability depends on tumor location, stage, lung function, and general health, and must be assessed by an experienced surgical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Trials, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for advanced mesothelioma treatment?",
+            "a": "<p>Eligibility for advanced mesothelioma treatment depends on several factors, including cancer type (pleural or peritoneal), cell subtype, stage, biomarker results, previous treatments, and overall health. Some patients qualify for surgery-based approaches, while others may be better suited to immunotherapy or clinical trials. There is no single treatment suitable for everyone. Final eligibility should be determined by a specialist oncology team after reviewing complete medical records and imaging.</p>"
+          },
+          {
+            "q": "Are clinical trials available for mesothelioma?",
+            "a": "<p>Yes, clinical trials are an important option for mesothelioma and may offer access to newer therapies being studied. Trials often test immunotherapy combinations, targeted drugs, or novel approaches. Enrollment and benefit are never guaranteed, as trials have strict inclusion and exclusion criteria. Eligibility is decided only after medical record review and investigator assessment. Patients should discuss potential trials with their oncology team to understand risks and requirements.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of advanced treatment?",
+            "a": "<p>Advanced mesothelioma treatments carry potential side effects that vary by therapy type. Immunotherapy may cause immune-related reactions affecting the skin, lungs, or organs, while surgery and chemotherapy carry their own risks. No treatment is risk-free, and responses differ between patients. Managing side effects is an important part of care. All potential benefits and risks should be discussed openly with the treating medical team before starting any treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How can international patients access mesothelioma treatment abroad?",
+            "a": "<p>International patients can access advanced mesothelioma treatment at specialized centers, but access depends on several factors. These include hospital acceptance, medical record review, visa approval, travel fitness, and the patient's overall condition. No hospital admission or visa approval can be guaranteed. Patients usually need recent imaging, pathology, and biopsy reports for review. Planning second opinions, cost estimates, and follow-up care in advance helps make the process smoother.</p>"
+          },
+          {
+            "q": "How much does advanced mesothelioma treatment cost?",
+            "a": "<p>The cost of advanced mesothelioma treatment varies widely and cannot be fixed in advance. Final cost depends on the hospital, diagnosis, stage, tests required, treatment protocol, length of stay, and any complications. Immunotherapy, surgery, and combined approaches each carry different costs. Estimates should be treated as approximate rather than guaranteed. The treating hospital provides a detailed cost plan after reviewing the patient's reports and confirming the proposed treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with mesothelioma advanced treatment?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is intended to guide patients through the process, not to replace medical advice from doctors or hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancers Treated with CAR-T Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: cancers-treated-with-car-t-therapy",
+  "route": "⚠ VERIFY: /insights/cancers-treated-with-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancers Treated with CAR-T Therapy",
+    "intro": "CAR-T cell therapy is an advanced treatment that reprograms a patient's own immune cells to fight certain cancers. These FAQs explain which cancers may be treated with CAR-T, who might be eligible, and what patients and caregivers should know.",
+    "groups": [
+      {
+        "title": "Understanding Which Cancers CAR-T Therapy Treats",
+        "items": [
+          {
+            "q": "What cancers can be treated with CAR-T cell therapy?",
+            "a": "<p>CAR-T cell therapy is currently approved mainly for certain blood cancers, including some types of B-cell lymphoma, B-cell acute lymphoblastic leukemia, and multiple myeloma. It reprograms a patient's own T-cells to recognize and attack cancer cells. CAR-T is usually considered when standard treatments have failed or the disease has returned. Eligibility depends on cancer type, prior therapy, and specialist review, and final decisions rest with the treating oncology team.</p>"
+          },
+          {
+            "q": "Does CAR-T therapy work for solid tumors like breast or lung cancer?",
+            "a": "<p>CAR-T therapy is not yet a standard treatment for most solid tumors such as breast, lung, or colon cancer. Solid tumors are harder to target because of their complex environment and limited surface markers. Research and early clinical trials are exploring CAR-T for some solid cancers, but results are still being studied. Patients interested in these options may be considered for trials after medical record review and investigator assessment.</p>"
+          },
+          {
+            "q": "Which types of lymphoma are treated with CAR-T therapy?",
+            "a": "<p>CAR-T therapy is used for several aggressive or relapsed B-cell lymphomas, including diffuse large B-cell lymphoma, follicular lymphoma, and mantle cell lymphoma. It may be considered when the lymphoma has returned or has not responded to chemotherapy or other standard treatments. Suitability depends on cancer subtype, previous therapy, overall health, and specialist review. The treating oncology team decides whether CAR-T or another approach is the safest option.</p>"
+          },
+          {
+            "q": "Can CAR-T therapy treat multiple myeloma?",
+            "a": "<p>Yes, CAR-T therapy may be used for multiple myeloma that has returned or stopped responding to earlier treatments. Approved myeloma CAR-T products target a protein called BCMA found on myeloma cells. It is usually considered for selected patients who have already received several prior therapies. Eligibility depends on disease status, previous treatment, and overall health, and final treatment decisions should be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy used for leukemia?",
+            "a": "<p>CAR-T therapy is used for certain leukemias, most commonly B-cell acute lymphoblastic leukemia (ALL) in children and young adults. It may be considered when leukemia has relapsed or has not responded to chemotherapy or stem cell transplant. Suitability depends on age, cancer type, prior treatment, and overall condition. A specialist team reviews each case, and CAR-T is one of several options they may discuss with the patient and family.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Support",
+        "items": [
+          {
+            "q": "Who is eligible for CAR-T cell therapy?",
+            "a": "<p>Eligibility for CAR-T therapy depends on cancer type, disease stage, previous treatments, age, and overall health. It may be suitable for selected patients with certain relapsed or treatment-resistant blood cancers, such as some lymphomas, leukemias, or multiple myeloma. Patients usually need adequate organ function to tolerate the process. A detailed medical review, including reports and biomarker testing, is required, and the treating oncology team makes the final decision.</p>"
+          },
+          {
+            "q": "What are the main side effects of CAR-T therapy?",
+            "a": "<p>The main side effects of CAR-T therapy include cytokine release syndrome, which can cause fever, low blood pressure, and breathing difficulty, and neurological effects such as confusion or seizures. These reactions are usually managed in specialized hospitals with experienced teams. Other risks include infection and low blood counts. Side effects vary between patients, and close monitoring is essential. Any treatment risks should be discussed carefully with a qualified oncology team beforehand.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T cell therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers offering CAR-T therapy, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to CAR-T therapy depends on hospital acceptance, medical review, and individual patient suitability.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

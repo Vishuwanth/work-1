@@ -1,0 +1,64 @@
+{
+  "pillar": "NGS vs Single Gene Testing",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: ngs-vs-single-gene-testing",
+  "route": "⚠ VERIFY: /insights/ngs-vs-single-gene-testing",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About NGS vs Single Gene Testing",
+    "intro": "Comparing next-generation sequencing (NGS) with single gene testing helps patients and caregivers understand how tumors are analyzed and which approach may suit a specific diagnosis. The right choice depends on cancer type, clinical question, and specialist review.",
+    "groups": [
+      {
+        "title": "Understanding the Two Testing Approaches",
+        "items": [
+          {
+            "q": "What is the difference between NGS and single gene testing?",
+            "a": "<p>NGS (next-generation sequencing) analyzes many genes at once, while single gene testing looks at just one gene or mutation at a time. NGS can screen dozens to hundreds of genes from a single sample, helping identify multiple potential biomarkers together. Single gene testing is more focused and is often used when doctors are checking for one specific, well-known mutation. The best approach depends on cancer type, clinical question, and specialist review.</p>"
+          },
+          {
+            "q": "How does next-generation sequencing (NGS) work?",
+            "a": "<p>NGS works by reading the genetic code of many genes in a tumor sample simultaneously to detect mutations, fusions, and other alterations. A tissue biopsy or, in some cases, a blood sample is processed in a specialized laboratory that sequences the DNA or RNA. The results are then interpreted by pathologists and oncologists. Turnaround time, sample quality, and gene coverage vary by laboratory, and findings should always be reviewed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is single gene testing used for?",
+            "a": "<p>Single gene testing is used to check for one specific mutation or alteration that is already strongly suspected based on the cancer type. For example, it may target a well-known driver mutation linked to a particular targeted therapy. This approach can be faster and less expensive when only one biomarker is clinically relevant. Whether single gene testing is sufficient depends on the diagnosis, available therapies, and the treating specialist's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Choosing Between NGS and Single Gene Testing",
+        "items": [
+          {
+            "q": "When is NGS preferred over single gene testing?",
+            "a": "<p>NGS may be preferred when multiple biomarkers are clinically relevant or when several genes need to be checked to guide treatment. It is often considered for advanced cancers, cancers with many possible driver mutations, or when limited tissue makes repeated single tests impractical. Testing several genes at once can save sample and time. The final decision depends on cancer type, stage, tissue availability, and the treating oncology team's judgment.</p>"
+          },
+          {
+            "q": "Is NGS more accurate than single gene testing?",
+            "a": "<p>NGS is not necessarily more accurate for a single mutation, but it detects a much broader range of alterations in one test. For a well-defined, single biomarker, targeted single gene testing can be highly reliable. NGS adds value by uncovering additional or unexpected findings that single tests might miss. Accuracy depends on sample quality, laboratory methods, and expert interpretation, and results should always be confirmed and discussed with a qualified specialist.</p>"
+          },
+          {
+            "q": "Does NGS cost more than single gene testing?",
+            "a": "<p>NGS usually costs more than a single gene test because it analyzes many genes at once and requires advanced technology and interpretation. However, when several biomarkers need checking, one NGS panel may be more economical than multiple separate single gene tests. Final costs depend on the laboratory, panel size, cancer type, country, and sample type. Patients should confirm pricing and insurance coverage with the testing facility and their treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for Patients",
+        "items": [
+          {
+            "q": "Which cancers benefit most from NGS testing?",
+            "a": "<p>Cancers with multiple possible driver mutations or several approved targeted therapies often benefit most from NGS. These may include certain lung, colorectal, and other advanced or hard-to-treat cancers where identifying the right biomarker can guide therapy selection. NGS may also help when standard treatments have been exhausted and clinical trial options are being explored. Whether NGS is appropriate depends on the individual diagnosis, stage, and the treating oncology team's recommendation.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with NGS vs single gene testing?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify laboratories or specialists offering NGS or single gene testing, estimate possible costs, and coordinate second opinions, appointments, and follow-up support. It can also assist international patients with test logistics and specialist referrals. Decisions about which test to use are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, tissue availability, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

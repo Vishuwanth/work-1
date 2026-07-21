@@ -1,0 +1,68 @@
+{
+  "pillar": "CAR-T Therapy for Multiple Myeloma",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: car-t-therapy-for-multiple-myeloma",
+  "route": "⚠ VERIFY: /guides/car-t-therapy-for-multiple-myeloma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About CAR-T Therapy for Multiple Myeloma",
+    "intro": "CAR-T cell therapy is a personalized immunotherapy that reprograms a patient's own T-cells to target myeloma. These answers explain how it works, who may qualify, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Therapy for Myeloma",
+        "items": [
+          {
+            "q": "What is CAR-T therapy for multiple myeloma?",
+            "a": "<p>CAR-T therapy for multiple myeloma is a personalized immunotherapy that reprograms a patient's own T-cells to recognize and attack myeloma cells. The T-cells are collected, genetically engineered in a laboratory to carry a chimeric antigen receptor, multiplied, and infused back into the patient. Most approved myeloma CAR-T products target BCMA, a protein found on myeloma cells. Suitability depends on disease status, previous treatment, and specialist review.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work for myeloma?",
+            "a": "<p>CAR-T therapy works by engineering a patient's T-cells to find myeloma cells and destroy them. Doctors collect T-cells through a blood-filtering process called leukapheresis, then add a chimeric antigen receptor that binds a myeloma target such as BCMA. After a short course of preparatory chemotherapy, the modified cells are infused back and expand inside the body. Response varies between patients and is monitored closely by the treating oncology team.</p>"
+          },
+          {
+            "q": "Which CAR-T treatments are approved for multiple myeloma?",
+            "a": "<p>Two BCMA-directed CAR-T therapies, idecabtagene vicleucel (ide-cel) and ciltacabtagene autoleucel (cilta-cel), are approved for multiple myeloma in several countries. Both are generally used for patients whose myeloma has returned or stopped responding after multiple prior treatment lines. Availability, approved indications, and eligibility differ by country and hospital. Whether a specific product is appropriate should be discussed with a qualified myeloma specialist after reviewing the patient's full history.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for CAR-T therapy for multiple myeloma?",
+            "a": "<p>CAR-T therapy may be considered for patients with relapsed or refractory multiple myeloma who have already received several prior lines of treatment. Eligibility depends on cancer stage, previous therapies, organ function, blood counts, overall fitness, and specialist assessment. Patients usually need adequate T-cell numbers and stable enough disease to complete the process. Final eligibility is decided by the treating medical team after reviewing reports, imaging, and biomarker results.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T therapy for myeloma?",
+            "a": "<p>The main side effects of myeloma CAR-T therapy include cytokine release syndrome, which can cause fever, low blood pressure, and breathing difficulty, and neurological effects such as confusion. Infections, low blood counts, and prolonged immune suppression may also occur. Most reactions are managed in specialized centers with close monitoring. Severity varies between patients, and risks should be discussed in detail with the treating oncology and transplant team before proceeding.</p>"
+          },
+          {
+            "q": "How long does the CAR-T treatment process take?",
+            "a": "<p>The CAR-T process for myeloma typically takes several weeks from cell collection to infusion and recovery. After leukapheresis, manufacturing the engineered cells usually takes a few weeks, followed by preparatory chemotherapy and infusion. Patients are generally monitored in or near the hospital for several weeks to manage possible side effects. Actual timelines depend on the product used, hospital protocol, and each patient's condition, so schedules should be confirmed with the treating center.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does CAR-T therapy for multiple myeloma cost?",
+            "a": "<p>CAR-T therapy for multiple myeloma is an expensive treatment, and the total cost varies widely by country, hospital, and product. Estimates should be treated as ranges only. Final cost depends on the specific therapy, hospital charges, pre-treatment tests, hospital stay, management of complications, and follow-up care. International patients should request a detailed written estimate from the treating hospital and confirm what is and is not included before planning treatment.</p>"
+          },
+          {
+            "q": "Can international patients access CAR-T therapy for myeloma abroad?",
+            "a": "<p>International patients may access myeloma CAR-T therapy at selected specialized centers, but access is not guaranteed. It depends on hospital acceptance, medical record review, product availability, visa approval, travel fitness, and the patient's overall condition. Some centers also require patients to remain nearby for weeks of monitoring. Patients should arrange a second opinion, cost estimate, and follow-up plan in advance, with final decisions made by the treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T therapy for multiple myeloma?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee hospital admission, treatment acceptance, or specific outcomes, and does not replace the guidance of the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

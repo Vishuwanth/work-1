@@ -1,0 +1,68 @@
+{
+  "pillar": "Stem Cell Therapy for Multiple Myeloma",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: stem-cell-therapy-for-multiple-myeloma",
+  "route": "⚠ VERIFY: /insights/stem-cell-therapy-for-multiple-myeloma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stem Cell Therapy for Multiple Myeloma",
+    "intro": "Stem cell therapy, most often an autologous stem cell transplant, is a common treatment step for many people with multiple myeloma. These answers explain how it works, who may qualify, and what international patients should keep in mind.",
+    "groups": [
+      {
+        "title": "Understanding Stem Cell Therapy for Myeloma",
+        "items": [
+          {
+            "q": "What is stem cell therapy for multiple myeloma?",
+            "a": "<p>Stem cell therapy for multiple myeloma usually means an autologous stem cell transplant, where a patient's own blood-forming stem cells are collected, stored, and returned after high-dose chemotherapy. The high-dose chemotherapy aims to reduce myeloma cells more deeply, and the reinfused stem cells help the bone marrow recover. It does not cure myeloma for everyone, but it may extend disease control. Treatment decisions depend on individual factors and specialist review.</p>"
+          },
+          {
+            "q": "How does an autologous stem cell transplant work?",
+            "a": "<p>An autologous transplant works by using your own stem cells to rebuild bone marrow after high-dose chemotherapy. First, stem cells are mobilized and collected from the blood, then frozen. Next, a strong conditioning chemotherapy such as melphalan is given to lower the myeloma burden. The stored stem cells are then reinfused, gradually restoring blood counts over one to several weeks. Recovery timelines and outcomes vary from patient to patient.</p>"
+          },
+          {
+            "q": "What is the difference between autologous and allogeneic transplant?",
+            "a": "<p>The main difference is the source of stem cells: autologous uses the patient's own cells, while allogeneic uses cells from a matched donor. Autologous transplant is the standard approach for most myeloma patients because it has lower risk of serious complications. Allogeneic transplant is used less often, mainly in selected younger patients or clinical trials, because it carries higher risks such as graft-versus-host disease. The choice depends on specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for a stem cell transplant for multiple myeloma?",
+            "a": "<p>Eligibility for a stem cell transplant depends on age, overall health, organ function, and how the myeloma has responded to initial treatment. Transplant may be considered for patients who are fit enough to tolerate high-dose chemotherapy, often after induction therapy has reduced the disease. There is no single age cut-off, as biological fitness matters more than age alone. Final eligibility is determined by the treating hematology and transplant team.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of a myeloma stem cell transplant?",
+            "a": "<p>Common side effects include low blood counts, infection risk, mouth sores, nausea, fatigue, and diarrhea during recovery. Because high-dose chemotherapy temporarily weakens the immune system, patients need close monitoring and supportive care. Most side effects are manageable and improve as blood counts recover, though serious complications can occur. Individual risk depends on age, organ function, and overall health, and should be discussed carefully with the treating oncology team.</p>"
+          },
+          {
+            "q": "Does a stem cell transplant cure multiple myeloma?",
+            "a": "<p>A stem cell transplant does not usually cure multiple myeloma, but it can lead to deeper and longer-lasting remission for many patients. Myeloma is generally considered a treatable but relapsing disease, so most people continue maintenance therapy after transplant to help control it. Some patients stay in remission for years. Actual results vary widely, and expected benefit should be discussed with your hematologist based on your specific situation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does a stem cell transplant for myeloma cost?",
+            "a": "<p>The cost of a myeloma stem cell transplant varies widely by country, hospital, and individual medical needs. Final cost depends on the hospital, diagnosis, conditioning protocol, length of hospital stay, supportive care, and any complications. Estimates should be requested directly from the treating center after review of medical reports. Patients are advised not to rely on a single fixed figure, as pricing and inclusions differ between centers.</p>"
+          },
+          {
+            "q": "How can international patients access stem cell therapy for myeloma?",
+            "a": "<p>International patients can access stem cell therapy by sharing medical records with a transplant center for review, which then decides on suitability. Access depends on hospital acceptance, medical evaluation, visa approval, travel fitness, and the patient's overall condition. It is helpful to prepare recent reports, imaging, and pathology, and to arrange a second opinion and follow-up plan. No center can guarantee admission, visa approval, or a specific treatment outcome.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell therapy for multiple myeloma?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is intended to guide the process and does not replace the assessment or care provided by the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

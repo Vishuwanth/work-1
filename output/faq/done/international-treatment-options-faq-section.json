@@ -1,0 +1,64 @@
+{
+  "pillar": "International Treatment Options",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: international-treatment-options",
+  "route": "⚠ VERIFY: /insights/international-treatment-options",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About International Treatment Options",
+    "intro": "These answers explain how international treatment options may fit into care for stage 4 cancer, including what to consider around eligibility, advanced therapies, cost, and travel planning.",
+    "groups": [
+      {
+        "title": "Understanding International Treatment for Stage 4 Cancer",
+        "items": [
+          {
+            "q": "What are international treatment options for stage 4 cancer?",
+            "a": "<p>International treatment options refer to seeking cancer care abroad when certain therapies, clinical trials, or specialist expertise are not available or accessible at home. For stage 4 cancer, this may include advanced targeted therapy, immunotherapy, or trial-based treatments offered at selected hospitals. Whether these options are appropriate depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should always be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Why do some patients travel abroad for stage 4 cancer treatment?",
+            "a": "<p>Some patients travel abroad to access treatments, clinical trials, or specialists that may not be available in their home country. For advanced or stage 4 cancer, this can include newer immunotherapies, cell therapies, or investigational drugs offered at specific centers. Traveling for care is a personal decision that depends on the patient's condition, travel fitness, and specialist review, and it does not replace standard treatment recommended by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Options, and Safety",
+        "items": [
+          {
+            "q": "Is traveling abroad suitable for all stage 4 cancer patients?",
+            "a": "<p>Traveling abroad is not suitable for every stage 4 cancer patient, and suitability depends on individual circumstances. Factors include cancer type, stage, overall health, travel fitness, and whether a hospital accepts the case after medical review. Some patients may be too unwell to travel safely, while others may benefit from care closer to home. Final decisions should be made with a qualified oncology team after reviewing the patient's condition and reports.</p>"
+          },
+          {
+            "q": "What advanced treatments are available internationally for stage 4 cancer?",
+            "a": "<p>Internationally, stage 4 cancer patients may access advanced treatments such as immunotherapy, targeted therapy, CAR-T and other cell therapies, precision medicine guided by biomarkers, and specialized radiation techniques. Availability varies by country, hospital, and cancer type, and not every treatment is appropriate for every patient. Whether an advanced option may be considered depends on diagnosis, stage, biomarker testing, previous treatment, and specialist review by the treating oncology team.</p>"
+          },
+          {
+            "q": "Are clinical trials abroad an option for stage 4 cancer?",
+            "a": "<p>Clinical trials abroad may be an option for selected stage 4 cancer patients, but enrollment is never guaranteed. Trials often have strict inclusion and exclusion criteria, and eligibility is decided only after medical record review and investigator assessment. A trial may study a new drug or combination, and participation may or may not provide benefit. Patients should discuss potential trials, risks, and alternatives with their qualified oncology team before pursuing this path.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Planning",
+        "items": [
+          {
+            "q": "How much does international treatment for stage 4 cancer cost?",
+            "a": "<p>The cost of international treatment for stage 4 cancer varies widely and cannot be presented as a fixed figure. Final cost depends on the hospital, country, diagnosis, stage, required tests, treatment protocol, length of stay, and any complications. Travel, accommodation, and follow-up care add further expenses. Patients should request a detailed estimate from the treating hospital, and acceptance at a specific cost is never assured until the case is reviewed.</p>"
+          },
+          {
+            "q": "What medical reports are needed to explore treatment abroad?",
+            "a": "<p>To explore treatment abroad, patients usually need recent medical reports that summarize their diagnosis and current status. These often include pathology and biopsy results, imaging scans, biomarker or genetic testing, blood work, and a summary of previous treatments. Complete, up-to-date records help specialists assess whether treatment may be appropriate. The exact requirements depend on the hospital and cancer type, and access to care still depends on medical review and hospital acceptance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with international treatment options?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It does not replace doctors or hospitals, and no outcome, admission, or visa approval is guaranteed. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health condition.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

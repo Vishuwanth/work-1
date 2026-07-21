@@ -1,0 +1,64 @@
+{
+  "pillar": "Palliative Care vs Curative Treatment",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: palliative-care-vs-curative-treatment",
+  "route": "⚠ VERIFY: /insights/palliative-care-vs-curative-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Palliative Care vs Curative Treatment",
+    "intro": "Understanding the difference between palliative care and curative treatment helps patients and families make informed decisions in advanced cancer. These answers explain how each approach works, when they overlap, and what to discuss with your oncology team.",
+    "groups": [
+      {
+        "title": "Understanding the Two Approaches",
+        "items": [
+          {
+            "q": "What is the difference between palliative care and curative treatment?",
+            "a": "<p>Curative treatment aims to remove or eliminate cancer completely, while palliative care focuses on relieving symptoms, pain, and stress to improve quality of life. Curative approaches may include surgery, chemotherapy, radiation, or targeted therapy intended to cure the disease. Palliative care can be given at any stage, alongside curative treatment or on its own. The right approach depends on cancer type, stage, overall health, and specialist review.</p>"
+          },
+          {
+            "q": "What is palliative care in cancer?",
+            "a": "<p>Palliative care is specialized medical support that focuses on relieving symptoms and improving comfort for people living with cancer. It addresses pain, nausea, fatigue, breathlessness, and emotional distress, and supports both patients and families. Palliative care is not limited to end-of-life situations and may be offered at any stage, including alongside treatments aiming to control or cure cancer. It is usually delivered by a dedicated care team.</p>"
+          },
+          {
+            "q": "Is palliative care the same as hospice or end-of-life care?",
+            "a": "<p>No, palliative care is not the same as hospice care, though the two are related. Palliative care can begin at diagnosis and may run alongside active cancer treatment, focusing on comfort and quality of life. Hospice care is a form of palliative care specifically for patients nearing the end of life when curative treatment is no longer pursued. The distinction should be clarified with your treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Choosing Between Approaches",
+        "items": [
+          {
+            "q": "Can a patient receive palliative care and curative treatment at the same time?",
+            "a": "<p>Yes, palliative care and curative treatment can often be given together. Many patients receive symptom-focused support while undergoing chemotherapy, radiation, or other active treatments aimed at controlling the cancer. Combining both may help patients tolerate treatment better and maintain quality of life. Whether this combined approach is suitable depends on the cancer type, stage, treatment goals, and the recommendations of the qualified oncology team.</p>"
+          },
+          {
+            "q": "When is curative treatment no longer an option?",
+            "a": "<p>Curative treatment may no longer be an option when cancer is advanced, has spread widely, or no longer responds to available therapies. In these situations, the focus may shift toward controlling the disease and maintaining comfort rather than achieving a cure. This is a highly individual decision that depends on cancer type, stage, previous treatment, and overall health, and it should always be discussed with the treating medical team.</p>"
+          },
+          {
+            "q": "Does choosing palliative care mean giving up on treatment?",
+            "a": "<p>No, choosing palliative care does not mean giving up on treatment or hope. Palliative care is about improving comfort and quality of life, and it can be provided alongside treatments that aim to shrink or control the cancer. For some patients it becomes the main focus when curative options are limited. The balance between comfort and active treatment should be guided by the patient's wishes and the oncology team.</p>"
+          },
+          {
+            "q": "How do doctors decide between palliative and curative goals?",
+            "a": "<p>Doctors decide between palliative and curative goals by weighing the cancer type, stage, biomarker profile, previous treatments, and the patient's overall health and preferences. Curative intent may be pursued when cancer is potentially removable or controllable, while a palliative focus may be considered when cure is unlikely. These decisions are made through careful discussion and should always involve the patient, family, and treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Support for International Patients",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with palliative care vs curative treatment decisions?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier for families to understand whether curative or palliative approaches may be appropriate. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,64 @@
+{
+  "pillar": "Benefits and Risks of Clinical Trials",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: benefits-and-risks-of-clinical-trials",
+  "route": "⚠ VERIFY: /insights/benefits-and-risks-of-clinical-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Benefits and Risks of Clinical Trials",
+    "intro": "Clinical trials offer cancer patients access to new treatments while carrying real uncertainties. These answers explain the main benefits, risks, and safeguards to help patients and caregivers make informed decisions with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding the Benefits",
+        "items": [
+          {
+            "q": "What are the main benefits of joining a cancer clinical trial?",
+            "a": "<p>The main benefit of a cancer clinical trial is access to promising new treatments before they are widely available. Participants may receive therapies not yet approved, along with close monitoring by an experienced research team. Trials also contribute to medical knowledge that can help future patients. Benefits vary by trial, cancer type, and individual circumstances, and possible advantages should always be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Do patients in clinical trials get better care?",
+            "a": "<p>Patients in clinical trials often receive close, structured monitoring, but this does not guarantee a better outcome. Trial participants are usually followed by a specialised research team with frequent tests, scans, and check-ups that track response and side effects carefully. This attention can support early detection of problems. However, the treatment itself is being studied and may or may not work better than standard care, which the treating team can explain.</p>"
+          },
+          {
+            "q": "Will I definitely receive the new treatment in a trial?",
+            "a": "<p>You may not always receive the new treatment, because many trials compare it against standard care. In randomised trials, patients are assigned by chance to different groups, and some may receive the current standard treatment or, less commonly, a placebo alongside standard care. The specific design, group assignments, and chance of receiving the experimental therapy differ by trial and should be clarified before you consent to take part.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Understanding the Risks and Safeguards",
+        "items": [
+          {
+            "q": "What are the risks or side effects of clinical trials?",
+            "a": "<p>The main risk of a clinical trial is that the new treatment may cause unexpected or serious side effects, since it is still being studied. The therapy may also prove less effective than standard care, and extra visits or tests can add burden. Risks depend on the treatment, cancer type, and patient health. All known and possible risks should be explained clearly by the research team before you decide to join.</p>"
+          },
+          {
+            "q": "How are patients kept safe during a clinical trial?",
+            "a": "<p>Patients are protected by strict safety rules, ethics committee approval, and ongoing medical monitoring throughout a trial. Independent review boards assess each study before it begins, and safety data are checked regularly so a trial can be paused or stopped if concerns arise. Participants give informed consent and can withdraw at any time. These safeguards reduce risk but cannot remove it entirely, so ongoing discussion with the research team is important.</p>"
+          },
+          {
+            "q": "Can I leave a clinical trial after I join?",
+            "a": "<p>Yes, you can leave a clinical trial at any time and for any reason without losing your right to standard care. Participation is voluntary, and choosing to withdraw should not affect the quality of treatment you receive from your regular medical team. If you are considering leaving, it helps to discuss it with the research staff first, as some treatments need careful, gradual stopping and follow-up monitoring for safety.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Access, and Support",
+        "items": [
+          {
+            "q": "Who is eligible to join a cancer clinical trial?",
+            "a": "<p>Eligibility for a cancer clinical trial depends on strict inclusion and exclusion criteria set for each study. Factors may include cancer type, stage, biomarker profile, previous treatments, age, and overall health. These rules help protect patients and ensure reliable results. Final eligibility is decided only after the research team reviews your medical records and test results. Meeting the criteria does not guarantee enrolment, as places may be limited.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with clinical trials?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant clinical trials or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Enrolment is never guaranteed and depends on trial criteria and investigator assessment. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and after weighing the possible benefits and risks together.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

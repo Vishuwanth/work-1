@@ -1,0 +1,114 @@
+{
+  "pillar": "PD-L1 and Immunotherapy in Lung Cancer",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: pd-l1-and-immunotherapy-in-lung-cancer",
+  "route": "⚠ VERIFY: /<section>/pd-l1-and-immunotherapy-in-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About PD-L1 and Immunotherapy in Lung Cancer",
+    "intro": "PD-L1 testing helps doctors decide whether immunotherapy may be a suitable part of lung cancer treatment. These FAQs explain what PD-L1 means, how immunotherapy works, and what patients and caregivers should know.",
+    "groups": [
+      {
+        "title": "Understanding PD-L1 and Immunotherapy in Lung Cancer",
+        "items": [
+          {
+            "q": "What is PD-L1 in lung cancer?",
+            "a": "<p>PD-L1 is a protein found on the surface of some lung cancer cells that helps tumors hide from the immune system. Testing a biopsy sample for PD-L1 shows how much of this protein is present, usually reported as a percentage called the Tumor Proportion Score. This result helps the oncology team judge whether immunotherapy may be a suitable treatment option, alongside cancer type, stage, and other biomarker findings.</p>"
+          },
+          {
+            "q": "How does immunotherapy work for lung cancer?",
+            "a": "<p>Immunotherapy for lung cancer works by helping the body's own immune system recognize and attack cancer cells. The most common type, called checkpoint inhibitors, blocks the PD-1 or PD-L1 signal that tumors use to switch off immune defenses. This can allow immune cells to target the cancer more effectively. Immunotherapy does not work for everyone, and suitability depends on cancer type, biomarkers, and specialist review.</p>"
+          },
+          {
+            "q": "What does a high or low PD-L1 score mean?",
+            "a": "<p>A high PD-L1 score generally means a larger share of tumor cells carry the PD-L1 protein, which may suggest a greater chance of benefit from immunotherapy. A low or negative score does not rule immunotherapy out, since it can still be combined with chemotherapy in selected cases. PD-L1 is only one factor, and the treating team considers stage, cancer subtype, and overall health before deciding.</p>"
+          },
+          {
+            "q": "Which lung cancers respond to PD-L1 immunotherapy?",
+            "a": "<p>PD-L1-based immunotherapy is most often used in non-small cell lung cancer, including adenocarcinoma and squamous cell carcinoma, and in some cases of small cell lung cancer. Response varies from patient to patient and cannot be predicted with certainty. Tumors that also carry certain driver mutations, such as EGFR or ALK, may respond better to targeted therapy first. The oncology team decides based on full biomarker and pathology results.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for PD-L1 immunotherapy in lung cancer?",
+            "a": "<p>Eligibility for PD-L1 immunotherapy depends on cancer type, stage, PD-L1 score, other biomarkers, previous treatment, and overall health. It may be considered for advanced or metastatic non-small cell lung cancer, and increasingly in earlier stages. Patients with certain autoimmune conditions or organ problems may not be suitable candidates. Final eligibility should be assessed by a qualified oncology team after reviewing pathology, imaging, and complete medical records.</p>"
+          },
+          {
+            "q": "How is the PD-L1 test done?",
+            "a": "<p>The PD-L1 test is performed on a tissue sample taken during a biopsy or surgery, and sometimes on stored tumor tissue from an earlier procedure. In the laboratory, the sample is stained to measure how many cancer cells carry the PD-L1 protein, producing a percentage score. No separate procedure is usually needed if enough tissue is already available. Your specialist can explain whether a fresh biopsy is required.</p>"
+          },
+          {
+            "q": "What are the side effects of lung cancer immunotherapy?",
+            "a": "<p>Immunotherapy side effects happen when the activated immune system also affects healthy tissue, and they vary between patients. Common issues include fatigue, skin rash, and diarrhea, while less common effects can involve the lungs, thyroid, liver, or bowel. Most side effects are manageable when reported early, but some can be serious. Patients should tell their oncology team promptly about any new symptoms so treatment can be adjusted safely.</p>"
+          },
+          {
+            "q": "How long does immunotherapy treatment last?",
+            "a": "<p>Immunotherapy for lung cancer is usually given as an intravenous infusion every few weeks, and treatment length depends on how the cancer responds and how well side effects are tolerated. Many patients continue for up to two years, while others stop earlier or continue longer based on scans and clinical review. The treating team decides on duration and monitors progress through regular imaging and blood tests.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does PD-L1 immunotherapy cost?",
+            "a": "<p>The cost of PD-L1 immunotherapy varies widely and cannot be quoted as a fixed figure. It depends on the specific drug, dose, number of cycles, hospital, country, supporting tests, and any complications or hospital stays. PD-L1 testing itself is a separate cost. Because prices differ by diagnosis and treatment protocol, patients should request a written estimate from the treating hospital and discuss options with their oncology team.</p>"
+          },
+          {
+            "q": "Is PD-L1 immunotherapy available in India?",
+            "a": "<p>PD-L1 immunotherapy and PD-L1 testing are available at several major cancer hospitals in India, which treat both local and international patients. Availability of specific approved drugs can vary by center and over time. Whether it is appropriate for a particular patient depends on cancer type, stage, biomarkers, and specialist review. Patients should confirm current availability, testing facilities, and estimated costs directly with the chosen hospital.</p>"
+          },
+          {
+            "q": "Which countries offer lung cancer immunotherapy?",
+            "a": "<p>Lung cancer immunotherapy is offered in many countries, including India, the United States, several European nations, China, Turkey, and parts of Southeast Asia. The specific approved drugs, testing methods, and costs differ between countries and hospitals. Access for international patients also depends on hospital acceptance and travel factors. Patients should compare treatment centers carefully and confirm that the required PD-L1 testing and follow-up care are available.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Can immunotherapy be combined with chemotherapy for lung cancer?",
+            "a": "<p>Yes, immunotherapy is often combined with chemotherapy for lung cancer, particularly when the PD-L1 score is low or when faster tumor control is needed. This combination may be considered for selected patients with advanced non-small cell lung cancer. Combining treatments can increase side effects, so the balance of possible benefit and risk is assessed individually. The oncology team decides the best approach after reviewing all test results.</p>"
+          },
+          {
+            "q": "Are there clinical trials for PD-L1 lung cancer immunotherapy?",
+            "a": "<p>Yes, many clinical trials study new immunotherapy drugs and combinations for lung cancer, including different PD-L1 and PD-1 approaches. Trials may offer access to newer options but cannot guarantee enrollment or benefit. Eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria. Patients interested in trials should discuss suitable options with their treating oncology team.</p>"
+          },
+          {
+            "q": "What if immunotherapy stops working for lung cancer?",
+            "a": "<p>If immunotherapy stops controlling lung cancer, other options may still be considered, and this situation is not uncommon. Depending on the case, the team may switch to chemotherapy, targeted therapy if a suitable mutation is present, radiotherapy for specific sites, or a clinical trial. New biopsies or repeat biomarker testing may help guide the next step. Final decisions depend on cancer behavior, scans, and overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed for a lung cancer immunotherapy opinion?",
+            "a": "<p>For an immunotherapy opinion, doctors usually need the biopsy and pathology report, PD-L1 test result, other biomarker or mutation testing, recent imaging such as CT or PET scans, and a summary of previous treatments. Blood test results and a doctor's referral letter are also helpful. Complete records allow a more accurate review, though a fresh biopsy is sometimes requested. The treating team confirms exactly which documents are required.</p>"
+          },
+          {
+            "q": "Can international patients travel abroad for lung cancer immunotherapy?",
+            "a": "<p>International patients can travel abroad for lung cancer immunotherapy, but access depends on hospital acceptance, medical review, visa approval, and fitness to travel. Because immunotherapy is often given over many cycles, patients should plan for repeat visits or arrange continued care and monitoring closer to home. It is wise to confirm the treatment plan, estimated cost, and follow-up arrangements before travel, alongside a second opinion where helpful.</p>"
+          },
+          {
+            "q": "Is a second opinion useful before starting immunotherapy?",
+            "a": "<p>A second opinion can be very useful before starting immunotherapy, since treatment decisions rely on interpreting PD-L1 scores, biomarkers, stage, and overall health together. Another specialist may confirm the plan or suggest additional testing or alternative options such as targeted therapy or trials. This does not delay urgent care when reports are shared promptly. Final treatment decisions should always be made by the qualified oncology team managing the patient.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with PD-L1 and immunotherapy in lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, PD-L1 status, other biomarkers, previous treatment, and overall health. CancerFax supports coordination and information but does not replace the doctors and hospitals responsible for care.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

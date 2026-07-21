@@ -1,0 +1,68 @@
+{
+  "pillar": "Types of Cancer Immunotherapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: types-of-cancer-immunotherapy",
+  "route": "⚠ VERIFY: /insights/types-of-cancer-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Types of Cancer Immunotherapy",
+    "intro": "Cancer immunotherapy is not a single treatment but a family of approaches that help the immune system recognize and fight cancer. These FAQs explain the main types, how they work, and what patients and caregivers should know.",
+    "groups": [
+      {
+        "title": "Understanding the Types of Cancer Immunotherapy",
+        "items": [
+          {
+            "q": "What are the main types of cancer immunotherapy?",
+            "a": "<p>The main types of cancer immunotherapy include immune checkpoint inhibitors, CAR T-cell therapy, monoclonal antibodies, cancer vaccines, cytokines, and oncolytic virus therapy. Each works differently to help the immune system detect or attack cancer cells. Some are given as infusions, while others involve modifying a patient's own immune cells. The right type depends on cancer type, stage, biomarker profile, previous treatment, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How do immune checkpoint inhibitors work?",
+            "a": "<p>Immune checkpoint inhibitors work by releasing the natural brakes that stop immune cells from attacking cancer. Drugs targeting PD-1, PD-L1, and CTLA-4 block the signals that tumors use to hide from the immune system, allowing T-cells to recognize and attack cancer. They are used in several cancers, including melanoma and lung cancer. Suitability depends on biomarker testing, cancer type, and overall health, and should be discussed with the treating team.</p>"
+          },
+          {
+            "q": "What is CAR T-cell therapy?",
+            "a": "<p>CAR T-cell therapy is a type of immunotherapy that reprograms a patient's own T-cells to recognize and destroy cancer cells. The cells are collected, genetically modified in a laboratory to carry a chimeric antigen receptor, and then infused back into the patient. It is mainly used for certain blood cancers, such as some leukemias, lymphomas, and myeloma. Eligibility depends on cancer type, previous treatment, and specialist assessment.</p>"
+          },
+          {
+            "q": "What are monoclonal antibodies in cancer treatment?",
+            "a": "<p>Monoclonal antibodies are laboratory-made proteins that bind to specific targets on cancer cells to mark them for destruction or block their growth signals. Some also deliver drugs or radiation directly to tumors, while newer bispecific antibodies link cancer cells to immune cells. They are used across many cancer types depending on the target present. Whether a monoclonal antibody may be considered depends on biomarker testing, cancer type, and oncology team review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How These Therapies Work and Who They Help",
+        "items": [
+          {
+            "q": "Are cancer vaccines a type of immunotherapy?",
+            "a": "<p>Yes, cancer vaccines are a form of immunotherapy that trains the immune system to recognize and respond to cancer-related targets. Some vaccines aim to prevent cancers linked to viruses, while therapeutic vaccines are designed to help treat existing cancer by stimulating an immune response. Many remain under study in clinical trials. Availability and suitability depend on cancer type, stage, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is immunotherapy suitable for all cancer patients?",
+            "a": "<p>Immunotherapy is not suitable for all cancer patients, and its use depends on several factors. Response varies by cancer type, stage, biomarker profile such as PD-L1 or specific mutations, previous treatment, and overall health. Some cancers respond well, while others show limited benefit. Immunotherapy may be considered for selected patients after biomarker testing and specialist evaluation. Final treatment decisions should be made by the treating medical team based on individual assessment.</p>"
+          },
+          {
+            "q": "What are the possible side effects of cancer immunotherapy?",
+            "a": "<p>Cancer immunotherapy can cause side effects because it activates the immune system, which may also affect healthy tissue. Common effects include fatigue, skin reactions, and flu-like symptoms, while some patients experience inflammation of organs such as the lungs, thyroid, or bowel. CAR T-cell therapy carries specific risks that require close monitoring. Side effects vary by treatment type and patient, and should always be managed by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does cancer immunotherapy cost?",
+            "a": "<p>The cost of cancer immunotherapy varies widely depending on the type of treatment, with checkpoint inhibitors and CAR T-cell therapy differing significantly in price. Final cost depends on the hospital, country, diagnosis, stage, required tests, treatment protocol, number of cycles, possible complications, and length of stay. Estimates should be confirmed directly with the treating hospital. A detailed cost plan can be prepared only after medical records and treatment recommendations are reviewed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer immunotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For immunotherapy, this may include locating centers offering checkpoint inhibitors, CAR T-cell therapy, or relevant clinical trials. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

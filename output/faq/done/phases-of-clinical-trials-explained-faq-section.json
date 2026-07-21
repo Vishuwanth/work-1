@@ -1,0 +1,64 @@
+{
+  "pillar": "Phases of Clinical Trials Explained",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: phases-of-clinical-trials-explained",
+  "route": "⚠ VERIFY: /insights/phases-of-clinical-trials-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Phases of Clinical Trials",
+    "intro": "Cancer clinical trials are carried out in defined phases, each with a different purpose and level of testing. These answers explain what happens in each phase, who may take part, and how international patients can explore trial options.",
+    "groups": [
+      {
+        "title": "Understanding Clinical Trial Phases",
+        "items": [
+          {
+            "q": "What are the phases of a clinical trial?",
+            "a": "<p>Clinical trials are usually organised into four main phases that test a treatment step by step. Phase 1 checks safety and dosing in a small group, Phase 2 studies whether the treatment works and its side effects, Phase 3 compares it with standard care in larger groups, and Phase 4 monitors long-term safety after approval. Each phase builds on the last, and progression depends on results reviewed by researchers and regulators.</p>"
+          },
+          {
+            "q": "What happens in a Phase 1 clinical trial?",
+            "a": "<p>A Phase 1 clinical trial mainly tests the safety of a new treatment and identifies a suitable dose. It usually involves a small number of patients and looks at how the body handles the drug, what side effects occur, and how it is best given. Phase 1 trials are early research and are not designed to prove effectiveness. They may be considered for selected patients after other treatments, following specialist review and informed consent.</p>"
+          },
+          {
+            "q": "What is the difference between Phase 2 and Phase 3 trials?",
+            "a": "<p>Phase 2 and Phase 3 trials differ mainly in size and purpose. Phase 2 studies whether a treatment shows meaningful activity against a specific cancer and further examines its side effects in a moderate number of patients. Phase 3 tests the treatment in much larger groups, often comparing it directly with the current standard of care. Phase 3 results usually help guide regulatory approval, but outcomes depend on the study and cannot be assumed in advance.</p>"
+          },
+          {
+            "q": "What is a Phase 4 clinical trial?",
+            "a": "<p>A Phase 4 clinical trial takes place after a treatment has been approved and is already in use. Its purpose is to monitor long-term safety, effectiveness, and rare or delayed side effects in a much wider group of patients over time. These studies can also compare the treatment with other options or explore its use in different patient groups. Findings may refine how a treatment is used, always under regulatory and specialist oversight.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Eligibility, and Participation",
+        "items": [
+          {
+            "q": "Are early-phase clinical trials safe for cancer patients?",
+            "a": "<p>Early-phase clinical trials follow strict safety rules, but they carry more uncertainty than approved treatments because the therapy is still being studied. Phase 1 and 2 trials involve careful monitoring, ethics committee approval, and informed consent, yet side effects and benefits may not be fully known. They may be considered for selected patients when standard options are limited. Whether an early-phase trial is appropriate should be discussed carefully with the treating oncology team.</p>"
+          },
+          {
+            "q": "Who is eligible to join a cancer clinical trial?",
+            "a": "<p>Eligibility for a cancer clinical trial depends on each study's specific inclusion and exclusion criteria. Common factors include cancer type, stage, biomarker profile, previous treatments, age, organ function, and overall health. Because criteria are strict, not everyone who applies will qualify, and enrolment is never guaranteed. Eligibility is decided only after medical record review and investigator assessment. Patients interested in a trial should discuss suitability with their treating specialist before applying.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How can international patients find and access clinical trials abroad?",
+            "a": "<p>International patients can explore clinical trials abroad by sharing their medical records for review and asking specialists which trials may match their diagnosis. Access depends on the trial's criteria, available slots, investigator assessment, and factors such as hospital acceptance, visa approval, and travel fitness. Some trials also require patients to stay near the centre for monitoring. None of these steps is guaranteed, so planning should be guided by the treating medical team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with clinical trial phases?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

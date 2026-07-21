@@ -1,0 +1,68 @@
+{
+  "pillar": "Eligibility for Vaccine Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: eligibility-for-vaccine-therapy",
+  "route": "⚠ VERIFY: /insights/eligibility-for-vaccine-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for Vaccine Therapy",
+    "intro": "Tumor therapeutic vaccines are a form of cancer immunotherapy, and not every patient is a candidate. These answers explain who may qualify, how eligibility is assessed, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Eligibility for Vaccine Therapy",
+        "items": [
+          {
+            "q": "Who is eligible for cancer vaccine therapy?",
+            "a": "<p>Eligibility for cancer vaccine therapy depends on cancer type, stage, tumor biomarkers, previous treatments, and overall health. Therapeutic cancer vaccines are designed to train the immune system to recognize tumor cells, and they may be considered for selected patients with certain cancers such as melanoma, prostate, or specific brain tumors. A functioning immune system is often important. Final eligibility should be confirmed by a qualified oncology team after reviewing the patient's full medical records.</p>"
+          },
+          {
+            "q": "Is vaccine therapy suitable for all cancer patients?",
+            "a": "<p>Cancer vaccine therapy is not suitable for every patient. Suitability depends on the cancer type, tumor antigens, disease stage, prior therapies, and how well the immune system is working. Some vaccines target specific biomarkers, so patients without those markers may not benefit. Patients with severely weakened immune systems may not respond well. Whether vaccine therapy is appropriate should be discussed with a qualified oncology team based on individual diagnosis and health status.</p>"
+          },
+          {
+            "q": "What cancers may respond to therapeutic vaccine therapy?",
+            "a": "<p>Certain cancers are studied more often for therapeutic vaccines, including melanoma, prostate cancer, some brain tumors like glioblastoma, and selected blood cancers. Some cancer vaccines are approved, while many remain under clinical trial investigation. Response varies widely between patients and cancer types, and vaccines are often combined with other treatments. Whether a specific cancer may respond depends on tumor biology and biomarker profile, and should be assessed by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility Assessment and Safety",
+        "items": [
+          {
+            "q": "How is eligibility for vaccine therapy assessed?",
+            "a": "<p>Eligibility is assessed through a detailed review of the patient's diagnosis, pathology, imaging, biomarker and antigen testing, previous treatments, and general health. Doctors evaluate immune function, organ health, and disease stage to judge whether vaccine therapy may help. For clinical-trial vaccines, additional inclusion and exclusion criteria apply. The final assessment is made by a qualified oncology team, and sometimes an investigator, after examining complete and up-to-date medical records.</p>"
+          },
+          {
+            "q": "What tests or reports are needed to check eligibility?",
+            "a": "<p>Common reports needed include a confirmed pathology or biopsy report, recent imaging scans, blood tests, and biomarker or tumor antigen testing where relevant. A summary of previous treatments and current medications is also important. Some vaccines require specific genetic or molecular markers to be present. The exact tests depend on the vaccine and cancer type, and the treating oncology team will advise which reports are required for a proper eligibility review.</p>"
+          },
+          {
+            "q": "Can vaccine therapy be combined with other cancer treatments?",
+            "a": "<p>Cancer vaccine therapy is often used alongside other treatments rather than on its own. It may be combined with immunotherapy, chemotherapy, radiation, or targeted therapy, depending on the cancer and treatment goals. Combining treatments can influence eligibility and timing, and is planned carefully to balance benefit and side effects. Whether vaccine therapy fits into a patient's overall plan should be decided by the treating medical team based on their diagnosis and response.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Clinical Trials and International Access",
+        "items": [
+          {
+            "q": "Can I join a clinical trial for cancer vaccine therapy?",
+            "a": "<p>Many cancer vaccines are available mainly through clinical trials, which have strict inclusion and exclusion criteria. Eligibility is decided only after a review of your medical records and an investigator's assessment, and enrollment or benefit cannot be guaranteed. Trials may require a specific cancer type, stage, biomarker, or treatment history. Discussing trial options with your oncology team helps identify studies that may match your diagnosis and overall health.</p>"
+          },
+          {
+            "q": "How can international patients access vaccine therapy?",
+            "a": "<p>International patients may access vaccine therapy at hospitals or trial centers that offer it, but access depends on hospital acceptance, medical record review, visa approval, travel fitness, and the patient's condition. Because many vaccines are experimental, availability varies by country and center, and acceptance cannot be guaranteed. Planning usually involves gathering medical reports, seeking a second opinion, estimating costs, and arranging travel and follow-up care with guidance from the treating team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with eligibility for vaccine therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help clarify what reports may be needed for a vaccine therapy eligibility review. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

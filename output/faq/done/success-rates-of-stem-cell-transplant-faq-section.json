@@ -1,0 +1,68 @@
+{
+  "pillar": "Success Rates of Stem Cell Transplant",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: success-rates-of-stem-cell-transplant",
+  "route": "⚠ VERIFY: /insights/success-rates-of-stem-cell-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Success Rates of Stem Cell Transplant",
+    "intro": "These answers explain what \"success\" means for a stem cell transplant, the factors that shape outcomes, and how patients can interpret survival figures. All results depend on individual diagnosis and specialist review.",
+    "groups": [
+      {
+        "title": "Understanding Transplant Success Rates",
+        "items": [
+          {
+            "q": "What is the success rate of a stem cell transplant?",
+            "a": "<p>Stem cell transplant success rates vary widely depending on the disease, transplant type, patient age, and overall health. For some conditions, long-term survival may reach 60–90% in selected patients, while high-risk cases can be lower. \"Success\" may mean disease remission, engraftment of new cells, or long-term survival. Reported figures are averages and cannot predict an individual outcome, which should always be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What does \"success\" actually mean for a stem cell transplant?",
+            "a": "<p>Success in a stem cell transplant can mean several different things depending on the goal of treatment. It may refer to successful engraftment, where the transplanted cells begin producing healthy blood cells, or to disease remission and long-term survival without relapse. Because these measures differ, survival percentages should be understood in context. The most meaningful definition of success for any patient should be clarified with the treating transplant specialist.</p>"
+          },
+          {
+            "q": "Is an autologous or allogeneic transplant more successful?",
+            "a": "<p>Neither transplant type is universally more successful, because each suits different conditions. Autologous transplants use the patient's own cells and often carry lower complication risk, commonly used in myeloma and lymphoma. Allogeneic transplants use donor cells and may offer a graft-versus-tumor effect for certain leukemias but carry higher risks such as graft-versus-host disease. The better option depends on diagnosis, disease stage, and specialist assessment, and should be decided by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Factors That Affect Outcomes",
+        "items": [
+          {
+            "q": "What factors affect the success of a stem cell transplant?",
+            "a": "<p>Success depends on several factors, including the specific disease, its stage, and how well it responds before transplant. Patient age, overall health, organ function, and the presence of remission all influence outcomes. For donor transplants, the degree of donor matching and the risk of graft-versus-host disease also matter. Because these factors interact, outcomes are highly individual and should be reviewed carefully with a qualified transplant team.</p>"
+          },
+          {
+            "q": "Does age affect stem cell transplant success rates?",
+            "a": "<p>Age can influence stem cell transplant success, but it is only one of many factors considered. Younger patients often tolerate the procedure and its complications more easily, while older patients may face higher risks. However, overall fitness, organ function, and disease control can matter more than age alone, and reduced-intensity transplants have expanded options for older patients. Eligibility and expected outcomes should always be assessed individually by the treating specialist.</p>"
+          },
+          {
+            "q": "How does the disease type change the success rate?",
+            "a": "<p>The underlying disease strongly influences transplant success because each condition responds differently. Transplants for certain lymphomas, myeloma, and specific leukemias in remission may show favorable outcomes, while advanced or high-risk disease can lower success rates. Non-cancer conditions such as some inherited disorders have their own outcome patterns. Because results differ so much by diagnosis, general figures should never be applied to an individual without specialist review of the specific case.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Interpreting Results and Getting Support",
+        "items": [
+          {
+            "q": "Can a stem cell transplant guarantee a cure?",
+            "a": "<p>A stem cell transplant cannot guarantee a cure, even when success rates are encouraging. For some patients it may lead to long-term remission or improved survival, while others may experience relapse or complications. Outcomes depend on the disease, its stage, the transplant type, and individual health. Any discussion of expected benefit should be balanced and realistic, and final treatment decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "How should I interpret published transplant survival statistics?",
+            "a": "<p>Published survival statistics are useful for general understanding but cannot predict one person's result. These figures are averages drawn from groups of patients who may differ in age, disease stage, and treatment history from your own situation. Statistics also change as techniques improve over time. The most reliable interpretation comes from a qualified oncology team that can review your specific diagnosis, biomarkers, previous treatment, and overall health before discussing likely outcomes.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell transplant success rates?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help patients gather the information needed to understand expected outcomes for their situation. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

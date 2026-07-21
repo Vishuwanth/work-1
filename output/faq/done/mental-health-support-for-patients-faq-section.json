@@ -1,0 +1,64 @@
+{
+  "pillar": "Mental Health Support for Patients",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: mental-health-support-for-patients",
+  "route": "⚠ VERIFY: /insights/mental-health-support-for-patients",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Mental Health Support for Patients",
+    "intro": "Mental health support helps people with stage 4 cancer cope with fear, sadness, and stress during treatment. These answers explain what support is available and how to access it.",
+    "groups": [
+      {
+        "title": "Understanding Mental Health Support",
+        "items": [
+          {
+            "q": "What is mental health support for cancer patients?",
+            "a": "<p>Mental health support for cancer patients is professional and emotional care that helps people cope with the psychological impact of a cancer diagnosis and treatment. It may include counselling, psychotherapy, support groups, mindfulness, and, when needed, medication reviewed by a doctor. For patients with stage 4 cancer, this support can ease anxiety, depression, fear, and stress. The type of support suitable for each person depends on their emotional needs, symptoms, and specialist review.</p>"
+          },
+          {
+            "q": "Why is emotional support important during stage 4 cancer treatment?",
+            "a": "<p>Emotional support is important during stage 4 cancer treatment because advanced cancer often brings anxiety, depression, fear, and uncertainty that can affect quality of life. Managing these feelings may help patients cope better with symptoms, treatment side effects, and daily challenges. Emotional wellbeing can also support communication with family and the care team. Support should be tailored to each patient and discussed with a qualified oncology or mental health professional.</p>"
+          },
+          {
+            "q": "What are common signs a cancer patient may need mental health help?",
+            "a": "<p>Common signs a cancer patient may need mental health help include persistent sadness, ongoing anxiety, sleep problems, loss of interest in daily activities, irritability, or difficulty coping with treatment. Some patients feel hopeless, withdraw from loved ones, or struggle to make decisions. These feelings are understandable but should not be ignored. If such symptoms last for weeks or worsen, they should be discussed promptly with the treating medical or mental health team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Getting and Using Support",
+        "items": [
+          {
+            "q": "What types of mental health support are available for cancer patients?",
+            "a": "<p>Several types of mental health support may be available for cancer patients, depending on their needs and hospital services. These can include individual counselling, psychotherapy, cancer support groups, family counselling, mindfulness and relaxation programmes, and psychiatric care with medication when appropriate. Some centres also offer palliative care teams and social workers. The right combination varies for each person and should be guided by the treating oncology and mental health team.</p>"
+          },
+          {
+            "q": "Can counselling or therapy help patients with advanced cancer?",
+            "a": "<p>Counselling or therapy may help many patients with advanced cancer manage difficult emotions and cope with treatment. Talking with a trained counsellor or psychologist can provide space to process fear, grief, and stress, and to develop coping strategies. Therapy does not replace cancer treatment, but it may support overall wellbeing. The benefit varies for each person, and whether therapy is suitable should be discussed with the treating medical team.</p>"
+          },
+          {
+            "q": "How can family members support a loved one with stage 4 cancer?",
+            "a": "<p>Family members can support a loved one with stage 4 cancer by listening without judgment, offering practical help, and respecting the patient's feelings and decisions. Simply being present, encouraging open conversation, and helping with appointments can make a difference. Caregivers should also protect their own mental health and seek support when needed. Professional guidance from counsellors or the care team can help families cope during this challenging time.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "Is mental health support available for international cancer patients?",
+            "a": "<p>Mental health support may be available for international cancer patients, though services vary by hospital and country. Many cancer centres offer counselling, psychological care, or support groups, and some provide interpreters or culturally sensitive care. Availability depends on the treating hospital's services and the patient's needs. International patients are encouraged to ask about mental health and palliative care support when planning treatment and to confirm details with the treating team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with mental health support?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support, including guidance on where mental health and supportive care services may be available. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace the care of doctors or mental health professionals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

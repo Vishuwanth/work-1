@@ -1,0 +1,68 @@
+{
+  "pillar": "Cancer Treatment in Israel",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-israel",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-israel",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in Israel",
+    "intro": "Israel is a well-regarded destination for advanced cancer care, and international patients often have questions about how treatment works, what it may cost, and how to access it. These answers offer general, patient-friendly guidance only.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in Israel",
+        "items": [
+          {
+            "q": "Why do international patients choose Israel for cancer treatment?",
+            "a": "<p>Israel is recognised for advanced oncology care, experienced specialists, and access to modern diagnostic and treatment technologies. Many hospitals offer precision medicine, molecular tumour profiling, immunotherapy, and radiotherapy alongside multidisciplinary tumour boards. Care quality varies by hospital and cancer type, and outcomes depend on diagnosis, stage, biomarker profile, previous treatment, and overall health. Any treatment plan should be reviewed and confirmed by a qualified oncology team before travel.</p>"
+          },
+          {
+            "q": "What types of cancer are treated in Israel?",
+            "a": "<p>Israeli cancer centres treat a wide range of cancers, including breast, lung, colorectal, prostate, blood cancers, and many solid tumours. Services often include surgery, chemotherapy, radiotherapy, targeted therapy, and immunotherapy, as well as second opinions on complex cases. Whether a specific treatment is suitable depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What advanced cancer treatments are available in Israel?",
+            "a": "<p>Israel offers a range of advanced options, including immunotherapy, targeted therapy, precision radiotherapy, robotic and minimally invasive surgery, and molecular tumour profiling. Some centres may also provide access to selected clinical trials. Availability of any specific treatment varies by hospital and may be considered only for selected patients after medical review. Final decisions on advanced therapy should be made by the qualified oncology team treating the patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Reports, and Clinical Trials",
+        "items": [
+          {
+            "q": "What medical reports are needed to plan cancer treatment in Israel?",
+            "a": "<p>Most Israeli centres request recent medical reports before advising on treatment, typically including pathology or biopsy results, imaging scans such as CT, MRI, or PET, and a summary of previous treatment. Biomarker or molecular test results may also be requested where relevant. These records help specialists assess the case, but the final treatment plan depends on specialist review and may require additional tests after arrival.</p>"
+          },
+          {
+            "q": "Can international patients join cancer clinical trials in Israel?",
+            "a": "<p>Some international patients may be considered for clinical trials in Israel, but enrolment is never guaranteed. Trials have strict inclusion and exclusion criteria, and eligibility is decided only after medical record review and investigator assessment. Participation depends on cancer type, stage, biomarker profile, and previous treatment. Because trials do not guarantee benefit, patients should discuss the potential risks and expectations with the treating oncology team before deciding.</p>"
+          },
+          {
+            "q": "Is cancer treatment in Israel suitable for all patients?",
+            "a": "<p>Cancer treatment in Israel is not automatically suitable for every patient, and suitability depends on the individual case. Factors include cancer type, stage, biomarker profile, previous treatment, overall health, and fitness to travel. Some patients may be better served by treatment closer to home, especially where local options are appropriate. A qualified oncology team should review the full medical history before recommending treatment abroad.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Planning",
+        "items": [
+          {
+            "q": "How much does cancer treatment in Israel cost?",
+            "a": "<p>The cost of cancer treatment in Israel varies widely and cannot be fixed in advance. Final cost depends on the hospital, diagnosis, stage, tests required, treatment protocol, any complications, and length of stay. Diagnostic packages, surgery, radiotherapy, and long-course therapies differ significantly in price. Patients should request a written estimate from the hospital, while understanding that actual costs may change based on the treating team's advice.</p>"
+          },
+          {
+            "q": "How can international patients access cancer treatment in Israel?",
+            "a": "<p>Accessing cancer treatment in Israel usually begins with sharing medical reports for review, followed by hospital acceptance, a cost estimate, visa approval, and confirmation of fitness to travel. None of these steps are guaranteed, and admission depends on the hospital's assessment of the case. Planning should also cover travel, accommodation, and follow-up care. Patients are encouraged to seek a second opinion before making arrangements.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer treatment in Israel?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee hospital admission, visa approval, or treatment outcomes, and does not replace the care of doctors or hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

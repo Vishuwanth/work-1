@@ -1,0 +1,64 @@
+{
+  "pillar": "Targeted Therapy Based on NGS",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: targeted-therapy-based-on-ngs",
+  "route": "⚠ VERIFY: /insights/targeted-therapy-based-on-ngs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy Based on NGS",
+    "intro": "These answers explain how next-generation sequencing (NGS) helps identify targeted therapy options, who may benefit, and what patients and caregivers should know before making decisions with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding NGS-Guided Targeted Therapy",
+        "items": [
+          {
+            "q": "What is targeted therapy based on NGS?",
+            "a": "<p>Targeted therapy based on NGS uses next-generation sequencing to read many cancer-related genes at once and find specific mutations that a drug can act against. Instead of treating all tumors the same way, this approach matches a patient to therapies designed for their tumor's molecular profile. Whether a matched drug is suitable depends on cancer type, stage, biomarker results, previous treatment, and specialist review.</p>"
+          },
+          {
+            "q": "How does NGS testing guide targeted therapy?",
+            "a": "<p>NGS testing guides targeted therapy by scanning tumor DNA or RNA for actionable changes such as mutations, fusions, amplifications, or biomarkers like EGFR, ALK, BRAF, HER2, or microsatellite instability. When an actionable alteration is found, the oncology team can consider a drug that targets it. Not every result leads to a matched therapy, and final treatment choices are made by the treating medical team after full review.</p>"
+          },
+          {
+            "q": "How is targeted therapy different from chemotherapy?",
+            "a": "<p>Targeted therapy differs from chemotherapy by acting on specific molecular changes inside cancer cells, while chemotherapy affects rapidly dividing cells more broadly. Because targeted drugs are matched to a tumor's biomarker profile identified through NGS, they may cause a different side-effect pattern. Targeted therapy is not suitable for every patient, and it may be used alone or alongside other treatments depending on the specialist's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for NGS-guided targeted therapy?",
+            "a": "<p>Eligibility for NGS-guided targeted therapy depends on whether the tumor carries an actionable biomarker that a matched drug can target. Patients with advanced, recurrent, or hard-to-treat cancers are often considered for NGS testing, but suitability varies by cancer type, stage, previous treatment, and overall health. A qualified oncology team reviews the sequencing report and decides whether a targeted option is appropriate for each individual patient.</p>"
+          },
+          {
+            "q": "What samples or reports are needed for NGS testing?",
+            "a": "<p>NGS testing usually needs a tumor tissue sample from a biopsy or surgery, and in some cases a blood sample for liquid biopsy. Recent pathology reports, imaging, and prior treatment history help the laboratory and oncologist interpret the results. Sample quality and quantity can affect whether testing is possible. The treating team confirms which sample type and reports are required before sequencing begins.</p>"
+          },
+          {
+            "q": "What are the benefits and limitations of NGS-based targeted therapy?",
+            "a": "<p>The main benefit of NGS-based targeted therapy is the chance to match treatment to a tumor's specific biomarkers, which may improve response in selected patients. Limitations include that not all tumors have an actionable target, matched drugs may not be available or approved everywhere, and resistance can develop over time. Benefits, risks, and side effects should always be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does NGS testing and targeted therapy cost?",
+            "a": "<p>The cost of NGS testing and targeted therapy varies widely and cannot be quoted as a fixed figure. Final cost depends on the laboratory, panel size, hospital, cancer type, the specific drug, treatment duration, and any additional tests or complications. Some regions offer broader panels or drug-access programs than others. Patients should request a detailed, written estimate from the treating hospital before starting testing or treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy based on NGS?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers offering NGS testing, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to specific tests or targeted drugs depends on medical review and hospital acceptance.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

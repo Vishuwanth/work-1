@@ -1,0 +1,64 @@
+{
+  "pillar": "Countries Offering Gene Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: countries-offering-gene-therapy",
+  "route": "⚠ VERIFY: /insights/countries-offering-gene-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Countries Offering Gene Therapy",
+    "intro": "Gene therapy for cancer is offered in a growing number of countries, but approvals, available products, and costs differ widely. These answers explain where these treatments exist and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy Availability",
+        "items": [
+          {
+            "q": "What is gene therapy for cancer?",
+            "a": "<p>Gene therapy for cancer is a treatment that modifies genes inside or outside the body to help fight cancer, most commonly through CAR T-cell therapy. It may be considered for selected patients with certain blood cancers or some solid tumours after standard treatments. Availability, approvals, and specific products differ by country, and suitability depends on cancer type, stage, biomarker profile, previous treatment, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer gene therapy for cancer?",
+            "a": "<p>Several countries offer approved or trial-based cancer gene therapies, including the United States, China, India, Japan, South Korea, Singapore, and parts of Europe such as Germany, Spain, and the United Kingdom. The specific therapies, approvals, and clinical trials available vary widely between countries. Access depends on regulatory approval, hospital capability, eligibility criteria, and medical review, and options should be discussed with a qualified oncology team before making any travel or treatment decisions.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Eligibility, and Cost",
+        "items": [
+          {
+            "q": "Is gene therapy for cancer available in India?",
+            "a": "<p>Yes, gene therapy for cancer is available in India, including an approved indigenous CAR T-cell therapy and treatment at selected specialised centres. India is increasingly seen as a lower-cost destination for certain cell and gene therapies. Availability depends on cancer type, product approval, and hospital acceptance, and eligibility is decided after medical record review. Final treatment decisions should be made by the treating oncology team based on the patient's full clinical picture.</p>"
+          },
+          {
+            "q": "How much does gene therapy for cancer cost?",
+            "a": "<p>The cost of cancer gene therapy varies widely by country, ranging from roughly USD 30,000–50,000 in India to USD 350,000–500,000 or more in the United States for CAR T-cell therapy. These are rough estimates only. Final cost depends on the hospital, diagnosis, stage, tests, treatment protocol, complications, length of stay, and treating team advice, and it usually does not include travel, accommodation, or follow-up care.</p>"
+          },
+          {
+            "q": "Who is eligible for gene therapy for cancer?",
+            "a": "<p>Eligibility for cancer gene therapy depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and it may be suitable for selected patients only. Many approved therapies, such as CAR T-cell treatment, target specific blood cancers like certain leukaemias, lymphomas, and myeloma. Some patients access newer options through clinical trials with strict inclusion and exclusion criteria. Final eligibility should be assessed and confirmed by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Accessing Treatment Abroad",
+        "items": [
+          {
+            "q": "How can international patients access gene therapy in another country?",
+            "a": "<p>International patients can access gene therapy abroad by first having their medical reports reviewed by a specialist centre to confirm possible eligibility. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition, none of which can be guaranteed. Practical steps usually include arranging a second opinion, an estimated cost, travel planning, and follow-up care. Treatment decisions are always made by the treating medical team after full assessment.</p>"
+          },
+          {
+            "q": "Are cancer gene therapies approved or still experimental?",
+            "a": "<p>Some cancer gene therapies are formally approved, while many others remain experimental and are available only through clinical trials. Approved CAR T-cell therapies exist for selected blood cancers in several countries, but approvals differ by region and product. Trials may have strict inclusion and exclusion criteria, and enrolment or benefit cannot be guaranteed. Whether an approved therapy or a trial is appropriate should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with countries offering gene therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,64 @@
+{
+  "pillar": "How Gene Therapy Works",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: how-gene-therapy-works",
+  "route": "⚠ VERIFY: /insights/how-gene-therapy-works",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How Gene Therapy Works",
+    "intro": "Gene therapy is an evolving approach that treats cancer by changing the genetic instructions inside cells. These FAQs explain how it works, who it may suit, and what patients should know about safety, cost, and access.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy",
+        "items": [
+          {
+            "q": "What is gene therapy for cancer?",
+            "a": "<p>Gene therapy for cancer is a treatment that changes the genetic material inside cells to help fight disease. It may work by correcting faulty genes, adding new genes that support the immune system, or switching off genes that allow cancer to grow. Gene therapy is still an evolving field and may be suitable for selected patients depending on cancer type, stage, biomarker profile, and specialist review. Final decisions should be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does gene therapy work?",
+            "a": "<p>Gene therapy works by delivering new or modified genetic instructions into cells so they behave differently against cancer. Doctors often use a harmless carrier, such as a modified virus or a laboratory process, to carry genes into target cells. These changes may help cells make cancer-fighting proteins, repair damaged genes, or train immune cells to recognize tumors. The exact method depends on cancer type, treatment goal, and specialist assessment by the treating team.</p>"
+          },
+          {
+            "q": "What are the main types of gene therapy used in cancer?",
+            "a": "<p>The main types of gene therapy in cancer include gene transfer, gene editing, and gene-modified cell therapies such as CAR T-cell treatment. Gene transfer adds helpful genes to cells, gene editing corrects or removes faulty ones, and cell-based approaches reprogram a patient's own immune cells to target cancer. Which approach may be considered depends on cancer type, stage, biomarker profile, previous treatment, and review by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Response",
+        "items": [
+          {
+            "q": "Is gene therapy suitable for all cancer patients?",
+            "a": "<p>Gene therapy is not suitable for all cancer patients and is currently used for selected cancers and specific situations. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, overall health, and specialist review. Some gene therapies are approved for certain blood cancers, while many others remain in clinical trials. Whether gene therapy may be considered for a particular patient should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the possible risks or side effects of gene therapy?",
+            "a": "<p>Like all cancer treatments, gene therapy can cause side effects, and these vary by the type used. Possible reactions may include fever, flu-like symptoms, immune-related inflammation, or, with some cell therapies, cytokine release syndrome and neurological effects. Long-term risks are still being studied because gene therapy is a newer field. Side effects should be monitored closely by the treating medical team, and final treatment decisions should be made after specialist review.</p>"
+          },
+          {
+            "q": "How long does gene therapy take to work?",
+            "a": "<p>The time gene therapy takes to work depends on the type of treatment and the individual patient. Some gene-modified cell therapies may show responses within weeks, while other approaches act more gradually. Response is not guaranteed and is monitored through scans, blood tests, and clinical review. How well and how quickly a patient responds depends on cancer type, stage, overall health, and assessment by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does gene therapy cost and where is it available?",
+            "a": "<p>The cost of gene therapy varies widely and can be significant because these treatments are complex and often personalized. Final cost depends on the hospital, country, cancer type, specific therapy, tests, length of stay, and any complications. Availability also differs, as some gene therapies are approved in certain countries while others are offered only through clinical trials. Access depends on medical review, hospital acceptance, and, for international patients, travel and visa factors.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not provide treatment directly and does not guarantee hospital acceptance, clinical trial enrollment, or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

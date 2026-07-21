@@ -1,0 +1,114 @@
+{
+  "pillar": "How to read an NGS (next-generation sequencing) cancer report",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: how-to-read-an-ngs-next-generation-sequencing-cancer-report",
+  "route": "⚠ VERIFY: /<section>/how-to-read-an-ngs-next-generation-sequencing-cancer-report",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How to Read an NGS Cancer Report",
+    "intro": "Next-generation sequencing (NGS) reports can look complex, but understanding the key sections helps patients and caregivers have clearer conversations with their oncology team. These answers explain common terms, the testing process, costs, and how international patients can use their results.",
+    "groups": [
+      {
+        "title": "Understanding NGS Cancer Reports",
+        "items": [
+          {
+            "q": "What is an NGS cancer report?",
+            "a": "<p>An NGS cancer report is a laboratory document that lists genetic changes found in a tumor using next-generation sequencing, a technology that reads many genes at once. It typically highlights mutations, gene fusions, and biomarkers that may guide targeted therapy or immunotherapy decisions. The report is only one part of a full diagnosis and should be interpreted by a qualified oncology team alongside pathology, imaging, and clinical history.</p>"
+          },
+          {
+            "q": "What information does an NGS report contain?",
+            "a": "<p>An NGS report usually contains the list of genes tested, detected mutations or variants, and biomarkers such as tumor mutational burden and microsatellite instability. It may also note matched targeted or immunotherapy options, variants of uncertain significance, and relevant clinical trials. The exact content depends on the testing panel and laboratory, so interpretation should always be confirmed with the treating oncology team before any treatment decision is made.</p>"
+          },
+          {
+            "q": "What is the difference between a mutation and a variant of uncertain significance?",
+            "a": "<p>A variant of uncertain significance (VUS) is a genetic change whose effect on cancer is not yet clearly understood, unlike a known mutation with established clinical meaning. NGS reports separate confirmed, actionable mutations from VUS findings to help avoid over-treatment. A VUS may be reclassified later as more research emerges. What any variant means for your care depends on cancer type and should be reviewed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What does tumor mutational burden (TMB) mean on my report?",
+            "a": "<p>Tumor mutational burden (TMB) measures how many mutations are present in a tumor's DNA and is usually reported as mutations per megabase. A higher TMB may suggest that a tumor could respond to immunotherapy in selected patients, though results vary by cancer type. TMB is only one biomarker among several on an NGS report. Whether it affects your treatment depends on your full clinical picture and specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who should get NGS testing?",
+            "a": "<p>NGS testing may be considered for patients with advanced, metastatic, or hard-to-treat cancers, or when standard treatment options are limited. It is also used for certain cancers where targeted therapy or immunotherapy depends on specific biomarkers. Eligibility depends on cancer type, stage, tissue availability, and prior treatment. Whether NGS testing is appropriate should be discussed with a qualified oncology team who can weigh its potential benefit for your situation.</p>"
+          },
+          {
+            "q": "How is a sample collected for NGS testing?",
+            "a": "<p>An NGS test can be performed on a tissue sample from a tumor biopsy or surgery, or on a blood sample known as a liquid biopsy. Tissue testing usually needs enough good-quality tumor material, while blood testing detects tumor DNA circulating in the bloodstream. The choice depends on cancer type, tumor location, and sample availability, and should be decided by the treating medical team based on each patient's situation.</p>"
+          },
+          {
+            "q": "How long does an NGS cancer report take?",
+            "a": "<p>An NGS cancer report typically takes about one to three weeks from sample submission, though timing varies by laboratory, panel size, and sample quality. Larger gene panels and cases needing repeat sampling may take longer. Because results can influence treatment planning, it helps to ask your laboratory or oncology team for an expected turnaround time. Final timing depends on the testing center and the complexity of your case.</p>"
+          },
+          {
+            "q": "Is NGS testing safe, and does it replace a biopsy?",
+            "a": "<p>NGS testing itself does not require a separate procedure if suitable tissue from an existing biopsy or surgery is available, so it usually adds no extra risk. When fresh tissue or blood is needed, the sampling carries the usual, generally low risks of those procedures. NGS complements rather than replaces standard pathology and imaging. Testing decisions should be made by a qualified oncology team based on your overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does NGS testing cost?",
+            "a": "<p>The cost of NGS testing varies widely depending on the panel size, laboratory, and country, ranging from a few hundred to several thousand US dollars. Larger comprehensive panels generally cost more than smaller targeted ones. Final cost depends on the hospital, the specific test, sample type, and any additional analysis required. Patients should confirm pricing and possible insurance coverage directly with the testing laboratory or treating center before proceeding.</p>"
+          },
+          {
+            "q": "Is NGS testing available in India?",
+            "a": "<p>NGS testing is available in India at several major cancer centers and specialized diagnostic laboratories, often at a lower cost than in many Western countries. Both tissue and liquid biopsy panels may be offered, depending on the laboratory. Availability of a specific panel and turnaround time can vary between centers. Patients should confirm which panels a laboratory offers and whether their sample is suitable with the treating oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer NGS cancer testing?",
+            "a": "<p>NGS cancer testing is offered in many countries, including the United States, India, China, Singapore, Germany, and other centers with advanced molecular pathology laboratories. Some patients also send samples internationally to specialized reference laboratories. Panel options, turnaround times, and costs differ between countries and labs. Where to test depends on sample logistics, cost, and your care plan, and should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What are actionable mutations on an NGS report?",
+            "a": "<p>Actionable mutations are genetic changes on an NGS report that have a matched targeted therapy or may guide treatment selection. Examples include changes in genes such as EGFR, ALK, BRAF, or HER2, depending on cancer type. An actionable mutation does not guarantee that a drug will work or be accessible. Whether a matched therapy is suitable depends on cancer type, approval status, and review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can an NGS report help me find a clinical trial?",
+            "a": "<p>An NGS report can help identify clinical trials that are studying treatments for specific mutations or biomarkers found in your tumor. Some reports list potentially relevant trials automatically. However, matching a mutation does not guarantee trial enrollment or benefit, since trials have strict inclusion and exclusion criteria. Eligibility is decided after medical record review and investigator assessment. Trial options should be explored with your oncology team and the trial site.</p>"
+          },
+          {
+            "q": "What is liquid biopsy NGS?",
+            "a": "<p>Liquid biopsy NGS analyzes tumor DNA circulating in a blood sample instead of requiring a tissue biopsy. It may be useful when tumor tissue is difficult to obtain or when doctors want to monitor changes over time. Liquid biopsy can sometimes miss mutations present at low levels, so a negative result may need tissue confirmation. Whether it is appropriate depends on cancer type and should be decided by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports do I need alongside my NGS report for a second opinion?",
+            "a": "<p>For a second opinion alongside your NGS report, oncologists usually also need your pathology report, imaging scans, previous treatment summary, and recent blood tests. These provide the full clinical context needed to interpret genetic findings accurately. An NGS report alone rarely gives the complete picture. Gathering complete, up-to-date records helps a specialist review your case, though final treatment decisions are made by the treating oncology team after review.</p>"
+          },
+          {
+            "q": "How do I share my NGS report with an oncologist abroad?",
+            "a": "<p>You can share an NGS report with an oncologist abroad by sending a clear digital copy of the full laboratory PDF, ideally with your pathology and imaging reports. Complete records help the specialist interpret the findings in context. Some centers may request the original sample or additional testing. Access to treatment abroad depends on hospital acceptance, medical review, and other factors, and should be coordinated with the treating team.</p>"
+          },
+          {
+            "q": "What should I ask my oncologist about my NGS report?",
+            "a": "<p>Helpful questions about your NGS report include which mutations were found, whether any are actionable, and whether a targeted therapy or immunotherapy may be an option for you. You can also ask about relevant clinical trials, whether repeat testing is needed, and what the biomarkers mean for your prognosis. Answers depend on cancer type, stage, and overall health, and should come from your qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with reading an NGS cancer report?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to NGS testing and its results. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

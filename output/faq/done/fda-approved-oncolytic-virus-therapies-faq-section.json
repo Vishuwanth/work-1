@@ -1,0 +1,68 @@
+{
+  "pillar": "FDA-Approved Oncolytic Virus Therapies",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: fda-approved-oncolytic-virus-therapies",
+  "route": "⚠ VERIFY: /insights/fda-approved-oncolytic-virus-therapies",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About FDA-Approved Oncolytic Virus Therapies",
+    "intro": "Oncolytic virus therapies are treatments that use modified viruses to destroy cancer cells and stimulate the immune system. These FAQs explain which oncolytic viruses have FDA approval, how they are used, and how patients can explore them safely.",
+    "groups": [
+      {
+        "title": "Understanding FDA-Approved Oncolytic Virus Therapies",
+        "items": [
+          {
+            "q": "What are FDA-approved oncolytic virus therapies?",
+            "a": "<p>FDA-approved oncolytic virus therapies are treatments using laboratory-modified viruses that infect and destroy cancer cells while activating the immune system. The main FDA-approved example is talimogene laherparepvec (T-VEC, or Imlygic), a modified herpes virus for certain advanced melanomas. A modified adenovirus, nadofaragene firadenovec (Adstiladrin), is approved for a form of bladder cancer. Suitability depends on cancer type, stage, and specialist review, and these therapies are used only for selected approved indications.</p>"
+          },
+          {
+            "q": "Which oncolytic virus therapy is FDA-approved for melanoma?",
+            "a": "<p>Talimogene laherparepvec (T-VEC), sold as Imlygic, is the FDA-approved oncolytic virus therapy for melanoma. It is a modified herpes simplex virus injected directly into skin, subcutaneous, or lymph node tumors that cannot be removed by surgery. It may be considered for selected patients with advanced, injectable melanoma lesions. Responses vary between patients, and whether it is appropriate depends on tumor location, previous treatment, and assessment by the treating oncology team.</p>"
+          },
+          {
+            "q": "Is there an FDA-approved oncolytic virus for bladder cancer?",
+            "a": "<p>Yes, nadofaragene firadenovec (Adstiladrin) is an FDA-approved gene-based oncolytic viral therapy for high-risk, BCG-unresponsive non-muscle-invasive bladder cancer. It uses a modified adenovirus delivered into the bladder to help cells produce a protein that fights cancer. It may be suitable for selected patients whose disease has not responded to standard BCG treatment. Eligibility depends on tumor stage, prior therapy, and evaluation by a urology and oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How They Work, Benefits, and Safety",
+        "items": [
+          {
+            "q": "How do FDA-approved oncolytic viruses treat cancer?",
+            "a": "<p>FDA-approved oncolytic viruses treat cancer by selectively infecting tumor cells, multiplying inside them, and causing them to burst, which releases signals that help the immune system recognize the cancer. Some, such as T-VEC, are engineered to produce immune-stimulating proteins like GM-CSF. This may affect injected tumors and, in some patients, prompt a broader immune response. Results differ between patients and depend on the disease, its location, and overall health.</p>"
+          },
+          {
+            "q": "What are the benefits and side effects of oncolytic virus therapy?",
+            "a": "<p>The potential benefit of oncolytic virus therapy is shrinking treated tumors and, in some patients, encouraging a wider immune response against cancer. Common side effects are usually mild and flu-like, including fever, chills, fatigue, nausea, and injection-site reactions. Responses are not guaranteed and vary from person to person. Any treatment plan, including expected benefits and possible risks, should be discussed with a qualified oncology team before starting therapy.</p>"
+          },
+          {
+            "q": "Are FDA-approved oncolytic viruses used with other cancer treatments?",
+            "a": "<p>FDA-approved oncolytic viruses are often studied and used alongside other treatments, particularly immunotherapy such as checkpoint inhibitors, to see whether combining approaches improves the immune response. They do not replace standard treatments like surgery, chemotherapy, or targeted therapy and are generally part of an overall plan for selected patients. Whether a combination is appropriate depends on the cancer type, biomarker profile, previous treatment, and review by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Clinical Trials",
+        "items": [
+          {
+            "q": "How can international patients access FDA-approved oncolytic virus therapies?",
+            "a": "<p>International patients may access FDA-approved oncolytic virus therapies at specialized cancer centers in countries where they are licensed, or through clinical trials elsewhere. Access depends on hospital acceptance, medical record review, travel fitness, visa approval, and the patient's condition. Because availability and approval differ by country, patients should confirm current options with the treating center. Admission, treatment acceptance, cost, and outcomes cannot be guaranteed and are decided after full medical evaluation.</p>"
+          },
+          {
+            "q": "Are new oncolytic virus therapies available through clinical trials?",
+            "a": "<p>Yes, many oncolytic virus therapies beyond those already FDA-approved are being evaluated in clinical trials for cancers such as brain, liver, and lung tumors, often combined with immunotherapy. Trials have strict inclusion and exclusion criteria, and enrollment is decided only after medical record review and investigator assessment. Participation does not guarantee benefit or acceptance. Patients interested in trials should discuss options with their oncology team and provide up-to-date pathology and imaging.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with FDA-approved oncolytic virus therapies?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee treatment acceptance or outcomes and works to support patients through each step of the process.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

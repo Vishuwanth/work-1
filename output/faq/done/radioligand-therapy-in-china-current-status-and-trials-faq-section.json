@@ -1,0 +1,114 @@
+{
+  "pillar": "Radioligand Therapy in China: Current Status and Trials",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: radioligand-therapy-in-china-current-status-and-trials",
+  "route": "⚠ VERIFY: /<section>/radioligand-therapy-in-china-current-status-and-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Radioligand Therapy in China",
+    "intro": "Radioligand therapy is a form of targeted radiation increasingly studied and offered at select Chinese cancer centres. These FAQs explain its current status, access, and clinical trials for international patients.",
+    "groups": [
+      {
+        "title": "Understanding Radioligand Therapy in China",
+        "items": [
+          {
+            "q": "What is radioligand therapy?",
+            "a": "<p>Radioligand therapy is a targeted cancer treatment that delivers radiation directly to tumour cells. It combines a targeting molecule (ligand) that binds to specific receptors on cancer cells with a radioactive isotope that damages those cells. This approach, part of theranostics, aims to spare healthy tissue. It may be considered for selected cancers such as prostate cancer and neuroendocrine tumours, depending on receptor expression and specialist review.</p>"
+          },
+          {
+            "q": "What is the current status of radioligand therapy in China?",
+            "a": "<p>Radioligand therapy in China is an evolving field, offered mainly through leading academic hospitals, nuclear medicine departments, and clinical trials. Some agents, such as those targeting PSMA and somatostatin receptors, are used in research or specialist settings, while regulatory approvals continue to develop. Availability varies by centre and cancer type, and treatment should always be discussed with a qualified oncology and nuclear medicine team.</p>"
+          },
+          {
+            "q": "Which cancers may be treated with radioligand therapy in China?",
+            "a": "<p>Radioligand therapy is most studied for metastatic prostate cancer and neuroendocrine tumours. In China, PSMA-targeted therapy such as Lu-177 PSMA may be explored for advanced prostate cancer, while Lu-177 DOTATATE targets somatostatin receptors in neuroendocrine tumours. Suitability depends on cancer type, stage, receptor status confirmed by imaging, previous treatment, and overall health, and must be assessed by the treating medical team.</p>"
+          },
+          {
+            "q": "How does radioligand therapy differ from chemotherapy?",
+            "a": "<p>Radioligand therapy differs from chemotherapy by delivering radiation to cancer cells that carry a specific target, rather than affecting rapidly dividing cells throughout the body. This targeted mechanism may reduce some side effects, though it is not free of risks. It is generally used for selected advanced cancers after other treatments, and whether it suits a patient depends on receptor status, prior therapy, and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for radioligand therapy?",
+            "a": "<p>Eligibility for radioligand therapy depends on cancer type, stage, receptor expression, previous treatment, kidney and bone marrow function, and overall health. Patients usually need imaging, such as a PSMA or DOTATATE scan, to confirm the target is present before treatment. Not all patients qualify, and final decisions are made by a qualified oncology and nuclear medicine team after reviewing reports and the patient's condition.</p>"
+          },
+          {
+            "q": "How does the radioligand therapy process work?",
+            "a": "<p>The radioligand therapy process usually begins with a diagnostic scan to confirm the tumour target, followed by treatment given as an intravenous infusion in a nuclear medicine facility. Therapy is often delivered in several cycles, spaced weeks apart, with blood tests and imaging between cycles. Patients may need short precautions after each dose due to residual radioactivity. The exact schedule depends on the protocol and treating team.</p>"
+          },
+          {
+            "q": "What are the side effects of radioligand therapy?",
+            "a": "<p>Common side effects of radioligand therapy may include fatigue, nausea, dry mouth, temporary drops in blood counts, and mild kidney effects. Because radiation is delivered to targeted cells, some healthy tissue can still be affected. Side effects vary by agent, dose, and patient health, and are monitored through regular blood tests. Any symptoms should be discussed promptly with the treating oncology and nuclear medicine team.</p>"
+          },
+          {
+            "q": "Is radioligand therapy safe for all cancer patients?",
+            "a": "<p>Radioligand therapy is not suitable for all cancer patients and is generally considered for selected advanced cancers with a confirmed molecular target. Safety depends on kidney function, blood counts, prior treatments, and overall condition, so careful screening is required. It is delivered under specialist supervision with radiation-safety measures. Whether it is appropriate should be decided by a qualified oncology team after full review of the patient's records.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access and Countries",
+        "items": [
+          {
+            "q": "How much does radioligand therapy cost in China?",
+            "a": "<p>The cost of radioligand therapy in China varies widely and cannot be quoted as a fixed figure. Final cost depends on the specific agent, number of cycles, hospital, diagnostic scans, hospital stay, supportive care, and any complications. International patients should also factor in travel, accommodation, and follow-up. An accurate estimate can only be given after a hospital reviews the patient's diagnosis, reports, and proposed treatment plan.</p>"
+          },
+          {
+            "q": "How can international patients access radioligand therapy in China?",
+            "a": "<p>International patients may access radioligand therapy in China through selected hospitals with nuclear medicine and oncology departments, often after a medical record review. Access depends on hospital acceptance, confirmation of a suitable target, visa approval, travel fitness, and the patient's overall condition. Because availability and eligibility vary, patients should arrange a specialist assessment in advance rather than assuming treatment will be offered.</p>"
+          },
+          {
+            "q": "Which other countries offer radioligand therapy?",
+            "a": "<p>Radioligand therapy is available in several countries, including Germany, India, the United States, and parts of Europe and Asia, alongside research programmes in China. Some agents are approved in specific regions while remaining investigational elsewhere. The choice of country depends on the required agent, cost, waiting time, travel considerations, and eligibility. A comparison of centres should be discussed with the treating medical team and only after reviewing the patient's records.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Are there radioligand therapy clinical trials in China?",
+            "a": "<p>Yes, several radioligand therapy clinical trials are conducted in China, particularly for PSMA-targeted and somatostatin-receptor-targeted agents in prostate cancer and neuroendocrine tumours. These trials often study new isotopes, dosing, and combinations. Trials have strict inclusion and exclusion criteria, and enrolment is decided only after medical record review and investigator assessment. Participation cannot be guaranteed, and eligibility depends on cancer type, prior treatment, and health.</p>"
+          },
+          {
+            "q": "What newer radioligand agents are being studied in China?",
+            "a": "<p>Newer radioligand agents under study in China include therapies using isotopes such as Lutetium-177 and, in research settings, alpha-emitting isotopes like Actinium-225, paired with targeting molecules for PSMA or somatostatin receptors. These are being evaluated for effectiveness and safety in advanced cancers. Because many remain investigational, availability is limited to specific trials or centres, and use should be guided by a qualified specialist team.</p>"
+          },
+          {
+            "q": "How is eligibility for a radioligand therapy trial decided?",
+            "a": "<p>Eligibility for a radioligand therapy trial is decided after the investigator reviews the patient's medical records, imaging, pathology, and receptor status against the trial's inclusion and exclusion criteria. Factors such as cancer type, stage, prior treatments, organ function, and overall health are assessed. Meeting the criteria does not guarantee enrolment or benefit, and screening tests at the trial centre may be required before a final decision.</p>"
+          },
+          {
+            "q": "Can radioligand therapy be combined with other treatments?",
+            "a": "<p>Radioligand therapy may be combined with other treatments such as hormone therapy or, in trials, with other targeted or immune-based approaches, depending on the cancer type and protocol. Combinations are studied to improve outcomes but can also affect side effects and safety. Whether a combination is appropriate depends on the patient's diagnosis, prior therapy, and overall health, and must be decided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed to explore radioligand therapy in China?",
+            "a": "<p>To explore radioligand therapy in China, patients usually need recent pathology reports, imaging such as PSMA or DOTATATE scans, blood tests including kidney function and blood counts, and a summary of previous treatments. These records help specialists confirm whether a suitable target is present and assess fitness for therapy. Requirements vary by centre and cancer type, so a specialist review is needed to confirm what is required.</p>"
+          },
+          {
+            "q": "Should international patients get a second opinion before travelling?",
+            "a": "<p>A second opinion is strongly advisable before travelling for radioligand therapy, as it helps confirm the diagnosis, verify that a suitable molecular target is present, and clarify whether the treatment is appropriate. It can also compare options across countries and centres. Because radioligand therapy suits only selected patients, an independent specialist review helps avoid unnecessary travel and ensures decisions are guided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with radioligand therapy in China?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support for radioligand therapy in China. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, receptor status, previous treatment, and overall health. Access, eligibility, and outcomes cannot be guaranteed and depend on specialist assessment.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

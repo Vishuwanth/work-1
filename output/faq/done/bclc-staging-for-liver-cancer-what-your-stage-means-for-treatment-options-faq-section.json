@@ -1,0 +1,114 @@
+{
+  "pillar": "BCLC staging for liver cancer: what your stage means for treatment options",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: bclc-staging-for-liver-cancer-what-your-stage-means-for-treatment-options",
+  "route": "⚠ VERIFY: /<section>/bclc-staging-for-liver-cancer-what-your-stage-means-for-treatment-options",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About BCLC Staging for Liver Cancer",
+    "intro": "BCLC staging helps match liver cancer treatment to a patient's tumour burden, liver function, and overall health. These answers explain what each stage means and how it guides treatment decisions.",
+    "groups": [
+      {
+        "title": "Understanding BCLC Staging",
+        "items": [
+          {
+            "q": "What is BCLC staging for liver cancer?",
+            "a": "<p>BCLC staging is a system used to classify hepatocellular carcinoma, the most common type of liver cancer, and guide treatment choices. Developed by the Barcelona Clinic Liver Cancer group, it combines tumour size and number, liver function, and the patient's general fitness into five stages, from 0 to D. Unlike some systems, BCLC links each stage directly to recommended treatment options, which should always be confirmed by a specialist liver team.</p>"
+          },
+          {
+            "q": "What are the five BCLC stages?",
+            "a": "<p>The five BCLC stages are 0 (very early), A (early), B (intermediate), C (advanced), and D (terminal). Stage 0 and A describe small, limited tumours with preserved liver function. Stage B covers larger or multiple tumours still confined to the liver. Stage C involves spread to blood vessels or other organs, and stage D reflects severe liver failure or poor general health. Staging should be reviewed by a treating oncology team.</p>"
+          },
+          {
+            "q": "Why is BCLC staging important for treatment planning?",
+            "a": "<p>BCLC staging is important because it links each stage to a suggested treatment pathway, helping doctors recommend suitable options. It considers not only the tumour but also how well the liver is working and the patient's overall condition, which strongly affect what treatments are safe. This makes it one of the most widely used systems for liver cancer. Final decisions depend on specialist review and individual circumstances.</p>"
+          },
+          {
+            "q": "How is BCLC staging different from TNM staging?",
+            "a": "<p>BCLC staging differs from TNM staging by including liver function and patient fitness, not just tumour spread. TNM focuses on tumour size, lymph node involvement, and metastasis, which suits many cancers. Liver cancer is unusual because underlying liver disease heavily influences prognosis and treatment safety. BCLC therefore combines tumour factors, liver reserve, and performance status, and it also suggests treatments. Your medical team may use both systems together during assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "What Each Stage Means for Treatment",
+        "items": [
+          {
+            "q": "What does BCLC stage 0 or A mean for treatment?",
+            "a": "<p>BCLC stage 0 and A describe early liver cancer that may be treated with curative-intent options. These can include surgical removal (resection), liver transplantation, or local ablation such as radiofrequency or microwave ablation. Suitability depends on tumour size and number, liver function, portal pressure, and overall health. Not every early-stage patient is a candidate for surgery, so the treating liver team decides the safest curative approach after full assessment.</p>"
+          },
+          {
+            "q": "What treatments are used for BCLC stage B liver cancer?",
+            "a": "<p>BCLC stage B, or intermediate liver cancer, is often treated with transarterial chemoembolization (TACE), which delivers chemotherapy and blocks blood supply to tumours. Some patients may be considered for transarterial radioembolization or, in selected cases, surgery or systemic therapy. Stage B is a broad group, so treatment varies with tumour burden and liver function. A specialist team decides the most appropriate option after reviewing imaging and overall condition.</p>"
+          },
+          {
+            "q": "How is BCLC stage C liver cancer treated?",
+            "a": "<p>BCLC stage C, or advanced liver cancer, usually involves systemic therapy because the cancer has spread to blood vessels or beyond the liver. Options may include immunotherapy combinations, such as atezolizumab plus bevacizumab, or targeted drugs like sorafenib or lenvatinib. Suitability depends on liver function, biomarker profile, and general fitness. These treatments aim to control disease and extend survival, and choices should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What does BCLC stage D mean?",
+            "a": "<p>BCLC stage D, or terminal stage, describes liver cancer with severe liver failure or very poor general health where active anti-cancer treatment may cause more harm than benefit. Care usually focuses on symptom relief and quality of life through best supportive and palliative care. In some situations, a small number of patients may still be assessed for transplantation. Decisions should always involve the treating team and the patient's wishes.</p>"
+          },
+          {
+            "q": "Can a patient move between BCLC stages?",
+            "a": "<p>Yes, a patient's BCLC stage can change over time as the tumour, liver function, or general health improves or worsens. For example, treatment that shrinks a tumour or improves liver function may allow options that were not previously suitable, sometimes called downstaging. Disease progression can also move a patient to a later stage. Regular reassessment by the liver team helps ensure treatment continues to match the current situation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Liver Function, and Safety",
+        "items": [
+          {
+            "q": "How does liver function affect BCLC staging and treatment?",
+            "a": "<p>Liver function strongly affects BCLC staging because damaged livers tolerate treatment poorly, even when tumours are small. Doctors often use the Child-Pugh score or ALBI grade to measure liver reserve. Good liver function may allow surgery, ablation, or aggressive therapy, while poor function may limit choices to gentler options or supportive care. This is why BCLC includes liver assessment, and why final eligibility depends on specialist review.</p>"
+          },
+          {
+            "q": "Is surgery possible at every BCLC stage?",
+            "a": "<p>No, surgery is not suitable at every BCLC stage and depends on tumour extent, liver function, and overall health. Resection or transplantation is mainly considered in early stages with preserved liver function and no major vascular invasion. In later stages, surgery is usually not recommended because the cancer has spread or the liver cannot safely tolerate an operation. A surgeon and liver team assess candidacy after detailed imaging and tests.</p>"
+          },
+          {
+            "q": "What tests are needed to determine BCLC stage?",
+            "a": "<p>Determining BCLC stage usually requires imaging, blood tests, and an assessment of general health. Contrast CT or MRI scans show tumour size, number, and any vascular or distant spread, while blood tests such as liver function panels and alpha-fetoprotein help evaluate liver reserve and tumour activity. Performance status measures fitness for treatment. In some cases a biopsy is done. Your medical team decides which tests are needed for accurate staging.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Are clinical trials available for different BCLC stages?",
+            "a": "<p>Clinical trials may be available across several BCLC stages, testing new drugs, combinations, or procedures for liver cancer. Eligibility is decided after review of medical records and investigator assessment, and trials often have strict inclusion and exclusion criteria based on stage, liver function, and prior treatment. Enrolment and benefit are never guaranteed. Patients interested in trials should discuss suitable options with their treating oncology team and review available studies.</p>"
+          },
+          {
+            "q": "What advanced therapies exist beyond standard BCLC recommendations?",
+            "a": "<p>Beyond standard BCLC pathways, advanced therapies may include newer immunotherapy combinations, next-generation targeted drugs, radioembolization, and combined treatment strategies studied in specialist centres. Some approaches aim to downstage tumours so that surgery or transplantation becomes possible. Availability depends on the country, hospital, and individual eligibility, and evidence continues to evolve. These options may be considered for selected patients and should be evaluated by a qualified multidisciplinary liver cancer team.</p>"
+          },
+          {
+            "q": "Can treatments be combined across BCLC stages?",
+            "a": "<p>Yes, treatments are sometimes combined or sequenced rather than used alone, depending on the patient's situation. For example, TACE may be paired with ablation or systemic therapy, and some patients receive treatment to downstage disease before surgery or transplantation. Combination strategies aim to improve tumour control while protecting liver function. Whether combined treatment is appropriate depends on stage, liver reserve, and specialist judgement from a multidisciplinary team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "Is BCLC staging used in hospitals worldwide?",
+            "a": "<p>Yes, BCLC staging is widely used by liver cancer specialists internationally and is referenced in many major treatment guidelines. However, some centres also apply other systems, such as TNM or regional staging tools, and treatment availability can differ between countries. This means the same BCLC stage might lead to slightly different recommendations depending on local resources and expertise. Patients seeking care abroad should confirm how their stage is interpreted.</p>"
+          },
+          {
+            "q": "What reports should international patients prepare for a staging opinion?",
+            "a": "<p>International patients seeking a staging opinion should prepare recent imaging, pathology, and blood test reports. Useful documents include CT or MRI scans with reports, liver function and alpha-fetoprotein results, any biopsy findings, and a summary of previous treatments. Clear, up-to-date records help specialists assess tumour extent and liver reserve accurately. Access to treatment abroad also depends on hospital acceptance, medical review, travel fitness, and visa approval, which cannot be guaranteed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with BCLC staging for liver cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Staging and treatment planning for liver cancer remain the responsibility of the treating medical team based on the individual patient's condition.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

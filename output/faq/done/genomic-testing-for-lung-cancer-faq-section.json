@@ -1,0 +1,64 @@
+{
+  "pillar": "Genomic Testing for Lung Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: genomic-testing-for-lung-cancer",
+  "route": "⚠ VERIFY: /insights/genomic-testing-for-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Genomic Testing for Lung Cancer",
+    "intro": "Genomic testing helps identify the specific gene changes driving a lung cancer, guiding targeted therapy and immunotherapy decisions. These FAQs explain what the test involves, who may benefit, and how results are used.",
+    "groups": [
+      {
+        "title": "Understanding Genomic Testing for Lung Cancer",
+        "items": [
+          {
+            "q": "What is genomic testing for lung cancer?",
+            "a": "<p>Genomic testing for lung cancer analyzes a tumor sample to identify specific gene mutations, fusions, and other changes that may be driving the cancer's growth. It helps oncologists understand the biology of an individual tumor, especially in non-small cell lung cancer. The results can guide whether targeted therapy or immunotherapy may be suitable options, and decisions are always made by the treating oncology team based on the full clinical picture.</p>"
+          },
+          {
+            "q": "Which biomarkers are commonly tested in lung cancer?",
+            "a": "<p>Common lung cancer biomarkers include EGFR, ALK, ROS1, BRAF, KRAS, MET, RET, NTRK, and PD-L1 expression. These markers are tested because approved targeted therapies or immunotherapies may be linked to specific results. Not every patient will have a mutation that matches an available treatment. The exact panel tested depends on cancer type, stage, tissue availability, and the laboratory used, and interpretation should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is the difference between NGS and single-gene testing?",
+            "a": "<p>Next-generation sequencing (NGS) examines many genes at once from a single sample, while single-gene testing checks one biomarker at a time. NGS can be efficient when several mutations need to be assessed and tissue is limited, whereas single-gene tests may be quicker for one specific marker. The most appropriate approach depends on cancer type, tissue quantity, urgency, cost, and local availability, and should be decided by the treating specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Samples, and Results",
+        "items": [
+          {
+            "q": "Who should consider genomic testing for lung cancer?",
+            "a": "<p>Genomic testing may be considered for many patients with non-small cell lung cancer, particularly advanced or metastatic adenocarcinoma, where targeted therapy options may exist. It may also be relevant when standard treatment stops working and further options are being explored. Eligibility depends on cancer type, stage, tissue availability, and overall health. Whether testing is appropriate for a particular patient should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What sample is needed for genomic testing?",
+            "a": "<p>Genomic testing usually requires a tumor tissue sample obtained from a biopsy or surgery, though a blood-based test called a liquid biopsy may be used in some situations. Liquid biopsy detects tumor DNA circulating in the blood and can be helpful when tissue is limited or hard to obtain. Sample choice depends on tumor location, disease stage, and laboratory requirements, and the treating team decides the most suitable option.</p>"
+          },
+          {
+            "q": "How long do genomic testing results take?",
+            "a": "<p>Genomic testing results typically take around one to three weeks, though timelines vary depending on the test type, laboratory, and sample quality. Comprehensive NGS panels may take longer than single-gene tests, and some samples need repeat processing. Because results guide treatment planning, oncologists may begin other care while awaiting them. Actual turnaround time depends on the testing facility and should be confirmed with the treating team or laboratory.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "Is genomic testing for lung cancer available in India, and what does it cost?",
+            "a": "<p>Genomic testing for lung cancer is available at many major hospitals and specialized laboratories in India, including comprehensive NGS panels and liquid biopsy options. Costs vary widely depending on the panel size, laboratory, sample type, and whether single-gene or broad testing is used. Because pricing depends on diagnosis, test choice, and hospital, final costs should be confirmed directly with the testing facility or treating oncology team before proceeding.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with genomic testing for lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or laboratories, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to genomic testing. Testing choices and treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to specific tests or centers depends on medical review and local availability.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

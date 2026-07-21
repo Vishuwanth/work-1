@@ -1,0 +1,68 @@
+{
+  "pillar": "What Are Cancer Vaccines?",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: what-are-cancer-vaccines",
+  "route": "⚠ VERIFY: /insights/what-are-cancer-vaccines",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Vaccines",
+    "intro": "Cancer vaccines are an evolving area of immunotherapy that aims to help the immune system recognize and fight cancer. These FAQs explain what they are, how they work, and how patients may access them.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Vaccines",
+        "items": [
+          {
+            "q": "What are cancer vaccines?",
+            "a": "<p>Cancer vaccines are a type of immunotherapy that trains the body's immune system to recognize and attack cancer cells. Unlike traditional vaccines that prevent infections, most cancer vaccines are therapeutic, meaning they are given to people already diagnosed with cancer to help control the disease. Some vaccines, such as those against HPV or hepatitis B, are preventive. Their suitability depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How do cancer vaccines work?",
+            "a": "<p>Cancer vaccines work by exposing the immune system to specific markers, called antigens, found on cancer cells. This helps the body identify these cells as abnormal and mount a targeted immune response against them. Some vaccines use tumor proteins, others use genetic material such as mRNA, and some use modified immune cells. Their effectiveness varies between patients and depends on the cancer type, tumor biology, and overall immune health.</p>"
+          },
+          {
+            "q": "Are cancer vaccines different from vaccines that prevent cancer?",
+            "a": "<p>Yes, cancer vaccines fall into two broad categories: preventive and therapeutic. Preventive vaccines, such as the HPV and hepatitis B vaccines, reduce the risk of cancers caused by certain viruses. Therapeutic vaccines are given after a cancer diagnosis to help the immune system fight existing tumor cells. Most vaccines used in cancer treatment today are therapeutic and are still being studied, so their use depends on specialist guidance and eligibility.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Types, Eligibility, and Safety",
+        "items": [
+          {
+            "q": "What types of cancer vaccines are available?",
+            "a": "<p>Several types of cancer vaccines are being developed and studied, including mRNA vaccines, peptide or protein vaccines, dendritic cell vaccines, and tumor cell vaccines. Some are personalized to a patient's unique tumor mutations, while others target shared cancer antigens. A few, such as sipuleucel-T for prostate cancer, are approved for specific situations. Availability depends on cancer type, biomarker profile, country, and whether treatment is offered within a clinical trial.</p>"
+          },
+          {
+            "q": "Who may be eligible for a cancer vaccine?",
+            "a": "<p>Eligibility for a cancer vaccine depends on the cancer type, stage, biomarker profile, previous treatments, and overall health. Some vaccines are approved only for specific cancers, while many are available only through clinical trials with strict inclusion and exclusion criteria. A patient's immune function and fitness for treatment are also considered. Final eligibility should be assessed by a qualified oncology team after reviewing medical records and diagnostic reports.</p>"
+          },
+          {
+            "q": "What are the possible side effects of cancer vaccines?",
+            "a": "<p>Cancer vaccines are generally considered to have milder side effects than chemotherapy, but reactions can still occur. Common effects include fever, fatigue, chills, and redness or soreness at the injection site. Less commonly, stronger immune reactions or inflammation may develop. Side effects vary depending on the vaccine type and the individual patient. Any symptoms should be discussed with the treating medical team, who can advise on monitoring and management.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Clinical Trials",
+        "items": [
+          {
+            "q": "Are cancer vaccines available outside clinical trials?",
+            "a": "<p>A few cancer vaccines are approved and available outside clinical trials for specific cancers, such as sipuleucel-T for certain prostate cancers and BCG for early bladder cancer. However, most therapeutic cancer vaccines, including many personalized and mRNA-based vaccines, are still experimental and accessible mainly through research studies. Availability differs by country and hospital, and suitability should be confirmed with a qualified oncology team after reviewing the patient's reports.</p>"
+          },
+          {
+            "q": "How can international patients access cancer vaccine clinical trials?",
+            "a": "<p>International patients may access cancer vaccine clinical trials by having their medical records reviewed against trial eligibility criteria at centers running the relevant studies. Access depends on hospital acceptance, investigator assessment, travel fitness, and visa approval, and enrollment is never guaranteed. Trials often have strict inclusion and exclusion criteria. Patients typically need detailed pathology, imaging, biomarker reports, and a treatment summary, which the treating and trial teams review before any decision.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer vaccines?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

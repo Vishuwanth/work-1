@@ -1,0 +1,118 @@
+{
+  "pillar": "Radioligand Therapy in Australia: Access and Centres",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: radioligand-therapy-in-australia-access-and-centres",
+  "route": "⚠ VERIFY: /<section>/radioligand-therapy-in-australia-access-and-centres",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Radioligand Therapy in Australia: Access and Centres",
+    "intro": "This FAQ explains how radioligand therapy works, where it is offered in Australia, and how patients and caregivers can explore access, eligibility, and cost. Final treatment decisions should always be made by a qualified oncology and nuclear medicine team.",
+    "groups": [
+      {
+        "title": "Understanding Radioligand Therapy",
+        "items": [
+          {
+            "q": "What is radioligand therapy?",
+            "a": "<p>Radioligand therapy is a targeted cancer treatment that combines a small targeting molecule with a radioactive isotope to deliver radiation directly to cancer cells. The targeting part binds to specific proteins on tumour cells, while the attached radioisotope damages those cells with minimal harm to surrounding healthy tissue. It is used mainly for certain prostate cancers and neuroendocrine tumours, and suitability depends on cancer type, biomarker profile, and specialist review.</p>"
+          },
+          {
+            "q": "How does radioligand therapy work in the body?",
+            "a": "<p>Radioligand therapy works by seeking out cancer cells that carry a specific target protein and releasing radiation at close range. After an intravenous infusion, the radioligand circulates and binds to targets such as PSMA on prostate cancer cells or somatostatin receptors on neuroendocrine tumours. The bound radiation then damages tumour DNA over time. Because targeting is protein-specific, healthy tissues that lack the target are generally less affected.</p>"
+          },
+          {
+            "q": "What is the difference between radioligand therapy and theranostics?",
+            "a": "<p>Theranostics is the broader concept of pairing diagnosis with treatment, while radioligand therapy is the treatment part of that approach. In practice, a diagnostic scan such as a PSMA-PET or DOTATATE-PET first confirms whether tumours carry the right target. If they do, a matching radioligand therapy delivers treatment to those same targets. This \"see it, treat it\" strategy helps specialists select patients who may be suitable for therapy.</p>"
+          },
+          {
+            "q": "Which cancers may be treated with radioligand therapy?",
+            "a": "<p>Radioligand therapy is most established for metastatic castration-resistant prostate cancer and gastroenteropancreatic neuroendocrine tumours. Lutetium-177 PSMA therapy targets prostate cancer cells, while Lutetium-177 DOTATATE targets somatostatin-receptor-positive neuroendocrine tumours. Research is exploring other cancers, but approved use remains limited to selected tumour types. Whether it may be considered depends on cancer type, stage, prior treatment, imaging results, and assessment by a nuclear medicine specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for radioligand therapy in Australia?",
+            "a": "<p>Eligibility for radioligand therapy is decided after imaging, blood tests, and specialist review confirm a suitable target and adequate organ function. Patients typically need a positive PSMA-PET or DOTATATE-PET scan showing the cancer expresses the therapy's target. Kidney and bone marrow function, prior treatments, and overall health are also assessed. Suitability may vary between individuals, and final decisions should be made by the treating oncology and nuclear medicine team.</p>"
+          },
+          {
+            "q": "What tests are needed before radioligand therapy?",
+            "a": "<p>Before radioligand therapy, patients usually undergo a targeted PET scan, blood tests, and kidney function assessment. The PET scan, such as a PSMA-PET or DOTATATE-PET, confirms whether tumours carry the therapy's target. Blood tests check bone marrow, kidney, and liver function to ensure treatment can be given safely. Recent scans and pathology reports are also reviewed. The exact tests required depend on cancer type and the treating centre's protocol.</p>"
+          },
+          {
+            "q": "How is radioligand therapy given?",
+            "a": "<p>Radioligand therapy is given as a slow intravenous infusion in a nuclear medicine department, usually over several treatment cycles. Each session typically takes a few hours, and cycles are commonly spaced several weeks apart. Some patients stay briefly for monitoring or radiation-safety reasons, depending on the isotope and local protocol. The number of cycles varies by cancer type and response, and is decided by the treating specialist team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of radioligand therapy?",
+            "a": "<p>Common side effects of radioligand therapy may include tiredness, nausea, dry mouth, and temporary drops in blood counts. Because the treatment is targeted, many patients tolerate it reasonably well, but effects on the kidneys, bone marrow, or salivary glands can occur. Side effects vary between individuals and depend on the isotope, dose, and overall health. Any symptoms should be discussed promptly with the treating oncology and nuclear medicine team.</p>"
+          },
+          {
+            "q": "Is radioligand therapy safe for people around the patient?",
+            "a": "<p>Radioligand therapy is generally safe for others when standard radiation-safety precautions are followed. Because patients carry a small amount of radioactivity for a short period, centres advise measures such as limiting close contact with young children and pregnant women, and careful bathroom hygiene for a few days. These precautions vary by isotope and dose. The treating nuclear medicine team provides specific written instructions for each patient after treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Centres in Australia",
+        "items": [
+          {
+            "q": "Where is radioligand therapy available in Australia?",
+            "a": "<p>Radioligand therapy is available at selected nuclear medicine and cancer centres across major Australian cities. Facilities in Melbourne, Sydney, Brisbane, Perth, and Adelaide, including specialised theranostics services and larger public and private cancer centres, may offer Lutetium-177 PSMA or DOTATATE therapy. Availability and the specific treatments offered vary by centre and can change over time, so patients should confirm current services directly with the chosen facility.</p>"
+          },
+          {
+            "q": "Is radioligand therapy approved in Australia?",
+            "a": "<p>Some radioligand therapies are approved for use in Australia, while others may be accessed through clinical trials or special programs. Lutetium-177 DOTATATE for neuroendocrine tumours and Lutetium-177 PSMA for prostate cancer are used in Australian centres, though funding and approval status can differ by therapy and indication. Regulatory and reimbursement details change over time, so patients should confirm the current status with their treating team and the specific centre.</p>"
+          },
+          {
+            "q": "How much does radioligand therapy cost in Australia?",
+            "a": "<p>The cost of radioligand therapy in Australia varies depending on the treatment type, number of cycles, centre, and whether it is publicly funded, privately funded, or accessed through a trial. Some therapies may be partly covered under public or private arrangements, while others involve out-of-pocket costs. Because pricing depends on diagnosis, protocol, scans, and length of care, patients should request a written estimate from the treating centre.</p>"
+          },
+          {
+            "q": "Is radioligand therapy covered by Medicare or private health insurance?",
+            "a": "<p>Coverage for radioligand therapy in Australia depends on the specific treatment, indication, and funding arrangements in place. Certain therapies and diagnostic scans may attract public or private funding, while others may not be fully covered and can involve out-of-pocket costs. Coverage rules can change over time and differ between public and private centres. Patients should confirm current coverage with Medicare, their insurer, and the treating hospital before starting treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Can radioligand therapy be combined with other cancer treatments?",
+            "a": "<p>Radioligand therapy may be used alongside or after other treatments, depending on the cancer type and individual situation. For some patients it is considered after hormone therapy, chemotherapy, or other systemic treatments, and researchers are studying combinations with additional agents. Whether combination or sequencing is appropriate depends on cancer type, prior treatment, and overall health. These decisions should be made by the treating oncology team based on current evidence.</p>"
+          },
+          {
+            "q": "Are there clinical trials for radioligand therapy in Australia?",
+            "a": "<p>Australia runs clinical trials exploring radioligand therapy for prostate cancer, neuroendocrine tumours, and other cancers. These trials may test new isotopes, targets, doses, or combinations. Enrolment is not guaranteed, as trials have strict inclusion and exclusion criteria, and eligibility is decided after medical record review and investigator assessment. Patients interested in trials should ask their specialist or the treating centre whether a suitable study is currently open.</p>"
+          },
+          {
+            "q": "What newer radioligand therapies are being studied?",
+            "a": "<p>Researchers are studying newer radioligand therapies using different isotopes and targets, including alpha-emitting agents such as Actinium-225 and novel targeting molecules. These approaches aim to improve effectiveness or reach cancers not currently treatable with standard radioligands. Most remain investigational and are available mainly through clinical trials or specialised programs. Access is limited and depends on trial availability, eligibility, and specialist review by the treating nuclear medicine team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "Can international patients access radioligand therapy in Australia?",
+            "a": "<p>International patients may be able to access radioligand therapy at selected Australian centres, but access depends on several factors. Hospital acceptance, medical record review, imaging confirmation, visa approval, and fitness to travel all play a role. Some centres accept overseas patients while others prioritise local cases, and availability can change. International patients should confirm acceptance, estimated costs, and scheduling directly with the chosen centre well before planning travel.</p>"
+          },
+          {
+            "q": "What medical reports are needed to plan treatment abroad?",
+            "a": "<p>To plan radioligand therapy abroad, patients generally need recent scans, pathology reports, and a summary of previous treatments. Useful documents include PET or CT imaging, biopsy and biomarker results, blood tests, and a treatment history from the current oncologist. These allow specialists to assess suitability and provide an estimate. Exact requirements vary by centre, so patients should request a document checklist before submitting records for review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with radioligand therapy in Australia?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology and nuclear medicine team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee hospital acceptance, treatment eligibility, or outcomes, and does not replace the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

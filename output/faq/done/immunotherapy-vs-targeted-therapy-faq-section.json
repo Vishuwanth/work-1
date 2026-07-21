@@ -1,0 +1,68 @@
+{
+  "pillar": "Immunotherapy vs Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: immunotherapy-vs-targeted-therapy",
+  "route": "⚠ VERIFY: /insights/immunotherapy-vs-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy vs Targeted Therapy",
+    "intro": "Immunotherapy and targeted therapy are both modern precision-based cancer treatments, but they work in very different ways. These FAQs explain the differences, eligibility, benefits, risks, and access for international patients.",
+    "groups": [
+      {
+        "title": "Understanding the Difference",
+        "items": [
+          {
+            "q": "What is the difference between immunotherapy and targeted therapy?",
+            "a": "<p>The main difference is that immunotherapy activates the body's own immune system to fight cancer, while targeted therapy directly blocks specific molecules or genetic changes that help cancer grow. Immunotherapy works on immune cells such as T-cells, whereas targeted therapy acts on tumour-specific proteins, mutations, or pathways. The right choice depends on cancer type, stage, biomarker profile, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does immunotherapy work?",
+            "a": "<p>Immunotherapy works by helping the immune system recognise and attack cancer cells that would otherwise hide from it. Common types include checkpoint inhibitors, CAR T-cell therapy, and cancer vaccines, which either release the immune system's natural brakes or train immune cells to target tumours. Immunotherapy may be suitable for selected cancers such as melanoma, lung, and certain blood cancers, depending on biomarkers, stage, and overall health assessed by the treating team.</p>"
+          },
+          {
+            "q": "How does targeted therapy work?",
+            "a": "<p>Targeted therapy works by attacking specific genes, proteins, or signalling pathways that drive a particular cancer's growth. Unlike chemotherapy, it focuses on tumour-specific changes such as EGFR, HER2, ALK, or BRAF mutations, sparing many healthy cells. Targeted therapy is generally considered only when biomarker or molecular testing confirms a matching alteration. Eligibility depends on cancer type, genetic profile, previous treatment, and specialist review, and final decisions rest with the oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Which is better, immunotherapy or targeted therapy?",
+            "a": "<p>Neither treatment is universally better; the best option depends on your specific cancer and its molecular features. Targeted therapy often works best when a matching mutation is present, while immunotherapy may help when certain immune markers, such as PD-L1 or high tumour mutation burden, are found. Some patients benefit from one, both, or a combination. This choice depends on cancer type, stage, biomarker profile, and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can immunotherapy and targeted therapy be used together?",
+            "a": "<p>In some cases, immunotherapy and targeted therapy may be combined or used in sequence to improve results. Certain cancers respond better when both immune activation and pathway blocking are addressed, though combinations can also increase the risk of side effects. Whether they can be used together depends on cancer type, biomarkers, overall health, and safety considerations. Combination plans should be discussed with the treating medical team, who weigh potential benefits against risks.</p>"
+          },
+          {
+            "q": "What are the side effects of immunotherapy versus targeted therapy?",
+            "a": "<p>Both treatments can cause side effects, but the patterns differ. Immunotherapy may trigger immune-related effects such as inflammation of the skin, gut, lungs, or hormone glands, while targeted therapy more often causes rashes, diarrhoea, high blood pressure, or liver changes linked to the blocked pathway. Most side effects can be managed when detected early. The likelihood and severity vary by patient and drug, and should be monitored closely by the oncology team.</p>"
+          },
+          {
+            "q": "Do I need biomarker testing before either treatment?",
+            "a": "<p>Yes, biomarker or molecular testing is usually essential before starting targeted therapy and often guides immunotherapy decisions too. Tests may check for specific mutations, gene fusions, PD-L1 levels, or tumour mutation burden using tissue biopsy or blood samples. These results help match patients to treatments most likely to help and avoid ineffective options. The exact tests needed depend on cancer type and should be determined by the treating oncology and pathology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "How much do immunotherapy and targeted therapy cost?",
+            "a": "<p>Costs for both treatments vary widely and are difficult to state as a fixed figure. Immunotherapy and targeted therapy are often given over many months, and the total depends on the specific drug, dose, cancer type, hospital, tests, length of treatment, and any complications. Some targeted drugs have lower-cost generic options, while newer immunotherapies can be expensive. Final costs should be confirmed with the treating hospital and reviewed alongside your care plan.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy versus targeted therapy?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, arrange biomarker testing where needed, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This helps patients understand whether immunotherapy, targeted therapy, or a combination may be relevant to their situation. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

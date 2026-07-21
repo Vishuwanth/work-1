@@ -1,0 +1,64 @@
+{
+  "pillar": "Questions to Ask About NGS",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-to-ask-about-ngs",
+  "route": "⚠ VERIFY: /insights/questions-to-ask-about-ngs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions to Ask About NGS",
+    "intro": "Next-generation sequencing (NGS) can guide modern cancer treatment, but knowing what to ask makes the results easier to understand. These answers cover the key questions patients and caregivers often raise before and after NGS testing.",
+    "groups": [
+      {
+        "title": "Understanding NGS Testing",
+        "items": [
+          {
+            "q": "What is NGS testing, and why is it used in cancer care?",
+            "a": "<p>Next-generation sequencing (NGS) is a laboratory test that reads many cancer-related genes at the same time to find mutations, or biomarkers, that may influence treatment. It is used to help match patients with targeted therapies, immunotherapy, or clinical trials. NGS can be performed on a tumor tissue sample or, in some cases, a blood sample. Whether NGS is appropriate depends on your cancer type, stage, and your oncologist's assessment.</p>"
+          },
+          {
+            "q": "What questions should I ask my oncologist before NGS testing?",
+            "a": "<p>Ask your oncologist why NGS is being recommended, which genes or panel will be tested, and how the results might change your treatment plan. It also helps to ask what sample is needed, how long results take, whether the test is validated for your cancer type, and what happens if no actionable mutation is found. Clear answers help you understand the test's purpose and set realistic expectations before proceeding.</p>"
+          },
+          {
+            "q": "Should NGS be done on tumor tissue or a blood sample?",
+            "a": "<p>NGS can be performed on tumor tissue (a biopsy) or on a blood sample, known as a liquid biopsy, depending on your situation. Tissue testing is often preferred when enough sample is available, while blood-based testing may be considered when a biopsy is difficult or tissue is limited. Ask your oncologist which sample type suits your cancer and whether both may be useful. The final choice depends on your diagnosis and specialist review.</p>"
+          },
+          {
+            "q": "How long do NGS results usually take?",
+            "a": "<p>NGS results typically take about one to three weeks, though the exact time depends on the laboratory, panel size, and sample quality. Larger gene panels and situations requiring a fresh biopsy may take longer. Ask your oncology team when results are expected and how they will be shared with you. It is reasonable to confirm whether treatment decisions will wait for the report or begin earlier based on your condition.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Making Sense of Your NGS Results",
+        "items": [
+          {
+            "q": "What can NGS results tell me about my treatment options?",
+            "a": "<p>NGS results may identify genetic changes, or biomarkers, that could make you eligible for targeted therapy, immunotherapy, or a clinical trial. The report often lists mutations found and any therapies or trials linked to them. However, not every mutation has a matching treatment, and results are only one part of the decision. Final treatment choices depend on your cancer type, stage, previous treatment, overall health, and your oncology team's review.</p>"
+          },
+          {
+            "q": "What does it mean if NGS finds no actionable mutation?",
+            "a": "<p>A result showing no actionable mutation means the test did not find a genetic change currently linked to an approved targeted therapy — it does not mean you have no treatment options. Standard treatments such as chemotherapy, immunotherapy, radiation, or surgery may still apply, and new trials may become available over time. Discuss the result with your oncologist, who can explain what it means for your specific situation and next steps.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does NGS testing cost, and is it covered?",
+            "a": "<p>The cost of NGS testing varies widely depending on the laboratory, the size of the gene panel, your country, and whether tissue or blood is used. Some insurers or health programs may cover testing for selected cancer types, while others may not. Ask your oncology team and the testing laboratory for an estimated cost and coverage details before proceeding. Final costs depend on the panel chosen, sample needs, and the treating team's advice.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with NGS testing?",
+            "a": "<p>CancerFax helps patients with NGS testing by organizing medical reports, identifying relevant specialists or accredited laboratories, estimating possible costs, and coordinating second opinions, appointments, sample logistics, and follow-up support. NGS results are interpreted, and treatment decisions are always made, by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is coordination only and does not replace medical advice.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

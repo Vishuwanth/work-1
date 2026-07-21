@@ -1,0 +1,68 @@
+{
+  "pillar": "Eligibility for TIL Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: eligibility-for-til-therapy",
+  "route": "⚠ VERIFY: /insights/eligibility-for-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for TIL Therapy",
+    "intro": "TIL (tumor-infiltrating lymphocyte) therapy is a personalized cell therapy, and eligibility depends on several medical factors. These FAQs explain who may qualify, how suitability is assessed, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy Eligibility",
+        "items": [
+          {
+            "q": "Who is eligible for TIL therapy?",
+            "a": "<p>TIL therapy may be considered for selected patients with certain advanced solid tumors, most notably metastatic melanoma, whose cancer has a surgically removable tumor from which immune cells can be grown. Eligibility depends on cancer type, stage, prior treatments, tumor accessibility, and overall health. It is generally explored after other therapies, such as immunotherapy, have been tried. Final suitability should be confirmed by a qualified oncology team after detailed review.</p>"
+          },
+          {
+            "q": "Is TIL therapy suitable for all cancer patients?",
+            "a": "<p>No, TIL therapy is not suitable for all cancer patients and is currently used mainly for specific advanced solid tumors like melanoma. Suitability depends on cancer type, whether a viable tumor sample can be surgically obtained, disease burden, previous treatments, and the patient's ability to tolerate lymphodepletion and high-dose interleukin-2. Many cancers are still under study for TIL therapy, so eligibility should always be assessed individually by an experienced treating team.</p>"
+          },
+          {
+            "q": "What cancer types may qualify for TIL therapy?",
+            "a": "<p>Metastatic melanoma is currently the most established cancer type for TIL therapy, with approved and widely studied use. Research is exploring TIL therapy in other solid tumors such as cervical, lung, and head and neck cancers, mostly within clinical trials. Whether a specific cancer qualifies depends on tumor biology, available evidence, and trial availability. A specialist review of diagnosis, biomarkers, and pathology is needed to determine if TIL therapy may be an option.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Medical Criteria and Assessment",
+        "items": [
+          {
+            "q": "What medical criteria are used to decide TIL therapy eligibility?",
+            "a": "<p>Eligibility for TIL therapy is based on cancer type and stage, availability of a resectable tumor to harvest immune cells, prior treatment history, organ function, and overall fitness. Patients usually need adequate heart, kidney, liver, and lung function to tolerate lymphodepleting chemotherapy and interleukin-2. Performance status and absence of uncontrolled infections or other serious conditions also matter. These criteria vary between centers and trials and must be confirmed by the treating oncology team.</p>"
+          },
+          {
+            "q": "What reports and tests are needed to assess eligibility for TIL therapy?",
+            "a": "<p>Assessment for TIL therapy typically requires recent pathology and biopsy reports, imaging scans such as PET-CT or MRI, and a detailed treatment history. Blood tests to check organ function, blood counts, and infection status are also commonly needed, along with details of any biomarker or genetic testing. Surgeons and oncologists review whether a suitable tumor is accessible for cell collection. Exact requirements depend on the center, and the treating team confirms what is needed.</p>"
+          },
+          {
+            "q": "Can previous cancer treatments affect TIL therapy eligibility?",
+            "a": "<p>Yes, previous cancer treatments can influence eligibility for TIL therapy, and it is often considered after therapies such as immunotherapy or targeted treatment have been used. Prior treatments may affect tumor availability, immune cell quality, organ function, and recovery capacity. Some patients may need a treatment gap before proceeding. Because timing and sequencing are complex, the decision depends on individual history and should be guided by the treating oncology team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Practical Questions",
+        "items": [
+          {
+            "q": "How can international patients access TIL therapy?",
+            "a": "<p>International patients may access TIL therapy through specialized cancer centers or clinical trials in countries where it is offered. Access depends on hospital acceptance, medical record review, tumor suitability, travel fitness, and visa approval, none of which can be guaranteed in advance. Because TIL therapy involves surgery, cell manufacturing, and inpatient care, careful planning for an extended stay is important. A specialist center confirms eligibility only after reviewing the patient's full medical information.</p>"
+          },
+          {
+            "q": "Is TIL therapy eligibility guaranteed once I apply to a clinical trial?",
+            "a": "<p>No, eligibility for a TIL therapy clinical trial is never guaranteed and is decided only after medical record review and investigator assessment. Trials have strict inclusion and exclusion criteria covering cancer type, stage, prior treatments, organ function, and overall health. Even eligible patients may face waiting periods or manufacturing constraints. Enrollment and benefit cannot be promised, and final decisions rest with the trial investigators and treating medical team after evaluating each patient individually.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with eligibility for TIL therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not decide eligibility or guarantee acceptance for TIL therapy, and any assessment of suitability rests fully with the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

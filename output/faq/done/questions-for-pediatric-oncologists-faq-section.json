@@ -1,0 +1,64 @@
+{
+  "pillar": "Questions for Pediatric Oncologists",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-for-pediatric-oncologists",
+  "route": "⚠ VERIFY: /insights/questions-for-pediatric-oncologists",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions for Pediatric Oncologists",
+    "intro": "Knowing what to ask a pediatric oncologist helps parents and caregivers understand a child's diagnosis, treatment plan, and options with more confidence. These questions are a starting point for open conversations with the treating medical team.",
+    "groups": [
+      {
+        "title": "Understanding the Diagnosis",
+        "items": [
+          {
+            "q": "What questions should I ask my child's oncologist after a cancer diagnosis?",
+            "a": "<p>After a diagnosis, ask your child's oncologist to explain the exact type of cancer, its stage or risk group, and what tests confirmed it. Helpful questions include what caused it, whether more tests are needed, and how urgent treatment is. Writing questions down beforehand and bringing another adult to appointments can help. The care team can explain results in plain language and answer follow-up questions at your child's pace.</p>"
+          },
+          {
+            "q": "What should I ask about my child's specific cancer type and prognosis?",
+            "a": "<p>Ask the oncologist to name the exact cancer type, its subtype, and which risk group your child falls into, as these shape treatment. You can ask what the prognosis generally looks like, though outcomes depend on cancer type, stage, biomarkers, and how the child responds. Because every child is different, prognosis figures are estimates. The treating team is best placed to explain what your child's specific results may mean.</p>"
+          },
+          {
+            "q": "How can I ask about the goals of my child's treatment?",
+            "a": "<p>Ask your oncologist whether the treatment aims to cure the cancer, control it, or relieve symptoms, as this shapes every decision that follows. Useful questions include how long treatment will last, what each phase involves, and how success will be measured. Understanding whether the plan follows a standard protocol or a clinical trial also helps. Final treatment goals should be discussed and agreed with the qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment, Safety, and Side Effects",
+        "items": [
+          {
+            "q": "What questions should I ask about chemotherapy and radiation side effects?",
+            "a": "<p>Ask which specific side effects are most likely with your child's treatment, when they may appear, and which ones need urgent medical attention. Helpful questions include how side effects will be managed, what to do at home, and who to call after hours. You can also ask how treatment may affect eating, school, and daily activities. The care team can provide written guidance tailored to your child's protocol.</p>"
+          },
+          {
+            "q": "Should I ask my child's oncologist about clinical trials?",
+            "a": "<p>Yes, it is reasonable to ask whether a clinical trial may be suitable for your child, as trials can offer access to newer approaches. Ask what the trial involves, its possible benefits and risks, and how it differs from standard care. Eligibility is decided after medical review and investigator assessment, and trials often have strict inclusion criteria. Enrollment and benefit are never guaranteed, so discuss all options with the treating team.</p>"
+          },
+          {
+            "q": "What should I ask about long-term and late effects of treatment?",
+            "a": "<p>Ask your oncologist how treatment might affect your child's growth, fertility, heart, hearing, learning, or risk of future health issues. These late effects depend on the type and intensity of therapy and the child's age. Useful questions include what follow-up monitoring will be needed and for how long. A survivorship care plan can outline this. The treating team can explain which risks apply to your child's specific protocol.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Second Opinions and International Care",
+        "items": [
+          {
+            "q": "Is it okay to ask for a second opinion in pediatric cancer?",
+            "a": "<p>Yes, asking for a second opinion is a normal and accepted part of pediatric cancer care, and most oncologists support it. A second opinion can confirm the diagnosis, review the treatment plan, or explore additional options. Ask which medical reports, scans, and pathology slides are needed to share with another specialist. Seeking a second opinion rarely delays urgent treatment and can give families added confidence in their decisions.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with questions for pediatric oncologists?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant pediatric specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to prepare questions and share records with the right experts. Treatment decisions are always made by the qualified oncology team after reviewing the child's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

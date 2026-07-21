@@ -1,0 +1,68 @@
+{
+  "pillar": "Eligibility for Gene Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: eligibility-for-gene-therapy",
+  "route": "⚠ VERIFY: /insights/eligibility-for-gene-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for Gene Therapy",
+    "intro": "Gene therapy for cancer is available only to selected patients who meet specific medical criteria. These FAQs explain how eligibility is assessed, what factors matter, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy Eligibility",
+        "items": [
+          {
+            "q": "Who is eligible for gene therapy for cancer?",
+            "a": "<p>Eligibility for gene therapy depends on cancer type, stage, biomarker profile, previous treatments, and overall health. It may be considered for selected patients whose cancer has specific genetic features or who have not responded to standard therapy. Certain gene and cell therapies, such as CAR T-cell therapy, are approved only for particular blood cancers. A qualified oncology team decides suitability after reviewing diagnosis, pathology, and organ function.</p>"
+          },
+          {
+            "q": "What factors determine if I qualify for gene therapy?",
+            "a": "<p>Qualification is based on your cancer type, disease stage, genetic or biomarker test results, prior treatment history, age, and overall fitness. Doctors also assess heart, liver, kidney, and lung function, plus any active infections. Some therapies require a minimum level of healthy blood cells or a specific target antigen on tumor cells. Final eligibility is confirmed only after specialist review and detailed medical testing.</p>"
+          },
+          {
+            "q": "Is gene therapy suitable for all cancer patients?",
+            "a": "<p>No, gene therapy is not suitable for all cancer patients. It is currently approved or available mainly for selected blood cancers and specific solid tumors with defined genetic targets. Patients with certain organ problems, uncontrolled infections, or very poor overall health may not be candidates. Suitability depends on cancer type, biomarker profile, and previous treatment, and should always be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing, Process, and Safety",
+        "items": [
+          {
+            "q": "What tests are needed to check eligibility for gene therapy?",
+            "a": "<p>Eligibility testing usually includes biomarker or genetic profiling of the tumor, blood tests, imaging scans, and organ function assessments. Doctors may check for specific target antigens, mutations, or measurable disease. Heart, kidney, liver, and lung function are also evaluated to confirm you can tolerate the treatment. The exact tests depend on the therapy and cancer type, and results are reviewed by the treating specialist.</p>"
+          },
+          {
+            "q": "Can previous cancer treatments affect gene therapy eligibility?",
+            "a": "<p>Yes, previous cancer treatments can affect gene therapy eligibility. Many gene and cell therapies are considered after standard treatments have been tried, but heavy prior chemotherapy or radiation may sometimes reduce healthy cell counts or organ reserve. Recent treatments may also require a waiting period. Your oncology team reviews your full treatment history to decide whether gene therapy may be appropriate and safe for you.</p>"
+          },
+          {
+            "q": "What are the risks or side effects that affect eligibility?",
+            "a": "<p>Gene therapy can cause side effects such as immune reactions, cytokine release syndrome, neurological symptoms, or blood count changes, which is why eligibility screening is careful. Patients with serious heart, lung, or neurological conditions may face higher risks and may not qualify. Doctors weigh potential benefits against these risks for each person. Any decision should be made with a qualified oncology team after full evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access gene therapy?",
+            "a": "<p>International patients can access gene therapy by first sharing their medical records for review by a treatment center that offers the specific therapy. Access depends on hospital acceptance, confirmed eligibility, visa approval, travel fitness, and the patient's condition. Some therapies are available only in certain countries or through clinical trials. A second opinion and cost estimate usually help patients plan treatment and follow-up care.</p>"
+          },
+          {
+            "q": "Is gene therapy available through clinical trials for patients who don't qualify for approved treatments?",
+            "a": "<p>Yes, gene therapy is often available through clinical trials, which may be an option for patients who do not qualify for approved treatments. Trials have strict inclusion and exclusion criteria, and enrollment or benefit cannot be guaranteed. Eligibility is decided after medical record review and investigator assessment. Discussing trial options with your oncology team helps you understand possible risks, requirements, and whether participation may be appropriate.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with eligibility for gene therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support helps international patients understand whether gene therapy or a clinical trial may be a realistic option for them.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

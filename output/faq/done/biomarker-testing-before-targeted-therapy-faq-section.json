@@ -1,0 +1,68 @@
+{
+  "pillar": "Biomarker Testing Before Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: biomarker-testing-before-targeted-therapy",
+  "route": "⚠ VERIFY: /insights/biomarker-testing-before-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Biomarker Testing Before Targeted Therapy",
+    "intro": "Biomarker testing helps match patients to targeted cancer drugs that are most likely to work for their specific tumour. These answers explain what the testing involves, how it is done, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Biomarker Testing",
+        "items": [
+          {
+            "q": "What is biomarker testing before targeted therapy?",
+            "a": "<p>Biomarker testing before targeted therapy is a laboratory analysis of a tumour sample or blood to identify specific genes, proteins, or molecular changes that a targeted drug can act on. It helps the oncology team match a patient to therapies most likely to help. Which biomarkers are tested depends on the cancer type, stage, and available tissue, and results should always be interpreted by a qualified specialist.</p>"
+          },
+          {
+            "q": "Why is biomarker testing important before starting targeted therapy?",
+            "a": "<p>Biomarker testing matters because targeted therapies generally work only when the tumour carries the specific alteration the drug is designed to attack. Testing before treatment helps avoid drugs that are unlikely to help and reduces unnecessary side effects and cost. Results may guide treatment choices, but final decisions depend on cancer type, stage, overall health, and specialist review, and should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "What types of biomarkers are tested?",
+            "a": "<p>Common biomarkers include gene mutations such as EGFR, ALK, KRAS, and BRAF, protein markers like HER2 and PD-L1, and broader signatures such as microsatellite instability or tumour mutational burden. The relevant biomarkers differ by cancer type—for example, lung, breast, and colorectal cancers each have their own panels. A qualified oncology team decides which tests are appropriate based on the diagnosis and clinical situation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing Process, Results, and Suitability",
+        "items": [
+          {
+            "q": "How is biomarker testing done?",
+            "a": "<p>Biomarker testing is usually done on a tumour tissue sample from a biopsy or surgery, or sometimes on a blood sample through a liquid biopsy that detects tumour DNA. The method chosen depends on the cancer type, available tissue, and the biomarkers being assessed. Sample quality and quantity can affect results, so testing and interpretation should be handled by an experienced laboratory and oncology team.</p>"
+          },
+          {
+            "q": "How long do biomarker test results take?",
+            "a": "<p>Biomarker test results typically take about one to three weeks, depending on the test type, laboratory, and whether single-gene or comprehensive panel testing is used. Simple tests may return faster, while next-generation sequencing panels often take longer. Timing can vary between hospitals and countries. Patients should ask their treating team for an expected timeline, as treatment planning may wait for these results in some situations.</p>"
+          },
+          {
+            "q": "Does every cancer patient need biomarker testing?",
+            "a": "<p>Not every cancer patient needs biomarker testing, as its usefulness depends on the cancer type, stage, and whether targeted therapies exist for that disease. It is most relevant when specific alterations can be matched to approved or trial drugs. Some cancers have well-established biomarkers, while others do not. Whether testing is appropriate should be discussed with a qualified oncology team based on the individual diagnosis and treatment goals.</p>"
+          },
+          {
+            "q": "What happens if no actionable biomarker is found?",
+            "a": "<p>If no actionable biomarker is found, it means the tumour does not currently show a change matched to an available targeted drug, but it does not mean no treatment options exist. Standard therapies such as chemotherapy, immunotherapy, or clinical trials may still be considered. Testing may sometimes be repeated later if the cancer changes. Next steps should be decided with the treating oncology team based on the full clinical picture.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does biomarker testing cost and is it available in India?",
+            "a": "<p>The cost of biomarker testing varies widely depending on whether a single-gene test or a comprehensive panel is used, the laboratory, and the country. Comprehensive next-generation sequencing generally costs more than single-marker tests. Biomarker testing is available in India at many major cancer centres and specialised laboratories. Final cost depends on the test chosen, hospital, sample type, and diagnosis, and should be confirmed with the treating team or laboratory.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with biomarker testing before targeted therapy?",
+            "a": "<p>CancerFax helps patients with biomarker testing before targeted therapy by organising medical reports and pathology, identifying relevant specialists, treatment centres, or laboratories, estimating possible costs, and coordinating second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,68 @@
+{
+  "pillar": "Tumor Mutation Burden",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: tumor-mutation-burden",
+  "route": "⚠ VERIFY: /insights/tumor-mutation-burden",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Tumor Mutation Burden",
+    "intro": "Tumor mutation burden (TMB) is an increasingly used biomarker in precision oncology that can help guide immunotherapy decisions. These FAQs explain what TMB means, how it is tested, and what it may mean for treatment planning.",
+    "groups": [
+      {
+        "title": "Understanding Tumor Mutation Burden",
+        "items": [
+          {
+            "q": "What is tumor mutation burden (TMB)?",
+            "a": "<p>Tumor mutation burden (TMB) is a measure of the number of genetic mutations found within the DNA of cancer cells, usually reported as mutations per megabase (mut/Mb). A higher TMB means the tumor carries more mutations, which can make it more visible to the immune system. TMB is measured through next-generation sequencing (NGS) of tumor tissue and is used, alongside other biomarkers, to help guide precision oncology and immunotherapy decisions.</p>"
+          },
+          {
+            "q": "How is tumor mutation burden measured?",
+            "a": "<p>Tumor mutation burden is measured using next-generation sequencing (NGS), which reads large regions of the tumor's DNA to count mutations per megabase. Testing can use a comprehensive genomic panel or, less commonly, whole-exome sequencing. Results depend on the sample quality, the panel used, and the laboratory's method, so values are not always directly comparable between tests. TMB is best interpreted by a qualified oncology or molecular pathology team alongside other findings.</p>"
+          },
+          {
+            "q": "What is considered a high tumor mutation burden?",
+            "a": "<p>A tumor mutation burden of 10 or more mutations per megabase is often described as high (TMB-high), though thresholds may vary by test and cancer type. High TMB suggests the tumor carries many mutations and may respond better to certain immunotherapies. However, cut-off values are not universal, and interpretation depends on the testing platform, tumor type, and clinical context. The treating medical team should confirm what a specific TMB result means for an individual patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "TMB, Immunotherapy, and Eligibility",
+        "items": [
+          {
+            "q": "Why does tumor mutation burden matter for immunotherapy?",
+            "a": "<p>Tumor mutation burden matters because tumors with more mutations often produce more abnormal proteins, making them easier for the immune system to recognize. This is why TMB-high tumors may respond better to immune checkpoint inhibitors such as pembrolizumab. In the United States, TMB-high status has been used to support immunotherapy in certain advanced solid tumors. Whether immunotherapy is suitable depends on cancer type, stage, other biomarkers, and specialist review.</p>"
+          },
+          {
+            "q": "Does high TMB guarantee immunotherapy will work?",
+            "a": "<p>No, a high tumor mutation burden does not guarantee that immunotherapy will work. TMB is one predictive biomarker among several, and response also depends on factors such as cancer type, PD-L1 status, microsatellite instability, prior treatments, and overall health. Some patients with high TMB may not respond, while some with lower TMB still benefit. Treatment decisions should always be made by the treating oncology team after reviewing the full clinical picture.</p>"
+          },
+          {
+            "q": "Which cancers are most likely to have high TMB?",
+            "a": "<p>Cancers most often associated with high tumor mutation burden include melanoma, lung cancer, and bladder cancer, which are frequently linked to environmental exposures such as ultraviolet light or tobacco smoke. Tumors with mismatch repair deficiency or microsatellite instability, such as some colorectal and endometrial cancers, may also show high TMB. However, TMB varies widely between individuals, so testing is needed to confirm a specific patient's result rather than assuming it from cancer type.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "What samples are needed for tumor mutation burden testing?",
+            "a": "<p>Tumor mutation burden testing usually requires a tissue sample from a biopsy or surgical removal of the tumor, often stored as a formalin-fixed, paraffin-embedded (FFPE) block. Adequate tumor content and good sample quality are important for reliable results. In some cases, blood-based (liquid biopsy) testing may be considered when tissue is limited. The treating team and laboratory can advise which sample type and reports are needed for accurate testing.</p>"
+          },
+          {
+            "q": "How much does tumor mutation burden testing cost?",
+            "a": "<p>The cost of tumor mutation burden testing varies widely because it is usually part of a larger comprehensive genomic profiling panel rather than a standalone test. Final cost depends on the laboratory, the panel used, the country, sample type, and whether other biomarkers are tested at the same time. Prices should be confirmed directly with the testing laboratory or hospital, as estimates can change based on the specific tests ordered and local factors.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with tumor mutation burden testing?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify laboratories or specialists that offer comprehensive genomic profiling and TMB testing, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier for international patients to access precision oncology testing. Treatment and testing decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

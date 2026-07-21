@@ -1,0 +1,64 @@
+{
+  "pillar": "Targeted Therapy for Stage 4 Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: targeted-therapy-for-stage-4-cancer",
+  "route": "⚠ VERIFY: /insights/targeted-therapy-for-stage-4-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy for Stage 4 Cancer",
+    "intro": "Targeted therapy uses drugs that act on specific molecular features driving a cancer. These FAQs explain how it may help patients with stage 4 (metastatic) cancer, who might be eligible, and what to consider around benefits, safety, cost, and access.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy for Stage 4 Cancer",
+        "items": [
+          {
+            "q": "What is targeted therapy for stage 4 cancer?",
+            "a": "<p>Targeted therapy is a type of cancer treatment that uses drugs designed to attack specific genes, proteins, or pathways that help cancer cells grow and spread. In stage 4 (metastatic) cancer, it may be used to slow disease progression, shrink tumors, or help control symptoms. Whether targeted therapy is suitable depends on the cancer type, biomarker profile, previous treatment, and overall health, and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does targeted therapy work for advanced cancer?",
+            "a": "<p>Targeted therapy works by identifying and blocking specific molecular changes that drive cancer growth, such as gene mutations, abnormal proteins, or signaling pathways. Unlike chemotherapy, which affects rapidly dividing cells throughout the body, targeted drugs focus on features found mainly in cancer cells. For stage 4 cancer, this may help control the disease with a different side-effect pattern. Eligibility depends on biomarker testing and specialist review of the patient's specific tumor.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for targeted therapy in stage 4 cancer?",
+            "a": "<p>Eligibility for targeted therapy usually depends on whether the tumor carries a specific biomarker or genetic change that a targeted drug can act on. Doctors often order molecular or genomic testing to check for markers such as EGFR, ALK, HER2, or BRAF, among others. Suitability also depends on cancer type, stage, previous treatment, and overall health. Final decisions on eligibility should be made by the treating oncology team after reviewing test results.</p>"
+          },
+          {
+            "q": "What are the benefits of targeted therapy for metastatic cancer?",
+            "a": "<p>The main benefit of targeted therapy is its ability to focus on specific cancer-driving changes, which may improve disease control while often causing different side effects than traditional chemotherapy. For selected stage 4 patients, it may help slow progression, reduce tumor size, or ease symptoms, and some drugs are taken as oral tablets at home. Benefits vary between individuals and cancer types, and expected outcomes should always be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of targeted therapy?",
+            "a": "<p>Targeted therapy can cause side effects, though these are often different from chemotherapy and vary by drug. Common effects may include skin rash, diarrhea, high blood pressure, fatigue, liver changes, or slower wound healing. Some drugs carry specific risks that require regular monitoring through blood tests or scans. Side effects differ from person to person and depend on the drug and dose. Any new or worsening symptoms should be reported promptly to the treating medical team.</p>"
+          },
+          {
+            "q": "Can targeted therapy cure stage 4 cancer?",
+            "a": "<p>Targeted therapy is generally not considered a cure for stage 4 cancer, but it may help control the disease, extend the time before it progresses, and support quality of life for selected patients. Responses vary widely depending on cancer type, biomarker profile, and how the tumor behaves over time, and some cancers eventually develop resistance to targeted drugs. Realistic goals and treatment planning should always be discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does targeted therapy for stage 4 cancer cost?",
+            "a": "<p>The cost of targeted therapy varies widely depending on the specific drug, cancer type, treatment duration, and country of treatment. Some targeted drugs are taken long term, which affects the overall cost, and biomarker or genomic testing may add to initial expenses. Final costs depend on the hospital, diagnosis, stage, required tests, treatment protocol, and length of treatment. Patients should request a detailed estimate from the treating hospital or care coordination team before starting.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy for stage 4 cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For targeted therapy, this may include helping arrange biomarker or genomic testing and connecting patients with oncologists experienced in advanced cancer. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

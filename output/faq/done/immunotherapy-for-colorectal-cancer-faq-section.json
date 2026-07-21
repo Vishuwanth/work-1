@@ -1,0 +1,64 @@
+{
+  "pillar": "Immunotherapy for Colorectal Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: immunotherapy-for-colorectal-cancer",
+  "route": "⚠ VERIFY: /insights/immunotherapy-for-colorectal-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy for Colorectal Cancer",
+    "intro": "These answers explain how immunotherapy is used in colorectal cancer, which patients may benefit, and what to consider around safety, cost, and access. Treatment decisions should always be guided by a qualified oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy for Colorectal Cancer",
+        "items": [
+          {
+            "q": "What is immunotherapy for colorectal cancer?",
+            "a": "<p>Immunotherapy for colorectal cancer is a treatment that helps the body's own immune system recognize and attack cancer cells. It most often uses checkpoint inhibitor drugs, which block proteins that stop immune cells from working. Immunotherapy is not suitable for every patient and is mainly considered for specific tumor types identified through testing. Whether it may help depends on cancer stage, biomarker results, and specialist review.</p>"
+          },
+          {
+            "q": "How does immunotherapy work for colorectal cancer?",
+            "a": "<p>Immunotherapy works by releasing the natural brakes on immune cells so they can find and destroy cancer cells more effectively. Checkpoint inhibitors block proteins such as PD-1, PD-L1, or CTLA-4 that tumors use to hide from the immune system. This approach tends to work best in tumors with many genetic mutations. Response varies between patients, and eligibility and expected benefit should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Which colorectal cancer patients are most likely to respond to immunotherapy?",
+            "a": "<p>Patients whose tumors are MSI-High (microsatellite instability-high) or dMMR (mismatch repair-deficient) are most likely to respond to immunotherapy. These features are found through laboratory testing of the tumor and appear in a minority of colorectal cancers. Most colorectal tumors are microsatellite stable (MSS) and usually respond poorly to current immunotherapy. Testing for these biomarkers helps the oncology team decide whether immunotherapy may be considered for a particular patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "What are the benefits of immunotherapy for colorectal cancer?",
+            "a": "<p>For selected patients with MSI-High or dMMR tumors, immunotherapy may offer durable responses and, in some cases, longer disease control than chemotherapy. It can sometimes shrink tumors before surgery or help manage advanced disease. Benefits are not guaranteed and vary from person to person. Because immunotherapy only helps specific tumor types, the potential advantages should be weighed against risks and discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects or risks of immunotherapy?",
+            "a": "<p>Immunotherapy can cause immune-related side effects because it activates the immune system, which may then affect healthy organs. Common issues include fatigue, skin rash, and diarrhea, while less common effects can involve inflammation of the lungs, liver, bowel, or hormone glands. Some reactions can be serious and need prompt medical care. Side effects vary between patients and should be monitored closely by the treating medical team throughout treatment.</p>"
+          },
+          {
+            "q": "Which immunotherapy drugs are used for colorectal cancer?",
+            "a": "<p>Checkpoint inhibitors such as pembrolizumab and nivolumab, sometimes combined with ipilimumab, are the immunotherapy drugs most commonly used for colorectal cancer. They are generally considered for advanced or metastatic tumors that are MSI-High or dMMR, and in some settings before surgery. Availability and approved uses differ by country and evolve over time. The choice of drug depends on tumor testing, previous treatment, and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does immunotherapy for colorectal cancer cost and how can international patients access it?",
+            "a": "<p>The cost of immunotherapy for colorectal cancer varies widely depending on the drug, number of cycles, hospital, and country of treatment. Final expenses also depend on diagnosis, stage, tests, complications, and length of care. For international patients, access depends on hospital acceptance, medical record review, visa approval, and travel fitness. No hospital admission, cost, or treatment outcome can be guaranteed, and cost estimates should be confirmed directly with the treating center.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy for colorectal cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and cannot guarantee treatment acceptance or outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,64 @@
+{
+  "pillar": "Treatment Process for Oncolytic Virus",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: treatment-process-for-oncolytic-virus",
+  "route": "⚠ VERIFY: /insights/treatment-process-for-oncolytic-virus",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Treatment Process for Oncolytic Virus Therapy",
+    "intro": "These FAQs explain, in plain language, how the treatment process for oncolytic virus therapy typically works — from preparation and eligibility to how doses are given, what to expect afterward, and where to find support.",
+    "groups": [
+      {
+        "title": "Understanding the Treatment Process",
+        "items": [
+          {
+            "q": "What is the treatment process for oncolytic virus therapy?",
+            "a": "<p>The treatment process for oncolytic virus therapy usually begins with an eligibility assessment and ends with monitoring for response. Oncolytic viruses are modified to infect and destroy cancer cells while helping trigger an immune reaction against the tumor. The process typically includes medical review, imaging and lab tests, virus administration (often by injection into the tumor), and follow-up scans. Steps may vary by cancer type, product, and treating team, and should be planned with a qualified oncology specialist.</p>"
+          },
+          {
+            "q": "Who is eligible for oncolytic virus therapy?",
+            "a": "<p>Eligibility for oncolytic virus therapy depends on cancer type, stage, tumor location, previous treatments, and overall health. It may be considered for selected patients, such as those with certain advanced melanomas or tumors that can be safely reached for injection. Some patients may not be suitable because of immune conditions or other factors. Final eligibility is decided by a qualified oncology team after reviewing diagnosis, biomarkers, imaging, and medical history.</p>"
+          },
+          {
+            "q": "How is a patient prepared before oncolytic virus therapy?",
+            "a": "<p>Preparation for oncolytic virus therapy generally involves confirming the diagnosis, reviewing scans, and checking overall health and immune status. Doctors may order blood tests, imaging, and a review of previous treatments to help decide suitability. Patients are often assessed to identify tumors that can be safely injected. The exact preparation steps depend on cancer type, stage, and the specific product, and should always be guided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How Treatment Is Given",
+        "items": [
+          {
+            "q": "How is oncolytic virus therapy given to patients?",
+            "a": "<p>Oncolytic virus therapy is most often given by direct injection into the tumor, known as intratumoral delivery, though some approaches use intravenous infusion. The doctor may use ultrasound or imaging to guide the needle into the tumor accurately. The procedure is usually performed in a clinic or hospital under sterile conditions. The dose and delivery method depend on the product, tumor location, and cancer type, and are decided by the treating medical team.</p>"
+          },
+          {
+            "q": "How long does an oncolytic virus treatment course take?",
+            "a": "<p>An oncolytic virus treatment course often runs over several weeks to months, with repeated doses given at set intervals. For example, some approved therapies begin with an initial dose followed by additional injections every two to three weeks. The total number of sessions depends on response, tolerance, and the treatment protocol. The exact schedule varies by product and patient and should be confirmed with the treating oncology team before starting.</p>"
+          },
+          {
+            "q": "What happens after oncolytic virus therapy is administered?",
+            "a": "<p>After oncolytic virus therapy, patients are monitored for side effects and treatment response through follow-up visits, blood tests, and imaging scans. Some patients may experience mild flu-like symptoms in the days after a dose. Doctors track whether tumors shrink, stay stable, or grow to help guide the next steps. Follow-up care and the timing of scans depend on the cancer type and protocol, and should be arranged with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety and Support",
+        "items": [
+          {
+            "q": "What are the possible side effects during the treatment process?",
+            "a": "<p>The most common side effects during oncolytic virus therapy are usually mild and flu-like, including fever, chills, fatigue, nausea, and injection-site pain. These often appear shortly after a dose and tend to settle within a few days. Less commonly, more serious immune-related reactions can occur. Side effects vary by product, dose, and individual health, and any new or worsening symptoms should be reported promptly to the treating oncology team for guidance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the treatment process for oncolytic virus therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support for oncolytic virus therapy. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support helps international patients navigate the treatment process while medical suitability remains with the treating doctors.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,114 @@
+{
+  "pillar": "What is TMB (tumor mutational burden) and why does it matter?",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: what-is-tmb-tumor-mutational-burden-and-why-does-it-matter",
+  "route": "⚠ VERIFY: /<section>/what-is-tmb-tumor-mutational-burden-and-why-does-it-matter",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About TMB (Tumor Mutational Burden)",
+    "intro": "Tumor mutational burden (TMB) is a biomarker measured from tumor tissue that helps oncologists judge how a cancer might respond to immunotherapy. These FAQs explain what TMB means, how it is tested, and how it may guide treatment decisions.",
+    "groups": [
+      {
+        "title": "Understanding TMB",
+        "items": [
+          {
+            "q": "What is tumor mutational burden (TMB)?",
+            "a": "<p>Tumor mutational burden (TMB) is a measure of the number of genetic mutations found within a tumor's DNA, usually reported as mutations per megabase (mut/Mb). It reflects how many changes a cancer has accumulated as it grows. TMB is measured from a tissue biopsy or, in some cases, a blood sample. A higher TMB may indicate that a tumor could respond better to certain immunotherapy treatments, though results should always be interpreted by an oncology team.</p>"
+          },
+          {
+            "q": "Why does TMB matter in cancer treatment?",
+            "a": "<p>TMB matters because it can help predict how likely a cancer is to respond to immunotherapy, particularly immune checkpoint inhibitors. Tumors with more mutations may produce abnormal proteins that the immune system can recognize and attack. A higher TMB is therefore linked, in some cancers, to a better chance of benefit from these drugs. However, TMB is only one factor, and treatment decisions depend on cancer type, other biomarkers, and specialist review.</p>"
+          },
+          {
+            "q": "What is considered a high TMB?",
+            "a": "<p>A high TMB is commonly defined as 10 or more mutations per megabase (≥10 mut/Mb), a threshold used by some regulators for immunotherapy eligibility. However, cut-off values can vary between laboratories, testing platforms, and cancer types. Because there is no single universal standard, what counts as \"high\" for one tumor may differ for another. The treating oncology team interprets the reported value alongside the specific cancer and available treatment options.</p>"
+          },
+          {
+            "q": "How is TMB different from microsatellite instability (MSI)?",
+            "a": "<p>TMB and MSI are related but distinct biomarkers that both relate to immunotherapy response. TMB counts the total number of mutations in a tumor, while microsatellite instability (MSI) specifically measures faults in the DNA mismatch repair system. Many MSI-high tumors also have a high TMB, but the two are tested separately and do not always overlap. An oncologist may consider both, along with other markers, when planning treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing, Process, and Safety",
+        "items": [
+          {
+            "q": "How is TMB tested?",
+            "a": "<p>TMB is tested by analyzing the DNA of tumor cells, usually through next-generation sequencing (NGS) of a tissue biopsy sample. The laboratory counts the number of mutations across a defined region of the genome and calculates mutations per megabase. Some tests use a comprehensive gene panel, while others sequence larger portions of DNA. In certain situations, a blood-based (liquid biopsy) test may be used. Results depend on the platform and are interpreted by specialists.</p>"
+          },
+          {
+            "q": "What sample is needed for a TMB test?",
+            "a": "<p>A TMB test usually requires a tumor tissue sample, often taken from an existing biopsy or surgical specimen. Enough good-quality tissue with adequate tumor content is needed for reliable sequencing. When tissue is limited or hard to obtain, a blood sample (liquid biopsy) may sometimes be used to estimate TMB. The laboratory and oncology team decide which sample type is suitable based on the cancer type, location, and available material.</p>"
+          },
+          {
+            "q": "How long does a TMB test take?",
+            "a": "<p>TMB test results typically take around one to three weeks, depending on the laboratory, the sequencing platform, and whether the sample is sent to a specialized center. TMB is often reported together with other genomic markers as part of a broader comprehensive genomic profiling panel, which can affect turnaround time. Delays may occur if additional tissue is required. Your oncology team can give a more accurate timeline for your specific test.</p>"
+          },
+          {
+            "q": "Is TMB testing suitable for all cancer patients?",
+            "a": "<p>TMB testing is not needed for every cancer patient and may be more relevant in selected situations. It is most often considered for advanced or metastatic cancers where immunotherapy is a possible option, such as certain lung, melanoma, bladder, or other solid tumors. Whether TMB testing is appropriate depends on cancer type, stage, previous treatment, and overall health. The decision should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does a TMB test cost?",
+            "a": "<p>The cost of TMB testing varies widely because it is usually part of a larger next-generation sequencing panel rather than a standalone test. Prices depend on the laboratory, the size of the gene panel, the country, and whether tissue or blood is used. Final cost also depends on hospital charges, additional tests, and insurance coverage. Patients should confirm the exact price and what is included directly with the testing laboratory or hospital.</p>"
+          },
+          {
+            "q": "Is TMB testing available in India?",
+            "a": "<p>TMB testing is available in India through several specialized laboratories and cancer centers that offer next-generation sequencing and comprehensive genomic profiling. Availability may vary by city, hospital, and the specific testing platform used. Some samples may be sent to central reference laboratories for processing. Whether TMB testing is appropriate, and where it can be performed, depends on the cancer type and should be confirmed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer TMB testing?",
+            "a": "<p>TMB testing is offered in many countries with advanced cancer diagnostic services, including the United States, several European nations, India, China, and other regions with next-generation sequencing laboratories. Access and specific platforms differ between countries and centers. Some patients send samples internationally to specialized reference laboratories. The choice of where to test depends on availability, cost, turnaround time, and the treating team's guidance rather than location alone.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "How does TMB affect immunotherapy decisions?",
+            "a": "<p>TMB can help oncologists estimate whether immunotherapy, especially immune checkpoint inhibitors, may benefit a patient. Tumors with high TMB are, in some cancers, more likely to respond because they present more abnormal proteins for the immune system to target. However, TMB is used alongside other factors such as PD-L1 status, MSI, cancer type, and prior treatment. Final decisions about immunotherapy should always be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Can a high TMB guarantee immunotherapy will work?",
+            "a": "<p>No, a high TMB does not guarantee that immunotherapy will work. TMB is a predictive marker that may improve the chance of response in some cancers, but many other factors influence outcomes, and some high-TMB tumors do not respond. Similarly, some tumors with lower TMB may still benefit. Response varies between individuals, and expected benefit should be discussed realistically with a qualified oncology team based on the full clinical picture.</p>"
+          },
+          {
+            "q": "Can TMB help me qualify for a clinical trial?",
+            "a": "<p>TMB results may help identify clinical trials that a patient could be considered for, since some immunotherapy trials use TMB as part of their eligibility criteria. However, having a high TMB does not guarantee enrollment. Trials have strict inclusion and exclusion rules, and eligibility is decided only after medical record review and investigator assessment. Discuss possible trials, and whether your TMB result is relevant, with your oncology team.</p>"
+          },
+          {
+            "q": "What other biomarkers are tested alongside TMB?",
+            "a": "<p>TMB is often tested together with other biomarkers that help guide cancer treatment. These may include PD-L1 expression, microsatellite instability (MSI), mismatch repair (MMR) status, and specific gene mutations or fusions relevant to targeted therapy. Together, these markers give a fuller picture of how a tumor may behave and respond to treatment. The oncology team interprets all results together when planning the most appropriate treatment approach.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed to interpret a TMB result?",
+            "a": "<p>To interpret a TMB result, oncologists usually review the full genomic sequencing report, the pathology report confirming the cancer type, and imaging or staging information. Details of previous treatments and other biomarkers such as PD-L1 or MSI are also helpful. Having complete and clear reports allows a specialist to place the TMB value in context. Patients seeking a second opinion should keep these documents organized and available for review.</p>"
+          },
+          {
+            "q": "Can international patients get a second opinion on TMB results?",
+            "a": "<p>Yes, international patients can seek a second opinion on TMB and other biomarker results by sharing their sequencing report, pathology slides, and clinical history with a specialist or center abroad. A second opinion may help confirm the interpretation or explore additional treatment options. Access to treatment abroad also depends on hospital acceptance, medical review, visa approval, and travel fitness, so early planning and complete records are important.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TMB testing and interpretation?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or laboratories for TMB and genomic testing, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to understand biomarker results and explore suitable options. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

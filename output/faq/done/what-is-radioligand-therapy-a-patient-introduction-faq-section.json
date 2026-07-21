@@ -1,0 +1,114 @@
+{
+  "pillar": "What Is Radioligand Therapy? A Patient Introduction",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: what-is-radioligand-therapy-a-patient-introduction",
+  "route": "⚠ VERIFY: /<section>/what-is-radioligand-therapy-a-patient-introduction",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Radioligand Therapy",
+    "intro": "Radioligand therapy is a targeted treatment that delivers radiation directly to cancer cells. These answers explain how it works, who it may suit, and what patients and caregivers should know.",
+    "groups": [
+      {
+        "title": "Understanding Radioligand Therapy",
+        "items": [
+          {
+            "q": "What is radioligand therapy?",
+            "a": "<p>Radioligand therapy is a targeted cancer treatment that carries a small amount of radiation directly to cancer cells. It combines a targeting molecule, called a ligand, with a radioactive particle. The ligand finds a specific marker on the surface of cancer cells, and the attached radiation then damages those cells while limiting harm to healthy tissue. Suitability depends on cancer type, biomarker profile, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does radioligand therapy work?",
+            "a": "<p>Radioligand therapy works by seeking out a specific protein or receptor found on certain cancer cells. The targeting ligand binds to that marker, delivering a radioactive isotope close to the tumour, where it releases radiation that damages the cancer cell's DNA. Because the radiation acts over a very short distance, nearby healthy cells are relatively spared. The treatment is given by injection and planned carefully by a nuclear medicine and oncology team.</p>"
+          },
+          {
+            "q": "What is theranostics and how does it relate to radioligand therapy?",
+            "a": "<p>Theranostics combines diagnosis and treatment using the same molecular target. A scan first uses a small imaging dose to confirm that a patient's cancer carries the specific marker, such as PSMA or somatostatin receptors. If the scan shows uptake, a therapeutic radioligand aimed at the same target may then be considered. This \"see it, treat it\" approach helps select patients most likely to benefit and should be guided by a specialist team.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with radioligand therapy?",
+            "a": "<p>Radioligand therapy is currently used mainly for certain neuroendocrine tumours and advanced prostate cancer. Neuroendocrine tumours that express somatostatin receptors may respond to Lu-177 DOTATATE, while prostate cancers that express PSMA may be treated with Lu-177 PSMA. Research is exploring other cancers as well. Whether a specific patient is suitable depends on cancer type, stage, biomarker testing, previous treatment, and overall health, and should be confirmed by an oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for radioligand therapy?",
+            "a": "<p>Eligibility for radioligand therapy is decided after specialist review and confirmatory scans. It may be considered for selected patients whose cancer expresses the specific target, such as PSMA in prostate cancer or somatostatin receptors in neuroendocrine tumours. Doctors also assess disease stage, previous treatments, kidney and bone marrow function, and general health. Final decisions depend on cancer type, biomarker profile, and overall condition, and should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "How is radioligand therapy given?",
+            "a": "<p>Radioligand therapy is usually given as a slow intravenous injection in a hospital or nuclear medicine unit. Treatment is delivered in cycles, typically several weeks apart, with blood tests and scans between doses to monitor response and safety. Patients may need to stay under observation for a short time and follow simple radiation-safety instructions afterward. The exact schedule and number of cycles are planned by the treating oncology and nuclear medicine team.</p>"
+          },
+          {
+            "q": "What are the side effects of radioligand therapy?",
+            "a": "<p>Radioligand therapy is generally well tolerated, but side effects can occur. Common ones include tiredness, nausea, dry mouth, and temporary drops in blood counts. Because the kidneys and bone marrow can be affected, doctors monitor them with regular blood tests. Serious effects are less common but possible. Side effects vary between patients and treatment types, and any new symptoms should be discussed promptly with the treating oncology or nuclear medicine team.</p>"
+          },
+          {
+            "q": "Is radioligand therapy safe for people around me?",
+            "a": "<p>Radioligand therapy involves a small amount of radiation, so patients follow simple safety precautions for a short period after treatment. These may include keeping some distance from young children and pregnant women, careful handling of body fluids, and good hygiene for a few days. The care team provides clear, personalised instructions based on the specific isotope used. Following this guidance helps protect family members and caregivers while the radiation naturally clears from the body.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does radioligand therapy cost?",
+            "a": "<p>The cost of radioligand therapy varies widely and cannot be quoted as a single fixed price. It depends on the country, hospital, type of radioligand, number of cycles, scans, supportive care, and length of stay. Because the treatment is given over several cycles, total costs add up across the full course. Final costs depend on diagnosis, protocol, complications, and the treating team's advice, and a personalised estimate should be requested from the hospital.</p>"
+          },
+          {
+            "q": "Is radioligand therapy available in India?",
+            "a": "<p>Radioligand therapy is available at selected specialised centres in India that have nuclear medicine facilities. Treatments such as Lu-177 PSMA for prostate cancer and Lu-177 DOTATATE for neuroendocrine tumours are offered at some major hospitals. Availability, waiting times, and isotope supply can vary between centres. Whether a specific patient is suitable, and where treatment can be arranged, should be confirmed after medical review by a qualified oncology and nuclear medicine team.</p>"
+          },
+          {
+            "q": "Which countries offer radioligand therapy?",
+            "a": "<p>Radioligand therapy is offered in several countries with established nuclear medicine programmes, including India, parts of Europe, the United States, China, and others. Availability of specific radioligands, approvals, and clinical trials differs from country to country. Some patients travel abroad to access treatments not yet available locally. Access depends on hospital acceptance, medical review, and local regulations, so patients should confirm options with the treating team before making any travel plans.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What is Lu-177 PSMA therapy?",
+            "a": "<p>Lu-177 PSMA therapy is a radioligand treatment used for selected patients with advanced prostate cancer. It targets a protein called PSMA (prostate-specific membrane antigen) found on many prostate cancer cells, delivering radiation directly to them. It may be considered when the cancer has spread and no longer responds well to standard hormone therapy, and after a PSMA scan confirms uptake. Eligibility and timing should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "What is Lu-177 DOTATATE therapy?",
+            "a": "<p>Lu-177 DOTATATE therapy is a radioligand treatment for selected patients with neuroendocrine tumours. It targets somatostatin receptors, which are present on many of these tumour cells, and delivers radiation directly to them. It may be considered when tumours express these receptors on a scan and have progressed despite other treatments. Suitability depends on receptor status, disease extent, and overall health, and should be assessed by a specialist neuroendocrine tumour and nuclear medicine team.</p>"
+          },
+          {
+            "q": "Are there clinical trials for radioligand therapy?",
+            "a": "<p>Yes, many clinical trials are studying radioligand therapy in prostate cancer, neuroendocrine tumours, and other cancers, including new targets and isotopes. Trials may offer access to emerging treatments, but they do not guarantee enrolment or benefit and often have strict inclusion and exclusion criteria. Eligibility is decided after medical record review and investigator assessment. Patients interested in trials should discuss suitable options with their oncology team, who can help identify relevant studies.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed for radioligand therapy?",
+            "a": "<p>A radioligand therapy assessment usually requires recent diagnostic and staging reports. These typically include pathology or biopsy results, relevant scans such as a PSMA or somatostatin-receptor PET/CT, blood tests covering kidney and bone marrow function, and a summary of previous treatments. A complete medical history helps specialists judge suitability. Exact requirements vary by centre and cancer type, and the treating team will confirm which reports are needed before planning treatment.</p>"
+          },
+          {
+            "q": "How can international patients access radioligand therapy?",
+            "a": "<p>International patients can access radioligand therapy by first having their medical records reviewed by a treatment centre that offers it. Access depends on hospital acceptance, confirmatory scans, medical review, visa approval, travel fitness, and the patient's overall condition. Because treatment is given over several cycles, patients should plan for repeat visits or an extended stay. No hospital admission, visa, or treatment acceptance can be guaranteed in advance of this specialist assessment.</p>"
+          },
+          {
+            "q": "How many cycles of radioligand therapy are usually needed?",
+            "a": "<p>Radioligand therapy is usually given in several cycles rather than a single dose. For treatments such as Lu-177 PSMA or Lu-177 DOTATATE, a typical course often involves around four to six cycles spaced several weeks apart, though this varies. The exact number depends on the cancer type, how well the disease responds, side effects, and blood test results. The treating oncology and nuclear medicine team confirms and adjusts the plan for each patient.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with radioligand therapy?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help international patients connect with centres offering radioligand therapy and plan the multiple cycles involved. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

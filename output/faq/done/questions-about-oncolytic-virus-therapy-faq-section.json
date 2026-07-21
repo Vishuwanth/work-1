@@ -1,0 +1,68 @@
+{
+  "pillar": "Questions About Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-about-oncolytic-virus-therapy",
+  "route": "⚠ VERIFY: /insights/questions-about-oncolytic-virus-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Oncolytic Virus Therapy",
+    "intro": "Oncolytic virus therapy is an emerging cancer treatment that uses modified viruses to attack tumor cells and stimulate the immune system. These FAQs explain how it works, who may be eligible, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Oncolytic Virus Therapy",
+        "items": [
+          {
+            "q": "What is oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy is a treatment that uses modified viruses to infect and destroy cancer cells while triggering an immune response against the tumor. The viruses are engineered to replicate mainly inside cancer cells, leaving most healthy cells unharmed. It is still a developing field, with some approved therapies and many under study in clinical trials. Suitability depends on cancer type, stage, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does oncolytic virus therapy work?",
+            "a": "<p>Oncolytic virus therapy works by using viruses that selectively enter and multiply inside cancer cells, causing them to burst and die. This process also releases tumor signals that help the immune system recognize and attack remaining cancer cells. Some therapies are injected directly into a tumor, while others are being studied for delivery through the bloodstream. The exact approach depends on the cancer type, location, and the treating team's assessment.</p>"
+          },
+          {
+            "q": "Which cancers may respond to oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy has shown the most progress in advanced melanoma, where an approved therapy is used for certain skin and lymph node lesions. Researchers are also studying it in brain tumors, head and neck cancers, and other solid tumors through clinical trials. Response varies widely between patients and cancer types. Whether it may be considered depends on diagnosis, stage, prior treatment, and evaluation by an experienced oncology specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Benefits",
+        "items": [
+          {
+            "q": "Who is eligible for oncolytic virus therapy?",
+            "a": "<p>Eligibility for oncolytic virus therapy depends on the cancer type, stage, tumor location, previous treatments, and overall health. It may be suitable for selected patients with certain advanced cancers or those enrolling in clinical trials. Patients with weakened immune systems or specific infections may not be candidates. Because this is a specialized and evolving treatment, final eligibility should be decided by a qualified oncology team after reviewing complete medical records.</p>"
+          },
+          {
+            "q": "What are the benefits of oncolytic virus therapy?",
+            "a": "<p>The potential benefit of oncolytic virus therapy is that it can attack cancer cells directly while also activating the immune system to target tumors more broadly. For some patients with advanced disease, it may offer an additional option when standard treatments have limited results. Benefits vary between individuals, and it does not guarantee tumor control or cure. Its role should be discussed with the treating medical team based on each patient's situation.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of oncolytic virus therapy?",
+            "a": "<p>Common side effects of oncolytic virus therapy include flu-like symptoms such as fever, chills, fatigue, and pain or reactions at the injection site. Because the therapy uses live modified viruses, precautions are needed to reduce transmission to others. More serious reactions are possible but less common. Side effects vary by therapy and patient, and they should be monitored and managed by the treating oncology team throughout the course of treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "How much does oncolytic virus therapy cost?",
+            "a": "<p>The cost of oncolytic virus therapy varies widely and cannot be fixed in advance. It depends on the hospital, country, cancer type, number of treatment sessions, imaging, supportive care, and length of stay. Some treatments are only available through clinical trials, which may affect cost. Patients should request a detailed estimate from the treating hospital, as final expenses depend on diagnosis, protocol, and any complications during care.</p>"
+          },
+          {
+            "q": "How can international patients access oncolytic virus therapy or trials?",
+            "a": "<p>International patients can explore oncolytic virus therapy through specialized cancer centers or clinical trials, but access is not guaranteed. It depends on hospital acceptance, medical record review, trial eligibility criteria, visa approval, and fitness to travel. Trials in particular have strict inclusion and exclusion rules assessed by investigators. Patients should prepare recent reports and a pathology summary, and confirm details with the center before making any travel or treatment plans.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with oncolytic virus therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients understand which clinical trials may be relevant to explore. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access and eligibility are never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

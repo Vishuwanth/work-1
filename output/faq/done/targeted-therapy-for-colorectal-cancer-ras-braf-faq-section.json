@@ -1,0 +1,64 @@
+{
+  "pillar": "Targeted Therapy for Colorectal Cancer (RAS, BRAF)",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: targeted-therapy-for-colorectal-cancer-ras-braf",
+  "route": "⚠ VERIFY: /insights/targeted-therapy-for-colorectal-cancer-ras-braf",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy for Colorectal Cancer (RAS, BRAF)",
+    "intro": "These answers explain how RAS and BRAF mutation testing guides targeted therapy in colorectal cancer, who may be eligible, and what patients can expect. All treatment decisions should be confirmed by a qualified oncology team.",
+    "groups": [
+      {
+        "title": "Understanding RAS and BRAF Targeted Therapy",
+        "items": [
+          {
+            "q": "What is targeted therapy for colorectal cancer?",
+            "a": "<p>Targeted therapy for colorectal cancer uses drugs that act on specific molecular features of a tumor, such as the EGFR protein or genetic changes like RAS and BRAF mutations. Unlike standard chemotherapy, these medicines aim to block signals that help cancer cells grow. Whether targeted therapy may be suitable depends on cancer type, stage, biomarker testing, previous treatment, and overall health, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are RAS and BRAF mutations in colorectal cancer?",
+            "a": "<p>RAS and BRAF are genes that, when mutated, can drive colorectal cancer growth and influence which treatments may work. RAS includes KRAS and NRAS mutations, while BRAF most often involves the V600E change. Testing tumor tissue for these mutations helps guide treatment planning and predict how a tumor may respond. Results depend on laboratory analysis and specialist interpretation, and final treatment decisions should be made by the treating medical team after full biomarker review.</p>"
+          },
+          {
+            "q": "How does anti-EGFR therapy work for RAS wild-type colorectal cancer?",
+            "a": "<p>Anti-EGFR therapy works by blocking the epidermal growth factor receptor, a protein that can signal colorectal cancer cells to grow and divide. Drugs such as cetuximab and panitumumab may be considered for tumors that are RAS wild-type, meaning no RAS mutation is detected. This approach may be suitable for selected patients depending on mutation status, tumor location, and prior therapy, and should be guided by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing, Eligibility, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for targeted therapy based on RAS and BRAF status?",
+            "a": "<p>Eligibility for targeted therapy depends largely on a tumor's RAS and BRAF mutation status, along with cancer stage, tumor location, previous treatment, and overall health. Patients with RAS wild-type tumors may be considered for anti-EGFR drugs, while those with BRAF V600E mutations may be offered different combinations. Biomarker testing is essential before treatment. Final eligibility is determined by the treating oncology team after reviewing pathology and clinical details.</p>"
+          },
+          {
+            "q": "Why does RAS mutation status affect treatment choice?",
+            "a": "<p>RAS mutation status affects treatment choice because anti-EGFR drugs are generally not effective when a RAS mutation is present. In RAS-mutated colorectal cancer, these medicines may offer little benefit, so other options such as chemotherapy or different targeted or immune-based approaches may be considered. This is why RAS testing is recommended before starting therapy. Treatment decisions depend on the full biomarker profile and should be made by a specialist team.</p>"
+          },
+          {
+            "q": "What is the treatment approach for BRAF V600E-mutated colorectal cancer?",
+            "a": "<p>BRAF V600E-mutated colorectal cancer is often more aggressive and may be treated with combinations that include a BRAF inhibitor such as encorafenib together with an anti-EGFR drug like cetuximab. This combination may be considered for selected patients, usually after initial chemotherapy. Response varies between individuals, and eligibility depends on mutation confirmation, stage, and overall health. The treating oncology team decides the most appropriate approach after reviewing test results.</p>"
+          },
+          {
+            "q": "What are the side effects of targeted therapy for colorectal cancer?",
+            "a": "<p>Side effects of targeted therapy for colorectal cancer vary by drug but may include skin rash, dry skin, nail changes, diarrhea, fatigue, and changes in blood electrolytes with anti-EGFR treatment. BRAF-targeted combinations can cause additional effects such as joint pain or fever. Most side effects are manageable with medical support, though individual experiences differ. Any symptoms should be reported to and managed by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Support for Patients",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with targeted therapy for colorectal cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For targeted therapy, this may include helping arrange review of RAS and BRAF biomarker testing. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

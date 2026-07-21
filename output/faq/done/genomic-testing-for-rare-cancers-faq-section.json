@@ -1,0 +1,64 @@
+{
+  "pillar": "Genomic Testing for Rare Cancers",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: genomic-testing-for-rare-cancers",
+  "route": "⚠ VERIFY: /insights/genomic-testing-for-rare-cancers",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Genomic Testing for Rare Cancers",
+    "intro": "Genomic testing can reveal the specific mutations driving a rare cancer and help guide more targeted treatment decisions. These answers explain how it works, who may benefit, and how international patients can access it.",
+    "groups": [
+      {
+        "title": "Understanding Genomic Testing for Rare Cancers",
+        "items": [
+          {
+            "q": "What is genomic testing for rare cancers?",
+            "a": "<p>Genomic testing for rare cancers is a laboratory analysis that examines the DNA and RNA of tumor cells to identify specific mutations, gene fusions, or other changes driving the cancer. Because rare cancers often lack standard treatment protocols, this testing can uncover targetable alterations that guide therapy. It is usually performed on a tumor tissue sample or, in some cases, a blood sample, and results should always be reviewed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Why is genomic testing especially important for rare cancers?",
+            "a": "<p>Genomic testing is especially valuable for rare cancers because standard, cancer-specific treatment guidelines are often limited or unavailable. By identifying the molecular drivers of the tumor, testing may reveal targeted therapies or clinical trials that would not otherwise be considered. This approach, sometimes called precision oncology, can be helpful when a cancer is difficult to classify or has progressed on conventional treatment. Final treatment decisions depend on specialist review of the complete clinical picture.</p>"
+          },
+          {
+            "q": "What types of genomic tests are used?",
+            "a": "<p>Common genomic tests include comprehensive genomic profiling, next-generation sequencing panels, whole-exome or whole-genome sequencing, and liquid biopsy from blood. Each test differs in how many genes it examines and the type of sample required. Larger panels may detect more potential targets but can be costlier. The most suitable test depends on cancer type, available tissue, prior treatment, and the treating team's recommendations, and should be selected after specialist consultation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Process, Eligibility, and Results",
+        "items": [
+          {
+            "q": "Who is eligible for genomic testing for a rare cancer?",
+            "a": "<p>Genomic testing may be considered for many patients with a rare or hard-to-treat cancer, particularly when standard options are limited or the diagnosis is uncertain. Eligibility depends on cancer type, stage, available tumor tissue, previous treatment, and overall health. Some patients with advanced or recurrent disease may benefit most, while others may not gain actionable results. Whether testing is appropriate should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What samples and reports are needed for genomic testing?",
+            "a": "<p>Genomic testing usually requires a tumor tissue sample, often from an existing biopsy or surgical specimen, and in some cases a blood sample for liquid biopsy. Pathology reports, prior imaging, and a treatment history help the laboratory and oncology team interpret results accurately. Adequate, good-quality tissue is important, as older or limited samples may not yield reliable results. Requirements vary by laboratory, so confirm them with the treating team beforehand.</p>"
+          },
+          {
+            "q": "How are genomic test results used to guide treatment?",
+            "a": "<p>Genomic test results are used to identify mutations or alterations that may be matched to targeted therapies, immunotherapy, or clinical trials. A molecular tumor board or oncology specialist typically reviews the findings alongside the patient's diagnosis and history. Not every result leads to a treatment change, and some alterations have no approved therapy. Final treatment decisions should always be made by the treating medical team after weighing benefits, risks, and available options.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support",
+        "items": [
+          {
+            "q": "How much does genomic testing for rare cancers cost?",
+            "a": "<p>The cost of genomic testing varies widely depending on the test type, the number of genes analyzed, the laboratory, and the country where it is performed. Broad comprehensive profiling generally costs more than smaller targeted panels. Final pricing also depends on sample handling, additional tests, and reporting requirements. Because estimates change over time and by provider, patients should request a detailed quote from the laboratory or hospital and confirm what is included.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with genomic testing for rare cancers?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify laboratories or specialists offering genomic testing, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For international patients, access depends on hospital acceptance, medical review, and travel fitness, and outcomes cannot be guaranteed. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

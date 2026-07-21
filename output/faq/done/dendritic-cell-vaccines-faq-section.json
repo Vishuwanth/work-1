@@ -1,0 +1,64 @@
+{
+  "pillar": "Dendritic Cell Vaccines",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: dendritic-cell-vaccines",
+  "route": "⚠ VERIFY: /insights/dendritic-cell-vaccines",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Dendritic Cell Vaccines",
+    "intro": "Dendritic cell vaccines are a personalized form of cancer immunotherapy that uses a patient's own immune cells to help the body target cancer. These FAQs explain how they work, who may benefit, and what to consider.",
+    "groups": [
+      {
+        "title": "Understanding Dendritic Cell Vaccines",
+        "items": [
+          {
+            "q": "What is a dendritic cell vaccine?",
+            "a": "<p>A dendritic cell vaccine is a type of cancer immunotherapy that uses a patient's own immune cells to help the body recognize and attack cancer. Dendritic cells are specialized immune cells that train other immune cells, called T-cells, to target tumor markers. It is considered a personalized or investigational treatment for selected patients and should be discussed with a qualified oncology team based on the individual diagnosis and overall health.</p>"
+          },
+          {
+            "q": "How does a dendritic cell vaccine work?",
+            "a": "<p>A dendritic cell vaccine works by exposing a patient's dendritic cells to specific cancer markers, then returning them to the body to activate the immune system. Once reintroduced, these cells help T-cells recognize and attack cancer cells carrying those markers. The aim is to strengthen the body's own anti-tumor response. Its effectiveness varies by cancer type, stage, and biomarker profile, and outcomes cannot be guaranteed for any individual patient.</p>"
+          },
+          {
+            "q": "Which cancers may be treated with dendritic cell vaccines?",
+            "a": "<p>Dendritic cell vaccines have been studied in several cancers, including melanoma, prostate cancer, glioblastoma, and kidney cancer, among other solid tumors. Availability and supporting evidence vary widely, and many uses remain investigational or trial-based. Whether this approach is appropriate depends on the specific cancer type, stage, biomarker profile, and prior treatment. A qualified oncology team should confirm whether it may be suitable for a particular patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for dendritic cell vaccine therapy?",
+            "a": "<p>Eligibility for dendritic cell vaccine therapy depends on cancer type, stage, biomarker profile, previous treatment, and overall health. It may be considered for selected patients, often as part of a clinical trial or alongside standard treatment rather than as a replacement. A specialist must review medical records, pathology, and imaging before recommending it. Final decisions about suitability should always be made by the treating oncology team.</p>"
+          },
+          {
+            "q": "How is a dendritic cell vaccine made and given?",
+            "a": "<p>A dendritic cell vaccine is made by collecting immune cells from the patient's blood, then growing and exposing them to cancer markers in a laboratory before injecting them back into the body. The process usually takes one to two weeks to prepare and may be given in several doses. Exact steps depend on the protocol and center. Preparation and scheduling should be coordinated with the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of dendritic cell vaccines?",
+            "a": "<p>Dendritic cell vaccines are generally considered to have milder side effects than chemotherapy, but reactions can still occur. Common effects may include low-grade fever, chills, fatigue, and redness or swelling at the injection site. Less commonly, immune-related reactions may develop. Side effects vary between patients and treatment protocols, and no treatment is completely risk-free. Any symptoms should be monitored and managed by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "How much does dendritic cell vaccine treatment cost and where is it available?",
+            "a": "<p>The cost of dendritic cell vaccine treatment varies widely and depends on the country, hospital, cancer type, protocol, number of doses, and required tests. It is offered at selected specialized centers and often within clinical trials. Estimated costs should be confirmed directly with the treating hospital. Access also depends on medical review, hospital acceptance, and, for international patients, visa approval and travel fitness, none of which can be guaranteed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with dendritic cell vaccines?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

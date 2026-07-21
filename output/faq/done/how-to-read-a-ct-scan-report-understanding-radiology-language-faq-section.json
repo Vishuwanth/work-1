@@ -1,0 +1,114 @@
+{
+  "pillar": "How to read a CT scan report: understanding radiology language",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: how-to-read-a-ct-scan-report-understanding-radiology-language",
+  "route": "⚠ VERIFY: /<section>/how-to-read-a-ct-scan-report-understanding-radiology-language",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How to Read a CT Scan Report",
+    "intro": "A plain-language guide to the sections, measurements, and radiology terms found in a CT scan report, so patients and caregivers can follow the findings before discussing them with the treating team.",
+    "groups": [
+      {
+        "title": "Understanding CT Scan Reports",
+        "items": [
+          {
+            "q": "What is a CT scan report?",
+            "a": "<p>A CT scan report is a written summary in which a radiologist describes what the computed tomography images show. It usually records the reason for the scan, the technique used, detailed findings for each body region, and a final impression. The report interprets the pictures into medical language, but it is not a diagnosis on its own and should be reviewed together with your treating oncology team.</p>"
+          },
+          {
+            "q": "How is a CT scan report structured?",
+            "a": "<p>Most CT scan reports follow a standard structure with several clear sections. These typically include the clinical history or indication, the imaging technique and whether contrast was used, a detailed findings section describing each organ or region, and an impression or conclusion. The impression is usually the most important part for patients, as it summarises the key findings, though every result should be interpreted by your doctor.</p>"
+          },
+          {
+            "q": "What does the impression mean in a CT scan report?",
+            "a": "<p>The impression is the radiologist's concise summary of the most important findings from the scan. It highlights the main conclusions, flags anything abnormal, and may suggest further tests or follow-up imaging. Because the detailed findings section can be long and technical, many doctors read the impression first. Even so, the impression should always be discussed with your treating team, who consider it alongside your history and other reports.</p>"
+          },
+          {
+            "q": "What common radiology terms should patients know?",
+            "a": "<p>Several radiology terms appear repeatedly in CT reports and are helpful to recognise. \"Lesion\" means an area that looks abnormal, \"nodule\" is a small rounded spot, and \"mass\" usually refers to a larger growth. \"Hypodense\" and \"hyperdense\" describe how dark or bright a structure appears. These words describe appearance, not a confirmed diagnosis, so their meaning should be clarified with a qualified doctor.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process and Safety",
+        "items": [
+          {
+            "q": "What does with contrast mean on a CT scan report?",
+            "a": "<p>\"With contrast\" means a special dye was given, usually into a vein, to make blood vessels, organs, and abnormal areas show up more clearly. Contrast can help distinguish tumours from normal tissue and highlight areas of active blood flow. Whether contrast is suitable depends on kidney function, allergies, and overall health, so the decision to use it is made by the radiology and treating medical teams.</p>"
+          },
+          {
+            "q": "What does no evidence of disease mean on a CT report?",
+            "a": "<p>\"No evidence of disease\" means the scan did not show any visible signs of cancer at the time of imaging. It is reassuring, but it does not guarantee that no cancer cells remain, because CT scans cannot detect very small amounts of disease. This phrase should always be interpreted alongside blood tests, other imaging, and clinical examination by your oncology team before drawing any conclusions.</p>"
+          },
+          {
+            "q": "What do measurements like a 2.3 cm lesion mean?",
+            "a": "<p>Measurements such as \"2.3 cm lesion\" describe the size of an abnormal area seen on the scan. Radiologists record size because changes over time can indicate whether something is growing, stable, or shrinking. Comparing measurements across scans is often more meaningful than a single number. What a specific size means for you depends on the location, the suspected cause, and your treating team's overall assessment.</p>"
+          },
+          {
+            "q": "What does incidental finding mean in a CT report?",
+            "a": "<p>An incidental finding is something the scan detects that was not the original reason for the imaging. Examples include small cysts, benign nodules, or minor changes in an unrelated organ. Many incidental findings are harmless, but some may need follow-up imaging or tests to be sure. Your doctor decides whether an incidental finding requires monitoring, further evaluation, or no action, based on your overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access and Countries",
+        "items": [
+          {
+            "q": "How much does a CT scan cost?",
+            "a": "<p>The cost of a CT scan varies widely depending on the country, hospital, body region scanned, and whether contrast is used. In many centres a single CT study may range from a modest fee to a much higher amount at private facilities. Final costs also depend on additional views, radiologist reporting, and any repeat imaging. It is best to confirm exact pricing directly with the imaging centre beforehand.</p>"
+          },
+          {
+            "q": "Can I get my CT scan report explained by a specialist?",
+            "a": "<p>Yes, a CT scan report can be explained by a radiologist or your treating specialist, who can translate the medical language into terms you understand. Bringing both the written report and the actual images helps, as specialists often prefer to review the scans directly. A clear explanation can help you prepare questions, but treatment decisions should always be made by your qualified oncology team after full review.</p>"
+          },
+          {
+            "q": "Are CT scan reports the same across countries?",
+            "a": "<p>CT scan reports follow broadly similar principles worldwide, but the exact format, terminology, and level of detail can vary between countries and hospitals. Some reports are highly structured, while others are written as free text. Measurements, staging references, and language may differ. When seeking care or a second opinion abroad, sharing your original report and images helps the reviewing radiologist interpret findings accurately in context.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What is RECIST and why does it appear in cancer CT reports?",
+            "a": "<p>RECIST stands for Response Evaluation Criteria in Solid Tumours, a standardised system for measuring how cancer changes on scans. It defines how target lesions are selected and measured so that tumour response can be assessed consistently over time. RECIST is often used in cancer care and clinical trials to classify disease as responding, stable, or progressing. Your oncology team applies these criteria alongside your overall clinical picture.</p>"
+          },
+          {
+            "q": "How do CT reports track whether a tumour is responding to treatment?",
+            "a": "<p>CT reports track treatment response by comparing the size and number of lesions between scans done at different times. Radiologists note whether measured areas have grown, stayed the same, or shrunk, and may describe the change as progression, stable disease, or response. These comparisons guide treatment decisions, but a single scan is rarely conclusive. Your oncology team interprets the trend together with symptoms and other test results.</p>"
+          },
+          {
+            "q": "Do clinical trials rely on CT scan reports?",
+            "a": "<p>Yes, many cancer clinical trials rely heavily on CT scan reports to assess eligibility and measure how treatment is working. Standardised criteria such as RECIST are often used so results can be compared reliably. However, imaging is only one part of trial screening, and eligibility is decided after full medical record review and investigator assessment. Trials have strict inclusion and exclusion criteria, and participation is never guaranteed.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What should I do if my CT report mentions a suspicious finding?",
+            "a": "<p>If your CT report mentions a suspicious or indeterminate finding, the most important step is to discuss it promptly with your treating doctor rather than drawing conclusions alone. Words like \"suspicious\" or \"cannot exclude\" indicate uncertainty, not a confirmed diagnosis. Your doctor may recommend further imaging, a biopsy, or specialist review. Keeping your report and images together makes any second opinion or additional evaluation more accurate.</p>"
+          },
+          {
+            "q": "Should I bring my CT images or just the report for a second opinion?",
+            "a": "<p>For a second opinion it is best to bring both the CT report and the actual images, usually on a disc or shared digitally. Radiologists often prefer to review the raw images rather than relying only on the written summary, as they may notice additional detail. Having complete imaging helps specialists give a more reliable interpretation, especially when treatment planning or international review is involved.</p>"
+          },
+          {
+            "q": "Why do two radiologists sometimes describe the same scan differently?",
+            "a": "<p>Two radiologists may describe the same scan slightly differently because interpreting images involves professional judgement, and subtle findings can be read in more than one way. Differences in wording, measurement, or emphasis are common and do not necessarily mean an error. This is one reason second opinions can be valuable. Any differences should be resolved by your treating team, who consider the full clinical picture before deciding.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients understand CT scan reports?",
+            "a": "<p>CancerFax helps patients organise medical reports and imaging, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to have a CT scan report reviewed and explained. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, imaging, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

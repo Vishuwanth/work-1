@@ -1,0 +1,68 @@
+{
+  "pillar": "Eligibility for Pediatric Advanced Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: eligibility-for-pediatric-advanced-therapy",
+  "route": "⚠ VERIFY: /insights/eligibility-for-pediatric-advanced-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for Pediatric Advanced Therapy",
+    "intro": "Advanced therapies such as CAR T-cell treatment, targeted drugs, and stem cell transplant offer new options for some children with cancer, but eligibility is decided case by case. These FAQs explain who may qualify, what tests are needed, and how families can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Pediatric Advanced Therapy Eligibility",
+        "items": [
+          {
+            "q": "What is pediatric advanced therapy for cancer?",
+            "a": "<p>Pediatric advanced therapy refers to newer, specialized cancer treatments for children beyond standard chemotherapy and radiation. These may include CAR T-cell therapy, targeted drugs matched to specific gene changes, immunotherapy, and stem cell transplant. Such therapies may be considered for selected children based on cancer type, stage, biomarker profile, and previous treatment. Whether a specific therapy is suitable should be discussed with a qualified pediatric oncology team after full evaluation.</p>"
+          },
+          {
+            "q": "Who is eligible for pediatric advanced therapy?",
+            "a": "<p>Eligibility for pediatric advanced therapy depends on the child's cancer type, stage, biomarker or genetic profile, previous treatments, age, and overall health. Some therapies are designed for specific diagnoses, such as certain leukemias or lymphomas, while others require particular gene changes. A child who has relapsed or not responded to standard treatment may sometimes be considered. Final eligibility is determined by the treating specialist team after reviewing complete medical records.</p>"
+          },
+          {
+            "q": "Is advanced therapy suitable for all childhood cancers?",
+            "a": "<p>No, advanced therapy is not suitable for every childhood cancer. Each therapy targets specific cancer types or biological features, so what helps one child may not apply to another. Suitability depends on diagnosis, stage, biomarker results, prior therapy response, and the child's overall condition. Some children benefit most from standard proven treatments. The right approach should always be decided by the pediatric oncology team based on the individual case.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Assessment, Tests, and Safety",
+        "items": [
+          {
+            "q": "What tests are needed to check eligibility?",
+            "a": "<p>Eligibility assessment usually requires detailed diagnostic tests, including pathology reports, bone marrow studies where relevant, imaging scans, blood work, and biomarker or genetic testing. These reports help specialists confirm the diagnosis and identify features that may match a particular therapy. Organ function and overall fitness are also checked. The exact tests depend on the cancer type and proposed treatment, and requirements should be confirmed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Can a child be too weak for advanced therapy?",
+            "a": "<p>Yes, a child's overall physical condition is an important factor in eligibility. Some advanced therapies place stress on the body, so specialists assess organ function, blood counts, infections, and general fitness before proceeding. A child who is very unwell may need supportive care first, or a different approach may be considered. These decisions balance possible benefit against risk and should be made carefully by the treating medical team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects to consider?",
+            "a": "<p>Advanced therapies can carry side effects that vary by treatment type, such as immune reactions, low blood counts, infections, or effects on specific organs. CAR T-cell therapy and transplant, for example, require close monitoring in specialized centers. Risks depend on the child's condition and the therapy used. Families should discuss potential benefits and side effects in detail with the pediatric oncology team so decisions reflect the child's individual situation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and Support",
+        "items": [
+          {
+            "q": "How can international patients access pediatric advanced therapy?",
+            "a": "<p>International families can access pediatric advanced therapy by first arranging a medical review of the child's reports at a center offering the treatment. Access depends on hospital acceptance, specialist assessment, visa approval, travel fitness, and the child's condition. Some therapies are available only in certain countries or through clinical trials. Estimated costs, travel planning, and follow-up care should be clarified early, as admission and treatment acceptance cannot be guaranteed in advance.</p>"
+          },
+          {
+            "q": "Can my child join a clinical trial for advanced therapy?",
+            "a": "<p>Some children may be considered for clinical trials studying advanced therapies, but enrollment is never guaranteed. Trials have strict inclusion and exclusion criteria based on diagnosis, age, prior treatment, and specific biomarkers. Eligibility is decided only after the investigator reviews the child's medical records and assessments. Trials may offer access to newer options but also carry uncertainties. Families should discuss whether a suitable trial exists with their pediatric oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with pediatric advanced therapy eligibility?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to explore whether a child may be eligible for advanced therapy options. Treatment and eligibility decisions are always made by the qualified pediatric oncology team after reviewing the child's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

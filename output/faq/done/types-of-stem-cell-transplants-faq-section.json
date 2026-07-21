@@ -1,0 +1,64 @@
+{
+  "pillar": "Types of Stem Cell Transplants",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: types-of-stem-cell-transplants",
+  "route": "⚠ VERIFY: /insights/types-of-stem-cell-transplants",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Types of Stem Cell Transplants",
+    "intro": "Stem cell transplants replace damaged blood-forming cells, and the right type depends on the diagnosis, donor availability, and each patient's overall health. These answers explain the main transplant types and what they mean for patients considering treatment.",
+    "groups": [
+      {
+        "title": "Understanding the Main Transplant Types",
+        "items": [
+          {
+            "q": "What are the main types of stem cell transplants?",
+            "a": "<p>The main types of stem cell transplants are autologous, allogeneic, and syngeneic transplants. In an autologous transplant, a patient's own stem cells are collected, stored, and returned after high-dose treatment. An allogeneic transplant uses cells from a matched donor, while a syngeneic transplant uses cells from an identical twin. The choice depends on cancer type, stage, disease status, donor availability, and specialist review, and should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "What is an autologous stem cell transplant?",
+            "a": "<p>An autologous stem cell transplant uses a patient's own blood-forming stem cells, collected before high-dose chemotherapy and returned afterward to rebuild the bone marrow. It is often considered for conditions such as multiple myeloma and certain lymphomas. Because the cells are the patient's own, there is no risk of graft-versus-host disease. Suitability depends on diagnosis, prior treatment response, and overall health, and final decisions rest with the treating medical team.</p>"
+          },
+          {
+            "q": "What is an allogeneic stem cell transplant?",
+            "a": "<p>An allogeneic stem cell transplant uses healthy stem cells from a donor, such as a sibling, unrelated matched donor, or umbilical cord blood. The donor cells can help fight remaining cancer through a graft-versus-tumor effect, which may benefit conditions like leukemia. This approach carries a risk of graft-versus-host disease and requires close matching. Eligibility depends on donor availability, disease type, age, and overall fitness, and is assessed by the transplant specialist.</p>"
+          },
+          {
+            "q": "What is a syngeneic stem cell transplant?",
+            "a": "<p>A syngeneic stem cell transplant uses stem cells donated by an identical twin, who is a perfect genetic match. Because the donor and recipient are genetically identical, the risk of graft-versus-host disease is very low, unlike standard allogeneic transplants. This option is uncommon because it requires an identical twin donor. Whether it is appropriate depends on the diagnosis, disease status, and specialist evaluation, and should always be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Choosing and Comparing Transplant Options",
+        "items": [
+          {
+            "q": "What is the difference between autologous and allogeneic transplants?",
+            "a": "<p>The key difference is the source of the stem cells: autologous transplants use the patient's own cells, while allogeneic transplants use donor cells. Autologous transplants avoid graft-versus-host disease but do not offer a graft-versus-tumor effect. Allogeneic transplants can help fight cancer but carry higher risks and require donor matching. The better option depends on cancer type, disease status, age, and overall health, and must be determined by the treating transplant team.</p>"
+          },
+          {
+            "q": "What are haploidentical and cord blood transplants?",
+            "a": "<p>Haploidentical and cord blood transplants are forms of allogeneic transplant used when a fully matched donor is unavailable. A haploidentical transplant uses a half-matched family donor, such as a parent, child, or sibling. A cord blood transplant uses stem cells from donated umbilical cord blood. Both expand donor options for patients from diverse backgrounds. Suitability depends on disease type, urgency, cell dose, and specialist assessment, and should be reviewed by the transplant team.</p>"
+          },
+          {
+            "q": "How is the right type of stem cell transplant chosen?",
+            "a": "<p>The right type of stem cell transplant is chosen based on the diagnosis, disease stage, remission status, and donor availability. Specialists also weigh the patient's age, organ function, previous treatments, and overall health, along with the balance between potential benefit and transplant-related risks. Some conditions respond better to autologous transplants, while others may need a donor transplant. Final treatment decisions should be made by a qualified oncology and transplant team after thorough review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical and Support Questions",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with types of stem cell transplants?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. The type of stem cell transplant and eligibility are always decided by the qualified oncology and transplant team after reviewing the patient's diagnosis, stage, disease status, donor options, previous treatment, and overall health. Access to any center depends on medical review and hospital acceptance.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

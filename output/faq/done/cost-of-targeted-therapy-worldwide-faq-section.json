@@ -1,0 +1,64 @@
+{
+  "pillar": "Cost of Targeted Therapy Worldwide",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: cost-of-targeted-therapy-worldwide",
+  "route": "⚠ VERIFY: /insights/cost-of-targeted-therapy-worldwide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of Targeted Therapy Worldwide",
+    "intro": "Targeted therapy costs vary widely by country, drug, cancer type, and treatment duration. These answers explain what shapes the price and how international patients can plan realistically.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy Costs",
+        "items": [
+          {
+            "q": "How much does targeted therapy cost worldwide?",
+            "a": "<p>The cost of targeted therapy worldwide typically ranges from a few thousand to several thousand US dollars per month, depending on the specific drug, cancer type, and country. Prices are often higher in the United States and parts of Europe, and lower in India, China, and some Asian countries. The final cost depends on the drug, dose, treatment duration, hospital, diagnostic tests, and the treating team's advice, so estimates should be confirmed locally.</p>"
+          },
+          {
+            "q": "Why is targeted therapy so expensive?",
+            "a": "<p>Targeted therapy is expensive mainly because these drugs are complex to develop, tested through lengthy clinical trials, and often protected by patents that limit competition. Many are taken long term or until the disease progresses, which adds to the total cost. Prices also vary by country due to healthcare systems, regulation, and insurance coverage. Generic or biosimilar versions, where available, may reduce cost, but availability depends on the country and specific drug.</p>"
+          },
+          {
+            "q": "What factors affect the price of targeted therapy?",
+            "a": "<p>The price of targeted therapy depends on the specific drug, cancer type, stage, biomarker profile, and how long treatment continues. Costs also vary by country, hospital, brand versus generic availability, required diagnostic and biomarker tests, and any hospital admissions or supportive care. Insurance coverage, government subsidies, and patient assistance programs can significantly lower out-of-pocket expenses. Because these variables differ for each patient, cost estimates should always be reviewed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Does the cost of targeted therapy differ by cancer type?",
+            "a": "<p>Yes, the cost of targeted therapy can differ significantly by cancer type because each cancer uses different drugs and biomarker tests. Therapies for cancers such as lung, breast, colorectal, and certain blood cancers each have their own drug prices and treatment schedules. The presence of a specific biomarker, such as EGFR, HER2, or BCR-ABL, also determines which drug is used. Actual costs depend on diagnosis, stage, and specialist recommendations for each individual patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Countries, and Ways to Reduce Cost",
+        "items": [
+          {
+            "q": "Which countries offer more affordable targeted therapy?",
+            "a": "<p>Countries such as India, China, and some other Asian nations often offer targeted therapy at lower prices than the United States or Western Europe, partly due to local manufacturing and generic availability. However, lower drug prices do not always mean lower total costs once travel, tests, and hospital care are included. Availability of a specific drug varies by country and regulatory approval, so patients should confirm access and full estimated costs before making treatment decisions.</p>"
+          },
+          {
+            "q": "How can patients reduce the cost of targeted therapy?",
+            "a": "<p>Patients may be able to reduce targeted therapy costs through generic or biosimilar drugs where approved, manufacturer patient assistance programs, government schemes, insurance coverage, or clinical trial participation. Comparing prices across accredited hospitals and countries can also help. Eligibility for these options depends on the drug, diagnosis, and location, and not every patient will qualify. Any cost-saving approach should be discussed with the treating oncology team to ensure treatment quality and safety are maintained.</p>"
+          },
+          {
+            "q": "Can international patients access targeted therapy abroad?",
+            "a": "<p>International patients may access targeted therapy abroad, but access depends on hospital acceptance, medical record review, drug availability in that country, visa approval, and fitness to travel. Some patients travel for lower drug prices or for therapies not approved at home. Costs abroad should include treatment, diagnostics, travel, accommodation, and follow-up care. Hospital admission, treatment acceptance, and visa approval cannot be guaranteed, so plans should be confirmed in advance with the treating and receiving medical teams.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Planning and Support",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with the cost of targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to compare options for targeted therapy across hospitals and countries. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and final costs depend on the hospital and treatment plan advised.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,122 @@
+{
+  "pillar": "SBRT for Early-Stage Lung Cancer",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: sbrt-for-early-stage-lung-cancer",
+  "route": "⚠ VERIFY: /<section>/sbrt-for-early-stage-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About SBRT for Early-Stage Lung Cancer",
+    "intro": "Stereotactic body radiation therapy (SBRT) is a precise, non-surgical option often considered for early-stage lung cancer. These FAQs explain how it works, who may be suitable, safety, cost, and access for international patients.",
+    "groups": [
+      {
+        "title": "Understanding SBRT for Early-Stage Lung Cancer",
+        "items": [
+          {
+            "q": "What is SBRT for early-stage lung cancer?",
+            "a": "<p>SBRT (stereotactic body radiation therapy) is a highly precise form of radiation that delivers very high, focused doses to a small lung tumour over just a few sessions. It is often considered for early-stage non-small cell lung cancer, especially when surgery is not chosen. SBRT targets the tumour while limiting exposure to healthy lung tissue. Suitability depends on tumour size, location, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How does SBRT work?",
+            "a": "<p>SBRT works by aiming many precisely shaped radiation beams at the tumour from different angles, so the doses converge on the target. Advanced imaging and motion tracking account for breathing movement, keeping the beam accurate. The concentrated dose damages cancer cell DNA while sparing surrounding lung tissue as much as possible. Treatment is usually completed in one to five sessions, but the exact plan depends on each patient's tumour and specialist assessment.</p>"
+          },
+          {
+            "q": "How is SBRT different from regular radiation therapy?",
+            "a": "<p>SBRT differs from conventional radiation by delivering much higher doses in far fewer sessions with greater precision. Standard radiotherapy often uses smaller daily doses over several weeks, while SBRT typically finishes in one to five treatments. This precision allows a stronger dose to the tumour with tighter margins around healthy tissue. The most appropriate approach depends on tumour size, location, lung function, and the treating radiation oncology team's evaluation.</p>"
+          },
+          {
+            "q": "Is SBRT the same as CyberKnife?",
+            "a": "<p>SBRT is the treatment technique, while CyberKnife is one of several machines used to deliver it. SBRT can also be given using linear accelerator–based systems such as TrueBeam or VMAT platforms. All aim to deliver focused, high-dose radiation precisely to the tumour. The choice of technology depends on tumour location, movement, available equipment, and the radiation oncology team's judgement, rather than one system being automatically better for every patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for SBRT?",
+            "a": "<p>SBRT may be suitable for selected patients with early-stage, localized non-small cell lung cancer, particularly when the tumour is small and has not spread to lymph nodes. It is often considered for patients who cannot have surgery due to other health conditions or who prefer a non-surgical option. Eligibility depends on tumour size, location, stage, lung function, and overall health, and should be confirmed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is SBRT suitable for all lung cancer patients?",
+            "a": "<p>SBRT is not suitable for every lung cancer patient and is mainly used for early-stage disease. Larger tumours, cancer that has spread to lymph nodes or distant organs, or tumours very close to critical structures may need different treatment. Small-cell lung cancer is usually managed differently. Whether SBRT is appropriate depends on cancer type, stage, tumour location, previous treatment, and a detailed review by the treating medical team.</p>"
+          },
+          {
+            "q": "How many SBRT sessions are needed?",
+            "a": "<p>SBRT for early-stage lung cancer is usually completed in one to five sessions, often spread over one to two weeks. The exact number depends on tumour size, location, proximity to sensitive organs, and the radiation oncologist's plan. Each session may last around 30 to 60 minutes, including positioning and imaging. The final schedule is decided by the treating radiation oncology team based on each patient's specific situation.</p>"
+          },
+          {
+            "q": "What are the side effects of SBRT?",
+            "a": "<p>SBRT is generally well tolerated, but some patients may experience fatigue, mild cough, shortness of breath, or temporary chest discomfort. Less commonly, inflammation of the lung (radiation pneumonitis) or rib and skin changes can occur. Side effects vary by tumour location and individual health. Most effects are manageable, but any new or worsening symptoms should be discussed promptly with the treating oncology team for proper assessment and care.</p>"
+          },
+          {
+            "q": "How effective is SBRT for early-stage lung cancer?",
+            "a": "<p>SBRT can achieve strong local tumour control in early-stage non-small cell lung cancer and is a recognized option for selected patients. Reported outcomes are encouraging, especially for small tumours, but results vary by tumour size, location, and overall health. SBRT does not guarantee a cure, and ongoing follow-up imaging is needed to monitor response. Expected benefits should always be discussed individually with the treating radiation oncology team.</p>"
+          },
+          {
+            "q": "Is SBRT painful?",
+            "a": "<p>SBRT itself is painless and non-invasive, with no cutting or anaesthesia required during treatment. Patients lie still on a treatment couch while the machine delivers radiation from outside the body. Some may find holding position or immobilization devices mildly uncomfortable, and mild side effects can appear later. If you have concerns about comfort or pre-existing pain, discuss them with the radiation oncology team so positioning can be adjusted appropriately.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does SBRT for lung cancer cost?",
+            "a": "<p>The cost of SBRT for lung cancer varies widely depending on the country, hospital, technology used, number of sessions, and required imaging and tests. It is often more affordable in countries like India compared with Western nations, though exact figures cannot be guaranteed. Final cost also depends on diagnosis, staging scans, complications, and length of stay. A personalized estimate should be obtained after medical review by the treating hospital.</p>"
+          },
+          {
+            "q": "Is SBRT available in India?",
+            "a": "<p>Yes, SBRT for lung cancer is available at several advanced cancer centres in India equipped with modern radiation technology such as CyberKnife, TrueBeam, or VMAT-capable systems. Availability, waiting times, and specific machines vary between hospitals and cities. Whether SBRT is right for a particular patient still depends on tumour size, stage, and specialist assessment. Choosing a centre should be guided by medical review and the treating team's recommendation.</p>"
+          },
+          {
+            "q": "Which countries offer SBRT for lung cancer?",
+            "a": "<p>SBRT for lung cancer is offered in many countries, including India, the United States, the United Kingdom, Germany, Turkey, Singapore, and several others with advanced radiation oncology facilities. Access depends on the availability of specialized equipment and trained radiation oncology teams at individual centres. Patients often consider factors such as cost, travel, and hospital expertise. The most appropriate location should be decided with guidance from a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is SBRT covered by insurance?",
+            "a": "<p>SBRT coverage depends on the patient's insurance provider, policy terms, country, and whether the treatment is considered medically appropriate for the diagnosis. Many insurers cover SBRT for early-stage lung cancer, but pre-authorization and documentation are often required. Coverage cannot be assumed and varies case by case. Patients should confirm details directly with their insurer and hospital, ideally with support from the treating team's documentation of medical necessity.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Can SBRT be combined with immunotherapy?",
+            "a": "<p>SBRT is being studied in combination with immunotherapy for lung cancer, and this approach may be considered for selected patients within research or specialist settings. The idea is that radiation may enhance the immune response against cancer, but evidence is still evolving and it is not standard for all early-stage patients. Whether such combinations are suitable depends on cancer type, stage, biomarkers, and careful evaluation by the treating oncology team.</p>"
+          },
+          {
+            "q": "Are there clinical trials for SBRT in lung cancer?",
+            "a": "<p>Yes, clinical trials are exploring SBRT for lung cancer, including its use alone, in combination with drug therapies, and for different tumour situations. Participation is not guaranteed and depends on strict inclusion and exclusion criteria assessed after medical record review and investigator evaluation. Trials may offer access to newer approaches but also carry uncertainties. Eligibility and potential benefits should be discussed carefully with the treating team and trial investigators.</p>"
+          },
+          {
+            "q": "What if the tumour comes back after SBRT?",
+            "a": "<p>If lung cancer returns after SBRT, several options may still be considered, including surgery, additional radiation, systemic drug therapy, or further SBRT in selected cases. The best approach depends on where and how the cancer recurs, previous treatment, lung function, and overall health. Regular follow-up imaging helps detect changes early. Any recurrence should be evaluated by the treating oncology team so that the next steps can be planned safely.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed to plan SBRT abroad?",
+            "a": "<p>To plan SBRT abroad, doctors usually need recent imaging such as a CT or PET-CT scan, the pathology or biopsy report confirming lung cancer, staging details, pulmonary function tests, and a summary of previous treatment and medical history. Additional tests may be requested after review. Complete, up-to-date reports help specialists assess suitability accurately. The treating radiation oncology team confirms exactly which reports are required before finalizing any treatment plan.</p>"
+          },
+          {
+            "q": "How can international patients access SBRT?",
+            "a": "<p>International patients can access SBRT by sharing their medical reports with a specialized cancer centre for review, obtaining a treatment opinion, and then arranging travel if the team confirms suitability. Access depends on hospital acceptance, medical evaluation, visa approval, travel fitness, and the patient's overall condition. None of these can be guaranteed in advance. Planning should include estimated cost, second opinions, and follow-up care, guided by the treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with SBRT for lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or radiation centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It assists international patients in navigating the practical steps of accessing SBRT for early-stage lung cancer. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, tumour location, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

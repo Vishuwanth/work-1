@@ -1,0 +1,64 @@
+{
+  "pillar": "Gene Therapy vs CAR-T Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: gene-therapy-vs-car-t-therapy",
+  "route": "⚠ VERIFY: /insights/gene-therapy-vs-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Gene Therapy vs CAR-T Therapy",
+    "intro": "Gene therapy and CAR-T therapy are both advanced treatments that modify cells or genes to fight disease, but they work in different ways and suit different situations. These FAQs explain how they compare for cancer patients and caregivers.",
+    "groups": [
+      {
+        "title": "Understanding the Two Approaches",
+        "items": [
+          {
+            "q": "What is the difference between gene therapy and CAR-T therapy?",
+            "a": "<p>Gene therapy corrects, replaces, or adds genetic material inside cells to treat disease, while CAR-T therapy is a specialized form that re-engineers a patient's own T-cells to recognize and attack cancer. In simple terms, gene therapy is the broad category, and CAR-T is one cancer-focused application of it. Which approach may be considered depends on cancer type, stage, biomarker profile, previous treatment, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy a type of gene therapy?",
+            "a": "<p>Yes, CAR-T therapy is considered a type of gene therapy because it genetically modifies a patient's immune cells. During CAR-T, T-cells are collected and a new gene is added so they produce a chimeric antigen receptor that targets cancer. Not all gene therapies involve immune cells, however, so the terms are related but not identical. A specialist can explain which approach may be suitable for a specific diagnosis.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How They Work and Who They Help",
+        "items": [
+          {
+            "q": "How does gene therapy work in cancer treatment?",
+            "a": "<p>Gene therapy works by altering the genetic instructions inside cells to help the body fight or resist cancer. Approaches may add a healthy gene, silence a faulty one, or introduce genes that make cells more vulnerable to treatment or better able to trigger an immune response. Techniques and eligibility vary widely and are still evolving. Whether gene therapy may be considered depends on cancer type, genetics, and treating-team assessment.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work?",
+            "a": "<p>CAR-T therapy works by removing a patient's T-cells, reprogramming them in a laboratory to target a specific cancer marker, and infusing them back to attack cancer cells. This process usually takes several weeks and requires close monitoring. CAR-T is mainly used for selected blood cancers such as certain lymphomas, leukemias, and multiple myeloma. Eligibility depends on cancer type, prior therapy, overall health, and oncology specialist review.</p>"
+          },
+          {
+            "q": "Which cancers are treated with CAR-T therapy versus gene therapy?",
+            "a": "<p>CAR-T therapy is currently approved mainly for certain blood cancers, including some B-cell lymphomas, acute lymphoblastic leukemia, and multiple myeloma. Broader gene therapy research spans blood, inherited, and some solid-tumor conditions, though many uses remain experimental or trial-based. Approved options differ by country and cancer type. Final suitability depends on diagnosis, stage, biomarkers, previous treatment, and evaluation by a qualified oncology team, and should not be assumed.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Risks, Cost, and Practical Questions",
+        "items": [
+          {
+            "q": "What are the risks or side effects of gene therapy and CAR-T therapy?",
+            "a": "<p>Both treatments can cause serious side effects that require specialist supervision. CAR-T therapy may lead to cytokine release syndrome, neurological effects, low blood counts, and infection risk. Gene therapy risks vary by technique and may include immune reactions or unintended genetic effects. Many long-term effects are still being studied. All potential benefits and risks should be discussed with the treating medical team before any decision is made.</p>"
+          },
+          {
+            "q": "How much do gene therapy and CAR-T therapy cost?",
+            "a": "<p>Both gene therapy and CAR-T therapy are among the most expensive cancer treatments, often reaching very high figures, but exact costs vary widely and cannot be quoted as fixed. Final cost depends on the hospital, country, cancer type, protocol, hospital stay, supportive care, and any complications. Some centers and trials may reduce costs for selected patients. A personalized estimate should be confirmed directly with the treating hospital.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene therapy vs CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to gene therapy or CAR-T depends on hospital acceptance, medical review, and eligibility, and cannot be guaranteed in advance.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

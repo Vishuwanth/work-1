@@ -1,0 +1,64 @@
+{
+  "pillar": "Recovery After Stem Cell Transplant",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: recovery-after-stem-cell-transplant",
+  "route": "⚠ VERIFY: /insights/recovery-after-stem-cell-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Recovery After Stem Cell Transplant",
+    "intro": "Recovery after a stem cell transplant is a gradual, closely monitored process that varies from patient to patient. These answers explain what to expect, how long healing takes, and how to stay safe during recovery.",
+    "groups": [
+      {
+        "title": "Understanding Recovery and Timelines",
+        "items": [
+          {
+            "q": "How long does recovery after a stem cell transplant take?",
+            "a": "<p>Recovery after a stem cell transplant usually takes several months to a year, though timelines vary widely between patients. The early phase, when new blood cells begin to grow (engraftment), often takes about two to four weeks. Rebuilding the immune system can take six months to a year or longer, especially after an allogeneic (donor) transplant. Recovery speed depends on transplant type, complications, age, and overall health, and should be tracked by your transplant team.</p>"
+          },
+          {
+            "q": "What is engraftment and why does it matter?",
+            "a": "<p>Engraftment is the point when transplanted stem cells settle into the bone marrow and start producing healthy new blood cells. It is a key early milestone, usually confirmed by rising blood counts about two to four weeks after transplant. Successful engraftment lowers infection and bleeding risk as white cells and platelets recover. The exact timing depends on transplant type, cell source, and individual factors, and is monitored closely by the treating team through regular blood tests.</p>"
+          },
+          {
+            "q": "What are the phases of stem cell transplant recovery?",
+            "a": "<p>Stem cell transplant recovery generally moves through early, intermediate, and long-term phases. The early phase focuses on engraftment, infection prevention, and managing side effects, often in or near the hospital. The intermediate phase involves rebuilding strength and immunity over the following months. Long-term recovery covers immune reconstitution, vaccinations, and monitoring for late effects. How quickly a patient moves through each phase depends on transplant type, complications, and specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Side Effects, and Daily Life",
+        "items": [
+          {
+            "q": "What side effects are common during recovery?",
+            "a": "<p>Common side effects during recovery include fatigue, low blood counts, mouth sores, nausea, appetite changes, and a higher risk of infection. After a donor (allogeneic) transplant, some patients may develop graft-versus-host disease, where donor cells react against the body. Most side effects are managed with medication and supportive care. Their severity varies by transplant type and individual health, so all symptoms should be reported promptly to the treating oncology team.</p>"
+          },
+          {
+            "q": "How can patients reduce infection risk after a transplant?",
+            "a": "<p>Reducing infection risk after a transplant centers on hygiene, safe food practices, and avoiding crowds while the immune system is weak. Patients are often advised to wash hands frequently, avoid sick contacts, follow food-safety guidance, and take prescribed preventive medications. Vaccinations are usually restarted on a schedule set by the transplant team. Because immune recovery takes months, specific precautions and their duration should be guided by the treating medical team.</p>"
+          },
+          {
+            "q": "When can patients return to work and normal activities?",
+            "a": "<p>Most patients gradually return to normal activities over three to twelve months, depending on recovery and job demands. Light activity and short walks are often encouraged early to rebuild strength, while returning to work may take several months, especially for physically demanding roles. Immune recovery, energy levels, and complications all affect timing. Any return-to-activity plan should be discussed with the treating team, who can advise based on the patient's condition.</p>"
+          },
+          {
+            "q": "What diet is recommended during transplant recovery?",
+            "a": "<p>A balanced, protein-rich diet with safely prepared foods is generally recommended during transplant recovery to support healing and energy. Patients are often advised to follow food-safety precautions, such as avoiding undercooked foods and unpasteurized products, while the immune system is weak. Staying hydrated and eating small, frequent meals can help with appetite changes. Because needs vary, dietary plans should be personalized with the transplant team and, where available, a dietitian.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Support and Practical Questions",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with recovery after a stem cell transplant?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Recovery and treatment decisions are always made by the qualified oncology and transplant team after reviewing the patient's diagnosis, transplant type, complications, previous treatment, and overall health. This support is intended to ease coordination and does not replace the care and guidance of the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

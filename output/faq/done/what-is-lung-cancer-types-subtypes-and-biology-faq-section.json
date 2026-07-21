@@ -1,0 +1,114 @@
+{
+  "pillar": "What Is Lung Cancer? Types, Subtypes, and Biology",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: what-is-lung-cancer-types-subtypes-and-biology",
+  "route": "⚠ VERIFY: /<section>/what-is-lung-cancer-types-subtypes-and-biology",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Lung Cancer: Types, Subtypes, and Biology",
+    "intro": "These questions explain what lung cancer is, how its main types and subtypes differ, and why tumor biology increasingly guides modern treatment decisions for patients and caregivers.",
+    "groups": [
+      {
+        "title": "Understanding Lung Cancer",
+        "items": [
+          {
+            "q": "What is lung cancer?",
+            "a": "<p>Lung cancer is a disease in which abnormal cells in the lung grow uncontrollably and form tumors. It usually begins in the cells lining the airways or air sacs and can spread to lymph nodes and other organs over time. Lung cancer is broadly divided into non-small cell and small cell types, which behave differently. The exact diagnosis depends on biopsy findings, imaging, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the main types of lung cancer?",
+            "a": "<p>The two main types of lung cancer are non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). NSCLC accounts for roughly 80–85% of cases and tends to grow more slowly, while SCLC is less common but often grows and spreads faster. These types respond differently to treatment, so accurate classification through biopsy and pathology is essential and should always be confirmed by the treating medical team.</p>"
+          },
+          {
+            "q": "What are the subtypes of non-small cell lung cancer?",
+            "a": "<p>Non-small cell lung cancer has three main subtypes: adenocarcinoma, squamous cell carcinoma, and large cell carcinoma. Adenocarcinoma is the most common and often develops in the outer parts of the lung, including in people who never smoked. Squamous cell carcinoma is usually linked to smoking and forms in the central airways. Identifying the subtype helps guide treatment planning, but final classification depends on pathology review by a specialist.</p>"
+          },
+          {
+            "q": "How is small cell lung cancer different from non-small cell lung cancer?",
+            "a": "<p>Small cell lung cancer differs from non-small cell lung cancer in how quickly it grows and how it is treated. SCLC tends to grow rapidly, spread early, and respond initially to chemotherapy and radiation, while NSCLC often grows more slowly and may be treated with surgery, targeted therapy, or immunotherapy depending on stage and biology. The right approach depends on the confirmed type, stage, and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Biology, Biomarkers, and Diagnosis",
+        "items": [
+          {
+            "q": "What does the biology of lung cancer mean?",
+            "a": "<p>The biology of lung cancer refers to the genetic and molecular changes that drive how a tumor grows and behaves. Certain lung cancers carry specific mutations or biomarkers, such as EGFR, ALK, ROS1, KRAS, or PD-L1, that influence treatment choices. Understanding tumor biology helps doctors match patients to targeted therapy or immunotherapy where appropriate. Biomarker testing is interpreted alongside stage and overall health by the treating oncology team.</p>"
+          },
+          {
+            "q": "What biomarkers are tested in lung cancer?",
+            "a": "<p>Common lung cancer biomarkers include EGFR, ALK, ROS1, BRAF, KRAS, MET, RET, NTRK, and PD-L1 expression. These are usually tested from a tumor biopsy or, in some cases, a blood-based test, mainly in non-small cell lung cancer. Biomarker results may help identify patients who could be considered for targeted therapy or immunotherapy. Testing choices and interpretation depend on the laboratory, tumor sample, and specialist review.</p>"
+          },
+          {
+            "q": "How is lung cancer diagnosed?",
+            "a": "<p>Lung cancer is diagnosed using a combination of imaging, biopsy, and laboratory testing. Doctors may use chest X-rays, CT scans, PET-CT, and bronchoscopy to locate suspicious areas, followed by a biopsy to confirm cancer and identify its type and subtype. Molecular and biomarker testing may also be performed. A confirmed diagnosis depends on pathology results and should be reviewed by a qualified oncology team before any treatment begins.</p>"
+          },
+          {
+            "q": "Why does the type and subtype of lung cancer matter?",
+            "a": "<p>The type and subtype of lung cancer matter because they strongly influence treatment options and outcomes. Small cell and non-small cell cancers, and subtypes like adenocarcinoma or squamous cell carcinoma, respond differently to surgery, chemotherapy, targeted therapy, and immunotherapy. Knowing the exact subtype and biomarker profile helps the medical team plan more personalized care. Final treatment decisions should always be made after complete pathology and specialist evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Risk, Symptoms, and Staging",
+        "items": [
+          {
+            "q": "What are the common symptoms of lung cancer?",
+            "a": "<p>Common symptoms of lung cancer include a persistent cough, coughing up blood, chest pain, shortness of breath, hoarseness, and unexplained weight loss. Some people have no symptoms in early stages, and signs may be mistaken for other conditions. Because symptoms vary and can overlap with less serious illnesses, any ongoing or worsening symptoms should be evaluated by a doctor, who can arrange appropriate imaging and diagnostic testing.</p>"
+          },
+          {
+            "q": "Can non-smokers get lung cancer?",
+            "a": "<p>Yes, non-smokers can develop lung cancer, although smoking remains the leading risk factor. Lung cancer in people who never smoked is often adenocarcinoma and may be linked to genetic mutations such as EGFR or ALK, secondhand smoke, air pollution, radon exposure, or occupational hazards. Because it can occur without a smoking history, persistent respiratory symptoms should be assessed medically. Individual risk depends on many factors reviewed by a healthcare professional.</p>"
+          },
+          {
+            "q": "What are the stages of lung cancer?",
+            "a": "<p>Lung cancer staging describes how far the cancer has spread and typically ranges from stage 0 to stage 4 in non-small cell lung cancer. Small cell lung cancer is often described as limited or extensive stage. Staging is based on tumor size, lymph node involvement, and spread to other organs, using imaging and sometimes surgery. Accurate staging guides treatment planning and should be confirmed by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment Options and Clinical Trials",
+        "items": [
+          {
+            "q": "How is lung cancer treated based on its type and biology?",
+            "a": "<p>Lung cancer treatment is guided by its type, stage, and molecular biology. Options may include surgery, radiation, chemotherapy, targeted therapy, and immunotherapy, often used alone or in combination. Targeted therapy may be considered for tumors with specific mutations, while immunotherapy may suit certain PD-L1 profiles. The most suitable plan depends on cancer type, stage, biomarkers, previous treatment, and overall health, and is decided by the treating medical team.</p>"
+          },
+          {
+            "q": "What is targeted therapy for lung cancer?",
+            "a": "<p>Targeted therapy is a treatment that acts on specific genetic changes driving certain lung cancers. Drugs targeting mutations such as EGFR, ALK, ROS1, or others may be considered for selected patients with non-small cell lung cancer whose tumors carry these markers. Targeted therapy is not suitable for everyone and depends on biomarker testing results. Eligibility and drug selection should always be determined by a qualified oncology specialist after full evaluation.</p>"
+          },
+          {
+            "q": "Are clinical trials available for lung cancer?",
+            "a": "<p>Yes, clinical trials for lung cancer are available and may offer access to newer therapies for some patients. Trials study new drugs, combinations, or approaches, and often have strict inclusion and exclusion criteria. Enrollment and benefit cannot be guaranteed, and eligibility is decided only after medical record review and investigator assessment. Patients interested in trials should discuss suitability, risks, and location with their treating oncology team.</p>"
+          },
+          {
+            "q": "Can advanced or stage 4 lung cancer be treated?",
+            "a": "<p>Advanced or stage 4 lung cancer can often be treated to control the disease, ease symptoms, and support quality of life, even when a cure may not be possible. Options may include targeted therapy, immunotherapy, chemotherapy, radiation, and supportive care, chosen according to tumor biology and overall health. Outcomes vary between individuals, and treatment goals and expectations should be discussed honestly with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed for a lung cancer treatment opinion?",
+            "a": "<p>For a lung cancer treatment opinion, doctors usually need biopsy and pathology reports, imaging such as CT or PET-CT scans, and any biomarker or molecular testing results. A summary of previous treatments, current medications, and overall health information is also helpful. Complete and recent reports allow specialists to give more accurate guidance. The final treatment plan still depends on in-person or detailed review by the treating medical team.</p>"
+          },
+          {
+            "q": "How can international patients access lung cancer treatment abroad?",
+            "a": "<p>International patients can access lung cancer treatment abroad through hospitals that accept overseas patients, but access depends on several factors. These include hospital acceptance, medical record review, visa approval, travel fitness, and the patient's current condition. No outcome, admission, or visa approval can be guaranteed. Patients should plan for medical reports, a second opinion, estimated costs, travel, and follow-up care, and confirm details directly with the treating hospital.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and does not guarantee treatment acceptance, cost, or clinical outcomes for any patient.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

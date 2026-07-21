@@ -1,0 +1,68 @@
+{
+  "pillar": "How to Choose a Hospital Abroad",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: how-to-choose-a-hospital-abroad",
+  "route": "⚠ VERIFY: /guides/how-to-choose-a-hospital-abroad",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How to Choose a Hospital Abroad",
+    "intro": "Choosing a cancer hospital abroad involves weighing accreditation, specialist expertise, treatment options, cost, and travel logistics. These answers explain what international patients and caregivers should check before deciding.",
+    "groups": [
+      {
+        "title": "Evaluating Hospitals and Specialists",
+        "items": [
+          {
+            "q": "How do I choose the right cancer hospital abroad?",
+            "a": "<p>Choosing a cancer hospital abroad depends on the hospital's expertise in your specific cancer type, its accreditation, available technology, and the experience of the treating oncology team. Consider treatment options offered, case volume for your diagnosis, international patient support, estimated cost, and travel feasibility. The right choice varies by cancer type, stage, biomarker profile, and previous treatment, and should be discussed with a qualified oncology team before finalizing any decision.</p>"
+          },
+          {
+            "q": "What accreditations should a good international cancer hospital have?",
+            "a": "<p>Reputable international cancer hospitals often hold recognized accreditations such as Joint Commission International (JCI) or their national equivalents, which reflect standards in safety and quality. Accreditation is a helpful signal but not the only factor. You should also review the hospital's cancer-specific expertise, specialist credentials, available technology, and outcomes for your diagnosis. Accreditation status can change over time, so verify it directly and discuss suitability with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How important is a specialist's experience when choosing a hospital abroad?",
+            "a": "<p>A specialist's experience with your specific cancer type and treatment is one of the most important factors when choosing a hospital abroad. Surgeons and oncologists who regularly manage your diagnosis may offer more refined judgment on complex cases. Ask about the team's subspecialty focus, case volume, and multidisciplinary approach. Experience should be considered alongside hospital facilities and technology, and final treatment decisions should be made by the treating medical team after reviewing your records.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment, Reports, and Second Opinions",
+        "items": [
+          {
+            "q": "What medical reports should I prepare before contacting a hospital abroad?",
+            "a": "<p>Before contacting a hospital abroad, prepare recent pathology or biopsy reports, imaging scans such as CT, MRI, or PET, biomarker or molecular test results, and a summary of previous treatments. These records help the hospital assess your case and suggest possible options. Complete and up-to-date reports allow for a more accurate review, though any treatment plan depends on cancer type, stage, and specialist assessment by the treating oncology team.</p>"
+          },
+          {
+            "q": "Should I get a second opinion before choosing a hospital abroad?",
+            "a": "<p>Getting a second opinion before choosing a hospital abroad is often worthwhile, as it can confirm your diagnosis and clarify available treatment options. A second opinion may reveal alternative approaches or reassure you about the recommended plan. It is especially useful for complex, rare, or advanced cancers. Second opinions depend on the review of your medical records, and final treatment decisions should always be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How do I check whether a hospital offers the treatment I need?",
+            "a": "<p>To check whether a hospital abroad offers the treatment you need, share your diagnosis and reports and ask specifically about the therapies, technologies, or clinical trials relevant to your cancer. Confirm whether they provide options such as targeted therapy, immunotherapy, advanced radiation, or specialized surgery. Availability depends on your cancer type, stage, and biomarker profile, and whether a treatment is suitable should be discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Planning",
+        "items": [
+          {
+            "q": "How much does cancer treatment at a hospital abroad cost?",
+            "a": "<p>The cost of cancer treatment at a hospital abroad varies widely and cannot be fixed in advance. Final cost depends on the hospital, country, diagnosis, stage, tests, treatment protocol, length of stay, and any complications. Request a written estimate based on your reports, but treat it as an approximation. Additional expenses such as travel, accommodation, and follow-up care should also be planned, and no hospital can guarantee acceptance at a specific price.</p>"
+          },
+          {
+            "q": "What should international patients consider about travel and logistics?",
+            "a": "<p>International patients should consider visa requirements, travel fitness, treatment duration, accommodation, and follow-up care when planning treatment abroad. Access depends on hospital acceptance, medical review, visa approval, and your overall condition, none of which can be guaranteed. Plan for a companion, translation needs, and continuity of care after returning home. Discuss travel fitness with your treating doctors, as some patients may not be well enough to travel for treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients choose a hospital abroad?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make comparing hospitals abroad more manageable for international patients and caregivers. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and no specific hospital acceptance or outcome can be guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

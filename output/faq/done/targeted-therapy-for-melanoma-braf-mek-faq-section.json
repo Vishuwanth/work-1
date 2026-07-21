@@ -1,0 +1,64 @@
+{
+  "pillar": "Targeted Therapy for Melanoma (BRAF/MEK)",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: targeted-therapy-for-melanoma-braf-mek",
+  "route": "⚠ VERIFY: /insights/targeted-therapy-for-melanoma-braf-mek",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy for Melanoma (BRAF/MEK)",
+    "intro": "These questions explain how BRAF and MEK targeted therapy works for melanoma, who it may suit, and what patients should know about benefits, side effects, and access.",
+    "groups": [
+      {
+        "title": "Understanding BRAF/MEK Targeted Therapy for Melanoma",
+        "items": [
+          {
+            "q": "What is targeted therapy for melanoma?",
+            "a": "<p>Targeted therapy for melanoma uses drugs that block specific molecules driving cancer growth, most often the BRAF and MEK proteins. It is generally considered for patients whose melanoma carries a BRAF mutation, confirmed through genetic testing of tumour tissue. Unlike chemotherapy, these oral medicines act on defined signalling pathways rather than all dividing cells. Suitability depends on cancer stage, biomarker results, and specialist review by the treating oncology team.</p>"
+          },
+          {
+            "q": "What is the BRAF mutation and why does it matter in melanoma?",
+            "a": "<p>The BRAF mutation is a genetic change, most commonly BRAF V600E, that keeps melanoma cells growing uncontrollably. About 40–50% of melanomas carry this mutation, which can be identified through molecular testing of a tumour sample. Its presence matters because it makes the cancer potentially responsive to BRAF and MEK inhibitor drugs. Testing results, cancer stage, and overall health are reviewed by the oncology team before any treatment decision is made.</p>"
+          },
+          {
+            "q": "How does BRAF/MEK combination therapy work?",
+            "a": "<p>BRAF/MEK combination therapy works by blocking two connected steps in the signalling pathway that drives melanoma growth. BRAF inhibitors such as dabrafenib, vemurafenib, or encorafenib target the mutated BRAF protein, while MEK inhibitors like trametinib, cobimetinib, or binimetinib block the next signal. Using both together may improve response and delay resistance compared with a BRAF inhibitor alone. The right combination depends on tumour profile and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Side Effects",
+        "items": [
+          {
+            "q": "Who is eligible for BRAF/MEK targeted therapy?",
+            "a": "<p>Eligibility for BRAF/MEK targeted therapy depends mainly on whether the melanoma carries a BRAF V600 mutation, confirmed by laboratory testing. It may be considered for selected patients with advanced, metastatic, or high-risk resected melanoma. Factors such as cancer stage, previous treatments, organ function, and overall health also influence the decision. Patients without a BRAF mutation are usually offered other options. Final eligibility should be determined by the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the benefits of combining BRAF and MEK inhibitors?",
+            "a": "<p>The main benefit of combining BRAF and MEK inhibitors is a faster and often deeper response in patients with BRAF-mutated melanoma. Combination therapy may shrink tumours, ease symptoms, and delay the resistance that can develop with single-drug treatment. Some patients experience meaningful control of advanced disease, though responses vary from person to person. Benefits, risks, and expected outcomes should be discussed individually with a qualified oncology team before starting.</p>"
+          },
+          {
+            "q": "What are the side effects of BRAF/MEK targeted therapy?",
+            "a": "<p>Common side effects of BRAF/MEK targeted therapy include fever, fatigue, joint pain, rash, and changes in liver or heart function. Some patients develop skin growths that require monitoring. Combining the two drugs can actually reduce certain skin side effects seen with BRAF inhibitors alone. Most effects are manageable with dose adjustments or supportive care. Any new symptoms should be reported promptly, and monitoring is guided by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support",
+        "items": [
+          {
+            "q": "How much does BRAF/MEK targeted therapy cost and is it available internationally?",
+            "a": "<p>The cost of BRAF/MEK targeted therapy varies widely depending on the specific drugs, treatment duration, country, hospital, and whether branded or generic versions are used. Because these are long-term oral medicines, expenses can be significant and are difficult to state as a fixed figure. Availability differs between countries, and access for international patients depends on hospital acceptance, medical review, and travel factors. Final costs should be confirmed with the treating hospital and team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy for melanoma?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For melanoma targeted therapy, this can include arranging review of BRAF mutation testing and connecting patients with appropriate oncology teams. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

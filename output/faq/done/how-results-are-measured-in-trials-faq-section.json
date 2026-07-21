@@ -1,0 +1,64 @@
+{
+  "pillar": "How Results Are Measured in Trials",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: how-results-are-measured-in-trials",
+  "route": "⚠ VERIFY: /insights/how-results-are-measured-in-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How Results Are Measured in Trials",
+    "intro": "Cancer clinical trials use defined endpoints to measure whether a treatment helps patients. These FAQs explain common trial measures in plain language so patients and caregivers can better understand study results.",
+    "groups": [
+      {
+        "title": "Understanding Trial Endpoints",
+        "items": [
+          {
+            "q": "How are results measured in cancer clinical trials?",
+            "a": "<p>Results in cancer clinical trials are measured using pre-defined endpoints that show whether a treatment helps patients. Common measures include how long people live (overall survival), how long the cancer stays controlled (progression-free survival), tumour shrinkage (response rate), and side-effect rates (safety). Trials also track quality of life. The chosen endpoints depend on cancer type, trial phase, and study goals, and results should be interpreted by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is the difference between overall survival and progression-free survival?",
+            "a": "<p>Overall survival measures how long patients live from the start of treatment, while progression-free survival measures how long the cancer stays stable without growing or spreading. Overall survival is often considered the strongest measure of benefit, but it can take years to confirm. Progression-free survival gives earlier information. Which endpoint matters most depends on the cancer type, trial design, and treatment goals, and should be discussed with the treating team.</p>"
+          },
+          {
+            "q": "What does overall response rate (ORR) mean?",
+            "a": "<p>Overall response rate, or ORR, is the percentage of patients whose tumours shrink or disappear by a defined amount after treatment. It combines complete responses (no detectable tumour) and partial responses (significant shrinkage). ORR shows that a treatment is active against the cancer, but it does not always predict how long a patient will live. Its importance depends on cancer type, trial phase, and how response is measured on imaging.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Interpreting Outcomes and Safety",
+        "items": [
+          {
+            "q": "What are primary and secondary endpoints in a clinical trial?",
+            "a": "<p>The primary endpoint is the main result a trial is designed to measure, such as overall survival or response rate, and it determines whether the study succeeds. Secondary endpoints are additional measures, like side effects, quality of life, or duration of response, that provide supporting information. Looking at both helps give a fuller picture of a treatment. Interpretation of these endpoints should always involve a qualified oncology specialist.</p>"
+          },
+          {
+            "q": "How is quality of life measured in cancer trials?",
+            "a": "<p>Quality of life in cancer trials is usually measured using standardised patient questionnaires that ask about symptoms, physical function, emotional wellbeing, and daily activities. These reported outcomes help show whether a treatment improves how patients feel and function, not only how long they live. Quality-of-life data can be important when comparing treatments with similar survival results. The relevance of these measures depends on the cancer type and each patient's situation.</p>"
+          },
+          {
+            "q": "What is a surrogate endpoint and why does it matter?",
+            "a": "<p>A surrogate endpoint is an early measure, such as tumour shrinkage or progression-free survival, used to predict a longer-term benefit like overall survival before that outcome is fully confirmed. Surrogate endpoints allow trials to report results sooner, which can speed access to promising treatments. However, they do not always guarantee longer life, so results should be interpreted cautiously and discussed with the treating oncology team in the context of the full evidence.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Making Sense of the Data",
+        "items": [
+          {
+            "q": "What does statistical significance mean in trial results?",
+            "a": "<p>Statistical significance indicates that a difference between treatment groups is unlikely to be due to chance alone. It is often reported using a p-value or confidence interval. A statistically significant result suggests the treatment had a real effect, but it does not always mean the benefit is large or clinically meaningful for every patient. Understanding whether a result truly matters for care should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with how results are measured in trials?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant clinical trials or treatment centers, understand how trial endpoints and results apply to their situation, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. CancerFax does not enroll patients or guarantee outcomes. Treatment and trial decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

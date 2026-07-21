@@ -1,0 +1,118 @@
+{
+  "pillar": "Proton Therapy vs Conventional Radiotherapy: Key Differences",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: proton-therapy-vs-conventional-radiotherapy-key-differences",
+  "route": "⚠ VERIFY: /<section>/proton-therapy-vs-conventional-radiotherapy-key-differences",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Proton Therapy vs Conventional Radiotherapy",
+    "intro": "These questions compare proton therapy and conventional (photon-based) radiotherapy to help patients and caregivers understand how the two treatments differ. Suitability always depends on individual diagnosis and specialist review.",
+    "groups": [
+      {
+        "title": "Understanding Proton Therapy and Conventional Radiotherapy",
+        "items": [
+          {
+            "q": "What is the main difference between proton therapy and conventional radiotherapy?",
+            "a": "<p>The main difference is the type of radiation used and how it deposits energy. Conventional radiotherapy uses high-energy X-rays (photons) that pass through the body, releasing dose along the entire path. Proton therapy uses charged particles that stop at a set depth, releasing most energy at the tumor and little beyond it. This may reduce dose to healthy tissue, though suitability depends on tumor type, location, and specialist review.</p>"
+          },
+          {
+            "q": "How does conventional radiotherapy work?",
+            "a": "<p>Conventional radiotherapy works by directing high-energy X-ray beams into the body to damage the DNA of cancer cells, preventing them from dividing and growing. Because photons travel through tissue, they deliver some dose before and after reaching the tumor. Modern techniques such as IMRT and VMAT shape the beams precisely to focus dose on the tumor while limiting exposure to nearby organs, making it effective for many cancer types.</p>"
+          },
+          {
+            "q": "How does proton therapy work?",
+            "a": "<p>Proton therapy works by accelerating protons to high speed and aiming them at the tumor, where they release most of their energy at a controlled depth known as the Bragg peak. Unlike X-rays, protons stop after reaching the target and deposit almost no dose beyond it. This physical property may help spare healthy tissue behind the tumor, which can be valuable when treating cancers near sensitive organs.</p>"
+          },
+          {
+            "q": "What is the Bragg peak in proton therapy?",
+            "a": "<p>The Bragg peak is the point where a proton beam releases most of its energy before stopping. As protons travel through tissue they deposit relatively little dose until they slow down, then deliver a sharp burst of energy at a precise depth set by the treatment plan. This allows radiation to be concentrated at the tumor with minimal dose beyond it, which distinguishes proton therapy from conventional X-ray radiotherapy.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Is proton therapy better than conventional radiotherapy?",
+            "a": "<p>Proton therapy is not automatically better; it may offer advantages in selected situations. Its ability to limit dose to surrounding tissue can be helpful for tumors near critical organs, in children, or when re-treating a previously irradiated area. For many common cancers, modern conventional radiotherapy delivers similar tumor control. The most appropriate option depends on cancer type, stage, location, and should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Who may be suitable for proton therapy?",
+            "a": "<p>Proton therapy may be suitable for selected patients whose tumors sit close to sensitive structures where reducing radiation to healthy tissue is important. It is often considered for certain childhood cancers, brain and spinal tumors, eye tumors, skull-base tumors, and some cases needing re-irradiation. Eligibility depends on cancer type, stage, tumor location, previous treatment, and overall health, and should be confirmed by a qualified radiation oncology team.</p>"
+          },
+          {
+            "q": "Are the side effects different between the two treatments?",
+            "a": "<p>Side effects can differ mainly because of how much healthy tissue receives radiation. Both treatments may cause fatigue, skin changes, and effects specific to the treated area. By reducing dose to nearby organs, proton therapy may lower the risk of certain side effects in some patients, though this is not guaranteed. The actual experience depends on tumor site, dose, and individual factors, and should be discussed with your specialist.</p>"
+          },
+          {
+            "q": "Is proton therapy safer than conventional radiotherapy?",
+            "a": "<p>Both proton therapy and conventional radiotherapy are established, carefully controlled treatments delivered by trained teams. Protons may reduce radiation to healthy tissue around the tumor, which can be an advantage in specific cases, but this does not make the treatment risk-free. Conventional radiotherapy remains safe and highly effective for many cancers. The safest choice for an individual depends on the diagnosis and is determined by the treating medical team.</p>"
+          },
+          {
+            "q": "How long does each type of treatment take?",
+            "a": "<p>Both treatments are usually given as a series of short daily sessions over several weeks, and the overall schedule is often similar. Each session typically lasts several minutes to about half an hour, though proton setup and positioning can sometimes take longer. The exact number of sessions depends on cancer type, stage, and the plan created by your radiation oncologist, so the final schedule should be confirmed with the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does proton therapy cost compared to conventional radiotherapy?",
+            "a": "<p>Proton therapy generally costs more than conventional radiotherapy because it requires specialized equipment and facilities. Actual prices vary widely by country, hospital, cancer type, and the number of sessions needed. Conventional radiotherapy is more widely available and usually less expensive. Final cost depends on hospital, diagnosis, stage, tests, treatment protocol, complications, and length of stay, so estimates should be confirmed directly with the treating center.</p>"
+          },
+          {
+            "q": "Is proton therapy available in India?",
+            "a": "<p>Proton therapy is available at a limited number of specialized centers in India, while conventional radiotherapy is offered widely across many hospitals. Because proton facilities are fewer, availability, waiting times, and scheduling can vary. Whether proton therapy is appropriate depends on the individual case and specialist review. Patients are encouraged to confirm current availability, capacity, and estimated costs directly with the chosen center before making travel or treatment plans.</p>"
+          },
+          {
+            "q": "Which countries offer proton therapy?",
+            "a": "<p>Proton therapy is offered in several countries with dedicated centers, including the United States, Japan, China, parts of Europe, and a small number of centers in India. Conventional radiotherapy, by contrast, is available in most hospitals worldwide. Availability, technology, and costs differ between centers and countries. Patients considering treatment abroad should confirm current capacity, eligibility, and estimated costs directly with the hospital, as access can change over time.</p>"
+          },
+          {
+            "q": "Is proton therapy covered by insurance?",
+            "a": "<p>Insurance coverage for proton therapy varies by provider, country, and diagnosis, and is not guaranteed. Some insurers approve it for specific cancers or clinical situations where its benefits are well recognized, while others may require additional documentation or may not cover it. Conventional radiotherapy is more commonly covered. Patients should check coverage details, pre-authorization requirements, and out-of-pocket costs with both their insurer and the treating hospital in advance.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Are there clinical trials comparing proton therapy and conventional radiotherapy?",
+            "a": "<p>Yes, several clinical trials are studying how proton therapy compares with conventional radiotherapy for specific cancers, focusing on tumor control and long-term side effects. Results so far suggest benefits in selected situations rather than across all cancers. Trial participation is not guaranteed and depends on eligibility decided after medical record review and investigator assessment. Trials often have strict inclusion and exclusion criteria that a specialist can help evaluate.</p>"
+          },
+          {
+            "q": "Can proton therapy be combined with other cancer treatments?",
+            "a": "<p>Proton therapy, like conventional radiotherapy, can often be combined with other treatments such as surgery, chemotherapy, or targeted therapy as part of an overall plan. The combination and sequence depend on cancer type, stage, and individual health. Radiation is usually one component of a broader strategy designed by a multidisciplinary team. Final decisions about combining treatments should always be made by the treating oncology team after full assessment.</p>"
+          },
+          {
+            "q": "What advanced forms of conventional radiotherapy are available?",
+            "a": "<p>Conventional radiotherapy now includes advanced techniques such as IMRT, VMAT, image-guided radiotherapy (IGRT), and stereotactic radiosurgery (SRS/SBRT). These methods shape and target the radiation dose precisely, allowing high accuracy while limiting exposure to healthy tissue. For many cancers, these modern techniques provide excellent results and may be an appropriate alternative to proton therapy. The best option depends on the diagnosis and is chosen by the radiation oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed to plan proton therapy or radiotherapy abroad?",
+            "a": "<p>Planning radiotherapy abroad usually requires recent diagnostic reports, including biopsy or pathology results, imaging such as CT, MRI, or PET scans, and a summary of previous treatments. These help the radiation oncology team assess whether proton therapy or conventional radiotherapy is appropriate. Requirements vary between hospitals, so patients should confirm the exact documents needed. A specialist review of these records guides eligibility, planning, and estimated cost before travel.</p>"
+          },
+          {
+            "q": "How can international patients access proton therapy?",
+            "a": "<p>International patients can access proton therapy by contacting a center that offers it, sharing their medical records for review, and obtaining a specialist opinion on suitability. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition, and cannot be guaranteed in advance. Because proton centers are limited, planning ahead for scheduling, accommodation, and follow-up care is important and should be confirmed directly with the chosen hospital.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with proton therapy vs conventional radiotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Whether proton therapy or conventional radiotherapy is more appropriate, and treatment decisions overall, are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, tumor location, previous treatment, and overall health. This support is coordination-focused and does not replace medical advice.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

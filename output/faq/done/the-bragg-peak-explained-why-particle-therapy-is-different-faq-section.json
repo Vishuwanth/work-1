@@ -1,0 +1,114 @@
+{
+  "pillar": "The Bragg Peak Explained: Why Particle Therapy Is Different",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: the-bragg-peak-explained-why-particle-therapy-is-different",
+  "route": "⚠ VERIFY: /<section>/the-bragg-peak-explained-why-particle-therapy-is-different",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About The Bragg Peak and Particle Therapy",
+    "intro": "The Bragg peak is the physics principle that makes proton and particle therapy deliver most of their radiation dose at a precise depth. These FAQs explain what it is and why it can matter for cancer patients.",
+    "groups": [
+      {
+        "title": "Understanding the Bragg Peak",
+        "items": [
+          {
+            "q": "What is the Bragg peak?",
+            "a": "<p>The Bragg peak is the point where a proton or other charged particle releases most of its energy as it slows down inside the body. Unlike conventional X-ray radiation, particles deposit little dose on the way in, then a sharp burst of dose at a specific depth, and almost none beyond it. This distinctive energy pattern is the physical basis for how proton and particle therapy target tumors.</p>"
+          },
+          {
+            "q": "Why is particle therapy different from conventional radiation?",
+            "a": "<p>Particle therapy is different because protons and heavier ions stop at a defined depth, while conventional X-rays pass all the way through the body. X-ray beams deposit dose before and after the tumor, exposing healthy tissue on both sides. Protons concentrate their dose at the Bragg peak and release almost nothing beyond it. This can help reduce radiation to nearby healthy organs, depending on the tumor's location and shape.</p>"
+          },
+          {
+            "q": "How does the Bragg peak help protect healthy tissue?",
+            "a": "<p>The Bragg peak helps protect healthy tissue by placing the highest radiation dose inside the tumor and sparing structures behind it. Because protons stop rather than exiting the body, there is little or no \"exit dose\" beyond the target. This may lower radiation exposure to sensitive nearby organs. The actual benefit depends on tumor site, size, and the surrounding anatomy, and is assessed during treatment planning by the radiation oncology team.</p>"
+          },
+          {
+            "q": "What is a spread-out Bragg peak (SOBP)?",
+            "a": "<p>A spread-out Bragg peak (SOBP) is created by combining many proton beams of different energies so the high-dose region covers the whole tumor, not just a single point. A single Bragg peak is very narrow, so overlapping peaks are layered to match the tumor's depth and thickness. This shaped dose region allows particle therapy to treat tumors of varying sizes while still limiting dose to tissue beyond the target.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Which cancers may benefit from Bragg peak-based particle therapy?",
+            "a": "<p>Cancers located near sensitive structures may benefit most from Bragg peak-based particle therapy. This can include selected brain, skull base, spinal, eye, head and neck, and pediatric tumors, where reducing dose to nearby organs is important. It may also be considered for certain re-irradiation cases. Suitability depends on cancer type, stage, tumor location, previous treatment, and overall health, and should be discussed with a qualified radiation oncology team.</p>"
+          },
+          {
+            "q": "Is particle therapy suitable for all cancer patients?",
+            "a": "<p>Particle therapy is not suitable for every cancer patient. Its dose advantage is most relevant when a tumor sits close to critical organs or in children, where limiting radiation exposure matters. For many common cancers, conventional radiation or other treatments may be equally effective and more accessible. Whether the Bragg peak offers a meaningful benefit depends on tumor location, stage, biomarker profile, and specialist review by the treating medical team.</p>"
+          },
+          {
+            "q": "How does particle therapy treatment planning work?",
+            "a": "<p>Particle therapy treatment planning uses detailed imaging, usually CT and often MRI, to map the tumor and surrounding organs in three dimensions. Physicists and radiation oncologists then calculate proton energies so the Bragg peak lands precisely within the tumor. Because protons are sensitive to changes in tissue density, planning accounts for uncertainties and daily setup. This careful process helps ensure the high-dose region matches the target as accurately as possible.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of particle therapy?",
+            "a": "<p>Particle therapy still causes side effects, even though it may reduce dose to some healthy tissue. Common effects include skin changes, fatigue, and localized symptoms related to the treatment area, similar to other radiation. Precise dose placement depends on accurate targeting, and small uncertainties in the Bragg peak's position are managed during planning. Expected side effects vary by tumor site and should be reviewed with the treating radiation oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does proton or particle therapy cost?",
+            "a": "<p>Proton and particle therapy generally cost more than conventional radiation because of the specialized equipment and facilities required. Prices vary widely between countries and centers, so a single fixed figure is not reliable. Final cost depends on the hospital, diagnosis, tumor stage, number of sessions, imaging, and any complications or additional care. Patients should request a written estimate from the treating center before making treatment or travel decisions.</p>"
+          },
+          {
+            "q": "Is proton therapy available in India?",
+            "a": "<p>Yes, proton therapy is available in India at a small number of dedicated centers, though capacity is limited compared with conventional radiation. Access depends on the center's availability, the tumor type, and medical suitability assessed by the radiation oncology team. Because particle therapy facilities are specialized and few, waiting times and eligibility criteria may apply. Patients should confirm current availability and requirements directly with the treating hospital.</p>"
+          },
+          {
+            "q": "Which countries offer particle therapy?",
+            "a": "<p>Particle therapy is offered in a growing number of countries, including the United States, several European nations, Japan, China, and India, among others. Proton therapy is more widely available than heavier-ion (carbon) therapy, which exists at only a limited number of specialized centers worldwide. Availability, technology, and eligibility criteria differ by country and center, so patients should verify current options and suitability with the treating team.</p>"
+          },
+          {
+            "q": "How can international patients access particle therapy?",
+            "a": "<p>International patients can access particle therapy by first having their medical records and imaging reviewed by a center offering the treatment. Access depends on hospital acceptance, medical suitability, visa approval, travel fitness, and the patient's overall condition. Because these facilities are specialized, scheduling and eligibility confirmation are needed before travel. No center can guarantee admission, and final decisions rest with the treating radiation oncology team after full review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "How is carbon-ion therapy different from proton therapy?",
+            "a": "<p>Carbon-ion therapy uses heavier particles that also form a Bragg peak but may cause more concentrated biological damage within the tumor. Like protons, carbon ions stop at a defined depth and spare tissue beyond it, but they can be more effective against certain radiation-resistant tumors. Carbon-ion facilities are rare and highly specialized. Whether it may be considered depends on tumor type, prior treatment, and assessment by a particle therapy team.</p>"
+          },
+          {
+            "q": "Are there clinical trials studying particle therapy?",
+            "a": "<p>Yes, clinical trials are studying particle therapy for various cancers to better define which patients benefit most. These trials compare outcomes, side effects, and long-term results against conventional treatments. Eligibility is decided only after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria. Enrollment and benefit are never guaranteed, and participation should be discussed with the treating oncology team and trial investigators.</p>"
+          },
+          {
+            "q": "Is particle therapy always better than standard radiation?",
+            "a": "<p>Particle therapy is not always better than standard radiation. Its Bragg peak advantage is most valuable when sparing nearby healthy organs is critical, such as in children or tumors near the brain, spine, or eyes. For many cancers, modern conventional radiation delivers comparable tumor control with wider availability and lower cost. The most appropriate option depends on tumor type, location, and goals of care, and should be decided by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed to evaluate particle therapy?",
+            "a": "<p>To evaluate particle therapy, centers typically need recent imaging such as CT, MRI, or PET scans, pathology or biopsy reports, and a summary of previous treatments. Complete and current records allow the radiation oncology team to assess whether the Bragg peak's dose advantage applies to the tumor's location. Missing or outdated reports may delay assessment. Patients should gather these documents before requesting an opinion or cost estimate from a center.</p>"
+          },
+          {
+            "q": "Should I get a second opinion before choosing particle therapy?",
+            "a": "<p>A second opinion is often helpful before choosing particle therapy, because it confirms whether the Bragg peak's targeting benefit truly applies to your specific tumor. Another radiation oncologist can review your imaging and pathology and compare proton, carbon-ion, and conventional radiation options. This helps ensure the recommended plan matches your diagnosis and goals. Final treatment decisions should always be made by the treating medical team after reviewing all available information.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with particle therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant particle therapy specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee hospital admission, treatment acceptance, or specific outcomes, and does not replace the advice of the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

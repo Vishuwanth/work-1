@@ -1,0 +1,68 @@
+{
+  "pillar": "Cost of TIL Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: cost-of-til-therapy",
+  "route": "⚠ VERIFY: /insights/cost-of-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of TIL Therapy",
+    "intro": "TIL (tumor-infiltrating lymphocyte) therapy is a personalized cell therapy, and its cost can vary widely by country, hospital, and individual case. These answers explain what drives the price, what extra expenses to plan for, and how patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy Costs",
+        "items": [
+          {
+            "q": "How much does TIL therapy cost?",
+            "a": "<p>TIL therapy is generally expensive, and published estimates often range from roughly US$150,000 to over US$500,000, depending on the country and treatment setting. The total price reflects the highly personalized manufacturing process, hospital stay, and supportive care involved. Exact figures vary by hospital, diagnosis, stage, protocol, and complications, so any quoted amount should be confirmed directly with the treating center and discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Why is TIL therapy so expensive?",
+            "a": "<p>TIL therapy is costly because each treatment is made individually from a patient's own tumor cells. The process requires surgery to collect tissue, weeks of specialized lab work to grow immune cells, high-dose supportive medicines, and close hospital monitoring. These custom, labor-intensive steps cannot be mass-produced, which raises the price. Final costs depend on the hospital, cancer type, protocol, and overall health, and should be reviewed with the treating team.</p>"
+          },
+          {
+            "q": "What factors affect the total cost of TIL therapy?",
+            "a": "<p>The total cost of TIL therapy depends on several factors, including the country and hospital chosen, cancer type and stage, the specific treatment protocol, and length of hospital stay. Additional influences include pre-treatment tests, cell manufacturing, supportive medicines, and management of any complications. Because every case is different, patients should request an itemized estimate from the hospital, knowing that final costs are determined by the treating team after full medical review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Coverage, Trials, and Comparisons",
+        "items": [
+          {
+            "q": "Does insurance cover TIL therapy?",
+            "a": "<p>Insurance coverage for TIL therapy varies and is not guaranteed. Where a TIL product is officially approved for a specific cancer, some insurers or health systems may cover part of the cost, while experimental use often is not covered. Coverage depends on your country, policy, diagnosis, and whether the treatment is standard or investigational. Patients should confirm details directly with their insurer and discuss options with their oncology team before committing.</p>"
+          },
+          {
+            "q": "Is TIL therapy cheaper through a clinical trial?",
+            "a": "<p>Clinical trials may reduce some costs, because the therapy itself and certain study-related tests are sometimes provided at no charge. However, trials do not guarantee enrollment or free treatment, and patients may still pay for travel, accommodation, and non-study care. Eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria that should be discussed with the study team and treating oncologist.</p>"
+          },
+          {
+            "q": "How does the cost of TIL therapy compare to CAR-T therapy?",
+            "a": "<p>TIL therapy and CAR-T therapy are both personalized cell therapies with high costs, often in a broadly similar range of several hundred thousand dollars. Prices differ by product, cancer type, country, and hospital, so neither is reliably cheaper across all situations. Because both involve custom manufacturing and intensive care, actual costs vary case by case and should be compared using itemized estimates reviewed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Planning and Access for International Patients",
+        "items": [
+          {
+            "q": "What additional costs should patients budget for beyond the therapy itself?",
+            "a": "<p>Beyond the therapy price, patients should budget for pre-treatment scans and tests, surgery to collect tumor tissue, hospital stay, and supportive medications. International patients may also face travel, visa, accommodation, interpreter, and follow-up care expenses. Managing side effects or complications can add further costs. Because these vary widely, it helps to request a detailed estimate from the hospital and plan finances with guidance from the treating medical team.</p>"
+          },
+          {
+            "q": "How can international patients access TIL therapy affordably?",
+            "a": "<p>International patients can explore TIL therapy by comparing accredited centers, requesting itemized estimates, and asking about clinical trials that may lower some costs. Access depends on hospital acceptance, medical review, visa approval, and travel fitness, and cannot be guaranteed. Gathering complete medical reports and a second opinion early helps clarify realistic options and costs. Final treatment and eligibility decisions are always made by the treating oncology team after full assessment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of TIL therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients explore clinical trial options where available. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and no specific cost, acceptance, or outcome is guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

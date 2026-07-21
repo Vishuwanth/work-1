@@ -1,0 +1,64 @@
+{
+  "pillar": "Getting a Second Opinion for Rare Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: getting-a-second-opinion-for-rare-cancer",
+  "route": "⚠ VERIFY: /insights/getting-a-second-opinion-for-rare-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Getting a Second Opinion for Rare Cancer",
+    "intro": "A second opinion means having another qualified oncology specialist review your diagnosis and treatment plan. For rare cancers, where experience is limited, this review can add clarity and confidence to your decisions.",
+    "groups": [
+      {
+        "title": "Understanding a Second Opinion for Rare Cancer",
+        "items": [
+          {
+            "q": "What is a second opinion for rare cancer?",
+            "a": "<p>A second opinion for rare cancer is a review of your diagnosis, pathology, imaging, and proposed treatment by another qualified oncology specialist, ideally one experienced with that specific tumour type. Because rare cancers are seen less often, a second review may confirm the diagnosis, refine staging, or suggest alternative options. It is a normal, accepted part of cancer care and does not offend your treating doctor.</p>"
+          },
+          {
+            "q": "Why is a second opinion especially important for rare cancers?",
+            "a": "<p>Second opinions matter more for rare cancers because few specialists encounter these tumours regularly, which can affect diagnosis and treatment planning. A pathologist or oncologist with subspecialty experience may reclassify the tumour, adjust the stage, or identify biomarker-driven and clinical-trial options. Any change depends on your cancer type, pathology, and specialist review, and final treatment decisions should always be made by your treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "When and How to Get One",
+        "items": [
+          {
+            "q": "When should I seek a second opinion for a rare cancer?",
+            "a": "<p>Consider a second opinion soon after a rare cancer diagnosis, before starting major treatment such as surgery, chemotherapy, or radiation. It is also reasonable when the diagnosis is uncertain, when standard options are limited, or when you want to explore clinical trials. Seeking another view early gives more time to plan, but the right timing depends on your condition and should be discussed with your care team.</p>"
+          },
+          {
+            "q": "What medical reports are needed for a rare cancer second opinion?",
+            "a": "<p>A useful second opinion usually needs your pathology or biopsy report, and often the original tissue slides or blocks for re-review. Specialists may also request imaging scans (CT, MRI, or PET), blood and biomarker or molecular test results, surgery and treatment summaries, and a clinical history. Complete records help the reviewing team give accurate advice, and any missing reports can often be gathered before the review.</p>"
+          },
+          {
+            "q": "Can a second opinion change my rare cancer diagnosis or treatment plan?",
+            "a": "<p>Yes, a second opinion can sometimes change the diagnosis, staging, or recommended treatment, particularly for rare cancers where pathology re-review may reclassify the tumour. It may also confirm that the original plan is appropriate, which can be reassuring. Whether anything changes depends on your specific pathology, biomarkers, and specialist assessment, and any final decision should be made together with your qualified treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Options",
+        "items": [
+          {
+            "q": "How can international patients get a second opinion for rare cancer?",
+            "a": "<p>International patients can often obtain a second opinion remotely by sending scanned pathology, imaging, and treatment records to a specialist centre for review, without travelling first. If in-person care is later considered, access depends on hospital acceptance, medical review, visa approval, and travel fitness. A remote review helps clarify options and estimated costs early, so any travel decision is based on clearer information from an experienced oncology team.</p>"
+          },
+          {
+            "q": "How much does a rare cancer second opinion cost?",
+            "a": "<p>The cost of a rare cancer second opinion varies widely depending on the hospital, country, whether pathology slides are re-examined, and the specialists involved. Some centres offer remote written reviews, while others require detailed multidisciplinary assessment. Additional tests, such as molecular profiling, can add to the cost. Final pricing depends on your diagnosis and the reviewing centre, so it is best confirmed directly before proceeding.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with getting a second opinion for rare cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

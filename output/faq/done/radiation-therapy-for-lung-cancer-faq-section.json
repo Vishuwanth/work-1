@@ -1,0 +1,118 @@
+{
+  "pillar": "Radiation Therapy for Lung Cancer",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: radiation-therapy-for-lung-cancer",
+  "route": "⚠ VERIFY: /<section>/radiation-therapy-for-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Radiation Therapy for Lung Cancer",
+    "intro": "Clear, patient-friendly answers about how radiation therapy is used to treat lung cancer, who may be suitable, and what to expect. Final treatment decisions should always be made by a qualified oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Radiation Therapy for Lung Cancer",
+        "items": [
+          {
+            "q": "What is radiation therapy for lung cancer?",
+            "a": "<p>Radiation therapy for lung cancer uses high-energy beams, such as X-rays or protons, to damage and destroy cancer cells in the lungs. It may be used alone, with chemotherapy, or after surgery, depending on the cancer type, stage, and location. Treatment is carefully targeted to reduce harm to healthy lung tissue. Whether it is suitable depends on tumour size, spread, lung function, and overall health, and should be discussed with a radiation oncologist.</p>"
+          },
+          {
+            "q": "How does radiation therapy work against lung cancer?",
+            "a": "<p>Radiation therapy works by damaging the DNA inside lung cancer cells so they can no longer grow or divide, causing them to die over time. Beams are shaped and aimed precisely at the tumour using imaging and planning software. Healthy cells can often repair themselves better than cancer cells, which helps limit side effects. The exact approach depends on the tumour location, stage, and nearby structures, and is planned by the treating team.</p>"
+          },
+          {
+            "q": "What types of radiation therapy are used for lung cancer?",
+            "a": "<p>Common types of radiation therapy for lung cancer include external beam radiation, such as 3D conformal radiotherapy, IMRT, and stereotactic body radiation therapy (SBRT). SBRT delivers high, precise doses in fewer sessions and may be considered for small, early-stage tumours in selected patients. Proton therapy is available in some centres. The most appropriate type depends on tumour size, stage, location, and lung function, and is determined by the radiation oncology team.</p>"
+          },
+          {
+            "q": "What is SBRT for lung cancer?",
+            "a": "<p>SBRT, or stereotactic body radiation therapy, delivers very precise, high-dose radiation to a lung tumour in a small number of sessions, usually one to five. It may be considered for early-stage non-small cell lung cancer in patients who cannot have surgery or prefer a non-surgical option. SBRT requires careful imaging and motion management because the lungs move during breathing. Suitability depends on tumour size, location, and overall health, and is decided by specialists.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for radiation therapy for lung cancer?",
+            "a": "<p>Radiation therapy may be suitable for selected lung cancer patients across different stages, including early-stage tumours, locally advanced disease, and cases needing symptom relief. Eligibility depends on cancer type, stage, tumour location, lung function, previous treatments, and overall health. Some patients receive radiation instead of surgery, while others receive it alongside chemotherapy. A radiation oncologist reviews imaging, pathology, and breathing tests before recommending treatment. Final decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "How is radiation therapy for lung cancer planned?",
+            "a": "<p>Radiation therapy for lung cancer is planned using a CT simulation scan that maps the exact position of the tumour and nearby organs. The radiation oncology team then designs a personalised plan, choosing beam angles and doses to target the cancer while protecting the heart, spinal cord, and healthy lung. Because the lungs move with breathing, motion-management techniques may be used. Planning usually takes several days before treatment begins and is reviewed carefully by specialists.</p>"
+          },
+          {
+            "q": "How long does radiation therapy for lung cancer take?",
+            "a": "<p>The length of radiation therapy for lung cancer depends on the technique and treatment goal. Standard external beam radiation is often given daily on weekdays over several weeks, while SBRT may be completed in one to five sessions. Each individual session usually lasts only a few minutes to around half an hour. Palliative radiation to relieve symptoms is often shorter. The exact schedule is set by the radiation oncology team based on the treatment plan.</p>"
+          },
+          {
+            "q": "What are the side effects of radiation therapy for lung cancer?",
+            "a": "<p>Common side effects of radiation therapy for lung cancer may include tiredness, skin irritation, difficulty swallowing, cough, and shortness of breath. Some patients develop inflammation of the lung, called radiation pneumonitis, weeks or months after treatment. Side effects vary depending on the dose, area treated, and overall health, and many improve after treatment ends. Serious effects are less common with modern targeted techniques. Any new or worsening symptoms should be reported promptly to the treating team.</p>"
+          },
+          {
+            "q": "Is radiation therapy for lung cancer painful?",
+            "a": "<p>Radiation therapy for lung cancer is not painful during the actual treatment, which feels similar to having an X-ray or CT scan. You lie still while the machine delivers the beams, and you do not feel the radiation itself. Discomfort, if any, usually comes later from side effects such as a sore throat, skin irritation, or fatigue. These effects vary between patients and can often be managed with supportive care advised by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does radiation therapy for lung cancer cost?",
+            "a": "<p>The cost of radiation therapy for lung cancer varies widely depending on the country, hospital, technique used, and number of sessions. Advanced options such as SBRT or proton therapy generally cost more than standard external beam radiation. Final cost also depends on diagnosis, staging tests, planning scans, supportive care, and any complications. Because prices differ significantly between centres, patients should request a written estimate. Cost should be confirmed directly with the treating hospital before starting.</p>"
+          },
+          {
+            "q": "Is radiation therapy for lung cancer available in India?",
+            "a": "<p>Yes, radiation therapy for lung cancer is available in India at many cancer hospitals, including centres offering IMRT, SBRT, and, in some facilities, proton therapy. India is often chosen by international patients because advanced radiation techniques may be available at comparatively lower cost. Availability of specific technologies varies between hospitals and cities. Suitability, treatment planning, and cost depend on individual diagnosis and should be confirmed with the chosen centre and its radiation oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer advanced radiation therapy for lung cancer?",
+            "a": "<p>Advanced radiation therapy for lung cancer, including SBRT and proton therapy, is offered in countries such as India, the United States, Germany, China, Japan, and several others with specialised cancer centres. Not every hospital provides every technique, and proton therapy in particular is available only at selected facilities. The best option depends on tumour characteristics, cost, and access. Patients considering treatment abroad should confirm technology availability and eligibility directly with the specific hospital.</p>"
+          },
+          {
+            "q": "Is radiation therapy covered by insurance for lung cancer?",
+            "a": "<p>Radiation therapy for lung cancer is covered by many health insurance plans, but coverage depends on your policy, country, hospital, and the specific technique used. Advanced treatments such as proton therapy or SBRT may have different coverage rules or require prior approval. Some plans cover a portion of costs while patients pay the rest. Because policies vary, patients should confirm coverage, approvals, and out-of-pocket costs directly with their insurer and hospital before treatment begins.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Is radiation therapy used with chemotherapy for lung cancer?",
+            "a": "<p>Yes, radiation therapy is often combined with chemotherapy for lung cancer, especially in locally advanced non-small cell and small cell lung cancer. This approach, called chemoradiation, may be given together (concurrently) or one after the other, and can make treatment more effective for selected patients. It may also increase side effects, so overall health and lung function are carefully assessed. Whether this combination is suitable is decided by the treating oncology team after full evaluation.</p>"
+          },
+          {
+            "q": "Can immunotherapy be combined with radiation for lung cancer?",
+            "a": "<p>In some cases, immunotherapy may be given after chemoradiation for locally advanced lung cancer to help lower the chance of the cancer returning. This approach is used for selected patients and depends on cancer type, stage, biomarker profile, and response to earlier treatment. Combining these therapies can affect side effects and requires close monitoring. Eligibility should be reviewed by a medical oncology and radiation oncology team, and final decisions are made by the treating specialists.</p>"
+          },
+          {
+            "q": "Are there clinical trials for radiation therapy in lung cancer?",
+            "a": "<p>Yes, clinical trials study new radiation techniques, dose schedules, and combinations with drug therapies for lung cancer. These trials may offer access to newer approaches but cannot guarantee benefit or enrolment. Eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria based on cancer type, stage, and prior treatment. Patients interested in trials should discuss suitable options with their oncology team and the trial centre.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access radiation therapy for lung cancer?",
+            "a": "<p>International patients can access radiation therapy for lung cancer by sharing their medical reports with a chosen hospital for review, obtaining a treatment plan and cost estimate, and arranging travel and a medical visa. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition, and cannot be guaranteed. Planning follow-up care after returning home is also important. The treating hospital confirms suitability and scheduling after reviewing the full case.</p>"
+          },
+          {
+            "q": "What medical reports are needed for radiation therapy for lung cancer?",
+            "a": "<p>Reports usually needed for planning radiation therapy for lung cancer include recent imaging such as CT or PET-CT scans, the biopsy or pathology report, and any biomarker or molecular test results. Details of previous treatments, current medications, lung function tests, and general health records are also helpful. These allow the radiation oncology team to assess the tumour and plan safely. The exact requirements vary by hospital, so patients should confirm the full list before travelling.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with radiation therapy for lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or radiation therapy centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to any hospital, technique, or country cannot be guaranteed, and suitability for radiation therapy is confirmed only after full medical review by the treating specialists.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

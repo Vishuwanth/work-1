@@ -1,0 +1,114 @@
+{
+  "pillar": "HER2-positive breast cancer: a complete guide for patients",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: her2-positive-breast-cancer-a-complete-guide-for-patients",
+  "route": "⚠ VERIFY: /<section>/her2-positive-breast-cancer-a-complete-guide-for-patients",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About HER2-Positive Breast Cancer",
+    "intro": "Clear, patient-friendly answers about HER2-positive breast cancer, its treatment, costs, and how international patients can access care. All information is educational and should be confirmed with a qualified oncology team.",
+    "groups": [
+      {
+        "title": "Understanding HER2-Positive Breast Cancer",
+        "items": [
+          {
+            "q": "What is HER2-positive breast cancer?",
+            "a": "<p>HER2-positive breast cancer is a type of breast cancer where the tumor cells make too much of a protein called HER2, which drives faster growth. About 15–20% of breast cancers are HER2-positive. It is diagnosed using IHC and FISH tests on a tumor sample. While it was once considered aggressive, targeted HER2 therapies have greatly improved outcomes for many patients. Final diagnosis and treatment planning should be confirmed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How is HER2-positive status confirmed by testing?",
+            "a": "<p>HER2 status is confirmed through laboratory tests on a biopsy or surgical tumor sample. The two main tests are immunohistochemistry (IHC), which measures HER2 protein, and FISH or ISH, which counts HER2 gene copies. An IHC score of 3+, or a positive FISH result, generally indicates HER2-positive disease. Accurate testing is essential because it guides targeted treatment. Results should always be interpreted by a qualified pathologist and oncology team.</p>"
+          },
+          {
+            "q": "Is HER2-positive breast cancer more aggressive than other types?",
+            "a": "<p>HER2-positive breast cancer can grow and spread faster than HER2-negative cancers if left untreated. However, this type responds well to HER2-targeted drugs such as trastuzumab and pertuzumab, which have transformed its outlook. With appropriate targeted therapy, many patients now achieve strong and lasting responses. The actual behavior of the cancer depends on stage, hormone-receptor status, and individual factors. Prognosis should always be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the early signs and symptoms of HER2-positive breast cancer?",
+            "a": "<p>HER2-positive breast cancer often has the same early signs as other breast cancers, such as a new lump, thickening, skin dimpling, nipple changes, or unusual discharge. HER2 status cannot be felt or seen; it is only known through laboratory testing after a biopsy. Some cancers cause no symptoms and are found on screening mammograms. Any new or persistent breast change should be evaluated promptly by a qualified doctor.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "How is HER2-positive breast cancer treated?",
+            "a": "<p>HER2-positive breast cancer is usually treated with HER2-targeted therapy combined with chemotherapy, and often surgery, radiation, or hormone therapy depending on the case. Common targeted drugs include trastuzumab and pertuzumab, sometimes given before surgery to shrink the tumor. Newer options such as trastuzumab deruxtecan may be considered for certain advanced cases. The exact plan depends on stage, hormone status, and overall health, and should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "What are HER2-targeted therapies and how do they work?",
+            "a": "<p>HER2-targeted therapies are drugs designed to block the HER2 protein that fuels cancer growth. Trastuzumab and pertuzumab attach to HER2 to slow the cancer and help the immune system attack it. Antibody-drug conjugates like trastuzumab emtansine and trastuzumab deruxtecan deliver chemotherapy directly to HER2 cells. Oral drugs such as tucatinib and neratinib may also be used. Suitability depends on stage and prior treatment and should be reviewed by an oncologist.</p>"
+          },
+          {
+            "q": "Who is eligible for HER2-targeted treatment?",
+            "a": "<p>HER2-targeted treatment may be suitable for patients whose tumors test positive for HER2 on IHC or FISH testing. Eligibility depends on cancer stage, hormone-receptor status, heart function, previous treatments, and overall health. Because some HER2 drugs can affect the heart, cardiac testing is often done before and during treatment. Not every patient receives every drug. Final decisions about eligibility should be made by the treating oncology team after full review.</p>"
+          },
+          {
+            "q": "What are the possible side effects of HER2-targeted therapy?",
+            "a": "<p>HER2-targeted therapy is generally well tolerated but can cause side effects that vary by drug. Common ones include fatigue, nausea, diarrhea, infusion reactions, and low blood counts. Some HER2 drugs may affect heart function, so regular heart monitoring is recommended. Antibody-drug conjugates can occasionally affect the lungs. Most side effects are manageable with medical care. Patients should report new symptoms promptly, and treatment should be supervised by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does HER2-positive breast cancer treatment cost?",
+            "a": "<p>The cost of HER2-positive breast cancer treatment varies widely by country, hospital, drugs used, and length of care. Targeted therapies such as trastuzumab and newer antibody-drug conjugates are often the biggest cost driver, and biosimilars may lower prices in some regions. Final cost depends on diagnosis, stage, tests, treatment protocol, complications, and stay. Patients should request a detailed written estimate from the treating hospital before starting care.</p>"
+          },
+          {
+            "q": "Is HER2-positive breast cancer treatment available in India?",
+            "a": "<p>HER2-positive breast cancer treatment is available at many cancer centers in India, including targeted drugs like trastuzumab and pertuzumab, often at lower cost than in Western countries. Biosimilar versions of trastuzumab have improved affordability for many patients. Availability of newer agents may vary by hospital. Actual access, drug options, and cost depend on the center and individual case, and should be confirmed directly with the treating oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer advanced HER2-positive breast cancer treatment?",
+            "a": "<p>Advanced HER2-positive breast cancer treatment is offered in many countries, including the United States, India, China, Germany, Singapore, and the United Kingdom. Newer HER2-targeted drugs and clinical trials may be more widely available at large specialized cancer centers. Drug approvals, availability, and cost differ between countries. International patients should confirm which specific therapies a hospital offers and verify access, timelines, and pricing with the treating team before making travel plans.</p>"
+          },
+          {
+            "q": "Are biosimilar HER2 drugs as effective as the original medicines?",
+            "a": "<p>Biosimilar HER2 drugs are approved versions of trastuzumab that are highly similar to the original medicine in safety and effectiveness. Regulators require rigorous testing before approval, and biosimilars are widely used to make treatment more affordable. Many oncologists consider them a reliable option for eligible patients. Whether a biosimilar or the reference drug is used depends on availability, hospital policy, and the treating oncology team's clinical judgment for each patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What treatment options exist for HER2-positive metastatic breast cancer?",
+            "a": "<p>HER2-positive metastatic breast cancer is treated to control the disease and maintain quality of life, often over many years. Options may include trastuzumab and pertuzumab with chemotherapy, followed by antibody-drug conjugates such as trastuzumab deruxtecan or trastuzumab emtansine, and oral drugs like tucatinib. Treatment is chosen based on prior therapy, symptoms, and overall health. The best sequence should be decided by the treating oncology team and may change over time.</p>"
+          },
+          {
+            "q": "What is trastuzumab deruxtecan and who might benefit?",
+            "a": "<p>Trastuzumab deruxtecan is an antibody-drug conjugate that links a HER2-targeting antibody to a chemotherapy agent, delivering treatment directly to cancer cells. It may be considered for selected patients with advanced or previously treated HER2-positive breast cancer and has shown strong responses in trials. It requires monitoring for lung and other side effects. Whether it is suitable depends on prior treatment and overall health, and should be assessed by the treating oncology team.</p>"
+          },
+          {
+            "q": "Are there clinical trials for HER2-positive breast cancer?",
+            "a": "<p>Yes, many clinical trials study new drugs and combinations for HER2-positive breast cancer, including at early and advanced stages. Trials may offer access to therapies not yet widely available, but they follow strict inclusion and exclusion criteria. Enrollment and benefit are never guaranteed and are decided only after medical record review and investigator assessment. Patients interested in trials should discuss suitable options and locations with their oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access HER2-positive breast cancer treatment abroad?",
+            "a": "<p>International patients can access treatment abroad by sending their medical reports to a chosen hospital for review and an estimated plan. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition. It helps to arrange a second opinion, cost estimate, travel plan, and follow-up care in advance. Admission, visa approval, and treatment acceptance cannot be guaranteed and are confirmed only after the treating team's review.</p>"
+          },
+          {
+            "q": "What medical reports are needed to plan HER2-positive breast cancer treatment?",
+            "a": "<p>To plan treatment, doctors usually need the biopsy and pathology report, HER2 and hormone-receptor test results, imaging scans, and a summary of any previous treatment. Recent blood tests and heart function results are also helpful because some HER2 drugs affect the heart. Complete and up-to-date records allow a more accurate plan and cost estimate. The treating oncology team will advise if additional tests are required before starting care.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with HER2-positive breast cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and does not guarantee hospital admission, treatment acceptance, or specific outcomes for any patient.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

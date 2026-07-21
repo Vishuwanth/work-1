@@ -1,0 +1,68 @@
+{
+  "pillar": "mRNA Cancer Vaccines",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: mrna-cancer-vaccines",
+  "route": "⚠ VERIFY: /insights/mrna-cancer-vaccines",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About mRNA Cancer Vaccines",
+    "intro": "mRNA cancer vaccines are an emerging class of tumor therapeutic vaccines designed to train the immune system to recognize and attack cancer cells. These answers explain how they work, who may be a candidate, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding mRNA Cancer Vaccines",
+        "items": [
+          {
+            "q": "What is an mRNA cancer vaccine?",
+            "a": "<p>An mRNA cancer vaccine is a type of tumor therapeutic vaccine that uses messenger RNA to teach the immune system to recognize proteins found on cancer cells. Unlike vaccines that prevent infection, most mRNA cancer vaccines are therapeutic, meaning they aim to treat existing cancer rather than prevent it. The mRNA instructs the body to make specific tumor-related proteins, helping immune cells identify and attack the cancer more effectively.</p>"
+          },
+          {
+            "q": "How do mRNA cancer vaccines work?",
+            "a": "<p>mRNA cancer vaccines work by delivering genetic instructions that prompt the body's cells to produce tumor-associated proteins called antigens. Once these antigens are made, the immune system learns to recognize them as targets and mounts a response against cancer cells carrying them. Many are personalized, designed from a patient's own tumor mutations (neoantigens). The actual response varies by cancer type, tumor biology, and individual immune factors, and should be assessed by a specialist.</p>"
+          },
+          {
+            "q": "Are mRNA cancer vaccines the same as COVID-19 vaccines?",
+            "a": "<p>mRNA cancer vaccines use the same core technology as some COVID-19 vaccines but serve a very different purpose. Both use messenger RNA to instruct cells to make specific proteins, which the immune system then learns to recognize. However, COVID-19 mRNA vaccines prevent viral infection, while mRNA cancer vaccines are mostly therapeutic and aim to help the immune system target existing tumors. The proven safety of mRNA delivery helped accelerate cancer vaccine research.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for an mRNA cancer vaccine?",
+            "a": "<p>Eligibility for an mRNA cancer vaccine depends on cancer type, stage, tumor mutation profile, previous treatment, and overall health, and is largely determined through clinical trials. Many current vaccines are being studied in melanoma, pancreatic, and certain other cancers, often alongside immunotherapy. Because most are still experimental, candidacy is decided after detailed medical record review and specialist assessment. Eligibility should always be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the potential benefits of mRNA cancer vaccines?",
+            "a": "<p>The potential benefit of mRNA cancer vaccines is a more targeted immune response that may help reduce the risk of cancer recurrence or slow tumor growth in selected patients. Early trials, particularly in melanoma when combined with immunotherapy, have shown encouraging signals. However, these vaccines remain investigational, and results vary by individual and cancer type. They do not guarantee a cure, and benefits should be discussed realistically with the treating medical team.</p>"
+          },
+          {
+            "q": "What are the side effects or risks of mRNA cancer vaccines?",
+            "a": "<p>Common side effects of mRNA cancer vaccines reported in trials are usually mild to moderate, such as fatigue, fever, chills, and injection-site reactions. Because they stimulate the immune system, some patients may experience temporary inflammatory symptoms. When combined with immunotherapy, immune-related side effects can occur and require monitoring. As these vaccines are still under study, the full safety profile is being defined. Any risks should be reviewed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and International Patients",
+        "items": [
+          {
+            "q": "Are mRNA cancer vaccines approved and available?",
+            "a": "<p>Most mRNA cancer vaccines are not yet approved for routine use and are currently available mainly through clinical trials. Several candidates are in advanced testing for cancers such as melanoma and pancreatic cancer, often studied together with immunotherapy. Availability depends on trial location, enrollment criteria, and regulatory status in each country. Access may be possible for selected patients, but this should be confirmed through a specialist and formal trial review.</p>"
+          },
+          {
+            "q": "How can international patients access mRNA cancer vaccine trials?",
+            "a": "<p>International patients may access mRNA cancer vaccine trials by identifying suitable studies and undergoing medical record review to check eligibility. Access depends on trial inclusion and exclusion criteria, investigator assessment, hospital acceptance, visa approval, and travel fitness. Because these vaccines are experimental, enrollment and benefit cannot be guaranteed. Patients typically need pathology reports, imaging, biomarker or genetic testing, and treatment history, which the treating and trial teams evaluate before any decision.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with mRNA cancer vaccines?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or clinical trial centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment and trial decisions are always made by the qualified oncology team and investigators after reviewing the patient's diagnosis, stage, tumor mutations, biomarkers, previous treatment, and overall health. CancerFax provides coordination and guidance but does not replace the treating medical team or guarantee trial enrollment.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

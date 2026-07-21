@@ -1,0 +1,68 @@
+{
+  "pillar": "What is Cancer Immunotherapy?",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: what-is-cancer-immunotherapy",
+  "route": "⚠ VERIFY: /insights/what-is-cancer-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Immunotherapy",
+    "intro": "Cancer immunotherapy is a group of treatments that help the body's own immune system find and fight cancer. These answers explain how it works, who it may suit, its possible side effects, and how patients can access it.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Immunotherapy",
+        "items": [
+          {
+            "q": "What is cancer immunotherapy?",
+            "a": "<p>Cancer immunotherapy is a type of treatment that helps your own immune system recognize and attack cancer cells. Unlike chemotherapy, which targets rapidly dividing cells directly, immunotherapy works by strengthening or redirecting the body's natural defenses. It includes several approaches such as checkpoint inhibitors, CAR T-cell therapy, and cancer vaccines. Suitability depends on cancer type, stage, biomarker profile, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does cancer immunotherapy work?",
+            "a": "<p>Cancer immunotherapy works by helping immune cells identify cancer cells that would otherwise hide from the body's defenses. Some treatments release natural \"brakes\" on immune cells, while others engineer or train immune cells to target specific cancer markers. The goal is a stronger, more targeted immune response against the tumor. How well it works varies by cancer type, biomarkers, and overall health, and outcomes cannot be guaranteed for any individual patient.</p>"
+          },
+          {
+            "q": "What are the main types of cancer immunotherapy?",
+            "a": "<p>The main types of cancer immunotherapy include immune checkpoint inhibitors, CAR T-cell therapy, monoclonal antibodies, cancer vaccines, and cytokine treatments. Checkpoint inhibitors help immune cells attack tumors, while CAR T-cell therapy re-engineers a patient's own cells to target cancer. Each type is used for different cancers and situations. The most appropriate option depends on cancer type, stage, prior treatment, and biomarker testing, and should be decided by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for cancer immunotherapy?",
+            "a": "<p>Eligibility for cancer immunotherapy depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Certain cancers, such as some lung cancers, melanoma, and specific blood cancers, may respond well, and tests like PD-L1 or tumor mutational burden can help guide selection. It may be considered for selected patients after specialist review. Final eligibility should be confirmed by a qualified oncology team based on complete medical records and testing.</p>"
+          },
+          {
+            "q": "Is cancer immunotherapy suitable for all cancer patients?",
+            "a": "<p>Cancer immunotherapy is not suitable for every cancer patient, and it does not replace standard treatments like surgery, chemotherapy, or radiation. Its usefulness depends on cancer type, stage, biomarkers, previous treatment, and overall health. Some cancers respond strongly, while others show little benefit, and certain medical conditions may make it unsafe. Whether it may be considered should always be assessed and decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of cancer immunotherapy?",
+            "a": "<p>Cancer immunotherapy can cause side effects when the activated immune system also affects healthy tissue. Common effects include fatigue, skin rash, flu-like symptoms, and diarrhea, while less common effects may involve inflammation of the lungs, thyroid, liver, or other organs. Some reactions can be serious and need prompt medical care. Side effects vary by treatment and patient, so they should be monitored and managed by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does cancer immunotherapy cost?",
+            "a": "<p>The cost of cancer immunotherapy varies widely depending on the treatment type, country, hospital, and number of cycles needed. Advanced options like CAR T-cell therapy are generally more expensive than checkpoint inhibitors. Final cost also depends on diagnosis, stage, tests, complications, length of stay, and the treating team's advice. Any figure should be treated as an estimate only, and patients should request a detailed, personalized quotation from the treating center.</p>"
+          },
+          {
+            "q": "Which countries offer cancer immunotherapy and how can international patients access it?",
+            "a": "<p>Cancer immunotherapy is available in many countries, including the United States, China, India, and parts of Europe, though the specific therapies offered vary by center. For international patients, access depends on hospital acceptance, medical record review, visa approval, travel fitness, and patient condition. Approval and admission cannot be guaranteed. Patients typically need up-to-date reports, imaging, pathology, and biomarker results, which are reviewed by the treating team before any treatment plan is confirmed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer immunotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It also helps patients understand available immunotherapy options and what information is needed for review. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

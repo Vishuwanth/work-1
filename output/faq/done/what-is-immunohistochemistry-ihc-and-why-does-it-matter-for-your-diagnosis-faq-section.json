@@ -1,0 +1,114 @@
+{
+  "pillar": "What is immunohistochemistry (IHC) and why does it matter for your diagnosis?",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: what-is-immunohistochemistry-ihc-and-why-does-it-matter-for-your-diagnosis",
+  "route": "⚠ VERIFY: /<section>/what-is-immunohistochemistry-ihc-and-why-does-it-matter-for-your-diagnosis",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunohistochemistry (IHC)",
+    "intro": "Immunohistochemistry (IHC) is a laboratory test that helps identify the exact type of cancer and guide treatment. These answers explain what IHC shows, how it is done, and what it means for your diagnosis and care.",
+    "groups": [
+      {
+        "title": "Understanding Immunohistochemistry (IHC)",
+        "items": [
+          {
+            "q": "What is immunohistochemistry (IHC)?",
+            "a": "<p>Immunohistochemistry (IHC) is a laboratory test that uses special antibodies to detect specific proteins on cells within a tissue sample. Pathologists apply these antibodies to a biopsy or surgical specimen, and a color reaction reveals whether a target protein is present. IHC helps confirm whether a tumor is cancerous, identify the cancer type, and detect markers that may influence treatment. Results are always interpreted alongside other clinical and pathology findings.</p>"
+          },
+          {
+            "q": "Why does IHC matter for a cancer diagnosis?",
+            "a": "<p>IHC matters because it helps pinpoint the exact type and origin of a cancer, which standard microscopy alone may not reveal. By detecting specific proteins, IHC can confirm whether a tumor is cancer, identify where it started, and reveal markers such as hormone receptors or HER2 that may guide treatment choices. These findings help the oncology team plan therapy, though final decisions depend on the complete clinical picture and specialist review.</p>"
+          },
+          {
+            "q": "How is IHC different from a regular biopsy report?",
+            "a": "<p>IHC is an added layer of testing performed on the same biopsy tissue, not a separate procedure. A routine histopathology report describes how cells look under the microscope, while IHC identifies specific proteins inside or on those cells using antibodies. This extra detail can distinguish similar-looking cancers, confirm the tissue of origin, and reveal treatment-relevant markers. Both are usually reported together to give a fuller picture of the diagnosis.</p>"
+          },
+          {
+            "q": "What common markers are tested with IHC?",
+            "a": "<p>Common IHC markers depend on the suspected cancer type and what the pathologist needs to confirm. In breast cancer, estrogen receptor, progesterone receptor, HER2, and Ki-67 are frequently tested. Other markers help identify lymphomas, lung cancers, prostate cancer, or a cancer of unknown origin. Markers like PD-L1 may guide immunotherapy decisions. The specific panel is chosen by the pathologist based on your tumor and clinical details.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "How is an IHC test performed?",
+            "a": "<p>An IHC test is performed in the pathology laboratory using tissue already collected from a biopsy or surgery, so it usually requires no extra procedure. Thin slices of the tissue are placed on slides, treated with specific antibodies, and stained so target proteins become visible under the microscope. A pathologist then interprets the staining pattern and intensity. The process depends on the markers requested and the laboratory's protocols.</p>"
+          },
+          {
+            "q": "How long does it take to get IHC results?",
+            "a": "<p>IHC results typically take a few days to about a week after the tissue reaches the laboratory, though timing varies by center and the number of markers tested. Standard markers may be reported quickly, while complex panels or send-out tests can take longer. Delays can occur if additional stains or a second review are needed. Your treating team can give a realistic timeline based on the laboratory handling your sample.</p>"
+          },
+          {
+            "q": "Do I need a new biopsy for IHC testing?",
+            "a": "<p>In most cases you do not need a new biopsy, because IHC is done on tissue already collected during your original biopsy or surgery. Stored tissue blocks can often be used for additional markers later. A repeat biopsy may be considered only if the existing sample is too small, of poor quality, or if doctors need fresh tissue to reassess a changing tumor. This decision is made by your medical team.</p>"
+          },
+          {
+            "q": "Are IHC results always accurate?",
+            "a": "<p>IHC is a reliable and widely used test, but results are not absolute and must be interpreted carefully by a pathologist. Accuracy can be affected by sample quality, how the tissue was fixed and processed, the antibodies used, and laboratory technique. Borderline or unexpected results may need repeat staining, additional markers, or molecular confirmation. For this reason, IHC findings are always considered alongside the full clinical and pathology picture.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does IHC testing cost?",
+            "a": "<p>The cost of IHC varies widely depending on the number of markers tested, the laboratory, and the country. A few basic markers are relatively inexpensive, while large or specialized panels cost more. Final cost also depends on your cancer type, whether tests are done locally or sent out, and the treating team's recommendations. Because pricing is not fixed, it is best to confirm estimates with the specific hospital or laboratory.</p>"
+          },
+          {
+            "q": "Is IHC testing available in India?",
+            "a": "<p>IHC testing is widely available in India at major cancer hospitals, university pathology departments, and accredited diagnostic laboratories. Many centers offer standard marker panels for breast, lung, lymphoma, and other cancers, and some provide advanced or specialized markers. Availability of specific antibodies can vary between laboratories. Which markers are appropriate for your case depends on your diagnosis and should be decided by a qualified pathologist and oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer advanced IHC and specialized panels?",
+            "a": "<p>Advanced IHC and specialized marker panels are offered in many countries with established cancer centers, including India, China, the United States, and parts of Europe. Larger academic and reference laboratories are more likely to provide rare antibodies, PD-L1 testing, and expert subspecialty review. Access depends on the laboratory's capabilities and the markers your case requires. Your treating team can advise where suitable testing may be available for your situation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What is the difference between IHC and molecular or genetic testing?",
+            "a": "<p>IHC detects proteins made by cells, while molecular or genetic testing looks directly at DNA, RNA, or gene changes in the tumor. IHC is often faster and can suggest whether a marker is present, whereas molecular tests such as FISH or next-generation sequencing confirm specific mutations or gene alterations. The two are often used together, and which tests you need depends on your cancer type and specialist assessment.</p>"
+          },
+          {
+            "q": "Can IHC help me qualify for targeted therapy or immunotherapy?",
+            "a": "<p>IHC can help identify markers that may make certain targeted therapies or immunotherapies relevant, such as HER2 in breast cancer or PD-L1 for some immunotherapies. However, a positive marker does not guarantee that a treatment will be suitable or effective for you. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Final treatment decisions should be made by your oncology team after full review.</p>"
+          },
+          {
+            "q": "Is IHC used in clinical trials?",
+            "a": "<p>Yes, IHC is often used in clinical trials to check whether a tumor carries the specific marker a trial is studying. Some trials require a defined level of protein expression as part of their inclusion criteria. Meeting a marker threshold does not guarantee enrollment or benefit, as eligibility is decided after full medical record review and investigator assessment. Trials also have strict inclusion and exclusion criteria beyond IHC results.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed to review my IHC results?",
+            "a": "<p>To review IHC results, specialists usually need the full pathology report, the IHC report listing markers and staining results, and often the original biopsy or surgical report. Imaging reports and a summary of your diagnosis and previous treatment are also helpful. In some cases, the actual tissue slides or blocks may be requested for re-examination. Your treating team can confirm exactly which documents are required for a thorough review.</p>"
+          },
+          {
+            "q": "Can I get a second opinion on my IHC report?",
+            "a": "<p>Yes, a second opinion on an IHC report is common and can be valuable, especially for unclear, borderline, or unexpected results. Another pathologist may re-examine the slides, repeat certain stains, or recommend additional markers or molecular tests. This can help confirm the diagnosis and support treatment planning. To arrange this, you typically need your pathology reports and, in many cases, the original tissue slides or blocks for review.</p>"
+          },
+          {
+            "q": "Can IHC slides or tissue blocks be sent abroad for review?",
+            "a": "<p>IHC slides and tissue blocks can often be sent to laboratories in other countries for review or additional testing, and this is a routine part of second opinions. The original hospital or laboratory usually needs to release the material, and safe packaging and documentation are important. Additional markers can sometimes be added from stored blocks. Availability depends on the receiving laboratory and local regulations, so arrangements should be confirmed in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunohistochemistry (IHC) testing?",
+            "a": "<p>CancerFax helps patients organize pathology and IHC reports, identify relevant specialists or laboratories, estimate possible costs, and coordinate second opinions, slide review, appointments, travel, visa, and follow-up support. This can make it easier to understand your results and explore appropriate testing or treatment options. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

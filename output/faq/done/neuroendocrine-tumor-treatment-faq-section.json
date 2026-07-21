@@ -1,0 +1,68 @@
+{
+  "pillar": "Neuroendocrine Tumor Treatment",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: neuroendocrine-tumor-treatment",
+  "route": "⚠ VERIFY: /insights/neuroendocrine-tumor-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Neuroendocrine Tumor Treatment",
+    "intro": "Neuroendocrine tumors (NETs) are a rare and diverse group of cancers that need individualized care. These FAQs explain treatment options, eligibility, cost, and access in clear, patient-friendly language.",
+    "groups": [
+      {
+        "title": "Understanding Neuroendocrine Tumors and Their Treatment",
+        "items": [
+          {
+            "q": "What is neuroendocrine tumor treatment?",
+            "a": "<p>Neuroendocrine tumor (NET) treatment is care aimed at controlling tumors that arise from hormone-producing neuroendocrine cells, often in the pancreas, gut, or lungs. Options may include surgery, somatostatin analogues, targeted therapy, chemotherapy, and peptide receptor radionuclide therapy (PRRT). The right approach depends on tumor grade, location, stage, hormone activity, and overall health, and should be planned by a specialist NET team after full evaluation.</p>"
+          },
+          {
+            "q": "How does treatment differ for functional and non-functional NETs?",
+            "a": "<p>Treatment differs because functional NETs release excess hormones that cause symptoms, while non-functional NETs do not. Functional tumors, such as carcinoid or insulinoma, often need medicines like somatostatin analogues to control flushing, diarrhoea, or low blood sugar alongside tumor-directed therapy. Non-functional NETs are usually treated based on size, grade, and spread. A specialist team decides the plan after reviewing imaging, hormone tests, and pathology.</p>"
+          },
+          {
+            "q": "What is PRRT and who may be considered for it?",
+            "a": "<p>PRRT (peptide receptor radionuclide therapy) is a targeted treatment that delivers radiation directly to NET cells carrying somatostatin receptors, using agents such as Lutetium-177 dotatate. It may be considered for selected patients with advanced, somatostatin-receptor-positive tumors confirmed on a Gallium-68 DOTATATE PET scan. Eligibility depends on receptor status, kidney and bone marrow function, tumor grade, and prior treatment, and is decided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Outcomes",
+        "items": [
+          {
+            "q": "Is neuroendocrine tumor treatment suitable for all patients?",
+            "a": "<p>No single neuroendocrine tumor treatment is suitable for every patient, because NETs vary widely in grade, location, and behaviour. Some slow-growing tumors may be watched or treated with medicines, while aggressive or high-grade tumors may need chemotherapy or combined approaches. Suitability depends on tumor type, stage, biomarker profile, previous treatment, and overall health, and should be discussed carefully with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of NET treatment?",
+            "a": "<p>Side effects of NET treatment depend on the therapy used and vary from person to person. Somatostatin analogues may cause injection-site reactions or digestive changes, while PRRT can affect kidney and bone marrow function. Surgery and chemotherapy carry their own risks. Most side effects are monitored and managed by the care team. Patients should report new symptoms promptly and discuss expected risks before starting any treatment.</p>"
+          },
+          {
+            "q": "Can neuroendocrine tumors be cured?",
+            "a": "<p>Some early, localized neuroendocrine tumors may be removed completely with surgery, offering a chance of long-term control, while advanced NETs are often managed as a chronic condition rather than cured. Because many NETs grow slowly, patients can live for years with well-controlled disease using ongoing therapy. Outcomes depend on tumor grade, stage, and response to treatment, and prognosis should be discussed individually with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Care",
+        "items": [
+          {
+            "q": "How much does neuroendocrine tumor treatment cost?",
+            "a": "<p>The cost of neuroendocrine tumor treatment varies widely and cannot be fixed in advance, as it depends on the therapies used, such as surgery, PRRT, or targeted drugs. Final cost is influenced by hospital, diagnosis, tumor stage, tests, treatment protocol, possible complications, and length of stay. Patients are advised to request a personalized estimate from the treating hospital after their reports and scans have been reviewed.</p>"
+          },
+          {
+            "q": "How can international patients access neuroendocrine tumor treatment?",
+            "a": "<p>International patients can access neuroendocrine tumor treatment at specialized cancer centres, but access depends on hospital acceptance, medical record review, visa approval, travel fitness, and overall condition. Advanced options such as PRRT and Gallium-68 DOTATATE PET may not be available everywhere, so planning ahead helps. Patients usually need pathology reports, recent imaging, and hormone test results, and should arrange a second opinion and follow-up care in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with neuroendocrine tumor treatment?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, tumor grade, stage, hormone and receptor status, previous treatment, and overall health. This support is intended to guide patients through the process, not to replace medical care.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

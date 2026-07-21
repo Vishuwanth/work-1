@@ -1,0 +1,68 @@
+{
+  "pillar": "TIL vs Immunotherapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: til-vs-immunotherapy",
+  "route": "⚠ VERIFY: /insights/til-vs-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About TIL vs Immunotherapy",
+    "intro": "This guide compares tumor-infiltrating lymphocyte (TIL) therapy with standard immunotherapy to help patients and caregivers understand how each works, who they may suit, and how they differ. Final treatment decisions should always be made by a qualified oncology team.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy and Immunotherapy",
+        "items": [
+          {
+            "q": "What is the difference between TIL therapy and immunotherapy?",
+            "a": "<p>TIL therapy and immunotherapy both use the immune system to fight cancer, but they work differently. TIL (tumor-infiltrating lymphocyte) therapy is a form of cell therapy in which immune cells are taken from a patient's tumor, grown in large numbers in a lab, and infused back. Standard immunotherapy, such as checkpoint inhibitors, uses drugs that help existing immune cells recognize cancer. Suitability depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by expanding a patient's own tumor-fighting immune cells outside the body and returning them in large numbers. Surgeons remove a piece of tumor, and lymphocytes already inside it are isolated and multiplied in a laboratory over several weeks. Patients usually receive chemotherapy to prepare the body before the cells are infused back. It is a complex, individualized process and may be considered only for selected patients after specialist assessment.</p>"
+          },
+          {
+            "q": "What is immunotherapy in cancer treatment?",
+            "a": "<p>Immunotherapy is a group of cancer treatments that help the body's own immune system find and attack cancer cells. The most common type, checkpoint inhibitors, blocks proteins that stop immune cells from working, allowing them to target tumors more effectively. Other forms include cytokines and cancer vaccines. Immunotherapy is used across several cancer types, but whether it is suitable depends on cancer type, biomarker profile, and the treating oncology team's review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Comparing Effectiveness, Eligibility, and Safety",
+        "items": [
+          {
+            "q": "Is TIL therapy better than immunotherapy?",
+            "a": "<p>Neither TIL therapy nor immunotherapy is universally better; each may suit different situations. TIL therapy is being studied mainly for patients whose cancer, such as advanced melanoma, has progressed after checkpoint inhibitors, offering another option when standard immunotherapy stops working. Checkpoint immunotherapy is more widely available and used earlier in treatment. The right choice depends on cancer type, stage, prior treatment, overall health, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Who is eligible for TIL therapy compared to immunotherapy?",
+            "a": "<p>Eligibility for TIL therapy is generally narrower than for immunotherapy. TIL therapy may be considered for selected patients with certain advanced solid tumors, often after other treatments have failed, and requires a tumor large enough to harvest cells plus fitness for preparatory chemotherapy. Immunotherapy drugs are approved for many more cancer types and stages. Both depend on cancer type, biomarker profile, previous treatment, and overall health, and final decisions rest with the treating medical team.</p>"
+          },
+          {
+            "q": "What are the side effects of TIL therapy versus immunotherapy?",
+            "a": "<p>Both treatments carry risks, but their side effects differ in nature and timing. TIL therapy side effects often come from the preparatory chemotherapy and high-dose support medicines, and may include low blood counts, infection risk, and fever. Immunotherapy can cause immune-related reactions affecting the skin, thyroid, lungs, or other organs. Side effects vary between patients and should be monitored closely by the oncology team, with any symptoms reported promptly for proper management.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Practical Questions",
+        "items": [
+          {
+            "q": "Which cancers can be treated with TIL therapy or immunotherapy?",
+            "a": "<p>Immunotherapy is used across many cancers, while TIL therapy is currently studied for fewer types. Checkpoint immunotherapy may be considered for cancers such as melanoma, lung, kidney, bladder, and certain others depending on biomarkers. TIL therapy has been explored mainly in advanced melanoma and some other solid tumors, often within clinical trials. Whether either applies depends on the specific diagnosis, stage, and biomarker testing, and should be confirmed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How much do TIL therapy and immunotherapy cost for international patients?",
+            "a": "<p>Costs for TIL therapy and immunotherapy vary widely and cannot be quoted as fixed figures. TIL therapy is a complex, individualized cell therapy and is generally more resource-intensive than standard drug-based immunotherapy. Final cost depends on the hospital, diagnosis, stage, tests, treatment protocol, number of cycles, complications, and length of stay. International patients should request a detailed written estimate, and access also depends on hospital acceptance and medical review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL vs immunotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make comparing options such as TIL therapy and immunotherapy easier to navigate. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and no specific outcome or treatment access can be guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

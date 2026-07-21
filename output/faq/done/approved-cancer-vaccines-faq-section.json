@@ -1,0 +1,64 @@
+{
+  "pillar": "Approved Cancer Vaccines",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: approved-cancer-vaccines",
+  "route": "⚠ VERIFY: /insights/approved-cancer-vaccines",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Approved Cancer Vaccines",
+    "intro": "Approved cancer vaccines use the immune system to help prevent or treat cancer. These answers explain what they are, how they work, who may qualify, and how international patients can access them.",
+    "groups": [
+      {
+        "title": "Understanding Approved Cancer Vaccines",
+        "items": [
+          {
+            "q": "What are approved cancer vaccines?",
+            "a": "<p>Approved cancer vaccines are immunotherapy treatments authorized by regulators such as the FDA to help the immune system fight cancer. They include preventive vaccines that lower the risk of cancer-causing infections and therapeutic vaccines that treat existing cancer, such as sipuleucel-T for prostate cancer and BCG for early bladder cancer. Availability, eligibility, and suitability depend on cancer type, stage, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which cancer vaccines are currently approved?",
+            "a": "<p>Several cancer vaccines have regulatory approval for specific uses. Examples include BCG for early-stage bladder cancer, sipuleucel-T (Provenge) for advanced prostate cancer, T-VEC (talimogene laherparepvec) for melanoma, and preventive vaccines like HPV and hepatitis B that reduce cancer risk. Approvals vary by country and indication, so whether a particular vaccine is suitable should be confirmed with the treating oncology team based on diagnosis and prior treatment.</p>"
+          },
+          {
+            "q": "Are cancer vaccines the same as preventive vaccines like the HPV vaccine?",
+            "a": "<p>No, cancer vaccines fall into two different categories. Preventive vaccines, such as HPV and hepatitis B, protect against infections that can later cause cancer and are given to healthy people. Therapeutic vaccines are designed to treat existing cancer by stimulating the immune system to target tumor cells. Both may be considered in different situations, and which type applies depends on the clinical goal and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How They Work, Eligibility, and Safety",
+        "items": [
+          {
+            "q": "How do therapeutic cancer vaccines work?",
+            "a": "<p>Therapeutic cancer vaccines work by training the immune system to recognize and attack cancer cells. They expose the body to tumor-associated antigens—proteins found on cancer cells—so that immune cells can identify and destroy them. Some vaccines use a patient's own immune cells processed in a laboratory, while others use viruses or specific molecules. Response varies between patients, and treatment decisions should be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Who may be eligible for an approved cancer vaccine?",
+            "a": "<p>Eligibility for an approved cancer vaccine depends on cancer type, stage, biomarker profile, previous treatment, and overall health. For example, sipuleucel-T may be suitable for selected patients with certain advanced prostate cancers, while BCG is used for early bladder cancer. These vaccines are not suitable for everyone, and final decisions should be made by the treating medical team after reviewing the diagnosis, reports, and fitness for treatment.</p>"
+          },
+          {
+            "q": "What are the possible side effects of cancer vaccines?",
+            "a": "<p>Cancer vaccines can cause side effects, though they are often milder than some other cancer treatments. Common effects include fever, chills, fatigue, and pain or swelling at the injection site. Some patients may experience flu-like symptoms or, less often, stronger immune reactions. Side effects vary by vaccine type and individual health, so any symptoms should be discussed promptly with the qualified oncology team managing the treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "How much do approved cancer vaccines cost?",
+            "a": "<p>The cost of approved cancer vaccines varies widely depending on the vaccine, country, hospital, and treatment protocol. Some therapeutic vaccines can be expensive because they involve laboratory processing of a patient's cells, while preventive vaccines are generally more affordable. Final cost depends on diagnosis, stage, tests, length of stay, and the treating team's advice. Estimates should be confirmed directly with the hospital, as coverage and pricing differ.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with approved cancer vaccines?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to approved cancer vaccines. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This helps international patients access appropriate care while keeping medical choices with their treating doctors.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,64 @@
+{
+  "pillar": "Success Rates of Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: success-rates-of-targeted-therapy",
+  "route": "⚠ VERIFY: /insights/success-rates-of-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Success Rates of Targeted Therapy",
+    "intro": "These questions explain how success is measured for targeted therapy, what influences results, and why outcomes vary from patient to patient.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy Success Rates",
+        "items": [
+          {
+            "q": "What does the success rate of targeted therapy mean?",
+            "a": "<p>The success rate of targeted therapy usually refers to how often it shrinks a tumour, slows cancer growth, or improves survival in patients whose cancer carries a specific genetic or protein change. Success is measured through response rate, progression-free survival, and overall survival in clinical trials. Results vary widely by cancer type, biomarker, stage, and previous treatment, so figures from one study may not apply to every patient.</p>"
+          },
+          {
+            "q": "How successful is targeted therapy compared to chemotherapy?",
+            "a": "<p>Targeted therapy can be more effective than chemotherapy for selected patients whose tumours have the matching biomarker, often with fewer widespread side effects. In some biomarker-driven cancers, response rates and progression-free survival are notably higher than with chemotherapy alone. However, targeted therapy only works when the specific target is present, and it does not replace standard treatment for everyone. The best approach depends on cancer type, molecular testing, and specialist review.</p>"
+          },
+          {
+            "q": "Why do success rates of targeted therapy vary so much?",
+            "a": "<p>Success rates vary because targeted therapy depends on whether a tumour carries the exact molecular target the drug acts on. Cancer type, stage, biomarker status, prior treatments, overall health, and how the cancer evolves all influence results. Some cancers respond strongly at first but later develop resistance, changing long-term outcomes. Because of these differences, reported success rates are averages from trials and should be interpreted for each patient by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Factors, Eligibility, and Limitations",
+        "items": [
+          {
+            "q": "Does targeted therapy work for all cancer patients?",
+            "a": "<p>Targeted therapy does not work for all cancer patients, because it only helps when the tumour has the specific genetic mutation or protein the drug is designed to target. Patients without that biomarker are unlikely to benefit and may need chemotherapy, immunotherapy, or other options. Molecular or genetic testing is used to identify who may be suitable. Final eligibility depends on cancer type, biomarker profile, overall health, and specialist assessment.</p>"
+          },
+          {
+            "q": "How is the success of targeted therapy measured over time?",
+            "a": "<p>Success is measured over time using response rate, how long the cancer stays controlled, and overall survival. Doctors track progress with scans, blood tests, and sometimes repeat biomarker testing to see whether the therapy is still effective. A good early response does not guarantee lasting control, since resistance can develop. Ongoing monitoring helps the treating team decide whether to continue, adjust, or change treatment based on the patient's individual response.</p>"
+          },
+          {
+            "q": "Can targeted therapy stop working after being successful?",
+            "a": "<p>Yes, targeted therapy can stop working over time even after an initial good response, because cancer cells may develop resistance to the drug. When this happens, the cancer can begin to grow again, and doctors may recommend repeat testing, a different targeted drug, or another treatment approach. Resistance is common in many cancers and does not mean earlier success was meaningless. Next steps should be guided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Testing, and Support",
+        "items": [
+          {
+            "q": "What testing is needed before starting targeted therapy?",
+            "a": "<p>Before starting targeted therapy, patients usually need biomarker or genetic testing on a tumour sample or blood to confirm the specific target is present. Tests may include tissue biopsy analysis, immunohistochemistry, or next-generation sequencing, depending on the cancer type. Accurate testing helps predict whether the therapy may work and reduces the chance of using a drug that is unlikely to help. Testing decisions and interpretation should be made by a specialist.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with success rates of targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, arrange biomarker testing where needed, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to understand whether targeted therapy may be suitable and what outcomes are realistic. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

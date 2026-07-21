@@ -1,0 +1,68 @@
+{
+  "pillar": "Stem Cell Therapy for Aplastic Anemia",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: stem-cell-therapy-for-aplastic-anemia",
+  "route": "⚠ VERIFY: /insights/stem-cell-therapy-for-aplastic-anemia",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stem Cell Therapy for Aplastic Anemia",
+    "intro": "Clear, patient-friendly answers about how stem cell therapy is used for aplastic anemia, who may be suitable, and what recovery, cost, and international access can involve.",
+    "groups": [
+      {
+        "title": "Understanding Stem Cell Therapy for Aplastic Anemia",
+        "items": [
+          {
+            "q": "What is stem cell therapy for aplastic anemia?",
+            "a": "<p>Stem cell therapy for aplastic anemia usually means an allogeneic bone marrow or stem cell transplant that replaces failing bone marrow with healthy donor stem cells. Aplastic anemia is a condition where the marrow stops making enough blood cells, and a transplant can restore normal blood production in selected patients. Whether it is appropriate depends on age, severity, donor availability, and overall health, and should be assessed by a specialist team.</p>"
+          },
+          {
+            "q": "How does a stem cell transplant treat aplastic anemia?",
+            "a": "<p>A stem cell transplant treats aplastic anemia by replacing the damaged marrow with healthy donor stem cells that can produce red cells, white cells, and platelets. Before the transplant, patients receive conditioning treatment to prepare the marrow and reduce rejection risk. Over the following weeks, the new cells engraft and gradually rebuild blood counts. Success depends on donor match, patient condition, and careful monitoring by the treating hematology and transplant team.</p>"
+          },
+          {
+            "q": "Who is eligible for a stem cell transplant for aplastic anemia?",
+            "a": "<p>Eligibility for a stem cell transplant in aplastic anemia depends on age, disease severity, overall health, and availability of a suitable donor. A matched sibling donor transplant is often considered first for younger patients with severe disease, while others may be evaluated for unrelated or alternative donors. Final decisions depend on organ function, infection status, and specialist review, and should always be made by the treating hematology and transplant team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Process, Safety, and Recovery",
+        "items": [
+          {
+            "q": "What are the success rates of a stem cell transplant for aplastic anemia?",
+            "a": "<p>Outcomes of stem cell transplant for aplastic anemia are often favorable in younger patients with a well-matched sibling donor, though results vary from person to person. Success depends on donor match, patient age, disease severity, and how well complications are managed. Reported outcomes cannot be guaranteed for any individual case. Your transplant team can give a more realistic picture based on your specific reports, donor options, and overall health.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of a stem cell transplant?",
+            "a": "<p>The main risks of a stem cell transplant for aplastic anemia include infection, bleeding, graft rejection, and graft-versus-host disease, where donor cells react against the body. Conditioning treatment can also cause nausea, fatigue, and low blood counts for a period. These risks vary by donor type, patient health, and age. A specialist team monitors closely and adjusts care, and all risks should be discussed thoroughly before proceeding.</p>"
+          },
+          {
+            "q": "How long does recovery after a stem cell transplant take?",
+            "a": "<p>Recovery after a stem cell transplant for aplastic anemia typically begins with several weeks in hospital while blood counts recover and engraftment is confirmed. Immune recovery continues over many months, during which patients follow precautions to reduce infection and attend regular follow-up visits. Recovery time varies with donor type, complications, and individual health. The treating team guides medication, activity, and monitoring throughout this period based on the patient's progress.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does a stem cell transplant for aplastic anemia cost?",
+            "a": "<p>The cost of a stem cell transplant for aplastic anemia varies widely and depends on the country, hospital, donor type, length of stay, and any complications. Matched-donor and unrelated-donor transplants can differ significantly in price, and additional tests, medications, and follow-up add to the total. Estimates should be confirmed directly with the treating hospital, since final costs depend on the diagnosis, protocol, and the patient's overall condition.</p>"
+          },
+          {
+            "q": "How can international patients access stem cell transplant for aplastic anemia?",
+            "a": "<p>International patients can access a stem cell transplant for aplastic anemia by having their medical reports reviewed by a transplant center, which then assesses suitability and donor options. Access also depends on hospital acceptance, visa approval, travel fitness, and the patient's condition, none of which can be guaranteed in advance. Careful planning for donor search, estimated cost, treatment duration, and follow-up care is important before travel is arranged.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell therapy for aplastic anemia?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant specialists or centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified hematology and transplant team after reviewing the patient's diagnosis, disease severity, donor options, previous treatment, and overall health. This support is meant to guide the process and does not replace medical evaluation or guarantee any outcome.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

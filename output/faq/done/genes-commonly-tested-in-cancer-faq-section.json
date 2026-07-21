@@ -1,0 +1,68 @@
+{
+  "pillar": "Genes Commonly Tested in Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: genes-commonly-tested-in-cancer",
+  "route": "⚠ VERIFY: /insights/genes-commonly-tested-in-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Genes Commonly Tested in Cancer",
+    "intro": "Gene testing looks for changes in specific genes that can influence how a cancer behaves and which treatments may work. These FAQs explain the genes most often tested, what the results mean, and how testing is accessed.",
+    "groups": [
+      {
+        "title": "Understanding Gene Testing in Cancer",
+        "items": [
+          {
+            "q": "What are the genes commonly tested in cancer?",
+            "a": "<p>Genes commonly tested in cancer include EGFR, ALK, ROS1, KRAS, BRAF, HER2 (ERBB2), BRCA1, BRCA2, TP53, and mismatch repair genes linked to microsatellite instability. These genes are examined because changes in them can affect how a tumor grows and whether targeted therapy or immunotherapy may help. The exact panel depends on cancer type, stage, and the treating oncology team's assessment of what information is clinically useful.</p>"
+          },
+          {
+            "q": "Why do doctors test genes in cancer patients?",
+            "a": "<p>Doctors test genes to understand what may be driving a specific cancer and to guide treatment choices. Certain gene changes can predict whether a targeted drug or immunotherapy is more likely to work, help estimate risk, or explain inherited cancer patterns. Testing may be considered depending on cancer type, stage, biomarker profile, and specialist review. Final treatment decisions are always made by the qualified oncology team after evaluating the complete clinical picture.</p>"
+          },
+          {
+            "q": "What is the difference between germline and somatic gene testing?",
+            "a": "<p>Germline testing checks for inherited gene changes present from birth, while somatic testing looks at mutations found only within the tumor. Germline results, such as inherited BRCA1 or BRCA2 changes, can affect family risk and may guide screening for relatives. Somatic results reflect changes the cancer acquired and often guide targeted therapy. Which test is appropriate depends on cancer type, family history, and the recommendations of a qualified oncology or genetics team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Common Genes and What They Mean",
+        "items": [
+          {
+            "q": "Which genes are most commonly tested in solid tumors like lung cancer?",
+            "a": "<p>In many solid tumors, particularly non-small cell lung cancer, commonly tested genes include EGFR, ALK, ROS1, BRAF, KRAS, MET, RET, and HER2. These are examined because specific alterations may match approved targeted therapies. The relevant panel varies by cancer type and stage, and not every gene is meaningful for every tumor. A specialist decides which markers to test based on the diagnosis, pathology, and available tissue for analysis.</p>"
+          },
+          {
+            "q": "What are the BRCA1 and BRCA2 genes in cancer?",
+            "a": "<p>BRCA1 and BRCA2 are genes that normally help repair damaged DNA, and harmful changes in them can increase the risk of breast, ovarian, prostate, and pancreatic cancers. Testing may reveal inherited or tumor-specific BRCA changes, which can influence treatment options such as certain targeted drugs and can inform screening for family members. Whether BRCA testing is suitable depends on cancer type, family history, and review by a qualified oncology or genetics team.</p>"
+          },
+          {
+            "q": "What does an EGFR mutation mean in cancer?",
+            "a": "<p>An EGFR mutation is a change in the epidermal growth factor receptor gene that can drive certain cancers, most notably some non-small cell lung cancers. When present, it may indicate that specific targeted therapies could be considered for selected patients. Not all EGFR changes respond the same way, and testing results must be interpreted alongside the full clinical picture. The treating oncology team decides whether targeted treatment is appropriate based on the complete assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing Process and Access",
+        "items": [
+          {
+            "q": "What sample is needed for cancer gene testing?",
+            "a": "<p>Cancer gene testing usually requires a tumor tissue sample from a biopsy or surgery, and in some cases a blood sample for liquid biopsy or germline testing. The best sample type depends on the cancer, the genes being tested, and how much tissue is available. Sometimes a repeat biopsy may be needed if the earlier sample is insufficient. The pathology and oncology team advise on the most suitable sample for reliable results.</p>"
+          },
+          {
+            "q": "Is cancer gene testing available in India and how can patients access it?",
+            "a": "<p>Cancer gene testing is available in India through many hospitals and specialized diagnostic laboratories, ranging from single-gene tests to broader next-generation sequencing panels. Access depends on the cancer type, available tissue, cost, and the treating team's recommendation about which test is useful. Turnaround times and panel options vary between centers. Patients should discuss testing with their oncologist, who can advise which genes are worth examining for their specific diagnosis.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene testing in cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or testing centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help patients understand which gene tests their care may involve and connect them with appropriate laboratories or oncology teams. Treatment and testing decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

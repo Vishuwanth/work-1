@@ -1,0 +1,64 @@
+{
+  "pillar": "Gene Therapy for Cancer Patients",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: gene-therapy-for-cancer-patients",
+  "route": "⚠ VERIFY: /insights/gene-therapy-for-cancer-patients",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Gene Therapy for Cancer Patients",
+    "intro": "Gene therapy is an evolving area of advanced cancer treatment that aims to change how cells or the immune system respond to cancer. These answers explain the basics, safety, eligibility, and access in clear, patient-friendly terms.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy for Cancer",
+        "items": [
+          {
+            "q": "What is gene therapy for cancer?",
+            "a": "<p>Gene therapy for cancer is a treatment approach that modifies a patient's genes or immune cells to help the body fight cancer more effectively. It may involve adding, correcting, or altering genetic material inside cells, or engineering immune cells to recognise tumours. Gene therapy is still evolving and may be considered for selected patients depending on cancer type, stage, biomarker profile, previous treatment, and specialist review.</p>"
+          },
+          {
+            "q": "How does gene therapy work against cancer?",
+            "a": "<p>Gene therapy works by changing the genetic instructions inside cells so they can better target or resist cancer. Some approaches repair or replace faulty genes, some deliver genes that make tumours easier for the immune system to attack, and others, such as CAR T-cell therapy, re-engineer a patient's own immune cells. The right method depends on cancer type, stage, previous treatment, and the treating oncology team's assessment.</p>"
+          },
+          {
+            "q": "What types of gene therapy are used in cancer treatment?",
+            "a": "<p>Common types include CAR T-cell therapy, oncolytic virus therapy, and gene transfer that adds or corrects genetic material inside cells. Some techniques use gene-editing tools to modify immune cells so they recognise tumours more effectively. Availability varies widely, and many approaches remain experimental or limited to clinical trials. Whether a specific type may be suitable depends on the diagnosis, biomarker profile, overall health, and specialist evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Outcomes",
+        "items": [
+          {
+            "q": "Who is eligible for gene therapy?",
+            "a": "<p>Eligibility for gene therapy depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and is decided after specialist review. Some therapies, such as CAR T-cell treatment, are currently approved only for certain blood cancers, while others are available mainly through clinical trials. Not every patient will qualify. Final decisions should be made by a qualified oncology team after reviewing complete medical records and test results.</p>"
+          },
+          {
+            "q": "What are the side effects or risks of gene therapy?",
+            "a": "<p>Gene therapy can cause side effects that range from mild to serious, so it should be discussed carefully with a qualified oncology team. Reactions may include fever, immune-related complications such as cytokine release syndrome, fatigue, or changes in blood counts. Risks vary by therapy type and individual health. Treatment is usually given in specialised centres with close monitoring, and final decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Can gene therapy cure cancer?",
+            "a": "<p>Gene therapy may help control or reduce some cancers, but it cannot be described as a guaranteed cure. Results vary widely depending on cancer type, stage, biomarker profile, and how the disease responds, and many approaches are still being studied. For some patients it may offer meaningful benefit, while for others it may not be suitable. Expectations and outcomes should always be discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does gene therapy cost, and is it available in India?",
+            "a": "<p>The cost of gene therapy varies significantly and cannot be presented as a fixed price. Final cost depends on the hospital, diagnosis, stage, tests, treatment protocol, complications, and length of stay. Certain gene and cell therapies are available at selected centres in India, while others may require access through clinical trials or treatment abroad. Availability and estimated cost should be confirmed with the treating hospital and oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene therapy?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

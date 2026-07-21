@@ -1,0 +1,68 @@
+{
+  "pillar": "Targeted Therapy vs Chemotherapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: targeted-therapy-vs-chemotherapy",
+  "route": "⚠ VERIFY: /insights/targeted-therapy-vs-chemotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy vs Chemotherapy",
+    "intro": "These answers explain how targeted therapy and chemotherapy differ, who each may suit, and how their benefits, side effects, and costs compare for cancer patients and caregivers.",
+    "groups": [
+      {
+        "title": "Understanding the Difference",
+        "items": [
+          {
+            "q": "What is the difference between targeted therapy and chemotherapy?",
+            "a": "<p>Targeted therapy attacks specific molecules or genetic changes that help cancer cells grow, while chemotherapy kills rapidly dividing cells throughout the body. Because targeted drugs act on defined biomarkers, they may spare more healthy tissue and cause a different side-effect pattern than chemotherapy. Chemotherapy remains broadly effective across many cancers. The right approach depends on cancer type, stage, biomarker profile, previous treatment, and should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "How does targeted therapy work compared to chemotherapy?",
+            "a": "<p>Targeted therapy works by blocking specific proteins, receptors, or gene mutations that drive a particular cancer, whereas chemotherapy works by damaging cells that divide quickly. Targeted drugs usually require a biomarker test to confirm the cancer carries the relevant target, such as EGFR, HER2, or ALK. Chemotherapy does not depend on a specific mutation. Suitability for either approach depends on tumour biology and specialist review of the patient's reports.</p>"
+          },
+          {
+            "q": "Is targeted therapy better than chemotherapy?",
+            "a": "<p>Neither treatment is universally better; each may be preferred in different situations. Targeted therapy may offer benefit when a tumour carries a matching biomarker and can sometimes be better tolerated, while chemotherapy may work when no target is found or when broad activity is needed. Some patients receive both, in sequence or together. The most appropriate option depends on cancer type, stage, biomarkers, and the treating medical team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Side Effects",
+        "items": [
+          {
+            "q": "Who is eligible for targeted therapy instead of chemotherapy?",
+            "a": "<p>Targeted therapy may be considered for patients whose tumour tests positive for a specific, treatable biomarker or genetic mutation. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and is confirmed through molecular or genetic testing. Patients without an actionable target may be guided toward chemotherapy or other options. Final eligibility and treatment decisions should always be made by a qualified oncology team after reviewing the patient's reports.</p>"
+          },
+          {
+            "q": "What are the side effects of targeted therapy versus chemotherapy?",
+            "a": "<p>Targeted therapy and chemotherapy tend to cause different side effects. Chemotherapy often affects fast-growing normal cells, leading to hair loss, low blood counts, nausea, and infection risk. Targeted therapy may cause skin rashes, diarrhoea, blood pressure changes, or liver and heart effects, depending on the drug. Side effects vary between individuals and cannot be predicted with certainty. Any symptoms should be discussed promptly with the treating oncology team for monitoring and support.</p>"
+          },
+          {
+            "q": "Can targeted therapy and chemotherapy be used together?",
+            "a": "<p>Yes, targeted therapy and chemotherapy are sometimes combined when clinical evidence supports it for a specific cancer. Combining treatments may be considered to improve control of the disease, but it can also change the side-effect profile and requires careful monitoring. Whether a combination is suitable depends on cancer type, stage, biomarkers, previous treatment, and overall health. Such decisions should be made only by the treating medical team based on the individual patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "Is targeted therapy more expensive than chemotherapy?",
+            "a": "<p>Targeted therapy is often more expensive than chemotherapy because many targeted drugs are newer and may require ongoing use and biomarker testing. Actual cost varies widely and depends on the specific drug, hospital, diagnosis, stage, tests, treatment duration, complications, and the treating team's advice. Some patients also need molecular testing before starting. Estimated costs should be confirmed with the hospital, and financial guidance discussed early with the care team.</p>"
+          },
+          {
+            "q": "How can international patients access targeted therapy or chemotherapy abroad?",
+            "a": "<p>International patients can access targeted therapy or chemotherapy abroad through hospitals that accept overseas patients after reviewing their medical records. Access depends on hospital acceptance, medical review, biomarker eligibility, visa approval, travel fitness, and the patient's condition, and cannot be guaranteed. Patients usually need recent pathology, imaging, biomarker reports, and a treatment summary. A second opinion, cost estimate, and travel planning are often arranged before deciding to travel for care.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy vs chemotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is intended to help patients compare targeted therapy and chemotherapy options clearly, not to replace the advice of doctors or hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

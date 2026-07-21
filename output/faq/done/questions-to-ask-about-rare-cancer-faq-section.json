@@ -1,0 +1,68 @@
+{
+  "pillar": "Questions to Ask About Rare Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-to-ask-about-rare-cancer",
+  "route": "⚠ VERIFY: /insights/questions-to-ask-about-rare-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions to Ask About Rare Cancer",
+    "intro": "A rare cancer diagnosis often brings uncertainty, so knowing the right questions to ask can help you understand your condition and make informed choices. These FAQs cover diagnosis, treatment, trials, and practical concerns for patients and caregivers.",
+    "groups": [
+      {
+        "title": "Understanding Your Rare Cancer Diagnosis",
+        "items": [
+          {
+            "q": "What questions should I ask my doctor after a rare cancer diagnosis?",
+            "a": "<p>After a rare cancer diagnosis, ask about the exact type and subtype, the stage, and how the diagnosis was confirmed. Useful questions include how much experience the team has with this cancer, what tests are still needed, and what the treatment goals are. Because rare cancers are less common, it also helps to ask whether referral to a specialist centre is advisable. Final decisions should be guided by your treating oncology team.</p>"
+          },
+          {
+            "q": "Why is an accurate diagnosis so important for rare cancers?",
+            "a": "<p>An accurate diagnosis is especially important for rare cancers because they can be difficult to identify and are sometimes misclassified. Rare tumours may look similar to more common cancers under the microscope, so specialised pathology review can change the diagnosis and treatment plan. It is reasonable to ask whether an expert pathologist has reviewed your samples and whether additional testing is needed. Confirming the diagnosis helps ensure treatment is matched to your specific cancer.</p>"
+          },
+          {
+            "q": "Should I ask about biomarker or genetic testing for a rare cancer?",
+            "a": "<p>Yes, asking about biomarker or genetic testing is often worthwhile for rare cancers. Molecular and genetic tests can reveal specific mutations or markers that may guide targeted therapy or clinical trial eligibility for selected patients. You can ask whether testing is recommended for your cancer type, what the tests involve, and how the results might influence treatment. Whether testing is suitable depends on your diagnosis and should be discussed with your specialist team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment, Second Opinions, and Clinical Trials",
+        "items": [
+          {
+            "q": "Should I get a second opinion for a rare cancer?",
+            "a": "<p>A second opinion is often valuable for rare cancers and is a reasonable step to consider. Because these cancers are uncommon, another specialist or a centre that regularly treats your cancer type may confirm the diagnosis or suggest additional options. You can ask which reports and slides to share, how long a review takes, and whether it may delay treatment. Seeking a second opinion is a normal part of planning care and rarely causes harm.</p>"
+          },
+          {
+            "q": "What should I ask about treatment options for a rare cancer?",
+            "a": "<p>Ask what treatments are available, their goals, expected benefits, and possible side effects. Helpful questions include whether surgery, radiation, chemotherapy, targeted therapy, or immunotherapy may be considered, and how the plan is tailored to your cancer. You can also ask what happens if the first treatment does not work. Treatment suitability depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and final decisions rest with your qualified oncology team.</p>"
+          },
+          {
+            "q": "Are clinical trials worth asking about for rare cancers?",
+            "a": "<p>Clinical trials are often worth asking about for rare cancers, where standard treatments may be limited. Trials can offer access to newer approaches for eligible patients, though they cannot guarantee benefit. You can ask whether any trials match your cancer, where they are running, and what participation involves. Eligibility is decided after medical record review and investigator assessment, and trials may have strict inclusion and exclusion criteria that your treating team can help you understand.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Care",
+        "items": [
+          {
+            "q": "What should I ask about the cost of rare cancer treatment?",
+            "a": "<p>Ask for an estimated cost of diagnosis, treatment, and follow-up, and what the estimate does and does not include. Because rare cancers may need specialised tests or therapies, costs can vary widely. It helps to ask about the price of scans, procedures, and any long hospital stays. Final cost depends on the hospital, diagnosis, stage, treatment protocol, complications, and length of stay, so estimates should be confirmed directly with the treating hospital.</p>"
+          },
+          {
+            "q": "What questions should international patients ask about rare cancer treatment abroad?",
+            "a": "<p>International patients should ask which centres have experience with their rare cancer, what medical reports are needed, and how to obtain a treatment estimate and second opinion. Practical questions include travel fitness, expected length of stay, and follow-up care after returning home. Access abroad depends on hospital acceptance, medical review, visa approval, and your condition, and these cannot be guaranteed. Planning these questions early helps make the journey smoother and more informed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with questions about rare cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to prepare the right questions and gather the information needed for a rare cancer diagnosis. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

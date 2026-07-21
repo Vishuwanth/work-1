@@ -1,0 +1,68 @@
+{
+  "pillar": "Compassionate Use Programs",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: compassionate-use-programs",
+  "route": "⚠ VERIFY: /insights/compassionate-use-programs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Compassionate Use Programs",
+    "intro": "Compassionate use programs offer a possible pathway to investigational cancer drugs when approved options and clinical trials are not available. These FAQs explain how they work, who may qualify, and what patients and caregivers should keep in mind.",
+    "groups": [
+      {
+        "title": "Understanding Compassionate Use Programs",
+        "items": [
+          {
+            "q": "What is a compassionate use program?",
+            "a": "<p>A compassionate use program is a regulated pathway that allows patients with serious or life-threatening cancers to access an investigational drug outside a clinical trial. Also called expanded access, it may be considered when approved treatments have been exhausted and the patient cannot join a trial. Availability depends on the drug company, regulatory approval, cancer type, and specialist review, and final decisions rest with the treating medical team.</p>"
+          },
+          {
+            "q": "How is compassionate use different from a clinical trial?",
+            "a": "<p>Compassionate use provides an unapproved drug for treatment purposes, while a clinical trial studies a drug to collect research data. In compassionate use, the main goal is to help an individual patient who has no suitable approved options or trial access. Eligibility criteria and data collection are usually less structured than in trials, but approval still depends on the manufacturer, regulators, and the treating oncology team's assessment.</p>"
+          },
+          {
+            "q": "Which patients may qualify for compassionate use?",
+            "a": "<p>Compassionate use may be suitable for selected patients with serious or life-threatening cancer who have exhausted approved treatments and cannot enrol in a clinical trial. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, overall health, and specialist review. The treating physician must confirm that the potential benefit outweighs the risks. Final approval also requires agreement from the drug manufacturer and the relevant regulatory authority.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Process, Cost, and Safety",
+        "items": [
+          {
+            "q": "How does a patient apply for compassionate use access?",
+            "a": "<p>Applications for compassionate use are usually initiated by the treating physician, not the patient directly. The doctor submits a request to the drug manufacturer and, where required, to the national regulatory authority, explaining the patient's diagnosis and why standard options are unsuitable. Approval is not guaranteed and depends on drug availability, safety data, and company policy. The process and timelines vary by country, drug, and individual case.</p>"
+          },
+          {
+            "q": "Is compassionate use free of charge?",
+            "a": "<p>Compassionate use is sometimes provided free by the manufacturer, but this is not guaranteed. Some programs may charge for the drug or related costs, while others supply it at no cost as part of expanded access. Additional expenses such as hospital care, administration, and monitoring often still apply. Final costs depend on the company's policy, the country, the hospital, and the treating team's advice, and should be confirmed in advance.</p>"
+          },
+          {
+            "q": "What are the risks of receiving a drug through compassionate use?",
+            "a": "<p>The main risk of compassionate use is that the drug is still investigational, so its full safety profile and effectiveness are not yet confirmed. Patients may experience unexpected or serious side effects, and benefit is not guaranteed. Because monitoring may differ from a clinical trial, close medical supervision is important. Any decision should be discussed carefully with a qualified oncology team, weighing the possible benefits against the uncertainties.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "Is compassionate use available for international patients?",
+            "a": "<p>Compassionate use availability varies widely by country, drug, and manufacturer, so access for international patients cannot be assumed. Some programs operate only within specific regions or regulatory systems, and cross-border access may require additional approvals. Availability depends on the drug company, local regulations, hospital acceptance, and the patient's medical condition. Patients should have their treating oncology team confirm whether a specific program can be accessed in their situation.</p>"
+          },
+          {
+            "q": "What documents are needed for a compassionate use request?",
+            "a": "<p>A compassionate use request usually requires detailed medical records, including diagnosis, pathology and biomarker reports, imaging, and a summary of previous treatments. A statement from the treating physician explaining why approved options and clinical trials are unsuitable is also typically needed. Exact requirements depend on the drug manufacturer and regulatory authority. Preparing complete, up-to-date reports can help the specialist team assess whether an application is appropriate.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with compassionate use programs?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to compassionate use programs. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access to any investigational drug depends on manufacturer approval, regulatory rules, and medical eligibility.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

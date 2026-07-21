@@ -1,0 +1,68 @@
+{
+  "pillar": "TIL Therapy for Cervical Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: til-therapy-for-cervical-cancer",
+  "route": "⚠ VERIFY: /insights/til-therapy-for-cervical-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About TIL Therapy for Cervical Cancer",
+    "intro": "These answers explain how tumor-infiltrating lymphocyte (TIL) therapy is being studied for cervical cancer, who it may suit, and what international patients should know before pursuing it.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy for Cervical Cancer",
+        "items": [
+          {
+            "q": "What is TIL therapy for cervical cancer?",
+            "a": "<p>TIL therapy for cervical cancer is a form of cellular immunotherapy that uses the patient's own tumor-infiltrating lymphocytes to fight cancer. Immune cells are collected from a piece of the tumor, expanded into large numbers in a laboratory, and then returned to the patient by infusion. It is mainly studied in advanced, recurrent, or metastatic cervical cancer, often within clinical trials, and is not yet a standard treatment everywhere.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by growing and reinfusing immune cells that can already recognize a patient's cancer. Surgeons remove a small tumor sample, and laboratory teams isolate the tumor-infiltrating lymphocytes and multiply them into billions of cells over several weeks. Patients usually receive chemotherapy to prepare the body, then the expanded cells are infused, sometimes followed by interleukin-2 to support activity. The reinfused cells aim to attack remaining cancer cells throughout the body.</p>"
+          },
+          {
+            "q": "Is TIL therapy approved for cervical cancer?",
+            "a": "<p>TIL therapy is not yet a widely approved standard treatment for cervical cancer in most countries. Much of the current evidence comes from clinical trials and early studies exploring its safety and response rates in advanced or recurrent disease. Availability, regulatory status, and eligibility differ by country and by hospital. Whether TIL therapy may be an option should always be confirmed with a qualified oncology team after full review of the diagnosis and prior treatments.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for TIL therapy for cervical cancer?",
+            "a": "<p>TIL therapy may be considered for selected patients with advanced, recurrent, or metastatic cervical cancer, often after other treatments have been tried. Eligibility depends on cancer type, stage, tumor accessibility for biopsy, overall health, organ function, and specialist review. Many programs run through clinical trials with strict inclusion and exclusion criteria. Whether a patient qualifies is decided only after medical record review, testing, and assessment by the treating and investigating oncology team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of TIL therapy?",
+            "a": "<p>TIL therapy can cause side effects, mainly from the preparative chemotherapy and any interleukin-2 given afterward. These may include low blood counts, infection risk, fever, fatigue, fluid retention, and effects on blood pressure or organ function that often require close hospital monitoring. Side effects vary between patients and depend on the specific protocol and overall health. Potential benefits and risks should be discussed carefully with the treating medical team before proceeding.</p>"
+          },
+          {
+            "q": "How long does the TIL therapy process take?",
+            "a": "<p>The full TIL therapy process usually takes several weeks from tumor collection to infusion and recovery. After surgery to obtain a tumor sample, the laboratory needs time, often a few weeks, to grow enough immune cells. Patients then receive preparative chemotherapy, the cell infusion, and a period of inpatient monitoring and recovery. Exact timelines depend on the treatment center, protocol, and how each patient responds, so schedules should be confirmed with the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and International Patients",
+        "items": [
+          {
+            "q": "How can international patients access TIL therapy for cervical cancer?",
+            "a": "<p>International patients may access TIL therapy through specialized cancer centers or clinical trials in countries where it is available. Access depends on hospital acceptance, medical record review, trial eligibility, visa approval, travel fitness, and overall patient condition. Because TIL therapy is complex, patients typically need recent imaging, pathology reports, and treatment history for assessment. Admission, enrollment, and treatment cannot be guaranteed and are decided by the treating and investigating medical team.</p>"
+          },
+          {
+            "q": "How much does TIL therapy for cervical cancer cost?",
+            "a": "<p>The cost of TIL therapy varies widely and cannot be stated as a fixed figure, since it is often delivered within clinical trials or specialized programs. Final cost depends on the hospital, country, diagnosis, stage, required tests, treatment protocol, length of hospital stay, and any complications. Some trial-based treatments may reduce certain costs, while travel and follow-up add others. Patients should request a detailed written estimate from the treating center before making decisions.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL therapy for cervical cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and cannot guarantee eligibility, clinical trial enrollment, hospital admission, or specific treatment outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

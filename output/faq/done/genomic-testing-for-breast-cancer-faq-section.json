@@ -1,0 +1,68 @@
+{
+  "pillar": "Genomic Testing for Breast Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: genomic-testing-for-breast-cancer",
+  "route": "⚠ VERIFY: /insights/genomic-testing-for-breast-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Genomic Testing for Breast Cancer",
+    "intro": "Genomic testing analyzes the genes and activity inside breast cancer cells to guide more personalized treatment decisions. These answers explain what the tests measure, who may benefit, and how results are used.",
+    "groups": [
+      {
+        "title": "Understanding Genomic Testing",
+        "items": [
+          {
+            "q": "What is genomic testing for breast cancer?",
+            "a": "<p>Genomic testing for breast cancer analyzes the genes and gene activity within tumor cells to understand how the cancer behaves. It is different from genetic testing, which looks at inherited risk. Tumor genomic tests, such as Oncotype DX, MammaPrint, and next-generation sequencing (NGS) panels, help predict recurrence risk and identify treatment targets. Results depend on cancer type, stage, and biomarker profile, and should always be interpreted by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does genomic testing work?",
+            "a": "<p>Genomic testing works by examining a sample of tumor tissue, usually from a biopsy or surgery, to measure specific genes or gene expression patterns. Laboratory techniques such as next-generation sequencing read the DNA or RNA of the cancer cells. The results are translated into a score or report that describes recurrence risk or potential treatment targets. Turnaround times and available panels vary by laboratory, and findings should be reviewed by the treating specialist.</p>"
+          },
+          {
+            "q": "What is the difference between genomic testing and BRCA genetic testing?",
+            "a": "<p>Genomic testing examines the tumor itself, while BRCA genetic testing looks at inherited genes passed through families. Tumor genomic tests help guide treatment and estimate recurrence risk based on how the cancer behaves. BRCA and other germline tests assess a person's inherited risk of developing cancer, which can affect prevention, surgery, and family screening decisions. Both may be recommended in selected cases, and interpretation should involve a genetic counselor or oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Results",
+        "items": [
+          {
+            "q": "Who is eligible for genomic testing for breast cancer?",
+            "a": "<p>Genomic testing may be considered for selected patients with early-stage, hormone receptor-positive, HER2-negative breast cancer to help guide chemotherapy decisions. It may also be used in advanced or metastatic disease to identify targetable mutations. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Not every patient needs genomic testing, and the decision should be made by the treating medical team after reviewing the individual diagnosis and pathology.</p>"
+          },
+          {
+            "q": "What are the benefits of genomic testing?",
+            "a": "<p>The main benefit of genomic testing is more personalized treatment planning. For some early-stage patients, results may help avoid unnecessary chemotherapy or confirm when chemotherapy is likely to help. In advanced disease, testing can reveal mutations that match targeted therapies or clinical trials. This can support more informed decisions and reduce over- or under-treatment. Benefits vary by individual, and final treatment choices should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can genomic testing tell me if my cancer will come back?",
+            "a": "<p>Genomic testing can estimate the risk of recurrence, but it cannot predict the future with certainty. Tests such as Oncotype DX or MammaPrint provide a risk score that indicates whether cancer is more or less likely to return, which helps guide treatment intensity. These scores are one part of a larger picture that includes stage, grade, and hormone status. Results should always be interpreted alongside other findings by the treating oncologist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does genomic testing for breast cancer cost?",
+            "a": "<p>The cost of genomic testing varies widely depending on the specific test, laboratory, and country where it is performed. Some panels are more expensive than others, and pricing can change based on the number of genes analyzed and processing complexity. Insurance coverage and hospital arrangements also affect the final amount. Final cost depends on the diagnosis, tests ordered, and treating team advice, so patients should request a detailed estimate before proceeding.</p>"
+          },
+          {
+            "q": "How can international patients access genomic testing?",
+            "a": "<p>International patients can access genomic testing through hospitals and specialized laboratories that accept tumor samples or coordinate with local centers. Access depends on sample availability, laboratory acceptance, shipping logistics, medical review, and the treating team's recommendations. Some tests are performed abroad, which may involve additional planning for reports and follow-up. Patients should confirm requirements in advance, as availability and turnaround times differ between regions and providers.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with genomic testing for breast cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or laboratories, estimate possible costs, and coordinate second opinions, appointments, sample logistics, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax supports coordination and guidance but does not replace the medical judgment of the treating doctors or the laboratory performing the test.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

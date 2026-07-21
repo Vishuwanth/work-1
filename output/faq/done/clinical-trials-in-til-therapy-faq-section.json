@@ -1,0 +1,64 @@
+{
+  "pillar": "Clinical Trials in TIL Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: clinical-trials-in-til-therapy",
+  "route": "⚠ VERIFY: /insights/clinical-trials-in-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Clinical Trials in TIL Therapy",
+    "intro": "TIL (tumor-infiltrating lymphocyte) therapy uses a patient's own immune cells, expanded in a laboratory, to fight cancer. These answers explain how TIL clinical trials work, who may qualify, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy Clinical Trials",
+        "items": [
+          {
+            "q": "What are clinical trials in TIL therapy?",
+            "a": "<p>Clinical trials in TIL therapy are research studies that test tumor-infiltrating lymphocyte treatment in patients to measure its safety and effectiveness. In this approach, immune cells are taken from a patient's tumor, grown in large numbers in a laboratory, and returned to the body to target cancer. Trials follow strict protocols, and participation depends on cancer type, prior treatment, and investigator review by the study team.</p>"
+          },
+          {
+            "q": "Which cancers are being studied in TIL therapy clinical trials?",
+            "a": "<p>TIL therapy clinical trials most often study advanced melanoma, and research is expanding into cervical, lung, head and neck, and other solid tumors. Eligibility varies by trial and depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Because study criteria differ, a treatment that is being tested for one cancer may not be open to another, and suitability should always be confirmed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is TIL therapy approved or still experimental?",
+            "a": "<p>TIL therapy is an emerging treatment that is approved for certain advanced melanoma cases in some countries and remains investigational for most other cancers. This is why many patients access it through clinical trials rather than routine care. Availability, approval status, and trial openings differ by country and hospital, so whether TIL therapy or a trial is an option should be discussed with the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for a TIL therapy clinical trial?",
+            "a": "<p>Eligibility for a TIL therapy clinical trial is decided after medical record review and investigator assessment, not by the patient alone. Trials generally consider patients with specific cancer types whose disease has progressed after standard treatment, along with adequate organ function and fitness for the procedure. Each study has strict inclusion and exclusion criteria, and final acceptance depends on the investigator's evaluation of the patient's diagnosis, stage, and overall health.</p>"
+          },
+          {
+            "q": "How does a TIL therapy clinical trial work?",
+            "a": "<p>A TIL therapy clinical trial usually begins with surgery to remove a piece of tumor, from which immune cells are isolated and multiplied in a laboratory over several weeks. Patients often receive short chemotherapy to prepare the body, followed by infusion of the expanded cells and supportive immune-boosting medicine. Each trial follows its own protocol and monitoring schedule, and steps may vary depending on the study and treating center.</p>"
+          },
+          {
+            "q": "What are the possible risks or side effects in TIL therapy clinical trials?",
+            "a": "<p>Possible side effects in TIL therapy trials can include effects from the preparatory chemotherapy, such as low blood counts and infection risk, and reactions from the immune-boosting medicine given after infusion, including fever, low blood pressure, and fluid retention. Because TIL therapy is intensive, patients are closely monitored in specialized centers. Individual risks depend on the patient's condition and the specific trial, and should be reviewed with the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access TIL therapy clinical trials?",
+            "a": "<p>International patients can explore TIL therapy clinical trials by having their medical records reviewed against active studies at centers that offer this treatment, often in countries with established cell therapy programs. Access is not guaranteed and depends on hospital acceptance, meeting trial criteria, travel fitness, visa approval, and investigator assessment. Because trials have strict enrollment rules, patients should confirm current openings and requirements through a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with clinical trials in TIL therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Participation in any TIL therapy clinical trial remains subject to medical record review and investigator eligibility assessment.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

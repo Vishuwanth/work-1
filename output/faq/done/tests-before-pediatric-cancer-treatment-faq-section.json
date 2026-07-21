@@ -1,0 +1,68 @@
+{
+  "pillar": "Tests Before Pediatric Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: tests-before-pediatric-cancer-treatment",
+  "route": "⚠ VERIFY: /insights/tests-before-pediatric-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Tests Before Pediatric Cancer Treatment",
+    "intro": "Before a child starts cancer treatment, doctors run several tests to confirm the diagnosis and plan the safest therapy. Here are clear answers to common questions parents and caregivers ask about these tests.",
+    "groups": [
+      {
+        "title": "Understanding the Tests",
+        "items": [
+          {
+            "q": "Why does a child need tests before cancer treatment begins?",
+            "a": "<p>Tests before treatment confirm the exact type and stage of a child's cancer so doctors can choose the safest, most effective therapy. These tests identify where the cancer started, whether it has spread, and how the child's organs are functioning. The specific tests needed depend on the suspected cancer type, the child's age, and overall health. Final treatment decisions are made by the pediatric oncology team after reviewing all results together.</p>"
+          },
+          {
+            "q": "How long do tests take before pediatric cancer treatment can start?",
+            "a": "<p>Most pre-treatment tests are completed within a few days to about two weeks, though timing varies by case. Blood work and basic imaging may be done quickly, while biopsy analysis, bone marrow studies, and genetic tests can take longer. Urgent cases may begin supportive care sooner. The exact timeline depends on the cancer type, test availability, and hospital protocols, and should be discussed with the treating pediatric oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Types of Tests and What They Show",
+        "items": [
+          {
+            "q": "What blood tests are done before pediatric cancer treatment?",
+            "a": "<p>Common blood tests include a complete blood count, liver and kidney function tests, electrolytes, and sometimes tumor markers. These checks show how the child's body is working, detect abnormal cell counts, and confirm that organs can safely handle treatment. Some cancers, such as leukemia, are first suspected through blood results. The specific panel depends on the suspected cancer type and should be interpreted by the pediatric oncology team.</p>"
+          },
+          {
+            "q": "Why is a biopsy needed before treatment?",
+            "a": "<p>A biopsy is usually needed to confirm the exact type of cancer before treatment begins. During a biopsy, a small tissue or fluid sample is removed and examined under a microscope, giving the most accurate diagnosis. This tells doctors which cancer cells are present and helps guide the right therapy. Not every child needs a biopsy, and the approach depends on the tumor location, type, and specialist assessment.</p>"
+          },
+          {
+            "q": "What imaging scans are used to diagnose childhood cancer?",
+            "a": "<p>Imaging scans such as X-ray, ultrasound, CT, MRI, and sometimes PET are used to locate a tumor and check whether it has spread. These scans show the size, position, and reach of the cancer, helping doctors plan surgery, radiation, or other treatment. The choice of scan depends on the cancer type and the child's age, and results are always reviewed alongside biopsy and laboratory findings.</p>"
+          },
+          {
+            "q": "What is bone marrow testing and why is it done?",
+            "a": "<p>Bone marrow testing involves taking a small sample of marrow, usually from the hip bone, to check whether cancer cells are present inside it. It is especially important for leukemias, lymphomas, and some solid tumors that can spread to the marrow. The test helps confirm the diagnosis and stage the disease. It is done under sedation or anesthesia in children, and the need for it depends on specialist review.</p>"
+          },
+          {
+            "q": "Are genetic or biomarker tests done before pediatric cancer treatment?",
+            "a": "<p>Genetic and biomarker tests may be done to look for specific changes in the cancer cells that affect diagnosis, risk, and treatment choices. These tests can identify targets for newer therapies and help predict how the cancer may respond. They are not needed for every child and depend on the cancer type and available testing. Results should be interpreted by the pediatric oncology team as part of the complete diagnostic picture.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for Families",
+        "items": [
+          {
+            "q": "Are the tests painful or risky for children?",
+            "a": "<p>Most tests are designed to be as safe and comfortable as possible for children. Blood draws and scans cause only brief discomfort, while procedures like biopsies and bone marrow tests are usually done under sedation or anesthesia to prevent pain. Serious complications are uncommon, though every procedure carries some risk. The care team explains each test in advance and takes special steps to support young patients throughout.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with tests before pediatric cancer treatment?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make the pre-treatment testing process clearer and less stressful for parents. Treatment decisions are always made by the qualified pediatric oncology team after reviewing the child's diagnosis, stage, test results, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,114 @@
+{
+  "pillar": "IDH mutation in brain tumors: what it means and why it matters for prognosis and treatment",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: idh-mutation-in-brain-tumors-what-it-means-and-why-it-matters-for-prognosis-and-treatment",
+  "route": "⚠ VERIFY: /<section>/idh-mutation-in-brain-tumors-what-it-means-and-why-it-matters-for-prognosis-and-treatment",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About IDH Mutation in Brain Tumors",
+    "intro": "This guide explains what an IDH mutation means in brain tumors and why it influences prognosis, classification, and treatment planning. It is educational and general; individual decisions depend on your diagnosis and specialist review.",
+    "groups": [
+      {
+        "title": "Understanding IDH Mutation in Brain Tumors",
+        "items": [
+          {
+            "q": "What is an IDH mutation in brain tumors?",
+            "a": "<p>An IDH mutation is a change in the isocitrate dehydrogenase gene found in certain brain tumors, especially gliomas. This mutation alters how tumor cells process energy and produces a substance called 2-hydroxyglutarate, which affects tumor behavior. IDH-mutant gliomas often occur in younger adults and generally behave differently from tumors without the mutation. Confirming IDH status requires laboratory testing of tumor tissue and interpretation by a qualified pathology and oncology team.</p>"
+          },
+          {
+            "q": "Why does IDH mutation status matter for brain tumor prognosis?",
+            "a": "<p>IDH mutation status matters because IDH-mutant gliomas often have a more favorable outlook than IDH-wildtype tumors of similar appearance. Patients with IDH-mutant tumors may experience slower progression and better response to treatment in selected cases. However, prognosis also depends on tumor grade, location, extent of surgery, and other genetic markers. Outcomes vary between individuals, so any prognosis estimate should be discussed carefully with the treating neuro-oncology team.</p>"
+          },
+          {
+            "q": "What is the difference between IDH-mutant and IDH-wildtype gliomas?",
+            "a": "<p>The main difference is the presence or absence of the IDH gene mutation, which changes how a glioma is classified and managed. IDH-mutant gliomas tend to affect younger adults and often progress more slowly, while IDH-wildtype gliomas, including many glioblastomas, are frequently more aggressive. This distinction guides diagnosis under current WHO classification and can influence treatment planning. Accurate typing requires molecular testing and specialist pathology review of the tumor sample.</p>"
+          },
+          {
+            "q": "What are IDH1 and IDH2 mutations?",
+            "a": "<p>IDH1 and IDH2 refer to two related genes that can carry mutations in brain tumors, with IDH1 mutations being far more common in gliomas. Both affect the same metabolic pathway and lead to similar effects on tumor cells. Testing usually looks for the frequent IDH1 R132H change first, followed by broader sequencing if needed. Identifying which gene is involved helps confirm the diagnosis and may guide eligibility for certain targeted therapies or trials.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Testing Process, and Safety",
+        "items": [
+          {
+            "q": "How is IDH mutation status tested?",
+            "a": "<p>IDH mutation status is tested using a tumor tissue sample obtained during surgery or biopsy. Common methods include immunohistochemistry to detect the frequent IDH1 R132H protein, followed by DNA sequencing to identify less common mutations. These tests are performed in a pathology laboratory and interpreted alongside imaging and clinical details. Testing accuracy depends on adequate tissue quality, so results should always be reviewed by an experienced neuropathology and oncology team.</p>"
+          },
+          {
+            "q": "Do all brain tumor patients need IDH testing?",
+            "a": "<p>IDH testing is recommended for most gliomas because it directly affects diagnosis, classification, and treatment planning. It is especially important for diffuse gliomas in adults, where IDH status separates distinct tumor types. Not every brain lesion requires this test, and the decision depends on tumor type, imaging, and pathology findings. Whether IDH testing is needed in a specific case should be determined by the treating neuro-oncology and pathology team.</p>"
+          },
+          {
+            "q": "Is IDH testing part of the new WHO brain tumor classification?",
+            "a": "<p>Yes, IDH status is a core part of the current WHO classification of brain tumors, which combines microscopic features with molecular markers. Under this system, gliomas are grouped by IDH mutation status and other genetic changes rather than appearance alone. This integrated approach can improve diagnostic accuracy and guide treatment. Because classification is complex and evolving, final tumor labeling should rely on specialist neuropathology review using validated testing methods.</p>"
+          },
+          {
+            "q": "What is 1p/19q codeletion and how does it relate to IDH?",
+            "a": "<p>1p/19q codeletion is a genetic change where portions of two chromosomes are lost, and it is used together with IDH status to classify gliomas. When an IDH-mutant glioma also shows 1p/19q codeletion, it is typically diagnosed as an oligodendroglioma, which may respond well to certain treatments. Without codeletion, IDH-mutant tumors are classified differently. Both markers should be tested and interpreted together by an experienced pathology and oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does IDH mutation testing cost?",
+            "a": "<p>The cost of IDH mutation testing varies widely depending on the country, laboratory, and whether basic immunohistochemistry or full genetic sequencing is used. Broader molecular panels that include IDH, 1p/19q, and other markers generally cost more than single-marker tests. Final pricing also depends on hospital, tissue handling, and any repeat testing. Because estimates change over time, patients should confirm current costs directly with the laboratory or treating center handling their case.</p>"
+          },
+          {
+            "q": "Is IDH mutation testing available in India?",
+            "a": "<p>IDH mutation testing is available at many advanced cancer centers and specialized laboratories in India, often as part of a molecular glioma panel. Availability, turnaround time, and testing methods can differ between hospitals and cities. Some centers perform testing in-house, while others send samples to reference laboratories. Whether a specific hospital offers IDH testing, and how it fits your diagnosis, should be confirmed with the treating neuro-oncology team before proceeding.</p>"
+          },
+          {
+            "q": "Which countries offer IDH-targeted brain tumor treatment?",
+            "a": "<p>Several countries with advanced neuro-oncology services, including the United States, parts of Europe, India, and China, may offer IDH testing and, in selected cases, IDH-targeted therapy or clinical trials. Access depends on drug approval status, hospital capability, and individual eligibility, which vary by region. Availability can change over time. Patients considering treatment abroad should verify current options, approvals, and acceptance criteria with the specific hospital and their treating specialists.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Are there targeted drugs for IDH-mutant brain tumors?",
+            "a": "<p>Yes, targeted drugs called IDH inhibitors have been developed to block the abnormal activity of mutated IDH in some brain tumors. These medicines aim to slow tumor growth in selected patients with confirmed IDH mutations. Their suitability depends on tumor grade, previous treatment, and overall health, and they do not replace surgery, radiation, or chemotherapy in every case. Any decision to use IDH-targeted therapy should be made by the treating oncology team.</p>"
+          },
+          {
+            "q": "What is vorasidenib and who may benefit?",
+            "a": "<p>Vorasidenib is an IDH inhibitor studied for certain lower-grade IDH-mutant gliomas, designed to cross into the brain and target the mutation. It may be considered for selected patients, often after surgery, where delaying more intensive treatment is a goal. Eligibility depends on confirmed IDH status, tumor grade, and specialist assessment, and access varies by country and approval status. Whether vorasidenib is appropriate should be discussed with a qualified neuro-oncology team.</p>"
+          },
+          {
+            "q": "Can IDH-mutant gliomas be treated within clinical trials?",
+            "a": "<p>IDH-mutant gliomas are an active area of clinical research, and eligible patients may be considered for trials testing new IDH inhibitors or combination approaches. Enrollment is never guaranteed and depends on strict inclusion and exclusion criteria, medical record review, and investigator assessment. Trials may involve additional testing and follow-up. Patients interested in a trial should discuss options with their oncology team and confirm eligibility directly with the research center running the study.</p>"
+          },
+          {
+            "q": "Does IDH mutation affect chemotherapy and radiation decisions?",
+            "a": "<p>IDH mutation status can influence how chemotherapy and radiation are planned, because IDH-mutant gliomas may behave and respond differently from IDH-wildtype tumors. Decisions still depend on tumor grade, extent of surgery, 1p/19q status, symptoms, and overall health. IDH status is one important factor among several, not a standalone rule. The final treatment plan, including timing and combination of therapies, should be determined by the treating neuro-oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed to confirm IDH mutation status?",
+            "a": "<p>Confirming IDH mutation status usually requires the surgical or biopsy pathology report, molecular or genetic test results, and often the original tumor tissue block or slides for review. MRI scans and a treatment summary are also helpful for specialists assessing the case. Requirements can vary between hospitals and countries. Patients seeking a second opinion or treatment abroad should confirm the exact reports and materials needed with the receiving center before travel.</p>"
+          },
+          {
+            "q": "Can international patients get a second opinion on IDH-mutant glioma?",
+            "a": "<p>Yes, international patients can seek a second opinion on an IDH-mutant glioma by sharing pathology reports, molecular results, imaging, and treatment history with an experienced neuro-oncology center. A second opinion may help clarify diagnosis, classification, and treatment options. Access, timelines, and any need for repeat testing depend on hospital acceptance and case review. It does not guarantee a change in diagnosis or treatment, which remains the treating team's decision.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with IDH mutation in brain tumors?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, tumor grade, IDH and other biomarker results, previous treatment, and overall health. CancerFax supports coordination and access but does not replace the evaluation and advice of treating doctors and hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

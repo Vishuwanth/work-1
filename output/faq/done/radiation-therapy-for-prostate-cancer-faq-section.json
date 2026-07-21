@@ -1,0 +1,114 @@
+{
+  "pillar": "Radiation Therapy for Prostate Cancer",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: radiation-therapy-for-prostate-cancer",
+  "route": "⚠ VERIFY: /<section>/radiation-therapy-for-prostate-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Radiation Therapy for Prostate Cancer",
+    "intro": "Radiation therapy is a common, non-surgical treatment option for many stages of prostate cancer. These answers explain how it works, who it may suit, its side effects, costs, and how international patients can access care.",
+    "groups": [
+      {
+        "title": "Understanding Radiation Therapy for Prostate Cancer",
+        "items": [
+          {
+            "q": "What is radiation therapy for prostate cancer?",
+            "a": "<p>Radiation therapy for prostate cancer uses high-energy beams or radioactive sources to destroy cancer cells in the prostate gland. It is a non-surgical treatment that may be used as a primary option or alongside other treatments. Radiation can be delivered from outside the body or by placing radioactive material inside the prostate. Whether it suits a patient depends on cancer stage, risk group, symptoms, and specialist review.</p>"
+          },
+          {
+            "q": "How does radiation therapy treat prostate cancer?",
+            "a": "<p>Radiation therapy treats prostate cancer by damaging the DNA of cancer cells so they cannot grow or divide, causing them to die over time. Modern techniques target the prostate precisely while limiting exposure to the bladder, rectum, and healthy tissue. Treatment is usually spread over several sessions to protect normal cells. The exact plan depends on tumor stage, PSA level, Gleason score, and the treating radiation oncology team.</p>"
+          },
+          {
+            "q": "What are the main types of radiation therapy for prostate cancer?",
+            "a": "<p>The two main types are external beam radiation therapy (EBRT) and brachytherapy. EBRT delivers focused radiation from a machine outside the body, often using IMRT or image-guided techniques. Brachytherapy places radioactive seeds or temporary sources directly inside the prostate. Some patients may receive a combination of both. The most suitable approach depends on cancer risk group, prostate size, urinary symptoms, and specialist assessment.</p>"
+          },
+          {
+            "q": "What is the difference between external beam radiation and brachytherapy?",
+            "a": "<p>External beam radiation delivers targeted radiation from a machine outside the body over several sessions, while brachytherapy places radioactive material directly inside the prostate. External beam is non-invasive and widely available; brachytherapy is a minimally invasive procedure often completed in fewer visits. Each has different side effect patterns and suitability. The right choice depends on cancer stage, prostate size, and discussion with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for radiation therapy for prostate cancer?",
+            "a": "<p>Radiation therapy may be considered for men with localized, locally advanced, or recurrent prostate cancer, and sometimes for symptom control in advanced disease. Eligibility depends on cancer stage, PSA level, Gleason score, urinary function, overall health, and previous treatments. It may suit men who prefer to avoid surgery or are not surgical candidates. Final suitability should be decided by a qualified radiation oncology team after full review.</p>"
+          },
+          {
+            "q": "How long does a course of prostate radiation therapy take?",
+            "a": "<p>A course of external beam radiation for prostate cancer often takes several weeks, with short daily sessions on weekdays, though shorter hypofractionated or SBRT schedules may involve far fewer treatments. Brachytherapy may be completed in one or a few procedures. The total duration depends on the technique used, cancer risk group, and the treatment plan chosen. Your radiation oncology team will confirm the expected schedule.</p>"
+          },
+          {
+            "q": "What happens during a radiation therapy session?",
+            "a": "<p>During an external beam radiation session, you lie still on a treatment table while a machine delivers targeted radiation to the prostate, usually taking only a few minutes. The process is painless, and imaging may be used to confirm accurate positioning. You can normally go home the same day. Planning scans and preparation instructions come first. The exact steps depend on the technique and the treating radiation oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of radiation therapy for prostate cancer?",
+            "a": "<p>Common side effects of prostate radiation therapy may include urinary urgency, frequency, mild burning, bowel changes, fatigue, and effects on sexual function. Most side effects are temporary, though some men experience longer-lasting bladder, bowel, or erectile changes. Severity varies with technique, dose, and individual health. These risks should be discussed with a qualified oncology team so patients understand what to expect and how symptoms can be managed.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does radiation therapy for prostate cancer cost?",
+            "a": "<p>The cost of radiation therapy for prostate cancer varies widely depending on the country, hospital, technique, and number of sessions. Advanced options such as IMRT, SBRT, brachytherapy, and proton therapy can differ significantly in price. Final cost also depends on diagnosis, staging tests, treatment protocol, complications, and length of stay. Patients should request a detailed estimate from the treating hospital, as costs are not fixed.</p>"
+          },
+          {
+            "q": "Is radiation therapy for prostate cancer available in India?",
+            "a": "<p>Yes, radiation therapy for prostate cancer is widely available in India at many established cancer centers, often at lower cost than in Western countries. Techniques such as IMRT, image-guided radiation, SBRT, and brachytherapy are offered at several hospitals. Availability of specific advanced options varies by center. International patients should confirm the technique, expertise, and estimated cost directly with the chosen hospital before planning treatment or travel.</p>"
+          },
+          {
+            "q": "Which countries offer advanced prostate radiation therapy?",
+            "a": "<p>Advanced prostate radiation therapy is offered in several countries, including India, the United States, Germany, the United Kingdom, Turkey, Singapore, and others with modern cancer centers. Techniques such as IMRT, SBRT, brachytherapy, and proton therapy may be available depending on the facility. Access, waiting times, and cost differ between countries and hospitals. Patients should verify specific treatment availability and expertise with each center before making decisions.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "What is SBRT for prostate cancer?",
+            "a": "<p>SBRT (stereotactic body radiation therapy) is a precise form of external beam radiation that delivers high doses to the prostate in only a few sessions, often around five. It uses advanced imaging and targeting to protect surrounding tissue. SBRT may be suitable for selected men with localized prostate cancer, offering a shorter treatment course. Suitability depends on cancer risk group and assessment by the radiation oncology team.</p>"
+          },
+          {
+            "q": "What is proton therapy for prostate cancer?",
+            "a": "<p>Proton therapy is a form of external beam radiation that uses proton particles instead of X-rays to target the prostate, potentially reducing dose to nearby healthy tissue. It may be considered for selected patients, though availability is limited and cost is often higher. Evidence comparing it to other advanced techniques continues to evolve. Whether it is appropriate should be discussed with a qualified radiation oncology team.</p>"
+          },
+          {
+            "q": "Are there clinical trials for prostate cancer radiation therapy?",
+            "a": "<p>Yes, clinical trials for prostate cancer radiation therapy study newer techniques, shorter schedules, and combinations with other treatments. These trials may offer access to emerging approaches, but participation does not guarantee benefit. Eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria. Patients interested in a trial should discuss options with their oncology team and review requirements carefully.</p>"
+          },
+          {
+            "q": "Can radiation therapy be combined with hormone therapy for prostate cancer?",
+            "a": "<p>Yes, radiation therapy is often combined with hormone therapy (androgen deprivation therapy) for intermediate- or high-risk prostate cancer to improve treatment effectiveness. Hormone therapy lowers testosterone, which can help control cancer growth. The duration and timing of combined treatment depend on cancer risk group, PSA level, and overall health. This combination may not be needed for all patients and should be guided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed for prostate cancer radiation therapy abroad?",
+            "a": "<p>Patients usually need recent PSA test results, prostate biopsy and pathology reports, Gleason score, MRI or CT imaging, bone scans if advised, and a summary of previous treatments. A current medical history and details of other health conditions are also helpful. These records allow the radiation oncology team to plan treatment and provide an estimate. Requirements vary by hospital, so confirm the exact list with the chosen center.</p>"
+          },
+          {
+            "q": "How can international patients access prostate cancer radiation therapy?",
+            "a": "<p>International patients can access prostate radiation therapy by sharing medical reports with a chosen cancer center for review, obtaining a treatment plan and cost estimate, and arranging travel once accepted. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition. No hospital admission, visa, or treatment outcome can be guaranteed in advance. Planning follow-up care after returning home is also important.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with radiation therapy for prostate cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or radiation therapy centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, PSA level, Gleason score, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and cannot guarantee treatment acceptance or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

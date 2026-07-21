@@ -1,0 +1,68 @@
+{
+  "pillar": "CAR-T for Pediatric Leukemia",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: car-t-for-pediatric-leukemia",
+  "route": "⚠ VERIFY: /insights/car-t-for-pediatric-leukemia",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About CAR-T for Pediatric Leukemia",
+    "intro": "These answers explain how CAR-T cell therapy is used for childhood leukemia, who may be considered, and what families should know about safety, cost, and access. Treatment decisions should always be made by a qualified pediatric oncology team.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T for Pediatric Leukemia",
+        "items": [
+          {
+            "q": "What is CAR-T therapy for pediatric leukemia?",
+            "a": "<p>CAR-T therapy for pediatric leukemia is a personalized immunotherapy that reprograms a child's own T-cells to recognize and destroy leukemia cells. Doctors collect T-cells from the child's blood, genetically modify them in a laboratory to target a marker such as CD19, then grow and infuse them back. It is mainly used for certain B-cell acute lymphoblastic leukemias that have relapsed or not responded to standard treatment.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work in children with leukemia?",
+            "a": "<p>CAR-T therapy works by giving a child's immune cells a new ability to find leukemia. T-cells are removed, engineered to display a chimeric antigen receptor (CAR) that binds a protein like CD19 on leukemia cells, and multiplied before being infused back. Once inside the body, these modified cells can locate and kill cancer cells. Response varies between patients and should be assessed by the treating oncology team.</p>"
+          },
+          {
+            "q": "Which childhood leukemias can be treated with CAR-T?",
+            "a": "<p>CAR-T therapy is mainly used for children and young adults with B-cell acute lymphoblastic leukemia (B-ALL) that has relapsed or become resistant to chemotherapy. It targets CD19, a marker found on these leukemia cells. It is not a standard first-line treatment and is not currently approved for every leukemia type. Suitability depends on the leukemia subtype, previous therapy, and specialist review by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for CAR-T therapy?",
+            "a": "<p>Eligibility for CAR-T therapy depends on the leukemia type, the child's age, previous treatments, and overall health. It may be considered for selected children with relapsed or refractory B-cell ALL when other treatments have not worked. Doctors assess organ function, disease burden, and fitness before proceeding. Not every child is a candidate, and final eligibility should be decided by the treating medical team after detailed evaluation.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T therapy in children?",
+            "a": "<p>CAR-T therapy can cause side effects, some of which may be serious and need close hospital monitoring. The most common are cytokine release syndrome (CRS), causing fever and low blood pressure, and neurological effects such as confusion. Low blood counts and a higher risk of infection can also occur. These effects are usually managed in specialized centers, and the care team monitors each child carefully during and after treatment.</p>"
+          },
+          {
+            "q": "How long does CAR-T treatment take for a child?",
+            "a": "<p>CAR-T treatment usually takes several weeks from start to finish, though timelines vary by center and each child's condition. After T-cells are collected, they are sent to a laboratory for engineering, which can take a few weeks. The child may receive short chemotherapy before infusion, then stay in or near the hospital for monitoring. Recovery and follow-up continue for months, guided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does CAR-T therapy cost for pediatric leukemia?",
+            "a": "<p>The cost of CAR-T therapy varies widely and depends on the country, hospital, product used, length of stay, and management of any complications. It is generally an expensive treatment because the cells are engineered individually for each child. Final costs also depend on tests, supportive care, and follow-up. Families should request a detailed written estimate from the treating hospital, as prices are not fixed and can change.</p>"
+          },
+          {
+            "q": "Which countries offer CAR-T therapy for children?",
+            "a": "<p>CAR-T therapy for pediatric leukemia is available in several countries, including the United States, parts of Europe, China, and India, at selected specialized centers. Availability depends on regulatory approval and whether a hospital is certified to deliver this therapy. Access for international patients also depends on hospital acceptance, medical review, travel fitness, and visa approval. Options should be confirmed with the treating team and the specific treatment center.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T for pediatric leukemia?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the child's diagnosis, leukemia subtype, previous treatment, and overall health. CancerFax provides coordination and guidance, but does not replace the child's doctors or guarantee treatment acceptance or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

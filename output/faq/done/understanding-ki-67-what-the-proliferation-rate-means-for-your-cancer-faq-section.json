@@ -1,0 +1,110 @@
+{
+  "pillar": "Understanding Ki-67: what the proliferation rate means for your cancer",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: understanding-ki-67-what-the-proliferation-rate-means-for-your-cancer",
+  "route": "⚠ VERIFY: /<section>/understanding-ki-67-what-the-proliferation-rate-means-for-your-cancer",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Ki-67 and Your Cancer Proliferation Rate",
+    "intro": "Ki-67 is a marker of how quickly cancer cells are dividing, and it often appears on pathology reports. These answers explain what the score means, how it is tested, and how it may influence treatment decisions.",
+    "groups": [
+      {
+        "title": "Understanding Ki-67",
+        "items": [
+          {
+            "q": "What is Ki-67 in a cancer report?",
+            "a": "<p>Ki-67 is a protein found in cells that are actively dividing, and pathologists use it to estimate how fast a cancer is growing. The result is reported as a percentage, showing what proportion of tumor cells are multiplying. A higher percentage generally suggests faster growth, while a lower percentage suggests slower growth. Ki-67 is one of several factors your oncology team reviews alongside cancer type, stage, and other biomarkers.</p>"
+          },
+          {
+            "q": "What does the Ki-67 proliferation rate mean?",
+            "a": "<p>The Ki-67 proliferation rate reflects the percentage of tumor cells that are actively dividing at the time of testing. It gives doctors a sense of how quickly the cancer may be growing. This information can help guide treatment intensity and follow-up planning, but it is only one piece of the picture. Its meaning depends on cancer type, stage, and other pathology findings, and should be interpreted by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is considered a high or low Ki-67 score?",
+            "a": "<p>There is no single universal cutoff for a high or low Ki-67 score, as thresholds vary by cancer type and laboratory. In many breast cancers, values below about 10 percent are often seen as low and above 20 to 30 percent as high, with intermediate values in between. Because interpretation differs across tumors and labs, your treating oncologist should explain what your specific score means for your diagnosis.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Does a high Ki-67 mean my cancer is more aggressive?",
+            "a": "<p>A high Ki-67 often suggests a faster-growing tumor, but it does not automatically mean the cancer is untreatable or more dangerous overall. Many fast-dividing cancers also respond well to treatments such as chemotherapy. Ki-67 is only one marker and must be weighed with stage, grade, hormone status, and other biomarkers. Final assessment of how aggressive a cancer is should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "How is Ki-67 tested?",
+            "a": "<p>Ki-67 is measured using immunohistochemistry, a laboratory technique applied to a tumor tissue sample obtained from a biopsy or surgery. The tissue is stained so that dividing cells become visible, and a pathologist estimates the percentage of stained cells. No separate procedure is usually needed, since testing is done on tissue already collected. The exact method and scoring can vary, so results are best interpreted within your full pathology report.</p>"
+          },
+          {
+            "q": "Which cancers commonly report a Ki-67 score?",
+            "a": "<p>Ki-67 is most commonly reported in breast cancer and neuroendocrine tumors, where it helps guide grading and treatment planning. It may also appear in lymphomas, certain brain tumors, and other cancers depending on the pathology needs. Not every cancer report includes a Ki-67 score, as its usefulness varies by tumor type. Whether Ki-67 is relevant to your case should be discussed with your treating oncology team.</p>"
+          },
+          {
+            "q": "Can Ki-67 results vary between laboratories?",
+            "a": "<p>Yes, Ki-67 results can vary between laboratories because scoring methods and cutoffs are not fully standardized. Differences in staining, the tumor area assessed, and how cells are counted can all affect the final percentage. This is why the same sample may receive slightly different scores at different labs. If a result seems inconsistent with other findings, your oncology team may consider repeat testing or a specialist pathology review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does Ki-67 testing cost?",
+            "a": "<p>Ki-67 testing is generally an affordable immunohistochemistry test, often included as part of a broader pathology or biomarker panel rather than billed alone. The exact cost depends on the hospital, laboratory, country, and whether other markers are tested at the same time. Prices can vary widely, so it is best to confirm charges directly with your pathology lab or treating hospital before testing.</p>"
+          },
+          {
+            "q": "Is Ki-67 testing available in India?",
+            "a": "<p>Ki-67 testing is widely available in India at major cancer hospitals and pathology laboratories that offer immunohistochemistry. It is commonly performed on breast cancer and neuroendocrine tumor samples as part of routine diagnostic work-up. Availability, turnaround time, and cost can differ between centers. Patients should confirm with their chosen hospital or laboratory whether Ki-67 is included in their pathology panel and how the sample should be submitted.</p>"
+          },
+          {
+            "q": "Which countries offer Ki-67 testing?",
+            "a": "<p>Ki-67 testing is available in most countries with established cancer pathology services, including India, China, the United States, and much of Europe and Southeast Asia. Because it uses standard immunohistochemistry, it is offered at many hospital and reference laboratories worldwide. Access and quality can vary by center, so patients seeking testing abroad should confirm that the laboratory is experienced with the relevant cancer type and reporting standards.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "How does Ki-67 affect my treatment plan?",
+            "a": "<p>Ki-67 can help inform treatment decisions by indicating how quickly a cancer is dividing, which sometimes influences whether more intensive therapy is considered. In certain breast cancers and neuroendocrine tumors, it contributes to grading and risk assessment. However, it is never used alone and is always combined with stage, biomarkers, and overall health. Final treatment decisions should be made by the treating oncology team after full review.</p>"
+          },
+          {
+            "q": "Is Ki-67 used to decide chemotherapy?",
+            "a": "<p>Ki-67 may be one of several factors considered when weighing chemotherapy, particularly in some breast cancers where a high proliferation rate can support the case for chemotherapy. It is not a standalone deciding factor, and many teams also use tumor stage, hormone receptor status, and gene-expression tests. Whether chemotherapy is appropriate depends on the complete clinical picture and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can Ki-67 be combined with other tests like Oncotype DX?",
+            "a": "<p>Yes, Ki-67 is often reviewed alongside other tests such as hormone receptor status, HER2, and gene-expression assays like Oncotype DX in breast cancer. Combining these results gives a fuller understanding of tumor biology and recurrence risk than any single marker. The tests provide complementary information rather than replacing one another. Which tests are appropriate for your situation should be determined by your treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "Where can I find my Ki-67 score on my reports?",
+            "a": "<p>Your Ki-67 score is usually listed in the immunohistochemistry or biomarker section of your pathology report, shown as a percentage such as \"Ki-67: 15%.\" It often appears near other markers like ER, PR, and HER2 in breast cancer reports. If you cannot locate it or the wording is unclear, ask your treating doctor or pathology laboratory to point it out and explain what the value means for your diagnosis.</p>"
+          },
+          {
+            "q": "Should I get a second opinion on my Ki-67 result?",
+            "a": "<p>A second opinion on your Ki-67 result may be helpful if the score seems inconsistent with other findings or if it strongly influences a major treatment decision. Because Ki-67 scoring can vary between labs, an expert pathology review can add confidence. Seeking a second opinion is a reasonable and common step. Any repeat testing or reinterpretation should be arranged in coordination with your treating oncology team.</p>"
+          },
+          {
+            "q": "Do I need repeat Ki-67 testing if I travel abroad for treatment?",
+            "a": "<p>Repeat Ki-67 testing is not always required abroad, as many hospitals can review your existing pathology slides and reports. In some cases, a receiving center may retest to confirm results using its own laboratory standards. Whether repeat testing is needed depends on sample quality, timing, and hospital policy. It is best to carry your original slides and reports and confirm requirements with the treating team in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with Ki-67 testing?",
+            "a": "<p>CancerFax helps patients organize their pathology reports and Ki-67 results, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to understand how a proliferation rate fits into the wider diagnosis. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

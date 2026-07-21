@@ -1,0 +1,64 @@
+{
+  "pillar": "Questions to Ask Your Oncologist",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-to-ask-your-oncologist",
+  "route": "⚠ VERIFY: /insights/questions-to-ask-your-oncologist",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions to Ask Your Oncologist",
+    "intro": "Knowing what to ask your oncologist helps you understand your diagnosis and make informed decisions about advanced cancer treatment. These questions cover diagnosis, treatment options, clinical trials, and practical concerns for international patients.",
+    "groups": [
+      {
+        "title": "Preparing for Your Oncology Appointment",
+        "items": [
+          {
+            "q": "Why is it important to prepare questions before meeting your oncologist?",
+            "a": "<p>Preparing questions before meeting your oncologist helps you understand your diagnosis and make informed decisions. A cancer diagnosis can feel overwhelming, and a written list ensures you cover treatment options, likely outcomes, side effects, and next steps without forgetting key concerns. Bringing a family member or caregiver, taking notes, and asking for clarification can also help. The right questions depend on your cancer type, stage, and overall health, and should be discussed with your treating team.</p>"
+          },
+          {
+            "q": "What are the most important questions to ask after a cancer diagnosis?",
+            "a": "<p>The most important questions after a cancer diagnosis include what type and stage of cancer you have, what it means for your health, and what treatment options exist. You may also ask about the goal of treatment, whether it aims to cure, control, or relieve symptoms, and how much time you have to decide. Answers depend on your diagnosis, biomarker profile, and overall health, and should be reviewed carefully with your qualified oncology team.</p>"
+          },
+          {
+            "q": "What should you ask about your cancer type and stage?",
+            "a": "<p>Ask your oncologist to explain your exact cancer type, stage, grade, and what these terms mean for your situation. Understanding whether the cancer is localized or has spread helps clarify treatment goals and expected outcomes. You can also ask about biomarker or genetic testing, which may guide targeted therapy or immunotherapy for selected patients. The relevance of each test depends on your cancer type and pathology, and should be discussed with your treating specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Questions About Treatment and Trials",
+        "items": [
+          {
+            "q": "What questions should you ask about your treatment options?",
+            "a": "<p>Ask what treatment options are available, how each works, and what the expected benefits and risks are. Useful questions include whether surgery, chemotherapy, radiation, targeted therapy, or immunotherapy may be suitable, and why a particular approach is recommended for you. You can also ask about standard treatment versus advanced options and how they may affect daily life. Final treatment decisions should be made by your medical team based on your diagnosis, stage, and overall health.</p>"
+          },
+          {
+            "q": "What should you ask your oncologist about side effects?",
+            "a": "<p>Ask your oncologist which side effects are most likely, how long they may last, and how they can be managed. Different treatments carry different risks, so understanding what to expect helps you prepare and recognize warning signs early. You can also ask which symptoms need urgent medical attention and how side effects might affect work, diet, or family plans. The likelihood of side effects varies by treatment and individual health and should be discussed openly.</p>"
+          },
+          {
+            "q": "Should you ask your oncologist about clinical trials?",
+            "a": "<p>Yes, asking about clinical trials is worthwhile, as they may offer access to newer treatments for selected patients. You can ask whether any trials are relevant to your cancer type, stage, and biomarker profile, and what participation would involve. Eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria. Clinical trials do not guarantee benefit, so their suitability should be discussed carefully with your oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "What questions should international patients ask about treatment abroad?",
+            "a": "<p>International patients should ask about estimated costs, treatment timelines, and what medical reports are needed before travelling. Helpful questions include which tests must be repeated, how long treatment may take, and what follow-up care is required after returning home. Access abroad depends on hospital acceptance, medical review, visa approval, and travel fitness, and cannot be guaranteed. Final cost depends on hospital, diagnosis, stage, treatment protocol, and length of stay, so request a detailed written estimate.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with questions to ask your oncologist?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to prepare informed questions and understand available options before meeting an oncologist. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

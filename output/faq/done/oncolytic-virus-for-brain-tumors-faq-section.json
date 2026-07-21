@@ -1,0 +1,64 @@
+{
+  "pillar": "Oncolytic Virus for Brain Tumors",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: oncolytic-virus-for-brain-tumors",
+  "route": "⚠ VERIFY: /insights/oncolytic-virus-for-brain-tumors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Oncolytic Virus for Brain Tumors",
+    "intro": "Clear, patient-friendly answers about how oncolytic virus therapy is being studied for brain tumors, who may be eligible, and how international patients can explore this option safely.",
+    "groups": [
+      {
+        "title": "Understanding Oncolytic Virus Therapy for Brain Tumors",
+        "items": [
+          {
+            "q": "What is oncolytic virus therapy for brain tumors?",
+            "a": "<p>Oncolytic virus therapy for brain tumors uses genetically modified or naturally occurring viruses designed to infect and destroy cancer cells while largely sparing healthy tissue. For brain tumors such as glioblastoma, these viruses may also trigger an immune response against the tumor. It remains largely investigational, is studied mainly in clinical trials, and its suitability depends on tumor type, location, and specialist review by a qualified neuro-oncology team.</p>"
+          },
+          {
+            "q": "How does oncolytic virus therapy work against brain tumors?",
+            "a": "<p>Oncolytic viruses work by selectively entering tumor cells, replicating inside them, and causing the cancer cells to rupture and die. As the cells break down, they release tumor markers that may help the immune system recognize and attack remaining cancer. In brain tumors, this dual action—direct cell killing plus immune stimulation—is being actively studied, but responses vary between patients and are not guaranteed for everyone.</p>"
+          },
+          {
+            "q": "Which brain tumors may be treated with oncolytic viruses?",
+            "a": "<p>Oncolytic virus therapy is studied most often in aggressive brain tumors such as glioblastoma and other high-grade gliomas, including recurrent disease that has returned after standard treatment. It may be considered for selected patients within clinical trials rather than as routine care. Whether it is appropriate depends on the tumor type, grade, location, prior treatments, and overall health, and should be discussed with a qualified neuro-oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Treatment Process",
+        "items": [
+          {
+            "q": "Who may be eligible for oncolytic virus therapy for a brain tumor?",
+            "a": "<p>Eligibility for oncolytic virus therapy is decided after detailed medical review and, in most cases, assessment for a clinical trial. It may be considered for selected patients with certain brain tumors, often when standard options are limited or the tumor has recurred. Factors include tumor type, location, previous treatments, imaging, and overall health, along with trial inclusion and exclusion criteria. Final decisions are made by the treating medical and trial teams.</p>"
+          },
+          {
+            "q": "How is oncolytic virus therapy given for brain tumors?",
+            "a": "<p>Oncolytic virus therapy for brain tumors is usually delivered directly into or near the tumor, often through a catheter placed during surgery or a guided injection, rather than as a standard IV drip. The exact method depends on the specific virus, the trial protocol, and the tumor's location. Because approaches differ, the delivery plan should be explained in detail by the neurosurgical and oncology team before treatment begins.</p>"
+          },
+          {
+            "q": "What are the possible side effects of oncolytic virus therapy?",
+            "a": "<p>Possible side effects of oncolytic virus therapy can include fever, headache, fatigue, nausea, and flu-like symptoms as the immune system responds. Because treatment targets the brain, swelling, seizures, or neurological changes are also possible and require close monitoring. Side effects vary by virus type, dose, and individual patient. No cancer treatment is risk-free, so potential benefits and risks should be carefully discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support",
+        "items": [
+          {
+            "q": "How much does oncolytic virus therapy for brain tumors cost and where is it available?",
+            "a": "<p>Oncolytic virus therapy for brain tumors is not yet widely available and is offered mainly through specialized centers and clinical trials in select countries. Because most use is investigational, costs vary widely and may be partly covered within trials, while related care, travel, and hospital stays add expense. Final cost depends on the center, protocol, tests, length of stay, and complications, and should be confirmed directly with the treating hospital.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with oncolytic virus therapy for brain tumors?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or centers exploring oncolytic virus research, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Access depends on hospital acceptance, medical review, and trial eligibility, which cannot be guaranteed. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, tumor type, imaging, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

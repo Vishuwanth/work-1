@@ -1,0 +1,64 @@
+{
+  "pillar": "Cancer Treatment in Thailand",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-thailand",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-thailand",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in Thailand",
+    "intro": "This guide answers common questions from international patients and caregivers considering cancer treatment in Thailand, covering hospitals, treatment types, cost, access, and practical planning.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in Thailand",
+        "items": [
+          {
+            "q": "What is cancer treatment in Thailand like?",
+            "a": "<p>Cancer treatment in Thailand is delivered through internationally accredited hospitals offering surgery, chemotherapy, radiation therapy, targeted therapy, and immunotherapy. Many centres have dedicated oncology departments, modern imaging, and international patient services with English-speaking coordinators. Treatment plans depend on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be discussed with a qualified oncology team. Final treatment decisions are always made by the treating medical team.</p>"
+          },
+          {
+            "q": "Which hospitals in Thailand treat cancer?",
+            "a": "<p>Several major hospitals in Thailand, mainly in Bangkok, Chiang Mai, and Phuket, offer specialised cancer care. Many hold international accreditation and run multidisciplinary tumour boards for complex cases. Choosing a hospital depends on your cancer type, required treatment, specialist availability, and budget. Suitability and admission are decided after the hospital reviews your medical records, so it is best to confirm details with the treating centre before travelling.</p>"
+          },
+          {
+            "q": "What types of cancer treatment are available in Thailand?",
+            "a": "<p>Thailand offers a broad range of cancer treatments, including surgery, chemotherapy, radiation therapy, targeted therapy, immunotherapy, and supportive palliative care. Some centres provide advanced radiotherapy techniques and access to selected clinical trials. Which options are appropriate depends on cancer type, stage, biomarker testing, and prior treatment. A qualified oncology team reviews these factors before recommending a plan, and final decisions rest with the treating specialists.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Travel",
+        "items": [
+          {
+            "q": "How much does cancer treatment cost in Thailand?",
+            "a": "<p>The cost of cancer treatment in Thailand varies widely and cannot be fixed in advance. Final cost depends on the hospital, diagnosis, stage, tests required, treatment protocol, possible complications, length of stay, and the treating team's advice. Thailand is often chosen for competitive pricing compared with some Western countries, but estimates are approximate. Request a personalised quotation from the hospital after they review your medical reports.</p>"
+          },
+          {
+            "q": "How can international patients access cancer treatment in Thailand?",
+            "a": "<p>International patients can access cancer treatment in Thailand through a hospital's international patient department after submitting their medical records for review. Access depends on hospital acceptance, medical assessment, visa approval, travel fitness, and overall condition. It helps to arrange a second opinion, cost estimate, and travel plan in advance. No hospital admission, visa approval, or treatment acceptance can be guaranteed until the medical review is complete.</p>"
+          },
+          {
+            "q": "What medical reports are needed to start treatment in Thailand?",
+            "a": "<p>To begin a treatment review in Thailand, patients usually need recent diagnostic reports, including pathology or biopsy results, imaging scans such as CT, MRI, or PET, blood tests, and a summary of previous treatment. Biomarker or genetic testing reports may also be requested. Providing complete records helps the oncology team assess suitability accurately. Additional tests may be advised after specialist review, depending on the cancer type and stage.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety and Practical Questions",
+        "items": [
+          {
+            "q": "Is cancer treatment in Thailand safe and of good quality?",
+            "a": "<p>Cancer treatment at accredited Thai hospitals is generally considered to follow recognised international standards of care. Many leading centres hold quality accreditation and use multidisciplinary teams to plan treatment. As with any medical care, outcomes depend on cancer type, stage, individual health, and how well treatment is followed. Patients should discuss risks, benefits, and expected results with the treating oncology team before making decisions.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer treatment in Thailand?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is intended to make planning easier and does not replace the advice of doctors or hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

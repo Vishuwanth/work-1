@@ -1,0 +1,114 @@
+{
+  "pillar": "Radiation Therapy for Brain Tumours",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: radiation-therapy-for-brain-tumours",
+  "route": "⚠ VERIFY: /<section>/radiation-therapy-for-brain-tumours",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Radiation Therapy for Brain Tumours",
+    "intro": "Radiation therapy is a common treatment for many brain tumours, used alone or alongside surgery and chemotherapy. These answers explain how it works, who it may suit, what to expect, and how international patients can access care.",
+    "groups": [
+      {
+        "title": "Understanding Radiation Therapy for Brain Tumours",
+        "items": [
+          {
+            "q": "What is radiation therapy for brain tumours?",
+            "a": "<p>Radiation therapy for brain tumours uses precisely targeted high-energy beams, such as X-rays or protons, to damage and destroy tumour cells while sparing nearby healthy brain tissue. It may be used after surgery, in place of surgery, or together with chemotherapy, depending on the tumour type and location. The right approach depends on diagnosis, stage, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does radiation therapy work on brain tumours?",
+            "a": "<p>Radiation therapy works by damaging the DNA inside tumour cells so they can no longer grow or divide, causing them to die over time. Treatment is usually divided into small daily doses that let healthy tissue recover between sessions. Modern techniques shape the beams closely around the tumour to limit exposure to healthy brain. The specific plan depends on tumour type, size, location, and the treating team's assessment.</p>"
+          },
+          {
+            "q": "What types of radiation therapy are used for brain tumours?",
+            "a": "<p>Several types of radiation therapy are used for brain tumours, including external beam radiation, intensity-modulated radiation therapy (IMRT), stereotactic radiosurgery (SRS), stereotactic radiotherapy, and proton therapy. Each delivers radiation differently to balance tumour control with protection of healthy brain tissue. The most suitable option depends on the tumour type, size, location, patient age, and overall health, and should be decided by the treating radiation oncology team.</p>"
+          },
+          {
+            "q": "Is radiation therapy used for both benign and malignant brain tumours?",
+            "a": "<p>Yes, radiation therapy can be considered for both benign and malignant brain tumours, though the goals differ. For malignant tumours such as gliomas, it helps control growth and reduce recurrence. For selected benign tumours such as meningiomas or pituitary adenomas, it may control tumours that cannot be fully removed by surgery. Whether radiation is appropriate depends on tumour behaviour, symptoms, and specialist evaluation by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process & Safety",
+        "items": [
+          {
+            "q": "Who is eligible for radiation therapy for brain tumours?",
+            "a": "<p>Eligibility for radiation therapy depends on the tumour type, grade, size, location, previous treatments, and the patient's overall health. It may be suitable for patients after surgery, those whose tumours cannot be operated on, or those needing additional tumour control. Age and prior radiation to the same area are also considered. Final decisions on eligibility should be made by the treating radiation oncology team after reviewing scans and pathology.</p>"
+          },
+          {
+            "q": "How is radiation therapy for brain tumours planned and delivered?",
+            "a": "<p>Radiation therapy for brain tumours is carefully planned using detailed imaging such as MRI and CT scans to map the tumour and surrounding structures. A custom mask is usually made to keep the head still during treatment. The radiation oncology team then designs a plan that targets the tumour while protecting healthy brain. Treatment is typically given in short daily sessions over several weeks, guided by the treating specialist.</p>"
+          },
+          {
+            "q": "How long does a course of brain radiation therapy take?",
+            "a": "<p>A course of brain radiation therapy usually takes between one and six weeks, depending on the tumour type and treatment goal. Standard fractionated treatment is often given daily from Monday to Friday, with each session lasting only a few minutes. Stereotactic radiosurgery may be completed in one to five sessions. The exact schedule depends on the diagnosis and plan set by the treating radiation oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of radiation therapy for brain tumours?",
+            "a": "<p>Common side effects of brain radiation therapy may include fatigue, hair loss in the treated area, scalp irritation, headaches, and temporary swelling. Some patients experience nausea or difficulty concentrating. Longer-term effects, which vary by dose and area treated, can include memory or cognitive changes. Side effects differ from person to person and should be monitored and managed by the treating oncology team throughout and after treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access & Countries",
+        "items": [
+          {
+            "q": "How much does radiation therapy for brain tumours cost?",
+            "a": "<p>The cost of radiation therapy for brain tumours varies widely depending on the technique used, number of sessions, hospital, and country. Advanced options such as proton therapy or stereotactic radiosurgery generally cost more than standard radiation. Final cost also depends on diagnosis, imaging, planning, length of stay, and any complications. Patients should request a personalised estimate from the treating hospital, as prices are not fixed.</p>"
+          },
+          {
+            "q": "Is radiation therapy for brain tumours available in India?",
+            "a": "<p>Yes, radiation therapy for brain tumours is widely available in India at many specialised cancer centres. Facilities may offer IMRT, stereotactic radiosurgery, and, at select centres, proton therapy. India is often chosen by international patients for its experienced radiation oncologists and comparatively lower costs. Actual availability of a specific technique depends on the hospital, and treatment access should be confirmed after medical review by the treating team.</p>"
+          },
+          {
+            "q": "Which countries offer advanced radiation therapy for brain tumours?",
+            "a": "<p>Advanced radiation therapy for brain tumours is offered in several countries, including India, the United States, Germany, the United Kingdom, Japan, and China, among others. These centres may provide techniques such as proton therapy, stereotactic radiosurgery, and image-guided radiation. The best choice depends on tumour type, required technology, cost, and travel considerations. Access always depends on hospital acceptance and medical review, and should be planned with specialist guidance.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options & Clinical Trials",
+        "items": [
+          {
+            "q": "What is stereotactic radiosurgery (SRS) for brain tumours?",
+            "a": "<p>Stereotactic radiosurgery is a highly focused, non-surgical radiation technique that delivers a precise, high dose to a small brain tumour in one to five sessions. Despite its name, it involves no incision. It is often used for small, well-defined tumours or metastases and can spare surrounding healthy tissue. Whether SRS is suitable depends on tumour size, number, and location, and should be assessed by the treating radiation oncology team.</p>"
+          },
+          {
+            "q": "Is proton therapy better than standard radiation for brain tumours?",
+            "a": "<p>Proton therapy may be considered for selected brain tumours because it can deliver radiation more precisely and reduce dose to healthy tissue, which is especially valuable near critical structures or in children. However, it is not automatically better for every patient, and standard radiation remains highly effective for many tumours. Whether proton therapy offers an advantage depends on the individual case and specialist review by the treating team.</p>"
+          },
+          {
+            "q": "Are there clinical trials for brain tumour radiation therapy?",
+            "a": "<p>Yes, clinical trials studying new radiation techniques, dose schedules, and combinations with drugs or immunotherapy are ongoing for brain tumours. Trials may offer access to emerging approaches, but they cannot guarantee benefit or enrollment. Eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria. Patients interested in trials should discuss suitable options with their treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What reports are needed to plan radiation therapy for a brain tumour?",
+            "a": "<p>Planning radiation therapy for a brain tumour usually requires recent MRI and CT scans, the pathology or biopsy report, prior surgery and treatment records, and a summary of the patient's medical history. Details of any earlier radiation are also important. These reports help the radiation oncology team confirm the diagnosis and design a safe plan. The exact requirements may vary by hospital and should be confirmed before travel.</p>"
+          },
+          {
+            "q": "How can international patients access brain tumour radiation therapy abroad?",
+            "a": "<p>International patients can access brain tumour radiation therapy abroad by first sharing their medical reports for review, obtaining a treatment plan and cost estimate, and arranging a medical visa. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition. It is helpful to plan for accommodation and follow-up care. No hospital can guarantee admission, visa approval, or a specific outcome in advance.</p>"
+          },
+          {
+            "q": "What follow-up is needed after radiation therapy for a brain tumour?",
+            "a": "<p>After radiation therapy for a brain tumour, follow-up typically includes periodic MRI scans and clinical check-ups to monitor the tumour and watch for side effects. The schedule depends on tumour type, treatment response, and any ongoing symptoms. Some effects may appear months after treatment, so long-term monitoring is important. Follow-up care can often be coordinated with a local oncologist, guided by the original treating radiation oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with radiation therapy for brain tumours?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support aims to make accessing radiation therapy for brain tumours clearer and easier for international patients and their caregivers.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

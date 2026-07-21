@@ -1,0 +1,64 @@
+{
+  "pillar": "Lymphodepletion Before TIL Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: lymphodepletion-before-til-therapy",
+  "route": "⚠ VERIFY: /insights/lymphodepletion-before-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Lymphodepletion Before TIL Therapy",
+    "intro": "Lymphodepletion is a short chemotherapy step given before tumor-infiltrating lymphocyte (TIL) therapy. These answers explain what it involves, why it is used, and what patients and caregivers can expect.",
+    "groups": [
+      {
+        "title": "Understanding Lymphodepletion",
+        "items": [
+          {
+            "q": "What is lymphodepletion before TIL therapy?",
+            "a": "<p>Lymphodepletion is a short course of chemotherapy given a few days before tumor-infiltrating lymphocyte (TIL) therapy to temporarily lower the body's existing white blood cells. This creates space and biological conditions that may help the infused TILs expand and work more effectively. It is a preparatory step, not the treatment itself. The specific plan depends on cancer type, prior treatment, and overall health, and should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Why is lymphodepletion needed before TIL therapy?",
+            "a": "<p>Lymphodepletion is used to help the infused TILs survive, multiply, and reach the tumor more effectively. By temporarily reducing the patient's own immune cells, it may lower competition for growth signals and reduce cells that could suppress the therapy. This preparation is considered an important part of the TIL process in many protocols. Whether and how it is used depends on the specific protocol and the treating specialist's assessment.</p>"
+          },
+          {
+            "q": "Which chemotherapy drugs are used for lymphodepletion?",
+            "a": "<p>Lymphodepletion commonly uses cyclophosphamide and fludarabine, given over several days before the TIL infusion. These drugs are chosen for their ability to temporarily reduce circulating lymphocytes. The exact drugs, doses, and schedule vary between protocols and hospitals, and some studies use different regimens. The final choice depends on the patient's cancer type, kidney and marrow function, previous treatments, and overall condition, and is determined by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Process, Safety, and Recovery",
+        "items": [
+          {
+            "q": "How long does lymphodepletion take?",
+            "a": "<p>Lymphodepletion usually takes about five to seven days of chemotherapy given shortly before the TIL infusion. It is typically delivered in hospital so the patient can be monitored closely. The exact duration depends on the protocol used and how the patient tolerates treatment. After lymphodepletion, the expanded TILs are infused, often followed by supportive care. Timelines vary between centers and should be confirmed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of lymphodepletion?",
+            "a": "<p>Common side effects of lymphodepletion may include low blood counts, increased infection risk, fatigue, nausea, and hair loss. Because it lowers immune cells, patients are watched closely for fever and infection and may need supportive medicines or transfusions. Side effects vary from person to person and depend on the drugs and doses used. Any symptoms should be reported promptly, and management should always be guided by the treating medical team.</p>"
+          },
+          {
+            "q": "Is lymphodepletion safe for all patients?",
+            "a": "<p>Lymphodepletion is not suitable for every patient and requires careful specialist review. Because it temporarily weakens the immune system, patients need adequate organ function, blood counts, and general fitness to tolerate it safely. People with active infections or significant organ problems may not be eligible. Suitability depends on cancer type, stage, previous treatment, and overall health. Final eligibility and safety decisions should be made by a qualified oncology team after full assessment.</p>"
+          },
+          {
+            "q": "How do patients recover after lymphodepletion and TIL infusion?",
+            "a": "<p>Recovery after lymphodepletion and TIL infusion usually involves a hospital stay with close monitoring as blood counts and the immune system gradually rebuild. Patients may receive supportive care such as antibiotics, transfusions, or growth-support medicines while counts recover. Recovery time varies depending on the individual, the protocol, and any side effects. Follow-up care and infection precautions are important, and recovery should be guided closely by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Practical Questions",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with lymphodepletion before TIL therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions, including whether lymphodepletion and TIL therapy are appropriate, are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Access depends on medical review, hospital acceptance, and the patient's fitness for treatment.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

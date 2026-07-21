@@ -1,0 +1,64 @@
+{
+  "pillar": "Cancer Treatment in Germany",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-germany",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-germany",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in Germany",
+    "intro": "Germany is a leading destination for international cancer care, known for advanced technology, experienced oncology teams, and access to clinical trials. These answers explain treatment options, costs, and how patients from abroad can plan care.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in Germany",
+        "items": [
+          {
+            "q": "Why do international patients choose Germany for cancer treatment?",
+            "a": "<p>International patients often choose Germany for its advanced cancer technology, experienced multidisciplinary oncology teams, and strong regulatory standards. German centers offer proton therapy, robotic surgery, immunotherapy, targeted therapy, and access to clinical trials. Treatment is delivered through structured tumor boards where specialists review each case together. Suitability depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be confirmed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What types of cancer treatment are available in Germany?",
+            "a": "<p>German hospitals offer the full range of modern cancer treatments, including surgery, chemotherapy, radiation, immunotherapy, targeted therapy, and stem cell transplantation. Advanced options such as proton beam therapy, CAR T-cell therapy, and precision molecular diagnostics are available at selected centers. The right combination depends on cancer type, stage, biomarkers, previous treatment, and overall health. Final treatment plans are decided by the treating medical team after a full review of the patient's records.</p>"
+          },
+          {
+            "q": "Are German cancer hospitals internationally certified?",
+            "a": "<p>Many German cancer centers hold national and international quality certifications, including recognition as certified oncology centers by the German Cancer Society. These certifications reflect defined standards for case volume, multidisciplinary tumor boards, and outcome monitoring. Certification does not guarantee a specific result for any individual, but it indicates structured, quality-controlled care. Patients should confirm a center's specialization for their cancer type with the treating oncology team before travel.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Eligibility",
+        "items": [
+          {
+            "q": "How much does cancer treatment in Germany cost?",
+            "a": "<p>Cancer treatment costs in Germany vary widely depending on the diagnosis, stage, and treatment plan. Final cost depends on the hospital, tests, treatment protocol, length of stay, possible complications, and the treating team's advice. Simple treatments may cost a few thousand euros, while complex surgery, transplantation, or advanced therapies cost significantly more. Patients should request a written cost estimate after medical record review, as figures are not fixed.</p>"
+          },
+          {
+            "q": "How can international patients access cancer treatment in Germany?",
+            "a": "<p>International patients can access German cancer care by first sending their medical reports for review by a specialized center. Access depends on hospital acceptance, medical evaluation, visa approval, travel fitness, and the patient's condition. Hospitals typically issue an invitation and cost estimate before travel, which supports the medical visa application. No hospital can guarantee admission, visa approval, or treatment acceptance in advance, so early planning and complete documentation are important.</p>"
+          },
+          {
+            "q": "What medical reports are needed to start the process?",
+            "a": "<p>To start, patients usually need recent medical reports including pathology and biopsy results, imaging scans such as CT, MRI, or PET, blood tests, and a summary of previous treatments. Biomarker or genetic testing reports are helpful when available. Complete, translated documents allow German specialists to give an accurate opinion and cost estimate. The treating oncology team may request additional tests after arrival to confirm the diagnosis and finalize the treatment plan.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Clinical Trials and Practical Planning",
+        "items": [
+          {
+            "q": "Can international patients join cancer clinical trials in Germany?",
+            "a": "<p>International patients may be considered for cancer clinical trials in Germany, but enrollment is not guaranteed. Eligibility is decided only after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria based on cancer type, stage, biomarkers, and prior treatment. Participation may offer access to newer therapies but also carries uncertainty. Trial suitability and possible benefits should always be discussed with the qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer treatment in Germany?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This makes planning treatment abroad clearer and less stressful for patients and caregivers. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,68 @@
+{
+  "pillar": "Genomic Testing for Colorectal Cancer",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: genomic-testing-for-colorectal-cancer",
+  "route": "⚠ VERIFY: /insights/genomic-testing-for-colorectal-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Genomic Testing for Colorectal Cancer",
+    "intro": "Genomic testing analyzes the DNA of a colorectal tumor to guide treatment choices. These FAQs explain what the tests look for, who may benefit, and how international patients can access them.",
+    "groups": [
+      {
+        "title": "Understanding Genomic Testing",
+        "items": [
+          {
+            "q": "What is genomic testing for colorectal cancer?",
+            "a": "<p>Genomic testing for colorectal cancer examines the DNA and specific biomarkers inside a tumor to understand what drives its growth. Using next-generation sequencing (NGS) or targeted panels, it looks at genes and features such as KRAS, NRAS, BRAF, HER2, and microsatellite instability (MSI). The results help the oncology team decide whether targeted therapy or immunotherapy may be considered, alongside standard treatment. Final interpretation should always be made by a qualified specialist.</p>"
+          },
+          {
+            "q": "How is genomic testing different from a standard biopsy?",
+            "a": "<p>A standard biopsy confirms whether cancer is present and identifies its type under a microscope, while genomic testing goes further by analyzing the tumor's molecular and DNA-level features. Genomic testing is usually performed on the same tissue sample or, in some cases, on a blood sample (liquid biopsy). It identifies actionable mutations that may influence treatment. Both tests are complementary, and their use depends on your diagnosis and specialist advice.</p>"
+          },
+          {
+            "q": "Which biomarkers are tested in colorectal cancer?",
+            "a": "<p>Common biomarkers tested in colorectal cancer include KRAS, NRAS, and BRAF mutations, HER2 amplification, and microsatellite instability (MSI) or mismatch repair (MMR) status. Some panels also assess NTRK fusions and tumor mutational burden (TMB). These markers help predict how a tumor may respond to certain targeted drugs or immunotherapy. The specific biomarkers tested depend on cancer stage, available tissue, and the treating team's clinical judgment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Process",
+        "items": [
+          {
+            "q": "Who should consider genomic testing for colorectal cancer?",
+            "a": "<p>Genomic testing may be considered for patients with advanced, metastatic, or recurrent colorectal cancer, and increasingly for some earlier-stage cases. It may be suitable for selected patients whose treatment decisions depend on identifying targeted therapy or immunotherapy options. Eligibility depends on cancer type, stage, available tumor tissue, previous treatment, and overall health. Whether testing is appropriate should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the benefits of genomic testing?",
+            "a": "<p>The main benefit of genomic testing is helping match patients with treatments most likely to work for their specific tumor biology. It can identify candidates for targeted therapies or immunotherapy, help avoid drugs unlikely to help, and support eligibility screening for clinical trials. It may also reveal inherited risk in some cases. However, results do not guarantee a treatment response, and final decisions rest with the treating medical team.</p>"
+          },
+          {
+            "q": "How is the sample collected for genomic testing?",
+            "a": "<p>Genomic testing usually uses tumor tissue already collected during a biopsy or surgery, so a new procedure is often not needed. When tissue is limited or unavailable, a liquid biopsy using a blood sample may be considered to detect tumor DNA. The sample is sent to a specialized laboratory for sequencing, and results typically take one to three weeks. The best approach depends on your situation and specialist guidance.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does genomic testing for colorectal cancer cost?",
+            "a": "<p>The cost of genomic testing varies widely depending on the type of panel, whether a single gene or comprehensive sequencing is used, the laboratory, and the country. Broad NGS panels generally cost more than single-biomarker tests. Final pricing depends on the hospital, diagnosis, sample type, and laboratory chosen. Because estimates change, patients should confirm current costs with the treating center and consider testing as one part of overall care.</p>"
+          },
+          {
+            "q": "How can international patients access genomic testing?",
+            "a": "<p>International patients can access genomic testing by sharing existing tumor tissue or pathology blocks with a laboratory or hospital abroad, sometimes without traveling. Access depends on hospital acceptance, medical review, sample availability, and, where travel is involved, visa approval and travel fitness. Reports, imaging, and pathology are usually required for planning. Access and turnaround times are not guaranteed and should be confirmed with the receiving center.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with genomic testing for colorectal cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or testing laboratories, estimate possible costs, and coordinate second opinions, appointments, sample logistics, travel, visa, and follow-up support. Treatment and testing decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax provides coordination and guidance, not medical advice, and does not guarantee test results or treatment outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

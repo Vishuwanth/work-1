@@ -1,0 +1,64 @@
+{
+  "pillar": "Side Effects of Immunotherapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: side-effects-of-immunotherapy",
+  "route": "⚠ VERIFY: /insights/side-effects-of-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Side Effects of Immunotherapy",
+    "intro": "Immunotherapy can cause a distinct set of side effects because it works by activating the immune system. This FAQ explains common and serious reactions, how they are monitored, and what patients and caregivers should watch for.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy Side Effects",
+        "items": [
+          {
+            "q": "What are the common side effects of immunotherapy?",
+            "a": "<p>The most common side effects of immunotherapy include fatigue, skin rash, itching, diarrhea, nausea, joint pain, and flu-like symptoms such as fever or chills. These occur because the treatment stimulates the immune system, which can also affect healthy tissue. Side effects vary by drug type, cancer type, and individual health. Most are mild to moderate, but they should always be reported to the treating oncology team for timely evaluation.</p>"
+          },
+          {
+            "q": "Why does immunotherapy cause different side effects than chemotherapy?",
+            "a": "<p>Immunotherapy causes different side effects than chemotherapy because it activates the immune system rather than directly killing dividing cells. This immune activation can lead to inflammation in organs such as the skin, gut, lungs, liver, and glands, producing what doctors call immune-related adverse events. Chemotherapy more often causes hair loss and low blood counts. The pattern, timing, and management of immunotherapy side effects therefore differ and require specialist monitoring.</p>"
+          },
+          {
+            "q": "How soon do immunotherapy side effects appear?",
+            "a": "<p>Immunotherapy side effects can appear within days of the first dose or emerge weeks to months after treatment begins. The timing depends on the drug, dose, and the individual's immune response. Some reactions, such as skin rash or fatigue, often show up early, while thyroid, lung, or bowel inflammation may develop later. Because delayed reactions are possible, patients should report new symptoms even after treatment ends and stay under medical review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Serious Reactions and Monitoring",
+        "items": [
+          {
+            "q": "What are immune-related adverse events?",
+            "a": "<p>Immune-related adverse events are side effects that occur when immunotherapy causes the immune system to attack healthy organs. They can affect the skin, colon, lungs, liver, hormone-producing glands, kidneys, and nervous system. Symptoms range from mild rash or diarrhea to serious inflammation such as colitis, pneumonitis, or hepatitis. Early recognition is important, so any persistent or worsening symptom should be discussed promptly with a qualified oncology team for assessment.</p>"
+          },
+          {
+            "q": "Which immunotherapy side effects are considered serious or an emergency?",
+            "a": "<p>Serious immunotherapy side effects include severe or persistent diarrhea, shortness of breath, chest pain, severe abdominal pain, yellowing of the skin, confusion, severe weakness, or a widespread blistering rash. These may signal organ inflammation that needs urgent care. Patients experiencing such symptoms should seek immediate medical attention. Prompt treatment, often with corticosteroids, can help control the reaction, but decisions must always be guided by the treating medical team.</p>"
+          },
+          {
+            "q": "How are immunotherapy side effects monitored and managed?",
+            "a": "<p>Immunotherapy side effects are monitored through regular clinical reviews, blood tests, and checks of thyroid, liver, and kidney function before and during treatment. Management depends on severity and may include supportive care, temporarily pausing the drug, or using corticosteroids to reduce immune inflammation. Mild effects are often managed at home with guidance, while serious reactions may need hospital care. All management decisions should be made by the treating oncology team.</p>"
+          },
+          {
+            "q": "Can immunotherapy side effects be permanent?",
+            "a": "<p>Most immunotherapy side effects improve once the reaction is treated, but some can be long-lasting or permanent. Hormone-related effects, such as underactive thyroid or adrenal problems, may require ongoing hormone replacement. Rarely, inflammation of the lungs, joints, or nervous system can persist after treatment ends. The likelihood depends on the organ affected and how early the problem is managed, so continued follow-up with the specialist team remains important.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Support for Patients",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with side effects of immunotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to access experienced teams for monitoring and managing immunotherapy side effects. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

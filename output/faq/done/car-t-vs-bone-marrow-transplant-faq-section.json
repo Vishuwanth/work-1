@@ -1,0 +1,68 @@
+{
+  "pillar": "CAR-T vs Bone Marrow Transplant",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: car-t-vs-bone-marrow-transplant",
+  "route": "⚠ VERIFY: /insights/car-t-vs-bone-marrow-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About CAR-T vs Bone Marrow Transplant",
+    "intro": "CAR-T cell therapy and bone marrow transplant are both advanced options for blood cancers, but they work differently and suit different patients. These answers explain how they compare on process, safety, cost, and access.",
+    "groups": [
+      {
+        "title": "Understanding the Two Treatments",
+        "items": [
+          {
+            "q": "What is the difference between CAR-T cell therapy and a bone marrow transplant?",
+            "a": "<p>CAR-T cell therapy and bone marrow transplant are both advanced treatments for blood cancers, but they work in different ways. CAR-T reprograms a patient's own immune T-cells to recognize and attack cancer, while a bone marrow (stem cell) transplant replaces diseased marrow with healthy blood-forming stem cells. The right choice depends on cancer type, stage, previous treatment, and overall health, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CAR-T cell therapy work?",
+            "a": "<p>CAR-T cell therapy works by collecting a patient's own T-cells, genetically modifying them in a laboratory to recognize a cancer marker, then infusing them back to attack the disease. It is mainly used for certain leukemias, lymphomas, and multiple myeloma that have relapsed or not responded to earlier treatment. Eligibility depends on cancer type, target antigen, biomarkers, and overall health, and should be confirmed by a specialist team.</p>"
+          },
+          {
+            "q": "How does a bone marrow transplant work?",
+            "a": "<p>A bone marrow transplant works by replacing diseased or damaged marrow with healthy blood-forming stem cells, taken either from the patient (autologous) or a matched donor (allogeneic). High-dose chemotherapy, sometimes with radiation, is given first to clear the marrow. It may be considered for various leukemias, lymphomas, myeloma, and some non-cancer conditions. Donor matching, age, and overall health strongly influence suitability, which the treating team assesses.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Which is better for blood cancer: CAR-T or a bone marrow transplant?",
+            "a": "<p>Neither CAR-T nor bone marrow transplant is universally better, as each suits different situations. CAR-T may be considered for selected relapsed or refractory blood cancers without needing a donor, while a transplant can offer a potentially curative option for certain cancers when a suitable donor is available. The decision depends on cancer type, stage, biomarker profile, prior treatment, and overall health, and should be made by the treating oncology team.</p>"
+          },
+          {
+            "q": "Who is eligible for CAR-T cell therapy instead of a transplant?",
+            "a": "<p>CAR-T cell therapy may be suitable for selected patients whose blood cancer has relapsed or not responded after previous treatment, or who lack a matched transplant donor. It is currently approved for specific B-cell leukemias, lymphomas, and multiple myeloma. Factors such as cancer type, target antigen, organ function, and overall fitness are considered. Final eligibility is decided by the treating oncology team after reviewing reports and biomarker testing.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T therapy compared to a transplant?",
+            "a": "<p>CAR-T therapy and bone marrow transplant carry different risks. CAR-T can cause cytokine release syndrome and neurological effects, usually in the weeks after infusion. A transplant, especially from a donor, carries risks of graft-versus-host disease, infections, and complications from high-dose chemotherapy. Both require close monitoring in specialized centers. Side effect severity varies by patient, and risks should be discussed in detail with the treating medical team before deciding.</p>"
+          },
+          {
+            "q": "Can CAR-T be used after a failed bone marrow transplant?",
+            "a": "<p>CAR-T cell therapy may be considered for some patients whose blood cancer has returned after a bone marrow transplant, depending on the cancer type and target antigen. It offers an option that does not require a new donor. However, prior transplant, organ function, and disease status all affect suitability. Whether CAR-T is appropriate after a failed transplant should be assessed individually by a qualified oncology and transplant team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "How much does CAR-T cost compared to a bone marrow transplant?",
+            "a": "<p>The cost of CAR-T cell therapy is generally higher than a bone marrow transplant, but both vary widely by country, hospital, and individual case. Final costs depend on the diagnosis, product used, length of stay, complications, supportive care, and pre- and post-treatment testing. Published figures are estimates only and are not guaranteed. Patients should request a detailed, case-specific estimate from the treating hospital before planning treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients choosing between CAR-T and a bone marrow transplant?",
+            "a": "<p>CancerFax helps patients weighing CAR-T versus a bone marrow transplant by organizing medical reports, identifying relevant specialists or treatment centers, estimating possible costs, and coordinating second opinions, appointments, travel, visa, and follow-up support. CancerFax does not provide treatment itself. Final treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,114 @@
+{
+  "pillar": "How to read your pathology report: a plain-language guide for patients",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: how-to-read-your-pathology-report-a-plain-language-guide-for-patients",
+  "route": "⚠ VERIFY: /<section>/how-to-read-your-pathology-report-a-plain-language-guide-for-patients",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Reading Your Pathology Report",
+    "intro": "A pathology report is one of the most important documents in your cancer journey, yet it is often filled with unfamiliar terms. These plain-language answers explain what the report contains and how to make sense of it with your care team.",
+    "groups": [
+      {
+        "title": "Understanding Your Pathology Report",
+        "items": [
+          {
+            "q": "What is a pathology report?",
+            "a": "<p>A pathology report is a medical document written by a pathologist who examines your tissue, cells, or fluid under a microscope. It describes whether cancer is present, the type of cancer, and important features of the sample. The report guides your oncology team in planning treatment. It usually follows a biopsy or surgery, and its findings should always be interpreted by your treating doctors alongside your imaging and clinical history.</p>"
+          },
+          {
+            "q": "Why is a pathology report important?",
+            "a": "<p>A pathology report is important because it confirms the diagnosis and shapes nearly every treatment decision. It identifies the cancer type, how aggressive it appears, and features such as grade, margins, and biomarkers. Doctors use these details to decide between surgery, chemotherapy, radiation, targeted therapy, or immunotherapy. Because the report is highly technical, its meaning for your specific situation should be discussed with a qualified oncology team rather than interpreted alone.</p>"
+          },
+          {
+            "q": "What information does a pathology report contain?",
+            "a": "<p>A pathology report typically contains your details, the specimen type, the diagnosis, and a microscopic description of the tissue. It often lists the tumor type, grade, size, margins, lymph node status, and any biomarker or molecular test results. Some reports include staging information. The exact contents depend on the cancer type and tests ordered, and any unclear terms should be explained by your treating medical team.</p>"
+          },
+          {
+            "q": "What is the difference between a biopsy report and a pathology report?",
+            "a": "<p>A biopsy report is a type of pathology report based on a small tissue sample taken to check for disease. A pathology report is the broader term covering any examined specimen, including biopsies, surgical resections, and cytology samples. After surgery, a more detailed pathology report may update or expand on earlier biopsy findings. Both are prepared by pathologists, and differences between them should be reviewed with your oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Reading the Report: Grade, Margins, Stage, and Timing",
+        "items": [
+          {
+            "q": "What does tumor grade mean on a pathology report?",
+            "a": "<p>Tumor grade describes how abnormal the cancer cells look compared with normal cells under the microscope. Low-grade tumors usually resemble normal tissue and tend to grow more slowly, while high-grade tumors look more abnormal and may grow faster. Grade is different from stage and is one factor among many. Its meaning depends on the cancer type and should be interpreted by your treating oncology team.</p>"
+          },
+          {
+            "q": "What do tumor margins mean in a pathology report?",
+            "a": "<p>Margins refer to the edge of tissue removed during surgery and whether cancer cells reach that edge. A \"negative\" or \"clear\" margin means no cancer cells were seen at the border, while a \"positive\" margin means cancer cells extend to the edge. Margin status can influence whether further treatment is considered. The clinical significance varies by cancer type and should be discussed with your surgical and oncology team.</p>"
+          },
+          {
+            "q": "Does the pathology report include the cancer stage?",
+            "a": "<p>A pathology report may include staging information, but not always in full. Pathologic staging uses features such as tumor size, depth, and lymph node involvement seen in the examined tissue. Complete staging often combines pathology with imaging and clinical findings. Because staging systems differ by cancer type, the final stage and what it means for treatment should be confirmed by your qualified oncology team.</p>"
+          },
+          {
+            "q": "How long does it take to get a pathology report?",
+            "a": "<p>A pathology report usually takes a few days to about two weeks, depending on the tests required. Simple biopsies may be ready within several days, while cases needing special stains, molecular testing, or expert review can take longer. Timelines vary between hospitals and laboratories. If your report is delayed, your treating team can explain the reason, and complex testing often means more thorough information for planning care.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Second Opinions",
+        "items": [
+          {
+            "q": "How much does a pathology test or report cost?",
+            "a": "<p>The cost of pathology testing varies widely and cannot be quoted as a fixed price. It depends on the sample type, the number of stains, and whether molecular or genetic testing is added. Basic biopsy analysis is generally less costly than advanced biomarker panels. Final charges also depend on the hospital, country, and insurance. Your treating center can provide an estimate based on the specific tests recommended for you.</p>"
+          },
+          {
+            "q": "Can I get a second opinion on my pathology report?",
+            "a": "<p>Yes, a second opinion on a pathology report is possible and sometimes recommended, especially for rare or unclear diagnoses. Another pathologist can review the same slides or tissue blocks to confirm the findings. This may support or refine the original diagnosis and treatment plan. Availability depends on the hospital and whether slides can be shared. A second review should be arranged through qualified pathology and oncology specialists.</p>"
+          },
+          {
+            "q": "Are pathology reports the same in every country?",
+            "a": "<p>Pathology reports follow broadly similar principles worldwide but can differ in format, terminology, and language. Most reports describe the diagnosis, grade, margins, and relevant biomarkers, though staging systems and reporting styles may vary. When seeking care abroad, hospitals often request the original slides or tissue blocks for review rather than the report alone. Any differences in interpretation should be clarified with the treating oncology team at each center.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Biomarkers, Molecular Testing, and Clinical Trials",
+        "items": [
+          {
+            "q": "What are biomarkers on a pathology report?",
+            "a": "<p>Biomarkers are measurable features of the cancer that help guide treatment, and they often appear on a pathology report. Examples include hormone receptors in breast cancer or specific proteins that indicate whether targeted therapy or immunotherapy may be considered. Biomarker results depend on the cancer type and testing method. Their meaning for your treatment options should be reviewed carefully by a qualified oncology team before any decisions are made.</p>"
+          },
+          {
+            "q": "What is immunohistochemistry (IHC) on my report?",
+            "a": "<p>Immunohistochemistry, or IHC, is a laboratory technique that uses antibodies to detect specific proteins in cancer cells. On a pathology report, IHC results help confirm the cancer type, its origin, and features such as hormone receptors or certain markers. These results can influence treatment choices, including targeted or hormone-based therapies. IHC is one piece of the diagnosis, and its interpretation should be combined with other findings by your treating team.</p>"
+          },
+          {
+            "q": "What is molecular or genetic testing in a pathology report?",
+            "a": "<p>Molecular or genetic testing examines the DNA or genes of cancer cells to find specific mutations or alterations. On a pathology report, these results may reveal changes that make certain targeted therapies or clinical trials worth discussing. Testing depends on the cancer type, available tissue, and laboratory capability. Because results can be complex, their relevance to your treatment options should be interpreted by a qualified oncology or molecular specialist.</p>"
+          },
+          {
+            "q": "How does my pathology report affect clinical trial eligibility?",
+            "a": "<p>Your pathology report can strongly influence clinical trial eligibility because many trials require a specific cancer type, grade, or biomarker. Details such as mutation status or protein expression may determine whether a trial is relevant. However, eligibility is decided only after full medical record review and investigator assessment, and trials have strict inclusion and exclusion criteria. Enrollment and benefit are never guaranteed and depend on the trial team's evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for Patients and International Care",
+        "items": [
+          {
+            "q": "What should I do if I don't understand my pathology report?",
+            "a": "<p>If you don't understand your pathology report, ask your treating doctor to explain it in plain language. It is completely normal to find the terminology confusing, and your oncology team can clarify the diagnosis, grade, margins, and next steps. Bringing a written list of questions can help. Avoid drawing conclusions from online searches alone, since the meaning of each finding depends on your full medical picture and specialist review.</p>"
+          },
+          {
+            "q": "What reports should I share when seeking treatment abroad?",
+            "a": "<p>When seeking treatment abroad, you should generally share your full pathology report, imaging scans and radiology reports, discharge summaries, and details of previous treatments. Many centers also request the original pathology slides or tissue blocks for independent review. Access to treatment abroad depends on hospital acceptance, medical review, visa approval, and travel fitness. Organizing complete and clear records helps specialists give accurate guidance, though outcomes can never be guaranteed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with reading a pathology report?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help gather pathology slides and records needed for expert review. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and no outcome or access to care is ever guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

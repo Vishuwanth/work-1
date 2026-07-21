@@ -1,0 +1,114 @@
+{
+  "pillar": "Radiation Therapy for Breast Cancer",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: radiation-therapy-for-breast-cancer",
+  "route": "⚠ VERIFY: /<section>/radiation-therapy-for-breast-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Radiation Therapy for Breast Cancer",
+    "intro": "Radiation therapy is a common part of breast cancer treatment, most often used after surgery to lower the risk of the cancer returning. These answers explain how it works, who may need it, what it costs, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Radiation Therapy for Breast Cancer",
+        "items": [
+          {
+            "q": "What is radiation therapy for breast cancer?",
+            "a": "<p>Radiation therapy for breast cancer uses high-energy X-rays or particles to destroy cancer cells and lower the risk of the disease returning. It is most often given after breast-conserving surgery (lumpectomy) and sometimes after mastectomy. Treatment targets the breast, chest wall, or nearby lymph nodes depending on the cancer's stage and features. Whether radiation is needed depends on your pathology, surgery type, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does radiation therapy work for breast cancer?",
+            "a": "<p>Radiation therapy works by damaging the DNA of cancer cells so they cannot grow or divide, causing them to die over time. Because cancer cells repair damage less effectively than healthy cells, carefully planned doses target tumor areas while sparing normal tissue. For breast cancer, radiation usually follows surgery to treat any microscopic cells left behind. The exact dose and area depend on your diagnosis, stage, and treating team's assessment.</p>"
+          },
+          {
+            "q": "When is radiation therapy used in breast cancer treatment?",
+            "a": "<p>Radiation therapy is used in breast cancer mainly after surgery to reduce the chance of the cancer coming back in the breast, chest wall, or lymph nodes. It may be considered after lumpectomy, after certain mastectomies, or occasionally to relieve symptoms in advanced disease. It is not required for every patient. The decision depends on tumor size, margins, lymph node status, and biomarker profile, and should be discussed with your oncology team.</p>"
+          },
+          {
+            "q": "What is the difference between external beam radiation and brachytherapy for breast cancer?",
+            "a": "<p>External beam radiation delivers radiation from a machine outside the body and is the most common approach for breast cancer. Brachytherapy places a radiation source temporarily inside or next to the tumor area, sometimes used for partial-breast treatment in selected patients. Each method has different schedules, benefits, and suitability. Which option may be appropriate depends on tumor size, location, margins, and overall health, and should be reviewed by a radiation oncologist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process & Safety",
+        "items": [
+          {
+            "q": "Who needs radiation therapy after breast cancer surgery?",
+            "a": "<p>Radiation after breast-conserving surgery is recommended for most patients to lower the risk of cancer returning in the remaining breast tissue. It may also be advised after mastectomy when tumors are large, lymph nodes are involved, or margins are close. Not every patient requires radiation, and some low-risk older patients may be offered alternatives. Eligibility depends on pathology, stage, and specialist review by the treating oncology team.</p>"
+          },
+          {
+            "q": "Is radiation therapy required after a mastectomy?",
+            "a": "<p>Radiation after mastectomy is not always required, but it may be recommended when the cancer is larger, involves several lymph nodes, or has close surgical margins. It can lower the risk of the cancer returning on the chest wall. For smaller, node-negative cancers, radiation is often not needed. The decision depends on tumor size, lymph node status, margins, and biomarker profile, and should be made with your treating medical team.</p>"
+          },
+          {
+            "q": "How long does a course of breast radiation therapy take?",
+            "a": "<p>A course of breast radiation therapy typically lasts from about one to six weeks, depending on the technique used. Traditional schedules gave daily treatments over five to six weeks, while newer hypofractionated regimens deliver fewer, slightly stronger sessions over three to four weeks. Some selected patients may qualify for even shorter courses. The exact length depends on your cancer type, treatment plan, and the recommendations of your radiation oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of radiation therapy for breast cancer?",
+            "a": "<p>Common side effects of breast radiation include skin redness, irritation, dryness, and tiredness that usually build up over the treatment course. Some patients notice breast swelling, tenderness, or changes in skin color. Most short-term effects ease within a few weeks after treatment ends. Less common long-term effects can involve firmness or changes in breast texture. Side effects vary by person and plan, and should be monitored by your care team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access & Countries",
+        "items": [
+          {
+            "q": "How much does radiation therapy for breast cancer cost?",
+            "a": "<p>The cost of radiation therapy for breast cancer varies widely depending on the country, hospital, technique, and number of sessions. Advanced methods such as IMRT or proton therapy generally cost more than standard external beam radiation. Final costs also depend on planning scans, hospital stay, and additional treatments. Estimates should be confirmed directly with the treating hospital, as pricing depends on your diagnosis, treatment protocol, and individual care needs.</p>"
+          },
+          {
+            "q": "Is radiation therapy for breast cancer available in India?",
+            "a": "<p>Radiation therapy for breast cancer is widely available in India at many cancer centers offering external beam radiation, IMRT, and other advanced techniques. India is often chosen by international patients for its experienced radiation oncologists and comparatively lower treatment costs. Availability of specific technologies varies by hospital. Whether a particular technique is suitable depends on your diagnosis, stage, and specialist review, and access should be confirmed with the treating center.</p>"
+          },
+          {
+            "q": "Which countries offer advanced radiation therapy for breast cancer?",
+            "a": "<p>Advanced radiation therapy for breast cancer is offered in many countries, including India, the United States, Germany, Turkey, Singapore, and China. Techniques such as IMRT, image-guided radiation, and proton therapy are available at select specialized centers. Availability, cost, and waiting times differ between countries and hospitals. The most appropriate option depends on your cancer type, stage, and overall health, and should be discussed with a qualified radiation oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options & Clinical Trials",
+        "items": [
+          {
+            "q": "What is hypofractionated radiation therapy for breast cancer?",
+            "a": "<p>Hypofractionated radiation therapy delivers slightly higher doses over fewer sessions, usually completing treatment in about three to four weeks instead of five to six. Research suggests it can be as effective as traditional schedules for many early breast cancers, with comparable side effects and greater convenience. It may be suitable for selected patients based on tumor and treatment factors. Your radiation oncologist can advise whether this approach fits your situation.</p>"
+          },
+          {
+            "q": "Are there clinical trials for radiation therapy in breast cancer?",
+            "a": "<p>Yes, clinical trials are studying newer radiation techniques, shorter schedules, and ways to reduce side effects in breast cancer. Trials may explore partial-breast radiation, dose optimization, or combining radiation with other therapies. Participation does not guarantee benefit, and eligibility is decided after medical record review and investigator assessment. Trials often have strict inclusion and exclusion criteria. Your oncology team can help identify whether any relevant trials may be appropriate for you.</p>"
+          },
+          {
+            "q": "What newer radiation techniques reduce heart exposure in breast cancer?",
+            "a": "<p>Newer techniques such as deep inspiration breath-hold, prone positioning, and image-guided radiation help reduce radiation exposure to the heart, especially for left-sided breast cancer. These methods move or shield the heart during treatment to lower long-term cardiac risk. Availability depends on the hospital's technology and expertise. Whether these approaches are suitable depends on your anatomy, tumor location, and treatment plan, and should be discussed with your radiation oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed to plan breast cancer radiation abroad?",
+            "a": "<p>To plan breast cancer radiation abroad, hospitals usually need your pathology and biopsy reports, surgery details, recent imaging such as mammograms or CT scans, and prior treatment records. Biomarker and hormone-receptor results are also helpful. Complete, up-to-date reports allow the radiation oncology team to give a more accurate plan and estimate. Requirements vary by hospital, and the treating center will confirm exactly which documents are needed for your case.</p>"
+          },
+          {
+            "q": "Can international patients receive breast cancer radiation therapy overseas?",
+            "a": "<p>International patients can receive breast cancer radiation therapy overseas, though access depends on hospital acceptance, medical review, visa approval, and fitness to travel. Because radiation is often given daily over several weeks, patients usually need to plan an extended stay near the treatment center. Follow-up care coordination is also important. Admission and cost are never guaranteed and depend on your diagnosis, stage, and the treating hospital's assessment of your case.</p>"
+          },
+          {
+            "q": "Can radiation therapy be combined with chemotherapy or hormone therapy?",
+            "a": "<p>Radiation therapy is often combined with other breast cancer treatments, but the sequence matters. It is usually given after surgery and after chemotherapy, while hormone therapy or certain targeted drugs may continue alongside radiation. Combining treatments aims to lower the risk of recurrence. The right timing and combination depend on your cancer type, stage, biomarker profile, and overall health, and should be decided by your treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with radiation therapy for breast cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant radiation oncology specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

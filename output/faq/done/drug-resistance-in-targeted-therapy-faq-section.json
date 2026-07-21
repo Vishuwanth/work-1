@@ -1,0 +1,64 @@
+{
+  "pillar": "Drug Resistance in Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: drug-resistance-in-targeted-therapy",
+  "route": "⚠ VERIFY: /insights/drug-resistance-in-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Drug Resistance in Targeted Therapy",
+    "intro": "Targeted therapy can control many cancers effectively, but tumors sometimes stop responding over time. These FAQs explain why drug resistance happens, how it is detected, and what options may follow.",
+    "groups": [
+      {
+        "title": "Understanding Drug Resistance",
+        "items": [
+          {
+            "q": "What is drug resistance in targeted therapy?",
+            "a": "<p>Drug resistance in targeted therapy is when a cancer stops responding to a drug that once controlled it. Targeted therapies work by blocking specific molecules or mutations that help cancer grow, but tumor cells can adapt and continue growing despite treatment. Resistance may appear early or after months of benefit. The pattern depends on cancer type, the targeted mutation, and the individual tumor, and should be assessed by the treating oncology team.</p>"
+          },
+          {
+            "q": "Why do targeted therapy drugs stop working over time?",
+            "a": "<p>Targeted therapy drugs often stop working because cancer cells develop new changes that bypass the blocked pathway. Tumors are made of many cell types, and resistant cells can survive treatment and multiply, while new mutations may switch on alternative growth signals. This is a common challenge with targeted drugs rather than a treatment failure. The timing varies by cancer type and biomarker, and any change in response should be reviewed by a qualified specialist.</p>"
+          },
+          {
+            "q": "What is the difference between primary and acquired resistance?",
+            "a": "<p>Primary resistance means the cancer never responds to a targeted drug, while acquired resistance means it responds first and later stops working. Primary resistance may reflect a missing target, an additional mutation, or tumor features that limit the drug's effect. Acquired resistance develops during treatment as cancer cells adapt. Distinguishing between the two usually requires biomarker testing and specialist review, and treatment planning should always be guided by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Causes and Detection",
+        "items": [
+          {
+            "q": "What causes acquired resistance to targeted therapy?",
+            "a": "<p>Acquired resistance is caused by molecular changes that let cancer cells escape the drug's effect. Common mechanisms include new mutations in the targeted gene, activation of alternative signaling pathways, and shifts in the tumor's cell type. For example, some lung cancers develop secondary EGFR mutations after treatment. The exact cause differs for each patient and cancer type, and identifying it usually depends on repeat biopsy or molecular testing interpreted by a specialist team.</p>"
+          },
+          {
+            "q": "How is drug resistance detected?",
+            "a": "<p>Drug resistance is typically detected through imaging scans, symptom changes, and molecular testing. Scans may show tumor growth despite ongoing treatment, prompting further investigation. A tissue biopsy or a blood-based liquid biopsy can then identify new mutations driving the resistance. These tests help doctors understand why the drug stopped working and what options may follow. Test availability and timing depend on the hospital, cancer type, and specialist assessment of the individual case.</p>"
+          },
+          {
+            "q": "Can drug resistance be prevented or delayed?",
+            "a": "<p>Drug resistance cannot be reliably prevented, but researchers are studying ways to delay it. Approaches under investigation include combining targeted drugs, using next-generation agents designed against known resistance mutations, and adjusting treatment based on ongoing molecular monitoring. These strategies may be considered for selected patients but are not suitable for everyone. Whether any approach is appropriate depends on cancer type, biomarker profile, and overall health, and should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Options After Resistance",
+        "items": [
+          {
+            "q": "What treatment options are available after resistance develops?",
+            "a": "<p>After resistance develops, options may include switching to a newer targeted drug, changing to chemotherapy or immunotherapy, or exploring a clinical trial. The best choice depends on the resistance mechanism, cancer type, previous treatments, and the patient's overall condition. Molecular testing often guides this decision by revealing new targets. These are general possibilities, not guaranteed pathways, and final treatment decisions should always be made by the treating medical team after full review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with drug resistance in targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For drug resistance, this can include arranging repeat molecular testing review and connecting patients with clinical trial options where relevant. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

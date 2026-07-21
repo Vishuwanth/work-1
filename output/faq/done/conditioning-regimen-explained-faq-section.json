@@ -1,0 +1,68 @@
+{
+  "pillar": "Conditioning Regimen Explained",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: conditioning-regimen-explained",
+  "route": "⚠ VERIFY: /insights/conditioning-regimen-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Conditioning Regimens",
+    "intro": "A conditioning regimen is the chemotherapy, and sometimes radiation, given before a stem cell transplant to prepare the body. These answers explain how conditioning works, its intensity levels, side effects, and what it means for patients.",
+    "groups": [
+      {
+        "title": "Understanding Conditioning Regimens",
+        "items": [
+          {
+            "q": "What is a conditioning regimen in a stem cell transplant?",
+            "a": "<p>A conditioning regimen is the high-dose chemotherapy, and sometimes total body irradiation, given before a stem cell transplant. It serves to destroy diseased or cancerous cells, make room in the bone marrow for new stem cells, and suppress the immune system so donor cells are less likely to be rejected. The specific drugs and doses depend on the disease, transplant type, and the patient's overall health, and are chosen by the transplant team.</p>"
+          },
+          {
+            "q": "Why is a conditioning regimen needed before a transplant?",
+            "a": "<p>A conditioning regimen is needed to clear space in the bone marrow and reduce the risk of the transplant failing. It aims to eliminate remaining cancer or abnormal cells, weaken the immune system so donor stem cells can engraft, and lower the chance of rejection. Without conditioning, new stem cells may not take hold. The intensity is tailored to each patient's diagnosis, prior treatment, and fitness after specialist review.</p>"
+          },
+          {
+            "q": "How does a conditioning regimen work?",
+            "a": "<p>A conditioning regimen works by using intensive chemotherapy, and in some cases radiation, over several days before stem cells are infused. These treatments target rapidly dividing cells, including cancer cells and existing bone marrow, creating room for the transplanted stem cells to grow. In allogeneic transplants, it also suppresses the immune system to help donor cells engraft. The timing, drugs, and dosing are carefully planned and monitored by the transplant team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Types, Intensity, and Safety",
+        "items": [
+          {
+            "q": "What are the different types of conditioning regimens?",
+            "a": "<p>Conditioning regimens are broadly grouped into myeloablative, reduced-intensity, and non-myeloablative types. Myeloablative regimens use high doses to fully clear the bone marrow and are often used in younger, fitter patients. Reduced-intensity and non-myeloablative regimens use lower doses and rely more on the donor immune effect, making them suitable for older patients or those with other health conditions. The choice depends on diagnosis, age, and overall health after specialist assessment.</p>"
+          },
+          {
+            "q": "What is the difference between myeloablative and reduced-intensity conditioning?",
+            "a": "<p>Myeloablative conditioning uses high-dose chemotherapy or radiation to completely destroy the bone marrow, while reduced-intensity conditioning uses lower doses that partly suppress it. Myeloablative regimens may offer stronger disease control but carry more short-term toxicity, so they are generally considered for younger, fitter patients. Reduced-intensity regimens are gentler and may be suitable for older patients or those with other conditions. The treating team selects the approach based on individual risk and benefit.</p>"
+          },
+          {
+            "q": "What are the side effects of a conditioning regimen?",
+            "a": "<p>Common side effects of a conditioning regimen include nausea, mouth sores, hair loss, fatigue, low blood counts, and increased infection risk. Because the immune system is suppressed, patients are closely monitored, often in a protected environment. More serious complications can affect the liver, lungs, or fertility, and radiation may add further effects. Side effects vary by regimen intensity and individual health, and are managed by the transplant care team throughout recovery.</p>"
+          },
+          {
+            "q": "Is a conditioning regimen suitable for all transplant patients?",
+            "a": "<p>A conditioning regimen is not identical for every patient and its intensity must be individualized. Suitability depends on the disease type, transplant type, age, organ function, prior treatments, and overall fitness. Some patients tolerate high-dose myeloablative conditioning, while others are better suited to reduced-intensity approaches. Certain patients may face higher risks that require careful evaluation. Final decisions about whether and which conditioning to use are made by the qualified transplant team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for Patients",
+        "items": [
+          {
+            "q": "How long does a conditioning regimen take?",
+            "a": "<p>A conditioning regimen usually takes several days, commonly around four to seven days before the stem cell infusion. The exact schedule depends on the drugs used, whether radiation is included, and the regimen's intensity. Patients are typically admitted to hospital during this period for close monitoring and supportive care. After conditioning, stem cells are infused, followed by a recovery and engraftment phase. Your transplant team will explain the specific timeline for your plan.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with conditioning regimens and stem cell transplants?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant specialists or centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Decisions about the conditioning regimen and transplant are always made by the qualified oncology and transplant team after reviewing the patient's diagnosis, disease stage, prior treatment, organ function, and overall health. This support is intended to guide patients through the process, not to replace medical advice.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,118 @@
+{
+  "pillar": "Pembrolizumab for Lung Cancer: A Patient Guide",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: pembrolizumab-for-lung-cancer-a-patient-guide",
+  "route": "⚠ VERIFY: /<section>/pembrolizumab-for-lung-cancer-a-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Pembrolizumab for Lung Cancer",
+    "intro": "These questions cover how pembrolizumab works in lung cancer, who may be eligible, its benefits and risks, cost and access, and practical points for international patients considering treatment.",
+    "groups": [
+      {
+        "title": "Understanding Pembrolizumab for Lung Cancer",
+        "items": [
+          {
+            "q": "What is pembrolizumab and how is it used in lung cancer?",
+            "a": "<p>Pembrolizumab is an immunotherapy drug that helps the immune system recognize and attack lung cancer cells. It is a monoclonal antibody that blocks the PD-1 pathway, which some tumors use to hide from immune cells. In lung cancer, it may be used alone or combined with chemotherapy, mainly for non-small cell lung cancer. Its use depends on cancer type, stage, biomarker results, and specialist review.</p>"
+          },
+          {
+            "q": "How does pembrolizumab work against lung cancer cells?",
+            "a": "<p>Pembrolizumab works by releasing a natural brake on the immune system so it can target cancer cells. Tumors often display a protein called PD-L1 that switches off nearby immune cells through the PD-1 receptor. By blocking this connection, pembrolizumab allows T-cells to remain active against the tumor. Because it does not attack cancer directly, response varies between patients and is influenced by biomarkers and overall health.</p>"
+          },
+          {
+            "q": "What types of lung cancer can be treated with pembrolizumab?",
+            "a": "<p>Pembrolizumab is used mainly for non-small cell lung cancer (NSCLC), which is the most common form of lung cancer. It may be considered for certain advanced, metastatic, or earlier-stage NSCLC cases, and in some situations for small cell lung cancer under specialist guidance. Suitability depends on tumor stage, PD-L1 levels, absence of certain gene mutations, and a full assessment by the treating oncology team.</p>"
+          },
+          {
+            "q": "What is PD-L1 testing and why does it matter for pembrolizumab?",
+            "a": "<p>PD-L1 testing measures how much of the PD-L1 protein a lung tumor produces, and it helps predict who may benefit from pembrolizumab. The result is usually reported as a percentage called the Tumor Proportion Score. Higher PD-L1 levels often suggest a greater chance of response, especially when pembrolizumab is used alone. However, treatment decisions also consider stage, gene mutations, and the patient's overall condition.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for pembrolizumab in lung cancer?",
+            "a": "<p>Eligibility for pembrolizumab depends on cancer type, stage, PD-L1 expression, gene mutation status, and overall health. It may be suitable for selected patients with non-small cell lung cancer, particularly when certain targetable mutations such as EGFR or ALK are absent. Patients with active autoimmune conditions may need extra caution. Final eligibility should be confirmed by a qualified oncology team after reviewing reports, imaging, and biomarker results.</p>"
+          },
+          {
+            "q": "How is pembrolizumab given to lung cancer patients?",
+            "a": "<p>Pembrolizumab is given as an intravenous infusion, usually every three or six weeks in a hospital or day-care setting. Each infusion typically takes about 30 minutes, and treatment may continue for up to two years or as advised by the oncology team. It may be used alone or alongside chemotherapy. The exact schedule and duration depend on the treatment plan, response, and how well the patient tolerates it.</p>"
+          },
+          {
+            "q": "What are the benefits of pembrolizumab for lung cancer?",
+            "a": "<p>Pembrolizumab may help some lung cancer patients live longer and experience durable disease control compared with chemotherapy alone. For selected patients with high PD-L1 levels, it can offer meaningful responses with a different side-effect profile than traditional chemotherapy. Benefits vary widely between individuals and are not guaranteed. The likely benefit for any patient should be discussed with the treating medical team based on their specific situation.</p>"
+          },
+          {
+            "q": "What are the side effects or risks of pembrolizumab?",
+            "a": "<p>Pembrolizumab can cause immune-related side effects because it activates the immune system, which may sometimes affect healthy organs. Common effects include fatigue, skin rash, and thyroid changes, while less common but serious effects can involve the lungs, liver, intestines, or hormone glands. Most side effects are manageable when detected early. Patients should report new symptoms promptly, and monitoring should always be guided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Is pembrolizumab suitable for all lung cancer patients?",
+            "a": "<p>No, pembrolizumab is not suitable for every lung cancer patient. It may be less effective for tumors driven by certain mutations such as EGFR or ALK, and it may not be recommended for patients with significant autoimmune disease or those needing high-dose immune-suppressing medicines. Suitability depends on cancer type, biomarkers, previous treatment, and overall health, and should be decided by a qualified oncology specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does pembrolizumab treatment for lung cancer cost?",
+            "a": "<p>The cost of pembrolizumab varies widely depending on country, hospital, dose, number of cycles, and whether it is combined with chemotherapy. Because treatment can continue for many months, total costs can be significant. Final cost also depends on diagnosis, stage, supportive tests, and length of care. Patients should request a detailed estimate from the treating hospital, as prices are not fixed and cannot be guaranteed in advance.</p>"
+          },
+          {
+            "q": "Is pembrolizumab available in India?",
+            "a": "<p>Pembrolizumab is available in India at many major cancer hospitals and is used for selected lung cancer patients. Both branded and biosimilar versions may be offered, which can affect the overall cost. Availability, dosing, and treatment planning depend on the specific hospital and the patient's clinical situation. Actual access and pricing should be confirmed directly with the treating center, as they vary between hospitals and over time.</p>"
+          },
+          {
+            "q": "Which countries offer pembrolizumab for lung cancer?",
+            "a": "<p>Pembrolizumab is approved and available in many countries, including India, the United States, the United Kingdom, several European nations, and parts of Asia. It is used at established cancer centers with immunotherapy experience. Availability, approved indications, and cost differ between countries and hospitals. Patients considering treatment abroad should confirm current availability, eligibility, and estimated costs directly with the chosen center before making any travel or treatment plans.</p>"
+          },
+          {
+            "q": "How can international patients access pembrolizumab treatment?",
+            "a": "<p>International patients can access pembrolizumab by selecting a cancer center that offers immunotherapy and completing a medical review of their reports and biomarkers. Access depends on hospital acceptance, medical assessment, visa approval, and fitness to travel. Patients typically share pathology, imaging, and PD-L1 results for evaluation before an estimate is provided. No hospital admission, visa, or treatment acceptance can be guaranteed until the review and formal approval are complete.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Can pembrolizumab be combined with chemotherapy for lung cancer?",
+            "a": "<p>Yes, pembrolizumab is often combined with chemotherapy for certain non-small cell lung cancers, particularly when PD-L1 levels are low or additional disease control is needed. This combination aims to improve response by pairing immune activation with direct cancer-cell killing. The approach depends on tumor type, biomarkers, and overall health, and may carry combined side effects. The final regimen should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Are there clinical trials involving pembrolizumab for lung cancer?",
+            "a": "<p>Yes, clinical trials continue to study pembrolizumab in lung cancer, including new combinations, earlier-stage use, and different treatment sequences. Trials may offer access to emerging approaches, but eligibility is decided only after medical record review and investigator assessment. Trials often have strict inclusion and exclusion criteria, and enrollment or benefit cannot be guaranteed. Patients interested in trials should discuss suitable options with their oncology team.</p>"
+          },
+          {
+            "q": "What happens if lung cancer progresses during pembrolizumab treatment?",
+            "a": "<p>If lung cancer progresses during pembrolizumab, the oncology team may reassess the treatment plan and consider other options. These can include switching to chemotherapy, targeted therapy if a suitable mutation is present, a clinical trial, or supportive care, depending on the situation. Repeat scans, biopsies, or biomarker testing may help guide the next step. Decisions should always be made by the treating medical team after full review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed to plan pembrolizumab treatment?",
+            "a": "<p>Key reports for planning pembrolizumab include the biopsy or pathology report confirming lung cancer type, PD-L1 test results, and molecular or genetic testing for mutations such as EGFR and ALK. Recent imaging like CT or PET scans and blood test results are also important. These help the oncology team assess suitability and plan care. A specialist may request additional or updated tests before finalizing any treatment recommendation.</p>"
+          },
+          {
+            "q": "Should international patients get a second opinion before starting pembrolizumab?",
+            "a": "<p>A second opinion can be valuable before starting pembrolizumab, as it helps confirm the diagnosis, biomarker results, and whether immunotherapy is the most appropriate option. Because lung cancer treatment depends on many factors, an independent expert review may clarify choices and expected benefits. A second opinion does not guarantee a different plan but can support informed decisions. Final treatment decisions should be made with the treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with pembrolizumab for lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It assists international patients in navigating the practical steps around immunotherapy care. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. No outcome, hospital admission, or treatment acceptance is guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

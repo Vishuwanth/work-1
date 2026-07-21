@@ -1,0 +1,64 @@
+{
+  "pillar": "Clinical Trials in Immunotherapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: clinical-trials-in-immunotherapy",
+  "route": "⚠ VERIFY: /insights/clinical-trials-in-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Clinical Trials in Immunotherapy",
+    "intro": "Immunotherapy clinical trials study new ways to help the immune system fight cancer, and they are often a route to treatments not yet widely available. These answers explain how these trials work, who may qualify, and what international patients should consider.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy Clinical Trials",
+        "items": [
+          {
+            "q": "What are clinical trials in immunotherapy?",
+            "a": "<p>Clinical trials in immunotherapy are research studies that test new treatments designed to help the immune system recognize and attack cancer cells. These may include checkpoint inhibitors, CAR-T cell therapy, cancer vaccines, or bispecific antibodies. Trials are conducted in carefully monitored phases to evaluate safety, correct dosing, and how well a treatment works. Participation is voluntary and is decided after medical record review by the investigating oncology team.</p>"
+          },
+          {
+            "q": "How do immunotherapy clinical trials work?",
+            "a": "<p>Immunotherapy clinical trials work in sequential phases that build on each other. Phase 1 mainly checks safety and dosing in a small group, Phase 2 studies how well the treatment works, and Phase 3 compares it with standard care in larger groups. Participants are closely monitored with regular tests and scans. The specific design, treatment schedule, and monitoring depend on the trial protocol and the sponsoring institution.</p>"
+          },
+          {
+            "q": "How is a clinical trial different from standard immunotherapy treatment?",
+            "a": "<p>A clinical trial studies an immunotherapy that is still being evaluated, while standard treatment uses therapies already approved by regulators. Trials may offer access to promising new options but also carry uncertainty about benefit and side effects. Participants receive close monitoring under a defined research protocol. Whether a trial or standard therapy is more appropriate depends on cancer type, stage, prior treatment, and specialist review, and should be discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Benefits",
+        "items": [
+          {
+            "q": "Who is eligible for immunotherapy clinical trials?",
+            "a": "<p>Eligibility for immunotherapy clinical trials depends on strict inclusion and exclusion criteria set by each study. Common factors include cancer type, stage, biomarker or genetic profile, previous treatments, organ function, and overall health. Some trials accept only patients whose cancer has progressed after standard therapy, while others target specific mutations. Final eligibility is decided after medical record review and investigator assessment, so meeting general criteria does not guarantee enrollment.</p>"
+          },
+          {
+            "q": "What are the benefits of joining an immunotherapy trial?",
+            "a": "<p>Joining an immunotherapy trial may give access to new treatments not yet widely available, along with close monitoring by an experienced research team. Some participants may respond well, though benefit cannot be promised and outcomes vary from person to person. Trials also contribute to medical knowledge that can help future patients. Whether a specific trial is suitable depends on your diagnosis, health, and specialist review, and should be discussed with your oncology team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of immunotherapy trials?",
+            "a": "<p>Immunotherapy trials can cause side effects because the treatment is still being studied and its full effects may not be known. Immune-related reactions can affect the skin, thyroid, lungs, liver, bowel, or other organs, and some may be serious. Participants are monitored closely so problems can be managed early. The specific risks depend on the therapy and trial phase, and should be reviewed carefully with the treating medical team before enrolling.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How can international patients access immunotherapy clinical trials?",
+            "a": "<p>International patients can access immunotherapy clinical trials by first having their medical records reviewed against trial criteria at hospitals or research centers offering the study. Access depends on hospital acceptance, investigator assessment, visa approval, travel fitness, and the patient's condition. Some trials are open only to residents of certain countries. Because criteria are strict, meeting general requirements does not guarantee admission, so early planning and specialist guidance are important.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy clinical trials?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or research centers offering immunotherapy trials, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It does not decide eligibility or guarantee enrollment. Treatment and trial decisions are always made by the qualified oncology team and investigators after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

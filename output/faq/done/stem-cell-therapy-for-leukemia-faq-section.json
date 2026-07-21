@@ -1,0 +1,64 @@
+{
+  "pillar": "Stem Cell Therapy for Leukemia",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: stem-cell-therapy-for-leukemia",
+  "route": "⚠ VERIFY: /insights/stem-cell-therapy-for-leukemia",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stem Cell Therapy for Leukemia",
+    "intro": "Clear, patient-friendly answers about how stem cell therapy works for leukemia, who may be suitable, and what to expect around safety, recovery, and access.",
+    "groups": [
+      {
+        "title": "Understanding Stem Cell Therapy for Leukemia",
+        "items": [
+          {
+            "q": "What is stem cell therapy for leukemia?",
+            "a": "<p>Stem cell therapy for leukemia is a treatment that replaces diseased bone marrow with healthy blood-forming stem cells, allowing the body to produce normal blood cells again. It is often called a bone marrow or stem cell transplant. It usually follows high-dose chemotherapy, sometimes with radiation, that clears leukemia cells. Whether it is appropriate depends on the leukemia type, stage, genetics, previous treatment, and overall health, and should be assessed by a specialist team.</p>"
+          },
+          {
+            "q": "How does a stem cell transplant work for leukemia?",
+            "a": "<p>A stem cell transplant works by first using high-dose chemotherapy, and sometimes radiation, to destroy leukemia cells and prepare the bone marrow. Healthy stem cells are then infused into the bloodstream, where they travel to the marrow and begin producing new blood cells over several weeks. This process, called engraftment, aims to rebuild a healthy immune and blood system. The exact approach depends on leukemia type, donor availability, and specialist assessment.</p>"
+          },
+          {
+            "q": "What is the difference between autologous and allogeneic stem cell transplants?",
+            "a": "<p>The main difference is the source of the stem cells. An autologous transplant uses the patient's own collected stem cells, while an allogeneic transplant uses cells from a matched donor, often a sibling or unrelated match. Allogeneic transplants are more common in leukemia because donor cells can help fight remaining cancer cells. The choice depends on leukemia type, remission status, donor matching, and risks, and should be discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for a stem cell transplant for leukemia?",
+            "a": "<p>Eligibility for a stem cell transplant depends on the leukemia type, remission status, age, overall health, organ function, and availability of a suitable donor. It may be considered for selected patients with high-risk or relapsed leukemia where standard treatment alone is not expected to be enough. A suitable donor match is often required for allogeneic transplants. Final eligibility is decided by the transplant team after detailed testing and specialist review.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of stem cell therapy for leukemia?",
+            "a": "<p>Stem cell therapy carries meaningful risks alongside its potential benefits. Common short-term side effects include infection, bleeding, fatigue, nausea, and mouth sores due to a weakened immune system. Allogeneic transplants may cause graft-versus-host disease, where donor cells attack the body's tissues. Serious complications are possible and require close monitoring. Risks vary by transplant type, patient health, and donor match, and should be discussed carefully with the treating oncology team.</p>"
+          },
+          {
+            "q": "How long does recovery from a leukemia stem cell transplant take?",
+            "a": "<p>Recovery from a stem cell transplant typically takes several months, though it varies for each patient. Early engraftment of new blood cells usually happens within two to four weeks, but immune recovery can take a year or longer. During this time, patients need regular monitoring, protection from infection, and support for side effects. The pace of recovery depends on transplant type, complications, and overall health, and is guided by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does stem cell therapy for leukemia cost?",
+            "a": "<p>The cost of stem cell therapy for leukemia varies widely depending on the country, hospital, transplant type, and whether a donor search is needed. Allogeneic transplants generally cost more than autologous ones due to donor matching and longer care. Final costs also depend on diagnosis, tests, length of stay, medications, and any complications. Estimates should be confirmed with the treating hospital, as fixed pricing and hospital acceptance cannot be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell therapy for leukemia?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For international patients, access depends on hospital acceptance, medical review, donor availability, and travel fitness, which cannot be guaranteed. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, leukemia type, stage, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

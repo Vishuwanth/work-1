@@ -1,0 +1,64 @@
+{
+  "pillar": "Future of Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: future-of-cancer-treatment",
+  "route": "⚠ VERIFY: /insights/future-of-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Future of Cancer Treatment",
+    "intro": "Cancer care is shifting toward more personalised, precise, and less toxic treatment. These answers explain emerging therapies, technologies, and what they may mean for patients and caregivers.",
+    "groups": [
+      {
+        "title": "Understanding the Future of Cancer Treatment",
+        "items": [
+          {
+            "q": "What is the future of cancer treatment?",
+            "a": "<p>The future of cancer treatment is moving toward more personalised, precise, and less toxic care tailored to each patient's tumour biology. Emerging approaches such as immunotherapy, targeted therapy, gene and cell therapies, and AI-assisted diagnosis may improve outcomes for selected patients. These advances depend on cancer type, stage, biomarker profile, and specialist review, and final treatment decisions should always be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How is cancer treatment changing?",
+            "a": "<p>Cancer treatment is changing from a one-size-fits-all model toward precision oncology that matches therapies to a tumour's genetic and molecular features. Doctors increasingly use biomarker testing, targeted drugs, immunotherapy, and minimally invasive procedures to help reduce side effects. The pace and availability of these changes vary by country, hospital, and cancer type, and any treatment plan should be discussed with and confirmed by the treating medical team.</p>"
+          },
+          {
+            "q": "What role does immunotherapy play in the future of cancer care?",
+            "a": "<p>Immunotherapy is expected to play a growing role by helping the body's own immune system recognise and attack cancer cells. Approaches such as checkpoint inhibitors, CAR T-cell therapy, and cancer vaccines may be considered for selected patients with certain cancer types and biomarker profiles. Responses vary between individuals, and eligibility depends on stage, prior treatment, and overall health, so suitability should be assessed by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Emerging Therapies and Technologies",
+        "items": [
+          {
+            "q": "Will targeted therapy and precision medicine replace chemotherapy?",
+            "a": "<p>Targeted therapy and precision medicine are unlikely to fully replace chemotherapy but are increasingly used alongside or instead of it for selected patients. These treatments focus on specific genetic mutations or proteins driving a cancer, which may reduce harm to healthy cells. Chemotherapy still plays an important role for many cancers, and the right combination depends on tumour type, biomarkers, and specialist review by the treating medical team.</p>"
+          },
+          {
+            "q": "How is artificial intelligence used in cancer treatment?",
+            "a": "<p>Artificial intelligence is being used to help detect cancer earlier, analyse scans and pathology, and support treatment planning. AI tools may assist doctors in identifying patterns, predicting responses, and matching patients to relevant clinical trials or therapies. These technologies are meant to support, not replace, clinical judgement, and their availability differs by hospital and region. Final diagnosis and treatment decisions should always be confirmed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Are gene and cell therapies part of the future of cancer treatment?",
+            "a": "<p>Gene and cell therapies are an important part of emerging cancer care and may be considered for selected patients with specific cancer types. Treatments such as CAR T-cell therapy modify a patient's own immune cells to target cancer, while gene therapies aim to correct or disrupt cancer-related genes. Access can be limited and eligibility depends on diagnosis, stage, and prior treatment, so suitability should be assessed by a specialist team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "What It Means for Patients",
+        "items": [
+          {
+            "q": "Will future cancer treatments be available to international patients?",
+            "a": "<p>Many advanced cancer treatments may become available to international patients, but access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition. Newer therapies are often offered at specialised centres or through clinical trials with strict eligibility criteria. Costs and availability vary widely by country and hospital, and no hospital admission, treatment acceptance, or outcome can be guaranteed in advance without a full medical assessment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the future of cancer treatment?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support helps patients explore emerging options without guaranteeing treatment access or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

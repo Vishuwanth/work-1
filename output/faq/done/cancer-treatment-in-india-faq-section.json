@@ -1,0 +1,68 @@
+{
+  "pillar": "Cancer Treatment in India",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-india",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in India",
+    "intro": "India is a leading destination for international cancer patients seeking advanced, affordable care. These FAQs explain treatment options, costs, access, and practical planning for patients traveling from abroad.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in India",
+        "items": [
+          {
+            "q": "Why do international patients choose India for cancer treatment?",
+            "a": "<p>India is chosen by many international patients for its combination of experienced oncologists, accredited hospitals, and comparatively lower costs. Leading centers offer surgery, chemotherapy, radiation, immunotherapy, bone marrow transplants, and access to advanced diagnostics. English is widely spoken in medical settings, and many hospitals have dedicated international patient departments. Suitability of any treatment depends on cancer type, stage, biomarker profile, previous therapy, and overall health, and should be confirmed by the treating oncology team.</p>"
+          },
+          {
+            "q": "What types of cancer treatment are available in India?",
+            "a": "<p>Cancer treatment in India covers surgery, chemotherapy, radiation therapy, targeted therapy, immunotherapy, hormone therapy, and stem cell or bone marrow transplantation. Several centers also offer advanced options such as robotic surgery, proton therapy, and CAR T-cell therapy for selected patients. The right combination depends on cancer type, stage, molecular markers, and prior treatment. Final treatment decisions should always be made by a qualified oncology team after reviewing complete medical records and imaging.</p>"
+          },
+          {
+            "q": "Are Indian cancer hospitals internationally accredited?",
+            "a": "<p>Many leading Indian cancer hospitals hold national and international accreditation, including NABH and JCI standards. These accreditations reflect defined quality, safety, and infection-control protocols, and many centers work with experienced oncologists trained in India and abroad. Accreditation status varies by hospital, so patients should confirm a specific center's credentials before making decisions. Choosing a hospital should also consider cancer type, required specialists, technology available, and the treating team's experience with similar cases.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Eligibility",
+        "items": [
+          {
+            "q": "How much does cancer treatment cost in India?",
+            "a": "<p>Cancer treatment costs in India are generally lower than in many Western countries, though final amounts vary widely. The total depends on the hospital, cancer type, stage, treatment protocol, diagnostic tests, length of stay, and any complications. Advanced therapies such as transplants, proton therapy, or immunotherapy cost more than standard chemotherapy. Estimates should be treated as approximate, and an accurate quote can only be given after the treating team reviews the patient's reports and plan.</p>"
+          },
+          {
+            "q": "How can international patients access cancer treatment in India?",
+            "a": "<p>International patients can access cancer treatment in India by first sharing their medical reports for a specialist review and treatment estimate. Access then depends on hospital acceptance, medical evaluation, medical visa approval, travel fitness, and the patient's overall condition. Hospitals typically issue an invitation letter to support the visa process once a plan is agreed. Admission and treatment cannot be guaranteed in advance and are confirmed only after the treating oncology team's assessment.</p>"
+          },
+          {
+            "q": "What medical reports are needed to plan cancer treatment in India?",
+            "a": "<p>Planning cancer treatment in India usually requires recent pathology or biopsy reports, imaging such as CT, MRI, or PET scans, blood test results, and a summary of previous treatments. Biomarker or molecular testing reports are also helpful where available. Complete and up-to-date records allow specialists to give a more accurate opinion and cost estimate. The treating oncology team may request additional tests after arrival before finalizing the treatment plan.</p>"
+          },
+          {
+            "q": "Is cancer treatment in India suitable for all patients?",
+            "a": "<p>Cancer treatment in India may be suitable for many international patients, but it is not appropriate for everyone. Suitability depends on cancer type, stage, biomarker profile, previous treatment, travel fitness, and overall health. Some patients may be too unwell to travel safely, while others may be better treated closer to home. These decisions should be discussed with a qualified oncology team, and final treatment choices should be made by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Clinical Trials and Practical Support",
+        "items": [
+          {
+            "q": "Are clinical trials for cancer available to international patients in India?",
+            "a": "<p>Some cancer clinical trials in India may be open to international patients, but eligibility is never guaranteed. Enrollment is decided only after medical record review and investigator assessment against strict inclusion and exclusion criteria. Trials may study new drugs, combinations, or advanced therapies, and participation does not guarantee benefit. Patients interested in trials should discuss options with their oncology team and understand the potential risks, requirements, and follow-up involved before deciding.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer treatment in India?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals, and access to any hospital or therapy depends on medical review and the treating team's assessment.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

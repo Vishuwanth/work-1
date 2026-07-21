@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Treatment in Singapore",
+  "contentType": "Guide",
+  "runner": "seed-guide.js",
+  "slug": "⚠ VERIFY: cancer-treatment-in-singapore",
+  "route": "⚠ VERIFY: /guides/cancer-treatment-in-singapore",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Treatment in Singapore",
+    "intro": "Singapore is a well-established destination for international cancer care. These FAQs explain the treatments, costs, and practical steps involved for patients and caregivers considering treatment there.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment in Singapore",
+        "items": [
+          {
+            "q": "What is cancer treatment in Singapore known for?",
+            "a": "<p>Singapore is recognized as a leading destination for cancer care, known for internationally accredited hospitals, experienced oncologists, and access to advanced therapies. Major centres such as the National Cancer Centre Singapore and several private hospitals offer diagnosis, surgery, radiotherapy, chemotherapy, immunotherapy, and targeted treatment. The right approach depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should always be confirmed by a qualified oncology team after reviewing the patient's records.</p>"
+          },
+          {
+            "q": "What types of cancer treatment are available in Singapore?",
+            "a": "<p>Singapore offers a full range of cancer treatments, including surgery, radiation therapy, chemotherapy, immunotherapy, targeted therapy, hormone therapy, and stem cell or bone marrow transplantation. Advanced options such as proton therapy, precision oncology, and molecular tumour profiling may be available at selected centres. The most suitable option depends on cancer type, stage, biomarker profile, previous treatment, and specialist review, and should be discussed carefully with the treating medical team.</p>"
+          },
+          {
+            "q": "Is Singapore a good destination for cancer treatment?",
+            "a": "<p>Singapore is considered a strong choice for cancer treatment because of its accredited hospitals, skilled specialists, modern technology, and English-speaking medical staff. Its regulatory standards and multidisciplinary tumour boards support careful, evidence-based care. Whether it is right for a specific patient depends on diagnosis, stage, cost, travel fitness, and personal circumstances. Final decisions should be made with a qualified oncology team after reviewing the complete medical picture.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does cancer treatment cost in Singapore?",
+            "a": "<p>The cost of cancer treatment in Singapore varies widely and cannot be fixed in advance. Estimates depend on the hospital, cancer type, stage, tests, treatment protocol, medicines, length of stay, and any complications. Public and private centres have different pricing, and international patients may face additional charges. A personalized estimate is only possible after medical records are reviewed, and final costs should be confirmed directly with the treating hospital.</p>"
+          },
+          {
+            "q": "How can international patients access cancer treatment in Singapore?",
+            "a": "<p>International patients can access cancer treatment in Singapore by sharing medical records for review, obtaining a treatment plan and cost estimate, and arranging a medical visa and travel. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and patient condition, none of which can be guaranteed. Planning second opinions, appointments, accommodation, and follow-up care in advance helps make the treatment journey smoother for patients and caregivers.</p>"
+          },
+          {
+            "q": "What medical reports are needed for cancer treatment in Singapore?",
+            "a": "<p>Key medical reports for cancer treatment in Singapore usually include pathology or biopsy results, imaging scans such as CT, MRI, or PET, blood tests, and a summary of previous treatments. Biomarker or molecular testing reports are also helpful where available. Complete and recent records allow specialists to assess the case accurately and suggest suitable options. Any additional tests required will be advised by the treating oncology team after their review.</p>"
+          },
+          {
+            "q": "Are clinical trials available for cancer patients in Singapore?",
+            "a": "<p>Clinical trials for various cancers may be available in Singapore, often through academic and specialist cancer centres. These studies can offer access to newer therapies, but enrolment is not guaranteed and benefit cannot be assured. Eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria. Patients interested in trials should discuss suitability, potential risks, and alternatives with their oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer treatment in Singapore?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Guide page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

@@ -1,0 +1,114 @@
+{
+  "pillar": "Intraoperative MRI for brain tumor surgery: how real-time imaging improves resection",
+  "contentType": "⚠ VERIFY",
+  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
+  "slug": "⚠ VERIFY: intraoperative-mri-for-brain-tumor-surgery-how-real-time-imaging-improves-resection",
+  "route": "⚠ VERIFY: /<section>/intraoperative-mri-for-brain-tumor-surgery-how-real-time-imaging-improves-resection",
+  "section": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Intraoperative MRI for Brain Tumor Surgery",
+    "intro": "Intraoperative MRI (iMRI) lets neurosurgeons scan the brain during an operation to check how much tumor remains before closing. These answers explain how it works, who it may help, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Intraoperative MRI",
+        "items": [
+          {
+            "q": "What is intraoperative MRI for brain tumor surgery?",
+            "a": "<p>Intraoperative MRI (iMRI) is a real-time imaging technique that lets surgeons scan the brain during an operation, without moving the patient to a separate radiology room. A specialized MRI scanner is built into or brought into the operating theatre, producing updated images of the tumor and surrounding brain. This helps the surgical team see how much tumor remains before the operation ends, supporting more complete and safer removal in selected cases.</p>"
+          },
+          {
+            "q": "How does intraoperative MRI improve tumor resection?",
+            "a": "<p>Intraoperative MRI improves resection by showing surgeons any remaining tumor while the patient is still on the operating table. During long operations the brain can shift, making pre-surgery scans less accurate. A fresh iMRI scan updates the surgeon's map, allowing further safe removal of tumor that might otherwise be missed. Studies suggest this may increase the extent of resection for certain tumors, though outcomes depend on tumor type, location, and the surgical team.</p>"
+          },
+          {
+            "q": "What is the difference between iMRI and standard neuronavigation?",
+            "a": "<p>The main difference is timing: standard neuronavigation relies on images taken before surgery, while intraoperative MRI provides new images taken during surgery. As the operation progresses and the brain shifts, pre-surgery navigation can become less precise, a problem known as brain shift. iMRI corrects for this by refreshing the anatomical map mid-procedure. Many centres use both together, with neuronavigation guiding the approach and iMRI confirming the extent of removal.</p>"
+          },
+          {
+            "q": "Which brain tumors benefit most from intraoperative MRI?",
+            "a": "<p>Intraoperative MRI may be most useful for tumors where maximal safe removal matters and where borders are hard to see, such as gliomas, pituitary tumors, and some low-grade brain tumors near critical areas. It can also help with tumors close to speech, movement, or vision pathways. Suitability depends on tumor type, size, location, and specialist review, and the final decision is made by the treating neurosurgical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is a suitable candidate for iMRI-guided brain surgery?",
+            "a": "<p>Suitable candidates are generally patients whose brain tumor is being surgically removed and who could benefit from confirming the extent of resection during the operation. Eligibility depends on tumor type, location, size, previous treatment, overall health, and fitness for a longer anaesthetic. Patients with certain metal implants or devices may not be able to enter the MRI scanner. Final suitability should be assessed by the neurosurgical and anaesthetic team.</p>"
+          },
+          {
+            "q": "How does an intraoperative MRI procedure work step by step?",
+            "a": "<p>The procedure begins like a standard brain tumor operation, with anaesthesia and careful removal of visible tumor. At a chosen point, the surgical field is covered and MRI-safe conditions are confirmed, then an MRI scan is taken in or near the operating room. The surgeon reviews the images, and if safe residual tumor is seen, removal may continue. This scan-and-resect cycle can repeat before the operation is completed.</p>"
+          },
+          {
+            "q": "Does intraoperative MRI make brain surgery longer?",
+            "a": "<p>Yes, intraoperative MRI usually adds time to brain surgery because scanning, safety checks, and image review happen during the operation. The additional time varies by centre, tumor complexity, and how many scans are needed. Teams weigh this longer anaesthetic against the potential benefit of more complete tumor removal. Whether the added time is appropriate for a particular patient is a decision made by the treating neurosurgical and anaesthetic team.</p>"
+          },
+          {
+            "q": "Is intraoperative MRI safe?",
+            "a": "<p>Intraoperative MRI is generally considered safe when performed in properly equipped centres with trained staff and strict metal-safety protocols. Like any brain surgery, the operation itself carries risks such as bleeding, infection, swelling, or neurological changes. The MRI component adds considerations around longer anaesthesia and ensuring no unsafe metal enters the scanner. Overall safety depends on the patient's condition and the experience of the surgical, anaesthetic, and imaging team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does intraoperative MRI brain surgery cost?",
+            "a": "<p>The cost of intraoperative MRI brain surgery varies widely and cannot be quoted as a fixed price. It depends on the hospital, country, tumor type, complexity of surgery, length of stay, imaging, intensive care, and any complications. Because iMRI uses specialized equipment, it may add to the overall cost compared with standard surgery. A personalized estimate should be obtained from the treating hospital after reviewing the patient's diagnosis and reports.</p>"
+          },
+          {
+            "q": "Which countries offer intraoperative MRI for brain tumors?",
+            "a": "<p>Intraoperative MRI is offered in selected specialized neurosurgical centres in several countries, including the United States, parts of Europe, China, and India, among others. Availability is limited to hospitals that have invested in the required MRI-equipped operating suites and trained teams. Because not every centre offers iMRI, patients considering treatment abroad should confirm availability, experience, and case suitability directly with the specific hospital and neurosurgical team.</p>"
+          },
+          {
+            "q": "Is intraoperative MRI available in India?",
+            "a": "<p>Yes, intraoperative MRI is available at some advanced neurosurgical centres in India, though it is not offered everywhere. A limited number of hospitals have dedicated iMRI-equipped operating theatres and experienced neurosurgical teams. Availability, waiting times, and suitability vary by centre and by the individual case. Patients interested in iMRI surgery in India should confirm current availability and case acceptance with the specific hospital before making travel or treatment plans.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          {
+            "q": "Can intraoperative MRI be combined with awake craniotomy?",
+            "a": "<p>Intraoperative MRI can be combined with awake craniotomy in selected patients and centres. In an awake craniotomy, the patient is awakened during part of the surgery so the team can test speech or movement while removing tumor near critical areas. Adding iMRI helps confirm how much tumor remains. Combining these techniques is complex and only suitable for certain cases, and the decision rests with the specialist neurosurgical team.</p>"
+          },
+          {
+            "q": "How does iMRI compare with fluorescence-guided surgery?",
+            "a": "<p>Intraoperative MRI and fluorescence-guided surgery are complementary tools rather than direct substitutes. Fluorescence techniques, such as 5-ALA, make certain tumor cells glow under special light to guide removal, while iMRI provides updated anatomical images of remaining tumor. Some centres use both in the same operation to improve accuracy. Which approach, or combination, is appropriate depends on tumor type and should be decided by the treating neurosurgical team.</p>"
+          },
+          {
+            "q": "Are there clinical trials using intraoperative MRI?",
+            "a": "<p>Yes, some clinical trials and research studies evaluate intraoperative MRI and its combination with other surgical technologies for brain tumors. These studies may look at extent of resection, outcomes, or new imaging methods. Eligibility for any trial is decided after review of medical records and investigator assessment, and trials often have strict inclusion and exclusion criteria. Enrollment and benefit cannot be guaranteed and should be discussed with the treating oncology and neurosurgical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What medical reports are needed to plan iMRI brain surgery abroad?",
+            "a": "<p>Planning iMRI brain surgery abroad usually requires recent brain MRI and CT scans, the radiology reports, any biopsy or pathology results, and a summary of previous treatments. Details of the patient's overall health, medications, and any implants or devices are also important for MRI safety. Requirements vary by hospital, and the treating neurosurgical team will confirm exactly which reports and images they need to assess the case.</p>"
+          },
+          {
+            "q": "How can international patients access intraoperative MRI surgery?",
+            "a": "<p>International patients can access intraoperative MRI surgery by sending their medical records to a centre that offers iMRI for review and a treatment opinion. Access depends on hospital acceptance, medical assessment, fitness for travel, and visa approval, none of which can be guaranteed in advance. Patients should also plan for estimated costs, length of stay, and follow-up care, and confirm all details directly with the receiving hospital before travelling.</p>"
+          },
+          {
+            "q": "What follow-up is needed after iMRI brain tumor surgery?",
+            "a": "<p>Follow-up after iMRI brain tumor surgery typically includes post-operative imaging, wound and recovery checks, and review of the pathology results to plan any further treatment such as radiotherapy or chemotherapy. International patients should arrange for follow-up care and monitoring after returning home, ideally coordinated with a local oncology team. The exact follow-up schedule depends on tumor type and individual recovery and is guided by the treating medical team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with intraoperative MRI brain surgery?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centres offering intraoperative MRI, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified neurosurgical and oncology team after reviewing the patient's diagnosis, imaging, pathology, previous treatment, and overall health. CancerFax does not provide medical treatment or guarantee hospital acceptance, surgery, or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

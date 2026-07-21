@@ -1,0 +1,64 @@
+{
+  "pillar": "The Stem Cell Transplant Process",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: the-stem-cell-transplant-process",
+  "route": "⚠ VERIFY: /insights/the-stem-cell-transplant-process",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About The Stem Cell Transplant Process",
+    "intro": "A stem cell transplant replaces damaged or diseased bone marrow with healthy blood-forming stem cells, and the process moves through several carefully monitored stages. These FAQs explain how the process works, what recovery involves, and how international patients can plan for it.",
+    "groups": [
+      {
+        "title": "Understanding the Stem Cell Transplant Process",
+        "items": [
+          {
+            "q": "What is the stem cell transplant process?",
+            "a": "<p>The stem cell transplant process is a series of steps that replaces unhealthy bone marrow with healthy blood-forming stem cells. It usually includes evaluation, stem cell collection, a conditioning phase using chemotherapy or radiation, the transplant infusion itself, and a recovery period called engraftment. The full process can take several weeks to months and is closely supervised by a specialist transplant team. Timelines and steps depend on the diagnosis and individual patient factors.</p>"
+          },
+          {
+            "q": "What are the main steps involved in a stem cell transplant?",
+            "a": "<p>A stem cell transplant typically follows five main steps: pre-transplant evaluation, stem cell collection or donor matching, a conditioning regimen, the stem cell infusion, and post-transplant recovery. During conditioning, chemotherapy or radiation prepares the body to receive new cells. The infusion is given like a blood transfusion, and recovery focuses on engraftment and preventing infection. The exact sequence and duration should be confirmed with the treating oncology and transplant team.</p>"
+          },
+          {
+            "q": "What is the difference between autologous and allogeneic transplants?",
+            "a": "<p>The main difference is the source of the stem cells. In an autologous transplant, cells are collected from the patient's own body and returned after conditioning. In an allogeneic transplant, cells come from a matched donor, often a sibling or unrelated registry match. Autologous transplants avoid donor rejection but may not suit every disease, while allogeneic transplants can offer a graft-versus-tumor effect. The suitable option depends on diagnosis, disease status, and specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Conditioning, Recovery, and Safety",
+        "items": [
+          {
+            "q": "How long does the stem cell transplant process take?",
+            "a": "<p>The stem cell transplant process usually takes several weeks in hospital followed by months of gradual recovery. Conditioning typically lasts several days to a week, the infusion happens on a single day, and engraftment often occurs within two to four weeks. Immune recovery can continue for six months to a year or longer. Actual timelines vary by transplant type, conditioning intensity, and how each patient responds during recovery.</p>"
+          },
+          {
+            "q": "What happens during the conditioning phase?",
+            "a": "<p>During conditioning, patients receive chemotherapy, sometimes with radiation, to reduce diseased cells and make room for the new stem cells. This phase also suppresses the immune system so the transplanted cells are less likely to be rejected. Conditioning intensity is described as myeloablative or reduced-intensity, chosen based on age, fitness, and diagnosis. Because it can cause significant side effects, conditioning is delivered under close medical supervision and should be planned by the transplant team.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of a stem cell transplant?",
+            "a": "<p>Stem cell transplants carry real risks, including infection, bleeding, organ effects, and, in allogeneic transplants, graft-versus-host disease where donor cells attack the body. Fatigue, nausea, mouth sores, and low blood counts are common during recovery. Risks vary with transplant type, conditioning intensity, age, and overall health. These are managed by an experienced team, and potential benefits and risks should be discussed carefully with the treating oncology and transplant specialists before proceeding.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support for International Patients",
+        "items": [
+          {
+            "q": "How much does a stem cell transplant cost?",
+            "a": "<p>Stem cell transplant costs vary widely depending on transplant type, hospital, country, and the patient's condition. Allogeneic transplants generally cost more than autologous ones because of donor matching and longer care. Final cost also depends on diagnosis, tests, length of hospital stay, medications, and any complications. Estimated ranges should be treated as approximate and confirmed directly with the treating hospital, since actual expenses depend on the individual treatment plan and clinical course.</p>"
+          },
+          {
+            "q": "How can international patients access a stem cell transplant, and how does CancerFax help?",
+            "a": "<p>International patients can access stem cell transplants at specialized centers, though access depends on hospital acceptance, medical review, donor availability, visa approval, and travel fitness. CancerFax helps patients organize medical reports, identify relevant specialists or transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, disease status, prior treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

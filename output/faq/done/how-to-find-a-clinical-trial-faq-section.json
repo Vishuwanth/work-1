@@ -1,0 +1,68 @@
+{
+  "pillar": "How to Find a Clinical Trial",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: how-to-find-a-clinical-trial",
+  "route": "⚠ VERIFY: /insights/how-to-find-a-clinical-trial",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How to Find a Clinical Trial",
+    "intro": "Finding the right cancer clinical trial takes a mix of good records, trusted registries, and specialist input. These answers explain where to search, how eligibility works, and what to prepare.",
+    "groups": [
+      {
+        "title": "Understanding and Searching for Trials",
+        "items": [
+          {
+            "q": "How do I find a clinical trial for my cancer?",
+            "a": "<p>You can find a cancer clinical trial by searching official registries, asking your oncologist, and contacting cancer centers that run trials. Public databases such as ClinicalTrials.gov and the WHO registry let you filter by cancer type, stage, location, and treatment. Your treating team can often match you to relevant studies based on your diagnosis, biomarkers, and prior treatment. The right trial depends on your specific medical situation and should be reviewed with your oncology team.</p>"
+          },
+          {
+            "q": "What information do I need before searching for a trial?",
+            "a": "<p>Before searching, gather your exact diagnosis, cancer stage, biomarker or genetic test results, and a summary of previous treatments. Trials are often matched by tumor type, molecular markers, and how many therapies you have already received. Having pathology reports, imaging, and recent bloodwork ready makes searching and screening faster. This information helps identify studies you may qualify for, though final eligibility is always confirmed by the trial's medical team after review.</p>"
+          },
+          {
+            "q": "Where can I search for clinical trials online?",
+            "a": "<p>The most reliable place to search is a government or international trial registry such as ClinicalTrials.gov, the EU Clinical Trials Register, or your national cancer registry. These sites list study details, locations, eligibility criteria, and contact information. Major cancer hospitals and cooperative research groups also publish open trials on their websites. Because listings can be technical, it may help to review promising trials with a qualified oncology team before contacting a study site.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Enrollment, and Safety",
+        "items": [
+          {
+            "q": "How do I know if I am eligible for a clinical trial?",
+            "a": "<p>Eligibility is decided by each trial's inclusion and exclusion criteria, which cover cancer type, stage, prior treatments, organ function, and overall health. A listing may look like a match on paper, but final eligibility is confirmed only after the study team reviews your medical records and runs screening tests. Some trials have strict requirements. Discussing a specific study with your oncologist can help you understand whether you may be suitable before applying.</p>"
+          },
+          {
+            "q": "How do I enroll in a clinical trial once I find one?",
+            "a": "<p>To enroll, contact the trial's study coordinator using the details in the listing, or ask your oncologist to make a referral. You will go through a screening process that includes reviewing your medical records, additional tests, and an informed consent discussion. Enrollment is never guaranteed and depends on meeting all criteria and passing screening. The consent process explains the study's purpose, procedures, possible risks, and your right to withdraw at any time.</p>"
+          },
+          {
+            "q": "Are clinical trials safe for cancer patients?",
+            "a": "<p>Clinical trials follow strict safety rules, ethical oversight, and monitoring, but they may still carry risks because treatments are being studied. Every trial is reviewed by an ethics committee, and participants are watched closely for side effects. Benefits are not guaranteed, and some therapies are still experimental. Before joining, you should discuss the potential risks, possible benefits, and alternatives with your oncology team so decisions fit your diagnosis and overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "Can international patients join clinical trials abroad?",
+            "a": "<p>International patients may be able to join trials abroad, but access depends on the study's rules, hospital acceptance, medical review, and visa and travel approval. Some trials only enroll local residents, while others accept overseas participants under specific conditions. You will typically need translated medical records and a screening assessment. Because requirements vary widely, it is important to confirm eligibility, costs, and travel logistics with the trial site before making any plans.</p>"
+          },
+          {
+            "q": "Do patients have to pay to join a clinical trial?",
+            "a": "<p>In many trials the study drug and trial-related tests are provided at no charge, but patients may still pay for travel, standard care, or non-study costs. Financial arrangements differ by country, sponsor, and study design, so nothing should be assumed as fixed. For international participation, additional expenses such as flights, accommodation, and follow-up care may apply. Always confirm exactly what is covered with the trial team before enrolling, as final costs depend on the specific study.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with finding a clinical trial?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant trials or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help you understand listings and prepare records for screening. Treatment and enrollment decisions are always made by the qualified oncology team and trial investigators after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee eligibility, acceptance, or outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

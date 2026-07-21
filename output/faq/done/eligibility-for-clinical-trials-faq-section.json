@@ -1,0 +1,64 @@
+{
+  "pillar": "Eligibility for Clinical Trials",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: eligibility-for-clinical-trials",
+  "route": "⚠ VERIFY: /insights/eligibility-for-clinical-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for Clinical Trials",
+    "intro": "These answers explain how eligibility for cancer clinical trials is defined, what factors affect it, and how patients can explore whether a trial may be an option. Final eligibility is always decided by the trial investigators after a full medical review.",
+    "groups": [
+      {
+        "title": "Understanding Clinical Trial Eligibility",
+        "items": [
+          {
+            "q": "What does eligibility for clinical trials mean?",
+            "a": "<p>Eligibility for clinical trials means meeting the specific medical and personal criteria a study requires before a patient can take part. Each cancer trial defines detailed inclusion criteria (who can join) and exclusion criteria (who cannot), covering cancer type, stage, biomarkers, previous treatment, age, and overall health. These rules protect patient safety and keep results reliable. Whether a patient qualifies depends on specialist review and must be confirmed by the trial team.</p>"
+          },
+          {
+            "q": "Who decides if a patient is eligible for a cancer clinical trial?",
+            "a": "<p>The trial's investigators and study team decide whether a patient is eligible, not the patient or referring doctor alone. Eligibility is confirmed only after reviewing medical records, imaging, pathology, biomarker results, and current health status against the trial's inclusion and exclusion criteria. Some trials also require fresh screening tests. Because criteria are strict and vary by study, a patient may qualify for one trial but not another, so professional review is essential.</p>"
+          },
+          {
+            "q": "What are common eligibility criteria for cancer clinical trials?",
+            "a": "<p>Common eligibility criteria for cancer clinical trials include cancer type and stage, specific biomarkers or genetic mutations, previous treatments received, age, and overall health or performance status. Many trials also check organ function, blood counts, and other active medical conditions. Some studies enroll only newly diagnosed patients, while others focus on cancers that returned or progressed after therapy. Because requirements differ for every study, eligibility should be assessed individually by the trial team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Common Eligibility Factors and Barriers",
+        "items": [
+          {
+            "q": "Can patients with advanced or stage 4 cancer join clinical trials?",
+            "a": "<p>Yes, patients with advanced or stage 4 cancer may be eligible for certain clinical trials, and many studies are specifically designed for them. Trials testing new drugs, immunotherapy, or targeted therapies often enroll patients whose cancer has spread or progressed after earlier treatment. Eligibility still depends on cancer type, biomarkers, prior therapy, and overall health. Availability varies by location and study, so each patient's suitability must be reviewed by the trial team.</p>"
+          },
+          {
+            "q": "Do biomarkers or genetic testing affect clinical trial eligibility?",
+            "a": "<p>Biomarkers and genetic testing strongly affect eligibility for many modern cancer clinical trials. Targeted therapy and immunotherapy studies often require a specific mutation, gene alteration, or protein marker before a patient can enroll. Tests such as EGFR, ALK, HER2, PD-L1, or broader genomic profiling may be needed. Patients without the required marker may not qualify for that particular trial. Testing requirements depend on the study and should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What can make a patient ineligible for a clinical trial?",
+            "a": "<p>A patient may be ineligible for a clinical trial if they do not meet its inclusion criteria or fall under its exclusion criteria. Common reasons include a different cancer type or stage, missing a required biomarker, certain previous treatments, other serious health conditions, organ function outside safe limits, or overall fitness concerns. Being ineligible for one trial does not rule out others. A specialist can help identify studies that may better match the patient's profile.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support for International Patients",
+        "items": [
+          {
+            "q": "Can international patients join cancer clinical trials abroad?",
+            "a": "<p>International patients may be able to join cancer clinical trials abroad, but access is not guaranteed and depends on several factors. These include the trial's eligibility criteria, whether it accepts overseas participants, hospital acceptance, visa approval, travel fitness, and the ability to attend required follow-up visits. Some trials enroll only local residents. Medical records must be reviewed first, and final acceptance rests with the investigators after screening and assessment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with eligibility for clinical trials?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify potentially relevant trials or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help patients understand what information a trial team may need to assess eligibility. Trial enrollment and treatment decisions are always made by the qualified oncology team and investigators after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

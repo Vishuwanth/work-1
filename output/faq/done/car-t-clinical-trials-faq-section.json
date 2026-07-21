@@ -1,0 +1,68 @@
+{
+  "pillar": "CAR-T Clinical Trials",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: car-t-clinical-trials",
+  "route": "⚠ VERIFY: /insights/car-t-clinical-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About CAR-T Clinical Trials",
+    "intro": "CAR-T clinical trials study how modified immune cells target blood cancers and, increasingly, other tumors. These answers explain who may qualify, how the process works, and what international patients should consider.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Clinical Trials",
+        "items": [
+          {
+            "q": "What are CAR-T clinical trials?",
+            "a": "<p>CAR-T clinical trials are research studies that test chimeric antigen receptor T-cell therapy, a treatment that reprograms a patient's own immune cells to recognize and attack cancer. These trials evaluate safety, dosing, side effects, and how well the therapy works, often in blood cancers such as leukemia, lymphoma, and multiple myeloma. Some newer trials also explore solid tumors. Participation and results depend on the specific study design and each patient's medical situation.</p>"
+          },
+          {
+            "q": "How does a CAR-T clinical trial work?",
+            "a": "<p>In most CAR-T trials, a patient's T-cells are collected, genetically modified in a laboratory to target a specific cancer marker, then multiplied and infused back into the body. Before infusion, patients usually receive brief chemotherapy to prepare the immune system. Investigators then monitor response, side effects, and cell activity over time. Exact steps, timelines, and the antigen targeted vary by trial and should be explained by the research team.</p>"
+          },
+          {
+            "q": "Which cancers are studied in CAR-T clinical trials?",
+            "a": "<p>CAR-T clinical trials most often study blood cancers, including B-cell acute lymphoblastic leukemia, non-Hodgkin lymphoma, and multiple myeloma, using targets such as CD19 and BCMA. A growing number of experimental trials explore other conditions and solid tumors like glioblastoma or gastric cancer, though these remain early-stage research. Whether a particular cancer type, stage, or biomarker profile fits a trial depends on that study's inclusion criteria and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for a CAR-T clinical trial?",
+            "a": "<p>Eligibility for a CAR-T clinical trial is decided after medical record review and investigator assessment, not in advance. Trials often consider cancer type, stage, biomarker or antigen expression, previous treatments, organ function, and overall health. Many studies enroll patients whose disease has returned or not responded to standard therapy. Because inclusion and exclusion criteria can be strict, final eligibility should be confirmed by the trial team and treating oncologist.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of CAR-T therapy in trials?",
+            "a": "<p>CAR-T therapy can cause serious side effects that trials monitor closely, most notably cytokine release syndrome, which may bring fever, low blood pressure, and breathing difficulty. Neurological effects, infections, and low blood counts can also occur. Severity ranges from mild to life-threatening, and specialized centers manage these reactions. Risks vary by product and patient, so potential benefits and complications should be discussed carefully with the qualified oncology team.</p>"
+          },
+          {
+            "q": "Does joining a CAR-T trial guarantee that the treatment will work?",
+            "a": "<p>No, joining a CAR-T clinical trial does not guarantee benefit, enrollment, or a cure. Trials exist to test whether a therapy is safe and effective, so outcomes are uncertain and vary between patients. Some participants respond well, others do not, and some may experience significant side effects. Eligibility itself is decided after review, and final treatment decisions should always be made by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access CAR-T clinical trials?",
+            "a": "<p>International patients may access CAR-T clinical trials in countries such as the United States, China, and others running active studies, but access depends on hospital acceptance, medical review, and available trial slots. Practical factors include gathering complete medical reports, obtaining a specialist second opinion, visa approval, travel fitness, and planning follow-up care. Admission and trial participation cannot be guaranteed and are confirmed only after investigator assessment.</p>"
+          },
+          {
+            "q": "How much does a CAR-T clinical trial cost?",
+            "a": "<p>Costs for CAR-T clinical trials vary widely, and some study-related components may be provided at reduced or no cost, while other expenses are not. Final cost depends on the hospital, country, diagnosis, tests, hospital stay, management of complications, travel, and the treating team's advice. Trials do not guarantee free treatment or specific pricing, so patients should request a clear written estimate before making travel or treatment plans.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T clinical trials?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Eligibility for any clinical trial is confirmed only after medical record review and investigator assessment.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

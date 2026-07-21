@@ -1,0 +1,68 @@
+{
+  "pillar": "Questions for Patients",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: questions-for-patients",
+  "route": "⚠ VERIFY: /insights/questions-for-patients",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions for Patients — Tumor Therapeutic Vaccines",
+    "intro": "These questions help cancer patients and caregivers understand tumor therapeutic vaccines and prepare for informed conversations with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Tumor Therapeutic Vaccines",
+        "items": [
+          {
+            "q": "What is a tumor therapeutic vaccine?",
+            "a": "<p>A tumor therapeutic vaccine is a treatment designed to train the immune system to recognize and attack existing cancer cells. Unlike preventive vaccines, it is given after a cancer diagnosis to help the body mount a targeted immune response against tumor-specific proteins. It may be considered for selected patients depending on cancer type, stage, biomarker profile, and prior treatment, and its role should always be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does a tumor therapeutic vaccine work?",
+            "a": "<p>A tumor therapeutic vaccine works by exposing the immune system to specific tumor markers so it can identify and destroy cancer cells carrying them. Some vaccines use tumor proteins, others use patient-derived cells or genetic material to prompt this response. The aim is to strengthen the body's own defenses rather than replace standard therapy. How well it works depends on individual factors and should be assessed by the treating medical team.</p>"
+          },
+          {
+            "q": "How is a therapeutic cancer vaccine different from chemotherapy?",
+            "a": "<p>A therapeutic cancer vaccine directs the immune system to target cancer, while chemotherapy uses drugs to kill rapidly dividing cells directly. Vaccines are a form of immunotherapy and are often used alongside or after other treatments rather than instead of them. Side effect patterns can differ between the two approaches. Whether a vaccine, chemotherapy, or a combination is suitable depends on the diagnosis and specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for a tumor therapeutic vaccine?",
+            "a": "<p>Eligibility for a tumor therapeutic vaccine depends on cancer type, stage, biomarker profile, previous treatment, and overall health. These vaccines are not suitable for everyone, and some are available only within approved programs or clinical trials. A specialist reviews medical records, pathology, and imaging before deciding whether a patient may be a candidate. Final treatment decisions should be made by the treating oncology team after careful assessment.</p>"
+          },
+          {
+            "q": "What are the potential benefits of a tumor therapeutic vaccine?",
+            "a": "<p>The potential benefit of a tumor therapeutic vaccine is a targeted immune response that may help control cancer or reduce the risk of recurrence in selected patients. Because it uses the immune system, effects can sometimes be longer lasting than with some other treatments. However, responses vary and no benefit is guaranteed. Whether a vaccine may help in a specific case should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of therapeutic cancer vaccines?",
+            "a": "<p>Common side effects of therapeutic cancer vaccines include injection-site reactions, mild fever, fatigue, and flu-like symptoms. Because they activate the immune system, some patients may experience inflammation or more serious immune-related effects that require monitoring. Side effects vary by vaccine type and individual health. Patients should report any symptoms promptly, and safety should always be managed and reviewed by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and Support",
+        "items": [
+          {
+            "q": "Are tumor therapeutic vaccines available through clinical trials?",
+            "a": "<p>Many tumor therapeutic vaccines are still being studied and may only be accessed through clinical trials. Trial participation is not guaranteed, as each study has strict inclusion and exclusion criteria. Eligibility is decided after medical record review and investigator assessment, and enrollment does not guarantee benefit. Patients interested in trials should discuss the risks, requirements, and realistic expectations with their oncology team before applying.</p>"
+          },
+          {
+            "q": "How can international patients access tumor therapeutic vaccines?",
+            "a": "<p>International patients may access tumor therapeutic vaccines through hospitals or trial centers in countries where these treatments are approved or under study. Access depends on hospital acceptance, medical review, visa approval, travel fitness, and the patient's condition, and none of these can be guaranteed. Preparing complete medical reports and a second opinion helps. Practical planning around cost, travel, and follow-up care should be arranged with the treating team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with tumor therapeutic vaccines?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee treatment access or outcomes and does not replace the care provided by doctors and hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}

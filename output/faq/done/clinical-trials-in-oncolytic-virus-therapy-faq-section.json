@@ -1,0 +1,64 @@
+{
+  "pillar": "Clinical Trials in Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "seed-insight.js",
+  "slug": "⚠ VERIFY: clinical-trials-in-oncolytic-virus-therapy",
+  "route": "⚠ VERIFY: /insights/clinical-trials-in-oncolytic-virus-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Clinical Trials in Oncolytic Virus Therapy",
+    "intro": "Oncolytic virus therapy uses viruses to target and destroy cancer cells, and much of this work is still being tested in clinical trials. These FAQs explain how the trials work, who may qualify, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Oncolytic Virus Therapy Trials",
+        "items": [
+          {
+            "q": "What are clinical trials in oncolytic virus therapy?",
+            "a": "<p>Clinical trials in oncolytic virus therapy are research studies that test genetically modified or naturally occurring viruses designed to infect and destroy cancer cells while sparing healthy tissue. These trials evaluate safety, correct dosing, and how well the therapy shrinks tumours or stimulates an immune response. Most are early-phase studies, and eligibility depends on cancer type, stage, previous treatment, and overall health, with final enrolment decided after investigator review.</p>"
+          },
+          {
+            "q": "How do oncolytic viruses work against cancer?",
+            "a": "<p>Oncolytic viruses work by selectively infecting cancer cells, multiplying inside them, and causing them to burst, which can also trigger the immune system to recognise and attack remaining tumour cells. Some viruses are engineered to carry immune-stimulating genes. In clinical trials, this approach is studied alone or combined with immunotherapy or chemotherapy. Response varies between patients, and the treatment does not guarantee tumour shrinkage or benefit for every individual.</p>"
+          },
+          {
+            "q": "Which cancers are being studied in oncolytic virus trials?",
+            "a": "<p>Oncolytic virus trials are studying several cancers, including melanoma, glioblastoma and other brain tumours, head and neck cancers, sarcoma, and some advanced solid tumours. Talimogene laherparepvec (T-VEC) is one approved oncolytic therapy for melanoma, while many other viruses remain investigational. Whether a specific cancer type has an open trial depends on location, disease stage, and biomarker profile, and suitability should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and the Trial Process",
+        "items": [
+          {
+            "q": "Who is eligible for an oncolytic virus therapy clinical trial?",
+            "a": "<p>Eligibility for an oncolytic virus therapy trial depends on cancer type, stage, biomarker profile, previous treatments, organ function, and overall health. Many trials focus on advanced or treatment-resistant cancers when standard options are limited. Each study has strict inclusion and exclusion criteria, and final eligibility is decided only after medical record review and investigator assessment. Enrolment is never guaranteed, and patients may need specific scans, blood tests, or biopsy results first.</p>"
+          },
+          {
+            "q": "Is oncolytic virus therapy safe, and what are the side effects?",
+            "a": "<p>Oncolytic virus therapy is generally studied as a targeted approach, but like any cancer treatment it can cause side effects. Reported effects may include flu-like symptoms such as fever, chills, fatigue, and injection-site reactions, and less commonly more serious immune-related events. Because many viruses are given directly into tumours, safety is closely monitored during trials. Side effects vary by patient and virus type, and should be discussed with the treating medical team.</p>"
+          },
+          {
+            "q": "What happens during an oncolytic virus therapy trial?",
+            "a": "<p>During an oncolytic virus therapy trial, patients first undergo screening tests to confirm eligibility, such as scans, blood work, and sometimes a biopsy. The virus may be injected directly into the tumour or given intravenously, often over several cycles. Regular monitoring tracks safety, immune response, and tumour changes. Trials follow a detailed protocol, and participation is voluntary, so patients can ask questions and withdraw at any time after discussing it with their team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "How much do oncolytic virus therapy trials cost, and are they available internationally?",
+            "a": "<p>The cost of oncolytic virus therapy trials varies widely, and in many studies the investigational treatment itself is provided at no charge, while related tests, travel, and hospital care may not be. Trials run in select centres across the United States, Europe, China, and other countries, so availability depends on location and open slots. International access also depends on hospital acceptance, medical review, visa approval, and travel fitness, and none of these are guaranteed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with clinical trials in oncolytic virus therapy?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant oncolytic virus therapy trials or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Eligibility for any trial is decided only after medical record review and investigator assessment, and treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Enrolment and outcomes cannot be guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent Insight page.",
+  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+}
