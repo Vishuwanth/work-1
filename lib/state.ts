@@ -6,47 +6,35 @@ import type {
   OverviewStats,
   ThroughputPoint,
 } from "@/lib/types";
-import { faqCount, verifyFlags, VERIFY_RE } from "@/lib/fixtures";
+import { faqCount } from "@/lib/fixtures";
+import { pageKey } from "@/lib/pages";
 
 type Tracker = Record<string, ReviewRecord>;
 
 /**
  * Join rows with their generated fixtures and tracker records into RowViews.
- * A slug present in doneBySlug is "done"; otherwise in rawBySlug is "raw";
- * otherwise "not-generated". verifyCount is the fixture's flags minus any
- * slug/route resolved by the tracker's edits. A slug in `invalidSlugs` has a
- * fixture file on disk that failed to parse.
+ * Every map and the tracker are keyed "collection/slug" — the same slug can exist
+ * in two collections, so a slug-only key would collide.
  */
 export function deriveRowViews(
   rows: Row[],
-  rawBySlug: Map<string, Fixture>,
-  doneBySlug: Map<string, Fixture>,
+  rawByKey: Map<string, Fixture>,
+  doneByKey: Map<string, Fixture>,
   tracker: Tracker,
-  invalidSlugs: Set<string> = new Set(),
+  invalidKeys: Set<string> = new Set(),
 ): RowView[] {
   return rows.map((row) => {
-    const done = doneBySlug.get(row.slug);
-    const raw = rawBySlug.get(row.slug);
+    const key = pageKey(row);
+    const done = doneByKey.get(key);
+    const raw = rawByKey.get(key);
     const fixture = done ?? raw ?? null;
-    const contentState = done ? "done" : raw ? "raw" : "not-generated";
-    const rec = tracker[row.slug];
-
-    let verifyCount = 0;
-    if (fixture) {
-      verifyCount = verifyFlags(fixture);
-      if (rec) {
-        if (rec.edits.slug && VERIFY_RE.test(fixture.slug)) verifyCount--;
-        if (rec.edits.route && VERIFY_RE.test(fixture.route)) verifyCount--;
-      }
-    }
 
     return {
       ...row,
-      contentState,
-      reviewStatus: rec?.reviewStatus ?? "pending",
-      verifyCount,
+      contentState: done ? "done" : raw ? "raw" : "not-generated",
+      reviewStatus: tracker[key]?.reviewStatus ?? "pending",
       faqCount: fixture ? faqCount(fixture) : null,
-      invalid: invalidSlugs.has(row.slug),
+      invalid: invalidKeys.has(key),
     };
   });
 }
@@ -77,7 +65,11 @@ export function throughputByDay(
   return buckets;
 }
 
-/** Aggregate counts for the command-center overview. */
+/**
+ * Aggregate counts for the command-center overview. Grouping is by `collection`,
+ * not pillar: 448 of the 449 pending pages have a blank pillar_association, so a
+ * per-pillar breakdown of the backlog would read all zeroes.
+ */
 export function overviewStats(views: RowView[]): OverviewStats {
   const stats: OverviewStats = {
     total: views.length,
@@ -85,19 +77,17 @@ export function overviewStats(views: RowView[]): OverviewStats {
     approved: 0,
     needsWork: 0,
     pending: 0,
-    withVerify: 0,
-    perPillar: {},
+    perCollection: {},
     throughput: [],
   };
   for (const v of views) {
     if (v.contentState !== "not-generated") {
       stats.generated++;
-      stats.perPillar[v.pillarName] = (stats.perPillar[v.pillarName] ?? 0) + 1;
+      stats.perCollection[v.collection] = (stats.perCollection[v.collection] ?? 0) + 1;
     }
     if (v.reviewStatus === "approved") stats.approved++;
     else if (v.reviewStatus === "needs-work") stats.needsWork++;
     else stats.pending++;
-    if (v.verifyCount > 0) stats.withVerify++;
   }
   return stats;
 }
