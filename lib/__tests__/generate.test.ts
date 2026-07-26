@@ -1,104 +1,125 @@
 import { describe, it, expect } from "vitest";
-import { buildPrompt, pageTargets, wrapSection, parseSectionFromOutput, normalizeContentType } from "@/lib/generate";
+import { resolve } from "node:path";
+import {
+  pageTargets,
+  buildPrompt,
+  buildFixture,
+  parseSectionFromOutput,
+} from "@/lib/generate";
+import { validateFixture } from "@/lib/validate";
 import type { Row, FaqSection } from "@/lib/types";
 
-const blankRow: Row = {
-  rowNum: 463,
-  pillarNum: "24",
-  pillarName: "Blood Cancers",
-  title: "What is the difference between leukemia, lymphoma, and myeloma?",
-  excelStatus: "Pending",
-  contentType: "",
-  slug: "what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
-};
+const PROMPT = resolve(process.cwd(), "docs/prompts/faq-generation-prompt.md");
 
-const doneGuideRow: Row = {
-  rowNum: 464,
-  pillarNum: "24",
-  pillarName: "Leukemia",
-  title: "AML treatment guide: induction, consolidation, and when is transplant needed?",
-  excelStatus: "Done",
-  contentType: "guide",
-  slug: "aml-treatment-guide-induction-consolidation-and-when-is-transplant-needed",
-};
+function row(extra: Partial<Row> = {}): Row {
+  return {
+    collection: "treatments",
+    slug: "carbon-ion-therapy",
+    title: "Carbon Ion Therapy",
+    faqDone: false,
+    role: "",
+    pillarAssociation: "Proton therapy",
+    ...extra,
+  };
+}
 
-const section: FaqSection = {
-  type: "faq",
-  id: "faq",
-  h2: "FAQ",
-  intro: "intro",
-  groups: [{ title: "G", items: [{ q: "q", a: "<p>a</p>" }] }],
-};
+function section(items: number, groups = 1): FaqSection {
+  const per = items / groups;
+  return {
+    type: "faq",
+    id: "faq",
+    h2: "Frequently Asked Questions",
+    groups: Array.from({ length: groups }, (_, g) => ({
+      title: groups === 1 ? "" : `Group ${g}`,
+      items: Array.from({ length: per }, (_, i) => ({
+        q: `Q${g}${i}?`,
+        a: g === 0 && i === 0 ? "<p>CancerFax can help coordinate this.</p>" : `<p>A${g}${i}.</p>`,
+      })),
+    })),
+  };
+}
 
-describe("normalizeContentType", () => {
-  it("maps free-text content types to a canonical kind (substring, case-insensitive)", () => {
-    expect(normalizeContentType("Clinical Trial")).toBe("trial");
-    expect(normalizeContentType("Treatment Page")).toBe("treatment");
-    expect(normalizeContentType("condition")).toBe("treatment");
-    expect(normalizeContentType("Guides")).toBe("guide");
-    expect(normalizeContentType("Insights")).toBe("insight");
-    expect(normalizeContentType("Support")).toBe("insight");
-    expect(normalizeContentType("Pillar")).toBe("pillar");
-    expect(normalizeContentType("")).toBe("unknown");
-    expect(normalizeContentType("something else")).toBe("unknown");
+describe("pageTargets", () => {
+  it("is 20 items in 5 titled groups for a pillar page", () => {
+    expect(pageTargets("PILLAR PAGE")).toEqual({ count: 20, groups: 5, grouped: true });
+  });
+  it("is 10 items in one flat group for a support page", () => {
+    expect(pageTargets("Support Page")).toEqual({ count: 10, groups: 1, grouped: false });
+  });
+  it("treats a blank role as a support page", () => {
+    expect(pageTargets("")).toEqual({ count: 10, groups: 1, grouped: false });
   });
 });
 
-describe("pageTargets", () => {
-  it("defaults blank content type to the pillar target of 18", () => {
-    expect(pageTargets("").count).toBe(18);
-    expect(pageTargets("guide").count).toBe(8);
-    expect(pageTargets("Clinical Trial").count).toBe(6);
+describe("buildFixture", () => {
+  it("builds the canonical wrapper with no VERIFY anywhere", () => {
+    const fx = buildFixture(row(), section(10));
+    expect(fx).toMatchObject({
+      pillar: "Proton therapy",
+      contentType: "Treatments",
+      runner: "apply-pillar-faqs.js",
+      slug: "carbon-ion-therapy",
+      route: "/treatments/carbon-ion-therapy",
+    });
+    expect(JSON.stringify(fx)).not.toContain("⚠");
+  });
+
+  it("falls back to the title when pillar_association is blank", () => {
+    const fx = buildFixture(row({ pillarAssociation: "" }), section(10));
+    expect(fx.pillar).toBe("Carbon Ion Therapy");
+  });
+
+  it("omits legacy fields", () => {
+    const fx = buildFixture(row(), section(10)) as unknown as Record<string, unknown>;
+    expect(fx.schemaRecommendation).toBeUndefined();
+    expect(fx.medicalDisclaimer).toBeUndefined();
+    expect(fx.section).toBeUndefined();
+  });
+
+  it("produces a fixture the validator accepts", () => {
+    const r = row();
+    expect(validateFixture(buildFixture(r, section(10)), r)).toEqual([]);
+  });
+
+  it("produces a valid pillar fixture too", () => {
+    const r = row({ role: "PILLAR PAGE" });
+    expect(validateFixture(buildFixture(r, section(20, 5)), r)).toEqual([]);
   });
 });
 
 describe("buildPrompt", () => {
-  const prompt = buildPrompt(blankRow);
-
-  it("includes the title, the 18-FAQ target, and the master-prompt header", () => {
-    expect(prompt).toContain(blankRow.title);
-    expect(prompt).toContain("18");
-    expect(prompt).toContain("CANCERFAX FAQ GENERATION PROMPT FOR CLAUDE");
-    expect(prompt).toContain("Return ONLY the section JSON");
-  });
-});
-
-describe("wrapSection", () => {
-  it("wraps a blank-type pending row with VERIFY slug/route and a `section` key", () => {
-    const fx = wrapSection(blankRow, section);
-    expect(fx.slug).toBe("⚠ VERIFY: what-is-the-difference-between-leukemia-lymphoma-and-myeloma");
-    expect(fx.route).toContain("⚠ VERIFY:");
-    expect(fx.section).toBe(section);
-    expect(fx.sectionToMerge).toBeUndefined();
-    expect(fx.medicalDisclaimer).toContain("educational purposes only");
-    expect(Object.keys(fx)).toEqual([
-      "pillar",
-      "contentType",
-      "runner",
-      "slug",
-      "route",
-      "section",
-      "schemaRecommendation",
-      "medicalDisclaimer",
-    ]);
+  it("states the exact count and flat shape for a support page", () => {
+    const p = buildPrompt(row(), PROMPT);
+    expect(p).toContain("exactly 10");
+    expect(p).toContain('"title": ""');
+    expect(p).toContain("Carbon Ion Therapy");
+    expect(p).toContain("/treatments/carbon-ion-therapy");
   });
 
-  it("uses sectionToMerge + a routed guide base for a Done guide row", () => {
-    const fx = wrapSection(doneGuideRow, section);
-    expect(fx.sectionToMerge).toBe(section);
-    expect(fx.section).toBeUndefined();
-    expect(fx.route).toBe("⚠ VERIFY: /guides/aml-treatment-guide-induction-consolidation-and-when-is-transplant-needed");
-    expect(fx.runner).toBe("seed-guide.js");
+  it("states the grouped shape for a pillar page", () => {
+    const p = buildPrompt(row({ role: "PILLAR PAGE" }), PROMPT);
+    expect(p).toContain("exactly 20");
+    expect(p).toContain("4-5 themed groups");
+  });
+
+  it("carries the CancerFax mention rule", () => {
+    expect(buildPrompt(row(), PROMPT)).toContain("exactly 1 or 2");
+  });
+
+  it("never leaks a VERIFY placeholder into the prompt", () => {
+    expect(buildPrompt(row(), PROMPT)).not.toContain("⚠ VERIFY");
   });
 });
 
 describe("parseSectionFromOutput", () => {
-  it("strips a preamble and extracts the JSON object", () => {
-    const out = `Sure, here is the section:\n\n${JSON.stringify(section)}\n\nHope that helps!`;
-    expect(parseSectionFromOutput(out)).toEqual(section);
+  it("extracts JSON from a fenced, prefaced reply", () => {
+    const s = parseSectionFromOutput(
+      'Sure!\n```json\n{"type":"faq","id":"faq","h2":"H","groups":[]}\n```\nDone.',
+    );
+    expect(s.type).toBe("faq");
   });
 
-  it("throws when there is no JSON object", () => {
-    expect(() => parseSectionFromOutput("no json here")).toThrow();
+  it("throws when there is no object", () => {
+    expect(() => parseSectionFromOutput("no json here")).toThrow(/no JSON object/);
   });
 });
