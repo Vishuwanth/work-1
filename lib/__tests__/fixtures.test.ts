@@ -1,99 +1,163 @@
 import { describe, it, expect } from "vitest";
-import { readFileSync } from "node:fs";
-import { resolve } from "node:path";
 import {
-  cleanSlug,
-  getSection,
+  normalizeFixture,
   faqCount,
-  verifyFlags,
   isFaqShape,
   ensureP,
   applyEdits,
+  titleCaseCollection,
+  routeFor,
+  fixtureFilename,
+  rawSectionKeys,
 } from "@/lib/fixtures";
 import type { Fixture, ReviewRecord } from "@/lib/types";
 
-const inlineFixture: Fixture = {
-  pillar: "Test Topic",
-  contentType: "⚠ VERIFY",
-  runner: "⚠ VERIFY: unknown",
-  slug: "⚠ VERIFY: test-topic",
-  route: "⚠ VERIFY: /<section>/test-topic",
-  section: {
+const RAW = {
+  pillar: "Proton therapy",
+  contentType: "Treatments",
+  runner: "apply-pillar-faqs.js",
+  slug: "carbon-ion-therapy",
+  route: "/treatments/carbon-ion-therapy",
+  sectionToMerge: {
     type: "faq",
     id: "faq",
-    h2: "FAQ",
-    intro: "intro",
-    groups: [
-      { title: "G1", items: [{ q: "Q1", a: "<p>A1</p>" }, { q: "Q2", a: "<p>A2</p>" }] },
-      { title: "G2", items: [{ q: "Q3", a: "<p>A3</p>" }] },
-    ],
+    h2: "Frequently Asked Questions",
+    groups: [{ title: "", items: [{ q: "Q1", a: "<p>A1</p>" }] }],
   },
-  schemaRecommendation: "schema",
-  medicalDisclaimer: "disclaimer",
 };
 
-describe("fixture helpers", () => {
-  it("cleanSlug strips the VERIFY prefix and flags it", () => {
-    expect(cleanSlug("⚠ VERIFY: test-topic")).toEqual({ value: "test-topic", needsVerify: true });
-    expect(cleanSlug("plain")).toEqual({ value: "plain", needsVerify: false });
+describe("normalizeFixture", () => {
+  it("passes a canonical fixture through unchanged", () => {
+    expect(normalizeFixture(RAW)).toEqual(RAW);
   });
 
-  it("getSection resolves either key", () => {
-    expect(getSection(inlineFixture)).toBe(inlineFixture.section);
-    const merged: Fixture = { ...inlineFixture, section: undefined, sectionToMerge: inlineFixture.section };
-    expect(getSection(merged)).toBe(merged.sectionToMerge);
+  it("moves a legacy `section` key to `sectionToMerge`", () => {
+    const { sectionToMerge, ...rest } = RAW;
+    const fx = normalizeFixture({ ...rest, section: sectionToMerge });
+    expect(fx?.sectionToMerge.groups[0].items[0].q).toBe("Q1");
+    expect((fx as unknown as Record<string, unknown>).section).toBeUndefined();
   });
 
-  it("faqCount counts all items", () => {
-    expect(faqCount(inlineFixture)).toBe(3);
+  it("renames question/answer to q/a", () => {
+    const fx = normalizeFixture({
+      ...RAW,
+      sectionToMerge: {
+        ...RAW.sectionToMerge,
+        groups: [{ title: "", items: [{ question: "Q1", answer: "<p>A1</p>" }] }],
+      },
+    });
+    expect(fx?.sectionToMerge.groups[0].items[0]).toEqual({ q: "Q1", a: "<p>A1</p>" });
   });
 
-  it("verifyFlags counts VERIFY in slug + route (0/1/2)", () => {
-    expect(verifyFlags(inlineFixture)).toBe(2);
-    expect(verifyFlags({ ...inlineFixture, route: "/ok/test-topic" })).toBe(1);
-    expect(verifyFlags({ ...inlineFixture, slug: "test-topic", route: "/ok" })).toBe(0);
+  it("drops legacy top-level fields", () => {
+    const fx = normalizeFixture({
+      ...RAW,
+      schemaRecommendation: "x",
+      medicalDisclaimer: "y",
+    }) as unknown as Record<string, unknown>;
+    expect(fx.schemaRecommendation).toBeUndefined();
+    expect(fx.medicalDisclaimer).toBeUndefined();
   });
 
-  it("isFaqShape is true for a faq section with groups array", () => {
-    expect(isFaqShape(inlineFixture)).toBe(true);
-    expect(isFaqShape({ ...inlineFixture, section: undefined, sectionToMerge: undefined })).toBe(false);
+  it("keeps intro when present and omits the key when absent", () => {
+    const withIntro = normalizeFixture({
+      ...RAW,
+      sectionToMerge: { ...RAW.sectionToMerge, intro: "Hello" },
+    });
+    expect(withIntro?.sectionToMerge.intro).toBe("Hello");
+    expect("intro" in (normalizeFixture(RAW) as Fixture).sectionToMerge).toBe(false);
   });
 
-  it("ensureP wraps plain text once", () => {
-    expect(ensureP("hello")).toBe("<p>hello</p>");
-    expect(ensureP("<p>hello</p>")).toBe("<p>hello</p>");
-  });
-
-  it("applyEdits wraps an answer edit, resolves slug/route, and does not mutate input", () => {
-    const rec: ReviewRecord = {
-      reviewStatus: "pending",
-      note: "",
-      edits: { answers: { "0.0": "edited answer" }, slug: "test-topic", route: "/ok/test-topic" },
-    };
-    const out = applyEdits(inlineFixture, rec);
-    expect(getSection(out)!.groups[0].items[0].a).toBe("<p>edited answer</p>");
-    expect(out.slug).toBe("test-topic");
-    expect(out.route).toBe("/ok/test-topic");
-    // input untouched
-    expect(getSection(inlineFixture)!.groups[0].items[0].a).toBe("<p>A1</p>");
-    expect(inlineFixture.slug).toBe("⚠ VERIFY: test-topic");
+  it("returns null for junk", () => {
+    expect(normalizeFixture(null)).toBeNull();
+    expect(normalizeFixture("nope")).toBeNull();
+    expect(normalizeFixture({ pillar: "x" })).toBeNull();
   });
 });
 
-describe("fixture helpers against a real fixture", () => {
-  const raw = JSON.parse(
-    readFileSync(
-      resolve(
-        process.cwd(),
-        "lib/__tests__/fixtures/what-is-the-difference-between-leukemia-lymphoma-and-myeloma-faq-section.json",
-      ),
-      "utf8",
-    ),
-  ) as Fixture;
+describe("faqCount", () => {
+  it("sums items across groups", () => {
+    const fx = normalizeFixture({
+      ...RAW,
+      sectionToMerge: {
+        ...RAW.sectionToMerge,
+        groups: [
+          { title: "G1", items: [{ q: "a", a: "<p>1</p>" }, { q: "b", a: "<p>2</p>" }] },
+          { title: "G2", items: [{ q: "c", a: "<p>3</p>" }] },
+        ],
+      },
+    }) as Fixture;
+    expect(faqCount(fx)).toBe(3);
+  });
+});
 
-  it("reports 18 FAQs, 2 verify flags, and a valid faq shape", () => {
-    expect(faqCount(raw)).toBe(18);
-    expect(verifyFlags(raw)).toBe(2);
-    expect(isFaqShape(raw)).toBe(true);
+describe("isFaqShape", () => {
+  it("accepts the canonical shape", () => {
+    expect(isFaqShape(normalizeFixture(RAW) as Fixture)).toBe(true);
+  });
+});
+
+describe("ensureP", () => {
+  it("wraps a bare string", () => {
+    expect(ensureP("hello")).toBe("<p>hello</p>");
+  });
+  it("leaves an already-wrapped string alone", () => {
+    expect(ensureP("<p>hello</p>")).toBe("<p>hello</p>");
+  });
+  it("does not double-wrap after trimming", () => {
+    expect(ensureP("  <p>hello</p>  ")).toBe("<p>hello</p>");
+  });
+});
+
+describe("applyEdits", () => {
+  const rec: ReviewRecord = {
+    reviewStatus: "approved",
+    note: "",
+    edits: { answers: { "0.0": "edited" } },
+  };
+
+  it("applies an answer edit and wraps it", () => {
+    const out = applyEdits(normalizeFixture(RAW) as Fixture, rec);
+    expect(out.sectionToMerge.groups[0].items[0].a).toBe("<p>edited</p>");
+  });
+
+  it("never mutates the input", () => {
+    const fx = normalizeFixture(RAW) as Fixture;
+    applyEdits(fx, rec);
+    expect(fx.sectionToMerge.groups[0].items[0].a).toBe("<p>A1</p>");
+  });
+});
+
+describe("titleCaseCollection / routeFor / fixtureFilename", () => {
+  it("title-cases each collection", () => {
+    expect(titleCaseCollection("guides")).toBe("Guides");
+    expect(titleCaseCollection("insights")).toBe("Insights");
+    expect(titleCaseCollection("treatments")).toBe("Treatments");
+  });
+  it("throws on an unknown collection", () => {
+    expect(() => titleCaseCollection("blogs")).toThrow(/unknown collection/);
+  });
+  it("builds the route", () => {
+    expect(routeFor("treatments", "carbon-ion-therapy")).toBe("/treatments/carbon-ion-therapy");
+  });
+  it("builds the fixture filename", () => {
+    expect(fixtureFilename("carbon-ion-therapy")).toBe("carbon-ion-therapy-faq-section.json");
+  });
+});
+
+describe("rawSectionKeys", () => {
+  it("reports what the file actually said, not the normalized value", () => {
+    const raw = { ...RAW, sectionToMerge: { ...RAW.sectionToMerge, type: "faqs", id: "nope" } };
+    expect(rawSectionKeys(raw)).toEqual({ type: "faqs", id: "nope" });
+  });
+  it("reads a legacy `section` key too", () => {
+    const { sectionToMerge, ...rest } = RAW;
+    expect(rawSectionKeys({ ...rest, section: sectionToMerge })).toEqual({
+      type: "faq",
+      id: "faq",
+    });
+  });
+  it("returns undefineds for junk", () => {
+    expect(rawSectionKeys(null)).toEqual({ type: undefined, id: undefined });
   });
 });
