@@ -1,20 +1,30 @@
 // Shared types for the CancerFax review app.
+// Row identity is `collection` + `slug`, taken from the live-site status CSV.
+import type { Collection, PageRole } from "@/lib/pages";
+
+export type { Collection, PageRole };
 
 export type ContentState = "not-generated" | "raw" | "done";
 export type ReviewStatus = "pending" | "approved" | "needs-work";
 /** Transient client-side generation status overlaid on a row during a batch/single run. */
 export type GenStatus = "queued" | "running" | "done" | "failed" | "skipped";
 
-/** One content row read from the "All 300 Pages" workbook sheet. */
-export interface Row {
-  rowNum: number;
-  /** The sheet's "Pillar #" — empty for the trailing rows that carry no pillar. */
+/** Optional planning metadata joined in from the read-only workbook. */
+export interface ExcelMeta {
   pillarNum: string;
   pillarName: string;
-  title: string;
   excelStatus: string;
-  contentType: string;
+}
+
+/** One live page, optionally enriched with workbook metadata. */
+export interface Row {
+  collection: Collection;
   slug: string;
+  title: string;
+  faqDone: boolean;
+  role: PageRole;
+  pillarAssociation: string;
+  excel?: ExcelMeta;
 }
 
 /** A single FAQ item. */
@@ -23,46 +33,44 @@ export interface FaqItem {
   a: string;
 }
 
-/** A thematic group of FAQ items. */
+/** A thematic group of FAQ items. Support pages use a single group with title "". */
 export interface FaqGroup {
   title: string;
   items: FaqItem[];
 }
 
-/** The FAQ section carried by a fixture (under `section` or `sectionToMerge`). */
+/** The FAQ section carried by a fixture. `intro` is optional and omitted by default. */
 export interface FaqSection {
-  type: string;
-  id: string;
+  type: "faq";
+  id: "faq";
   h2: string;
-  intro: string;
+  intro?: string;
   groups: FaqGroup[];
 }
 
-/** A fixture wrapper as written by the generator (faq_write.py semantics). */
+/** A fixture in the team's `apply-pillar-faqs.js` format. */
 export interface Fixture {
   pillar: string;
-  contentType: string;
-  runner: string;
+  contentType: "Guides" | "Insights" | "Treatments";
+  runner: "apply-pillar-faqs.js";
   slug: string;
   route: string;
-  section?: FaqSection;
-  sectionToMerge?: FaqSection;
-  schemaRecommendation: string;
-  medicalDisclaimer: string;
+  sectionToMerge: FaqSection;
 }
 
-/** Per-slug edit overlay + review decision, persisted in tracker.json. */
+/** Per-page edit overlay + review decision, persisted in tracker.json keyed "collection/slug". */
 export interface ReviewRecord {
   reviewStatus: ReviewStatus;
   note: string;
   edits: {
+    /** Keyed "<groupIndex>.<itemIndex>". */
     answers: Record<string, string>;
-    slug: string;
-    route: string;
   };
   reviewedAt?: string;
   movedAt?: string;
   generatedAt?: string;
+  /** Set by scripts/reconcile-corpus.mjs for the pre-migration corpus. */
+  ledgerStatus?: "live" | "no-page" | "drifted" | "other";
 }
 
 /** UI toggles persisted in toggles.json. */
@@ -77,7 +85,6 @@ export interface Toggles {
 export type RowView = Row & {
   contentState: ContentState;
   reviewStatus: ReviewStatus;
-  verifyCount: number;
   faqCount: number | null;
   /** The fixture file exists but could not be parsed as JSON. */
   invalid?: boolean;
@@ -96,8 +103,7 @@ export interface OverviewStats {
   approved: number;
   needsWork: number;
   pending: number;
-  withVerify: number;
-  perPillar: Record<string, number>;
+  perCollection: Record<string, number>;
   /** Generated-per-day for the last 7 days (oldest → newest). */
   throughput: ThroughputPoint[];
 }
