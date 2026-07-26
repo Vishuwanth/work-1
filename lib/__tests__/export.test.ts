@@ -1,5 +1,6 @@
 import { describe, it, expect } from "vitest";
 import { HEADERS, toRowArrays, buildStatusWorkbook, exportFilename, SHEET_NAME } from "@/lib/export";
+import { fixtureFilename } from "@/lib/fixtures";
 import type { RowView } from "@/lib/types";
 
 function view(extra: Partial<RowView> = {}): RowView {
@@ -27,6 +28,7 @@ describe("HEADERS", () => {
       "Pillar Association",
       "FAQ Done",
       "Gen Status",
+      "Fixture File",
       "Review Status",
       "Excel Status",
     ]);
@@ -40,7 +42,7 @@ describe("HEADERS", () => {
 describe("toRowArrays", () => {
   it("maps a bare row", () => {
     expect(toRowArrays([view()])).toEqual([
-      ["insights", "a-slug", "A Title", "", "", "No", "Not generated", "pending", ""],
+      ["insights", "a-slug", "A Title", "", "", "No", "Not generated", "", "pending", ""],
     ]);
   });
 
@@ -58,12 +60,46 @@ describe("toRowArrays", () => {
         }),
       ]),
     ).toEqual([
-      ["guides", "a-slug", "A Title", "PILLAR PAGE", "P", "Yes", "Generated", "approved", "Done"],
+      [
+        "guides",
+        "a-slug",
+        "A Title",
+        "PILLAR PAGE",
+        "P",
+        "Yes",
+        "Generated",
+        "a-slug-faq-section.json",
+        "approved",
+        "Done",
+      ],
     ]);
   });
 
   it("counts a raw fixture as generated", () => {
     expect(toRowArrays([view({ contentState: "raw" })])[0][6]).toBe("Generated");
+  });
+});
+
+describe("the Fixture File column", () => {
+  const fileCell = (v: RowView) => toRowArrays([v])[0][7];
+
+  it("names the file for a raw fixture", () => {
+    expect(fileCell(view({ contentState: "raw" }))).toBe("a-slug-faq-section.json");
+  });
+
+  it("names the file for a done fixture", () => {
+    expect(fileCell(view({ contentState: "done" }))).toBe("a-slug-faq-section.json");
+  });
+
+  // No fixture on disk means no filename to report — an invented one would send a
+  // reviewer looking for a file that does not exist.
+  it("is blank when nothing has been generated", () => {
+    expect(fileCell(view({ contentState: "not-generated" }))).toBe("");
+  });
+
+  it("matches the name the batch export actually writes", () => {
+    const v = view({ slug: "carbon-ion-therapy", contentState: "done" });
+    expect(fileCell(v)).toBe(fixtureFilename("carbon-ion-therapy"));
   });
 });
 

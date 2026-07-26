@@ -3,6 +3,7 @@
 // joined. Pure — no fs.
 import * as XLSX from "xlsx";
 import type { RowView } from "@/lib/types";
+import { fixtureFilename } from "@/lib/fixtures";
 
 export const SHEET_NAME = "Content Status";
 
@@ -14,11 +15,12 @@ export const HEADERS = [
   "Pillar Association",
   "FAQ Done",
   "Gen Status",
+  "Fixture File",
   "Review Status",
   "Excel Status",
 ] as const;
 
-const WIDTHS = [12, 55, 60, 14, 30, 10, 14, 14, 14];
+const WIDTHS = [12, 55, 60, 14, 30, 10, 14, 58, 14, 14];
 
 export function toRowArrays(views: RowView[]): (string | number)[][] {
   return views.map((v) => [
@@ -29,6 +31,9 @@ export function toRowArrays(views: RowView[]): (string | number)[][] {
     v.pillarAssociation,
     v.faqDone ? "Yes" : "No",
     v.contentState === "not-generated" ? "Not generated" : "Generated",
+    // Blank when nothing is on disk — naming a file that does not exist would send
+    // a reviewer hunting for it.
+    v.contentState === "not-generated" ? "" : fixtureFilename(v.slug),
     v.reviewStatus,
     v.excel?.excelStatus ?? "",
   ]);
