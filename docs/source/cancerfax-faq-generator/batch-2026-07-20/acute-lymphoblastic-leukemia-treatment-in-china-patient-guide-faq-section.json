@@ -1,0 +1,59 @@
+{
+  "pillar": "Acute Lymphoblastic Leukaemia (ALL) Treatment in China",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "acute-lymphoblastic-leukemia-treatment-in-china-patient-guide",
+  "route": "/guides/acute-lymphoblastic-leukemia-treatment-in-china-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is CAR-T therapy in China safe and effective for treating ALL?",
+            "a": "<p>CAR-T cell therapy using approved CD19 products at major academic centres in China is considered safe and effective for B-cell ALL, with thousands of patients treated and outcomes broadly comparable to leading international programmes at experienced centres. Safety depends heavily on centre experience, since managing cytokine release syndrome and neurotoxicity requires dedicated ICU support and specialist nursing, and structured monitoring for late effects continues after treatment. Suitability and expected outcomes depend on the patient's antigen expression, disease burden, and prior treatment, and should be confirmed with the treating oncology team before travel is planned.</p>"
+          },
+          {
+            "q": "Can children with ALL be treated in China?",
+            "a": "<p>Yes, several Chinese hospitals run dedicated paediatric ALL programmes offering CAR-T cell therapy, haploidentical (half-match) bone marrow transplant, and paediatric-inspired chemotherapy protocols guided by minimal residual disease (MRD) response. These centres have specific experience treating children through both frontline induction therapy and relapsed disease, and family logistics such as accommodation, schooling continuity, interpreter support, and parental accompaniment are typically built into treatment planning. Whether a China-based programme is appropriate for a specific child depends on age, subtype, and prior treatment, and should be reviewed by a paediatric oncology specialist.</p>"
+          },
+          {
+            "q": "What are the options if CD19 CAR-T therapy stops working for ALL?",
+            "a": "<p>When CD19 CAR-T therapy fails due to antigen loss or relapse, options can include CD22 CAR-T, dual CD19/CD22 CAR-T platforms, allogeneic (donor-derived) CAR-T, and alternative bispecific antibody approaches, several of which are actively studied in Chinese trial programmes. China has particular depth in this area, including CD7 CAR-T for T-cell ALL, a subtype with historically fewer targeted options elsewhere. Choice among these approaches depends on antigen expression on the leukaemia cells, disease burden, and prior therapy, and eligibility for any specific trial or product may be considered only after specialist review of the case.</p>"
+          },
+          {
+            "q": "Is a bone marrow transplant always needed after CAR-T therapy for ALL?",
+            "a": "<p>No, an allogeneic bone marrow transplant is not always required after CAR-T therapy for ALL — some patients achieve durable remission with CAR-T alone, while others benefit from consolidative transplant to maintain long-term control. The decision depends on factors including patient age, MRD status after CAR-T, donor availability, and overall fitness for transplant. Chinese transplant centres have particular experience with haploidentical family-donor transplants, which can make finding a suitable donor faster than through unrelated-donor registries. Whether transplant is needed in a specific case should be decided by the treating haematology and transplant team.</p>"
+          },
+          {
+            "q": "What is MRD testing and why does it matter for ALL treatment decisions?",
+            "a": "<p>Minimal residual disease (MRD) testing measures very low levels of leukaemia cells remaining after treatment using flow cytometry, PCR, or next-generation sequencing, and its results now guide most major decisions in ALL care. A patient's MRD status after induction and consolidation therapy helps determine whether treatment should be intensified, whether immunotherapy such as blinatumomab should be added to clear residual disease, or whether allogeneic transplant should proceed. Because MRD testing sensitivity varies between laboratories, confirming that appropriate methods are being used is especially important when relapse risk is high, and should be discussed with the treating specialist team.</p>"
+          },
+          {
+            "q": "Are targeted drugs like imatinib and dasatinib used for Philadelphia-positive ALL?",
+            "a": "<p>Yes, tyrosine kinase inhibitors such as imatinib, dasatinib, and ponatinib are standard components of Philadelphia-positive (Ph+) ALL treatment in China, typically combined with chemotherapy or chemotherapy-light regimens. Combining a TKI with blinatumomab, a CD19/CD3 bispecific antibody, has produced strong outcomes in adults and is used in modern Ph+ ALL protocols, and whether allogeneic transplant is added in first remission depends on MRD response, donor availability, and patient fitness. Because TKI selection and treatment intensity depend on individual case factors, decisions should be made with the treating oncology team.</p>"
+          },
+          {
+            "q": "How much does ALL treatment in China typically cost?",
+            "a": "<p>The cost of ALL treatment in China varies considerably depending on the treatment pathway chosen — chemotherapy, immunotherapy such as blinatumomab or inotuzumab, CAR-T cell therapy, or allogeneic transplant — as well as the hospital, length of stay, and any complications encountered. Costs also depend on whether treatment involves an approved product or a clinical trial, since trial participation can significantly change out-of-pocket expenses. Because pricing differs by centre and by each patient's specific treatment plan, families should request a realistic estimate directly from the matched hospital once the case has been reviewed, rather than relying on a general figure.</p>"
+          },
+          {
+            "q": "How quickly can ALL treatment start after sharing medical reports?",
+            "a": "<p>ALL is treated as a medical urgency, so hospital review of shared reports typically takes only a few days, and admission can sometimes be arranged within one to two weeks if the patient is stable enough to travel. For patients who are not yet medically stable, stabilisation at the current treating hospital before travel is usually necessary and can affect the realistic timeline. Actual timing depends on how quickly a matched centre can review the case, bed availability, and the urgency indicated by MRD and disease status, and should be confirmed directly with the treating and receiving medical teams.</p>"
+          },
+          {
+            "q": "Does China offer clinical trials for relapsed or refractory ALL?",
+            "a": "<p>Yes, China runs one of the most active global clinical trial pipelines for relapsed or refractory ALL, including next-generation CAR-T constructs, allogeneic 'off-the-shelf' CAR-T platforms, novel bispecific antibodies, and chemotherapy-sparing regimens. International patient access to these trials varies by trial site and sponsor, and eligibility criteria are typically strict, covering factors such as antigen expression, prior treatment lines, and organ function. Because trial availability and eligibility change frequently, whether a specific trial is a realistic option for a given case depends on specialist review and should not be assumed in advance.</p>"
+          },
+          {
+            "q": "How can CancerFax help patients considering ALL treatment in China?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For ALL specifically, this includes urgent review of diagnosis, subtype, and MRD status to assess whether China-based CAR-T, immunotherapy, or transplant options are realistic, and sharing reports with matched haematology centres for structured feedback before any travel is arranged. All final treatment decisions, including trial eligibility and transplant timing, remain the responsibility of the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

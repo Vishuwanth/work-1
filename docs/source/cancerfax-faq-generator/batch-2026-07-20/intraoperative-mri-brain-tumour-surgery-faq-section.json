@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "intraoperative-mri-brain-tumour-surgery",
+  "route": "/guides/intraoperative-mri-brain-tumour-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is intraoperative MRI (iMRI) in brain tumour surgery?",
+            "a": "<p>Intraoperative MRI is a technique in which a full MRI scan is acquired while a patient is still under anaesthesia and the surgical field remains open, rather than relying only on imaging taken before the operation. It is performed in a specially built hybrid operating theatre containing an MRI-compatible table, instruments, and anaesthetic equipment alongside the scanner itself. The scan lets the surgical and radiology team see, in real time, whether any tumour tissue remains before deciding to close the wound. Availability and exact protocol vary by hospital, and whether iMRI is used for a given case should be confirmed with the treating neurosurgical team.</p>"
+          },
+          {
+            "q": "Why is iMRI used instead of relying only on pre-operative scans?",
+            "a": "<p>Pre-operative MRI becomes progressively less accurate as surgery proceeds because the brain physically shifts, typically by 5 to 10 millimetres, as cerebrospinal fluid drains and tissue is removed. Standard neuronavigation systems continue referencing the original scan, so their guidance can drift out of alignment with the brain's true position within the first hour of surgery. iMRI addresses this by re-imaging the brain mid-procedure, giving the surgical team an updated, accurate picture rather than a static one. Whether this matters clinically for a specific tumour depends on its location and type, and is a judgment made by the operating neurosurgeon.</p>"
+          },
+          {
+            "q": "Which brain tumours benefit most from iMRI-guided surgery?",
+            "a": "<p>iMRI shows the strongest evidence of benefit in glioblastoma, where a randomised controlled trial found it raised gross total resection rates compared with standard neuronavigation. It is also used in high-grade astrocytoma, low-grade IDH-mutant glioma using FLAIR-sequence imaging, pituitary macroadenoma to confirm decompression of nearby structures, paediatric tumours such as medulloblastoma and ependymoma, and select large metastases. The degree of clinical benefit varies by tumour type and evidence strength. Whether iMRI is appropriate for an individual patient depends on tumour location, grade, and specialist review, and should be discussed with the treating neurosurgical team.</p>"
+          },
+          {
+            "q": "What actually happens during an iMRI-guided brain tumour operation?",
+            "a": "<p>Surgery begins as a standard craniotomy using neuronavigation and a surgical microscope, performed inside a hybrid theatre built around a high-field MRI scanner. Once the surgeon believes resection is complete, or wants to check progress, the wound is temporarily covered and the anaesthetised patient is moved to the MRI bore for gadolinium-enhanced imaging, which the surgeon and neuroradiologist review together. If residual tumour is visible and safely accessible, the patient returns to the operating position for further resection, and the scan may be repeated. Final wound closure follows once complete resection is confirmed or safe limits are reached; a further MRI is usually done within 24 to 48 hours afterward.</p>"
+          },
+          {
+            "q": "Does intraoperative MRI actually increase how much tumour is removed?",
+            "a": "<p>Clinical trial data supports this: a randomised study in glioblastoma patients found gross total resection was achieved in 96% of cases with iMRI compared with 68% using standard neuronavigation alone. In roughly 30% of cases where the surgeon believed resection was already complete, the intraoperative scan revealed residual tumour, prompting further removal before closure. Extent of resection is considered one of the strongest predictors of outcome in glioblastoma, which is why this difference is clinically significant. Individual results vary with tumour location, size, and how much can be safely removed, and should be discussed with the operating surgeon.</p>"
+          },
+          {
+            "q": "Is iMRI-guided surgery safer, or does it add risk compared with standard surgery?",
+            "a": "<p>iMRI does not change the fundamental risks of a craniotomy, such as infection, bleeding, or neurological deficit, which depend mainly on tumour location and the patient's overall health. What it does add is operative time: the additional scan typically extends surgery by 45 to 75 minutes, and if further resection is prompted, total operating time may increase by 2 to 3 hours, meaning more time under anaesthesia. iMRI improves the surgeon's ability to identify residual tumour, but it does not guarantee complete removal, particularly when a tumour infiltrates critical brain structures. Individual risk should always be reviewed with the treating neurosurgical and anaesthesia team before consent.</p>"
+          },
+          {
+            "q": "Does iMRI-guided surgery improve survival for glioblastoma patients?",
+            "a": "<p>The indirect evidence is considered strong, since greater extent of tumour resection is one of the most consistent independent predictors of overall survival in glioblastoma, and iMRI has been shown to meaningfully raise resection rates. This makes a survival benefit clinically plausible and it is widely accepted within neuro-oncology. However, a large randomised trial specifically designed and powered to measure overall survival with iMRI has not yet been completed, so this remains an inference rather than a proven, guaranteed outcome. Whether iMRI meaningfully changes prognosis for a specific patient depends on tumour biology, location, and overall treatment plan, and should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "How much does intraoperative MRI brain tumour surgery cost?",
+            "a": "<p>Cost depends heavily on the hospital, country, surgeon and anaesthesia fees, length of hospital stay, and whether the iMRI suite and repeat scans are billed separately from the base craniotomy package. Because iMRI requires a purpose-built hybrid operating theatre, it is generally more expensive than standard image-guided surgery, and pricing structures differ substantially between public and private centres and across countries. There is no single fixed figure that applies universally, so published estimates should be treated as indicative only. An accurate cost estimate depends on case-specific review by the treating hospital and should be confirmed directly with the facility before making travel or admission decisions.</p>"
+          },
+          {
+            "q": "Which hospitals or countries offer iMRI for brain tumour surgery?",
+            "a": "<p>Because iMRI requires a dedicated hybrid operating theatre and MRI-compatible surgical equipment, it is available only at specialist neurosurgery centres rather than at most hospitals. In China, iMRI suites are installed at centres including Beijing Tiantan Hospital and Huashan Hospital Shanghai. In India, established iMRI programmes exist at centres such as AIIMS New Delhi, Fortis Gurgaon, and Apollo Chennai, alongside availability at leading academic centres in Europe and the United States. Exact availability, waiting times, and surgeon experience vary by centre and should be verified directly rather than assumed, especially before planning international travel for treatment.</p>"
+          },
+          {
+            "q": "How can CancerFax help me access iMRI-guided brain tumour surgery?",
+            "a": "<p>CancerFax helps patients organize medical reports and imaging, identify neurosurgical centres and specialists with genuine iMRI experience, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support across countries including India and China. This is patient-navigation support rather than a treatment-provider role: whether iMRI-guided surgery is appropriate for a specific tumour, and which hospital or surgeon performs it, is a decision made by the treating neurosurgical team after full review of the individual case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

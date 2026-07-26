@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "5-ala-fluorescence-guided-brain-tumour-surgery",
+  "route": "/guides/5-ala-fluorescence-guided-brain-tumour-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is 5-ALA fluorescence-guided brain tumour surgery?",
+            "a": "<p>5-ALA fluorescence-guided surgery is a technique in which patients drink a solution of 5-aminolevulinic acid before a craniotomy so that malignant tumour cells glow pink-red under violet light in the surgical microscope. The drug is metabolised into protoporphyrin IX, which accumulates preferentially in high-grade glioma cells, letting the surgeon visually distinguish tumour tissue from normal brain that would otherwise look identical under standard white light. It is used as an adjunct to, not a replacement for, conventional microsurgical technique. Whether it is appropriate for a specific case should be discussed with a qualified neuro-oncology team, since fluorescence intensity and clinical value vary by tumour type and grade.</p>"
+          },
+          {
+            "q": "Which brain tumours does 5-ALA surgery work best for?",
+            "a": "<p>5-ALA fluorescence is most reliable in glioblastoma, where strong pink fluorescence is seen in more than 90% of cases, and in grade 3 anaplastic astrocytoma, where fluorescence is also generally reliable. Grade 3 oligodendroglioma shows more moderate, less consistent fluorescence, while grade 2 low-grade IDH-mutant glioma typically shows weak or absent signal because these tumours accumulate less PpIX. Fluorescence in brain metastases and meningioma is variable and not considered standard practice. Suitability ultimately depends on the specific tumour type, grade, and imaging findings, and should be confirmed by the treating neurosurgical team after full pathology and radiology review.</p>"
+          },
+          {
+            "q": "Am I a candidate for 5-ALA-guided surgery?",
+            "a": "<p>Candidacy for 5-ALA-guided surgery depends mainly on the suspected tumour type, since the technique offers the clearest benefit in glioblastoma and grade 3 glioma rather than low-grade or non-glial lesions. Other factors a surgical team will weigh include tumour location, overall fitness for a craniotomy under general anaesthesia, liver function, and whether the operating centre has the specialised violet-light microscope and drug supply required. Because 5-ALA (Gliolan) is a prescription surgical adjunct rather than a universal option, eligibility may be considered only after MRI review and specialist consultation, and the final decision always rests with the treating medical team.</p>"
+          },
+          {
+            "q": "What actually happens on the day of 5-ALA surgery?",
+            "a": "<p>Patients fast from midnight as part of standard neurosurgical preparation, then drink a 5-ALA solution dosed at 20 mg per kilogram of body weight roughly three hours before anaesthetic induction; the drink is mildly bitter but generally well tolerated. Surgery then proceeds as a standard craniotomy under general anaesthesia, with the surgeon switching the microscope between normal white light and a 405 nm violet-light fluorescence mode to identify tumour margins and satellite deposits. Afterward, patients must avoid bright light exposure for 24 hours because of temporary skin and eye photosensitisation. Exact timing and protocol can vary slightly by hospital and should be confirmed with the operating team.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of 5-ALA-guided surgery?",
+            "a": "<p>5-ALA is generally well tolerated, and its main specific precaution is temporary photosensitisation of the skin and eyes, which requires avoiding bright light for about 24 hours after the dose. Some patients experience mild nausea, and transient elevation of liver enzymes is occasionally seen, though it is rarely clinically significant. Beyond these drug-specific effects, the procedure carries the usual risks of any craniotomy for brain tumour resection, such as infection, bleeding, or neurological deficit depending on tumour location. Individual risk varies with tumour site, patient health, and surgical complexity, and should be reviewed in detail with the operating neurosurgeon before consent.</p>"
+          },
+          {
+            "q": "How does 5-ALA compare to standard white-light microsurgery?",
+            "a": "<p>In the pivotal phase III randomised trial, 5-ALA nearly doubled complete resection rates compared with white-light surgery alone, achieving 65% gross total resection of contrast-enhancing tumour versus 36% with white light. The core advantage is that PpIX fluorescence reveals infiltrating tumour tissue at the resection edge that looks identical to normal brain to the naked eye, whereas standard microsurgery relies solely on the surgeon's visual judgement of tumour margins. Standard white-light surgery remains the norm at centres without the specialised microscope filters or drug access that 5-ALA requires. Which approach is used depends on the treating hospital's equipment, the tumour type, and specialist assessment of the individual case.</p>"
+          },
+          {
+            "q": "Does 5-ALA-guided surgery improve survival for glioblastoma patients?",
+            "a": "<p>The phase III trial that established 5-ALA's use showed a clear improvement in six-month progression-free survival, 41% with 5-ALA versus 21% with white light, but did not show a statistically significant difference in overall survival, partly due to short follow-up and early crossover between study arms. Separately, a large body of retrospective research and meta-analysis has linked greater extent of tumour resection, which 5-ALA helps achieve, to longer overall survival in glioblastoma. This makes an indirect survival benefit clinically plausible and widely accepted among neuro-oncologists, though it is not a guaranteed outcome for any individual patient and should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "How much does 5-ALA fluorescence-guided brain tumour surgery cost?",
+            "a": "<p>Cost for 5-ALA-guided surgery depends on the hospital, country, surgeon fees, length of hospital stay, and whether the centre bills the fluorescence drug and specialised microscope use separately from the standard craniotomy package. Because pricing structures differ significantly between public and private centres and between countries, there is no single universal figure, and published estimates should be treated as indicative rather than final. Insurance coverage, any additional imaging such as intraoperative MRI, and post-operative care needs can also affect the total. An accurate estimate requires case-specific review by the treating hospital, and costs should always be confirmed directly with the facility before travel or admission decisions are made.</p>"
+          },
+          {
+            "q": "Is 5-ALA fluorescence-guided surgery available outside Europe, including in India or China?",
+            "a": "<p>5-ALA (Gliolan) received European Medicines Agency approval in 2007 and US FDA approval in 2017 under the brand name Gleolan, and it is used clinically in both regions. In China and India, the drug is available at specialist neurosurgical centres, though access varies by hospital and is not yet as widespread as in Europe or the United States. Whether a specific centre offers 5-ALA-guided surgery depends on local drug registration, equipment availability, and surgeon experience with the technique, so availability should be verified directly with the hospital being considered rather than assumed.</p>"
+          },
+          {
+            "q": "How can CancerFax help me access 5-ALA-guided brain tumour surgery?",
+            "a": "<p>CancerFax helps patients organize medical reports and imaging, identify neurosurgical centres and specialists with genuine 5-ALA fluorescence-guided surgery experience, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support across countries including India and China. This is patient-navigation support, not a treatment provider role: whether 5-ALA-guided surgery is appropriate, and which hospital or surgeon performs it, is a decision made by the treating neurosurgical and oncology team after full review of the individual case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -10,6 +10,7 @@ import type { GenerateResult } from "@/lib/generate";
 
 const row = (slug: string): Row => ({
   rowNum: 0,
+  pillarNum: "1",
   pillarName: "P",
   title: slug,
   excelStatus: "Pending",

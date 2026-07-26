@@ -1,0 +1,30 @@
+{
+  "pillar": "Radioligand Therapy and Theranostics in Cancer",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "actinium-225-therapy",
+  "route": "/treatments/actinium-225-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Patient Questions",
+    "intro": "Detailed answers to the questions patients and families most often ask about Actinium-225 therapy.",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          { "q": "Is Actinium-225 PSMA therapy approved anywhere in the world?", "a": "<p>No. Ac-225 PSMA therapy has not received marketing approval from the FDA, EMA, NMPA, CDSCO, or any other major regulatory authority. It remains investigational, available through clinical trials, expanded access programs, and specialized research protocols. This differs from Lutetium-177 PSMA therapy (Pluvicto), approved by the FDA and EMA in 2022, with approval expanded in March 2025 to earlier treatment lines. Families should confirm the exact regulatory status of any specific program directly with the treating hospital.</p>" },
+          { "q": "My father progressed after Lutetium-177 PSMA therapy. Is Actinium-225 a realistic next option?", "a": "<p>It may be, depending on several factors. If PSMA expression remains strong on a repeat PSMA PET-CT scan, if bone marrow and kidney function remain adequate, and a suitable trial or program is accessible, Ac-225 is sometimes considered as a step-up option. This requires a fresh case review including updated imaging and blood work.</p>" },
+          { "q": "What is the difference between Ac-225 and Lu-177 in simple terms?", "a": "<p>Lu-177 is a longer-range, gentler form of radiation; Ac-225 is shorter-range and much more concentrated. Lu-177 spreads radiation over a few millimeters, while Ac-225 concentrates energy within a few cell-widths of where it decays — very effective at the point of contact, but precise targeting matters even more.</p>" },
+          { "q": "Can Actinium-225 therapy be accessed in China right now?", "a": "<p>China has significant radioligand therapy infrastructure, including a Shanghai-based company developing an Ac-225 PSMA candidate and a new Guangzhou manufacturing facility. However, no Ac-225 PSMA therapy has NMPA marketing approval in China as of this guide — access would depend on qualifying for a specific clinical trial or specialized hospital protocol.</p>" },
+          { "q": "What tests are needed before anyone will consider Actinium-225 therapy?", "a": "<p>At minimum, a recent PSMA PET-CT scan, complete blood counts, kidney function tests, liver function tests, and a full treatment history including prior hormone therapy, chemotherapy, AR pathway inhibitors, and any prior Lutetium-177 therapy. Some protocols also require a baseline conventional CT or bone scan.</p>" },
+          { "q": "Is Actinium-225 therapy painful, and how long does treatment take?", "a": "<p>The infusion itself is generally not painful, similar to other IV treatments, typically taking well under an hour, with an observation period afterward varying by center. Side effects, when they occur, tend to develop over the following days to weeks rather than during infusion.</p>" },
+          { "q": "What side effects does Actinium-225 therapy cause?", "a": "<p>The most commonly reported side effect is dry mouth (xerostomia), since salivary glands express low levels of PSMA and can be affected despite the treatment's targeted design. Fatigue, mild nausea, and temporary changes in blood counts or kidney function are also reported, and are monitored through regular blood tests between cycles. Side effects vary by patient and prior treatment history, and should be discussed with the treating nuclear medicine team.</p>" },
+          { "q": "Who is eligible for Actinium-225 therapy?", "a": "<p>Eligibility generally depends on having metastatic castration-resistant prostate cancer that has progressed despite standard therapies, strong and consistent PSMA expression on PET-CT imaging, and adequate bone marrow, kidney, and liver function. Patients with PSMA-negative disease, severe bone marrow suppression, or very poor overall performance status are less likely to qualify. A full case review by a multidisciplinary team is required to confirm eligibility for any specific program or trial.</p>" },
+          { "q": "How much does Actinium-225 therapy cost, and is it covered by insurance?", "a": "<p>Because Ac-225 PSMA therapy remains investigational and is accessed mainly through clinical trials or specialized protocols, costs vary significantly and there is no single standard price. Insurance coverage for investigational treatments is inconsistent and often limited, since many insurers treat unapproved therapies as experimental. Patients should request a specific cost breakdown from the treating hospital or trial sponsor before committing to travel or treatment.</p>" },
+          { "q": "How does CancerFax help patients considering Actinium-225 therapy?", "a": "<p>CancerFax helps patients organize PSMA PET-CT imaging, pathology, and treatment history, verifies whether a specific Ac-225 program is an approved treatment, compassionate-use pathway, or clinical trial, and coordinates second opinions, hospital communication, travel, and follow-up. CancerFax is a patient-navigation platform, not a hospital, and does not make treatment decisions — those are made by the treating oncology and nuclear medicine team.</p>" }
+        ]
+      }
+    ]
+  }
+}

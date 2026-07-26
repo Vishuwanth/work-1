@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain and Spinal Tumour Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "brain-and-spinal-tumour-treatment-in-india",
+  "route": "/guides/brain-and-spinal-tumour-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What types of brain and spinal tumours are treated in India?",
+            "a": "<p>Indian neuro-oncology centres treat both primary brain and spinal tumours — including glioma, glioblastoma, meningioma, pituitary tumours, and medulloblastoma — as well as secondary tumours that have spread to the brain from cancers such as lung, breast, melanoma, or kidney cancer. The specific treatment path depends on tumour type, location, and grade, and is confirmed only after a multidisciplinary neuro-oncology team reviews imaging and pathology. Because primary and secondary tumours behave very differently, accurate diagnosis is the first step before any treatment plan is finalised.</p>"
+          },
+          {
+            "q": "Which cities in India have specialist centres for brain and spinal tumour treatment?",
+            "a": "<p>Delhi NCR, Mumbai, Chennai, Hyderabad, Bangalore, and Kochi are the leading Indian cities offering dedicated neuro-oncology care, each with different strengths such as advanced stereotactic radiosurgery, skull base and spine surgery expertise, or regional proton therapy access. Delhi NCR and Bangalore have large centres equipped for complex radiosurgery and neuro-imaging, Mumbai and Chennai have strong surgical teams including pediatric cases, and Hyderabad offers regional access to proton therapy for select indications. The right city and hospital depend on tumour type, urgency, and the technology required, and should be confirmed after a specialist reviews the case.</p>"
+          },
+          {
+            "q": "What is the treatment approach for glioblastoma in India?",
+            "a": "<p>Glioblastoma in India is typically treated with maximum safe surgical removal of the tumour, followed by radiation therapy combined with temozolomide chemotherapy, with the exact plan guided by MGMT methylation and IDH mutation status. These molecular markers help the neuro-oncology team judge how the tumour is likely to respond to chemotherapy and radiation, and additional options may be considered for eligible patients depending on individual case review. Because glioblastoma treatment is highly individualised, the exact sequence and combination of therapies should be discussed with a qualified oncology team before proceeding.</p>"
+          },
+          {
+            "q": "How are meningiomas treated, and is surgery always needed?",
+            "a": "<p>Meningioma treatment in India is not automatically surgical; depending on the tumour's size, symptoms, growth rate, and grade, a specialist may recommend watchful observation with periodic scans, surgical removal, or stereotactic radiosurgery as a less invasive alternative. Many meningiomas are slow-growing and benign, so small, asymptomatic tumours found incidentally are sometimes simply monitored rather than treated immediately. Whether observation, surgery, or radiosurgery is appropriate for a specific case depends on tumour behaviour on imaging and should be decided in consultation with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How much does brain tumour surgery cost in India?",
+            "a": "<p>Brain tumour surgery in India is estimated at approximately USD 5,000 to 15,000 as a general planning range, though the exact cost varies with the tumour's location, size, surgical complexity, length of hospital stay, and the specific hospital or surgeon chosen for the case. This estimate does not include pre-surgical tests such as MRI or molecular profiling, or post-surgical radiation if required. A firm cost estimate is only possible after a specialist reviews the patient's MRI scans and medical reports, and actual costs may vary by hospital and case.</p>"
+          },
+          {
+            "q": "How much does spinal tumour surgery cost in India?",
+            "a": "<p>Spinal tumour surgery in India is estimated at approximately USD 6,000 to 18,000 as a general planning range, with the final cost depending on the tumour type, the extent of spinal instrumentation used, and the complexity of the procedure. Costs can rise when spinal stabilisation hardware or multi-level surgery is required, and additional radiation or chemotherapy may add to the overall treatment cost. Because pricing varies significantly by hospital and case complexity, a reliable estimate should be requested only after medical reports and imaging have been reviewed by the treating surgical team.</p>"
+          },
+          {
+            "q": "Is proton therapy available in India for brain tumours, and what does it cost?",
+            "a": "<p>Proton therapy for brain tumours is available at a limited number of Indian centres, including regional access in Hyderabad, and is estimated to cost approximately USD 25,000 to 45,000 as a planning range depending on the specific indication and number of sessions required. Proton therapy may be considered particularly for children or tumours located near critical structures where sparing surrounding healthy tissue matters, but eligibility depends on tumour type, location, and specialist review. Not every case qualifies for proton therapy, and suitability should be discussed with a qualified oncology team before this option is pursued.</p>"
+          },
+          {
+            "q": "What tests are needed before starting brain tumour treatment in India?",
+            "a": "<p>Before treatment begins, most patients need an MRI of the brain or spine with contrast, estimated at approximately USD 100 to 400, and in many cases NGS or molecular profiling of the tumour tissue, estimated at approximately USD 300 to 2,500 depending on panel size and laboratory. Molecular markers such as MGMT methylation and IDH status directly influence which treatment combination is recommended, so this testing is often a prerequisite rather than an optional add-on. The exact tests required and their cost depend on the specific tumour type and should be confirmed by the reviewing specialist.</p>"
+          },
+          {
+            "q": "What is the process for international patients starting brain or spinal tumour treatment in India?",
+            "a": "<p>International patients typically begin by sharing MRI images, pathology, and molecular reports with the coordinating team, who arrange a case review, a shortlist of suitable neuro-oncology specialists with an estimated cost, and support with visa and appointment scheduling before travel. After arriving in India, patients and an accompanying attendant complete a final evaluation before treatment begins, and follow-up care is coordinated with doctors back home after discharge. The overall timeline varies by tumour type and treatment plan and should be confirmed with the treating team at each stage.</p>"
+          },
+          {
+            "q": "How can CancerFax help patients with brain or spinal tumours seeking treatment in India?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For families researching brain or spinal tumour treatment in India, this includes reviewing MRI and pathology reports, shortlisting neuro-oncology specialists and hospitals suited to the specific tumour type, and coordinating logistics such as visas and travel plans. All diagnostic conclusions and final treatment decisions should be made by the treating medical team after direct review of the case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

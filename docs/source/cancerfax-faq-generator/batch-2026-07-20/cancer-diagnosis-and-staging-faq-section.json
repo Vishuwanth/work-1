@@ -1,0 +1,119 @@
+{
+  "pillar": "Cancer Diagnosis and Staging: Understanding Your Reports",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-diagnosis-and-staging",
+  "route": "/guides/cancer-diagnosis-and-staging",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "Understanding Diagnosis and Staging",
+        "items": [
+          {
+            "q": "What is the difference between a cancer diagnosis and cancer staging?",
+            "a": "<p>A cancer diagnosis confirms what type of cancer a patient has, while staging determines how far that cancer has spread — they are two separate steps that together guide every treatment decision. Diagnosis is established through tissue biopsy and pathology review, which identifies the histological type, grade, and relevant molecular features of the tumour. Staging is a distinct set of investigations — imaging, sometimes additional biopsies, and blood tests — that determines the T (tumour), N (node), and M (metastasis) categories and combines them into an overall Stage Group from I to IV. A patient can have a confirmed diagnosis with an incomplete stage workup, or the reverse; both need to be complete before a treatment plan is finalised, and final decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Can cancer be diagnosed from a CT or MRI scan alone, without a biopsy?",
+            "a": "<p>No — with one narrow exception, imaging alone cannot confirm a cancer diagnosis, and a tissue biopsy is required before treatment begins. CT, MRI, ultrasound, or PET-CT can localise a suspected tumour, estimate its size, and show its relationship to nearby structures, but none of these can confirm the cell type, grade, or molecular markers needed to plan treatment. The recognised exception is hepatocellular carcinoma (HCC) in patients with cirrhosis, where a characteristic contrast pattern on CT or MRI meeting LI-RADS 5 criteria may be accepted as diagnostic under specific protocols. For every other cancer type, no treatment should start without a pathology report confirming the diagnosis from biopsied tissue.</p>"
+          },
+          {
+            "q": "What does it mean when an oncologist says the cancer is Stage III?",
+            "a": "<p>Stage III generally means locally advanced disease — the tumour has grown substantially at its original site, has spread to nearby lymph nodes, or both, but has not reached distant organs. Because Stage III is not yet metastatic Stage IV disease, treatment intent is usually still curative, though achieving cure typically requires combining more than one treatment approach — surgery with radiation, chemotherapy with radiation, or neoadjuvant treatment given before surgery to shrink the tumour first. The exact approach depends heavily on the specific cancer type and the T and N categories within Stage III, so this should be discussed in detail with the treating oncology team rather than generalised across cancer types.</p>"
+          },
+          {
+            "q": "How is a cancer's stage actually determined using the TNM system?",
+            "a": "<p>Cancer stage is determined by combining three separate measurements — T (the size and local extent of the primary tumour), N (whether and how many regional lymph nodes are involved), and M (whether the cancer has spread to distant organs) — into an overall Stage Group from I to IV. T ranges from T1 (small or superficial) to T4 (large or invading nearby structures), N ranges from N0 (no node involvement) to N3 (heavy nodal burden), and M is either M0 (no distant spread) or M1 (metastatic, which is Stage IV in nearly all solid tumours). Each category requires specific staging investigations for that particular cancer type, and a formal TNM stage should be documented in the medical record before treatment planning begins.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Tests, Biopsies, and Report Interpretation",
+        "items": [
+          {
+            "q": "What is the difference between a core needle biopsy and a fine needle aspiration (FNA)?",
+            "a": "<p>A core needle biopsy removes a solid piece of tissue that preserves its architecture, while an FNA collects only individual cells for cytology — a difference that determines what tests can later be run on the sample. FNA is useful for sampling thyroid nodules or lymph nodes but cannot confirm histological architecture and cannot reliably support full immunohistochemistry (IHC) panels or next-generation sequencing (NGS) in most solid tumours. A core needle biopsy, by contrast, provides enough architecture-preserving tissue for a full IHC panel and molecular profiling, which is why it is preferred for most solid tumour biopsies — breast, lung, liver, kidney, and soft tissue. If only an FNA was performed and targeted therapy is being recommended based on molecular testing, it is worth asking whether the sample was sufficient for the panel used.</p>"
+          },
+          {
+            "q": "What does the grade on my pathology report mean?",
+            "a": "<p>Tumour grade describes how abnormal the cancer cells look under the microscope compared with normal cells, and it is reported alongside the histological type on every pathology report. Grade is typically scored as 1, 2, or 3 (or low, intermediate, high), and a higher grade generally reflects more abnormal-looking cells and more aggressive tumour behaviour than a lower grade of the same cancer type. Grade is distinct from stage — grade describes the tumour's biology, while stage describes how far it has spread — and both are needed together to understand prognosis and treatment options, which should be reviewed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What is Ki-67 and why does a high or low result matter?",
+            "a": "<p>Ki-67 is a percentage that reflects how many tumour cells are actively dividing, and it is one of the more important indicators of how quickly a specific cancer is likely to grow. A low Ki-67 result, generally under 10%, suggests a slower-growing tumour, while a high result, generally over 30%, suggests a more aggressive tumour that may need more intensive treatment. Ki-67 is especially important in planning treatment for neuroendocrine tumours and breast cancer, where it directly influences chemotherapy decisions. As with any single biomarker, it should be interpreted alongside the full pathology report and discussed with a qualified oncology team rather than in isolation.</p>"
+          },
+          {
+            "q": "What does it mean when a pathology report says the surgical margins are clear (R0)?",
+            "a": "<p>Clear margins, reported as R0, mean no tumour cells were found at the cut edge of the surgically removed tissue — the outcome surgeons aim for in cancer operations. R1 means microscopic tumour cells were found right at the margin, which typically calls for adjuvant radiation afterward, while R2 means visible tumour was left behind, meaning curative intent was not achieved with that surgery alone. A close margin — generally under 1 to 2 millimetres — falls in between and is managed differently depending on the specific tumour type. Margin status is one of the most consequential lines on a surgical pathology report and should be reviewed carefully with the treating surgical and oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Molecular Testing and Biomarkers",
+        "items": [
+          {
+            "q": "What does SUV mean on a PET-CT report?",
+            "a": "<p>SUV, or standardised uptake value, is a number on a PET-CT report that reflects how metabolically active a specific area of tissue is, with values above roughly 2.5 typically considered abnormal and suggestive of malignancy. A tumour described as FDG-avid has taken up the radioactive tracer strongly, consistent with active cancer, while some tumour types — including mucinous colorectal cancer, diffuse gastric cancer, prostate cancer, and some brain tumours — can be underestimated on PET-CT because they take up the tracer less strongly. After treatment, a complete metabolic response means no residual abnormal uptake remains. SUV values should always be interpreted by the reporting radiologist and treating oncologist together with the rest of the imaging findings.</p>"
+          },
+          {
+            "q": "What is the difference between a tumour marker like CEA and a molecular biomarker from an NGS test?",
+            "a": "<p>A tumour marker such as CEA or CA19-9 is a blood test used mainly for monitoring treatment response and detecting recurrence, while a molecular biomarker from an NGS panel identifies specific genetic alterations that can predict which drugs a tumour is likely to respond to. Tumour markers like CEA (used mainly in colorectal cancer), CA19-9 (pancreatic cancer), AFP (liver and germ cell tumours), and PSA (prostate cancer) are not reliable for primary diagnosis on their own and are best interpreted by their trend over time rather than a single value. Molecular biomarkers, by contrast, come from testing the tumour tissue or blood directly and can identify actionable mutations, fusions, or markers such as TMB and MSI that determine eligibility for targeted therapy or immunotherapy. Both types of results should be reviewed together with a qualified oncology team.</p>"
+          },
+          {
+            "q": "My NGS report lists a variant of uncertain significance (VUS) — what does that mean?",
+            "a": "<p>A VUS means a genetic variant was detected in the tumour, but its clinical significance has not yet been established, so it should not be used on its own to select or exclude a treatment. VUS findings are reported for completeness, and the proportion of VUS results tends to decrease over time as molecular databases such as ClinVar, OncoKB, and COSMIC continue to grow — a variant classified as a VUS today may be reclassified as pathogenic or benign within 12 to 18 months. The appropriate next step is to discuss the specific VUS with a molecular tumour board or a specialist at a comprehensive cancer centre, and to check whether it has since been reclassified, rather than making treatment decisions based on the VUS alone.</p>"
+          },
+          {
+            "q": "What are TMB and MSI, and why do they matter for immunotherapy eligibility?",
+            "a": "<p>TMB (tumour mutational burden) and MSI (microsatellite instability) are two biomarkers that help predict whether a tumour is likely to respond to immune checkpoint inhibitors, regardless of what type of cancer it is. A high TMB, generally above 10 mutations per megabase, is associated with response to pembrolizumab under a tumour-agnostic approval that applies across solid tumour types. MSI-high or mismatch-repair-deficient (dMMR) status is considered one of the most important tumour-agnostic biomarkers in oncology, also associated with response to checkpoint inhibitors across a range of solid tumour origins. Because these biomarkers require dedicated testing beyond standard IHC panels, whether they have been tested for should be confirmed with the treating oncology team, and eligibility for immunotherapy still depends on cancer type, stage, biomarker profile, prior treatment, and specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Getting a Second Opinion on Your Diagnosis",
+        "items": [
+          {
+            "q": "Is it worth getting a second opinion on a cancer diagnosis or stage?",
+            "a": "<p>A second opinion may be worth considering, particularly when a diagnostic workup may be incomplete — for example, when molecular testing, complete staging imaging, or multidisciplinary tumour board review has not yet occurred. Roughly one in three advanced cancer patients are estimated to begin treatment with an incomplete molecular workup, and specific gaps such as missing biomarker testing or occult peritoneal metastases in gastric cancer — found in 20 to 30% of cases only via staging laparoscopy, not CT — can change the treatment plan when identified. A second opinion is generally most useful when it reviews the complete diagnostic package — pathology, imaging, staging, and molecular results together — rather than a single report in isolation, and any change in plan should still be finalised with the treating oncology team.</p>"
+          },
+          {
+            "q": "Can a liquid biopsy be used instead of a tissue biopsy for a second opinion?",
+            "a": "<p>No — a liquid biopsy, which analyses circulating tumour DNA from a blood sample, cannot replace a tissue biopsy for confirming a new cancer diagnosis, though it has an established role in several other situations. Liquid biopsy may be considered when tissue is unavailable or insufficient for molecular profiling, for detecting acquired resistance mutations during treatment, for monitoring treatment response over time, and for detecting minimal residual disease after curative surgery. It is generally not appropriate for primary diagnosis, for IHC-dependent results such as PD-L1 or HER2 status, or in early-stage and low-shedding tumours where its sensitivity may be too low. Whether liquid biopsy is appropriate for a specific case depends on the clinical situation and should be discussed with the reviewing specialist.</p>"
+          },
+          {
+            "q": "Why would a specialist centre ask for my original biopsy slides and tissue blocks, not just the pathology report?",
+            "a": "<p>Specialist centres often request the original glass slides and FFPE tissue blocks — not just the typed report — because a second opinion review or additional molecular testing may require direct re-examination of the actual tumour tissue. The pathology report alone summarises the pathologist's findings, but it cannot be used to run additional IHC stains or an NGS panel if further testing becomes necessary. Before seeking a second opinion, it is worth checking with the original pathology department whether the slides and tissue blocks are still available and can be released or copied for external review. This step is frequently one of the more time-consuming parts of preparing for a second opinion, so starting the request early is advisable.</p>"
+          },
+          {
+            "q": "How can I tell if my cancer diagnostic workup is actually complete before starting treatment?",
+            "a": "<p>A complete workup should generally include a tissue-confirmed diagnosis, a specific histological type and grade, all IHC markers relevant to that cancer type, cancer-specific molecular biomarker testing, complete staging imaging, a formally assigned TNM stage, and ideally a multidisciplinary tumour board review with a written treatment plan. Missing any of these — for example, untested biomarkers such as EGFR, ALK, or MSI in lung cancer, or a missing staging laparoscopy in locally advanced gastric cancer — can result in an incorrect stage, a missed treatment target, or an unnecessary treatment. If any of these elements appear to be missing from the medical record, requesting the missing test or a second opinion from a specialist oncology centre before starting treatment may be a reasonable next step, in discussion with the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Steps: Records and Logistics",
+        "items": [
+          {
+            "q": "What documents do I need to gather for a second opinion or treatment abroad?",
+            "a": "<p>A complete package generally includes all pathology reports in chronological order, complete imaging reports together with the actual DICOM image files rather than printed films or photos, all blood tests and tumour marker results over time, any molecular or genomic reports, detailed treatment records, and a short plain-language case summary. DICOM files matter because they allow a reviewing radiologist to measure lesions and scroll through the actual scan independently, rather than relying on a printed summary. A one-to-two-page case summary covering age, diagnosis date, cancer type, stage, treatments received, and the specific question for the reviewing specialist helps the receiving team review the case efficiently. Organising these records well before travel or submission is one of the most important practical steps a patient can take.</p>"
+          },
+          {
+            "q": "How do I get the actual DICOM imaging files from my hospital, not just the printed report?",
+            "a": "<p>DICOM files should generally be requested directly from the radiology department rather than the oncology department, which typically holds only the printed report. It is worth asking specifically for the original DICOM image files from a named scan and date, provided on a USB drive or through a secure download link, since printed films or JPEG screenshots do not allow a specialist to independently measure lesions or review the scan in detail. In some hospitals, particularly across India, Southeast Asia, and the Middle East, images may still be archived on CD or DVD, so it is worth confirming the files are readable on current computers before leaving the radiology department. Getting these files in the correct format before seeking a second opinion abroad can help prevent delays later in the review process.</p>"
+          },
+          {
+            "q": "Why do tumour marker trends matter more than a single test result?",
+            "a": "<p>A single tumour marker value can be misleading because markers such as CEA, CA19-9, CA-125, and AFP can also be elevated by benign conditions — smoking, pancreatitis, endometriosis, or liver disease, among others — so a trend measured over multiple time points is generally more clinically meaningful than any one reading. A rising trend during treatment may prompt closer monitoring or repeat imaging, while a falling trend is often reassuring, though neither should be interpreted in isolation from imaging and clinical findings. Because reference ranges and clinical significance vary by cancer type and by laboratory, any change in tumour marker trend should be reviewed with the treating oncology team rather than assessed independently.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with their diagnosis and staging reports?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For diagnosis and staging specifically, this can include reviewing a pathology, imaging, and molecular testing package against a standard completeness checklist for the relevant cancer type, and flagging gaps such as missing biomarker tests or incomplete staging investigations before the package is submitted for specialist review. CancerFax does not replace the oncologist or make treatment decisions — any findings are intended to support, not substitute for, discussion with the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

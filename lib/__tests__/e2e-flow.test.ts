@@ -46,7 +46,7 @@ describe("end-to-end review workflow (real fixtures, temp workspace)", () => {
     for (const f of realFiles) {
       const fx = JSON.parse(readFileSync(join(raw, f), "utf8")) as Fixture;
       const slug = cleanSlug(fx.slug).value;
-      rowsByFile[f] = { rowNum: 0, pillarName: "Blood Cancer", title: fx.pillar, excelStatus: "Pending", contentType: "", slug };
+      rowsByFile[f] = { rowNum: 0, pillarNum: "24", pillarName: "Blood Cancer", title: fx.pillar, excelStatus: "Pending", contentType: "", slug };
     }
     const rows = Object.values(rowsByFile);
 

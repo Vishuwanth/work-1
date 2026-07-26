@@ -4,6 +4,7 @@ import type { Row, FaqSection } from "@/lib/types";
 
 const blankRow: Row = {
   rowNum: 463,
+  pillarNum: "24",
   pillarName: "Blood Cancers",
   title: "What is the difference between leukemia, lymphoma, and myeloma?",
   excelStatus: "Pending",
@@ -13,6 +14,7 @@ const blankRow: Row = {
 
 const doneGuideRow: Row = {
   rowNum: 464,
+  pillarNum: "24",
   pillarName: "Leukemia",
   title: "AML treatment guide: induction, consolidation, and when is transplant needed?",
   excelStatus: "Done",

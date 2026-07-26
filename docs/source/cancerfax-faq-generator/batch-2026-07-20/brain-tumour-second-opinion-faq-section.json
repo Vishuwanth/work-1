@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "brain-tumour-second-opinion",
+  "route": "/guides/brain-tumour-second-opinion",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does a brain tumour second opinion actually involve?",
+            "a": "<p>A brain tumour second opinion typically includes an independent specialist re-read of MRI and CT imaging, a full review of the pathology and molecular test results, and a written report from a senior neuro-oncologist with specific diagnosis and treatment recommendations, usually with an option for a live teleconsultation. The review checks whether the WHO 2021 molecular panel — IDH status, 1p/19q co-deletion, MGMT methylation, TERT, CDKN2A, and H3K27M — has been completed, since incomplete testing can affect grading and treatment stratification. The report is delivered in English and is intended to support, not replace, the treating oncology team, and any change in treatment plan should be discussed with that team before proceeding.</p>"
+          },
+          {
+            "q": "How long does it take to get a second opinion on a brain tumour?",
+            "a": "<p>A remote brain tumour second opinion generally takes about 5 to 10 business days from the time complete medical records are received by the reviewing team, though the exact timeline depends on how quickly imaging, pathology, and molecular data can be compiled. If initial triage finds gaps in molecular testing, such as missing IDH or 1p/19q results, arranging additional testing on existing tissue can add time before the specialist review is finalized. Turnaround should be confirmed directly with the reviewing team once records are submitted, since case complexity and the need for further testing vary from patient to patient.</p>"
+          },
+          {
+            "q": "How much does a brain tumour second opinion cost?",
+            "a": "<p>The cost of a brain tumour second opinion varies widely and is generally estimated in the range of a few hundred to a few thousand US dollars, depending on whether it is a remote document review or includes further molecular testing or an in-person visit. Remote reviews that rely on existing imaging and pathology reports are typically at the lower end of that range, while cases requiring additional molecular re-testing, sample shipping, or a teleconsultation add to the cost. These figures are estimates only — an accurate quote depends on the specific case and should be confirmed with the reviewing team before proceeding, and should not be treated as a guaranteed final price.</p>"
+          },
+          {
+            "q": "Who should consider getting a second opinion on brain tumour treatment?",
+            "a": "<p>A second opinion may be considered for newly diagnosed brain tumours with incomplete molecular testing, tumours described as inoperable, uncertainty about next steps after surgery, recurrent glioblastoma with no further local treatment plan, or paediatric or rare tumour types needing specialist subgroup or histology review. In published series, expert re-review of imaging and pathology in these situations has been associated with meaningful changes to diagnosis or treatment plans. Whether a second opinion is appropriate for a specific case depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can a brain tumour second opinion be done remotely, or do I need to travel?",
+            "a": "<p>Most brain tumour second opinions can be completed remotely through a document-based review of imaging, pathology, and molecular data, without the patient needing to travel, and this approach is generally suitable for questions about diagnosis, staging, or overall treatment strategy. An in-person consultation becomes more relevant when a physical neurological examination is needed, when surgery may be recommended and pre-operative planning is involved, or when a patient is already travelling for treatment and wants to combine the review with treatment initiation. Which approach fits best depends on the specific clinical situation and should be discussed with the reviewing team.</p>"
+          },
+          {
+            "q": "If my brain tumour was called inoperable, can a second opinion change that?",
+            "a": "<p>A second opinion can sometimes find that a brain tumour described as inoperable at one centre is surgically resectable at a high-volume specialist centre, with published experience suggesting this occurs in roughly 20 to 30% of such cases reviewed. This depends on factors such as tumour location, proximity to critical structures, and the surgical experience and technology available at the reviewing centre. Whether surgery becomes a viable option for a specific patient depends on individual imaging and case review, and any recommendation should be confirmed by the specialist surgical team before a decision is made.</p>"
+          },
+          {
+            "q": "Will I need a new biopsy or tissue sample for a second opinion?",
+            "a": "<p>A second opinion does not always require a new biopsy, since in many cases existing tissue samples or pathology slides can be sent for any additional molecular testing that the original report is missing. During case triage, records are checked against the WHO 2021 molecular panel — including IDH, 1p/19q, MGMT, TERT, CDKN2A, and H3K27M — and if results are missing, re-testing on stored tissue is typically explored before a fresh biopsy is considered. Whether additional tissue or a repeat procedure is needed depends on what is available and should be confirmed with the reviewing specialist team.</p>"
+          },
+          {
+            "q": "How is a second opinion different from my first consultation with an oncologist?",
+            "a": "<p>A second opinion differs from a first consultation in that it involves an independent specialist neuroradiologist and neuro-oncologist re-reviewing the complete imaging, pathology, and molecular record, separately from the team that made the original diagnosis. Because it draws on high-volume neuro-oncology experience and a full molecular workup, published series report that this type of review changes the treatment plan in roughly 30 to 50% of brain tumour cases and revises the diagnosis in 15 to 25%. It is intended to complement, not replace, the original consultation, and any resulting changes should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Can a second opinion help me find a clinical trial for my brain tumour?",
+            "a": "<p>A second opinion review can identify relevant clinical trial options as part of its written treatment recommendations, particularly for recurrent glioblastoma or other brain tumours where standard local treatment options have been exhausted. The reviewing neuro-oncologist references current international guidelines and known trial options when formulating recommendations, and cases such as recurrent GBM may be pointed toward salvage approaches including reirradiation, targeted agents, or trial enrollment. Whether a specific trial is a fit depends on cancer type, stage, biomarker profile, prior treatment, and eligibility criteria, and should be confirmed with a qualified oncology team before proceeding.</p>"
+          },
+          {
+            "q": "How can CancerFax help me arrange a brain tumour second opinion?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For a brain tumour second opinion specifically, this includes checking that imaging and molecular testing are complete, connecting the case with a specialist neuro-oncologist and neuroradiologist, and arranging a teleconsultation with interpreter support if needed. CancerFax does not replace the treating oncologist or make treatment decisions — the second opinion report is meant to inform discussions with the existing care team, and final decisions should be made by the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

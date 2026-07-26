@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "onc201-h3k27m-diffuse-midline-glioma",
+  "route": "/guides/onc201-h3k27m-diffuse-midline-glioma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is ONC201?",
+            "a": "<p>ONC201, sold under the brand name Ojemda, is an oral small-molecule drug and the first therapy to receive FDA approval specifically for H3K27M-mutant diffuse midline glioma (DMG). It works through a dual mechanism — activating the mitochondrial protease ClpP and antagonizing the dopamine D2 receptor (DRD2) — targeting the abnormal cellular signaling driven by the H3K27M histone mutation. ONC201 is taken orally at 440 mg once weekly, making it manageable in an outpatient setting compared with intravenous chemotherapy regimens. Whether ONC201 is an appropriate option depends on confirmed H3K27M mutation status, tumor location, and prior treatment history, and should always be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What is H3K27M-mutant diffuse midline glioma?",
+            "a": "<p>Diffuse midline glioma (DMG), H3K27M-mutant, is a WHO grade 4 brain tumour defined both by its midline location — the thalamus, brainstem, spinal cord, or other central structures — and by a histone H3 lysine 27 methionine substitution that disrupts normal epigenetic regulation. Diffuse intrinsic pontine glioma (DIPG), arising in the brainstem, is the most common form and accounts for 10–15% of paediatric brain tumours. The mutation is confirmed through immunohistochemistry or DNA sequencing of biopsy tissue, or increasingly through liquid biopsy of cerebrospinal fluid when surgical biopsy is not feasible. Historically, this diagnosis carried a median survival of 12–15 months, though individual prognosis depends on tumor location, extent of disease, and response to treatment.</p>"
+          },
+          {
+            "q": "Who is eligible for ONC201 treatment?",
+            "a": "<p>Eligibility for ONC201 centers on two confirmed factors: a documented H3K27M mutation on tumour tissue (via immunohistochemistry or sequencing, or liquid biopsy where biopsy is not feasible) and prior treatment with radiotherapy, since the approved indication applies specifically to DMG after RT. Patients who have not yet received radiotherapy are generally not candidates until RT is completed as first-line treatment. Published data suggests thalamic DMG may respond more favourably than brainstem-located DIPG, though both may be considered. Because eligibility depends on tumor molecular profile, prior treatment, and specialist review, it is never automatic — a specialist centre must evaluate each case individually, and enrollment or access is never guaranteed even when criteria appear to be met.</p>"
+          },
+          {
+            "q": "Is ONC201 approved or is it still experimental?",
+            "a": "<p>ONC201 has received FDA accelerated approval in the United States for H3K27M-mutant DMG after prior radiotherapy, based on results from the ACTION study and supporting expansion cohorts. Outside the US, its regulatory status differs by country — European regulatory review is ongoing, and in many regions ONC201 is not yet commercially available. In these settings, access typically depends on named-patient compassionate use programmes or enrollment in an active clinical trial rather than standard prescription. Because approval status, trial availability, and expanded-access pathways vary by country and change over time, families should treat regulatory status as a starting point for discussion with a specialist centre, not a guarantee of access.</p>"
+          },
+          {
+            "q": "Does ONC201 work for DIPG (brainstem tumours) specifically?",
+            "a": "<p>ONC201 does show measurable activity in DIPG, the brainstem-located form of H3K27M-mutant DMG, though published response data is generally more modest for brainstem tumours than for thalamic disease. A meaningful proportion of DIPG patients show radiographic response or stable disease on treatment, and ONC201 remains the only FDA-approved targeted therapy for this diagnosis. Families should have realistic expectations about the magnitude of benefit in brainstem-located disease compared with thalamic DMG, where reported median survival has been longer. Whether ONC201 may be considered for a specific DIPG case depends on molecular confirmation, prior treatment, and review by a specialist familiar with the current published outcomes data.</p>"
+          },
+          {
+            "q": "How effective is ONC201 based on clinical trial data?",
+            "a": "<p>In the pivotal ACTION study, ONC201 monotherapy achieved an objective response rate of approximately 25% in post-radiotherapy H3K27M-mutant DMG, a meaningful result in a disease where no approved treatment previously existed. In an expanded cohort analysis, thalamic DMG patients treated with ONC201 showed a median overall survival of 21.7 months from diagnosis, compared with roughly 12.5 months in historical controls for H3K27M DMG overall and 10–11 months for brainstem DIPG historically. These figures represent group-level trial results, not individual guarantees — actual outcomes vary by tumor location, molecular profile, prior treatment, and overall health, and no oncology therapy can promise a specific survival benefit for any one patient.</p>"
+          },
+          {
+            "q": "What are the side effects and risks of ONC201?",
+            "a": "<p>ONC201 is generally well tolerated compared with cytotoxic chemotherapy, with the most commonly reported adverse events being fatigue, nausea, and diarrhoea, typically graded as mild to moderate (grade 1–2). Significant blood count or organ toxicity is uncommon at the approved 440 mg weekly dose, which supports its use for long-term continuous administration. One important monitoring consideration is pseudo-progression — early MRI scans can show apparent tumour worsening that does not represent true disease progression, so imaging changes should be interpreted carefully rather than assumed to indicate treatment failure. As with any oncology therapy, individual tolerability and risk vary, and side effects should be monitored and managed directly with the treating medical team.</p>"
+          },
+          {
+            "q": "Can ONC201 be combined with other treatments or clinical trials?",
+            "a": "<p>Yes — several combination approaches are under active clinical investigation. These include ONC201 with reirradiation, ONC201 paired with ONC206 (a next-generation imipridone), and combinations with panobinostat, while the ACTION II trial is studying ONC201 alongside upfront radiotherapy in newly diagnosed H3K27M-mutant DMG. These combination regimens remain investigational rather than part of the standard FDA-approved label, and are typically available only through clinical trial enrollment. Whether a combination approach may be appropriate depends on tumor molecular profile, treatment timing, and trial eligibility criteria at a given centre, and enrollment in any specific trial is never guaranteed even for patients who appear to qualify on paper.</p>"
+          },
+          {
+            "q": "How can patients outside the USA access ONC201?",
+            "a": "<p>Outside the United States, where ONC201 is commercially available under FDA approval, access generally follows one of three routes: a manufacturer-run expanded access or compassionate use programme, enrollment in an active clinical trial (ONC201-related trials are open in Europe, Canada, and Australia among other regions), or, in select cases, import through a licensed pharmacy for named-patient use. The correct pathway depends heavily on the patient's country of residence, current disease status, and prior treatment, and each route carries different timelines, documentation requirements, and cost structures. Because international access is not standardized and regulatory status is still evolving in many regions, families should confirm current pathways with a specialist centre rather than assuming automatic eligibility.</p>"
+          },
+          {
+            "q": "How does CancerFax help families pursue ONC201 treatment?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or hospitals, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support for families exploring ONC201 access for H3K27M-mutant DMG. This includes helping map the correct access route — expanded access, named-patient import, or clinical trial enrollment — based on a patient's country, mutation status, and treatment history. CancerFax does not provide medical diagnoses or guarantee trial enrollment or treatment access; navigation support is intended to reduce logistical and informational barriers for families facing a complex, time-sensitive decision. Treatment decisions are always made by the treating medical team, in consultation with the patient and family.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

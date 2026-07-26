@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "oligodendroglioma-1p19q-co-deletion-treatment",
+  "route": "/guides/oligodendroglioma-1p19q-co-deletion-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is oligodendroglioma?",
+            "a": "<p>Oligodendroglioma is a primary brain tumour that develops from oligodendrocytes, the glial cells responsible for producing the myelin sheath that insulates nerve fibers. Under the 2021 WHO classification, oligodendroglioma is defined molecularly rather than purely by appearance under a microscope: every confirmed case carries an IDH1 or IDH2 mutation together with combined loss of chromosome arms 1p and 19q. This molecular signature distinguishes oligodendroglioma from other gliomas, including IDH-wildtype glioblastoma and IDH-mutant astrocytoma, and generally correlates with a more favorable response to chemotherapy. The exact treatment approach and long-term outlook depend on tumor grade, extent of resection, and overall molecular profile, and should always be confirmed through specialist neuro-oncology and molecular pathology review before any treatment plan is finalized.</p>"
+          },
+          {
+            "q": "What does 1p/19q co-deletion mean for my treatment?",
+            "a": "<p>1p/19q co-deletion means the tumor cells have lost part of chromosome 1 (the short arm, 1p) and part of chromosome 19 (the long arm, 19q) through a translocation event that is unique to oligodendroglioma among brain tumors. This finding confirms the tumor's oligodendroglial lineage and is considered the strongest available predictor of sensitivity to chemotherapy, particularly PCV (procarbazine, lomustine, and vincristine) or temozolomide. In practice, a confirmed co-deletion supports combining radiotherapy with chemotherapy rather than radiotherapy alone, since landmark trials have shown a substantially longer median survival with the combined approach in co-deleted tumors. However, the specific regimen, sequencing, and dosing depend on tumor grade, extent of surgery, and a specialist neuro-oncology team's review of the full molecular profile.</p>"
+          },
+          {
+            "q": "Why does the IDH mutation matter for prognosis?",
+            "a": "<p>The IDH1 or IDH2 mutation is the founding genetic event in oligodendroglioma, and its presence is one reason this tumor type tends to grow more slowly and respond better to treatment than IDH-wildtype glioblastoma. The mutation causes the enzyme to produce an abnormal metabolite called 2-hydroxyglutarate, which drives widespread epigenetic changes that appear to slow tumor progression compared with IDH-wildtype gliomas. Because IDH mutation occurs in essentially all oligodendrogliomas by definition, its main clinical value lies less in distinguishing oligodendroglioma from other tumors and more in separating it from more aggressive IDH-wildtype disease. Even so, prognosis is not determined by IDH status alone — tumor grade, 1p/19q status, extent of resection, and additional molecular markers such as CDKN2A/B all factor into the outlook a specialist team will discuss with you.</p>"
+          },
+          {
+            "q": "What is the difference between grade 2 and grade 3 oligodendroglioma?",
+            "a": "<p>Both grade 2 and grade 3 oligodendroglioma require the same core molecular features — an IDH mutation and 1p/19q co-deletion — but grade 3 (anaplastic) tumors additionally show higher mitotic activity, often with a Ki-67 index above 5–10%, and frequently carry a CDKN2A/B homozygous deletion that upgrades the tumor from grade 2. Grade 2 tumors are typically treated with radiotherapy with or without chemotherapy and are associated with a median survival exceeding 15 years with treatment, while grade 3 tumors are generally treated with combined radiotherapy and PCV chemotherapy or temozolomide, reflecting their more aggressive biology. Because grading affects both treatment intensity and expected outcomes, it should always be established through full pathology and molecular review by a neuro-oncology specialist rather than imaging alone.</p>"
+          },
+          {
+            "q": "Is oligodendroglioma curable?",
+            "a": "<p>Oligodendroglioma is not generally described as curable in the way an early-stage localized cancer might be, but it is among the most treatable and slowest-growing primary brain tumors, with some of the longest survival outcomes recorded for any high-grade glioma. Landmark trials in 1p/19q co-deleted anaplastic (grade 3) oligodendroglioma reported a median overall survival of 14.7 years with combined PCV chemotherapy and radiotherapy, compared with 7.3 years with radiotherapy alone, and grade 2 tumors treated appropriately have reported median survival beyond 15 years. Long-term management typically involves ongoing surveillance rather than a single completed treatment course. Whether a durable remission or long-term disease control is achievable in an individual case depends on tumor grade, extent of resection, molecular profile, and response to treatment, and should be discussed directly with a qualified neuro-oncology team.</p>"
+          },
+          {
+            "q": "What are the main treatment options for oligodendroglioma?",
+            "a": "<p>Treatment for oligodendroglioma generally follows a defined sequence: confirming the molecular diagnosis, performing maximal safe surgical resection, then combining radiotherapy with chemotherapy. Surgery aims to remove as much tumor as safely possible, using techniques such as awake craniotomy when the tumor sits near critical brain regions. Radiotherapy is typically delivered to 54–60 Gy over 30–33 fractions, with proton therapy increasingly used at specialist centers to reduce radiation exposure to surrounding healthy brain tissue. Chemotherapy is usually PCV (procarbazine, lomustine, and vincristine), which has the strongest long-term trial evidence, or temozolomide, which is often preferred for its more manageable side-effect profile. The specific combination, sequencing, and duration of treatment depend on tumor grade, molecular profile, and extent of resection, and should always be determined through specialist neuro-oncology review.</p>"
+          },
+          {
+            "q": "What tests confirm an oligodendroglioma diagnosis?",
+            "a": "<p>Confirming oligodendroglioma requires molecular testing in addition to standard histology, since appearance under the microscope alone is not considered sufficient under current WHO diagnostic criteria. This typically means testing for IDH1/IDH2 mutation status by immunohistochemistry or gene sequencing, and testing for 1p/19q co-deletion using FISH, next-generation sequencing, or chromosomal microarray analysis. Adequate tumor tissue from surgical resection is generally needed for reliable testing, as a small core biopsy alone may not provide enough material. If a pathology report describes only \"oligodendroglioma-like features\" without confirmed molecular results, that generally means the diagnosis is not yet finalized. A qualified neuro-oncology or molecular pathology team should review the complete testing results before any treatment decisions are made.</p>"
+          },
+          {
+            "q": "What role does radiotherapy play, and are advanced techniques like proton therapy available?",
+            "a": "<p>Radiotherapy is a core component of oligodendroglioma treatment, typically delivered to the tumor bed with a margin at a dose of 54–60 Gy across 30–33 fractions, generally combined with PCV chemotherapy or temozolomide rather than used alone. Two landmark trials found that adding radiotherapy to chemotherapy nearly doubled median survival compared with radiotherapy by itself in 1p/19q co-deleted anaplastic tumors. Proton and carbon-ion therapy are increasingly used at specialist centers because they can reduce radiation dose to surrounding healthy brain tissue compared with conventional photon radiotherapy, which may help limit long-term neurocognitive effects. Access to proton therapy varies by country and hospital, and whether it is appropriate for a given case depends on tumor location, prior treatment, and review by a specialist radiation oncology team.</p>"
+          },
+          {
+            "q": "How often will I need follow-up MRI scans after treatment?",
+            "a": "<p>Follow-up MRI is typically recommended every 3 to 6 months for the first five years after treatment, then annually beyond that, reflecting the slow-growing but persistent nature of oligodendroglioma. Regular imaging is needed because treatment-related changes and pseudo-progression on MRI can look similar to true tumor progression, and distinguishing between them often requires specialist neuro-oncology and neuroradiology review rather than a single scan interpretation. Long-term surveillance also allows earlier detection if the tumor does progress or transform, which can change the treatment approach. The exact scanning schedule may be adjusted based on tumor grade, extent of resection, treatment response, and a specialist team's assessment of individual risk, so it should always be planned in consultation with the treating neuro-oncology team.</p>"
+          },
+          {
+            "q": "How can I access specialist neuro-oncology care for oligodendroglioma internationally?",
+            "a": "<p>Patients with a rare, molecularly defined tumor like oligodendroglioma often benefit from a second opinion at a center experienced in 1p/19q co-deleted gliomas, particularly when local expertise in molecular pathology, PCV chemotherapy, or proton therapy is limited. CancerFax helps patients organize medical reports, identify relevant specialists or hospitals, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support for cases like this, including arranging review of pathology slides or tissue blocks when molecular testing was incomplete, and connecting patients with centers offering treatments such as PCV, temozolomide, or emerging options like vorasidenib. Treatment decisions are always made by the treating medical team, based on a full review of pathology, imaging, and the patient's overall clinical picture.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

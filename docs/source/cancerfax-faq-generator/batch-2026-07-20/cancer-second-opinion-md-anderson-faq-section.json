@@ -1,0 +1,59 @@
+{
+  "pillar": "Getting a Second Opinion at MD Anderson: The International Patient Process",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-second-opinion-md-anderson",
+  "route": "/guides/cancer-second-opinion-md-anderson",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How do I get a second opinion at MD Anderson from abroad?",
+            "a": "<p>Getting a second opinion at MD Anderson from abroad starts with submitting pathology, imaging, and prior treatment records — translated into English at the patient's own expense — through the International Center's online patient portal or by courier for review. MD Anderson's clinical team then checks whether the case can benefit from further review and assigns it to the relevant disease-specific programme before any appointment is offered. This initial submission step is separate from financial clearance and visa processing, both of which follow once records are accepted. Whether MD Anderson is the appropriate next step depends on cancer type, stage, prior treatment, and what the referring oncologist hopes a second review will clarify.</p>"
+          },
+          {
+            "q": "How long does it take to get an appointment at MD Anderson as an international patient?",
+            "a": "<p>International patients typically wait four to eight weeks between submitting medical records and receiving a confirmed MD Anderson appointment, since the clinical team must first review records and confirm the case adds value over the referring institution's findings. This scheduling window runs alongside — not instead of — the separate financial clearance and US visa steps, both of which can extend the overall timeline further. Patients facing a time-sensitive diagnosis should factor in the full sequence, including visa processing that can range from days to several months depending on country of origin, and should discuss timing with their treating oncology team.</p>"
+          },
+          {
+            "q": "Do I need to pay a deposit before MD Anderson will schedule my appointment?",
+            "a": "<p>Yes — MD Anderson requires international patients to show proof of ability to pay, typically through a substantial deposit or insurance pre-authorization, before an appointment is finalized. This financial clearance step is a firm gate in the international patient pathway and applies regardless of how straightforward the clinical case is, which can be a significant barrier for patients without insurance that covers US care. Patients should confirm current deposit amounts and accepted insurance directly with the MD Anderson International Center, as requirements may be considered on a case-by-case basis.</p>"
+          },
+          {
+            "q": "Do I need a visa to get a second opinion at MD Anderson?",
+            "a": "<p>Yes — international patients need a B1/B2 US medical visitor visa to travel to Houston for an MD Anderson second opinion, and MD Anderson provides a letter of invitation once the appointment is confirmed to support the visa application. Processing times vary considerably by country of origin, ranging from a few days to several months, and can become the longest single step in the overall timeline for patients from countries with slower visa processing. Patients on a tight clinical timeline should weigh this uncertainty against faster-access alternatives and discuss the trade-off with their treating oncology team.</p>"
+          },
+          {
+            "q": "How long do I need to stay in Houston for an MD Anderson second opinion?",
+            "a": "<p>Most international patients spend five to fourteen days in Houston for an MD Anderson second opinion, covering the initial consultation, any additional diagnostic workup the MD Anderson team orders, specialist reviews, and a multidisciplinary team discussion of the case. Housing near the Texas Medical Center must be arranged independently, as MD Anderson does not provide accommodation, and the exact length of stay depends on how many specialists are involved and whether new imaging or pathology testing is needed. Patients should budget for the longer end of this range if their case involves a rare or diagnostically complex tumor.</p>"
+          },
+          {
+            "q": "How much does an MD Anderson second opinion cost for international patients?",
+            "a": "<p>An MD Anderson second opinion typically costs $5,000 to $25,000 or more in medical fees alone, and total trip costs — including flights, accommodation, and incidentals — commonly reach $10,000 to $40,000 or more for international patients traveling to Houston. Individual consultation fees run roughly $600–1,200 per specialist, with complex cases involving three to five specialists, while pathology re-review and additional molecular testing can add $2,000–8,000. These are estimated ranges only — actual costs depend on case complexity, the number of specialists involved, and length of stay, and should be confirmed directly with MD Anderson's billing office before travel is booked.</p>"
+          },
+          {
+            "q": "Can I get a second opinion from MD Anderson without traveling to Houston?",
+            "a": "<p>Yes — MD Anderson offers a MyMDAnderson Connect remote second opinion service for some tumor types, which reviews submitted records and imaging without requiring a trip to Houston. This document-based option is faster and significantly less expensive than an in-person visit, though it is generally less comprehensive since it does not include a live multidisciplinary team discussion or the option for new imaging or pathology testing ordered on-site. Whether a remote review is appropriate depends on cancer type, case complexity, and what specific question the referring oncologist wants answered, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is MD Anderson or an Asian cancer centre better for a second opinion?",
+            "a": "<p>Neither MD Anderson nor an Asian cancer centre such as Tata Memorial or Zhongshan Hospital is universally the better choice for a second opinion — it depends on the cancer type, whether a US-only clinical trial is the goal, and how time-sensitive the case is. MD Anderson tends to offer the clearest advantage for enrollment in US-only trials, patients with US-based international insurance, and a handful of ultra-rare tumor types, while Asian centres often provide equivalent or superior second opinions for HCC, gastric cancer, and NPC, at a fraction of the cost and without a multi-month US visa wait. Final decisions on where to seek a second opinion should be discussed with a qualified oncology team, since the best-value option is case-specific.</p>"
+          },
+          {
+            "q": "How long does it take to get the final report after an MD Anderson second opinion visit?",
+            "a": "<p>MD Anderson typically issues its formal clinical summary and recommendations two to four weeks after the in-person Houston visit, and follow-up communication with the patient's home oncologist can be arranged separately. This turnaround follows the consultation, any additional diagnostic workup ordered during the visit, and the multidisciplinary team discussion, all of which factor into how quickly the written report is finalized. Patients with a time-sensitive treatment decision should ask the International Center about expected report timing before finalizing travel dates, and should coordinate next steps with their treating oncology team once the report is received.</p>"
+          },
+          {
+            "q": "How can CancerFax help me get a second opinion at MD Anderson?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For the MD Anderson international pathway specifically, this includes preparing records in the format the International Center requires, tracking where a case stands in the review and scheduling process, and providing an objective comparison of what MD Anderson offers against Asian specialist alternatives for the same diagnosis. CancerFax does not replace the treating oncologist or make treatment decisions — those remain with the patient's qualified oncology team throughout the process.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

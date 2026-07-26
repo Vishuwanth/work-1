@@ -1,0 +1,60 @@
+{
+  "pillar": "Cancer Immunotherapy",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immunotherapy",
+  "route": "/treatments/immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Immunotherapy",
+    "intro": "Answers to the questions international patients and families most often ask about how cancer immunotherapy works, who it may help, and what to consider before treatment.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Immunotherapy",
+        "items": [
+          { "q": "What is cancer immunotherapy?", "a": "<p>Cancer immunotherapy is a group of treatments that help the immune system recognize and attack cancer cells, rather than attacking the tumor directly like chemotherapy or radiation. It includes checkpoint inhibitors, CAR T-cell therapy, monoclonal antibodies, cancer vaccines, and cytokine therapies. Each type works differently, and the right option depends on cancer type, stage, and biomarker profile, which is why treatment plans are individualized after specialist review.</p>" },
+          { "q": "How does immunotherapy work against cancer?", "a": "<p>Immunotherapy works by removing the brakes cancer cells put on immune activity or by training immune cells to identify tumor markers. Checkpoint inhibitors block proteins like PD-1 or CTLA-4 that cancer uses to hide from T-cells, while CAR T-cell therapy re-engineers a patient's own T-cells to target specific antigens. The exact mechanism used depends on the drug class and the cancer being treated.</p>" },
+          { "q": "What is the difference between immunotherapy and chemotherapy?", "a": "<p>Chemotherapy directly kills fast-dividing cells, including some healthy cells, while immunotherapy works by activating or redirecting the immune system to identify and destroy cancer cells. This means their side effect patterns are different: chemotherapy commonly causes hair loss and low blood counts, while immunotherapy can trigger immune-related side effects in organs like the skin, gut, lungs, or thyroid. Some patients receive both as part of a combined protocol.</p>" },
+          { "q": "What is the difference between immunotherapy and targeted therapy?", "a": "<p>Immunotherapy works by activating the patient's own immune system to attack cancer cells, while targeted therapy uses drugs that block specific molecular drivers inside or on the surface of cancer cells, such as EGFR, HER2, or BRAF mutations. Targeted therapy requires a matching mutation identified through genomic testing, while immunotherapy eligibility is guided by different biomarkers such as PD-L1 or MSI status. Many patients are evaluated for both, since some cancers respond better to one approach or a combination.</p>" },
+          { "q": "What types of immunotherapy are currently used in cancer treatment?", "a": "<p>The main categories are immune checkpoint inhibitors, CAR T-cell therapy, monoclonal antibodies, therapeutic cancer vaccines, oncolytic virus therapy, and cytokine treatments such as interferon or interleukin-2. Checkpoint inhibitors and monoclonal antibodies are the most widely approved, while CAR T-cell therapy is mainly used for selected blood cancers. Availability of each type varies by country, hospital, and individual case review.</p>" },
+          { "q": "Can immunotherapy cure cancer completely?", "a": "<p>For some patients, particularly those who achieve a durable response with checkpoint inhibitors in cancers like melanoma or lung cancer, remission can last for years after stopping treatment. However, immunotherapy does not cure every patient or every cancer type, and roughly half to two-thirds of eligible patients do not respond to initial treatment. Whether long-term remission is realistic depends heavily on cancer type, biomarkers, and individual response, and should be discussed honestly with your oncology team.</p>" }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          { "q": "Is immunotherapy suitable for all cancer patients?", "a": "<p>No, immunotherapy is not suitable for every cancer patient. Eligibility depends on cancer type, stage, biomarker results such as PD-L1 expression or microsatellite instability, prior treatments, and overall health. Some cancers respond well to immunotherapy while others show limited benefit, so a qualified oncology team must review a patient's full medical history before recommending it.</p>" },
+          { "q": "Who is a good candidate for immunotherapy?", "a": "<p>Good candidates are typically identified through biomarker testing that shows features associated with immune response, such as high PD-L1 expression, high tumor mutational burden, or microsatellite instability-high status. Cancer type also matters, since immunotherapy has stronger approved evidence in melanoma, lung cancer, and certain blood cancers. Final eligibility is determined only after specialist review of pathology, imaging, and treatment history.</p>" },
+          { "q": "How is immunotherapy administered?", "a": "<p>Most immunotherapy drugs, including checkpoint inhibitors and monoclonal antibodies, are given as intravenous infusions, typically every two to six weeks depending on the specific drug and protocol. CAR T-cell therapy involves a more complex process of collecting a patient's T-cells, re-engineering them in a lab, and reinfusing them after conditioning chemotherapy. The exact schedule is set by the treating oncology team.</p>" },
+          { "q": "What are the side effects or risks of immunotherapy?", "a": "<p>Immunotherapy can cause immune-related side effects because it activates the immune system broadly, not just against the tumor. Common effects include fatigue, skin rash, and diarrhea, while more serious reactions can involve the lungs, liver, thyroid, or colon. Side effects vary by drug class and individual response, and should be monitored closely and managed by the treating medical team.</p>" },
+          { "q": "How long does immunotherapy treatment usually take?", "a": "<p>Treatment duration varies widely depending on cancer type, drug used, and how the patient responds. Checkpoint inhibitor therapy may continue for months to two years if it is working and tolerated, while CAR T-cell therapy is typically a one-time infusion followed by a monitoring period. The treating oncology team adjusts duration based on scan results and side effects.</p>" }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          { "q": "How much does cancer immunotherapy cost?", "a": "<p>Cancer immunotherapy costs vary widely by drug type, country, hospital, and treatment duration, and can range from a few thousand dollars per cycle for some monoclonal antibodies to significantly higher amounts for CAR T-cell therapy. Final cost depends on diagnostics, the specific protocol, number of cycles, hospital stay, and any complications, so estimates should always be confirmed directly with the treating hospital.</p>" },
+          { "q": "Which countries offer advanced immunotherapy options?", "a": "<p>Advanced immunotherapy, including checkpoint inhibitors and CAR T-cell therapy, is available in countries such as the United States, China, India, Japan, Germany, and South Korea, among others. Availability of specific drugs or trial-stage therapies differs by country and hospital, and access also depends on regulatory approval status and hospital capability, so it is worth confirming with the specific center under consideration.</p>" },
+          { "q": "Is immunotherapy available in India?", "a": "<p>Yes, several approved immunotherapy options, including checkpoint inhibitors and monoclonal antibodies, are available at major cancer centers in India, and CAR T-cell therapy access is expanding through both approved and clinical trial pathways. Availability of a specific drug or therapy depends on the hospital and the patient's diagnosis, so this should be confirmed with the treating center in advance.</p>" },
+          { "q": "How can international patients access immunotherapy abroad?", "a": "<p>International patients typically start by sharing medical records, pathology, and imaging for remote review by a specialist team, followed by a recommendation on suitable options and estimated costs. Access then depends on hospital acceptance, visa approval, and the patient's fitness to travel, none of which can be guaranteed in advance. Planning ahead with complete medical documentation helps avoid delays.</p>" }
+        ]
+      },
+      {
+        "title": "Advanced Options and Clinical Trials",
+        "items": [
+          { "q": "Are there clinical trials for new immunotherapy treatments?", "a": "<p>Yes, clinical trials are actively studying new checkpoint inhibitor combinations, CAR T-cell therapies for solid tumors, cancer vaccines, and next-generation cell therapies across many cancer types. Enrollment is never guaranteed and depends on strict eligibility criteria, including cancer type, prior treatment, and biomarker status, which are assessed by the trial investigators after reviewing a patient's complete medical file.</p>" },
+          { "q": "Can immunotherapy be combined with chemotherapy or radiation?", "a": "<p>Yes, immunotherapy is often combined with chemotherapy, targeted therapy, or radiation in specific protocols designed to improve response rates for certain cancers, such as some lung and breast cancer regimens. Combination approaches carry their own risk and benefit profile, and whether a combined protocol is appropriate depends on cancer type, stage, and the patient's overall health as assessed by the oncology team.</p>" },
+          { "q": "How do doctors know if immunotherapy is working?", "a": "<p>Doctors track response through regular imaging scans, tumor marker blood tests, and symptom monitoring, typically every two to three months during treatment. Some patients show a delayed response pattern where tumors appear stable or slightly larger before shrinking, which requires careful interpretation by the treating radiologist and oncologist rather than assuming treatment has failed based on a single scan.</p>" }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          { "q": "What medical reports are needed before starting immunotherapy evaluation?", "a": "<p>Typically required documents include pathology and biopsy reports, imaging such as CT, PET, or MRI scans, biomarker or genomic test results, prior treatment summaries, and current blood work. Complete and recent reports allow the specialist team to assess eligibility accurately and reduce delays. Additional tests may be requested depending on the cancer type and the specific immunotherapy being considered.</p>" },
+          { "q": "How does CancerFax help patients with cancer immunotherapy?", "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>" }
+        ]
+      }
+    ]
+  }
+}

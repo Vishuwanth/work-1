@@ -1,0 +1,59 @@
+{
+  "pillar": "Best Oncologists in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "best-oncologists-in-india",
+  "route": "/guides/best-oncologists-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Who are the best oncologists in India for international patients?",
+            "a": "<p>There is no single 'best' oncologist in India for every cancer, but internationally recognised specialists include Dr. Ashok Kumar Vaid (Medanta Cancer Institute, Gurugram) for medical oncology and stem cell transplant, Dr. Harit Chaturvedi (Max Institute of Cancer Care, Delhi NCR) for surgical and robotic oncology, and Dr. Vijay Anand Reddy P (Apollo Cancer Centre, Hyderabad) for radiation oncology. Other credentialed specialists include Dr. D. C. Doval at Rajiv Gandhi Cancer Institute for solid tumours and clinical research, and Dr. Geeta Kadayaprath at Apollo Hospitals Delhi for breast surgical oncology; this is not a ranking, and current hospital affiliation should be reverified before any appointment is confirmed. The most suitable specialist for your case depends on cancer type, stage, and prior treatment, and should be confirmed after a qualified oncology team reviews your medical reports.</p>"
+          },
+          {
+            "q": "How do I choose an oncologist in India for my specific cancer?",
+            "a": "<p>Choosing the right oncologist in India depends on several clinical factors — your cancer type, disease stage, age, prior treatment history, and the overall treatment goal, whether that is cure, long-term disease control, or symptom relief — rather than on any single 'best' doctor ranking. For a newly diagnosed patient, a medical oncologist or multidisciplinary tumour board typically coordinates the overall plan, and a surgical or radiation oncologist is brought in when surgery or radiation is required; many patients need more than one specialist working together. The final specialist combination should be confirmed only after your histopathology, imaging, and molecular reports are reviewed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is the difference between a medical, surgical, and radiation oncologist?",
+            "a": "<p>A medical oncologist treats cancer with chemotherapy, immunotherapy, targeted therapy, and hormone therapy and often coordinates the overall treatment plan, a surgical oncologist performs tumour removal and organ-preserving or robotic cancer surgery, and a radiation oncologist plans and delivers radiation techniques such as IMRT, IGRT, or SBRT. Many patients require more than one of these specialists working together, for example a surgical oncologist for tumour removal followed by a medical oncologist for systemic therapy and a radiation oncologist for post-surgical radiation. Which combination applies to you depends on cancer type, stage, and biomarker profile, and should be confirmed through specialist review.</p>"
+          },
+          {
+            "q": "Which specialist treats blood cancers like leukemia, lymphoma, and myeloma in India?",
+            "a": "<p>Blood cancers such as leukemia, lymphoma, and multiple myeloma in India are typically treated by a hemato-oncologist, a specialist who manages chemotherapy and immunotherapy for these conditions and may also oversee bone marrow transplant or cellular therapies such as CAR-T when clinically appropriate. Dr. Ashok Kumar Vaid at Medanta Cancer Institute, Gurugram, is one recognised specialist whose credentials include medical oncology, hematology, and stem cell transplant. Whether CAR-T, transplant, or standard chemo-immunotherapy is appropriate depends on the specific blood cancer subtype, stage, and biomarker profile, and should be decided by the treating hemato-oncology team.</p>"
+          },
+          {
+            "q": "How much does an oncologist consultation cost in India for international patients?",
+            "a": "<p>An initial oncology consultation in India for international patients typically costs between $60 and $250, depending on the hospital, city, and the treating doctor's seniority, while an online second opinion or report review generally costs between $100 and $400. Costs can vary further depending on whether multiple specialists, such as a full tumour board, are involved in reviewing the case. These figures are approximate; the final consultation and treatment cost is confirmed only after your specific reports are reviewed by the hospital and specialist team.</p>"
+          },
+          {
+            "q": "What medical reports do I need before consulting an oncologist in India?",
+            "a": "<p>Before consulting an oncologist in India, international patients should have their histopathology report, immunohistochemistry (IHC) results, relevant imaging scans such as PET-CT or MRI, and any prior molecular or genomic testing available so the case can be reviewed accurately before an appointment is confirmed. These reports allow the medical coordination team to review the case and confirm which specialty and specialist are most relevant before a hospital or doctor is shortlisted. Additional tests may be requested depending on cancer type and stage, and should be confirmed with the specific hospital or specialist.</p>"
+          },
+          {
+            "q": "Can I get an online second opinion from an oncologist in India before traveling?",
+            "a": "<p>Yes, many oncologists in India provide online second opinions after remotely reviewing a patient's pathology, imaging, and molecular test reports, typically costing between $100 and $400 depending on case complexity and how many specialists are involved in that review process. This remote review typically involves sending reports directly to the hospital's international patient or oncology coordination team so a suitable specialist can respond before travel plans are finalized. An online second opinion supports early planning but does not replace an in-person evaluation, which is usually required before treatment begins.</p>"
+          },
+          {
+            "q": "Can patients from Africa and the Middle East get cancer treatment in India?",
+            "a": "<p>Yes, private cancer hospitals in India regularly treat international patients from African and Middle Eastern countries including Nigeria, Kenya, Ethiopia, the UAE, Saudi Arabia, and Oman, with support available for medical visa documentation, travel arrangements, and appointment coordination throughout the process. Practical support commonly includes interpreter services, halal food options, and planning for longer stays required for radiation therapy, transplant, or extended treatment courses. Hospital acceptance, visa approval, and final admission are determined case by case by the hospital and relevant authorities, and cannot be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How much does cancer treatment cost in India after the oncologist consultation?",
+            "a": "<p>After the initial oncologist consultation, cancer treatment costs in India vary by therapy: chemotherapy typically costs $300 to $1,500 per cycle, a full course of radiation therapy costs about $2,000 to $6,000, and immunotherapy costs roughly $1,500 to $4,500 per cycle. Diagnostic imaging such as PET-CT, MRI, or CT scans generally adds $150 to $600, with the exact regimen, number of cycles, and technique depending on the cancer type and treatment plan. These figures are estimated ranges only; final treatment cost depends on the specific drug regimen, fractions, or technique chosen, and should be confirmed after full report review by the treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients find the right oncologist in India?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. This includes reviewing pathology, imaging, and molecular reports to shortlist suitable specialists and hospitals, along with an outline treatment plan and estimated cost before a patient travels to India. CancerFax does not replace the treating oncologist and does not make treatment decisions; all diagnosis and treatment choices are made by the qualified medical team evaluating the patient's case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

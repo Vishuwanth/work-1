@@ -8,7 +8,7 @@ const DEFAULT_XLSX = "docs/source/CancerFax_Content_Architecture_1.xlsx";
 
 // Column positions (0-indexed) in the "All 300 Pages" sheet:
 // # | Pillar # | Pillar Name | Support Page # | Support Page Title | Status | Writer | Assigned To | Target Publish Date | Content Type
-const COL = { pillarName: 2, title: 4, status: 5, contentType: 9 } as const;
+const COL = { pillarNum: 1, pillarName: 2, title: 4, status: 5, contentType: 9 } as const;
 
 function str(v: unknown): string {
   return v == null ? "" : String(v).trim();
@@ -35,6 +35,7 @@ export function readRows(xlsxPath?: string): Row[] {
     if (title === "") continue;
     rows.push({
       rowNum: i + 2,
+      pillarNum: str(cells[COL.pillarNum]),
       pillarName: str(cells[COL.pillarName]),
       title,
       excelStatus: str(cells[COL.status]),

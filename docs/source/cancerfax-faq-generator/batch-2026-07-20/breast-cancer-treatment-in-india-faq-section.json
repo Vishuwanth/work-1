@@ -1,0 +1,59 @@
+{
+  "pillar": "Breast Cancer Treatment in India for African and Middle Eastern Women",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "breast-cancer-treatment-in-india",
+  "route": "/guides/breast-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does breast cancer treatment cost in India?",
+            "a": "<p>Breast cancer treatment in India typically costs an estimated $2,000 to $7,000 for surgery, $2,500 to $7,000 for a full radiation course, and $300 to $2,500 or more per chemotherapy cycle, depending on the drug regimen. Biopsy and IHC testing usually range from $150 to $500, while NGS or molecular testing can add $300 to $1,500 or more in selected advanced cases. These are approximate starting ranges only, and a firm estimate depends on the hospital, diagnostics, treatment protocol, and length of stay, so it should be confirmed after a specialist reviews the reports.</p>"
+          },
+          {
+            "q": "Which cities in India are best for breast cancer treatment?",
+            "a": "<p>Delhi NCR, Mumbai, Chennai, Hyderabad, Bangalore, and Kochi are among the leading Indian cities for breast cancer treatment, each with different strengths in surgical, medical oncology, and radiation infrastructure. Delhi NCR and Mumbai have high surgical volumes and reconstructive expertise, Chennai and Bangalore offer strong radiation and multidisciplinary programs, and Hyderabad and Kochi provide growing precision oncology and dedicated international patient support. The right city and hospital depend on diagnosis, treatment plan, budget, and travel needs, and should be confirmed through specialist review rather than chosen on ranking alone.</p>"
+          },
+          {
+            "q": "Is breast-conserving surgery available in India?",
+            "a": "<p>Yes, breast-conserving surgery is available in India and is offered alongside mastectomy, with the choice depending on tumour size, location, and patient preference. Radiation therapy is typically given after breast-conserving surgery and is used in selected cases after mastectomy as well, as part of the overall surgical plan. Whether breast-conserving surgery or mastectomy is more appropriate should be confirmed by the treating surgical oncology team after reviewing imaging and pathology reports.</p>"
+          },
+          {
+            "q": "Is HER2-targeted therapy available for breast cancer in India?",
+            "a": "<p>Yes, HER2-targeted therapy is available in India, including trastuzumab, pertuzumab, and antibody-drug conjugates, for patients with confirmed HER2-positive breast cancer. Eligibility depends on HER2 status confirmed through IHC or related biomarker testing, along with cancer stage and any prior treatment received. Final medicine selection and sequencing should be decided by the treating oncology team after biomarker and specialist review.</p>"
+          },
+          {
+            "q": "Does India offer immunotherapy for triple-negative breast cancer?",
+            "a": "<p>Immunotherapy may be considered in India for selected high-risk or PD-L1-positive triple-negative breast cancer cases, though it is not used for every patient with this subtype. Eligibility depends on biomarker testing results, cancer stage, and prior treatment history, and is confirmed only after specialist review rather than assumed from the diagnosis alone. Because immunotherapy is not suitable for all breast cancer types, a qualified oncology team should assess biomarker status before it is recommended.</p>"
+          },
+          {
+            "q": "How long do I need to take hormone therapy for breast cancer?",
+            "a": "<p>Hormone therapy for ER and/or PR-positive breast cancer in India is typically continued for 5 to 10 years as a daily oral medication following initial treatment. The exact duration and drug choice depend on menopausal status, cancer stage, and individual risk of recurrence, which vary from patient to patient. The length of therapy should be set and periodically reviewed by the treating oncologist rather than fixed in advance.</p>"
+          },
+          {
+            "q": "Is breast reconstruction available in India?",
+            "a": "<p>Yes, breast reconstruction is available in India, with both implant-based and tissue-based techniques offered either at the time of mastectomy or at a later stage. The choice of technique depends on body type, prior radiation exposure, and patient preference, and reconstructive expertise is available at hospitals in cities such as Mumbai and Bangalore. Whether immediate or delayed reconstruction is more suitable should be discussed directly with the surgical and oncology team.</p>"
+          },
+          {
+            "q": "How long do I need to stay in India for breast cancer treatment?",
+            "a": "<p>Surgery alone for breast cancer in India may require about 7 to 10 days in the country, while chemotherapy or radiation courses can extend the stay to several weeks or a few months. The exact length of stay depends on the treatment plan, number of chemotherapy cycles, and radiation sessions required for the individual case. Families should plan travel and accommodation around the specific protocol confirmed by the treating medical team.</p>"
+          },
+          {
+            "q": "What travel and language support is available for African and Middle Eastern patients?",
+            "a": "<p>Patients from Africa and the Middle East traveling to India for breast cancer treatment can access medical visa invitation letter assistance, attendant travel planning, and airport pickup near the treating hospital. Additional support includes halal food options and interpreter services in Arabic, French, or Swahili, along with planning for multi-week chemotherapy or radiation courses that may require an extended stay. These logistics are arranged alongside, and never in place of, the medical treatment plan set by the oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help with breast cancer treatment in India?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For breast cancer patients from Africa and the Middle East specifically, this includes shortlisting suitable hospitals in cities such as Delhi NCR, Mumbai, or Chennai and arranging interpreter and halal food support during a multi-week treatment course. CancerFax does not replace the oncologist or make treatment decisions, and all diagnosis and treatment choices remain with the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

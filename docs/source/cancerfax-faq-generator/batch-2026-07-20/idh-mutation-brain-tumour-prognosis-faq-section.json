@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "idh-mutation-brain-tumour-prognosis",
+  "route": "/guides/idh-mutation-brain-tumour-prognosis",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does an IDH mutation mean for a brain tumour diagnosis?",
+            "a": "<p>IDH mutation status is one of the most important molecular markers used to diagnose and classify adult diffuse gliomas. The IDH1 and IDH2 genes normally encode enzymes involved in the Krebs cycle; when mutated, they produce an abnormal metabolite that drives epigenetic changes and tumour formation. Under the 2021 WHO CNS classification, IDH status is the primary criterion separating glioma subtypes — IDH-mutant astrocytoma or oligodendroglioma versus IDH-wildtype glioblastoma. This distinction affects naming, grading, expected behaviour, and treatment planning. Two tumours that look identical under the microscope can behave very differently depending on molecular profile, so knowing IDH status may be considered essential before finalizing a treatment plan. Results should always be reviewed with a qualified neuro-oncology team alongside the full pathology report.</p>"
+          },
+          {
+            "q": "Is an IDH-mutant brain tumor more treatable or does it have a better prognosis?",
+            "a": "<p>IDH-mutant gliomas generally follow a more indolent course than IDH-wildtype tumours, with slower growth, greater sensitivity to chemotherapy and radiation, and reported median survival ranging from several years to over a decade depending on grade — compared with roughly 14 to 16 months typically reported for IDH-wildtype glioblastoma. This is one of the more notable prognostic separations described in glioma research. Even so, prognosis still depends on tumor grade, additional molecular markers such as 1p/19q codeletion and MGMT methylation, extent of surgical resection, and individual patient factors. These figures come from population-level data and should not be read as a guaranteed outcome for any one patient. Prognosis should always be discussed with a qualified neuro-oncology team familiar with the complete pathology and imaging findings.</p>"
+          },
+          {
+            "q": "What tests confirm IDH mutation status in a brain tumor?",
+            "a": "<p>IDH testing requires actual tumour tissue obtained through biopsy or surgery — it cannot be determined from MRI or other imaging alone. The standard first step is immunohistochemistry (IHC) using an antibody against the IDH1 R132H protein, which detects the most common mutation and is available at most neuropathology laboratories. If IHC is negative or inconclusive, next-generation or Sanger sequencing of the IDH1 and IDH2 genes can detect less common mutation variants, which may be considered especially important in younger patients with lower-grade tumours. Liquid biopsy testing for IDH mutations in blood is an area of active research but is not yet considered a reliable substitute for tissue testing in brain tumours. Which combination of tests is needed should be determined by the treating neuropathology and neuro-oncology team.</p>"
+          },
+          {
+            "q": "My tumor was called glioblastoma but I was never told my IDH status — does that matter?",
+            "a": "<p>It may matter significantly. Under current WHO classification, the term glioblastoma specifically refers to an IDH-wildtype tumor; if IDH testing was never performed, the diagnosis may have been made on tissue appearance alone, without the molecular confirmation that helps define the tumor and its expected behaviour. If the tumor is later found to be IDH-mutant rather than truly IDH-wildtype glioblastoma, the prognosis and treatment considerations can differ substantially. Requesting IDH testing on the original surgical specimen, or seeking a second opinion from a center with molecular neuropathology capability, may be considered a reasonable next step. Whether repeat testing changes the treatment plan should be discussed with a qualified oncology team reviewing the original pathology slides and blocks.</p>"
+          },
+          {
+            "q": "How does IDH mutation status affect which brain tumor treatments are considered?",
+            "a": "<p>IDH status influences several treatment decisions beyond initial diagnosis. IDH-mutant tumors tend to respond more consistently to temozolomide chemotherapy and radiation, partly because they frequently also carry MGMT promoter methylation. For IDH-mutant, non-enhancing Grade 2 gliomas after surgery, an oral targeted therapy has been studied specifically in patients who have not yet received radiation or chemotherapy, as an alternative to watchful observation. IDH-wildtype tumors, by contrast, are generally managed with more immediate combined radiation and chemotherapy protocols. The appropriate sequence and choice of treatments depends on tumor grade, additional molecular findings, symptoms, and imaging trends over time, and should always be worked out individually with a qualified neuro-oncology team rather than assumed from IDH status alone.</p>"
+          },
+          {
+            "q": "What is vorasidenib and who might be eligible for it?",
+            "a": "<p>Vorasidenib (brand name Voranigo) is an oral medication designed to inhibit the mutated IDH1 and IDH2 enzymes directly. It was studied in a large randomized trial in patients with residual or recurrent IDH-mutant Grade 2 astrocytoma or oligodendroglioma who had not yet received radiation or chemotherapy after surgery, where it was associated with longer progression-free survival and a longer time before radiation or chemotherapy was needed compared with placebo. It received regulatory approval in the United States in August 2024 for this specific patient group. Eligibility depends on tumor subtype, prior treatment history, and monitoring for potential side effects such as liver enzyme elevation. Whether vorasidenib may be considered for a given patient should be determined by a qualified neuro-oncology team, since approval status and access vary by country.</p>"
+          },
+          {
+            "q": "Does an IDH-wildtype result always mean the tumor is glioblastoma?",
+            "a": "<p>Not automatically, but it often reshapes how the tumor is understood. In a histologically Grade 2 or 3 diffuse astrocytoma, an IDH-wildtype result should prompt additional testing for TERT promoter mutation, EGFR amplification, and specific chromosomal patterns. If any of these are present, current WHO criteria reclassify the tumor as glioblastoma (IDH-wildtype WHO Grade 4), regardless of how it appeared under the microscope. This reclassification can meaningfully change expected behaviour and treatment intensity. Because the additional molecular tests required for this determination are specialized, results should be interpreted by a neuropathologist and discussed with a qualified neuro-oncology team before treatment decisions are finalized, rather than relying on grade or IDH status in isolation.</p>"
+          },
+          {
+            "q": "Can IDH testing and targeted therapies like vorasidenib be accessed outside the country where they were developed?",
+            "a": "<p>Access varies considerably by region. IDH testing by immunohistochemistry is available at most neuropathology laboratories internationally, though sequencing for less common mutation variants may require a specialized reference lab. Vorasidenib has regulatory approval in the United States, while approval in much of Asia and other regions remains pending. In countries where it is not yet locally approved, patients and families sometimes explore options such as clinical trial enrollment or compassionate-use programmes at centers involved in the original research. Whether such pathways are appropriate, and which centers may have relevant experience, depends on individual case details, local regulations, and specialist review, and should be discussed directly with treating physicians and the institutions involved.</p>"
+          },
+          {
+            "q": "How can families get help navigating IDH testing, specialist opinions, and treatment access for a brain tumor diagnosis?",
+            "a": "<p>Coordinating molecular testing, specialist reviews, and treatment access across different institutions and countries can be difficult to manage alone, particularly when standard testing was incomplete or a recommended therapy is not yet approved locally. CancerFax helps patients organize medical reports, identify relevant specialists or hospitals, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support for cases involving IDH-mutant and IDH-wildtype brain tumors, including understanding testing options and possible pathways to therapies such as vorasidenib where local approval is still pending. Treatment decisions are always made by the treating medical team; this kind of support is intended to help families organize information and access, not to replace direct specialist consultation.</p>"
+          },
+          {
+            "q": "What should I ask my neuro-oncology team after receiving IDH mutation test results?",
+            "a": "<p>Useful questions include what the complete molecular profile of the tumor shows beyond IDH status, including MGMT methylation and 1p/19q codeletion where applicable; how this profile affects the WHO grade and diagnosis; what treatment options may be considered appropriate given this specific combination of findings; and how the tumor will be monitored going forward, including imaging frequency. It may also be worth asking whether a targeted therapy or newly approved option, such as an IDH inhibitor, could be relevant to the specific case. Because interpretation of molecular results depends on the complete clinical picture, these questions are best directed to the treating neuro-oncology team, who can weigh grade, prior treatment, and imaging trends together rather than any single result in isolation.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

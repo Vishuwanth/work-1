@@ -23,9 +23,9 @@ function mkFixture(overrides: Partial<Fixture>): Fixture {
 }
 
 const rows: Row[] = [
-  { rowNum: 1, pillarName: "Leukemia", title: "Raw One", excelStatus: "Pending", contentType: "", slug: "raw-one" },
-  { rowNum: 2, pillarName: "Leukemia", title: "Done One", excelStatus: "Done", contentType: "guide", slug: "done-one" },
-  { rowNum: 3, pillarName: "Lymphoma", title: "None", excelStatus: "Pending", contentType: "", slug: "none-one" },
+  { rowNum: 1, pillarNum: "1", pillarName: "Leukemia", title: "Raw One", excelStatus: "Pending", contentType: "", slug: "raw-one" },
+  { rowNum: 2, pillarNum: "1", pillarName: "Leukemia", title: "Done One", excelStatus: "Done", contentType: "guide", slug: "done-one" },
+  { rowNum: 3, pillarNum: "2", pillarName: "Lymphoma", title: "None", excelStatus: "Pending", contentType: "", slug: "none-one" },
 ];
 
 describe("deriveRowViews", () => {

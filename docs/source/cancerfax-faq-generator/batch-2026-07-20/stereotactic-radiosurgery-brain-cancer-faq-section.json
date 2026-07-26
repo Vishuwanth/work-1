@@ -1,0 +1,29 @@
+{
+  "pillar": "Radiation therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "stereotactic-radiosurgery-brain-cancer",
+  "route": "/insights/stereotactic-radiosurgery-brain-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          { "q": "Is SRS as effective as surgery for brain metastases?", "a": "<p>For most brain metastases 3 cm or smaller, SRS achieves local control comparable to surgical resection, with 1-year local control rates around 85-95% for both approaches in appropriate cases. SRS avoids general anaesthesia, craniotomy risk, and hospital admission, which is why it's often preferred for patients with limited brain disease. Surgery may still be preferred when a tissue diagnosis is needed or a lesion is causing significant mass effect requiring decompression, based on specialist assessment.</p>" },
+          { "q": "Can SRS treat multiple brain metastases at once?", "a": "<p>Yes, SRS for multiple brain metastases — up to 10 or more in some cases — is now widely practiced, with studies showing similar overall survival to treating 1-4 lesions without the neurocognitive toxicity linked to whole-brain radiotherapy. Experienced centres can treat many lesions in a single session using multi-target planning. The practical limit depends more on total intracranial disease burden than the exact number of lesions, assessed by the treating team.</p>" },
+          { "q": "Is SRS available in India and China, and is it as good as in Western countries?", "a": "<p>Yes, Gamma Knife, CyberKnife, and linac-based SRS are available at multiple major cancer centres in India and China, with neuro-radiation oncologists trained in the same protocols and using comparable planning software to Western centres. Published outcomes data from high-volume Indian and Chinese SRS programmes are broadly consistent with international benchmarks. Cost at these centres is typically a fraction of equivalent US treatment, though exact pricing should be confirmed with the specific hospital.</p>" },
+          { "q": "What is the difference between SRS and whole-brain radiotherapy (WBRT)?", "a": "<p>SRS delivers precisely targeted radiation to one or several specific brain tumours in one to five sessions, while WBRT treats the entire brain over multiple sessions and is more likely to cause measurable memory and cognitive decline over time. Many patients with a limited number of brain metastases now receive SRS instead of WBRT to help preserve neurocognitive function. WBRT still has a role for widespread disease or certain situations, decided by the radiation oncology team based on the specific case.</p>" },
+          { "q": "What side effects can SRS for brain cancer cause?", "a": "<p>SRS side effects are generally more limited than whole-brain radiotherapy but can include fatigue, localized swelling or headache, and occasionally temporary worsening of neurological symptoms near the treated area. Less commonly, radiation necrosis can develop months after treatment and may require further management. Side effects vary by tumour location and size, and your treatment team will monitor you accordingly.</p>" },
+          { "q": "How many treatment sessions does SRS usually require?", "a": "<p>Many SRS treatments are completed in a single session, though fractionated SRS (FSRT) using three to five sessions is used for larger tumours or those close to sensitive structures like the brainstem or optic nerves. The exact number of sessions depends on tumour size, location, and prior treatment, determined by the treatment planning team. Sessions themselves typically take under an hour, though planning and positioning add time.</p>" },
+          { "q": "Is SRS an option for recurrent glioblastoma (GBM)?", "a": "<p>SRS or fractionated SRS can be considered for small, focal recurrent GBM, particularly at least six months after prior radiation, with local control rates around 50-70% at one year in appropriate cases. This is not suitable for all recurrences, and eligibility depends on the size, location, and pattern of the recurrence as well as prior treatment received. A neuro-oncology team can assess whether this option applies to your specific situation.</p>" },
+          { "q": "Can SRS treat acoustic neuroma (vestibular schwannoma) instead of surgery?", "a": "<p>Yes, single-fraction SRS, often delivered via Gamma Knife, is a primary treatment option for acoustic neuromas up to about 3 cm, with tumour control rates above 95% at five years in published series, comparable to surgery with generally lower risk to hearing and facial nerve function. Larger tumours or those causing significant brainstem compression may still require surgery. The right choice depends on tumour size and symptoms, assessed by a specialist.</p>" },
+          { "q": "How much does SRS for brain cancer cost?", "a": "<p>SRS costs vary significantly by country, platform, and number of lesions treated — single-session treatment in India, for example, is commonly a small fraction of equivalent US pricing. Costs are also affected by whether single-fraction or multi-fraction treatment is needed and the specific hospital and technology used. A firm quote can only be given after a centre reviews your imaging and treatment plan.</p>" },
+          { "q": "How does CancerFax help patients access SRS for brain cancer?", "a": "<p>CancerFax helps patients organize imaging and pathology reports, identify experienced SRS centres in India, China, or elsewhere matched to their specific brain tumour type, and coordinate second opinions, travel, and logistics. Treatment decisions, including which SRS platform and dose schedule to use, are always made by the treating radiation oncology team after reviewing the complete case.</p>" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "China's New Generation of Bi-Specific Antibodies: A Game Changer for Solid Tumours",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "bi-specific-antibodies-for-solid-tumours-in-china",
+  "route": "/guides/bi-specific-antibodies-for-solid-tumours-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are bi-specific antibodies for cancer treatment?",
+            "a": "<p>A bi-specific antibody is a single engineered antibody built to bind two different targets at the same time, so in cancer treatment it can act through two biological pathways at once &mdash; for example, activating the immune system while also blocking the tumour's blood supply &mdash; instead of relying on one mechanism alone.</p><p>China has become one of the most active centres for developing and approving this drug class, with several bi-specific antibodies already used in clinic and many more being tested in trials. Whether a particular bi-specific antibody suits an individual patient depends on cancer type, biomarker profile, and review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What bi-specific antibodies are approved in China for solid tumours?",
+            "a": "<p>China has approved at least two bi-specific antibodies for solid tumours &mdash; ivonescimab, which pairs PD-1 blockade with an anti-angiogenic effect, and cadonilimab, which pairs PD-1 blockade with CTLA-4 blockade &mdash; both authorised ahead of many other markets for specific cancer types and treatment settings.</p><p>Ivonescimab is approved for non-squamous NSCLC that has progressed after EGFR-targeted therapy and as a first-line option for PD-L1-positive advanced NSCLC. Cadonilimab, the first PD-1/CTLA-4 bi-specific approved anywhere, is used for relapsed or metastatic cervical cancer and first-line gastric/GEJ and cervical cancer. Suitability for either drug depends on individual diagnosis, biomarkers, and oncologist review.</p>"
+          },
+          {
+            "q": "What is ivonescimab and which cancers is it used for?",
+            "a": "<p>Ivonescimab is a bi-specific antibody that combines PD-1 immune checkpoint blockade with an anti-angiogenic, VEGF-blocking effect in a single molecule, aiming to reactivate the immune response against the tumour while also restricting the blood supply it needs to grow, rather than addressing only one of these mechanisms.</p><p>It is approved in China for non-squamous NSCLC that has progressed after EGFR-targeted therapy, and as a first-line treatment for PD-L1-positive advanced NSCLC, with further lung cancer settings and other tumour types currently under study. Whether ivonescimab is appropriate for a given patient depends on cancer type, prior treatment, and biomarker results reviewed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is cadonilimab and which cancers is it used for?",
+            "a": "<p>Cadonilimab is the first PD-1/CTLA-4 bi-specific antibody approved anywhere in the world, combining two distinct immune checkpoint-blocking mechanisms in a single drug so a patient can receive both effects from one treatment rather than two separate immunotherapy infusions, first authorised in China.</p><p>It was initially approved for relapsed or metastatic cervical cancer after platinum-based chemotherapy, and has since been approved as a first-line option for gastric and GEJ cancer and first-line cervical cancer, with study underway in other solid tumours. Use of cadonilimab for any individual patient depends on cancer type, stage, and specialist assessment.</p>"
+          },
+          {
+            "q": "Can bi-specific antibodies target the tumour directly instead of the immune system?",
+            "a": "<p>Yes, some bi-specific antibodies are designed to recognise two different markers on the tumour cell itself rather than engaging the immune system, an approach intended to improve selectivity for cancer cells and reduce harm to surrounding healthy tissue compared with therapies that act on only one target.</p><p>Chinese research is exploring tumour-targeted combinations involving markers such as HER2, EGFR, CLDN18.2, and B7-H3 across various solid tumours. Most of these tumour-targeted bi-specific antibodies remain investigational, studied through clinical trials rather than offered as approved standard treatment, so availability and eligibility depend on the specific trial and the patient's tumour profile.</p>"
+          },
+          {
+            "q": "Do T-cell engaging bi-specific antibodies work in solid tumours?",
+            "a": "<p>T-cell engaging bi-specific antibodies connect a patient's own T cells directly to cancer cells through a marker called CD3, and while this approach has shown strong activity in some blood cancers, it remains more difficult to apply effectively in solid tumours because of greater tumour variability and toxicity risk.</p><p>China is developing next-generation T-cell engaging designs aimed at improving safety and efficacy in solid tumours, though most remain in trial-based development rather than approved use. Whether this approach could apply to a specific solid tumour depends on ongoing trial results, the tumour's biology, and specialist evaluation.</p>"
+          },
+          {
+            "q": "Which solid tumours are most studied for bi-specific antibody treatment in China?",
+            "a": "<p>Lung cancer, specifically non-squamous NSCLC, is the leading area of bi-specific antibody research and approval in China, particularly using PD-1/VEGF strategies after EGFR-targeted therapy or prior immunotherapy, followed by gastric and gastroesophageal junction cancer and cervical cancer as the next most studied solid tumour types.</p><p>Liver, colorectal, and pancreatic cancers are also being investigated, drawing on China's large clinical trial network, though options here remain mostly experimental. Suitability for any tumour type depends on individual biomarker results, prior treatment history, and review by a qualified oncology team before any pathway is considered.</p>"
+          },
+          {
+            "q": "Is bi-specific antibody therapy suitable for my cancer?",
+            "a": "<p>Bi-specific antibody therapy may be suitable for some patients with lung, gastric, cervical, or certain other solid tumours, but it is not appropriate for everyone and cannot be confirmed without a full review of the individual case by a qualified oncology team.</p><p>Eligibility depends on cancer type, stage, biomarker profile, and prior treatment history, since approved drugs such as ivonescimab and cadonilimab are indicated for specific settings while other bi-specific approaches remain trial-based. Final treatment decisions should always be made by the treating medical team after reviewing the complete case.</p>"
+          },
+          {
+            "q": "What tests are needed before considering bi-specific antibody treatment in China?",
+            "a": "<p>Before considering bi-specific antibody treatment, an oncology team typically needs pathology and imaging review along with biomarker testing such as PD-L1 expression, NGS panels, MSI/MMR status, HER2, EGFR, ALK, or CLDN18.2, depending on which cancer type and drug are being evaluated.</p><p>These results help determine whether an approved option such as ivonescimab or cadonilimab, or a relevant clinical trial, is realistic for the case. Patients who do not yet have some of these reports can still be reviewed, as missing tests can often be identified and arranged during case preparation.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients access bi-specific antibody treatment in China?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team.</p><p>For a case involving bi-specific antibody treatment, this includes reviewing biomarker and pathology reports to see which approved options, such as ivonescimab or cadonilimab, or which investigational trials may align with the tumour profile, then helping map the case to suitable oncology centres in China. CancerFax does not replace the oncologist or make treatment decisions &mdash; all recommendations are reviewed and finalised by the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

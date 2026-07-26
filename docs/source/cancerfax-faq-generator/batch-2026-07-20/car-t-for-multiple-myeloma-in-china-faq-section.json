@@ -1,0 +1,59 @@
+{
+  "pillar": "Blood Cancer Treatment: Leukaemia, Lymphoma, and Myeloma",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-for-multiple-myeloma-in-china",
+  "route": "/insights/car-t-for-multiple-myeloma-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is BCMA CAR-T therapy for multiple myeloma?",
+            "a": "<p>BCMA CAR-T therapy is a form of cell therapy that re-engineers a patient's own T-cells to recognize and destroy myeloma cells expressing the BCMA protein, and it is used for patients with relapsed or refractory multiple myeloma who have exhausted standard treatment lines. In China, two BCMA-directed products are NMPA-approved — Carvykti (ciltacabtagene autoleucel) and equecabtagene autoleucel — alongside next-generation products such as CT103A and BCMA+GPRC5D dual-target constructs still in clinical trials. Suitability depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Who is eligible for BCMA CAR-T therapy for multiple myeloma in China?",
+            "a": "<p>Patients with relapsed or refractory multiple myeloma who have received at least one prior line of therapy including a proteasome inhibitor and an immunomodulatory drug may be considered for BCMA CAR-T therapy in China. Standard eligibility also requires an ECOG performance status of 0–1, adequate organ function, and no active serious infection at the time of treatment, with Carvykti approved from one prior line onward. Final eligibility depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and should be confirmed by the treating oncology team before any travel is arranged.</p>"
+          },
+          {
+            "q": "How much does Carvykti cost for multiple myeloma treatment in China?",
+            "a": "<p>Carvykti (ciltacabtagene autoleucel) is estimated to cost between $130,000 and $160,000 in China, compared with roughly $465,000 for the same NMPA-approved product in the United States, an estimated 40–60% cost saving. This difference reflects manufacturing, hospital, and regulatory factors rather than a difference in the therapy itself. Actual costs vary based on the treating hospital, required diagnostics, apheresis and bridging therapy needs, and length of stay, so these figures are estimated ranges only and should be confirmed directly with the treating center.</p>"
+          },
+          {
+            "q": "How much does equecabtagene autoleucel (CT053) cost compared to Carvykti?",
+            "a": "<p>Equecabtagene autoleucel, also known as Carteyva, is estimated to cost $90,000 to $130,000 in China, generally lower than Carvykti's estimated $130,000–$160,000 range. Both are NMPA-approved BCMA-directed CAR-T products for relapsed or refractory multiple myeloma, and the price gap reflects manufacturing and licensing factors rather than a proven difference in outcomes between the two. These are estimated ranges only; final cost depends on the treating hospital, pre-treatment workup, and length of stay, and should be confirmed with the specialist team before choosing either product.</p>"
+          },
+          {
+            "q": "What is the difference between Carvykti and equecabtagene autoleucel?",
+            "a": "<p>Carvykti and equecabtagene autoleucel are both NMPA-approved BCMA-directed CAR-T products for multiple myeloma in China, but they use different antibody binding domains — Carvykti uses a camelid-derived VHH domain, while equecabtagene uses a fully human BCMA-binding domain that may carry lower immunogenicity risk. Both products have reported overall response rates exceeding 90% in relapsed or refractory myeloma populations in available data. Choosing between the two, or considering a clinical-trial product instead, depends on cancer type, stage, biomarker profile, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "How effective is BCMA CAR-T therapy for relapsed or refractory multiple myeloma?",
+            "a": "<p>BCMA CAR-T products used in China, including Carvykti and equecabtagene autoleucel, have reported complete response rates of 90% or higher in selected relapsed or refractory multiple myeloma populations, based on available clinical data. These results come from specific patient groups meeting strict eligibility criteria such as adequate organ function and no active serious infection, and individual outcomes vary considerably. No cancer therapy offers guaranteed results, and expected outcomes depend on cancer type, stage, biomarker profile, prior treatment, and specialist review by the treating oncology team.</p>"
+          },
+          {
+            "q": "What happens if multiple myeloma relapses after BCMA CAR-T therapy?",
+            "a": "<p>Patients who relapse after BCMA CAR-T therapy may be considered for GPRC5D-directed CAR-T therapy or bispecific antibodies such as talquetamab, which target a different myeloma cell surface protein than BCMA. China has active clinical trials in the GPRC5D space, making it one option pathway for post-BCMA relapse alongside standard salvage regimens. Whether either option applies depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and trial enrollment is confirmed only after investigator assessment, never guaranteed in advance.</p>"
+          },
+          {
+            "q": "Is CT103A or another next-generation BCMA CAR-T available through clinical trials in China?",
+            "a": "<p>CT103A, a fully human BCMA-directed CAR-T product, along with BCMA+GPRC5D dual-target constructs, is currently available in China only through active clinical trials rather than standard NMPA-approved commercial treatment. Trial-based treatment costs are typically subsidised compared with approved products, but access is not automatic. Enrollment depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and is confirmed only after investigator evaluation — trial participation, hospital acceptance, and outcomes are never guaranteed in advance.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of BCMA CAR-T therapy?",
+            "a": "<p>BCMA CAR-T therapy carries known risks including cytokine release syndrome, neurological side effects, and a period of low blood counts with increased infection risk while newly infused T-cells take effect. These risks are managed at treating hospitals with dedicated CAR-T monitoring protocols, but they are not eliminated by any product or center, and side effects can still occur despite careful monitoring. The likelihood and severity depends on cancer type, stage, biomarker profile, prior treatment, and overall health, and should be discussed in detail with the treating oncology team beforehand.</p>"
+          },
+          {
+            "q": "How can CancerFax help patients access BCMA CAR-T treatment in China?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For BCMA CAR-T candidates, this includes reviewing myeloma history, prior treatment lines, and BCMA expression status to help identify appropriate NMPA-approved products or trial options at Chinese centers. CancerFax does not replace the oncologist or make treatment decisions — final eligibility and treatment choice remain with the treating medical team following specialist review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

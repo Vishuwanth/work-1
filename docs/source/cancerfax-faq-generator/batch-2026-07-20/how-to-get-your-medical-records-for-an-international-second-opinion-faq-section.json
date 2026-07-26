@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Diagnosis and Staging: Understanding Your Reports",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-to-get-your-medical-records-for-an-international-second-opinion",
+  "route": "/guides/how-to-get-your-medical-records-for-an-international-second-opinion",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What medical records do I actually need for an international cancer second opinion?",
+            "a": "<p>A second opinion for cancer requires primary source documents — original pathology slides, paraffin-embedded tissue blocks, full DICOM imaging files, complete molecular and genomic reports, and operative and treatment records — not just summary letters. Discharge summaries, consultation letters, and radiology report narratives are useful clinical context, but a reviewing specialist needs the primary source material to independently verify tumor morphology, imaging findings, and biomarker status. Ask your treating hospital for both categories: the summary documents you likely already have, and the primary source materials that usually require a separate request to the pathology and radiology departments. Exactly which items apply depends on your cancer type and what the reviewing specialist team requires.</p>"
+          },
+          {
+            "q": "Is a written pathology report enough, or do I need the actual slides?",
+            "a": "<p>A written pathology report on its own is not enough — a second opinion typically requires the original glass slides or digital whole-slide scans, or a paraffin-embedded tissue block, because a report reflects one pathologist's conclusion rather than the raw tissue itself. Independent review of the actual tissue is considered the most important part of a diagnostic second opinion, and it cannot be done from a narrative report alone. If original slides are largely used up, unstained sections cut from the remaining paraffin block are usually a workable alternative. Tissue sufficiency should be confirmed with the receiving specialist centre before slides are shipped.</p>"
+          },
+          {
+            "q": "Can I send printed CT or MRI images instead of the original scan files?",
+            "a": "<p>No — printed films or JPEG exports of CT, MRI, or PET scans are generally not sufficient; a second opinion review typically needs the full DICOM files, provided on CD/DVD or via a cloud upload link. DICOM format lets a radiologist adjust window levels, take precise measurements, and reassess staging in a way a printed or exported image cannot support. Most radiology departments can provide DICOM files directly, and many now offer cloud-based image sharing for international requests. Ask specifically for full DICOM files including all series from every scan taken since diagnosis, rather than a single representative image.</p>"
+          },
+          {
+            "q": "What molecular or genomic testing information should I gather for a second opinion?",
+            "a": "<p>You should gather complete molecular and genomic reports — full NGS variant data, IHC panel results with antibody names and H-scores, FISH probe and signal counts, MSI/MMR results, and PD-L1 scores — rather than only the summary paragraph in an oncology letter. Eligibility for targeted therapy, immunotherapy, or certain clinical trials depends on these complete, itemized results and specialist review, and a brief summary line is often not detailed enough on its own. If any of these tests were performed, request the full laboratory report from the pathology or molecular diagnostics department, since it may not be included in general discharge paperwork.</p>"
+          },
+          {
+            "q": "Do I need my surgical report if I already had surgery before seeking a second opinion?",
+            "a": "<p>Yes — the full operative report from any biopsy, resection, or cytoreductive procedure should be included, since it documents surgical findings, extent of resection, and intraoperative assessments relevant to staging and further treatment planning. Without this report, a reviewing specialist may be missing details about margins or residual disease that affect which options remain appropriate. If radiotherapy or chemotherapy was also given, the RT treatment plan and full chemotherapy administration records — drugs, doses, cycles, and toxicity episodes — should be requested alongside the operative report, as prior treatment exposure can affect eligibility for further therapy.</p>"
+          },
+          {
+            "q": "How do I actually go about requesting my medical records from my hospital?",
+            "a": "<p>Start by contacting your hospital's medical records or patient information services department and submitting a signed written records release form authorizing release to a third party. Most hospitals are accustomed to handling these requests, but pathology slides, imaging files, and clinical reports are often controlled by different departments, so one request to the general records office may not capture everything needed. It generally helps to be specific in writing about which documents you need — slides, DICOM files, molecular reports — rather than asking broadly for 'my records.' A standardised release-of-information letter, where available, can help streamline the process.</p>"
+          },
+          {
+            "q": "Why can't I get my pathology slides and imaging from the same office that handles my medical records?",
+            "a": "<p>Pathology slides and paraffin blocks are physical materials held by the pathology department, and imaging files are held by radiology or medical imaging — neither is typically released by the general medical records office. You usually need separate requests: one to pathology for original stained slides or unstained cut sections from a specific procedure date, and one to radiology for full DICOM files from a specific scan date. Naming the department and exact document type in each request generally results in a faster, more complete response than a single general records request handled through one office.</p>"
+          },
+          {
+            "q": "How long does it typically take to get medical records released for a second opinion?",
+            "a": "<p>Medical records requests typically take 5 to 15 business days to fulfil, though physical pathology slides may need a short additional delay for cataloguing and shipping preparation. Actual turnaround depends on the hospital's internal process, how specific the request is, and whether slides or blocks must be physically retrieved rather than simply copied or scanned. Because of this, it is worth planning for records retrieval time well before a second opinion appointment is scheduled, rather than requesting records at the last minute. Exact timing should be confirmed directly with the hospital's records and pathology departments, as it is not guaranteed.</p>"
+          },
+          {
+            "q": "What's the most common mistake patients make when requesting records for a second opinion?",
+            "a": "<p>The most common mistake is submitting whatever is easiest to obtain — a printed pathology report, low-resolution scan images, or a summary letter from the treating doctor — rather than the primary source materials a second opinion actually requires. These documents reflect the original team's interpretation rather than raw, independently reviewable data, so a specialist working from them cannot form a fully independent view. Being specific in the request — asking by name for original slides, full DICOM files, and complete molecular reports rather than 'my medical records' generally — helps hospital staff provide the right materials the first time.</p>"
+          },
+          {
+            "q": "How can CancerFax help me gather and organize my records for a second opinion?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For records specifically, this includes reviewing what has already been gathered, identifying gaps against what a reviewing specialist centre needs, coordinating secure transfer or courier arrangements for physical items such as slides, and arranging translation of non-English documents. Final decisions about what a specialist centre requires for review, and any resulting treatment plan, remain with the reviewing oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

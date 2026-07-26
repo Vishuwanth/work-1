@@ -1,0 +1,29 @@
+{
+  "pillar": "Tumor Therapeutic Vaccines",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-vaccines",
+  "route": "/treatments/cancer-vaccines",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          { "q": "My oncologist mentioned a personalized cancer vaccine trial in China for my father's pancreatic cancer. Is this real or experimental?", "a": "<p>It is real, active research, but still experimental rather than standard approved treatment. Personalized mRNA neoantigen vaccines for pancreatic cancer have shown encouraging early results — in one Phase I trial, 8 of 16 patients developed a specific immune response, and none of those responders saw recurrence within 18 months. A larger Phase 2 trial is now underway. Have your father's full pathology, imaging, and molecular testing reviewed first to assess realistic trial eligibility.</p>" },
+          { "q": "Is the mRNA cancer vaccine the same technology as the COVID vaccine, and is it safe to combine with chemotherapy?", "a": "<p>The underlying mRNA delivery technology is related, but the purpose differs — cancer vaccines train the immune system to recognize antigens specific to a patient's own tumor rather than a virus. Combining with chemotherapy is being actively studied with generally manageable safety, though timing matters since chemotherapy can temporarily weaken the immune response. This should be sequenced by the treating oncology team.</p>" },
+          { "q": "My mother has metastatic melanoma and her doctor mentioned combining a vaccine with a PD-1 inhibitor. What does the evidence show?", "a": "<p>For high-risk resected melanoma, this has some of the strongest published evidence in the field. Intismeran autogene combined with pembrolizumab reduced the risk of recurrence or death by 49% compared with pembrolizumab alone, based on five-year KEYNOTE-942 follow-up data. This applies specifically to resected, high-risk stage III or IV melanoma patients after surgery, not every melanoma patient.</p>" },
+          { "q": "What tests and documents do we need before a neoantigen vaccine consultation?", "a": "<p>You'll typically need the complete pathology report with histopathology and IHC results, any existing NGS or genomic testing, recent imaging (PET-CT, CT, or MRI), full treatment history, and current blood work reflecting organ function. If genomic testing or HLA typing hasn't been done, this will be flagged, since personalized programs cannot proceed without tumor sequencing.</p>" },
+          { "q": "Is BCG considered a cancer vaccine, and why does my urologist recommend it after bladder tumor removal?", "a": "<p>Yes, BCG is one of the oldest and most widely used therapeutic cancer vaccines, originally developed as a tuberculosis vaccine. Instilled into the bladder after non-muscle-invasive tumor removal, it meaningfully reduces recurrence or progression risk and has been standard therapy for decades — it is not investigational.</p>" },
+          { "q": "What is the realistic cost difference between a personalized cancer vaccine in China versus the US?", "a": "<p>Because most personalized neoantigen and mRNA vaccines remain in clinical trials rather than standard commercial products, there is no single published price in either country. Industry analyses point to real manufacturing cost advantages in China's personalized vaccine platforms. Insurance coverage for investigational vaccines is inconsistent and often limited, even in the US, since many insurers treat unapproved therapies as experimental.</p>" },
+          { "q": "What side effects do cancer vaccines cause?", "a": "<p>Cancer vaccines are generally well tolerated compared with chemotherapy, since side effects come from immune activation rather than direct cell toxicity. Common effects include fever, chills, fatigue, injection site pain, and flu-like symptoms. When combined with a checkpoint inhibitor, immune-related side effects such as thyroiditis, colitis, or pneumonitis can occur and require prompt medical evaluation.</p>" },
+          { "q": "How long does it take to manufacture a personalized cancer vaccine?", "a": "<p>Personalized neoantigen and mRNA vaccines commonly take several weeks from tumor sequencing to a manufactured, patient-specific product, since each vaccine is built around that individual's tumor mutations. This timeline means vaccine manufacturing is generally not suitable for rapidly progressing disease that cannot wait. Families considering travel for this option should build this manufacturing lead time into their planning.</p>" },
+          { "q": "Are cancer vaccines available as a standard treatment, or only through clinical trials?", "a": "<p>A small number of cancer vaccines, such as sipuleucel-T for selected prostate cancer and T-VEC for injectable melanoma lesions, hold full regulatory approval and are available as standard treatment for specific, narrowly defined patient groups. Most other therapeutic cancer vaccines, including personalized neoantigen and mRNA platforms, remain investigational and are accessed through clinical trials. Availability depends entirely on your specific cancer type and eligibility.</p>" },
+          { "q": "How does CancerFax help patients access cancer vaccine programs?", "a": "<p>CancerFax helps review medical records, pathology, and existing molecular testing, and identifies which named cancer vaccine programs or trials may realistically match a specific diagnosis. It also coordinates second opinions with oncologists experienced in vaccine protocols, plus travel, visa, and documentation support. CancerFax does not make treatment decisions — those remain with the treating oncology team after full case review.</p>" }
+        ]
+      }
+    ]
+  }
+}

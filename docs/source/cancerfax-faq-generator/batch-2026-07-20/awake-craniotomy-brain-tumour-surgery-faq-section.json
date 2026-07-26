@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "awake-craniotomy-brain-tumour-surgery",
+  "route": "/guides/awake-craniotomy-brain-tumour-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is awake craniotomy and why is it performed for brain tumours?",
+            "a": "<p>Awake craniotomy is a neurosurgical technique in which the patient is kept conscious, or brought back to consciousness, during the tumour-removal phase of brain surgery. It is used specifically when a tumour sits in or near eloquent brain regions — the areas responsible for speech production, language comprehension, motor control, or vision — because functional imaging can only suggest where these areas lie, while real-time patient responses during cortical stimulation confirm which tissue is truly functional in that individual. By keeping the patient awake and responsive during resection, the surgical team can map functional cortex directly and remove tumour tissue while continuously testing for changes in language and movement. This approach is used at specialist centres and its suitability for a specific tumour should always be confirmed by the treating neurosurgical team.</p>"
+          },
+          {
+            "q": "Who is a suitable candidate for awake craniotomy?",
+            "a": "<p>Awake craniotomy is generally considered for patients whose brain tumour lies in or close to eloquent cortex, where standard surgery under general anaesthesia carries a higher risk of permanent language or motor deficit. Good candidates are typically able to understand and cooperate with pre-operative rehearsal of naming, counting, and movement tasks, have no severe pre-existing language impairment, and can tolerate periods of reduced sedation without significant distress. Because tumour location, size, and proximity to functional pathways vary enormously between patients, suitability is never assumed from diagnosis alone — it depends on detailed imaging, including functional MRI and tractography, and neuropsychological baseline testing. Whether awake craniotomy is the right option, or whether an alternative surgical approach is more suitable, should always be assessed and confirmed by a qualified neurosurgical team during pre-operative evaluation.</p>"
+          },
+          {
+            "q": "What conditions make someone ineligible for awake craniotomy?",
+            "a": "<p>Awake craniotomy is not considered suitable for every brain tumour patient, even when the tumour sits near eloquent cortex. Recognised contraindications include significant pre-operative language deficit that would prevent reliable intraoperative testing, severe anxiety or an inability to cooperate with tasks during the awake phase, morbid obesity that complicates airway management once sedation is reduced, age under roughly 10 to 12 years, and certain psychiatric conditions that affect testing reliability. These factors do not automatically rule a patient out on their own — overall suitability depends on the combination of tumour location, neurological baseline, and how a patient responds during pre-operative rehearsal of the awake-phase tasks. A final decision on candidacy is made only after full evaluation by the neurosurgical and anaesthetic team, and an alternative approach such as general anaesthesia surgery may be recommended instead.</p>"
+          },
+          {
+            "q": "What actually happens during an awake craniotomy procedure?",
+            "a": "<p>An awake craniotomy proceeds in staged phases, most commonly using an asleep-awake-asleep anaesthetic technique. The patient is sedated for the scalp incision, craniotomy, and opening of the dura, with local anaesthetic applied to the scalp and dura since the brain tissue itself has no pain receptors. Sedation is then reduced so the patient can perform language and motor tasks — such as picture naming, sentence repetition, and finger tapping — while a neuropsychologist monitors responses continuously. The surgeon uses a bipolar stimulator to briefly suppress small areas of cortex, identifying tissue that is functionally critical before resection proceeds under continuous neurological monitoring. Once the maximum safe extent of tumour removal is reached, the patient is re-sedated for wound closure and transferred to a neuro-ICU for overnight monitoring. Exact protocols can vary by centre.</p>"
+          },
+          {
+            "q": "Is awake craniotomy painful for the patient?",
+            "a": "<p>No — the brain itself has no pain receptors, so the tumour-removal phase performed while the patient is conscious is not experienced as painful in the way skin or muscle incisions would be. The scalp and dura, which do contain pain-sensitive tissue, are numbed with local anaesthetic before sedation is reduced for the awake phase. Most patients describe the experience as tolerable rather than distressing, particularly after thorough pre-operative counselling and rehearsal of the naming, counting, and movement tasks they will be asked to perform during surgery. A neuropsychologist or speech therapist remains present throughout the awake phase to guide the patient and manage discomfort or anxiety as it arises. Individual tolerance still varies, and any concerns about the experience should be raised directly with the surgical and anaesthetic team beforehand.</p>"
+          },
+          {
+            "q": "What are the main risks and possible complications of awake craniotomy?",
+            "a": "<p>The main risks associated with awake craniotomy include intraoperative seizure, anxiety or panic that requires conversion to general anaesthesia, and — as with any brain tumour surgery — the possibility of new or worsening neurological deficit if resection extends too close to functional tissue. Reported rates of conversion to general anaesthesia during surgery run around 2 to 5%, usually triggered by seizure activity or patient distress during mapping, and are managed by the anaesthetic team as a safety measure rather than a failed procedure. At experienced, high-volume centres, permanent language or motor deficit has been reported in under 5% of cases, compared with a notably higher range at less specialised units, though outcomes depend heavily on tumour location and individual anatomy. Because risk varies by case, it should always be reviewed in detail with the treating neurosurgical team before consenting to surgery.</p>"
+          },
+          {
+            "q": "How does awake craniotomy compare to surgery under general anaesthesia?",
+            "a": "<p>Awake craniotomy allows real-time functional feedback that surgery under general anaesthesia cannot replicate, since only a conscious patient can confirm during cortical stimulation whether a specific area of brain tissue is genuinely required for speech, language, or movement. This typically permits a greater extent of tumour resection near eloquent cortex and has been associated with lower rates of permanent neurological deficit at experienced centres, compared with general anaesthesia surgery performed on tumours in similar locations. Without real-time patient feedback, surgeons operating under general anaesthesia must generally be more conservative near presumed functional areas, which can leave more residual tumour. General anaesthesia surgery remains the standard and appropriate choice for tumours away from eloquent regions, where awake mapping offers no additional benefit. The better option for an individual case depends on tumour location and should be decided with the treating surgical team.</p>"
+          },
+          {
+            "q": "How much does awake craniotomy cost, and does it vary by country?",
+            "a": "<p>The cost of awake craniotomy varies widely depending on the country, hospital, length of neuro-ICU stay, and the extent of pre-operative workup required, including functional MRI, tractography, and neuropsychological testing. Centres in India tend to offer awake craniotomy at a substantially lower cost than equivalent programmes in the United States or Western Europe, while maintaining high surgical volumes and established international patient services, though exact pricing depends on individual case complexity and the specific hospital chosen. Because published price ranges can quickly become outdated and do not account for a specific patient's tumour size, location, or need for additional procedures, cost should always be confirmed directly with the treating hospital after case review, rather than estimated from general figures. A realistic cost estimate can only be given once a specialist team has reviewed the imaging and treatment plan.</p>"
+          },
+          {
+            "q": "Which hospitals internationally perform awake craniotomy, and how can patients access one abroad?",
+            "a": "<p>Several centres worldwide have established awake craniotomy programmes, including Beijing Tiantan Hospital and Huashan Hospital in China, AIIMS New Delhi and Manipal Hospital in India, MD Anderson Cancer Center in the United States, and University Hospital Zurich in Switzerland. These centres combine high surgical volume, dedicated neuropsychology teams, and international patient infrastructure, though not every centre may be equally suited to every tumour location or patient profile. Accessing treatment abroad generally involves sending imaging and medical records for specialist review, obtaining a formal opinion on suitability, and arranging travel, visa, and logistical support around the treatment timeline. Whether a particular international centre is appropriate depends on tumour characteristics, prior treatment, and the specialist team's assessment of the case, and should be confirmed through direct consultation rather than assumed from a hospital's general reputation.</p>"
+          },
+          {
+            "q": "How can CancerFax help patients access awake craniotomy treatment?",
+            "a": "<p>Patients researching awake craniotomy abroad often need help comparing centres, understanding likely costs, and organising the logistics of cross-border treatment. CancerFax helps patients organize medical reports, identify relevant specialists or hospitals, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support for procedures such as awake craniotomy. This support is intended to make the process of exploring options more manageable for patients and families, not to replace clinical judgement. Treatment decisions — including whether awake craniotomy is appropriate for a given tumour and patient — are always made by the treating medical team after full review of imaging, pathology, and prior treatment history.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Gastric and Oesophageal Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "d2-gastrectomy-vs-d1-gastric-cancer",
+  "route": "/insights/d2-gastrectomy-vs-d1-gastric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between D1 and D2 gastrectomy?",
+            "a": "<p>The \"D\" designation refers to how many lymph node stations are removed with the stomach, not to how much of the stomach itself is taken out. D1 removes only the perigastric nodes immediately next to the stomach (stations 1–6). D2 removes those same nodes plus second-tier nodes along the left gastric, common hepatic, celiac, and splenic vessels (stations 7–11). D2 is the global standard for potentially curative gastric cancer surgery. Which extent of dissection is appropriate for a given tumour depends on stage, location, and the operating team's experience, and should be confirmed with a surgical oncology specialist before surgery.</p>"
+          },
+          {
+            "q": "Why does the extent of lymph node dissection matter so much in gastric cancer?",
+            "a": "<p>Lymph node dissection affects both staging accuracy and long-term outcomes. International staging guidelines require a minimum of 15 lymph nodes to accurately assign N stage, and D1 dissections frequently fall short of that threshold, which can lead to understaging and inappropriate scaling-back of adjuvant chemotherapy. Long-term data from the Dutch Gastric Cancer Trial showed D2 nearly halved local recurrence compared with D1 at 15-year follow-up. The clinical significance of a given lymph node count still depends on tumour biology, stage, and individual pathology review, so results should always be interpreted by the treating surgical and oncology team.</p>"
+          },
+          {
+            "q": "Who is generally considered a candidate for D2 lymphadenectomy?",
+            "a": "<p>D2 lymphadenectomy is considered the standard approach for most patients undergoing potentially curative gastric cancer resection, particularly at high-volume centres with surgeons experienced in the technique. Suitability may be considered differently depending on tumour stage, location (proximal versus distal), overall fitness for surgery, and whether neoadjuvant chemotherapy has been given. Some centres with limited D2 training use a modified D1+ approach as a compromise. Because eligibility depends on cancer stage, location, and surgeon experience, the appropriate extent of dissection for any individual patient should be discussed directly with a qualified surgical oncology team.</p>"
+          },
+          {
+            "q": "Is D1 lymphadenectomy ever the right choice instead of D2?",
+            "a": "<p>D1 is described as the minimum acceptable nodal dissection, and it may still be appropriate in select situations, such as very early-stage tumours or when a patient's overall health limits the extent of surgery that can be safely performed. However, D1 provides more limited staging information and leaves potentially involved second-tier nodes in place, which is why it is not generally preferred over D2 where trained surgical teams are available. Whether D1 is a reasonable option in a specific case depends on stage, location, and surgeon assessment, and should be discussed with a qualified surgical oncology team rather than decided from general information alone.</p>"
+          },
+          {
+            "q": "What are the risks and complications associated with D2 gastrectomy?",
+            "a": "<p>Early Western trials of D2 gastrectomy showed higher morbidity and mortality than D1, but much of that excess was later linked to routine splenectomy and distal pancreatectomy performed alongside the node dissection, not the D2 dissection itself. Modified D2, which omits unnecessary spleen and pancreatic tail removal, has shown complication rates closer to D1 at experienced centres, with less than 1% 30-day mortality reported in high-volume Asian series. As with any major abdominal cancer surgery, individual risk depends on overall health, tumour extent, and surgeon experience, and should be reviewed in detail with the operating surgical team beforehand.</p>"
+          },
+          {
+            "q": "Does the choice between total and subtotal gastrectomy affect the lymph node dissection decision?",
+            "a": "<p>Total versus subtotal gastrectomy and D1 versus D2 dissection are related but separate surgical decisions. Subtotal gastrectomy removes roughly 75–80% of the stomach and is generally preferred for distal tumours where an adequate margin can be achieved, as it tends to preserve better nutrition and quality of life. Total gastrectomy removes the entire stomach and is typically required for proximal or diffuse-type tumours. Either extent of resection can be combined with a D2 lymph node dissection. The right combination for a given patient depends on tumour location and stage and should be planned jointly by the surgical oncology team.</p>"
+          },
+          {
+            "q": "What does recovery look like after D2 gastrectomy compared with D1?",
+            "a": "<p>At experienced centres, recovery after modified D2 gastrectomy is broadly similar to D1, since the added second-tier node dissection does not typically require additional organ removal when splenectomy and pancreatectomy are avoided. Reported morbidity at high-volume Asian centres is in the 10–15% range, comparable to D1 series elsewhere. Recovery time and specific after-effects still depend heavily on whether a total or subtotal gastrectomy was performed, since total gastrectomy generally requires lifelong nutritional adjustments such as vitamin B12 and iron supplementation. Recovery expectations should always be discussed individually with the treating surgical team before the procedure.</p>"
+          },
+          {
+            "q": "How can I tell whether my surgeon is planning to perform a true D2 dissection?",
+            "a": "<p>A useful starting point is to ask the surgeon directly how many lymph nodes they typically remove during gastric cancer resections. A properly performed D2 dissection generally yields significantly more nodes than the minimum staging threshold, while counts below that threshold suggest a D1 procedure was performed instead. At academic gastric cancer centres in Japan, Korea, China, and India, D2 is described as the routine standard for curative surgery. Because surgical planning depends on individual scans, staging, and surgeon judgment, confirming the intended extent of dissection is best done through direct conversation with the operating team or a second surgical opinion.</p>"
+          },
+          {
+            "q": "Why do D2 outcomes appear better at some centres than others?",
+            "a": "<p>Outcome differences between centres are attributed largely to surgeon and institutional volume rather than the D2 technique itself. High-volume surgeons in Japan and Korea performing large numbers of gastrectomies annually report low D2 complication rates alongside reported 5-year survival in the 55–70% range for Stage II/III disease treated with D2 plus adjuvant chemotherapy. Many general surgical services outside these high-volume centres default to D1 or a limited D1+ approach. Actual outcomes for any individual patient depend on tumour stage, overall health, and the specific team involved, and should not be assumed from published series alone.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients access experienced D2 gastrectomy surgical teams internationally?",
+            "a": "<p>Patients in regions where D2 gastrectomy expertise or high surgical volume is limited may consider evaluating options at specialist centres abroad. CancerFax helps patients organize medical reports, identify relevant specialists or hospitals experienced in D2 gastrectomy, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support, including access to centres in China and India. This support is intended to help patients navigate complex surgical decisions, not to replace clinical judgment. Treatment decisions, including the extent of lymph node dissection and choice of surgical team, are always made by the treating medical team based on individual staging and health status.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

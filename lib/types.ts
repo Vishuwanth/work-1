@@ -8,6 +8,8 @@ export type GenStatus = "queued" | "running" | "done" | "failed" | "skipped";
 /** One content row read from the "All 300 Pages" workbook sheet. */
 export interface Row {
   rowNum: number;
+  /** The sheet's "Pillar #" — empty for the trailing rows that carry no pillar. */
+  pillarNum: string;
   pillarName: string;
   title: string;
   excelStatus: string;

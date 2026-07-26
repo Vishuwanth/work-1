@@ -1,0 +1,59 @@
+{
+  "pillar": "Liver Cancer Treatment: Surgery, TACE, and Advanced Therapies",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "liver-resection-for-colorectal-metastases",
+  "route": "/insights/liver-resection-for-colorectal-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Am I a candidate for liver resection for colorectal metastases?",
+            "a": "<p>Candidacy for liver resection depends on whether all visible tumor can be removed while leaving enough healthy liver behind, not simply on how many metastases are present. Surgeons evaluate the future liver remnant volume, any extrahepatic disease, and involvement of major vessels such as the hepatic veins or portal vein before recommending surgery. Patients with the best outcomes often share low-risk features - a single metastasis, CEA under 200, a disease-free interval over 12 months, and a node-negative primary tumor - though these are not strict requirements for resection. Because assessments of \"inoperable\" liver metastases can vary between general oncology teams and specialist hepatobiliary surgeons, candidacy may be considered and should be confirmed by a qualified hepatobiliary/oncology team review of your imaging.</p>"
+          },
+          {
+            "q": "How many liver metastases can be removed in one surgery?",
+            "a": "<p>There is no fixed maximum number of metastases that can be removed - resectability is determined by whether the future liver remnant will retain at least 20-25% of total liver volume with normal function, not by lesion count. Patients with multiple bilateral lesions may need a staged resection, portal vein embolization, or a combined resection-plus-ablation approach to clear all visible disease while preserving enough liver tissue to avoid post-operative liver failure. Even a small number of tumors can be technically inoperable if they involve major vessels or leave too little remnant liver. Whether a specific pattern of metastases is resectable may be considered only after review of imaging by a hepatobiliary surgical team, since this depends on tumor location, liver reserve, number of lesions, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "What happens if my liver metastases are on both sides of the liver (bilateral)?",
+            "a": "<p>Bilateral liver metastases can often still be resected, but they typically require a staged surgical approach rather than a single operation. Surgeons commonly clear the dominant side first, allow the remaining liver to regenerate over several weeks, then remove or ablate lesions on the other side in a second procedure; portal vein embolization is sometimes used between stages to help the future remnant grow before the second resection. A combined approach - resecting the larger tumors while ablating smaller ones on the opposite side - is another option used to preserve liver volume. Whether a bilateral case is resectable, and which staged strategy fits best, depends on tumor location, liver reserve, number of lesions, prior treatment, and specialist review by a hepatobiliary surgical team.</p>"
+          },
+          {
+            "q": "Can chemotherapy shrink inoperable liver metastases enough for surgery?",
+            "a": "<p>Yes, conversion chemotherapy can shrink initially unresectable colorectal liver metastases enough to make surgery possible for a meaningful share of patients. Aggressive combination regimens such as FOLFOX or FOLFIRI, sometimes combined with bevacizumab or cetuximab in RAS wild-type tumors, produce a tumor response in roughly 50-70% of patients and convert an estimated 10-30% of initially unresectable cases to resectable status, typically assessed with restaging CT or MRI after four to six cycles. Conversion does not succeed in every patient, and chemotherapy alone, without eventual surgery, is not considered curative for colorectal liver metastases. Whether conversion is realistic for a specific case depends on tumor location, liver reserve, number of lesions, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "What is portal vein embolization and will I need it before liver surgery?",
+            "a": "<p>Portal vein embolization (PVE) is a procedure that blocks blood flow to the liver segments containing tumor, causing the future liver remnant to grow larger and safer ahead of major resection. It is generally used when the planned remnant is only 20-25% of total liver volume, and it typically increases that remnant by 10-15% of total liver volume over four to six weeks. A related technique called ALPPS achieves similar liver growth much faster, in about 8-10 days, but carries higher surgical morbidity. Not every patient needs PVE - it is reserved for cases where remnant volume is borderline, and whether it applies to you depends on tumor location, liver reserve, number of lesions, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "Is liver resection better than ablation (RFA or microwave) for colorectal liver metastases?",
+            "a": "<p>For most colorectal liver metastases, surgical resection provides better long-term local tumor control than thermal ablation (RFA or microwave ablation), particularly for tumors larger than 3cm or those located next to major hepatic vessels. Ablation's local recurrence rate rises sharply above the 3cm threshold, and a \"heat-sink\" effect from nearby blood vessels can further reduce its effectiveness, while resection is unaffected by vessel proximity. Ablation remains a reasonable option for a solitary lesion under 3cm or for patients unfit for major hepatic surgery, and the two approaches are sometimes combined, resecting the dominant tumor while ablating smaller contralateral lesions. The better option for a specific case depends on tumor location, liver reserve, number of lesions, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "What are the risks or complications of liver resection surgery?",
+            "a": "<p>Liver resection carries real surgical risks, including bleeding, bile leak, infection, and post-hepatectomy liver failure if too little functioning liver tissue remains after surgery. At high-volume hepatobiliary centres, 90-day mortality is under 2%, reflecting a well-established link between surgical case volume and outcomes specifically for liver surgery. Risk generally increases with the extent of resection, a reduced future liver remnant, underlying liver disease, or extensive prior chemotherapy exposure. Liver resection is not risk-free, and an individual's specific risk profile should be assessed and discussed in detail with a qualified hepatobiliary/oncology team before deciding on surgery.</p>"
+          },
+          {
+            "q": "Should I get a second opinion if I've been told my liver metastases are inoperable?",
+            "a": "<p>Yes, a second opinion from a specialist hepatobiliary surgical oncologist is worth pursuing before accepting an \"inoperable\" assessment as final. Resectability criteria have evolved considerably over the past decade: the key question is no longer how many metastases are present but whether all disease can be cleared while leaving adequate functioning liver behind, and a meaningful share of cases labelled inoperable by non-specialist teams are later found resectable by dedicated liver surgery centres. A second opinion is especially worth considering when the original assessment did not involve a high-volume hepatobiliary surgical team. Whether your case is truly inoperable still depends on tumor location, liver reserve, number of lesions, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "How long is recovery after liver resection for colorectal metastases?",
+            "a": "<p>Recovery time after liver resection depends mainly on how much liver tissue is removed: minor resections typically involve a 4-7 day hospital stay with a return to normal activity in 3-4 weeks, while major resections such as a hemihepatectomy involve a 7-10 day hospital stay and 6-8 weeks to full recovery. Laparoscopic liver resection, available at select specialist centres, can shorten hospital stay by 2-3 days and overall recovery by 1-2 weeks compared with open surgery. Adjuvant chemotherapy, such as FOLFOX or CAPOX, usually begins 6-8 weeks after surgery once healing is adequate. Exact recovery timelines vary by individual case and should be confirmed with the treating surgical team.</p>"
+          },
+          {
+            "q": "How much does liver resection for colorectal metastases cost, and how can I access it abroad?",
+            "a": "<p>Cost varies widely by country, hospital, and the extent of surgery, and no single figure applies across centres. Major cost drivers include whether the resection is minor or major, whether portal vein embolization or a staged approach is needed, length of hospital and ICU stay, and whether laparoscopic surgery is available. Patients considering treatment abroad should request an itemized estimate directly from the specific hospital being evaluated, since published country-level averages rarely reflect an individual case. CancerFax helps patients organize medical reports, identify relevant specialists or trials, obtain hospital-specific cost estimates, and coordinate travel, visa, and follow-up support alongside the treating oncology team, though all treatment decisions remain with the patient's medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

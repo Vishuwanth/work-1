@@ -1,0 +1,29 @@
+{
+  "pillar": "Robotic and Minimally Invasive Cancer Surgery",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "enhanced-recovery-after-surgery",
+  "route": "/insights/enhanced-recovery-after-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          { "q": "Is it really safe to eat on the day of surgery under ERAS?", "a": "<p>For most patients undergoing elective cancer surgery, yes — a carbohydrate drink 2 hours before surgery is considered safe under standard anaesthetic aspiration risk criteria, and clear fluid or light diet on day 1 after surgery has not been shown to increase anastomotic leak rates in multiple randomized trials for colorectal, gastric, and hepatic surgery. The older practice of waiting for bowel sounds to return was based on theory rather than trial evidence. Your specific surgical team will confirm what applies to your procedure.</p>" },
+          { "q": "What should I ask to confirm my hospital uses ERAS protocols?", "a": "<p>Ask whether the centre uses a formal enhanced recovery protocol for your specific procedure, what their average hospital stay is for that operation, whether they use multimodal opioid-sparing analgesia, and whether early eating and mobilisation are standard. High-quality ERAS programmes will answer these questions with specific timelines rather than vague reassurance. This is a reasonable question to ask before choosing where to have surgery.</p>" },
+          { "q": "Does ERAS mean I leave the hospital before I'm actually ready?", "a": "<p>No, ERAS discharge is based on meeting specific clinical criteria — adequate oral intake, pain controlled on oral medication, no complications, and confidence managing wound care at home — not a fixed day number. The goal is removing unnecessary barriers to safe earlier discharge, not rushing patients out. Studies show ERAS patients discharged earlier generally have equivalent or lower readmission rates than those on traditional longer-stay care.</p>" },
+          { "q": "Why does ERAS avoid routine bowel preparation before surgery?", "a": "<p>Bowel preparation before surgery was traditionally used to reduce infection risk, but multiple randomized trials in colorectal surgery found it adds dehydration and discomfort without reducing anastomotic leak or infection rates for most procedures. As a result, many ERAS protocols now skip routine bowel prep for these operations. Whether this applies to your specific surgery depends on the procedure type, decided by your surgical team.</p>" },
+          { "q": "Why is early mobilisation after surgery emphasized so strongly under ERAS?", "a": "<p>Getting out of bed and walking on the day of surgery or the morning after has been shown to meaningfully reduce pneumonia, blood clots, and muscle deconditioning compared with prolonged bed rest. It's often the ERAS element patients resist most due to fatigue or pain, so asking for pain medication before mobilising can help. Your care team will guide how much and how soon you should move based on your specific procedure.</p>" },
+          { "q": "How does ERAS reduce the risk of blood clots (DVT) after cancer surgery?", "a": "<p>Cancer surgery patients have among the highest blood clot risk of any surgical population, so ERAS protocols typically combine blood-thinning medication with mechanical measures like compression devices, alongside early mobilisation, to reduce this risk. The exact prevention plan depends on your specific surgery and individual risk factors. This should be discussed with your surgical team before the procedure.</p>" },
+          { "q": "Can ERAS help me start chemotherapy sooner after surgery?", "a": "<p>Yes, faster functional recovery under ERAS protocols is associated with earlier eligibility to start adjuvant chemotherapy in some studies, which may be clinically meaningful since delayed chemotherapy start has been linked to worse outcomes in certain cancers. This benefit depends on your specific cancer type, surgery, and recovery, and should be discussed with your oncology team. ERAS itself does not guarantee a specific chemotherapy timeline for every patient.</p>" },
+          { "q": "Is ERAS suitable for elderly or frail cancer surgery patients?", "a": "<p>ERAS protocols can often be adapted for older or frailer patients, though the pace of mobilisation and dietary progression may be adjusted based on individual fitness and comorbidities. Eligibility and pacing should be assessed by the surgical and anaesthesia team as part of pre-operative planning. Not every element of a standard ERAS pathway may apply equally to every patient.</p>" },
+          { "q": "What can I do before surgery to make ERAS recovery work better?", "a": "<p>Understanding the ERAS plan in advance, following any pre-operative nutrition or activity guidance, and mentally preparing to engage actively in early eating and walking after surgery all support better outcomes, since patient participation is one of the strongest predictors of ERAS success. Ask your surgical team what specifically will be expected of you on the day of and day after surgery. Some centres offer prehabilitation programmes to help patients arrive for surgery in better physical condition.</p>" },
+          { "q": "How does CancerFax help patients find hospitals with strong ERAS programs?", "a": "<p>CancerFax helps patients identify hospitals in its network, including in India and China, that operate formal enhanced recovery programmes for specific cancer surgeries, and coordinates second opinions, travel, and logistics. Treatment and surgical planning decisions are always made by the treating surgical team based on the patient's full case, not by CancerFax.</p>" }
+        ]
+      }
+    ]
+  }
+}

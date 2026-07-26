@@ -1,0 +1,59 @@
+{
+  "pillar": "Robotic and Minimally Invasive Cancer Surgery",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "total-mesorectal-excision",
+  "route": "/insights/total-mesorectal-excision",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is a total mesorectal excision (TME), and why is it recommended for rectal cancer?",
+            "a": "<p>Total mesorectal excision (TME) is a surgical technique that removes the rectum together with its surrounding mesorectal envelope — the fatty tissue containing blood vessels, lymphatics, and lymph nodes — as one intact unit, because this envelope is where rectal cancer most commonly spreads locally. The dissection follows sharp, embryological tissue planes rather than blunt separation, which keeps tumor-bearing tissue contained and reduces the chance of leaving cancer cells behind. Surgeons who breach this envelope during dissection expose tumor deposits to the surgical field, which significantly raises the risk of local recurrence. TME is now the standard approach for most rectal cancer operations at specialist colorectal centers, and the specific technique used should be discussed with your treating surgical oncology team.</p>"
+          },
+          {
+            "q": "Will I need a permanent colostomy after TME surgery?",
+            "a": "<p>Not necessarily — whether you need a permanent colostomy depends on how close the tumor is to the anal sphincter, and many patients instead receive a temporary loop ileostomy that is reversed later. Low anterior resection (LAR) preserves the sphincter and reconnects the colon to the anal canal, usually protected by a temporary ileostomy closed at 6 to 12 weeks once healing is confirmed. Abdominoperineal resection (APR) is used when the tumor involves or sits immediately next to the sphincter complex, and this does require a permanent end colostomy. Which operation applies to you depends on tumor location, imaging findings, and prior treatment, and should be confirmed with your treating colorectal surgical team before surgery.</p>"
+          },
+          {
+            "q": "What is the difference between low anterior resection (LAR) and abdominoperineal resection (APR)?",
+            "a": "<p>LAR removes the rectum while preserving the anal sphincter and reconnecting the colon to the anal canal, whereas APR removes the rectum, anus, and sphincter muscles together, resulting in a permanent colostomy. LAR is generally feasible when the distal resection margin can be kept 1 to 2 centimeters from the tumor and the sphincter is not involved; APR is used for low rectal tumors that involve or sit immediately adjacent to the sphincter complex. APR is not a lesser or fallback operation — when appropriate, it achieves oncological outcomes equivalent to LAR. The choice between the two should be based on tumor anatomy and imaging, as determined by your treating surgical oncology team.</p>"
+          },
+          {
+            "q": "How can I tell if my rectal cancer surgery achieved a good quality TME?",
+            "a": "<p>TME quality is assessed by a pathologist using a three-plane grading system — mesorectal (optimal), intramesorectal (moderate), or muscularis propria (poor) — along with the circumferential resection margin (CRM) measured in millimeters. An optimal, intact mesorectal plane is linked to a 3 to 5% five-year local recurrence rate, compared with 15 to 20% when the plane is poor and the muscularis propria is exposed. A CRM of 1 millimeter or more is considered clear, while less than 1 millimeter is associated with a higher chance of local recurrence. Ask your surgeon whether your pathology report includes TME plane grading and CRM measurement, and review any concerns with your treating oncology team.</p>"
+          },
+          {
+            "q": "What are the main risks and complications of TME surgery?",
+            "a": "<p>The main risks of TME surgery include anastomotic leak at the reconnection site, the need for a temporary or permanent stoma, and local cancer recurrence, with recurrence risk closely tied to the quality of the surgical plane achieved. Poor-plane TME is associated with a 15 to 20% five-year local recurrence rate versus 3 to 5% for optimal-plane surgery, which is why surgeon experience and case volume matter. Other risks include bowel, bladder, or sexual function changes related to pelvic nerve proximity, and complications from any neoadjuvant radiation or chemotherapy received beforehand. The specific risks in your case depend on tumor stage, location, and overall health, and should be discussed in detail with your treating surgical and oncology team.</p>"
+          },
+          {
+            "q": "Will I need radiation or chemotherapy before my TME surgery?",
+            "a": "<p>Most patients with locally advanced rectal cancer — tumors staged cT3-T4 or with node involvement — receive neoadjuvant radiation or chemoradiation before TME to shrink the tumor, improve the surgical margin, and lower the chance of local recurrence. Options include short-course radiotherapy (five daily treatments over one week) followed by surgery after a short or delayed interval, or long-course chemoradiation combining 50.4 Gy of radiation with capecitabine over five to six weeks, which achieves a pathological complete response in 15 to 20% of patients. Whether neoadjuvant therapy applies to you depends on your tumor's stage, location, and biomarker findings, and the specific protocol should be determined by your treating oncology team.</p>"
+          },
+          {
+            "q": "Is watch and wait an alternative to TME surgery for rectal cancer?",
+            "a": "<p>Watch and wait is a non-operative, organ-preserving approach that may be offered to rectal cancer patients who achieve a clinical complete response — no detectable tumor on MRI, endoscopy, or examination — after neoadjuvant chemoradiation, allowing them to avoid TME surgery entirely in favor of close surveillance. Around 15 to 20% of patients reach this response after long-course chemoradiation, and registry data from Brazil and the UK show 80 to 85% of those patients remain recurrence-free at 3 years without regrowth. This approach is currently offered mainly at specialist centers with dedicated rectal cancer programs, and eligibility depends on imaging response, biomarker profile, and ongoing specialist review — this should be discussed directly with your treating oncologist.</p>"
+          },
+          {
+            "q": "Can TME surgery be performed laparoscopically or robotically instead of open surgery?",
+            "a": "<p>Yes, laparoscopic and robotic TME are established, well-studied techniques offered at subspecialty colorectal surgery centers, with outcomes considered equivalent to open surgery in experienced hands. The COREAN and COLOR II trials found comparable CRM positivity, local recurrence, and survival rates between laparoscopic and open TME, while the ROLARR trial showed robotic TME achieves non-inferior oncological outcomes with a trend toward fewer conversions to open surgery, particularly in the narrow male pelvis. Which approach is best for you depends less on the platform itself and more on your surgeon's experience and the center's case volume, and should be discussed with your treating surgical oncology team.</p>"
+          },
+          {
+            "q": "How much does TME surgery cost, and does the cost vary by country?",
+            "a": "<p>TME surgery cost varies significantly by country, hospital, surgical approach (open, laparoscopic, or robotic), and length of hospital stay, so there is no single fixed price. Costs for laparoscopic or robotic rectal cancer surgery at high-volume centers in India, for example, tend to run substantially lower than equivalent surgery in the United States, though exact figures depend on the specific hospital, surgeon, and any neoadjuvant treatment or post-operative care required. Because pricing depends on so many individual factors, an accurate estimate can only be prepared after your case and imaging have been reviewed, and final cost planning should be discussed with the treating hospital and oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients access TME surgery for rectal cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For rectal cancer patients considering TME, this can include reviewing MRI staging, helping arrange a second opinion with a subspecialty colorectal surgical oncologist at a high-volume center, and coordinating logistics for those exploring options such as centers in India or China. CancerFax does not replace the treating oncologist or surgeon and does not make treatment decisions — all surgical and treatment choices remain with your treating medical team, based on your specific diagnosis, staging, and imaging.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

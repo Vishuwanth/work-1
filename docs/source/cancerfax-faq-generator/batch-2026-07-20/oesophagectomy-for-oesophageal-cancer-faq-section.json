@@ -1,0 +1,59 @@
+{
+  "pillar": "Robotic and Minimally Invasive Cancer Surgery",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "oesophagectomy-for-oesophageal-cancer",
+  "route": "/insights/oesophagectomy-for-oesophageal-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Am I a candidate for oesophagectomy for oesophageal cancer?",
+            "a": "<p>Most patients considered for oesophagectomy have resectable oesophageal or gastro-oesophageal junction cancer that has been downstaged with neoadjuvant chemotherapy (FLOT) or chemoradiation (the CROSS protocol), and have adequate cardiopulmonary reserve to tolerate a major thoracoabdominal operation and its recovery. Fitness for surgery is assessed with cardiopulmonary exercise testing, lung function tests, and nutritional status, since pulmonary complications remain the leading driver of early complications after this procedure. Candidacy ultimately depends on cancer type, stage, biomarker profile, response to neoadjuvant treatment, and specialist multidisciplinary review, and final treatment decisions should always be made by the treating oncology and surgical team.</p>"
+          },
+          {
+            "q": "What are the different surgical approaches used for oesophagectomy?",
+            "a": "<p>Oesophagectomy is performed through several approaches — Ivor Lewis, McKeown, transhiatal, and minimally invasive (MIO) — chosen based on tumour location, planned anastomosis site, and surgeon training. The Ivor Lewis two-stage approach (abdominal phase plus right thoracotomy with an intrathoracic anastomosis) is the most common approach globally for mid- and lower-third tumours. The McKeown three-stage approach adds a neck incision for upper-third tumours, creating a cervical anastomosis, while transhiatal surgery avoids a thoracotomy entirely and suits patients with poor lung reserve. Minimally invasive oesophagectomy uses thoracoscopic and laparoscopic techniques and has been shown in the TIME trial to reduce pulmonary complications compared with open surgery. The right approach for a specific tumour should be discussed with a qualified surgical oncology team.</p>"
+          },
+          {
+            "q": "Do I need chemotherapy before oesophagectomy surgery?",
+            "a": "<p>Most patients with resectable oesophageal or gastro-oesophageal junction cancer receive chemotherapy or chemoradiation before surgery, since neoadjuvant treatment is now standard rather than surgery-first. FLOT chemotherapy (fluorouracil, leucovorin, oxaliplatin, docetaxel) given before and after surgery is standard for adenocarcinoma and achieves a pathological complete response in around 16% of patients, with R0 resection in 84%. The CROSS protocol — carboplatin and paclitaxel with concurrent radiotherapy — is used for both squamous cell carcinoma and adenocarcinoma at many centres and achieves pathological complete response rates of 29% and 23% respectively. Which protocol is used depends on tumour histology, stage, and specialist review by the treating oncology team.</p>"
+          },
+          {
+            "q": "How long is recovery after oesophagectomy?",
+            "a": "<p>Initial hospital recovery after oesophagectomy takes 10–14 days for open surgery and 8–12 days for minimally invasive surgery, but full nutritional recovery typically takes 6–12 weeks longer. The first 1–3 days are spent in ICU focused on pulmonary care, chest physiotherapy, and pain control, followed by a contrast swallow study around day 5–7 to confirm the anastomosis has healed before oral intake resumes. Discharge requires adequate oral nutrition, drain removal, and independence with chest physiotherapy. Because patients typically lose 5–10% of their body weight during neoadjuvant treatment and surgery, structured dietitian-guided nutritional rehabilitation continues for weeks after discharge, with weight often stabilising around 6 months.</p>"
+          },
+          {
+            "q": "What are the risks of oesophagectomy?",
+            "a": "<p>The two most significant risks after oesophagectomy are anastomotic leak, occurring in about 5–15% of patients, and pulmonary complications such as pneumonia, affecting 20–30%. An anastomotic leak — a breakdown at the join between the oesophagus and gastric conduit — typically presents with fever, rapid heart rate, and chest or swallowing pain, and is usually managed with endoscopic stenting rather than repeat surgery. Pulmonary complications are the main driver of ICU stay and early mortality, but minimally invasive oesophagectomy has been shown to cut pneumonia rates roughly three-fold compared with open surgery (9% vs 29% in the TIME trial). These risks depend on surgical approach, centre volume, and individual patient factors, and should be discussed in detail with the treating surgical team.</p>"
+          },
+          {
+            "q": "Will I be able to eat normally after oesophagectomy?",
+            "a": "<p>Eating patterns change permanently after oesophagectomy, but most patients reach a satisfying, nutritious routine within several months. Because the gastric conduit that replaces part of the oesophagus is smaller than the original stomach, early fullness is universal, and patients are advised to eat 5–8 small meals a day, avoid lying flat within 90 minutes of eating, and sleep with the head elevated. Dumping syndrome — sweating, palpitations, or diarrhoea after sugary meals — affects around 20–30% of patients and is managed through dietary changes rather than medication. Most patients stabilise their weight and eating pattern by 6–12 months after surgery, though individual recovery should be monitored by a dietitian and the treating clinical team.</p>"
+          },
+          {
+            "q": "How much does oesophagectomy cost?",
+            "a": "<p>Oesophagectomy costs vary widely by country and hospital, with reported ranges of roughly $6,000–$12,000 for the full surgery, ICU stay, and hospital admission at high-volume centres in India compared with approximately $30,000–$70,000 in the United States. Actual cost depends on the surgical approach used, length of ICU and hospital stay, whether complications such as anastomotic leak require additional intervention, and the pre- and post-operative chemotherapy or radiotherapy protocol used. These figures are estimates only, not a quote, and should always be confirmed directly with the treating hospital and discussed with a qualified oncology team before deciding on a treatment location.</p>"
+          },
+          {
+            "q": "Does the hospital I choose matter for oesophagectomy outcomes?",
+            "a": "<p>Yes — hospital and surgeon volume make a substantial difference to oesophagectomy outcomes, with 30-day mortality below 3% at high-volume specialist centres compared with 8–15% at low-volume centres. This is one of the strongest volume–outcome relationships in all of surgery, reflecting not just surgical technique but the surrounding infrastructure — experienced anaesthetists and ICU teams familiar with post-oesophagectomy physiology, dedicated nutrition and stoma nurses, and endoscopy teams able to manage anastomotic leaks quickly. Choosing an experienced, high-volume centre is one of the most consequential decisions a patient can make, though the right centre for a specific case depends on tumour stage, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "Is more treatment needed after oesophagectomy surgery?",
+            "a": "<p>Many patients need further treatment after oesophagectomy, depending on which neoadjuvant protocol they received and what the final pathology shows. Patients who had FLOT chemotherapy before surgery typically complete four further cycles of adjuvant FLOT afterward, while patients treated with the CROSS chemoradiation protocol who have residual node-positive disease (ypN+) on final pathology are commonly offered adjuvant nivolumab immunotherapy. Follow-up generally includes CT restaging at 3, 6, and 12 months to monitor for recurrence. Whether additional therapy is appropriate depends on tumour response, final pathology, and specialist multidisciplinary review, and should be decided together with the treating oncology team.</p>"
+          },
+          {
+            "q": "How can CancerFax help me plan oesophagectomy treatment abroad?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For a procedure like oesophagectomy, where surgeon and hospital volume strongly influence outcomes, this includes helping patients compare experienced centres and prepare their case for surgical review. CancerFax does not replace the treating oncologist or surgeon and does not make treatment decisions — all eligibility, surgical approach, and treatment planning decisions remain with the qualified medical team reviewing the case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

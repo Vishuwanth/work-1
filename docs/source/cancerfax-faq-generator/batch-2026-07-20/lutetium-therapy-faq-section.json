@@ -1,0 +1,59 @@
+{
+  "pillar": "Radioligand Therapy and Theranostics in Cancer",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "lutetium-therapy",
+  "route": "/treatments/lutetium-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Lutetium-177 (Lu-177) radioligand therapy?",
+            "a": "<p>Lutetium-177 radioligand therapy is a theranostic cancer treatment that attaches a radioactive isotope to a small targeting molecule, delivering short-range radiation directly to cancer cells that carry a specific matching protein. It is confirmed in advance with a PET-CT scan using a related diagnostic tracer, and is used clinically today through two approved targets: PSMA for metastatic prostate cancer and somatostatin receptors for neuroendocrine tumors. Suitability depends on confirmed target expression on molecular imaging and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is the difference between PSMA-targeted and DOTATATE-targeted Lu-177 therapy?",
+            "a": "<p>PSMA-targeted Lu-177 therapy (Pluvicto) treats metastatic castration-resistant prostate cancer confirmed by PSMA PET-CT, typically given every six weeks for up to six cycles, while DOTATATE-targeted Lu-177 therapy (Lutathera) treats somatostatin receptor-positive neuroendocrine tumors confirmed by DOTATATE PET-CT, typically given every eight weeks for four cycles. These two therapies are not interchangeable and target different cancers through different receptors. Which one, if either, applies depends on tumor type and confirmed receptor expression on molecular imaging, and should be reviewed by a specialist team.</p>"
+          },
+          {
+            "q": "Who is eligible for PSMA or DOTATATE Lu-177 therapy?",
+            "a": "<p>Eligibility for Lu-177 therapy depends on confirmed expression of the matching target on molecular imaging, adequate kidney, liver, and bone marrow function, and a treatment history reviewed by the care team. PSMA therapy may be considered for metastatic castration-resistant prostate cancer after prior hormonal therapy and chemotherapy, while DOTATATE therapy may be considered for somatostatin receptor-positive neuroendocrine tumors that have progressed on octreotide or lanreotide. Final eligibility depends on cancer type, stage, biomarker profile, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "What tests are needed before starting Lu-177 therapy?",
+            "a": "<p>Before Lu-177 therapy, patients need a confirmatory molecular imaging scan (PSMA or DOTATATE PET-CT), blood tests including complete blood count and kidney and liver function, relevant tumor markers such as PSA or chromogranin A, and a review of prior chemotherapy, hormone therapy, or radiation. These tests confirm both that the tumor expresses the intended target and that the patient can safely tolerate systemic radionuclide treatment. The exact testing panel should be confirmed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What happens on the day of a Lu-177 infusion?",
+            "a": "<p>On treatment day, Lu-177 is given as an intravenous infusion lasting roughly 30 minutes to a few hours, with the full hospital visit typically taking several hours including monitoring for immediate reactions. Some patients go home the same day, while others require brief hospitalization depending on the center's protocol and the patient's condition. Cycles are then spaced six to eight weeks apart, with blood and kidney function tests repeated before each one.</p>"
+          },
+          {
+            "q": "What are the side effects of Lu-177 therapy?",
+            "a": "<p>The most common side effects of Lu-177 therapy are fatigue that can last several days, mild to moderate nausea, and temporary drops in blood counts, with dry mouth reported specifically with PSMA-targeted treatment. Rare but serious risks include cumulative kidney or bone marrow effects with repeated DOTATATE cycles, and a sudden hormone-related reaction called carcinoid crisis in some DOTATATE patients, which experienced centers are trained to recognize and manage. Individual risk varies and should be discussed with the treating oncology team before starting therapy.</p>"
+          },
+          {
+            "q": "What radiation safety precautions are needed after Lu-177 treatment?",
+            "a": "<p>After Lu-177 treatment, patients are asked to drink plenty of fluids, urinate frequently, and follow careful toilet hygiene such as flushing twice and thorough handwashing to help clear residual radioactivity from the body. Patients are also advised to keep distance from pregnant women and young children for a few days and may need to sleep separately, since airport radiation detectors can register residual activity while traveling. These precautions are temporary and should be followed exactly as instructed by the treating center.</p>"
+          },
+          {
+            "q": "How much does Lu-177 therapy cost?",
+            "a": "<p>The cost of Lu-177 therapy varies widely by hospital, country, and treatment plan, and depends on factors such as the number of cycles, the confirmatory PET-CT scan, dosimetry planning, hospitalization needs, and travel logistics. Typical preparation before cost can even be estimated includes one to two weeks of medical report and imaging review, followed by scheduling and eligibility confirmation. Because published pricing is not standardized across centers, patients should request an itemized estimate directly from the specific hospital being considered.</p>"
+          },
+          {
+            "q": "Is Lu-177 therapy available in India and China?",
+            "a": "<p>Lu-177 DOTATATE therapy (PRRT) is well established in India, where Tata Memorial Hospital in Mumbai has administered it routinely since 2019 and completed close to 700 treatment cycles using domestically produced Lutetium-177. In China, Pluvicto received NMPA approval in late 2025 after a Phase III bridging trial across eleven centers, with hospitals such as Renji and Tongji operating dedicated radionuclide therapy wards, though center-by-center pricing and international patient intake are still stabilizing. Availability and admission for a specific patient should be confirmed directly with the hospital before travel.</p>"
+          },
+          {
+            "q": "How can CancerFax help patients considering Lu-177 therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. This support is especially useful for Lu-177 therapy, where confirming target expression, selecting an experienced center, and planning multi-cycle treatment abroad involves many coordinated steps. CancerFax does not replace the treating oncologist, and all treatment decisions remain with the patient's medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

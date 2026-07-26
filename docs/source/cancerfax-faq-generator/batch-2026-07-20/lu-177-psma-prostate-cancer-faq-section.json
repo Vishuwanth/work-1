@@ -1,0 +1,30 @@
+{
+  "pillar": "Radioligand Therapy and Theranostics in Cancer",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "lu-177-psma-prostate-cancer",
+  "route": "/treatments/lu-177-psma-prostate-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Patient Questions",
+    "intro": "Detailed answers to the questions patients and families most often ask about Lu-177 PSMA therapy.",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          { "q": "What is Lu-177 PSMA therapy and how does it work?", "a": "<p>Lu-177 PSMA therapy is a targeted radioligand treatment that attaches a radioactive isotope, Lutetium-177, to a molecule that binds to PSMA, a protein highly expressed on most prostate cancer cells. Once injected, the compound circulates through the bloodstream, attaches to PSMA-expressing cancer cells wherever they are in the body, and delivers radiation directly at that site. It is approved (as Pluvicto) for PSMA-positive metastatic castration-resistant prostate cancer, with eligibility confirmed by a PSMA PET-CT scan.</p>" },
+          { "q": "My father has mCRPC and has already had docetaxel and cabazitaxel. Is he still eligible?", "a": "<p>Yes, this is exactly the setting where Lu-177 PSMA therapy was first approved based on the VISION trial. Eligibility still depends on a PSMA PET-CT scan showing sufficient PSMA expression, along with adequate blood counts and kidney function.</p>" },
+          { "q": "We were told our relative's cancer is PSMA-negative on PET-CT. Does that rule out this treatment completely?", "a": "<p>A PSMA-negative or discordant scan generally means the therapy is unlikely to work for lesions that don't express PSMA. It doesn't mean every option is exhausted — other systemic therapies, clinical trials of newer radioligands, or combination approaches may still be appropriate.</p>" },
+          { "q": "Is Lu-177 PSMA therapy available in China now, or is it still only in clinical trials there?", "a": "<p>As of late 2025, Pluvicto received NMPA approval, making it the first PSMA-targeted radioligand therapy formally licensed for commercial use in China. Several domestic Chinese compounds remain in clinical trial stages — confirm which pathway a specific hospital is offering.</p>" },
+          { "q": "How does Lu-177 PSMA therapy in China compare with BRIT-supplied therapy in India?", "a": "<p>Both use PSMA-617 or closely related ligand technology. India's approach relies on domestically produced lutetium-177 and radioligand kits via BRIT, substantially reducing cost. China's approved pathway currently centres on internationally licensed Pluvicto following 2025 NMPA approval, alongside separate domestic candidates still in trials.</p>" },
+          { "q": "How many cycles does my family member need, and how will we know if it's working?", "a": "<p>Most protocols give a cycle every six weeks for up to six doses, depending on response and tolerability. Response is typically judged over multiple cycles using PSA trend, symptoms, blood counts, and periodic imaging — a clearer read usually comes after two to three cycles.</p>" },
+          { "q": "My relative has extensive bone metastases. Does that make Lu-177 PSMA therapy riskier?", "a": "<p>Extensive bone marrow involvement does increase the risk of blood count suppression, since more bone marrow is exposed to radiation. This doesn't automatically exclude a patient, but means closer monitoring and sometimes a more cautious dosing approach.</p>" },
+          { "q": "What side effects does Lu-177 PSMA therapy cause?", "a": "<p>Lu-177 PSMA therapy is generally well tolerated compared with chemotherapy, but common side effects include dry mouth, fatigue, and mild nausea, usually manageable with standard supportive care. Low blood counts and kidney function changes are also monitored, especially in patients with extensive bone metastases or reduced baseline kidney function. Side effects vary by individual, and the treating team monitors blood work between cycles.</p>" },
+          { "q": "How much does Lu-177 PSMA therapy cost in India?", "a": "<p>Published Indian data indicates the cost of one cycle is approximately 125,000 Indian rupees once the radioligand, investigations, and admission costs are combined, though this is indicative only and varies by hospital and case complexity. Costs typically cover specialist consultations, PSMA PET-CT scanning, baseline blood tests, the treatment itself, and follow-up imaging. Always request a detailed, itemised estimate directly from the treating centre before committing to treatment.</p>" },
+          { "q": "How does CancerFax help patients access Lu-177 PSMA therapy?", "a": "<p>CancerFax helps patients organize PSMA PET-CT imaging, pathology, and treatment history, identifies hospitals in India and China offering Lu-177 PSMA therapy, and coordinates second opinions, cost estimates, travel, and follow-up support. Treatment decisions, including eligibility and dosing, are always made by the treating oncology and nuclear medicine team after full case review.</p>" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Second Opinions in China: Zhongshan, Fudan, and Sun Yat-sen",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-second-opinion-china",
+  "route": "/guides/cancer-second-opinion-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How do I get a second opinion from a cancer hospital in China?",
+            "a": "<p>Getting a second opinion from a leading Chinese cancer centre generally starts with having your medical records reviewed and matched to whichever hospital — such as Zhongshan Hospital, Fudan University Shanghai Cancer Center, or Sun Yat-sen University Cancer Center — has the strongest expertise for your specific cancer type. Records are then translated into Chinese by an oncology-specialist translator before being submitted to the receiving centre. From there, patients can choose a remote review by the Chinese team, with an English-language report typically delivered in 7–14 days, or arrange an in-person consultation. The right pathway depends on your diagnosis, prior treatment, and how the receiving centre prefers to review new cases.</p>"
+          },
+          {
+            "q": "Which Chinese hospital is best for a liver cancer second opinion?",
+            "a": "<p>For hepatocellular carcinoma (HCC) and other liver cancers, Zhongshan Hospital in Shanghai, part of Fudan University, is generally the strongest option among China's centres, performing more than 4,000 liver resections a year alongside an active TACE, HAIC, and liver transplant programme. That volume has produced surgical and outcomes data on liver cancer that is difficult to match at lower-volume centres elsewhere in the world. For biliary tract cancers and cholangiocarcinoma, Fudan University Shanghai Cancer Center is also a strong option. Which centre is actually the best fit depends on cancer stage, prior treatment, and biomarker profile, and should be confirmed by specialist review before travel is arranged.</p>"
+          },
+          {
+            "q": "Is Sun Yat-sen University Cancer Center a good option for a nasopharyngeal cancer second opinion?",
+            "a": "<p>Sun Yat-sen University Cancer Center (SYSUCC) in Guangzhou is one of the strongest options worldwide for a nasopharyngeal carcinoma (NPC) second opinion, treating more than 3,000 new NPC cases a year — a volume far higher than most centres outside Southern China, where the disease is far more common. SYSUCC helped develop the standard-of-care chemoradiation protocol used for NPC and has correspondingly deep experience in staging, treatment planning, and managing recurrence. Because NPC treatment decisions depend on tumour stage, prior radiotherapy, and individual patient factors, any recommendation from SYSUCC should still be reviewed alongside your existing oncology team before a treatment plan is finalized.</p>"
+          },
+          {
+            "q": "Can I get a second opinion from a Chinese cancer centre without travelling there?",
+            "a": "<p>Yes — patients can request a remote, pre-visit second opinion from a Chinese cancer centre before deciding whether in-person travel is necessary. The receiving centre's specialists review the translated medical records and imaging, and deliver an English-language report typically within 7–14 days. Many patients use this remote review specifically to confirm whether travelling to China is likely to change their management before committing to the cost and logistics of a trip. If the remote opinion raises new questions, or the centre recommends investigations that can only be done on site, an in-person visit — usually 2–5 days — can be arranged afterward.</p>"
+          },
+          {
+            "q": "How much does a cancer second opinion cost at a Chinese hospital?",
+            "a": "<p>The cost of a second opinion at a Chinese cancer centre varies considerably and depends on the specific hospital, whether the review is done remotely or in person, and how many additional tests or imaging studies the centre requests. A remote record review is generally less expensive than an in-person consultation, which also involves travel, accommodation, and interpreter or coordinator support. Because pricing differs by centre and by case complexity, an accurate estimate can only be given after your records and cancer type have been reviewed. Patients should request a specific cost estimate before travel is booked, and final costs should always be confirmed directly with the hospital or care coordinator.</p>"
+          },
+          {
+            "q": "How long does it take to get a second opinion from a cancer centre in China?",
+            "a": "<p>A remote second opinion from a Chinese cancer centre typically takes 7 to 14 days from submission of translated records to delivery of an English-language report. An in-person second opinion generally requires a further 2 to 5 days once the patient arrives, covering the initial consultation, any additional imaging or blood tests the centre requests, and a follow-up discussion of results. Total timing can extend if a biopsy or specialised scan is needed, or if the centre requests additional records before the visit. Patients travelling for an in-person opinion should confirm the expected timeline for their specific case before booking flights or accommodation.</p>"
+          },
+          {
+            "q": "Will there be a language barrier if I see a doctor at a hospital in China?",
+            "a": "<p>No — patients seeing a Chinese cancer centre are supported by a dedicated bilingual medical coordinator who is present at consultations, ward rounds, and diagnostic appointments, so clinical discussions do not rely on the patient's own language ability. Medical records submitted in any language are also translated into Chinese beforehand by certified oncology-specialist translators, rather than general translation services, so nothing is lost when the receiving hospital's team reviews the case. The second opinion and any recommendations are then translated back into an English-language report for the patient and their home oncologist.</p>"
+          },
+          {
+            "q": "Can a Chinese cancer centre offer treatment options not available in my home country?",
+            "a": "<p>Yes — this is one of the most clinically useful reasons to seek a second opinion from a Chinese cancer centre, since several targeted therapies and immunotherapy combinations have been approved in China ahead of Western regulators, including lenvatinib-pembrolizumab combinations for liver cancer and HER2-directed antibody-drug conjugates for gastric cancer. Chinese centres may also have access to trials of China-developed agents that are not part of global cooperative trial networks. Whether any of these options is actually appropriate for a given patient depends on cancer type, stage, biomarker profile, and prior treatment, and should be discussed with a qualified oncology team before any decision is made.</p>"
+          },
+          {
+            "q": "What medical records do I need to send for a second opinion in China?",
+            "a": "<p>A Chinese cancer centre second opinion generally requires pathology reports, imaging studies (such as CT, MRI, or PET scans), treatment history, and any relevant lab or biomarker results, submitted in whatever language they were originally issued. These records are then medically translated into Chinese by certified oncology-specialist translators — not a general translation service — before being sent to the receiving hospital, since accuracy in technical terminology directly affects how the case is reviewed. Missing scans or incomplete treatment histories can delay the review, so centres typically confirm exactly what is needed once your case and cancer type have been identified.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients get a second opinion in China?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. For a China centre second opinion specifically, this includes matching the case to the right hospital — such as Zhongshan, Fudan, or Sun Yat-sen — arranging certified medical translation, and providing a bilingual coordinator throughout any in-person visit. CancerFax does not replace the patient's treating oncologist or make treatment decisions; the second opinion and any resulting recommendations are still reviewed and acted on by the patient's own medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

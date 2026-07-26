@@ -1,0 +1,59 @@
+{
+  "pillar": "Best Cancer Hospitals in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "best-cancer-hospitals-in-india",
+  "route": "/guides/best-cancer-hospitals-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Which hospitals in India are best for cancer treatment?",
+            "a": "<p>There is no single best hospital in India for every cancer patient — the strongest options are generally large multi-specialty hospitals that coordinate surgery, chemotherapy, and radiation under one roof, and specialized cancer institutes with deeper experience in complex cases such as bone marrow transplant or CAR-T cell therapy.</p><p>Both hospital types can be the right choice depending on the diagnosis and treatment required. The right match depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and should be discussed with a qualified oncology team before any hospital is finalised.</p>"
+          },
+          {
+            "q": "What makes a cancer hospital in India reliable for international patients?",
+            "a": "<p>A reliable cancer hospital in India generally has a multidisciplinary tumor board where surgeons, medical oncologists, radiation oncologists, and pathologists review each case together, NABH or JCI accreditation, and documented experience treating your specific cancer type and stage rather than just overall hospital size.</p><p>Look also for technology such as linear accelerators, PET-CT, robotic surgical systems, or a dedicated bone marrow transplant unit where relevant, plus a dedicated international patient department with interpreter support and ICU capability. Hospital suitability should still be confirmed against your own reports by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which city in India should I consider for cancer treatment?",
+            "a": "<p>India's strongest cancer care is concentrated in a handful of cities rather than one clear leader — Delhi NCR and Mumbai offer the widest access to surgery, chemotherapy, radiation, immunotherapy, and bone marrow transplant, while Chennai, Hyderabad, and Bangalore are known for high international patient volume, robotic surgery, and precision oncology respectively.</p><p>Kolkata and Ahmedabad have established surgical and radiation oncology programs, and Kochi is popular with Gulf-region patients due to shorter flight times. The final city and hospital match depends on your cancer type, stage, and required treatment, and should be confirmed through specialist review.</p>"
+          },
+          {
+            "q": "How much does cancer treatment cost in India?",
+            "a": "<p>Cancer treatment costs in India vary by hospital, city, and treatment type, with initial oncology consultations generally estimated between $50 and $150, imaging scans such as PET-CT, MRI, or CT between $250 and $700, and chemotherapy cycles between roughly $200 and $1,500 depending on the drug regimen.</p><p>Radiation therapy typically falls in a wider estimated range depending on the number of fractions and technique used, while surgery and bone marrow transplant costs are confirmed only after your reports are reviewed, since they vary by cancer type, stage, and donor type. These are general approximate ranges only, and exact costs should be confirmed with the treating hospital before travel.</p>"
+          },
+          {
+            "q": "What is the process for arranging cancer treatment in India from abroad?",
+            "a": "<p>Arranging cancer treatment in India from abroad generally follows six steps: sharing medical reports for review, receiving a hospital and specialist shortlist with an estimated treatment plan, visa and travel support, an in-person hospital evaluation, treatment itself, and a structured discharge and follow-up plan with your doctors back home.</p><p>Each step builds on the previous one, starting with a review of biopsy, imaging, and prior treatment records against hospital capability and specialist experience. Timelines vary by case, and the exact treatment plan and hospital shortlist are confirmed only after your reports have been reviewed by the coordination team.</p>"
+          },
+          {
+            "q": "Do hospitals in India offer bone marrow transplant, CAR-T therapy, and robotic surgery?",
+            "a": "<p>Some private hospitals and specialized cancer institutes in India offer bone marrow transplant, CAR-T cell therapy, robotic surgical systems, and advanced radiation technology such as linear accelerators and PET-CT scanning, though not every hospital has every one of these capabilities available.</p><p>These advanced treatments are generally concentrated in specialized cancer institutes and larger hospitals in cities such as Delhi NCR, Mumbai, and Hyderabad. Eligibility for transplant, CAR-T, or robotic procedures depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and final treatment decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "What support do international patients get at cancer hospitals in India?",
+            "a": "<p>International patients at accredited Indian cancer hospitals typically have access to a dedicated international patient department, interpreter support, ICU capability, and a clear follow-up plan that is coordinated with their doctors back home once treatment in India is complete.</p><p>Broader support around the hospital stay can include medical visa documentation, attendant travel arrangements, and accommodation near the hospital, which matters most for longer treatments such as radiation therapy or bone marrow transplant. The exact support available should be confirmed with the specific hospital and coordination team in advance.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for cancer treatment?",
+            "a": "<p>Stay duration in India depends entirely on the treatment required — a single consultation, scan, or second opinion may take only a few days, while radiation therapy, bone marrow transplant, or CAR-T cell therapy can require several weeks of continuous care and monitoring.</p><p>Longer treatments generally need time for recovery and follow-up scans before international travel home is advisable. Exact length of stay depends on cancer type, stage, and treatment plan, and should be confirmed with the treating hospital and specialist team.</p>"
+          },
+          {
+            "q": "Can I get a second opinion before choosing a hospital in India?",
+            "a": "<p>Yes, a second opinion on your cancer diagnosis and treatment options can generally be arranged remotely and reviewed against hospital capability and specialist experience, based on your medical reports, before you commit to a specific hospital in India or book any travel.</p><p>This review typically covers biopsy results, imaging, and prior treatment history to help identify which hospitals and specialists are genuinely suited to your case. A second opinion may be considered as one input among several, and final treatment decisions should be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help me choose a cancer hospital in India?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team.</p><p>This includes reviewing biopsy, imaging, and prior treatment records against hospital capability across cities such as Delhi NCR, Mumbai, Chennai, Hyderabad, and Bangalore, then shortlisting suitable hospitals and specialists with an estimated treatment plan. CancerFax does not replace the oncologist and does not make treatment decisions — all final treatment decisions should be made by the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

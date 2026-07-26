@@ -11,7 +11,17 @@ import {
   useReactTable,
 } from "@tanstack/react-table";
 import { useVirtualizer } from "@tanstack/react-virtual";
-import { ArrowDown, ArrowUp, ArrowUpDown, CheckCheck, Loader2, Search, Sparkles } from "lucide-react";
+import {
+  ArrowDown,
+  ArrowUp,
+  ArrowUpDown,
+  CheckCheck,
+  Download,
+  Loader2,
+  Search,
+  Sparkles,
+} from "lucide-react";
+import { toast } from "sonner";
 
 import type { RowView, ContentState, ReviewStatus, GenStatus } from "@/lib/types";
 import { cn } from "@/lib/utils";
@@ -43,6 +53,27 @@ interface RowsTableProps {
 }
 
 const ALL = "all";
+
+/** Fetch the status workbook and save it under the filename the server set. */
+async function downloadExport(slugs: string[] | null): Promise<void> {
+  const res = slugs
+    ? await fetch("/api/export", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ slugs }),
+      })
+    : await fetch("/api/export");
+  if (!res.ok) throw new Error((await res.text()).slice(0, 200));
+  const name =
+    /filename="([^"]+)"/.exec(res.headers.get("Content-Disposition") ?? "")?.[1] ??
+    "content-status.xlsx";
+  const url = URL.createObjectURL(await res.blob());
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = name;
+  a.click();
+  URL.revokeObjectURL(url);
+}
 
 /** Live generation pill shown in the content cell while a row is queued/running/etc. */
 function GenPill({ status }: { status: GenStatus }) {
@@ -156,6 +187,7 @@ export function RowsTable({
   const [review, setReview] = React.useState(ALL);
   const [sorting, setSorting] = React.useState<SortingState>([{ id: "rowNum", desc: false }]);
   const [rowSelection, setRowSelection] = React.useState<RowSelectionState>({});
+  const [exporting, setExporting] = React.useState(false);
 
   // Pillars annotated with how many rows are still ungenerated, sorted most-work-
   // first so fully-done pillars sink to the bottom (marked ✓) and you can see at a
@@ -248,6 +280,20 @@ export function RowsTable({
   const unapprovedCount = views.filter(
     (v) => v.contentState !== "not-generated" && v.reviewStatus !== "approved",
   ).length;
+  // Export target: same rule as the batch button — checked rows if any, else
+  // every row currently visible (filters + search applied).
+  const visibleSlugs = rows.map((r) => r.original.slug);
+  const exportTargets = selectedSlugs.length ? selectedSlugs : visibleSlugs;
+  const exportLabel = selectedSlugs.length
+    ? `Export ${selectedSlugs.length} selected`
+    : `Export ${visibleSlugs.length} in view`;
+
+  const onExport = (slugs: string[] | null) => {
+    setExporting(true);
+    downloadExport(slugs)
+      .catch((e: Error) => toast.error("Export failed", { description: e.message }))
+      .finally(() => setExporting(false));
+  };
 
   const cols: { id: string; label: string; className: string; sortable?: boolean }[] = [
     { id: "select", label: "", className: "w-10" },
@@ -329,6 +375,24 @@ export function RowsTable({
           size="sm"
           variant="outline"
           className="ml-auto"
+          disabled={exporting}
+          onClick={() => onExport(null)}
+          title="Export every content row to Excel"
+        >
+          <Download className="h-4 w-4" /> Export all
+        </Button>
+        <Button
+          size="sm"
+          variant="outline"
+          disabled={exporting || exportTargets.length === 0}
+          onClick={() => onExport(exportTargets)}
+          title="Export the checked rows, or everything currently in view"
+        >
+          <Download className="h-4 w-4" /> {exportLabel}
+        </Button>
+        <Button
+          size="sm"
+          variant="outline"
           disabled={unapprovedCount === 0}
           onClick={onApproveAll}
           title="Approve every generated row that isn't approved yet"

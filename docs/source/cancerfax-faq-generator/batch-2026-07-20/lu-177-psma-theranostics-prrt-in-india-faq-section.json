@@ -1,0 +1,59 @@
+{
+  "pillar": "Prostate Cancer Advanced Treatment",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "lu-177-psma-theranostics-prrt-in-india",
+  "route": "/guides/lu-177-psma-theranostics-prrt-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Lu-177 PSMA therapy?",
+            "a": "<p>Lu-177 PSMA therapy is a targeted radioligand treatment that delivers a radioactive isotope, Lutetium-177, directly to prostate cancer cells expressing PSMA (prostate-specific membrane antigen). It is part of a theranostics approach, where a PSMA PET-CT scan first confirms that a tumour expresses this target before the matching radioactive medicine is used to treat it. The therapy is generally considered for men with advanced or metastatic castration-resistant prostate cancer that has progressed after hormone therapy or chemotherapy. Because it targets PSMA-expressing cells specifically, it is designed to concentrate radiation on cancer cells while limiting exposure to surrounding tissue. Suitability, dosing, and the number of cycles required depend on individual PET-CT results, prior treatment history, and organ function, and should always be confirmed by a nuclear medicine specialist and treating oncology team.</p>"
+          },
+          {
+            "q": "What is theranostics, and how is Lu-177 PSMA therapy connected to it?",
+            "a": "<p>Theranostics combines therapy and diagnostics into a single, targeted approach: a PET-CT scan first confirms whether a tumour expresses a specific molecular target, and if it does, a matching radioactive medicine is used to treat those same cells. Lu-177 PSMA therapy is one form of theranostics, used for PSMA-positive prostate cancer, while PRRT is another, used for somatostatin receptor-positive neuroendocrine tumours confirmed via DOTATATE or DOTANOC PET-CT. Because treatment is only given once the target is confirmed on imaging, theranostics is considered a more personalised way of matching radioactive treatment to a patient's specific tumour biology. Whether this approach is appropriate for a given patient depends on scan results, cancer type, and overall health, and should be discussed with a qualified nuclear medicine and oncology team before any decision is made.</p>"
+          },
+          {
+            "q": "What is PRRT, and how is it different from Lu-177 PSMA therapy?",
+            "a": "<p>PRRT (peptide receptor radionuclide therapy) is a theranostics treatment for neuroendocrine tumours, such as those arising in the pancreas, small bowel, or lung, that targets cells expressing somatostatin receptors. It differs from Lu-177 PSMA therapy mainly in the cancer type and target it addresses: PRRT is confirmed using DOTATATE, DOTANOC, or DOTATOC PET-CT, whereas Lu-177 PSMA therapy is confirmed using PSMA PET-CT and is used specifically for prostate cancer. Both use a similar radioligand principle, delivering radioactive treatment to cells that light up on the matching scan. Eligibility for PRRT generally depends on receptor-positive imaging results along with an acceptable Ki-67 index and organ function. As with any theranostics treatment, whether PRRT may be considered for a specific case depends on full case review by a nuclear medicine specialist and oncologist.</p>"
+          },
+          {
+            "q": "What tests or scans are required before starting treatment?",
+            "a": "<p>Before Lu-177 PSMA therapy or PRRT can be considered, patients generally need imaging that confirms the tumour expresses the relevant target: a PSMA PET-CT for prostate cancer, or a DOTATATE, DOTANOC, or DOTATOC PET-CT for neuroendocrine tumours. Pre-treatment blood work and organ function tests, covering kidney, liver, and bone marrow function, are also typically required, since adequate organ function is part of eligibility for both treatments. Recent histopathology reports and treatment history are usually reviewed alongside these scans. The exact combination of tests can vary based on prior treatment, disease stage, and the protocol of the treating hospital. Final decisions about which scans are needed, and how the results are interpreted, should be made by the nuclear medicine specialist and oncology team managing the case.</p>"
+          },
+          {
+            "q": "Who may be eligible for Lu-177 PSMA therapy or PRRT?",
+            "a": "<p>Eligibility depends on cancer type and confirmed target expression on imaging. For Lu-177 PSMA therapy, this generally means metastatic castration-resistant prostate cancer that is PSMA-positive on PET-CT, has progressed after hormone therapy or chemotherapy, and is accompanied by adequate kidney, liver, and bone marrow function. For PRRT, eligibility generally applies to neuroendocrine tumours of the pancreas, small bowel, or lung that are somatostatin receptor-positive on PET-CT, with an acceptable Ki-67 index and organ function. These are general guidelines rather than guarantees of treatment, since every case differs. Final eligibility can only be confirmed after a nuclear medicine specialist and medical oncologist have reviewed the complete case, including scans, pathology, prior treatments, and current health status.</p>"
+          },
+          {
+            "q": "How many cycles of treatment are usually needed?",
+            "a": "<p>Many patients receive multiple cycles of Lu-177 PSMA therapy or PRRT, spaced several weeks apart, rather than a single session. The exact number of cycles depends on the type of cancer being treated, how the disease responds to earlier cycles, and any side effects experienced along the way. Because treatment is spread across several months, some patients choose to remain in the treatment country for the full course, while others travel back and forth between cycles depending on their individual circumstances and travel feasibility. There is no fixed number of cycles that applies to every patient, and the treating nuclear medicine specialist and oncology team will reassess the plan after each cycle based on imaging and clinical response before deciding whether further treatment is appropriate.</p>"
+          },
+          {
+            "q": "What side effects can occur with Lu-177 PSMA therapy or PRRT?",
+            "a": "<p>As with other radioligand treatments, Lu-177 PSMA therapy and PRRT can cause side effects such as fatigue, mild nausea, dry mouth, or temporary changes in blood counts due to effects on bone marrow, kidney, or salivary gland tissue. Not every patient experiences the same side effects, and their severity can vary based on dose, number of cycles, and individual health factors such as existing kidney or liver function. Side effects are generally monitored through blood tests and clinical review before and after each cycle. This is general information only, not a complete list of possible risks, and it should not be used to predict any individual patient's experience. A full discussion of expected side effects, monitoring, and management should always take place with the treating nuclear medicine specialist and oncology team.</p>"
+          },
+          {
+            "q": "How much does Lu-177 PSMA therapy or PRRT cost in India?",
+            "a": "<p>In India, Lu-177 PSMA therapy typically costs approximately $3,000–$6,000 per cycle, while PRRT typically costs approximately $3,500–$7,000 per cycle, depending on the radiopharmaceutical product used and the treating hospital's protocol. Related costs can include a PSMA PET-CT scan ($350–$700) or DOTATATE/DOTANOC PET-CT scan ($400–$800), pre-treatment blood work ($80–$200), hospital stay or day-care monitoring ($100–$400 per day), and follow-up consultations with repeat imaging ($300–$700 per visit). These are approximate planning ranges, not fixed prices. The exact estimate for any patient depends on their medical reports, the number of cycles required, and the specific hospital's protocol, and should be confirmed directly with the treating centre after specialist review of the case.</p>"
+          },
+          {
+            "q": "Is this treatment available in India, and how does the process work for international patients?",
+            "a": "<p>Yes, Lu-177 PSMA therapy and PRRT are offered at nuclear medicine centres in cities including Delhi NCR, Mumbai, Chennai, Hyderabad, Bangalore, and Kochi, many of which have experience treating international patients. For patients travelling from abroad, the typical process involves sharing medical reports, recent PET-CT scans, and organ function tests for case review, followed by a hospital and specialist shortlist with an initial opinion and estimated cost, visa and appointment support, PET-CT confirmation on arrival, treatment across the required cycles, and follow-up coordination after discharge. Since treatment is given over multiple cycles across several months, some patients plan an extended stay while others travel between cycles. Exact logistics, timelines, and suitability depend on individual case review by the treating hospital's specialist team.</p>"
+          },
+          {
+            "q": "How can CancerFax help patients considering Lu-177 PSMA therapy or PRRT in India?",
+            "a": "<p>CancerFax helps patients organize their medical reports, PET-CT scans, and prior treatment history, and identifies relevant nuclear medicine specialists or hospitals experienced in Lu-177 PSMA therapy and PRRT across cities such as Delhi, Mumbai, Chennai, Hyderabad, Bangalore, and Kochi. The team can help estimate possible costs based on individual reports, coordinate second opinions, and assist with travel, medical visa documentation, and follow-up support after treatment and discharge. CancerFax does not replace the treating hospital's clinical judgment; final decisions about eligibility, dosing, and the number of cycles are always made by the nuclear medicine specialist and oncology team reviewing the case, following full assessment of scans, pathology, and organ function.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

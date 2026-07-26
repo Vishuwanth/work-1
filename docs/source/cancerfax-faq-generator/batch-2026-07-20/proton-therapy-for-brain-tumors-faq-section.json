@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "proton-therapy-for-brain-tumors",
+  "route": "/insights/proton-therapy-for-brain-tumors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why is proton therapy often recommended over standard radiation for brain tumors?",
+            "a": "<p>Proton therapy is recommended for many brain tumors because its Bragg peak physics allows the radiation beam to stop precisely at the tumor, sparing critical brain structures that standard photon radiation continues to expose beyond the target. This matters most for structures such as the cochlea, optic nerves and chiasm, hypothalamus, brainstem, and hippocampus, where unnecessary exposure can cause irreversible hearing loss, vision changes, hormonal disruption, or memory problems. The benefit is greatest in children, whose developing brains are especially sensitive to radiation exit dose, and in tumors located close to these structures. Whether proton therapy is the right choice for a specific brain tumor depends on tumor type and location and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is proton therapy suitable for children with brain tumors?",
+            "a": "<p>Proton therapy is often the preferred radiation option for children with brain tumors because a child's developing brain, cochlea, and hormone-regulating structures are especially vulnerable to radiation exit dose. For medulloblastoma requiring craniospinal irradiation, proton therapy also reduces scatter radiation to the developing heart, lungs, and gut compared with photon treatment, which is linked to better long-term cognitive, endocrine, and growth outcomes. Suitability still depends on the specific tumor type, stage, and the child's overall health, and may be considered after review by a paediatric oncology and radiation team. Centres such as Apollo Proton Cancer Centre in Chennai accept international paediatric patients for this treatment.</p>"
+          },
+          {
+            "q": "What is proton craniospinal irradiation and when is it used for medulloblastoma?",
+            "a": "<p>Proton craniospinal irradiation (CSI) is a radiation technique that treats the entire brain and spinal cord using proton beams instead of standard photon radiation, used mainly for medulloblastoma and related paediatric brain tumors that can spread through spinal fluid. Because protons deposit their dose at a defined depth and then stop, proton CSI reduces radiation scatter to the heart, lungs, gut, and gonads by an estimated 50-70% compared with photon CSI, which is associated with a lower risk of secondary cancers and better organ function later in life. It is regarded as the preferred approach for medulloblastoma CSI in children and, where accessible, in young adults, though the treating radiation oncology team makes the final recommendation based on the individual case.</p>"
+          },
+          {
+            "q": "Is proton therapy an effective treatment for skull-base chordoma or chondrosarcoma?",
+            "a": "<p>Proton therapy is considered an effective and often preferred treatment for skull-base chordoma and chondrosarcoma, with high-dose proton delivery achieving 5-year local control rates above 80%, compared with roughly 30-40% for conventional radiation. Because these tumors sit close to the brainstem and optic apparatus, proton therapy's ability to deliver a high dose to the bone tumor while sparing surrounding critical structures is particularly valuable, and it is used as standard practice at major proton centres. Carbon ion therapy, available at some Chinese centres, is also used for these tumors due to its higher biological effect. Whether it is appropriate for a specific case depends on tumor size, location, and prior treatment, and should be confirmed with a specialist skull-base radiation oncology team.</p>"
+          },
+          {
+            "q": "Can proton therapy be used to treat meningioma near the skull base?",
+            "a": "<p>Proton therapy may be considered for large meningiomas located at the skull base or cavernous sinus, where the tumor sits close to the optic nerves and other sensitive structures. Dosimetric studies show proton therapy (IMPT) reduces radiation dose to these at-risk structures compared with photon IMRT, though this evidence comes from institutional series rather than randomised trials. For small, well-defined meningiomas located away from critical structures, photon stereotactic radiosurgery already achieves over 90% control and proton therapy offers little additional benefit. Whether proton therapy is warranted for a specific meningioma depends on its size, location, and grade, and should be discussed with a neuro-oncology radiation team.</p>"
+          },
+          {
+            "q": "Should young adults with low-grade glioma consider proton therapy?",
+            "a": "<p>Young adults with low-grade glioma may reasonably consider proton therapy over standard photon IMRT because it reduces long-term radiation exposure to normal brain tissue, which matters more for patients with an expected survival of 10-20 years or longer. Supporting evidence currently comes from dosimetric studies showing lower integral brain dose with protons, while a randomised trial (NRG BN005) comparing long-term neurocognitive outcomes is still ongoing, so survival data specific to protons is not yet available. This makes proton therapy a reasonable, though not yet definitively proven, option for younger patients requiring radiation for low-grade glioma, and the decision should be made jointly with the treating oncology team.</p>"
+          },
+          {
+            "q": "Does proton therapy improve outcomes for glioblastoma (GBM)?",
+            "a": "<p>Current evidence does not show that proton therapy improves survival outcomes for glioblastoma (GBM) compared with standard photon IMRT. GBM almost always recurs within the original radiation field regardless of which technology is used, so the reduced radiation exposure to surrounding brain tissue that benefits paediatric or skull-base tumors is less clinically relevant here, and no study has demonstrated a survival or progression-free survival advantage for protons in GBM. For this reason, proton therapy is not currently a standard recommendation for GBM, and patients may be better served exploring clinical trial options; any treatment decision should still be made with the treating oncology team.</p>"
+          },
+          {
+            "q": "Is proton therapy necessary for treating brain metastases?",
+            "a": "<p>Proton therapy is generally not necessary for treating brain metastases, since single-fraction stereotactic radiosurgery (SRS) using photon technology already achieves sub-millimetre precision considered equivalent to proton therapy for this indication. Brain metastases are typically small, well-defined targets that do not require the additional exit-dose reduction that makes protons valuable for paediatric tumors or skull-base disease. Choosing between proton and photon SRS for brain metastases depends on the number, size, and location of the lesions, prior treatment, and overall condition, and should be decided by the treating radiation oncology team rather than by technology preference alone.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of proton therapy for brain tumors?",
+            "a": "<p>Proton therapy for brain tumors carries risks similar to other forms of radiation, including fatigue, scalp irritation, temporary hair loss, and localized effects depending on which part of the brain is treated, such as hormonal changes if the hypothalamus lies near the treatment field. Proton therapy is generally chosen to reduce radiation exposure to healthy brain tissue and structures like the cochlea and optic nerves, which can lower certain long-term risks compared with photon radiation, but it does not eliminate side effects and is not risk-free. The specific risk profile depends on tumor location, dose, and the patient's overall health, and should be reviewed in detail with the treating radiation oncology team before starting treatment.</p>"
+          },
+          {
+            "q": "How much does proton therapy for a brain tumor cost, and how can patients access it abroad?",
+            "a": "<p>Proton therapy for a brain tumor is estimated to cost $12,000-$22,000 for a full course at Apollo Proton Cancer Centre in Chennai, India, and roughly $15,000-$40,000 at Chinese centres such as SPHIC, compared with an estimated $60,000-$120,000 for similar treatment in the USA. Actual cost depends on tumor type, number of fractions, diagnostics, hospital, and length of stay, and no hospital can guarantee acceptance or admission before a full case review. CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team, though all treatment decisions remain with the patient's medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

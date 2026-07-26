@@ -1,0 +1,59 @@
+{
+  "pillar": "Advanced Cancer Treatment Options in China",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "advanced-cancer-treatment-options-in-china-patient-guide",
+  "route": "/guides/advanced-cancer-treatment-options-in-china-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What advanced cancer treatments are available in China?",
+            "a": "<p>China offers a broad range of advanced cancer treatments, including CAR-T and CAR-NK cell therapy, TIL therapy, oncolytic virus therapy, Gendicine gene therapy, proton and carbon-ion radiation, HIFU, TACE, TARE, affordable PD-1 immunotherapy, and access to a large clinical trial pipeline. Chinese regulators have approved several CAR-T products, multiple PD-1 inhibitors, and gene and oncolytic virus therapies, while major hospitals run hundreds of active oncology trials across cell therapy, targeted therapy, and immunotherapy. Which options are appropriate depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is CAR-T cell therapy in China available for adults with lymphoma, leukemia, or multiple myeloma?",
+            "a": "<p>CAR-T cell therapy in China is approved and actively used for relapsed or refractory B-cell lymphoma, multiple myeloma, and acute lymphoblastic leukaemia, with trial-based programmes also targeting T-cell malignancies, AML, and selected solid tumours. Eligibility depends on the specific diagnosis, antigen expression such as CD19, BCMA, CD7, CD22, or GPRC5D, disease burden, organ function, and prior therapy, and both autologous and allogeneic platforms are offered depending on the treatment centre. Suitability for CAR-T therapy may be considered only after case review, since outcomes and toxicity risks vary by patient and by centre experience.</p>"
+          },
+          {
+            "q": "What is CAR-NK therapy and how is it different from CAR-T therapy?",
+            "a": "<p>CAR-NK therapy uses engineered natural killer cells rather than a patient's own T-cells, targeting antigens such as CD19, CD33, or BCMA and, in some Chinese programmes, solid tumour markers, with potentially lower toxicity than CAR-T in selected settings. Several Chinese centres also offer related cell therapies, including gamma-delta T-cell therapy, NK cell infusions, and bispecific cell platforms, most available through clinical trial protocols. Whether CAR-NK or another cell therapy may be considered for a specific case depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and should be discussed with a qualified oncology team before any travel decision is made.</p>"
+          },
+          {
+            "q": "Is TIL therapy or a personalized cancer vaccine available for treatment in China?",
+            "a": "<p>TIL (tumour-infiltrating lymphocyte) therapy is being actively developed in China for melanoma, cervical, lung, and head and neck cancers, alongside personalised neoantigen vaccines and dendritic cell vaccines offered through clinical trial protocols at major centres. These are intensive, resource-heavy treatments that require careful patient selection based on tumour type, prior treatment, and overall fitness for an extended cell-manufacturing process. Whether TIL therapy or a vaccine-based approach may be considered depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and final treatment decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "What is Gendicine and who might be eligible for this gene therapy in China?",
+            "a": "<p>Gendicine is an adenovirus-based p53 gene therapy approved in China for selected head and neck and other cancers, typically used in combination with radiation or chemotherapy rather than as a standalone treatment. Eligibility for Gendicine is specific and depends on tumour type, p53 status, and prior treatment history, and it is best understood as one option among several rather than a primary treatment for most patients. Whether this therapy may be considered for a particular case depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Does China offer proton therapy or carbon-ion (heavy-ion) radiation for cancer?",
+            "a": "<p>China operates several proton therapy and carbon-ion therapy centres, including dedicated heavy-ion facilities that are particularly relevant for paediatric cancers, brain and skull-base tumours, head and neck cancers, and hepatocellular carcinoma. Carbon-ion therapy availability is more limited globally, which is one reason some international patients travel specifically for it, particularly when reducing long-term radiation toxicity is a priority. Whether proton or carbon-ion therapy may be considered for a specific tumour depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and should be discussed with a qualified oncology team before planning travel.</p>"
+          },
+          {
+            "q": "What treatment options does China offer for liver cancer, such as HIFU, TACE, or TARE?",
+            "a": "<p>China offers well-established interventional options for liver and liver-dominant cancers, including HIFU (high-intensity focused ultrasound), TACE, and TARE, often combined with systemic therapy or immunotherapy for hepatocellular carcinoma. HIFU is also used for pancreatic, kidney, bone, and selected gynaecological tumours, while TACE and TARE are frequently paired with targeted therapy or immunotherapy to manage liver-dominant metastatic disease. Whether these interventional approaches may be considered for a particular case depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and final treatment decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Are China-approved immunotherapy drugs like tislelizumab or sintilimab more affordable than equivalents in the US or Europe?",
+            "a": "<p>Several China-approved PD-1 inhibitors, including tislelizumab, sintilimab, toripalimab, and camrelizumab, are generally more affordable than originator immunotherapy drugs, and biosimilars for trastuzumab, bevacizumab, rituximab, and several TKIs are also widely available. For patients facing long-term immunotherapy or targeted therapy, this pricing difference can meaningfully change what is financially sustainable over a full treatment course. Actual costs vary by hospital, drug combination, treatment duration, and individual case, so a precise cost estimate depends on cancer type, stage, biomarker profile, prior treatment, and specialist review rather than a fixed published price.</p>"
+          },
+          {
+            "q": "Can international patients join cancer clinical trials in China?",
+            "a": "<p>Some cancer clinical trials in China accept international patients, while others restrict enrolment to Chinese residents, so acceptance is never guaranteed and depends on the specific protocol, sponsor, and treatment centre. China runs one of the largest active oncology trial pipelines globally, spanning CAR-T and CAR-NK in solid tumours, KRAS and HER2 inhibitors, antibody-drug conjugates, bispecific antibodies, and novel checkpoint targets such as LAG-3 and TIGIT. Whether a particular trial may be considered depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, and eligibility should be discussed with a qualified oncology team before assuming enrolment is possible.</p>"
+          },
+          {
+            "q": "How can CancerFax help patients considering advanced cancer treatment in China?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. This includes reviewing diagnosis, biomarkers, and prior treatment to assess whether China-based options are realistic, sharing reports with appropriate hospital or trial teams for structured feedback, and coordinating continuity of care after a patient returns home. Final treatment decisions should always be made by the treating medical team, with CancerFax supporting logistics and case navigation rather than replacing clinical judgment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

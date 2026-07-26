@@ -1,0 +1,59 @@
+{
+  "pillar": "How to Know If Advanced Cancer Treatments May Be Relevant for You",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "advanced-cancer-treatment-eligibility",
+  "route": "/guides/advanced-cancer-treatment-eligibility",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Am I eligible for advanced cancer treatments like CAR-T or immunotherapy?",
+            "a": "<p>Whether you are eligible for advanced treatments such as CAR-T, TIL therapy, or immunotherapy depends on your specific cancer type, disease stage, biomarker or antigen profile, and how your cancer has responded to prior treatment — there is no single symptom or test that determines this on its own. Oncologists typically review pathology reports, imaging, and genetic or biomarker testing before recommending or ruling out any advanced option. Eligibility criteria also differ significantly between therapies and treating hospitals. Because of this, any conclusion about eligibility should be discussed with a qualified oncology team rather than assumed from general information alone.</p>"
+          },
+          {
+            "q": "What factors determine if I qualify for advanced cancer therapy?",
+            "a": "<p>Qualification for advanced cancer therapy is determined by a combination of factors: cancer type, stage, biomarker or genetic profile, prior treatments received, and how your disease has responded to standard care. Specialists also weigh overall health status and organ function, since some advanced therapies place significant physical demands on the body. No single factor decides eligibility in isolation — it is the overall clinical picture assessed by a treating oncologist or specialist review. Because these criteria vary by therapy and by hospital, a definitive answer should always come from specialist review rather than self-assessment.</p>"
+          },
+          {
+            "q": "How do I know if a clinical trial might be relevant for my cancer?",
+            "a": "<p>A clinical trial may be relevant to your cancer if your specific diagnosis, stage, and biomarker profile match that trial's enrollment criteria, which only the trial's investigator team can confirm after reviewing your medical records. Trials typically specify inclusion and exclusion criteria covering prior treatments, disease progression, and organ function, so matching depends on details in your pathology and imaging reports. Even patients with similar cancer types are not automatically eligible for the same trial. Enrollment and benefit are never guaranteed, and eligibility is confirmed only after formal investigator review of your case.</p>"
+          },
+          {
+            "q": "Is targeted therapy suitable for every type of cancer?",
+            "a": "<p>No, targeted therapy is not suitable for every cancer, since it works only against tumors that carry the specific genetic mutation or protein the drug is designed to target. Doctors confirm this through biomarker or genomic testing of tumor tissue before recommending a targeted agent, and a cancer without the relevant mutation typically will not respond to that particular drug. Suitability also depends on cancer stage and prior treatment history. Whether targeted therapy may be considered for your case depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, so testing and oncology consultation are essential first steps.</p>"
+          },
+          {
+            "q": "Does gene therapy work for solid tumors or only blood cancers?",
+            "a": "<p>Gene therapy is most established for certain blood cancers, though research into its use for selected solid tumors is expanding and may be considered in specific cases. Approved gene therapies typically target specific genetic markers or immune mechanisms, which is why availability is currently narrower for solid tumors than for hematologic cancers. Whether gene therapy is relevant for a solid tumor case depends on cancer type, stage, biomarker profile, prior treatment, and specialist review, often within a clinical trial setting. Patients interested in gene therapy for a solid tumor should ask their oncology team about current trial availability.</p>"
+          },
+          {
+            "q": "What is HIFU and who is it suitable for?",
+            "a": "<p>HIFU (high-intensity focused ultrasound) is a non-invasive technique that uses focused sound waves to heat and destroy targeted tumor tissue without surgical incisions. It may be considered for certain localized tumors where the tumor's location and size make focused ultrasound technically feasible, but it is not appropriate for all cancer types or stages. Suitability depends on tumor location, size, cancer type, and overall treatment goals, and requires imaging and specialist evaluation to confirm technical feasibility. Whether HIFU is relevant for your case should be discussed with a qualified oncology team familiar with your imaging and pathology results.</p>"
+          },
+          {
+            "q": "Can BNCT be considered for my cancer case?",
+            "a": "<p>BNCT (boron neutron capture therapy) may be considered for select cancers, particularly certain hard-to-treat tumors, using a boron-containing compound to selectively deliver radiation to cancer cells. Access to BNCT is limited to a small number of specialized centers worldwide, so availability itself is a key eligibility factor alongside cancer type and stage. Whether BNCT is relevant for a specific case depends on cancer type, stage, biomarker profile, prior treatment, and specialist review at a center offering this therapy. Patients should confirm current availability and eligibility criteria directly with a BNCT treatment center.</p>"
+          },
+          {
+            "q": "What tests or reports do doctors review to check eligibility for advanced treatment?",
+            "a": "<p>Doctors typically review pathology reports, imaging scans, biomarker or genetic testing results, and a full history of prior treatments to assess eligibility for advanced cancer therapies. These reports establish the cancer's exact type, stage, and molecular characteristics, which are the main factors used to match a patient to CAR-T, immunotherapy, targeted therapy, or a clinical trial. Blood work and organ function tests are also reviewed, since some advanced therapies require a certain baseline health status. Because requirements differ by therapy, the specific combination of reports needed should be confirmed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What should I do if my current treatment isn't working anymore?",
+            "a": "<p>If your current treatment is no longer controlling your cancer, the next step is typically a specialist review of your updated pathology, imaging, and biomarker results to identify whether advanced options such as immunotherapy, targeted therapy, or a clinical trial may be considered. Disease progression on standard treatment is often what opens eligibility for therapies reserved for later-line or refractory cases. Response to prior treatment is itself one of the eligibility factors evaluated. Because next-step options depend on cancer type, stage, biomarker profile, prior treatment, and specialist review, this should be discussed promptly with your treating oncology team.</p>"
+          },
+          {
+            "q": "How can CancerFax help me find out if advanced treatment options apply to me?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. This includes helping structure pathology, imaging, and biomarker reports so relevant specialists can assess whether options like CAR-T, TIL therapy, immunotherapy, or a clinical trial may be worth exploring for a specific case. CancerFax does not replace the oncologist or make treatment decisions — all eligibility determinations and final treatment decisions should be made by the treating medical team, with CancerFax supporting the navigation process around that care.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

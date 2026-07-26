@@ -1,0 +1,55 @@
+{
+  "pillar": "CAR-T Cell Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-patients-should-ask-about-car-t",
+  "route": "/insights/questions-patients-should-ask-about-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What questions should I ask before starting CAR-T cell therapy?",
+            "a": "<p>Before starting CAR-T cell therapy, ask about the timing rationale, which specific product is proposed and why, whether antigen expression has been confirmed, and what the centre's outcomes and CRS/ICANS rates are. These four areas — eligibility, product selection, centre experience, and logistics — cover most of what shapes a CAR-T treatment decision. A qualified oncology team can walk through each one for your specific case.</p>"
+          },
+          {
+            "q": "Why is CAR-T being recommended for me now instead of another treatment?",
+            "a": "<p>Ask your care team directly why CAR-T is being suggested at this point rather than earlier or later in your treatment history. The timing usually depends on prior lines of therapy, disease status, and how your specific cancer subtype responds to available options. This reasoning should be explained clearly before you consent to treatment, and final decisions rest with your treating oncology team.</p>"
+          },
+          {
+            "q": "What should I ask about the specific CAR-T product being proposed?",
+            "a": "<p>Ask which CAR-T product is being proposed, what evidence base supports it for your cancer subtype, and how its toxicity profile and manufacturing timeline compare to alternatives. Different approved and investigational products vary meaningfully in these respects. Your oncology team can explain why one product was selected over another based on your diagnosis and prior treatment.</p>"
+          },
+          {
+            "q": "How do I know if my tumor has been tested for the right antigen target?",
+            "a": "<p>CAR-T cell therapy only works if your tumor expresses the antigen the engineered cells are designed to target, so ask whether this has been confirmed through biomarker or pathology testing. If antigen expression hasn't been checked, ask your care team when and how it will be. Eligibility for a specific product depends on this confirmation alongside overall health and prior treatment.</p>"
+          },
+          {
+            "q": "What happens if CAR-T cell manufacturing fails?",
+            "a": "<p>Manufacturing failure occurs in an estimated 5-10% of CAR-T attempts, so it's worth asking your centre what the contingency plan is if your cells don't pass quality control. Options may include a repeat collection, an alternative product, or a different treatment pathway, depending on your situation. This should be discussed with your treating team before leukapheresis begins.</p>"
+          },
+          {
+            "q": "Why does a treatment centre's CAR-T experience matter?",
+            "a": "<p>Centres that perform a higher volume of CAR-T infusions annually tend to have more experience managing complications like cytokine release syndrome (CRS) and ICANS, which may be reflected in their outcomes data. Ask a prospective centre directly for their annual infusion numbers and their Grade 3-4 CRS and ICANS rates, since these can differ from published trial averages. This is a reasonable question to ask before choosing where to be treated.</p>"
+          },
+          {
+            "q": "What should I ask if I respond to CAR-T but later relapse?",
+            "a": "<p>Ask your care team what treatment options would be available if you respond to CAR-T initially but later relapse, before you begin therapy rather than after. Next steps may include a different CAR-T product, a clinical trial, or other treatment approaches depending on how the relapse presents. Understanding this in advance does not guarantee a specific outcome but helps you plan with your oncology team.</p>"
+          },
+          {
+            "q": "Is it worth getting a second opinion before starting CAR-T therapy?",
+            "a": "<p>A second opinion at another high-volume centre can be worth considering, particularly to check whether a different approach, product, or trial might apply to your case. Some patients find this changes or confirms their original treatment plan, though results vary by individual case. This decision should be made in consultation with your current treating oncologist.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients prepare questions for a CAR-T consultation?",
+            "a": "<p>CancerFax helps patients organize their medical reports and pathology results, identify relevant CAR-T specialists and treatment centres, and prepare specific, informed questions like the ones above ahead of a consultation. CancerFax does not make treatment decisions or recommend a specific product — those decisions are made by the treating oncology team based on your full case history.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

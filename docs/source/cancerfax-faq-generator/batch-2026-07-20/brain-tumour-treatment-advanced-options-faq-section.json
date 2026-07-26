@@ -1,0 +1,119 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "brain-tumour-treatment-advanced-options",
+  "route": "/guides/brain-tumour-treatment-advanced-options",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "Understanding Brain Tumour Treatment",
+        "items": [
+          {
+            "q": "What is the difference between a primary brain tumour and a brain metastasis?",
+            "a": "<p>A primary brain tumour originates from cells within the brain itself, such as glial cells or neurons, while a brain metastasis is cancer that has spread to the brain from another organ, most often the lungs, breast, or skin. Primary tumours account for roughly 40% of intracranial tumours and are graded WHO 1 to 4 based on molecular and proliferative features, whereas brain metastases are more common overall, making up about 60% of intracranial malignancies and arising most frequently from non-small cell lung cancer, breast cancer, melanoma, colorectal cancer, and renal cell carcinoma.</p><p>Treatment approach differs significantly between the two, so accurate diagnosis through imaging and pathology is essential, and the treating oncology team should confirm tumour origin before finalizing a treatment plan.</p>"
+          },
+          {
+            "q": "What is glioblastoma (GBM) and why is it considered the most aggressive brain tumour?",
+            "a": "<p>Glioblastoma is a WHO grade 4, IDH-wildtype brain tumour that accounts for 45-50% of all primary malignant brain tumours and is considered the most aggressive because of its rapid growth and near-universal recurrence. Standard treatment follows the Stupp protocol — concomitant temozolomide during 60 Gy radiotherapy followed by six adjuvant chemotherapy cycles — the global standard since 2005, with median survival around 14-16 months, rising to 20-24 months in patients whose tumours show MGMT gene methylation.</p><p>Because GBM recurs in nearly all patients, usually within 6-8 months, ongoing monitoring and early discussion of further treatment or clinical trial options with a specialist neuro-oncology team is important.</p>"
+          },
+          {
+            "q": "What does the WHO 2021 classification mean for brain tumour diagnosis?",
+            "a": "<p>The WHO 2021 classification means brain tumours are now diagnosed using molecular biomarkers such as IDH mutation, 1p/19q co-deletion, TERT promoter status, and CDKN2A/B deletion, not just how the tissue looks under a microscope. This matters because two tumours that appear histologically identical can be classified — and treated — completely differently based on their molecular profile; for example, CDKN2A/B homozygous deletion can upgrade an IDH-mutant astrocytoma to the most aggressive grade 4 category even without classic signs of necrosis.</p><p>Patients should ask whether comprehensive molecular testing, not only standard histology, was performed on their tumour sample, as this may change eligibility for certain targeted therapies.</p>"
+          },
+          {
+            "q": "What is oligodendroglioma and why does it have a better prognosis than other gliomas?",
+            "a": "<p>Oligodendroglioma is a primary brain tumour defined by the combination of IDH mutation and 1p/19q chromosomal co-deletion, and it carries the best long-term prognosis of any primary high-grade glioma, with median survival exceeding 14 years when treated with radiotherapy plus PCV chemotherapy. Its favorable outcome is linked to strong chemosensitivity conferred by the co-deletion, which is why confirming 1p/19q status through FISH or chromosomal SNP array testing is considered mandatory at diagnosis.</p><p>Because treatment protocols and expected outcomes differ substantially from IDH-wildtype tumours, molecular confirmation should be reviewed with a neuro-oncology specialist before a treatment plan is finalized.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for tumour treating fields (TTFields/Optune) therapy?",
+            "a": "<p>Tumour treating fields therapy, delivered through the Optune device, may be considered for newly diagnosed glioblastoma patients whose tumours show MGMT gene methylation, typically added to adjuvant temozolomide after completion of the Stupp protocol. In the EF-14 trial, adding TTFields improved median overall survival to 20.9 months compared with 16.0 months with chemotherapy alone, and two-year survival rose from 29% to 43%.</p><p>Eligibility depends on MGMT methylation status, overall health, and the ability to wear the scalp transducer array consistently, so candidacy should be confirmed by the treating oncology and neurosurgery team.</p>"
+          },
+          {
+            "q": "What happens during an awake craniotomy for a brain tumour?",
+            "a": "<p>An awake craniotomy is a surgical technique in which the patient is kept conscious during part of the operation and asked to perform speech, movement, or other tasks so the surgical team can identify and protect functional brain tissue in real time. It is used specifically for tumours located in or near eloquent areas such as the language and motor cortex, where standard resection under general anaesthesia risks permanent neurological deficit.</p><p>The procedure is typically combined with other intraoperative technologies such as neuronavigation and electrophysiological monitoring, and whether it is appropriate depends on tumour location and the patient's ability to tolerate the awake portion, which the neurosurgical team will assess beforehand.</p>"
+          },
+          {
+            "q": "What are the risks of stereotactic radiosurgery (Gamma Knife/CyberKnife) for brain tumours?",
+            "a": "<p>Stereotactic radiosurgery is generally well tolerated but carries risks including radiation necrosis, temporary swelling, headache, and, less commonly, new neurological symptoms depending on the treated area, and its suitability depends on tumour size, number, and location. Gamma Knife is typically used for lesions under 3cm and up to about 10 brain metastases, while CyberKnife's frameless, multi-angle delivery makes it an option for tumours near the skull base or spine, sometimes delivered over 3-5 fractions rather than a single session.</p><p>Because radiosurgery is not appropriate for every tumour type or size, the choice of platform and its risk profile should be reviewed by a radiation oncologist familiar with the specific case.</p>"
+          },
+          {
+            "q": "What molecular tests are needed before starting brain tumour treatment?",
+            "a": "<p>A newly diagnosed diffuse glioma should be tested for IDH1/2 mutation, MGMT methylation, 1p/19q co-deletion, TERT promoter status, H3K27M mutation, and CDKN2A/B deletion, since missing any of these markers can lead to incorrect classification and a suboptimal treatment plan. MGMT methylation is considered the single most important biomarker in glioblastoma because it predicts benefit from temozolomide and informs the TTFields decision, while H3K27M defines diffuse midline glioma and determines eligibility for agents such as ONC201.</p><p>Patients should confirm with their treating centre that this full molecular panel, not a partial test, has been completed before finalizing a treatment strategy, and any decision based on these results should involve a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Countries",
+        "items": [
+          {
+            "q": "How much does brain tumour treatment cost in India compared to the USA?",
+            "a": "<p>Brain tumour treatment packages covering surgery, radiotherapy, and initial systemic therapy are estimated to cost significantly less in India than in the USA, with centres such as NIMHANS Bangalore reporting costs 60-70% lower than Western Europe for comparable procedures. Exact costs vary by tumour type, extent of surgery, radiation technique, and length of hospital stay, and quoted packages generally exclude ongoing adjuvant chemotherapy cycles, TTFields device rental, and follow-up MRI.</p><p>Because pricing depends heavily on individual case complexity, patients should request an itemized estimate from the specific hospital and confirm it with their care coordinator before travel.</p>"
+          },
+          {
+            "q": "What does proton therapy for a paediatric brain tumour cost, and where is it available?",
+            "a": "<p>Proton therapy for paediatric brain tumours is available internationally at specialist particle therapy centres such as the Shanghai Proton and Heavy Ion Center (SPHIC) in China, and estimated costs form part of a broader cost comparison across China, India, and the USA for this treatment category. Proton therapy is particularly valued in children with tumours such as medulloblastoma, ependymoma, and craniopharyngioma because its Bragg peak delivery reduces integral radiation dose to the developing brain, lowering the risk of long-term neurocognitive effects.</p><p>Because proton therapy pricing depends on the number of fractions and additional care needs, families should request a detailed cost breakdown directly from the treating centre, with final decisions made alongside the paediatric oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer Gamma Knife radiosurgery for brain metastases?",
+            "a": "<p>Gamma Knife radiosurgery for brain metastases is available at specialist centres in multiple countries, including China and India, alongside long-established programs in the USA and Europe, and it is generally suited to lesions under 3cm and up to about 10 metastases. In China, Tiantan Hospital Beijing offers Gamma Knife alongside a full suite of neurosurgical technology, while in India, hospital networks such as Fortis, Apollo, and Tata Memorial provide Gamma Knife and LINAC-based radiosurgery for international patients.</p><p>Whether a specific centre can accept a given patient depends on case review, tumour characteristics, and logistics such as visa and travel, and should be confirmed directly with the hospital.</p>"
+          },
+          {
+            "q": "Why do patients travel to China or India for brain tumour surgery?",
+            "a": "<p>Patients travel to China or India for brain tumour surgery mainly to access advanced neurosurgical technology, comprehensive molecular testing, and specialist neuro-oncology expertise at substantially lower cost than in Western countries. Tiantan Hospital Beijing performs more than 10,000 brain tumour operations annually and offers the full intraoperative technology suite including iMRI, 5-ALA fluorescence guidance, and awake craniotomy, alongside access to investigational agents like vorasidenib and CAR-T trials, while NIMHANS Bangalore and major Indian private hospital networks offer comparable neuro-oncology capability.</p><p>Suitability for cross-border treatment depends on individual case complexity and should be assessed with both the referring and receiving oncology teams before travel plans are made.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Clinical Trials and Advanced Options",
+        "items": [
+          {
+            "q": "Is vorasidenib available for IDH-mutant glioma, and who qualifies?",
+            "a": "<p>Vorasidenib, sold as Voranigo, is an FDA-approved oral dual IDH1/2 inhibitor that may be considered for patients with IDH1/2-mutant grade 2 glioma, based on the INDIGO trial showing progression-free survival of 27.7 months compared with 11.1 months on placebo. Approved in August 2024, it is notable for being CNS-penetrant, a longstanding challenge for brain tumour drug development, but eligibility depends on confirmed IDH mutation status, tumour grade, and prior treatment history.</p><p>Whether vorasidenib is an appropriate option for a specific patient should be determined through molecular testing and review by a specialist neuro-oncology team.</p>"
+          },
+          {
+            "q": "What is CAR-T cell therapy for brain tumours and how effective is it currently?",
+            "a": "<p>CAR-T cell therapy for brain tumours is an experimental approach that engineers a patient's own immune cells to target tumour-specific markers such as EGFRvIII, IL13Rα2, GD2, B7-H3, or HER2, with early-phase trials showing responses particularly when the cells are delivered directly into the tumour or ventricular space. It remains investigational for brain tumours, unlike its established use in some blood cancers, and current evidence comes mainly from early-phase studies rather than large randomized trials.</p><p>Enrollment and potential benefit depend on tumour antigen expression, trial availability, and specialist review, and CAR-T access for brain tumours should be discussed with a neuro-oncology centre running active trials.</p>"
+          },
+          {
+            "q": "Why have checkpoint inhibitors failed in glioblastoma clinical trials?",
+            "a": "<p>Checkpoint inhibitors have failed to improve survival in unselected glioblastoma patients in large randomized trials such as CheckMate 143 and CheckMate 498/548, largely because of the brain tumour's immunosuppressive microenvironment, low mutational burden, and the blood-brain barrier limiting immune cell access. Despite these negative phase III results, biomarker-selected patient subgroups and combination approaches, including personalised neoantigen vaccines paired with pembrolizumab and TTFields, remain under active investigation at specialist centres.</p><p>Because checkpoint inhibitors are not currently a standard option for glioblastoma outside a trial setting, their use should only be considered through clinical trial enrollment following specialist review.</p>"
+          },
+          {
+            "q": "Is ONC201 (dordavipone) an option for H3K27M-mutant diffuse midline glioma?",
+            "a": "<p>ONC201, also known as dordavipone, may be considered for patients with H3K27M-mutant diffuse midline glioma, a historically treatment-refractory tumour, based on early data showing an objective response rate of approximately 18-20% with some durable responses. It works as a mitochondrial ClpP protease activator and is accessible in some cases through expanded access programmes rather than standard commercial prescription.</p><p>Eligibility depends on confirmed H3K27M mutation status through biopsy and sequencing, and because outcomes vary and enrollment is not guaranteed, access should be pursued through a specialist centre experienced with this specific tumour type.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical and Logistics Questions",
+        "items": [
+          {
+            "q": "How is intraoperative MRI (iMRI) used during brain tumour surgery?",
+            "a": "<p>Intraoperative MRI is a technology that allows surgeons to obtain MRI scans while the patient remains under anaesthesia during surgery, enabling real-time assessment of how much tumour remains so the surgical team can re-enter and resect further tissue before closing. This is particularly valuable in glioma surgery because the extent of safe resection is one of the most important factors influencing prognosis, and standard pre-operative imaging cannot show residual tumour once surgery has begun.</p><p>Availability of iMRI depends on the specific hospital's equipment, and whether it is used for a given case depends on tumour location and the surgical plan set by the neurosurgical team.</p>"
+          },
+          {
+            "q": "Does bevacizumab help with recurrent glioblastoma?",
+            "a": "<p>Bevacizumab, an anti-VEGF antibody approved for recurrent glioblastoma, achieves radiological response in about 28-35% of patients and can reduce symptoms and steroid requirements, but randomized phase III trials have not shown it improves overall survival. It works by blocking blood vessel formation that tumours rely on for growth, and its main clinical value is often symptom control and quality of life rather than a survival benefit.</p><p>Whether bevacizumab is appropriate for a specific patient depends on prior treatment, symptom burden, and specialist review, and should be weighed alongside clinical trial options at first recurrence.</p>"
+          },
+          {
+            "q": "What happens if glioblastoma comes back after initial treatment?",
+            "a": "<p>Glioblastoma recurs in nearly all patients, typically within 6-8 months of completing initial treatment, and at that point clinical trial enrollment is generally considered the priority option given the limited benefit of standard therapies at recurrence. Options that may be discussed include repeat surgery, re-irradiation, bevacizumab for symptom control, or investigational agents and trials matched to the tumour's molecular profile, such as vorasidenib for IDH-mutant tumours.</p><p>Because no single approach has been shown to reliably extend survival at recurrence, the treatment path should be individualised through review by a specialist neuro-oncology multidisciplinary team.</p>"
+          },
+          {
+            "q": "How can CancerFax help me access brain tumour treatment abroad?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team, specifically for complex decisions such as accessing advanced neurosurgical technology, particle therapy, or investigational agents overseas. This can include helping compile molecular test results and imaging for review by centres such as Tiantan Hospital Beijing, SPHIC, or NIMHANS Bangalore, and organising logistics for patients considering cross-border brain tumour care.</p><p>CancerFax does not replace the treating oncology or neurosurgery team, and all treatment decisions, hospital acceptance, and trial eligibility remain subject to specialist review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

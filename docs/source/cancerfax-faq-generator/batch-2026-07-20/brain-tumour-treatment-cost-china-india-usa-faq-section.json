@@ -1,0 +1,59 @@
+{
+  "pillar": "Brain Tumour Treatment: Advanced Options and Global Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "brain-tumour-treatment-cost-china-india-usa",
+  "route": "/guides/brain-tumour-treatment-cost-china-india-usa",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does brain tumour surgery cost in China, India, and the USA?",
+            "a": "<p>Standard craniotomy for glioma resection ranges from roughly $8,000–15,000 in China, $5,000–10,000 in India, and $60,000–120,000 in the USA, with prices rising for more complex procedures such as GBM resection with intraoperative MRI (iMRI) and 5-ALA guidance or awake craniotomy for eloquent-region tumours. These figures represent full episode-of-care pricing, covering hospital stay, surgeon fees, anaesthesia, ICU time, and post-operative monitoring at leading academic centres. Actual pricing depends on tumour location, complexity, length of ICU stay, and imaging requirements, and can only be confirmed after specialist review of a patient's scans and pathology. Final costs should always be verified directly with the treating hospital before travel is arranged.</p>"
+          },
+          {
+            "q": "How much does Gamma Knife radiosurgery or radiation therapy cost internationally?",
+            "a": "<p>Gamma Knife stereotactic radiosurgery for one to three brain metastases runs approximately $3,000–6,000 in China, $2,500–5,000 in India, and $30,000–60,000 in the USA, with costs rising for higher lesion counts or meningioma/AVM treatment. A full 30-fraction IMRT course for a brain tumour typically costs $4,000–8,000 in China versus $30,000–70,000 in the USA, while specialised options like proton or carbon ion therapy at centres such as SPHIC in Shanghai carry higher price points across all three countries. These are benchmark ranges only — the specific technique, number of fractions, and equipment used affect the final quote, which may be confirmed only after the treating radiation oncologist reviews the case.</p>"
+          },
+          {
+            "q": "What is the total cost of a full year of glioblastoma (GBM) treatment abroad?",
+            "a": "<p>A complete first-year GBM treatment episode — craniotomy, 30-fraction radiotherapy concurrent with temozolomide, and six adjuvant temozolomide cycles — typically totals $15,000–35,000 in China and $10,000–25,000 in India, compared with $200,000–400,000 in the USA. This full-year figure reflects the combined surgical, radiation, and chemotherapy pathway rather than a single procedure, making it a more useful benchmark for understanding total financial exposure. Actual totals depend on tumour genetics, response to treatment, number of chemotherapy cycles required, and whether additional imaging or hospitalisation is needed. These are approximate planning figures; a patient-specific estimate depends on the treating hospital reviewing the individual case and treatment plan.</p>"
+          },
+          {
+            "q": "Why do brain tumour treatment costs differ so much between countries?",
+            "a": "<p>The cost gap mainly reflects structural differences in healthcare systems, not differences in surgical outcomes. US pricing includes high administrative overhead, insurer negotiation markups, malpractice insurance, unregulated pharmaceutical pricing, and fee-for-service billing, while China and India benefit from lower relative clinical staff salaries, government-subsidised hospital infrastructure, high patient volumes that improve efficiency, and direct self-pay pricing without insurer markup. Together these factors may produce cost reductions of roughly 50–85% for equivalent high-technology procedures such as craniotomy or Gamma Knife radiosurgery. This is a general pattern seen in published pricing data; the exact reduction for any individual case depends on the specific procedure, hospital, and treatment complexity, and should be confirmed through a direct estimate from the treating centre.</p>"
+          },
+          {
+            "q": "What is typically included in a brain tumour treatment cost estimate — and what might not be?",
+            "a": "<p>Published cost ranges for procedures like craniotomy or Gamma Knife generally cover the full episode of care — hospital stay, surgeon fees, anaesthesia, ICU time, and post-operative monitoring at the treating centre. They typically do not include international flights, visa fees, accommodation for the patient and a companion (often three to eight weeks for radiation courses), interpreter services, or return travel, all of which add materially to the total trip cost. Drug costs for ongoing therapies such as temozolomide or targeted agents are usually itemised separately from surgical or radiation fees. Because inclusions vary by hospital and case, patients should request an itemised quote and confirm what is and is not covered before committing to travel.</p>"
+          },
+          {
+            "q": "Are these published cost figures reliable for planning an actual treatment budget?",
+            "a": "<p>The figures represent approximate benchmarks drawn from published data and partner-centre pricing, useful as a starting point for initial planning rather than a fixed quote. Actual costs depend on case complexity, procedure duration, ICU requirement, number of MRI scans, drug doses, and whether complications extend the hospital stay. Two patients with the same diagnosis may see meaningfully different final bills depending on tumour location and response to treatment. A patient-specific cost estimate can be generated once a hospital's specialist team has reviewed the actual medical records, imaging, and proposed treatment plan — this is the only reliable way to move from a general benchmark to a number a family can budget against.</p>"
+          },
+          {
+            "q": "Is the quality of brain tumour care in China or India comparable to the USA?",
+            "a": "<p>At the specific high-volume academic centres commonly referenced for international patients, surgical and radiation technology is generally reported to be equivalent to what is available at most Western centres, with hospitals such as Tiantan and Huashan performing very high volumes of glioma resections annually. Surgical volume is often cited as a relevant factor in outcomes for complex neurosurgery. That said, quality and appropriateness of care depend on the specific hospital, surgical team, and individual case — not every centre in every country offers the same level of expertise, and no treatment outcome can be guaranteed. Patients should rely on documented outcome data and specialist review of their own case rather than country-level assumptions.</p>"
+          },
+          {
+            "q": "Does international health insurance cover brain tumour treatment in China or India?",
+            "a": "<p>Coverage varies significantly by policy — some international and expatriate health insurance plans do reimburse treatment at accredited overseas hospitals, while many domestic US policies do not extend outside the country. Pursuing coverage typically requires supporting medical documentation for a pre-authorisation request, which a specialist team can help prepare. For self-pay patients, the total out-of-pocket cost for a full GBM treatment episode in China may be lower than the insurance copay or deductible for equivalent care in the USA, though this depends on the specific policy and treatment plan. Whether a claim is approved is determined by the insurer, not the treating hospital, so coverage should be confirmed directly with the insurance provider before travel.</p>"
+          },
+          {
+            "q": "What additional costs beyond treatment — travel, visa, accommodation — should be budgeted for?",
+            "a": "<p>Beyond the medical bill itself, patients travelling for brain tumour treatment should budget for international flights, visa fees, accommodation for themselves and an accompanying caregiver — often three to eight weeks when a radiation course is involved — interpreter services, local transport, and return travel. These logistics costs can add several thousand dollars to the total trip, though in most reported cases the combined total, including travel, remains substantially below the equivalent treatment-only cost in the USA. Exact logistics costs depend on treatment duration, city, and whether a companion accompanies the patient. A comprehensive trip cost estimate covering both medical and non-medical expenses should be requested from the coordinating team before finalising travel plans.</p>"
+          },
+          {
+            "q": "How can CancerFax help with the cost and logistics of brain tumour treatment abroad?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or hospitals in China, India, and other centres, estimate possible costs based on the individual case, and coordinate second opinions, travel, visa, and follow-up support throughout the treatment journey. This support is particularly relevant for brain tumour patients, where cost differences between countries can be substantial and treatment pathways often involve surgery, radiation, and chemotherapy sequenced across several months. CancerFax does not set prices or determine treatment protocols — final treatment decisions and costs are always confirmed by the treating medical team and hospital based on the patient's actual records and case review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

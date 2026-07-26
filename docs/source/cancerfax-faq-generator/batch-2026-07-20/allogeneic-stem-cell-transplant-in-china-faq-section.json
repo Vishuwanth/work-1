@@ -1,0 +1,59 @@
+{
+  "pillar": "Allogeneic Stem Cell Transplant in China — A Patient Guide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "allogeneic-stem-cell-transplant-in-china",
+  "route": "/guides/allogeneic-stem-cell-transplant-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is an allogeneic stem cell transplant?",
+            "a": "<p>An allogeneic stem cell transplant replaces a patient's diseased bone marrow with healthy blood-forming stem cells collected from a matched or partially matched donor, following a conditioning regimen of chemotherapy with or without radiation. Donor immune cells engraft in the marrow and rebuild the patient's blood and immune system, while also recognizing and attacking residual cancer cells through the graft-versus-tumor effect — a key reason this procedure can be curative in blood cancers such as leukemia and lymphoma. Stem cells may be sourced from peripheral blood, bone marrow, or umbilical cord blood depending on the donor and disease. This differs from autologous transplant, which uses a patient's own stem cells.</p>"
+          },
+          {
+            "q": "Am I eligible for an allogeneic stem cell transplant in China?",
+            "a": "<p>Eligibility for allogeneic stem cell transplant in China depends on cancer type, disease stage, donor availability, organ function, and specialist review by the treating transplant team. Blood cancers such as AML, ALL, and MDS, along with severe aplastic anemia, thalassemia, and sickle cell disease, are among the conditions where transplant may be considered a curative option for suitable candidates. A structured case review — including diagnosis, prior treatment, organ function, and family donor situation — helps clarify whether transplant is realistic and timely for a given patient. Because outcomes vary by individual case, eligibility should always be confirmed through direct evaluation by a qualified oncology or transplant team rather than assumed from general information.</p>"
+          },
+          {
+            "q": "What donor options exist if I do not have a matched sibling donor?",
+            "a": "<p>Patients without a fully HLA-matched sibling may still be eligible for transplant using a matched unrelated donor from an international registry, a haploidentical half-matched family donor, or umbilical cord blood, depending on availability and disease urgency. Only about 25 to 30 percent of patients have a matched sibling, so alternative donor strategies are common in practice. Matched unrelated donor availability varies by ethnicity and tends to be lower for patients of South Asian, Middle Eastern, African, and mixed ancestry. Haploidentical transplant, using a half-matched parent, child, or sibling, has been refined extensively at Chinese transplant centers and is often the most accessible option for these families. The right donor strategy depends on individual HLA typing and should be assessed by a transplant specialist.</p>"
+          },
+          {
+            "q": "Why is China particularly known for haploidentical stem cell transplant?",
+            "a": "<p>China is recognized for haploidentical stem cell transplant because its centers developed and scaled half-matched donor protocols, including the Beijing Protocol, across tens of thousands of cases over the past two decades. This large-scale experience has made haploidentical transplant outcomes comparable to matched-donor transplant in many disease categories, based on the treating centers' reported experience. For families without a matched sibling or registry donor — common among many Asian, Middle Eastern, and African patients — this approach is often the most accessible curative pathway available. Suitability still depends on the patient's specific disease, donor health, and overall fitness, and should be confirmed through specialist review before treatment planning proceeds.</p>"
+          },
+          {
+            "q": "Who can serve as a haploidentical donor for a family member?",
+            "a": "<p>Any first-degree relative who shares half of the patient's HLA type — typically a parent, child, or partially matched sibling — can potentially serve as a haploidentical donor for allogeneic transplant. Donor suitability also depends on age, general health, infection status, and blood type compatibility with the recipient. When multiple family members are eligible, the transplant team selects the best candidate by weighing factors such as donor age, sex, CMV status, and specific HLA features. This flexibility is a major reason haploidentical transplant has expanded access for patients who lack a fully matched sibling or registry donor. Final donor selection remains a clinical decision made by the treating transplant team.</p>"
+          },
+          {
+            "q": "What is graft-versus-host disease and how is it managed?",
+            "a": "<p>Graft-versus-host disease, or GVHD, occurs when donor immune cells recognize the recipient's own tissues as foreign, causing inflammation that can affect the skin, gut, liver, and other organs. Acute GVHD typically develops within the first 100 days after transplant, while chronic GVHD can appear later and affect a broader range of organs including the eyes, mouth, and lungs. GVHD carries risk but is also linked to the graft-versus-tumor effect that helps prevent cancer relapse, so it is managed rather than eliminated entirely. Modern haploidentical protocols use strategies such as post-transplant cyclophosphamide to help keep GVHD rates manageable. Individual risk and management approach depend on donor type and should be discussed with the transplant team.</p>"
+          },
+          {
+            "q": "What are the risks of allogeneic transplant?",
+            "a": "<p>Allogeneic stem cell transplant carries real risks including graft-versus-host disease, infections, graft failure, organ toxicity, and disease relapse, and it is not a risk-free procedure for any patient. Transplant-related mortality has declined substantially over the past two decades as protocols have improved, but it remains a factor that must be weighed against the risks of the underlying disease itself. The first 100 days after transplant carry the highest risk for infection and acute GVHD and require close monitoring. Because risk levels vary significantly by disease, donor type, and patient fitness, a full risk assessment should always be made by the treating transplant team based on the individual case.</p>"
+          },
+          {
+            "q": "How long do I need to stay in China for a stem cell transplant?",
+            "a": "<p>Most international patients should plan for roughly three to six months on-site in China to complete pre-transplant workup, conditioning, the transplant itself, and the early engraftment period. The first 100 days after transplant carry the highest risk for infection and GVHD and require close in-country monitoring by the transplant team. Outpatient follow-up commonly continues for another six to twelve months, though many patients are able to return home for ongoing care under a local hematologist once the highest-risk period has passed. Exact duration depends on the individual's disease, donor type, and recovery, and should be planned in coordination with the treating center.</p>"
+          },
+          {
+            "q": "How much does a bone marrow transplant cost in China?",
+            "a": "<p>Cost for an allogeneic stem cell transplant in China varies widely depending on the hospital, conditioning regimen, length of stay, blood product needs, and whether ICU or extended infection management is required, so no single figure applies to all patients. Centers differ in transplant volume, disease focus, and donor strategy, all of which can affect the overall treatment plan and associated cost. Patients are generally advised to request a detailed cost estimate directly from the specific transplant center once a case has been reviewed and a donor strategy identified. Final cost figures depend on the individual treatment plan and should be confirmed with the hospital and specialist team rather than estimated in advance.</p>"
+          },
+          {
+            "q": "Can children receive allogeneic transplant in China, and how does CancerFax help?",
+            "a": "<p>Yes, several Chinese centers run high-volume pediatric transplant programs for conditions such as thalassemia major, sickle cell disease, severe aplastic anemia, inherited immune disorders, and pediatric leukemias, though suitability depends on the child's specific diagnosis and specialist review. Pediatric cases require particular attention to center selection given the need for specialized pediatric ICU support, infection management, and long-term follow-up. CancerFax helps patients organize medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel, visa, and follow-up support alongside the treating oncology team. Final treatment decisions for any patient, including children, should be made by the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

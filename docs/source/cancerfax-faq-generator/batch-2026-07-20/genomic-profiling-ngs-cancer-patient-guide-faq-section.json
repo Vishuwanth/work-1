@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Diagnosis and Staging: Understanding Your Reports",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "genomic-profiling-ngs-cancer-patient-guide",
+  "route": "/insights/genomic-profiling-ngs-cancer-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is genomic profiling and NGS testing?",
+            "a": "<p>Genomic profiling is the process of testing a tumor sample to identify the genetic changes driving its growth, and next-generation sequencing (NGS) is the technology most commonly used to do this. NGS can analyze dozens to hundreds of cancer-related genes simultaneously from a single sample, ranging from focused hotspot panels to comprehensive genomic profiling covering 300 to 500+ genes, whole exome or whole genome sequencing, and blood-based liquid biopsy. Tests also distinguish between somatic alterations acquired by the tumor and inherited germline variants, which matters for both treatment planning and family screening. Because test types and scope vary widely, the most appropriate option depends on cancer type, stage, and specialist review, and should be discussed with a qualified oncology team before choosing a panel.</p>"
+          },
+          {
+            "q": "Why would my oncologist recommend genomic profiling?",
+            "a": "<p>Genomic profiling is recommended to identify driver mutations, gene fusions, and other molecular changes that may influence treatment choices. It can detect alterations such as EGFR, KRAS, BRAF, and BRCA1/2 mutations, ALK, ROS1, or NTRK fusions, HER2 or MET amplification, microsatellite instability, tumor mutation burden, and resistance mutations that explain why a prior therapy stopped working. Each finding is classified by clinical significance as actionable, potentially actionable, or of uncertain significance based on current evidence. Whether profiling is recommended for a particular case may depend on cancer type, stage, and prior treatment history, and the decision should always involve the treating oncology team rather than being based on the test alone.</p>"
+          },
+          {
+            "q": "What is the difference between NGS and a standard pathology report?",
+            "a": "<p>Standard pathology and immunohistochemistry (IHC) testing confirm the type of cancer and check a small number of well-established markers, while NGS reads the tumor's DNA to identify a much broader set of gene-level changes at once. Pathology answers what kind of cancer is present, while genomic profiling looks deeper into what may be driving it and which treatment approaches could be relevant. NGS does not replace pathology — it builds on it, and results are typically reviewed together. Because interpretation depends on the full clinical picture, findings from either test should be discussed with a qualified oncology team rather than read in isolation.</p>"
+          },
+          {
+            "q": "Do I need genomic profiling or NGS testing for my cancer?",
+            "a": "<p>Not every patient needs genomic profiling. It is most often considered for advanced or metastatic cancers, rare cancers, sarcomas, cancer of unknown primary, and cancers where multiple targeted therapy options exist, such as lung, colorectal, breast, ovarian, prostate, and biliary cancers. For some early-stage cancers with a clear standard treatment pathway, testing may not change the immediate plan. Whether NGS is likely to be useful depends on cancer type, stage, and specialist review of the individual case. This decision should always be made together with the treating oncology team, who can weigh the potential benefit against cost and timing.</p>"
+          },
+          {
+            "q": "What can genomic profiling tell me, and what are its limits?",
+            "a": "<p>Genomic profiling can reveal actionable mutations, fusions, biomarkers such as MSI-H and tumor mutation burden, and resistance mutations, information that may open access to targeted therapies, immunotherapy, or clinical trials. However, results do not guarantee a treatable mutation will be found. In some cases, testing shows no actionable driver, only variants of uncertain significance, or resistance mutations without a matching therapy currently available. Genomic profiling is best understood as information that supports clinical decision-making rather than a promise of a new treatment option. Any findings, actionable or not, should be reviewed against the full clinical picture, ideally by a molecular tumor board or qualified oncologist, before treatment decisions are made.</p>"
+          },
+          {
+            "q": "What samples or documents are needed for NGS testing?",
+            "a": "<p>A meaningful NGS report generally requires adequate tumor tissue, most often a formalin-fixed paraffin-embedded (FFPE) block or unstained slides with sufficient tumor cellularity, along with pathology and IHC reports, a recent medical summary, diagnosis and treatment history, imaging reports such as PET-CT, CT, or MRI, and recent blood work including liver and kidney function. A blood sample may also be needed for matched germline analysis or for liquid biopsy testing. If tissue is older than three years, low in tumor content, or insufficient in quantity, a liquid biopsy may be considered as an alternative or complementary option, depending on specialist review of the case.</p>"
+          },
+          {
+            "q": "How do NGS results guide treatment decisions?",
+            "a": "<p>NGS results are matched against known driver mutations, fusions, and biomarkers to identify which approved therapies, biosimilars, or clinical trials may be relevant to a specific tumor profile. Findings such as HER2 or MET amplification, MSI-H status, tumor mutation burden, or homologous recombination deficiency can each point toward different treatment classes, from targeted therapy to immunotherapy to PARP inhibitors. Because a single result rarely tells the full story, findings are typically reviewed against the complete clinical picture, ideally involving a molecular tumor board or qualified oncologist, before any treatment decision is made. The treating medical team remains responsible for translating genomic findings into an actual treatment plan.</p>"
+          },
+          {
+            "q": "Can liquid biopsy replace tissue-based NGS testing?",
+            "a": "<p>Liquid biopsy is a blood-based NGS test that can detect tumor DNA shed into the bloodstream, and it is useful when tissue is unavailable, aged, or insufficient, or when monitoring treatment response and resistance over time. It is generally faster than tissue-based testing, often returning results in seven to fourteen days compared with two to three weeks for tissue NGS. However, liquid biopsy can miss findings in tumors that shed little DNA into the blood and does not always provide a complete picture. In many situations, tissue NGS remains the preferred starting point, with liquid biopsy used as a complement, and the appropriate approach depends on the individual case and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How much does genomic profiling cost, and how long does it take?",
+            "a": "<p>NGS pricing varies significantly based on panel size, laboratory, and country, with hotspot panels generally the most affordable and comprehensive genomic profiling, whole exome sequencing, and liquid biopsy typically costing more. Turnaround time is usually two to three weeks from sample receipt for tissue-based NGS and seven to fourteen days for liquid biopsy, though comprehensive panels with germline analysis may take longer. Final cost and timeline depend on lab selection, panel choice, and any additional tests requested, and may also be affected by insurance coverage, which varies widely by country and indication. Patients should discuss realistic cost and timing expectations with their treating oncology team or a qualified patient-navigation service before proceeding.</p>"
+          },
+          {
+            "q": "Where can I access genomic profiling internationally, and how can CancerFax help?",
+            "a": "<p>Reliable NGS testing is now available at major cancer centers globally, with India offering cost-effective comprehensive genomic profiling through multiple accredited laboratories, China operating a mature genomics ecosystem supporting clinical care and trial enrollment, and Germany, the United States, Singapore, and Japan all running well-established platforms. The right choice between local, regional, and international labs may depend on cancer type, panel coverage, expected actionability, turnaround time, and cost rather than lab brand alone. CancerFax helps patients organize medical reports, identify relevant specialists or hospitals, estimate possible costs, and coordinate second opinions, travel, visa, and follow-up support. Treatment decisions are always made by the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}
