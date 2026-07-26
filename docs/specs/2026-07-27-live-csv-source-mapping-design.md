@@ -212,10 +212,22 @@ Canonical shape, verified across all 56 files in `batch-2026-07-20/`:
 | `sectionToMerge.intro` | optional; omitted by default (present in only 4 of 56) |
 | `groups[].title` | `""` for support pages; a themed title for pillar pages |
 | `items[]` | `{ q, a }` |
-| `a` | HTML, wrapped in `<p>…</p>`; no other tags |
+| `a` | HTML, one or more `<p>…</p>` blocks; no other tags |
 
 Answer HTML uses only `<p>` — 699 occurrences across the batch, with no lists,
 headings, or bold.
+
+**Answers may hold more than one paragraph.** Several shipped fixtures use a
+quotable lead paragraph followed by supporting context:
+
+```html
+<p>International patients typically have access to…</p><p>Broader support…</p>
+```
+
+An earlier draft of this spec required a single `<p>`, inferred from the balanced
+699 `<p>` / 699 `</p>` counts. That inference was wrong — balanced tags do not
+imply one per answer. Five shipped fixtures use multiple paragraphs. The rule is
+"one or more `<p>` blocks, no other tag".
 
 ### 3.2 Changes to `lib/types.ts`
 
@@ -318,7 +330,7 @@ Checks:
 2. Pillar pages have 4–5 groups; support pages have exactly 1 group with
    `title: ""`.
 3. Every item has non-empty `q` and `a`.
-4. Every `a` is wrapped in `<p>` and contains no tag other than `<p>`.
+4. Every `a` is one or more `<p>…</p>` blocks and contains no tag other than `<p>`.
 5. No `⚠` character anywhere in the fixture.
 6. `route` equals `/<collection>/<slug>`.
 7. `contentType` is the Title-case of `collection`.
