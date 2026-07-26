@@ -1,0 +1,62 @@
+{
+  "pillar": "Stem Cell Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cost-of-stem-cell-transplant-worldwide",
+  "route": "/insights/cost-of-stem-cell-transplant-worldwide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of Stem Cell Transplant Worldwide",
+    "intro": "Stem cell transplant costs vary widely by country, transplant type, and hospital. These answers explain typical price ranges and what shapes the final bill for international patients.",
+    "groups": [
+      {
+        "title": "Understanding Transplant Costs",
+        "items": [
+          {
+            "q": "How much does a stem cell transplant cost worldwide?",
+            "a": "<p>Stem cell transplant costs typically range from about US$25,000 to US$400,000 or more, depending heavily on the country, transplant type, and hospital. Autologous transplants usually cost less than allogeneic ones, and matched-unrelated-donor procedures cost more still. These figures are broad estimates only; the final cost depends on diagnosis, protocol, length of stay, complications, and the treating team's advice, and should be confirmed directly with each hospital.</p>"
+          },
+          {
+            "q": "Why is an allogeneic transplant more expensive than an autologous transplant?",
+            "a": "<p>Allogeneic transplants cost more because they use cells from a donor rather than the patient, adding several complex steps. Costs rise from donor searching, matching, and registry fees, longer hospital stays, more intensive monitoring, and managing graft-versus-host disease and infection risk. Autologous transplants reuse the patient's own cells, avoiding donor and rejection-related expenses. Actual pricing varies by center and patient condition and should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What factors affect the total cost of a stem cell transplant?",
+            "a": "<p>The total cost depends on transplant type, cancer type, stage, and the hospital's country and reputation. Major cost drivers include pre-transplant tests, conditioning chemotherapy, donor search and matching, length of hospital stay, intensive-care needs, medications, and management of complications like infections or graft-versus-host disease. Follow-up care also adds to the total. Because these factors differ for every patient, final costs should be confirmed with the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Costs by Country and Access",
+        "items": [
+          {
+            "q": "Which countries offer more affordable stem cell transplants?",
+            "a": "<p>Countries such as India, Turkey, and Thailand are often noted for lower stem cell transplant costs compared with the United States, United Kingdom, or Singapore. India, for example, may offer procedures at a fraction of Western prices while maintaining accredited transplant centers. However, lower headline costs do not guarantee acceptance or suitability. Final pricing and eligibility depend on hospital review, diagnosis, and the treating team's assessment.</p>"
+          },
+          {
+            "q": "How much does a stem cell transplant cost in India?",
+            "a": "<p>In India, stem cell transplant costs generally range from about US$18,000 to US$50,000, with autologous procedures usually at the lower end and allogeneic at the higher end. These are estimated ranges that vary by hospital, city, transplant type, and complications. Costs may rise significantly if extended intensive care or additional treatment is needed. Patients should request a detailed written estimate from the specific hospital before planning travel.</p>"
+          },
+          {
+            "q": "Does the cost include donor search and post-transplant care?",
+            "a": "<p>Not always—many quoted prices cover only the transplant admission itself. Donor registry searches, matching tests, extended intensive care, medications, and long-term follow-up may be billed separately. Costs can also increase if complications such as infection or graft-versus-host disease require additional treatment. Because inclusions differ between hospitals, patients should ask for an itemized estimate clarifying exactly what is and is not covered before committing.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "What additional expenses should international patients plan for?",
+            "a": "<p>International patients should budget for costs beyond the transplant itself, including flights, visa fees, local accommodation, and an extended stay during recovery. Additional expenses may include interpreter services, caregiver travel, repeat blood tests, medications, and follow-up consultations. Because transplant recovery can require weeks or months near the hospital, these living costs add up. Access also depends on hospital acceptance, medical review, and visa approval, none of which can be guaranteed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of stem cell transplant?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help compare options across countries so patients understand likely price ranges before deciding. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and final costs are confirmed by the treating hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

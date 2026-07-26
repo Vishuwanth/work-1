@@ -1,0 +1,66 @@
+{
+  "pillar": "Stem Cell Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-to-ask-before-stem-cell-transplant",
+  "route": "/insights/questions-to-ask-before-stem-cell-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions to Ask Before Stem Cell Transplant",
+    "intro": "If you or a loved one is considering a stem cell transplant, asking the right questions helps you understand the procedure, weigh the risks, and prepare for recovery. These answers cover the key topics patients and caregivers should discuss with their transplant team.",
+    "groups": [
+      {
+        "title": "Understanding the Transplant and Its Purpose",
+        "items": [
+          {
+            "q": "What questions should I ask before a stem cell transplant?",
+            "a": "<p>Before a stem cell transplant, ask why it is recommended, what type is planned, and what outcome your team expects. Useful questions include the transplant's goal, the specific risks for your diagnosis, the expected hospital stay, and the recovery timeline. You may also ask about donor matching, conditioning chemotherapy, fertility, and long-term follow-up. The right questions depend on your cancer type, stage, overall health, and treatment history, and should be discussed with your treating oncology team.</p>"
+          },
+          {
+            "q": "What type of stem cell transplant am I being offered?",
+            "a": "<p>Ask whether your transplant is autologous, using your own stem cells, or allogeneic, using cells from a matched donor. The choice depends on your diagnosis, disease status, age, overall health, and donor availability. Each type carries different risks, benefits, and recovery patterns. Understanding which type is planned helps you prepare for the process ahead. Your transplant physician can explain why a particular approach may be suitable for your specific situation after reviewing your medical records.</p>"
+          },
+          {
+            "q": "Why is a stem cell transplant being recommended for me?",
+            "a": "<p>A stem cell transplant may be recommended when it offers a chance to control or reduce certain blood cancers or bone marrow disorders more effectively than standard therapy alone. Ask your doctor what the transplant aims to achieve, whether it is intended to prolong remission, and what alternatives exist. The decision depends on your diagnosis, disease response, biomarkers, and overall health. Final treatment decisions should always be made by your qualified transplant team after full review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Risks, Recovery, and Preparation",
+        "items": [
+          {
+            "q": "What are the risks and side effects of a stem cell transplant?",
+            "a": "<p>Stem cell transplants carry risks including infection, bleeding, organ effects, and, with donor transplants, graft-versus-host disease, where donor cells attack the body's tissues. Ask your team which risks are most relevant to you and how they are monitored and managed. Side effects vary by transplant type, conditioning regimen, age, and overall health. No transplant is risk-free, so understanding potential complications and how your team plans to address them is an important part of preparing safely.</p>"
+          },
+          {
+            "q": "How long is recovery after a stem cell transplant?",
+            "a": "<p>Recovery after a stem cell transplant often takes several months, though full immune recovery may take a year or longer. Ask about the expected hospital stay, when blood counts should recover, activity restrictions, and how often you will need follow-up visits. Recovery time depends on the transplant type, your response, complications, and overall health. Discussing a realistic timeline with your team helps you and your caregivers plan for support, time away from work, and daily care.</p>"
+          },
+          {
+            "q": "What tests and reports are needed before a stem cell transplant?",
+            "a": "<p>Before a transplant, doctors usually review your pathology, bone marrow reports, imaging, blood counts, organ function tests, and infection screening. For donor transplants, HLA tissue-typing is done to check compatibility. Ask which specific tests you need and whether earlier records can be reused. These evaluations help the team confirm eligibility and plan the conditioning regimen. The exact requirements depend on your diagnosis and center, and should be confirmed with your treating transplant team.</p>"
+          },
+          {
+            "q": "How should I prepare for a stem cell transplant?",
+            "a": "<p>Preparing for a transplant involves arranging caregiver support, understanding dietary and infection precautions, and asking about fertility preservation before conditioning treatment begins. Ask your team what to bring, how to reduce infection risk at home, and who to contact with concerns. Emotional and practical planning matter as much as medical readiness. Preparation needs vary by transplant type and personal circumstances, so a detailed checklist from your transplant coordinator can help you feel more organized and supported.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does a stem cell transplant cost?",
+            "a": "<p>The cost of a stem cell transplant varies widely depending on the transplant type, hospital, country, length of stay, and any complications. Allogeneic donor transplants generally cost more than autologous transplants because of donor procedures and longer monitoring. Ask for an estimated range and what it includes, such as tests, medication, and follow-up. Final costs depend on your diagnosis, treatment protocol, and hospital, so a written estimate from the treating center is the most reliable guide.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell transplant?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For international patients, access also depends on hospital acceptance, medical review, visa approval, and travel fitness. Treatment decisions are always made by the qualified oncology and transplant team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax supports coordination but does not replace your medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "pillar": "TIL Therapy vs CAR-T Therapy — Which Approach Is Right for Your Cancer?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "til-vs-car-t-therapy",
+  "route": "/insights/til-vs-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About TIL vs CAR-T Therapy",
+    "intro": "TIL therapy and CAR-T therapy are both forms of adoptive cell therapy, but they use different immune cells and suit different cancers. These answers explain how they compare for patients and caregivers exploring cell-based cancer treatment options.",
+    "groups": [
+      {
+        "title": "Understanding TIL and CAR-T Therapy",
+        "items": [
+          {
+            "q": "What is the difference between TIL and CAR-T therapy?",
+            "a": "<p>TIL and CAR-T therapy differ mainly in the type of immune cells used and how they are prepared. TIL (tumor-infiltrating lymphocyte) therapy uses a patient's own T cells collected from inside the tumor, then grown in large numbers. CAR-T therapy uses T cells from the blood that are genetically engineered to carry a receptor targeting a specific protein. Both are personalized cell therapies, but they suit different cancer types and are decided by a specialist team.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by using immune cells found naturally inside a tumor to attack cancer. Surgeons remove a piece of the tumor, and the tumor-infiltrating lymphocytes within it are grown into billions of cells in a laboratory. These cells are then infused back into the patient, often after a short chemotherapy step. TIL therapy is mainly studied in solid tumors such as melanoma, and suitability depends on tumor type, tissue availability, and specialist review.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work?",
+            "a": "<p>CAR-T therapy works by genetically modifying a patient's T cells to recognize and destroy cancer cells. T cells are collected from the blood, engineered in a laboratory to express a chimeric antigen receptor (CAR) that targets a specific tumor marker, then multiplied and infused back. CAR-T is most established for certain blood cancers such as lymphoma, leukemia, and myeloma. Whether it is appropriate depends on cancer type, prior treatment, and evaluation by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Which Therapy Fits Which Cancer",
+        "items": [
+          {
+            "q": "Which cancers are treated with TIL versus CAR-T therapy?",
+            "a": "<p>TIL therapy is mainly used for solid tumors, while CAR-T therapy is mainly used for blood cancers. TIL has shown the most progress in advanced melanoma and is being studied in cervical, lung, and other solid cancers. CAR-T is approved for selected cases of large B-cell lymphoma, acute lymphoblastic leukemia, and multiple myeloma. The right option, if any, depends on cancer type, stage, biomarkers, and assessment by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is TIL or CAR-T therapy better for solid tumors?",
+            "a": "<p>TIL therapy is currently considered more promising than CAR-T for many solid tumors. TIL cells can recognize multiple tumor targets and reach cancer inside solid tissue, which has been harder for CAR-T therapy to achieve. CAR-T works best where its single target is widely present, as in some blood cancers. Neither is guaranteed to work, and the most suitable approach should be discussed with a specialist based on the individual case.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of TIL and CAR-T therapy?",
+            "a": "<p>Both therapies carry serious risks that require close hospital monitoring. CAR-T therapy can cause cytokine release syndrome (a strong immune reaction) and neurological effects. TIL therapy often involves chemotherapy beforehand and high-dose interleukin-2, which can strain the heart, kidneys, and blood pressure. Side effects vary by patient, cancer type, and protocol. These risks should be carefully reviewed with the treating medical team before any decision is made.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support",
+        "items": [
+          {
+            "q": "How much do TIL and CAR-T therapy cost?",
+            "a": "<p>The cost of TIL and CAR-T therapy varies widely and cannot be quoted as a fixed figure. CAR-T therapy is often among the most expensive cancer treatments due to cell engineering, while TIL therapy costs depend on surgery, cell production, and hospital care. Final cost depends on the country, hospital, diagnosis, stage, tests, protocol, complications, and length of stay. A detailed estimate should be obtained after medical review.</p>"
+          },
+          {
+            "q": "How can international patients access TIL or CAR-T clinical trials?",
+            "a": "<p>International patients usually access TIL and CAR-T therapy through approved centers or clinical trials after a medical record review. Enrollment is not guaranteed, as trials have strict inclusion and exclusion criteria, and eligibility is decided by the investigator. Access also depends on hospital acceptance, travel fitness, and visa approval. Patients should prepare recent pathology, imaging, and treatment history, and seek a specialist opinion on which option may be appropriate.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL vs CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Whether TIL therapy, CAR-T therapy, or another approach is appropriate depends on the individual case. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

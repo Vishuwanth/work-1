@@ -1,6 +1,6 @@
 // Shared types for the CancerFax review app.
 // Row identity is `collection` + `slug`, taken from the live-site status CSV.
-import type { Collection, PageRole } from "@/lib/pages";
+import type { Collection, PageRole } from "@/lib/page-key";
 
 export type { Collection, PageRole };
 

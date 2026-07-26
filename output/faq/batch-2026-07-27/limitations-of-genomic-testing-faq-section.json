@@ -1,0 +1,62 @@
+{
+  "pillar": "Precision Oncology & NGS Testing",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "limitations-of-genomic-testing",
+  "route": "/insights/limitations-of-genomic-testing",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Limitations of Genomic Testing",
+    "intro": "Genomic testing has transformed cancer care, but it is not a perfect or complete answer for every patient. These FAQs explain what genomic and NGS testing can and cannot tell you, and why results should always be interpreted by a qualified oncology team.",
+    "groups": [
+      {
+        "title": "Understanding What Genomic Testing Can and Cannot Do",
+        "items": [
+          {
+            "q": "What are the main limitations of genomic testing in cancer?",
+            "a": "<p>The main limitation of genomic testing is that it does not detect every cancer-related change, and a result may not lead to an available treatment. Tests can miss mutations, return variants of uncertain significance, or find alterations with no matching therapy. Results depend on sample quality, the genes covered, and tumor complexity. Genomic testing is one input among many and should be interpreted by a qualified oncology team alongside imaging, pathology, and clinical history.</p>"
+          },
+          {
+            "q": "Can genomic testing miss important cancer mutations?",
+            "a": "<p>Yes, genomic testing can miss important mutations for several reasons. Small biopsy samples, low tumor content, poor DNA quality, or degraded tissue can reduce accuracy, and some panels only cover selected genes rather than the whole genome. Certain structural changes, fusions, or low-frequency mutations may not be captured. A negative result does not always mean no mutation exists, so findings should be reviewed carefully by the treating medical team.</p>"
+          },
+          {
+            "q": "What is a variant of uncertain significance in a genomic report?",
+            "a": "<p>A variant of uncertain significance (VUS) is a genetic change whose effect on cancer is not yet known. It has been detected but cannot be confirmed as harmful or harmless based on current evidence. A VUS usually should not guide treatment decisions on its own and may be reclassified later as research advances. Interpretation depends on the full clinical picture and should be discussed with a qualified oncology or genetics specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Clinical and Practical Limitations",
+        "items": [
+          {
+            "q": "Does a genomic test result always lead to a targeted treatment?",
+            "a": "<p>No, a genomic test result does not always lead to a targeted treatment. Many tumors carry mutations that currently have no approved drug, or the matching therapy may not be effective, accessible, or suitable for that patient. Some findings point only to clinical trials rather than standard care. Whether a result changes treatment depends on cancer type, stage, biomarker profile, prior treatment, and specialist review by the treating oncology team.</p>"
+          },
+          {
+            "q": "How does tumor heterogeneity affect genomic testing?",
+            "a": "<p>Tumor heterogeneity means different parts of a tumor, or different metastatic sites, can carry different mutations. A single biopsy may not represent the entire cancer, so a test could miss changes present elsewhere in the body. Cancers can also evolve over time, making earlier results less accurate as treatment progresses. Repeat or additional testing may be considered in selected cases, guided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Are liquid biopsy and tissue genomic tests equally reliable?",
+            "a": "<p>Liquid biopsy and tissue testing each have strengths and limitations, so they are not always interchangeable. Liquid biopsy analyzes tumor DNA in blood and is less invasive, but it may miss mutations when little tumor DNA is circulating, sometimes giving false-negative results. Tissue testing can be more comprehensive but requires an adequate sample. The right approach depends on cancer type, tumor burden, and specialist judgment by the medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Interpreting Results and Getting Support",
+        "items": [
+          {
+            "q": "Can genomic testing predict how well a treatment will work?",
+            "a": "<p>Genomic testing can suggest which therapies may be more or less likely to help, but it cannot guarantee how a patient will respond. A matched mutation improves the chance of benefit for some drugs, yet resistance, side effects, and individual biology can still affect outcomes. Results indicate probability, not certainty. Treatment expectations should always be discussed with the qualified oncology team, who consider the full clinical context.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the limitations of genomic testing?",
+            "a": "<p>CancerFax helps patients organize medical reports and genomic results, identify relevant specialists or testing centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can help patients understand what a genomic report does and does not show. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

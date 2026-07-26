@@ -1,0 +1,66 @@
+{
+  "pillar": "Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "managing-side-effects-of-targeted-drugs",
+  "route": "/insights/managing-side-effects-of-targeted-drugs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Managing Side Effects of Targeted Drugs",
+    "intro": "Targeted cancer drugs can cause side effects that differ from chemotherapy and are often manageable with the right care. These FAQs explain common effects, practical management tips, and when to seek help.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy Side Effects",
+        "items": [
+          {
+            "q": "What are the common side effects of targeted cancer drugs?",
+            "a": "<p>The most common side effects of targeted cancer drugs include skin rash, diarrhea, fatigue, high blood pressure, mouth sores, and changes in liver or thyroid function. Because targeted therapies act on specific proteins or pathways, side effects vary widely between drugs and individuals. Most are mild to moderate and manageable, but severity depends on the drug, dose, and overall health. Any new or worsening symptom should be discussed with your oncology team.</p>"
+          },
+          {
+            "q": "How are side effects of targeted therapy different from chemotherapy?",
+            "a": "<p>Targeted therapy side effects are often different from chemotherapy because these drugs act on specific molecules in cancer cells rather than all fast-dividing cells. As a result, hair loss, severe nausea, and low blood counts may be less common, while skin, blood pressure, and gastrointestinal effects can be more frequent. Side effects still vary by drug and person, and should always be monitored and reviewed by your treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Managing Common Side Effects",
+        "items": [
+          {
+            "q": "How can skin rash from targeted therapy be managed?",
+            "a": "<p>Skin rash from targeted therapy can often be managed with gentle skincare, fragrance-free moisturizers, sun protection, and doctor-prescribed creams or antibiotics when needed. Rashes are especially common with EGFR-targeting drugs and usually appear on the face and upper body. Most cases are mild, but severe or infected rashes may require dose adjustment. Never start new treatments without medical advice, and report worsening skin changes to your oncology team promptly.</p>"
+          },
+          {
+            "q": "What can help with diarrhea caused by targeted drugs?",
+            "a": "<p>Diarrhea from targeted drugs is usually managed with hydration, dietary changes, and anti-diarrheal medicines such as loperamide when recommended by your doctor. Eating smaller, low-fiber meals and avoiding caffeine, alcohol, and greasy foods may help. Diarrhea is common with many oral targeted therapies and can sometimes be severe. Persistent or heavy diarrhea, or signs of dehydration, should be reported quickly, as dose changes or medical review may be needed.</p>"
+          },
+          {
+            "q": "How is high blood pressure from targeted therapy controlled?",
+            "a": "<p>High blood pressure from targeted therapy, often linked to anti-angiogenic drugs, is usually managed with regular monitoring and blood pressure medications prescribed by your doctor. Home monitoring may be recommended so changes are caught early. In most patients this side effect is controllable and does not require stopping treatment. However, very high or uncontrolled blood pressure needs prompt medical attention, and any adjustments should be guided by your treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Monitoring, and Support",
+        "items": [
+          {
+            "q": "When should I contact my doctor about targeted therapy side effects?",
+            "a": "<p>Contact your doctor promptly if you develop severe or worsening side effects such as high fever, heavy diarrhea, difficulty breathing, chest pain, severe rash, or signs of dehydration. Early reporting allows timely treatment and may prevent complications or unnecessary dose interruptions. Even milder symptoms are worth mentioning at routine visits. The urgency depends on the specific drug and your overall health, so follow the guidance given by your oncology team.</p>"
+          },
+          {
+            "q": "Do side effects mean the targeted drug is working?",
+            "a": "<p>Side effects do not reliably indicate whether a targeted drug is working, and their absence does not mean the treatment is failing. Some patients respond well with few side effects, while others experience more symptoms. Treatment effectiveness is measured through scans, blood tests, and biomarker monitoring, not by side effects alone. Any questions about how your therapy is working should be discussed with your treating oncology team.</p>"
+          },
+          {
+            "q": "Do targeted therapy side effects go away after treatment ends?",
+            "a": "<p>Many targeted therapy side effects improve or resolve after treatment ends, though the timeline depends on the drug and the specific effect. Skin, gastrointestinal, and blood pressure changes often ease once the drug is stopped or adjusted. Some effects may take longer or, rarely, persist, so ongoing monitoring is important. Whether to pause, adjust, or continue treatment is a decision that should be made with your treating medical team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with managing side effects of targeted drugs?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to managing targeted therapy side effects. Treatment and side-effect management decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is meant to complement, not replace, your medical care.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,11 +1,15 @@
 import type { Row } from "@/lib/types";
+import { pageKey } from "@/lib/page-key";
 import { runGenerate, classifyGenError, type GenerateResult } from "@/lib/generate";
 
-/** One progress event, streamed to the client (SSE) or collected in tests. */
+/**
+ * One progress event, streamed to the client (SSE) or collected in tests.
+ * `key` is "collection/slug" — a bare slug can name a page in two collections.
+ */
 export type GenEvent =
   | { type: "start"; total: number }
-  | { type: "row"; slug: string; status: "running" | "done" | "skipped" }
-  | { type: "row"; slug: string; status: "failed"; error: string }
+  | { type: "row"; key: string; status: "running" | "done" | "skipped" }
+  | { type: "row"; key: string; status: "failed"; error: string }
   | { type: "aborted"; reason: "auth" | "client-disconnect"; message: string }
   | { type: "done"; done: number; failed: number; skipped: number };
 
@@ -69,11 +73,11 @@ export async function runBatch(
 
       if (isAlreadyGenerated(row)) {
         skipped++;
-        emit({ type: "row", slug: row.slug, status: "skipped" });
+        emit({ type: "row", key: pageKey(row), status: "skipped" });
         continue;
       }
 
-      emit({ type: "row", slug: row.slug, status: "running" });
+      emit({ type: "row", key: pageKey(row), status: "running" });
       let result = await generate(row);
 
       // One rate-limit retry after a backoff.
@@ -85,7 +89,7 @@ export async function runBatch(
 
       if (result.ok) {
         done++;
-        emit({ type: "row", slug: row.slug, status: "done" });
+        emit({ type: "row", key: pageKey(row), status: "done" });
         continue;
       }
 
@@ -96,7 +100,7 @@ export async function runBatch(
       }
 
       failed++;
-      emit({ type: "row", slug: row.slug, status: "failed", error: result.error });
+      emit({ type: "row", key: pageKey(row), status: "failed", error: result.error });
     }
   }
 

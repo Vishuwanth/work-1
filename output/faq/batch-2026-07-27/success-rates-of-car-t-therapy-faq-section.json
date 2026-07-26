@@ -1,0 +1,62 @@
+{
+  "pillar": "CAR-T Cell Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "success-rates-of-car-t-therapy",
+  "route": "/insights/success-rates-of-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Success Rates of CAR-T Therapy",
+    "intro": "CAR-T cell therapy has produced encouraging results in certain blood cancers, but reported success rates vary widely and depend on many individual factors. These answers explain what the numbers mean and what influences outcomes.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Success Rates",
+        "items": [
+          {
+            "q": "What are the success rates of CAR-T cell therapy?",
+            "a": "<p>CAR-T cell therapy has shown high response rates in certain blood cancers, with remission reported in roughly 40–90% of selected patients depending on the cancer type and prior treatment. Reported outcomes vary widely across clinical trials and real-world settings, and results depend on cancer type, disease burden, previous therapies, biomarker profile, and overall health. Individual outcomes cannot be predicted, and final treatment decisions should be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What does \"success rate\" mean for CAR-T therapy?",
+            "a": "<p>Success rate in CAR-T therapy usually refers to the overall response rate, meaning the percentage of patients whose cancer shrinks or disappears after treatment. It may also describe complete remission, durable remission, or long-term survival, which are different measures. Because studies define success differently, reported numbers should be interpreted carefully and discussed with your oncology team in the context of your specific diagnosis and treatment history.</p>"
+          },
+          {
+            "q": "Which blood cancers respond best to CAR-T therapy?",
+            "a": "<p>CAR-T therapy has shown the strongest results in certain B-cell blood cancers, including some types of acute lymphoblastic leukemia (ALL), large B-cell lymphoma, and multiple myeloma. Response rates in these cancers can be high, though durability varies between patients. Suitability depends on cancer type, biomarker profile such as CD19 or BCMA, previous treatment, and specialist review, and eligibility should always be confirmed by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "What Affects Success and Durability",
+        "items": [
+          {
+            "q": "How long do CAR-T remissions last?",
+            "a": "<p>The durability of CAR-T remissions varies, with some patients staying in remission for years and others relapsing within months. Long-term remission appears more common in certain lymphomas and leukemias, but outcomes differ between patients and cancer types. Durability depends on disease burden, cancer biology, and the depth of response. Ongoing monitoring is important, and long-term results should be discussed with the treating medical team based on individual factors.</p>"
+          },
+          {
+            "q": "What factors affect CAR-T success rates?",
+            "a": "<p>CAR-T success rates depend on several factors, including cancer type, disease stage, tumor burden, biomarker profile, previous treatments, and overall health. Patients with lower disease burden and clearly expressed target antigens often respond better. Manufacturing quality and the timing of treatment can also influence results. Because these factors vary widely, outcomes cannot be predicted in advance and should be assessed individually by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can CAR-T therapy fail or stop working?",
+            "a": "<p>Yes, CAR-T therapy can fail or stop working in some patients, either because the cancer does not respond or because it returns later. Relapse may occur when cancer cells lose the target antigen or when CAR-T cells lose activity over time. If this happens, other treatments or clinical trials may be considered. Next steps should be evaluated carefully by the treating oncology team based on the individual situation.</p>"
+          },
+          {
+            "q": "Do CAR-T success rates apply to solid tumors?",
+            "a": "<p>CAR-T therapy currently shows much lower success rates in solid tumors than in blood cancers, and most solid-tumor uses remain experimental. Challenges include difficulty reaching the tumor and identifying safe target antigens. Research and clinical trials are ongoing, but approved options are limited. Eligibility for any trial is decided after medical record review and investigator assessment, and should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with CAR-T therapy success rates?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant CAR-T specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients understand reported success rates in the context of their own diagnosis. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

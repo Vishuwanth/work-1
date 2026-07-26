@@ -1,0 +1,62 @@
+{
+  "pillar": "Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "oncolytic-virus-vs-chemotherapy",
+  "route": "/insights/oncolytic-virus-vs-chemotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Oncolytic Virus vs Chemotherapy",
+    "intro": "This section compares oncolytic virus therapy and chemotherapy for cancer patients and caregivers, explaining how each works, who may be suitable, and how they are often used together.",
+    "groups": [
+      {
+        "title": "Understanding the Two Treatments",
+        "items": [
+          {
+            "q": "What is the difference between oncolytic virus therapy and chemotherapy?",
+            "a": "<p>Oncolytic virus therapy uses modified viruses to infect and destroy cancer cells while stimulating the immune system, whereas chemotherapy uses drugs that kill rapidly dividing cells throughout the body. Oncolytic viruses are designed to target tumour cells more selectively, while chemotherapy acts more broadly and can affect healthy dividing cells too. The two work through different mechanisms, and the right choice depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How does oncolytic virus therapy work compared to chemotherapy?",
+            "a": "<p>Oncolytic virus therapy works by infecting cancer cells, replicating inside them, bursting them open, and triggering an immune response against the tumour. Chemotherapy works chemically by damaging the DNA or division process of fast-growing cells so they die. In simple terms, oncolytic viruses use a biological and immune-based approach, while chemotherapy uses a drug-based approach. Both aim to reduce tumour burden, and treatment decisions should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is oncolytic virus therapy safer than chemotherapy?",
+            "a": "<p>Oncolytic virus therapy is often better tolerated than chemotherapy, but it is not risk-free and safety depends on the individual. Because these viruses are engineered to target tumour cells, they may cause fewer widespread side effects than chemotherapy, which can affect healthy cells. However, oncolytic therapy can still cause fever, fatigue, flu-like symptoms, and injection-site reactions. Suitability and safety should always be assessed by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Effectiveness, Side Effects, and Combined Use",
+        "items": [
+          {
+            "q": "Which is more effective, oncolytic virus therapy or chemotherapy?",
+            "a": "<p>Neither treatment is universally more effective, as results depend on cancer type, stage, biomarker profile, and overall health. Chemotherapy remains a proven standard for many cancers, while oncolytic virus therapy is newer and mainly used for selected cancers such as advanced melanoma or within clinical trials. In some cases they are combined for a stronger effect. Final decisions about effectiveness should be made by the treating oncology team after full assessment.</p>"
+          },
+          {
+            "q": "What are the side effects of oncolytic virus therapy versus chemotherapy?",
+            "a": "<p>Oncolytic virus therapy commonly causes flu-like symptoms, fever, chills, fatigue, and reactions at the injection site, which are often temporary. Chemotherapy can cause hair loss, nausea, low blood counts, infection risk, and mouth sores because it affects healthy dividing cells. Side effects vary between patients and treatment protocols. Any symptoms should be reported promptly, and side-effect management should be guided by the treating medical team.</p>"
+          },
+          {
+            "q": "Can oncolytic virus therapy and chemotherapy be used together?",
+            "a": "<p>Yes, oncolytic virus therapy and chemotherapy may be combined in selected patients to improve tumour response. Combining them can help expose cancer cells to the immune system while chemotherapy reduces tumour burden, though this approach is still being studied for many cancers. Whether combination therapy is appropriate depends on cancer type, stage, previous treatment, and overall health, and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is oncolytic virus therapy suitable for all cancer patients?",
+            "a": "<p>Oncolytic virus therapy is not suitable for all cancer patients and is currently approved or studied for only certain cancers. It may be considered for selected patients, often with advanced disease or when standard options are limited, and access is frequently through clinical trials. Eligibility depends on cancer type, stage, tumour location, immune status, and previous treatment. A specialist review is needed to determine whether this therapy is appropriate.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support",
+        "items": [
+          {
+            "q": "How does CancerFax help patients choosing between oncolytic virus therapy and chemotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to understand whether oncolytic virus therapy, chemotherapy, or a combination may be relevant. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

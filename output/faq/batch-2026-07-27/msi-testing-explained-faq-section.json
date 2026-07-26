@@ -1,0 +1,62 @@
+{
+  "pillar": "Precision Oncology & NGS Testing",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "msi-testing-explained",
+  "route": "/insights/msi-testing-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About MSI Testing",
+    "intro": "MSI testing helps doctors understand how a tumor's DNA repair system is working, which can guide treatment choices such as immunotherapy. These answers explain what the test involves and why it matters for cancer care.",
+    "groups": [
+      {
+        "title": "Understanding MSI Testing",
+        "items": [
+          {
+            "q": "What is MSI testing?",
+            "a": "<p>MSI testing checks a tumor for microsatellite instability, a sign that the cell's DNA mismatch repair system is not working properly. Microsatellites are short, repeated sequences of DNA, and when repair fails, these sequences change in length, producing a high number of mutations. Testing helps classify a tumor as microsatellite stable (MSS), MSI-low, or MSI-high (MSI-H), which can influence prognosis and treatment planning discussed with your oncology team.</p>"
+          },
+          {
+            "q": "How does MSI testing work?",
+            "a": "<p>MSI testing works by comparing the length of specific microsatellite regions in tumor tissue against normal tissue or reference standards. Laboratories commonly use PCR-based panels or next-generation sequencing (NGS), while immunohistochemistry (IHC) checks whether mismatch repair proteins are present. A tumor showing instability in several markers is usually called MSI-high. The exact method and interpretation depend on the laboratory and should be reviewed by a qualified pathology and oncology team.</p>"
+          },
+          {
+            "q": "What is the difference between MSI and MMR testing?",
+            "a": "<p>MSI and MMR testing measure the same underlying problem in different ways. MMR testing uses immunohistochemistry to check whether four mismatch repair proteins (MLH1, MSH2, MSH6, PMS2) are present in the tumor, while MSI testing directly measures instability in DNA microsatellites using PCR or NGS. Loss of MMR proteins usually matches an MSI-high result. Some tumors are tested with both methods, and interpretation should be confirmed by the treating pathology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Why MSI Testing Matters",
+        "items": [
+          {
+            "q": "Why is MSI testing important for cancer treatment?",
+            "a": "<p>MSI testing is important because MSI-high tumors may respond to immunotherapy drugs known as immune checkpoint inhibitors. A high mutation burden can make these cancers more visible to the immune system, so results may help doctors decide whether immunotherapy could be considered. MSI status can also affect prognosis and screening for inherited conditions. Final treatment decisions depend on cancer type, stage, overall health, and specialist review by the oncology team.</p>"
+          },
+          {
+            "q": "Which cancers are commonly tested for MSI?",
+            "a": "<p>MSI testing is most commonly performed in colorectal and endometrial (uterine) cancers, where microsatellite instability is more frequently found. It may also be considered in gastric, small bowel, ovarian, pancreatic, prostate, and other cancers, particularly when immunotherapy is being evaluated. Because MSI-high tumors can occur across many cancer types, testing is increasingly used more broadly. Whether the test applies to a specific patient should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "Does MSI testing detect inherited cancer risk?",
+            "a": "<p>MSI testing can raise suspicion of Lynch syndrome, an inherited condition that increases the risk of certain cancers. An MSI-high or MMR-deficient result may prompt further tests, such as MLH1 promoter methylation testing and genetic counseling, to distinguish inherited causes from non-inherited ones. MSI testing alone does not confirm Lynch syndrome. Any concern about inherited risk should be discussed with a genetic counselor or specialist, who can advise on confirmatory germline testing.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for Patients",
+        "items": [
+          {
+            "q": "What sample is needed for MSI testing?",
+            "a": "<p>MSI testing usually requires a sample of tumor tissue, often from a biopsy or surgery already performed and stored as a formalin-fixed, paraffin-embedded block. Some methods also compare this with normal tissue or a blood sample. In certain cases, blood-based liquid biopsy testing may be used when tissue is limited. The right sample depends on the laboratory method and the patient's situation, and should be arranged through the treating medical team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with MSI testing?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify laboratories and specialists offering MSI or MMR testing, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Availability, turnaround time, and pricing vary by laboratory and country. Treatment decisions, including whether MSI results support immunotherapy, are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

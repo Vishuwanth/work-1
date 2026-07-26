@@ -1,0 +1,62 @@
+{
+  "pillar": "Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-targeted-therapy-works",
+  "route": "/insights/how-targeted-therapy-works",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How Targeted Therapy Works",
+    "intro": "Targeted therapy attacks specific molecules that help cancer grow, offering a more precise option than traditional chemotherapy. These answers explain how it works, who it may suit, and how patients can access it.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy",
+        "items": [
+          {
+            "q": "What is targeted therapy and how does it work?",
+            "a": "<p>Targeted therapy is a type of cancer treatment that blocks specific molecules or genetic changes that help cancer cells grow and spread. Instead of affecting all rapidly dividing cells like chemotherapy, it acts on precise targets such as proteins, enzymes, or receptors found on or inside cancer cells. This may slow or stop tumour growth. Its suitability depends on cancer type, biomarker profile, and specialist review.</p>"
+          },
+          {
+            "q": "How is targeted therapy different from chemotherapy?",
+            "a": "<p>Targeted therapy differs from chemotherapy by acting on specific molecules linked to cancer growth rather than attacking all fast-dividing cells. Chemotherapy affects both cancerous and healthy cells, which can cause broad side effects like hair loss and low blood counts. Targeted drugs aim to spare more normal cells, though they carry their own side effects. The right choice depends on cancer type, stage, biomarkers, and the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the main types of targeted therapy?",
+            "a": "<p>The two main types of targeted therapy are small-molecule drugs and monoclonal antibodies. Small-molecule drugs are usually taken as tablets and enter cells to block signals that drive cancer growth, such as tyrosine kinase inhibitors. Monoclonal antibodies are given by infusion and attach to specific proteins on cancer cells to mark or block them. Which type may be considered depends on the cancer's specific molecular features and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Testing, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for targeted therapy?",
+            "a": "<p>Targeted therapy may be suitable for selected patients whose tumours carry a specific molecular target the drug can act on. Eligibility depends on cancer type, stage, biomarker or genetic test results, previous treatment, and overall health. Not every cancer has an actionable target, so testing is essential before treatment. Final decisions on whether targeted therapy is appropriate should be made by the treating oncology team after full review.</p>"
+          },
+          {
+            "q": "What tests are needed before starting targeted therapy?",
+            "a": "<p>Biomarker testing is usually needed before starting targeted therapy to confirm the cancer has a target the drug can act on. This may include genetic or molecular tests on a tumour biopsy, blood tests, or next-generation sequencing to detect specific mutations, gene changes, or protein levels. Imaging and general health checks are also common. The exact tests depend on cancer type and should be guided by the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of targeted therapy?",
+            "a": "<p>Targeted therapy can cause side effects even though it is more selective than chemotherapy. Common ones may include skin rashes, diarrhoea, high blood pressure, fatigue, liver changes, and problems with wound healing. Some effects are mild, while others need close monitoring or dose changes. Side effects vary by drug and patient, so they should be discussed with a qualified oncology team, who will monitor and manage them throughout treatment.</p>"
+          },
+          {
+            "q": "Can cancer become resistant to targeted therapy?",
+            "a": "<p>Yes, cancer can become resistant to targeted therapy over time. Cancer cells may develop new mutations or use alternative pathways to keep growing despite treatment. When this happens, the therapy may stop working and further testing may be needed to guide next steps. Newer-generation drugs, combinations, or clinical trials may be considered in selected patients. Managing resistance should always be directed by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients understand biomarker testing options that guide targeted therapy. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

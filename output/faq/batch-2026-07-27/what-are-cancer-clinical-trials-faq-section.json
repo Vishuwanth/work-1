@@ -1,0 +1,66 @@
+{
+  "pillar": "Clinical Trials in Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-are-cancer-clinical-trials",
+  "route": "/insights/what-are-cancer-clinical-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Clinical Trials",
+    "intro": "Cancer clinical trials are research studies that test new ways to prevent, detect, or treat cancer. These answers explain how trials work, who may take part, and how patients can explore them safely.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Clinical Trials",
+        "items": [
+          {
+            "q": "What are cancer clinical trials?",
+            "a": "<p>Cancer clinical trials are research studies that test new ways to prevent, detect, diagnose, or treat cancer in people. They evaluate treatments such as drugs, immunotherapy, radiation approaches, or surgical techniques to see whether they are safe and effective. Each trial follows a carefully designed protocol with defined goals and close safety monitoring. Participation is voluntary, and whether a trial suits you depends on your cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "Why are clinical trials important in cancer care?",
+            "a": "<p>Clinical trials are important because they help develop safer and more effective cancer treatments for future patients. They are the main way researchers confirm whether a new therapy works better than existing standard care. For some patients, a trial may offer access to promising treatments not yet widely available. However, benefit is never guaranteed, and any decision to take part should be discussed carefully with your qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the phases of a cancer clinical trial?",
+            "a": "<p>Cancer clinical trials are usually organized into phases that answer different research questions. Phase 1 tests safety and dosing in a small group, Phase 2 looks at whether the treatment works for a specific cancer, and Phase 3 compares it against standard treatment in larger groups. Phase 4 studies continue after approval to monitor long-term effects. The phase a patient may join depends on their diagnosis and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Participation",
+        "items": [
+          {
+            "q": "Who is eligible for a cancer clinical trial?",
+            "a": "<p>Eligibility for a cancer clinical trial depends on strict inclusion and exclusion criteria set by each study. Common factors include cancer type, stage, biomarker profile, previous treatments, age, and overall health. These rules help protect patients and produce reliable results. Because criteria vary widely between trials, eligibility can only be confirmed after a review of your medical records and assessment by the study investigator and your treating oncology team.</p>"
+          },
+          {
+            "q": "Are cancer clinical trials safe?",
+            "a": "<p>Cancer clinical trials follow strict safety rules designed to protect participants throughout the study. Trials are reviewed by ethics committees, monitored closely, and guided by detailed protocols with regular health checks. Even so, new treatments may carry unknown or serious side effects, and benefit cannot be promised. Patients receive informed consent details explaining possible risks. Any concerns should be discussed openly with the trial team before deciding to take part.</p>"
+          },
+          {
+            "q": "Will I receive a placebo instead of active treatment?",
+            "a": "<p>In most cancer clinical trials, a placebo is rarely used alone when an effective standard treatment already exists. When comparison is needed, patients usually receive either the new treatment or the current standard of care, sometimes alongside a placebo. Trials that withhold effective treatment would be considered unethical. The exact study design, including any placebo use, is explained during informed consent and should be clarified with the trial team beforehand.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Questions",
+        "items": [
+          {
+            "q": "How much does it cost to join a cancer clinical trial?",
+            "a": "<p>The cost of joining a cancer clinical trial varies and depends on the study, sponsor, hospital, and country. In many trials, the sponsor covers the investigational treatment and certain study-related tests, while routine care costs may still apply. Additional expenses such as travel, accommodation, and follow-up are common for international patients. Final costs depend on the specific trial and should be confirmed in writing before enrolling.</p>"
+          },
+          {
+            "q": "How can international patients find and access cancer clinical trials?",
+            "a": "<p>International patients can find cancer clinical trials through public registries, hospital research departments, and specialist referrals. Access depends on trial availability, eligibility criteria, hospital acceptance, medical record review, visa approval, and fitness to travel. Because many trials recruit only at specific centers, patients often need organized reports and a second opinion to explore realistic options. None of these steps guarantees enrollment, which is decided after investigator assessment and medical review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer clinical trials?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients explore whether suitable clinical trials may exist for their situation. Treatment and enrollment decisions are always made by the qualified oncology team and trial investigators after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

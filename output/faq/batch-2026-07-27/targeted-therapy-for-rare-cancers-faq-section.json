@@ -1,0 +1,62 @@
+{
+  "pillar": "Rare Cancer Treatments",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "targeted-therapy-for-rare-cancers",
+  "route": "/insights/targeted-therapy-for-rare-cancers",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy for Rare Cancers",
+    "intro": "Targeted therapy offers new options for some rare cancers by acting on the specific genetic changes that drive tumour growth. These FAQs explain how it works, who may be suitable, and how international patients can access it.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy for Rare Cancers",
+        "items": [
+          {
+            "q": "What is targeted therapy for rare cancers?",
+            "a": "<p>Targeted therapy for rare cancers uses drugs that act on specific genetic mutations, proteins, or pathways driving a tumour's growth. Unlike standard chemotherapy, which affects many dividing cells, targeted therapy focuses on molecular features unique to the cancer. For rare cancers, it may be considered when biomarker testing identifies a matching target. Suitability depends on cancer type, molecular profile, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does targeted therapy work in rare cancers?",
+            "a": "<p>Targeted therapy works by blocking specific molecules that a cancer needs to grow, divide, or spread. These drugs may inhibit abnormal proteins, signalling pathways, or gene fusions found in tumour cells. In rare cancers, the target is usually confirmed through genetic or biomarker testing before treatment. Because each tumour differs, response varies between patients, and final treatment decisions should be made by the treating medical team after reviewing the full clinical picture.</p>"
+          },
+          {
+            "q": "Which rare cancers may respond to targeted therapy?",
+            "a": "<p>Several rare cancers may respond to targeted therapy when they carry a treatable genetic alteration, such as gastrointestinal stromal tumours (GIST), certain sarcomas, cholangiocarcinoma, thyroid cancers, and some neuroendocrine tumours. Tumour-agnostic targets like NTRK fusions or high microsatellite instability can also guide treatment across cancer types. Eligibility depends on the specific mutation, cancer stage, and previous treatment, and should be confirmed by a specialist after appropriate molecular testing.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Testing, and Safety",
+        "items": [
+          {
+            "q": "How do doctors know if targeted therapy is right for a rare cancer?",
+            "a": "<p>Doctors determine if targeted therapy may help by testing the tumour for specific biomarkers, mutations, or gene fusions, often using next-generation sequencing (NGS) or immunohistochemistry. This molecular profiling identifies whether a matching targeted drug exists. For rare cancers, comprehensive genomic testing is especially useful because standard options are limited. Results are interpreted alongside cancer type, stage, and overall health, and treatment decisions should always be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of targeted therapy?",
+            "a": "<p>Targeted therapy can cause side effects, though they often differ from traditional chemotherapy. Common effects may include skin rashes, diarrhoea, high blood pressure, fatigue, liver changes, or issues with wound healing, depending on the drug and target. Some side effects are manageable, while others need dose adjustment or monitoring. Because reactions vary between patients, side effects should be discussed with, and monitored by, the treating medical team throughout treatment.</p>"
+          },
+          {
+            "q": "Is targeted therapy available when a rare cancer has no approved drug?",
+            "a": "<p>When a rare cancer has no approved targeted drug, options may include clinical trials, off-label use, or expanded-access programmes, depending on the molecular findings. Clinical trials often study new targeted agents for uncommon mutations, but eligibility is decided after medical record review and investigator assessment, with strict inclusion and exclusion criteria. Enrolment and benefit cannot be guaranteed, so these options should be explored carefully with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does targeted therapy for rare cancers cost, and is it available in India?",
+            "a": "<p>The cost of targeted therapy for rare cancers varies widely and depends on the specific drug, treatment duration, hospital, tests required, and country of treatment. Many targeted therapies are available in India at leading cancer centres, sometimes at lower cost than in Western countries, though prices are not fixed. Final expenses depend on diagnosis, stage, protocol, and length of treatment, and should be confirmed with the treating hospital and medical team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy for rare cancers?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support for targeted therapy in rare cancers. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

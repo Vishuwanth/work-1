@@ -1,0 +1,62 @@
+{
+  "pillar": "Gene Therapy for Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-gene-therapy-for-cancer",
+  "route": "/insights/what-is-gene-therapy-for-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Gene Therapy for Cancer",
+    "intro": "Gene therapy for cancer is an advanced approach that changes or reprograms genetic material to help fight tumors. These FAQs explain what gene therapy is, how it works, who it may suit, and what patients should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy for Cancer",
+        "items": [
+          {
+            "q": "What is gene therapy for cancer?",
+            "a": "<p>Gene therapy for cancer is a treatment that modifies genetic material inside cells to help the body fight cancer more effectively. It may involve adding, changing, or switching off specific genes, or reprogramming immune cells to recognize tumors. Approaches include modified immune-cell therapies, oncolytic viruses, and gene-editing techniques. Gene therapy is still evolving, and its suitability depends on cancer type, biomarker profile, previous treatment, and overall health, as assessed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does gene therapy for cancer work?",
+            "a": "<p>Gene therapy works by altering the genetic instructions inside cells so they can better target or resist cancer. Some methods reprogram a patient's immune cells to attack tumors, while others use engineered viruses to reach cancer cells or correct faulty genes that drive tumor growth. The exact mechanism depends on the therapy type and cancer involved. These treatments are complex and should be planned and monitored by a specialized oncology team.</p>"
+          },
+          {
+            "q": "What types of gene therapy are used in cancer treatment?",
+            "a": "<p>Several types of gene therapy may be used in cancer treatment, depending on the cancer and its features. These include engineered immune-cell therapies such as CAR T-cell therapy, oncolytic virus therapy that targets tumor cells, and gene-editing or gene-transfer approaches that adjust how genes behave. Many remain investigational or are used for selected cancers. The most appropriate type depends on diagnosis, biomarkers, and previous treatment, and should be reviewed by an oncology specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for gene therapy for cancer?",
+            "a": "<p>Eligibility for cancer gene therapy is decided individually and is not suitable for everyone. It may be considered for selected patients based on cancer type, stage, biomarker or genetic profile, previous treatment response, and overall health. Some therapies are approved only for specific blood cancers or particular tumor types, while others are available mainly through clinical trials. A qualified oncology team determines suitability after reviewing medical reports, imaging, and pathology.</p>"
+          },
+          {
+            "q": "What are the benefits and risks of gene therapy for cancer?",
+            "a": "<p>Gene therapy may offer benefits such as more targeted tumor control and durable responses in selected patients, sometimes when other treatments have not worked. However, it also carries risks, including immune-related reactions, inflammation, and side effects that vary by therapy type. No gene therapy is risk-free or guaranteed to work, and outcomes differ between patients. The balance of benefit and risk should be carefully discussed with the treating oncology team before proceeding.</p>"
+          },
+          {
+            "q": "Is gene therapy for cancer the same as CAR T-cell therapy?",
+            "a": "<p>CAR T-cell therapy is one type of gene therapy, but gene therapy is a broader category. CAR T-cell therapy reprograms a patient's own immune cells to recognize and attack cancer, mainly in certain blood cancers. Other gene therapies use different methods, such as oncolytic viruses or gene editing, and may target other cancer types. The right approach depends on the diagnosis and should be determined by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does gene therapy for cancer cost, and can international patients access it?",
+            "a": "<p>The cost of gene therapy for cancer varies widely and cannot be fixed in advance. It depends on the therapy type, cancer, hospital, country, tests, hospital stay, and supportive care, and advanced therapies are often expensive. International patients may access treatment abroad, but this depends on hospital acceptance, medical review, visa approval, and travel fitness. Final costs and eligibility should be confirmed with the treating hospital and oncology team before planning travel or treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene therapy for cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This helps patients explore gene therapy options with clearer information and appropriate specialist guidance, including access to clinical trials where available.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

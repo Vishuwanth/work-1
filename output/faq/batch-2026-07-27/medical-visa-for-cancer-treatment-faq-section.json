@@ -1,0 +1,66 @@
+{
+  "pillar": "International Cancer Treatment",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "medical-visa-for-cancer-treatment",
+  "route": "/guides/medical-visa-for-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Medical Visa for Cancer Treatment",
+    "intro": "A medical visa lets international cancer patients travel abroad for treatment at a recognized hospital. These FAQs explain eligibility, documents, timelines, attendants, costs, and how to plan safely.",
+    "groups": [
+      {
+        "title": "Understanding the Medical Visa",
+        "items": [
+          {
+            "q": "What is a medical visa for cancer treatment?",
+            "a": "<p>A medical visa is a special travel permit that allows an international patient to enter another country specifically for medical treatment, including cancer care. It is usually issued for treatment at a recognized hospital and often permits one or two attendants to accompany the patient. Requirements, validity, and conditions vary by country, so patients should confirm the exact rules with the destination country's embassy or official immigration website.</p>"
+          },
+          {
+            "q": "Who is eligible for a medical visa for cancer treatment?",
+            "a": "<p>Eligibility for a medical visa generally depends on having a confirmed diagnosis and a treatment invitation or appointment from a recognized hospital in the destination country. Most countries require proof of medical need, financial ability to cover treatment, and a valid passport. Approval is decided by the destination country's immigration authorities and is not guaranteed. Requirements differ by country, so patients should verify current rules through the official embassy or consulate.</p>"
+          },
+          {
+            "q": "How long can you stay on a medical visa for cancer treatment?",
+            "a": "<p>The permitted stay on a medical visa depends on the country and the expected length of cancer treatment, often ranging from a few months to a year. The visa is usually tied to the treatment plan and may be renewable if care continues. Overstaying can create legal problems, so patients should track validity dates carefully. Exact durations vary by country and should be confirmed with the issuing embassy or immigration office.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Applying and Required Documents",
+        "items": [
+          {
+            "q": "What documents are required for a cancer treatment medical visa?",
+            "a": "<p>Common documents for a cancer treatment medical visa include a valid passport, recent medical reports confirming the diagnosis, and a letter or invitation from the treating hospital abroad. Many countries also ask for proof of funds, treatment cost estimates, and travel details. Requirements for accompanying attendants may differ. Because document rules vary by country and change over time, patients should always confirm the current checklist with the official embassy or consulate.</p>"
+          },
+          {
+            "q": "How long does it take to get a medical visa for cancer treatment?",
+            "a": "<p>Processing time for a medical visa varies widely by country, often ranging from a few days to several weeks. Some countries offer faster processing for urgent medical cases when hospital documents show the treatment cannot wait. Delays can happen due to incomplete paperwork or additional verification. Because timelines are not guaranteed, patients should apply as early as possible and confirm current processing times with the destination country's embassy.</p>"
+          },
+          {
+            "q": "Can a family member accompany the patient on a medical visa?",
+            "a": "<p>In most countries, a medical visa allows one or two attendants, usually close family members, to travel with the cancer patient. These attendants typically apply for a linked medical-attendant visa using the patient's documents and their proof of relationship. The number of permitted attendants and their conditions vary by country. Because rules differ and can change, families should confirm attendant eligibility and paperwork with the official embassy before booking travel.</p>"
+          },
+          {
+            "q": "Can a medical visa be extended if cancer treatment takes longer?",
+            "a": "<p>A medical visa can often be extended if cancer treatment takes longer than planned, but extension is not automatic. Patients usually need updated hospital letters explaining why continued care is required, along with an application to the local immigration authority. Approval depends on the country's rules and the treating team's documentation. Because extension policies vary, patients should ask the hospital's international office and immigration authorities about the process well before the visa expires.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Costs and Support",
+        "items": [
+          {
+            "q": "How much does a medical visa for cancer treatment cost?",
+            "a": "<p>The cost of a medical visa varies by country and typically includes an application or visa fee that is separate from treatment and travel expenses. Fees can range from modest to a few hundred US dollars, and attendants usually pay their own visa fees. Additional costs may apply for expedited processing or document verification. Because fees change over time, patients should check the current amount on the destination country's official embassy website.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with a medical visa for cancer treatment?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa support, and follow-up care, including gathering the hospital documents often needed for a medical visa application. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and visa approval remains the decision of immigration authorities.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

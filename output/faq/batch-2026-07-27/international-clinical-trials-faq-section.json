@@ -1,0 +1,66 @@
+{
+  "pillar": "Clinical Trials in Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "international-clinical-trials",
+  "route": "/insights/international-clinical-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About International Clinical Trials",
+    "intro": "International clinical trials let cancer patients seek promising investigational treatments in other countries when local options are limited. These answers explain how these trials work, who may qualify, and the practical steps involved in accessing them safely with an oncology team.",
+    "groups": [
+      {
+        "title": "Understanding International Clinical Trials",
+        "items": [
+          {
+            "q": "What are international clinical trials?",
+            "a": "<p>International clinical trials are research studies that test new cancer treatments across hospitals in more than one country. They allow patients to access investigational drugs, cell therapies, or procedures that may not yet be available in their home country. These trials follow strict scientific and ethical rules and are overseen by regulatory authorities and ethics committees. Participation depends on trial criteria, cancer type, and specialist review, and should always be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How do international clinical trials work?",
+            "a": "<p>International clinical trials work by testing a new treatment under a shared research protocol across study sites in different countries. Each site follows the same eligibility rules, dosing, and safety monitoring so results can be compared reliably. Patients are assessed against inclusion and exclusion criteria before enrolment, and some trials compare the new treatment against standard care. The exact design, visit schedule, and follow-up vary by trial and should be explained by the research team.</p>"
+          },
+          {
+            "q": "Why would a cancer patient look for a trial in another country?",
+            "a": "<p>Patients look abroad mainly when a promising trial or therapy is not open in their home country. Certain investigational treatments, such as specific CAR-T therapies, bispecific antibodies, or targeted drugs, may only be studied at selected international centres. Some patients also seek trials after standard treatments stop working. Seeking a trial abroad is a significant decision that depends on cancer type, stage, fitness to travel, and careful review with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Access, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for international clinical trials?",
+            "a": "<p>Eligibility for international clinical trials depends on strict inclusion and exclusion criteria set for each study. Common factors include cancer type, stage, biomarker profile, previous treatments, age, organ function, and overall health, plus fitness to travel. Final eligibility is decided only after investigators review the patient's medical records and test results. Meeting the criteria does not guarantee enrolment, as places may be limited and international participation may add extra requirements.</p>"
+          },
+          {
+            "q": "How can international patients access clinical trials abroad?",
+            "a": "<p>International patients usually access trials abroad by having their medical records reviewed by the trial centre before travelling. Access depends on hospital acceptance, investigator assessment, visa approval, and being medically fit to travel. Reports such as pathology, imaging, biomarker or genetic tests, and treatment history are typically required. None of these steps can be guaranteed, and patients should confirm eligibility, costs, and travel arrangements with the treating team and trial centre before making plans.</p>"
+          },
+          {
+            "q": "Are international clinical trials safe?",
+            "a": "<p>International clinical trials follow strict safety rules, ethics committee approval, and ongoing monitoring, but no trial is completely risk-free. Because treatments are still being studied, they may cause unexpected or serious side effects or prove less effective than standard care. Independent review boards oversee each study, and trials can be paused if concerns arise. Patients give informed consent, can withdraw at any time, and should discuss all possible risks and benefits with the research team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Reports, and Support",
+        "items": [
+          {
+            "q": "How much do international clinical trials cost for patients?",
+            "a": "<p>Costs vary widely, because some international trials cover the study drug and trial-related tests while patients pay for travel, accommodation, visas, and non-trial medical care. A trial does not always mean free treatment, and coverage differs by sponsor, country, and protocol. Final costs depend on the hospital, diagnosis, length of stay, and additional care needed. Patients should request a clear written estimate and confirm exactly what the trial covers before committing.</p>"
+          },
+          {
+            "q": "What medical reports are needed to apply for a trial abroad?",
+            "a": "<p>Most international trials require recent, complete medical records so investigators can check eligibility. These usually include pathology or biopsy reports, imaging scans, biomarker or genetic test results, blood work, and a summary of previous treatments and responses. Reports may need translation into English. Providing accurate, up-to-date documents helps the research team assess suitability, but it does not guarantee acceptance, as final decisions rest with the investigators after full review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with international clinical trials?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant international clinical trials or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Enrolment is never guaranteed and depends on trial criteria and investigator assessment. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and after weighing the possible benefits and risks together.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

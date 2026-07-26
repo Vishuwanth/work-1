@@ -1,0 +1,62 @@
+{
+  "pillar": "Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-long-does-targeted-therapy-work",
+  "route": "/insights/how-long-does-targeted-therapy-work",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How Long Targeted Therapy Works",
+    "intro": "Targeted therapy can control certain cancers for months or years, but how long it keeps working varies from person to person. These answers explain what affects its duration, why resistance develops, and what happens next.",
+    "groups": [
+      {
+        "title": "Understanding How Long Targeted Therapy Works",
+        "items": [
+          {
+            "q": "How long does targeted therapy work?",
+            "a": "<p>Targeted therapy may work for several months to several years, but the duration varies widely between patients. How long it remains effective depends on the cancer type, stage, the specific genetic mutation or biomarker being targeted, previous treatments, and overall health. Some patients respond for a long time, while others develop resistance sooner. The treating oncology team monitors the response through scans and tests and adjusts treatment as needed.</p>"
+          },
+          {
+            "q": "Why does targeted therapy stop working over time?",
+            "a": "<p>Targeted therapy often stops working because cancer cells adapt and develop resistance. Over time, tumors may acquire new mutations or activate alternative pathways that allow them to grow despite treatment. This is a common and expected part of many targeted therapies, not a sign the treatment failed. The timing of resistance depends on the cancer type, biomarker, and drug involved, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can targeted therapy work for years?",
+            "a": "<p>Yes, targeted therapy can work for years in some patients, though this is not guaranteed. Certain cancers with specific mutations, such as some chronic myeloid leukemias or particular lung and breast cancers, may respond to targeted drugs for extended periods. Long-term response depends on the cancer type, biomarker profile, drug used, and how the tumor evolves. Regular monitoring helps the medical team confirm the treatment is still effective.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Resistance, Monitoring, and What Affects Duration",
+        "items": [
+          {
+            "q": "What is resistance to targeted therapy?",
+            "a": "<p>Resistance means the cancer has found a way to keep growing despite the targeted drug. It can be present from the start (primary resistance) or develop after an initial response (acquired resistance). Resistance often arises from new mutations or alternative growth signals within the tumor. Identifying resistance usually requires repeat imaging, blood tests, or a biopsy, and the next steps should be decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "How do doctors know if targeted therapy is still working?",
+            "a": "<p>Doctors track whether targeted therapy is working using regular scans, blood tests, and sometimes repeat biopsies or liquid biopsies. Imaging such as CT or PET shows whether tumors are shrinking, stable, or growing, while biomarkers may reveal molecular changes. If tests suggest the cancer is progressing, the oncology team reviews the results and may recommend adjusting the treatment plan. Monitoring schedules depend on the cancer type and individual situation.</p>"
+          },
+          {
+            "q": "Can you switch to another targeted therapy after resistance?",
+            "a": "<p>In many cases, switching to another targeted therapy may be considered after resistance develops, but this depends on the situation. Newer-generation drugs sometimes target the specific mutation causing resistance, and molecular testing helps identify suitable options. When no targeted option fits, chemotherapy, immunotherapy, or clinical trials may be discussed. The best next step depends on the biomarker profile, prior treatment, and overall health, and is decided by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for Patients",
+        "items": [
+          {
+            "q": "Does targeted therapy work differently for each cancer type?",
+            "a": "<p>Yes, how long and how well targeted therapy works differs across cancer types and even between patients with the same cancer. Effectiveness depends on the specific mutation or biomarker driving the tumor, the drug used, and how the cancer responds over time. A therapy that works for years in one cancer may work for a shorter period in another. Treatment planning should always be guided by specialist review and testing.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For targeted therapy, this may include arranging biomarker testing reviews and connecting patients with appropriate oncology teams. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

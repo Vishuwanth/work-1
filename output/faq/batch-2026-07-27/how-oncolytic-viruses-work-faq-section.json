@@ -1,0 +1,66 @@
+{
+  "pillar": "Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-oncolytic-viruses-work",
+  "route": "/insights/how-oncolytic-viruses-work",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How Oncolytic Viruses Work",
+    "intro": "Oncolytic viruses are an emerging cancer treatment that uses modified viruses to attack tumour cells. These FAQs explain how they work, their safety, and how patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Oncolytic Viruses",
+        "items": [
+          {
+            "q": "What are oncolytic viruses?",
+            "a": "<p>Oncolytic viruses are specially modified viruses designed to infect and destroy cancer cells while largely sparing normal, healthy tissue. Some occur naturally, while others are genetically engineered in the laboratory to target tumours more precisely. As they replicate inside cancer cells, they cause those cells to burst and can also alert the immune system to attack the tumour. Their suitability depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How do oncolytic viruses kill cancer cells?",
+            "a": "<p>Oncolytic viruses kill cancer cells mainly by entering them, copying themselves rapidly inside, and causing the cells to rupture in a process called lysis. Cancer cells often have weakened antiviral defences, which allows the virus to replicate more easily inside tumours than in healthy cells. As infected cells break apart, they release new virus particles that can spread to nearby cancer cells. The overall effect varies between patients and tumour types.</p>"
+          },
+          {
+            "q": "How do oncolytic viruses stimulate the immune system?",
+            "a": "<p>Oncolytic viruses can stimulate the immune system by exposing hidden tumour markers when infected cancer cells break apart. This release of viral and tumour signals may help the body recognise cancer cells it previously ignored, prompting immune cells to attack the tumour. Because of this dual action, oncolytic viruses are sometimes combined with immunotherapy in research settings. The strength of this immune response differs between individuals and should be assessed by an oncology team.</p>"
+          },
+          {
+            "q": "Are oncolytic viruses safe for healthy cells?",
+            "a": "<p>Oncolytic viruses are designed to target cancer cells while causing limited harm to healthy tissue, though no treatment is completely risk-free. Many are engineered so they can only replicate efficiently inside tumour cells, which have weakened defences against viruses. Healthy cells usually detect and clear the virus more effectively. Even so, side effects can occur, and safety depends on the specific virus, dose, cancer type, and the patient's overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment Process and Safety",
+        "items": [
+          {
+            "q": "Which cancers may respond to oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy may be considered for selected cancers, with melanoma being one of the most studied, including an approved therapy for advanced skin melanoma. Research is also exploring its use in brain, head and neck, bladder, and other solid tumours, often within clinical trials. It is not suitable for every cancer or every patient. Eligibility depends on cancer type, stage, previous treatment, overall health, and specialist assessment.</p>"
+          },
+          {
+            "q": "How is oncolytic virus therapy given?",
+            "a": "<p>Oncolytic virus therapy is most often given by direct injection into the tumour, allowing the virus to act where it is needed. Some approaches deliver the virus intravenously so it can reach tumours throughout the body, though this is mainly studied in clinical trials. The number of doses and the schedule vary by product and cancer type. The delivery method should be decided by the treating medical team based on individual circumstances.</p>"
+          },
+          {
+            "q": "What are the side effects of oncolytic virus therapy?",
+            "a": "<p>Common side effects of oncolytic virus therapy are often mild and flu-like, including fever, chills, fatigue, and pain or redness at the injection site. These reactions usually reflect the immune system responding to the virus. More serious effects are less common but possible, so patients are monitored closely during treatment. Side effects vary by virus type, dose, and individual health, and should always be discussed with the qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Practical Questions",
+        "items": [
+          {
+            "q": "Is oncolytic virus therapy widely available?",
+            "a": "<p>Oncolytic virus therapy is not yet widely available, and access depends on the country, cancer type, and approval status. One therapy is approved for advanced melanoma in some regions, while many other uses remain investigational and are offered mainly through clinical trials. Availability can differ between hospitals and healthcare systems. Patients interested in this treatment should confirm current options, eligibility, and any trial participation with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with oncolytic virus therapy?",
+            "a": "<p>CancerFax helps patients with oncolytic virus therapy organise their medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Access to this therapy is not guaranteed and often depends on clinical trial eligibility or regional approval. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

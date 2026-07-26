@@ -1,0 +1,66 @@
+{
+  "pillar": "Gene Therapy for Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gene-therapy-treatment-process",
+  "route": "/insights/gene-therapy-treatment-process",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Gene Therapy Treatment Process",
+    "intro": "Gene therapy for cancer works by modifying genetic material inside or outside the body to help fight tumors, and the treatment journey involves several carefully staged steps. These FAQs explain how the process works, who may qualify, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding the Gene Therapy Process",
+        "items": [
+          {
+            "q": "What is the gene therapy treatment process for cancer?",
+            "a": "<p>The gene therapy treatment process is a series of medical steps that modify genetic material to help the body recognize or destroy cancer cells. It typically begins with eligibility testing and biomarker review, followed by cell collection or gene delivery, laboratory modification when needed, quality checks, and infusion or administration. Patients are then monitored closely for response and side effects. The exact steps depend on the therapy type, cancer diagnosis, and the treating oncology team's assessment.</p>"
+          },
+          {
+            "q": "How does gene therapy work step by step?",
+            "a": "<p>Gene therapy works by delivering corrected or engineered genetic instructions to targeted cells so they can better fight cancer. In many approaches, doctors first collect a patient's cells, modify them in a specialized laboratory, and multiply them before returning them to the body. Other methods deliver genes directly using viral or non-viral carriers. Each stage includes safety testing and monitoring. The specific sequence varies by therapy and should be explained by a qualified specialist.</p>"
+          },
+          {
+            "q": "How long does the gene therapy treatment process take?",
+            "a": "<p>The gene therapy treatment process can take several weeks from initial evaluation to infusion, though timelines vary widely. Screening and biomarker testing may take days to weeks, cell collection and laboratory manufacturing can require two to several weeks, and recovery with monitoring follows administration. Delays can occur if additional tests or bridging treatment are needed. Final timing depends on the therapy type, manufacturing schedule, and the patient's condition as judged by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Side Effects",
+        "items": [
+          {
+            "q": "Who is eligible for gene therapy treatment?",
+            "a": "<p>Eligibility for gene therapy depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and it is decided after specialist review. It may be considered for selected patients whose disease has specific genetic or molecular features, or who have not responded to standard therapy. Fitness for cell collection and infusion is also assessed. Because criteria are strict and individualized, eligibility should always be confirmed by a qualified oncology team after reviewing complete medical records.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of gene therapy?",
+            "a": "<p>Gene therapy can cause side effects ranging from mild to serious, so close medical monitoring is essential. Depending on the approach, patients may experience immune reactions, cytokine release syndrome, neurological symptoms, infection risk, or effects from any preparatory chemotherapy. Long-term monitoring is often recommended. Not every patient reacts the same way, and severity varies by therapy and individual health. Potential risks and how they are managed should be discussed in detail with the treating medical team.</p>"
+          },
+          {
+            "q": "What reports and tests are needed before gene therapy?",
+            "a": "<p>Before gene therapy, doctors usually require detailed medical reports including pathology, biomarker or genetic testing, imaging scans, blood tests, and a full treatment history. These help confirm the diagnosis, assess disease features, and evaluate whether a patient is fit for the process. Additional tests of organ, heart, or immune function may be requested. The exact reports depend on the therapy and cancer type, and the treating team will specify what is required after review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does the gene therapy treatment process cost?",
+            "a": "<p>Gene therapy costs vary significantly and depend on the hospital, country, cancer type, therapy used, tests, hospital stay, and any complications. Because these are advanced, specialized treatments, costs can be substantial, and estimates should be treated as approximate rather than fixed. Additional expenses such as pre-treatment testing, supportive care, and follow-up may apply. A personalized cost estimate should be requested from the treating hospital after medical records are reviewed by the specialist team.</p>"
+          },
+          {
+            "q": "How can international patients access gene therapy?",
+            "a": "<p>International patients can access gene therapy by first having their medical records reviewed by a treatment center to check suitability, since acceptance is never guaranteed. Access depends on hospital approval, medical review, treatment availability, visa approval, and fitness to travel. Planning usually includes obtaining a second opinion, arranging tests, estimating costs, and organizing travel and follow-up care. Because these treatments are specialized and location-dependent, patients should confirm availability and eligibility with the treating center in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the gene therapy treatment process?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is intended to make the gene therapy journey clearer and better organized, without replacing the medical judgment of the treating doctors and hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

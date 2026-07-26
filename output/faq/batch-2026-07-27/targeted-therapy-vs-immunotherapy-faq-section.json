@@ -1,0 +1,62 @@
+{
+  "pillar": "Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "targeted-therapy-vs-immunotherapy",
+  "route": "/insights/targeted-therapy-vs-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy vs Immunotherapy",
+    "intro": "Targeted therapy and immunotherapy are two advanced cancer treatments that work in very different ways. These FAQs explain how they differ, who they may suit, and what patients should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding the Difference",
+        "items": [
+          {
+            "q": "What is the difference between targeted therapy and immunotherapy?",
+            "a": "<p>Targeted therapy attacks specific genes or proteins that help cancer grow, while immunotherapy helps your own immune system find and fight cancer cells. Targeted therapy usually depends on biomarkers found through tumor testing, whereas immunotherapy often works through markers such as PD-L1. The right option depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does targeted therapy work?",
+            "a": "<p>Targeted therapy works by blocking specific molecules or genetic mutations that allow cancer cells to grow and spread. It is often chosen after biomarker or genetic testing identifies a suitable target, such as EGFR, HER2, or ALK. Because it focuses on cancer-specific features, it may spare some healthy cells. Whether targeted therapy is suitable depends on your tumor's molecular profile and should be confirmed by your treating oncology team.</p>"
+          },
+          {
+            "q": "How does immunotherapy work?",
+            "a": "<p>Immunotherapy works by helping your immune system recognize and attack cancer cells more effectively. Common types include checkpoint inhibitors, which release the natural brakes on immune cells so they can target tumors. It may be considered for selected cancers, sometimes guided by markers such as PD-L1 or tumor mutational burden. Suitability depends on cancer type, stage, biomarker profile, and overall health, and should be reviewed by a specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Choosing, Combining, and Safety",
+        "items": [
+          {
+            "q": "Which is better: targeted therapy or immunotherapy?",
+            "a": "<p>Neither treatment is universally better, because the right choice depends on the individual cancer and patient. Targeted therapy may be preferred when a tumor has a specific mutation, while immunotherapy may suit cancers that respond to immune activation. Factors include cancer type, stage, biomarker results, previous treatment, and overall health. Final treatment decisions should be made by the treating medical team after a full review of your reports.</p>"
+          },
+          {
+            "q": "Can targeted therapy and immunotherapy be used together?",
+            "a": "<p>In some cases, targeted therapy and immunotherapy may be combined or used in sequence, depending on the cancer type and treatment goals. Combining them may improve results for selected patients but can also increase the risk of side effects. Whether a combination is appropriate depends on biomarker profile, stage, previous treatment, and overall health. This approach should always be planned and monitored by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of targeted therapy versus immunotherapy?",
+            "a": "<p>Both treatments can cause side effects, but they tend to differ in type. Targeted therapy may cause skin changes, diarrhea, high blood pressure, or liver effects, while immunotherapy can trigger immune-related reactions affecting the skin, thyroid, lungs, or bowel. Severity varies from person to person, and no treatment is free of risk. Side effects should be reported promptly and managed by your treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost and Patient Support",
+        "items": [
+          {
+            "q": "How much do targeted therapy and immunotherapy cost?",
+            "a": "<p>The cost of targeted therapy and immunotherapy varies widely and cannot be fixed in advance. Prices depend on the specific drug, cancer type, dosage, treatment duration, hospital, country, and any additional tests or supportive care. Both are often among the more expensive cancer treatments. Final costs depend on hospital, diagnosis, stage, treatment protocol, complications, and length of stay, and should be confirmed with the treating team and hospital.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy vs immunotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This helps patients compare targeted therapy and immunotherapy options with clearer information and appropriate specialist guidance.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "pillar": "Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancers-treated-with-oncolytic-virus-therapy",
+  "route": "/insights/cancers-treated-with-oncolytic-virus-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancers Treated with Oncolytic Virus Therapy",
+    "intro": "Oncolytic virus therapy uses modified viruses to target cancer cells and is approved for certain melanoma patients while being studied in several other cancers. These answers explain which cancers it may treat, how it works, and what patients and caregivers should know.",
+    "groups": [
+      {
+        "title": "Understanding Oncolytic Virus Therapy and Which Cancers It Treats",
+        "items": [
+          {
+            "q": "Which cancers can be treated with oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy is currently used mainly for advanced melanoma and is being studied for cancers such as glioblastoma and other brain tumors, bladder cancer, head and neck cancers, sarcomas, and some solid tumors. The only widely approved oncolytic virus is talimogene laherparepvec (T-VEC) for melanoma. Most other uses remain investigational and depend on cancer type, stage, previous treatment, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What is oncolytic virus therapy and how does it work?",
+            "a": "<p>Oncolytic virus therapy uses modified viruses that selectively infect and destroy cancer cells while sparing most healthy tissue. As the virus multiplies inside tumor cells, it breaks them apart and releases signals that may help the immune system recognize and attack the cancer. It is usually given by direct injection into a tumor. Its role depends on cancer type, stage, and specialist assessment, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Is oncolytic virus therapy approved for melanoma?",
+            "a": "<p>Yes, oncolytic virus therapy is approved for certain patients with advanced melanoma that cannot be fully removed by surgery. Talimogene laherparepvec (T-VEC), a modified herpes virus, is injected directly into skin, subcutaneous, or lymph node melanoma lesions. It may be considered for selected patients, sometimes alongside other treatments. Eligibility depends on tumor location, stage, previous therapy, and overall health, and final decisions rest with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Effectiveness",
+        "items": [
+          {
+            "q": "Is oncolytic virus therapy suitable for all cancer patients?",
+            "a": "<p>No, oncolytic virus therapy is not suitable for every cancer patient. It may be considered for selected patients based on cancer type, stage, tumor location, biomarker profile, previous treatments, and overall health. Patients with weakened immune systems or certain infections may not be candidates because live modified viruses are used. Suitability should always be assessed and confirmed by a qualified oncology team before treatment is planned or started.</p>"
+          },
+          {
+            "q": "What are the side effects of oncolytic virus therapy?",
+            "a": "<p>Common side effects of oncolytic virus therapy are usually mild and flu-like, including fever, chills, fatigue, nausea, and pain or redness at the injection site. Because the therapy uses a modified live virus, some patients may develop temporary local reactions. Serious side effects are less common but possible. Side effects vary by individual and virus type, and should be monitored and managed by the treating oncology team.</p>"
+          },
+          {
+            "q": "How effective is oncolytic virus therapy?",
+            "a": "<p>The effectiveness of oncolytic virus therapy varies by cancer type, stage, and how it is combined with other treatments. In advanced melanoma, it may shrink injected and sometimes nearby tumors in selected patients, but responses are not guaranteed. For most other cancers, it remains under investigation in clinical trials. Realistic expectations and possible benefits should be discussed individually with a qualified oncology team before starting treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Practical Questions",
+        "items": [
+          {
+            "q": "How much does oncolytic virus therapy cost and where is it available?",
+            "a": "<p>Availability and cost of oncolytic virus therapy vary widely by country, hospital, and whether the treatment is approved or offered through a clinical trial. Approved therapy for melanoma is available in some countries, while many other uses are accessible mainly through research studies. Final cost depends on hospital, diagnosis, stage, tests, treatment protocol, number of doses, and length of stay, and should be confirmed with the treating center.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with oncolytic virus therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

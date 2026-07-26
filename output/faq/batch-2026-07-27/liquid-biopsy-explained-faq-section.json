@@ -1,0 +1,62 @@
+{
+  "pillar": "Precision Oncology & NGS Testing",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "liquid-biopsy-explained",
+  "route": "/insights/liquid-biopsy-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Liquid Biopsy",
+    "intro": "A liquid biopsy is a simple blood test that looks for cancer-related material shed into the bloodstream. These FAQs explain how it works, what it can detect, and how patients can access it.",
+    "groups": [
+      {
+        "title": "Understanding Liquid Biopsy",
+        "items": [
+          {
+            "q": "What is a liquid biopsy?",
+            "a": "<p>A liquid biopsy is a blood test that looks for cancer-related material, such as circulating tumor DNA (ctDNA), tumor cells, or other fragments shed into the bloodstream. It offers a minimally invasive way to gather genetic information about a tumor without surgery. Liquid biopsy may support diagnosis, treatment planning, and monitoring in selected patients, though its suitability depends on cancer type, stage, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How is a liquid biopsy different from a tissue biopsy?",
+            "a": "<p>A liquid biopsy uses a blood sample, while a tissue biopsy removes a small piece of the tumor through a needle or surgery. Liquid biopsy is less invasive, can be repeated easily, and may capture genetic changes from multiple tumor sites. However, tissue biopsy often remains the standard for confirming a diagnosis. The two tests are frequently complementary, and the choice depends on the clinical situation and specialist advice.</p>"
+          },
+          {
+            "q": "What can a liquid biopsy detect?",
+            "a": "<p>A liquid biopsy can detect specific genetic mutations, biomarkers, and other tumor signals that help guide targeted therapy or immunotherapy decisions. In selected patients, it may identify treatment-relevant alterations, monitor how a cancer responds to therapy, or detect signs of recurrence. What a test can reliably find depends on the cancer type, tumor burden, and the specific assay used. Results should always be interpreted by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How It Works, Uses, and Limitations",
+        "items": [
+          {
+            "q": "How does a liquid biopsy work?",
+            "a": "<p>A liquid biopsy works by analyzing a routine blood sample for fragments of tumor DNA, circulating tumor cells, or related biomarkers using highly sensitive laboratory techniques such as next-generation sequencing. The blood is drawn like any standard test and sent to a specialized lab. The results can reveal genetic details about the tumor. Turnaround time, accuracy, and clinical usefulness vary by assay and should be discussed with the treating team.</p>"
+          },
+          {
+            "q": "Who may benefit from a liquid biopsy?",
+            "a": "<p>A liquid biopsy may be suitable for selected patients who need tumor genetic information but cannot easily undergo a tissue biopsy, or who need repeated monitoring during treatment. It may help when tissue is insufficient, when biomarker testing is required for targeted therapy, or when tracking treatment response. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the limitations of liquid biopsy?",
+            "a": "<p>A liquid biopsy has limitations and does not replace standard cancer testing in every situation. Early-stage tumors may shed too little DNA to detect, which can lead to false-negative results. It may also not capture every genetic change present in the tumor. Because sensitivity varies by cancer type and assay, results are usually interpreted alongside imaging, pathology, and other tests. Final decisions should be made by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support",
+        "items": [
+          {
+            "q": "How much does a liquid biopsy cost?",
+            "a": "<p>The cost of a liquid biopsy varies widely depending on the country, laboratory, type of assay, and the number of biomarkers tested. Comprehensive genomic panels generally cost more than single-gene tests. Final pricing also depends on the hospital, additional tests required, and the treating team's recommendations. Because estimates change over time and by location, patients should confirm current costs directly with the laboratory or treatment center before proceeding.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with liquid biopsy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or laboratories offering liquid biopsy, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Access depends on laboratory availability, medical review, and the patient's clinical situation. Treatment and testing decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

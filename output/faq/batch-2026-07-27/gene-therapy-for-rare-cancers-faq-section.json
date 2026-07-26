@@ -1,0 +1,66 @@
+{
+  "pillar": "Gene Therapy for Cancer",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gene-therapy-for-rare-cancers",
+  "route": "/guides/gene-therapy-for-rare-cancers",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Gene Therapy for Rare Cancers",
+    "intro": "Gene therapy is an emerging approach that treats certain rare cancers by changing how cancer cells or immune cells behave at the genetic level. These answers explain how it works, who may qualify, and what international patients should know.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy for Rare Cancers",
+        "items": [
+          {
+            "q": "What is gene therapy for rare cancers?",
+            "a": "<p>Gene therapy for rare cancers is a treatment that modifies genetic material inside cancer cells or a patient's immune cells to fight the disease. It may involve adding, silencing, or correcting genes, or engineering immune cells to recognize tumors. Because many rare cancers have few standard options, gene therapy is often studied in clinical trials. Suitability depends on cancer type, genetic profile, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does gene therapy work for rare cancers?",
+            "a": "<p>Gene therapy works by delivering new genetic instructions into cells to change how a rare cancer grows or responds to the immune system. Common methods include viral vectors that carry corrective genes, gene-editing tools, and cell therapies such as CAR T-cells engineered outside the body. The right approach depends on the cancer's biology and biomarkers. Any plan should be discussed with a qualified oncology team and may be available mainly through trials.</p>"
+          },
+          {
+            "q": "Which rare cancers may be treated with gene therapy?",
+            "a": "<p>Gene therapy is being explored for several rare cancers, including certain sarcomas, rare leukemias and lymphomas, some pediatric tumors, neuroendocrine tumors, and cancers with specific gene mutations or fusions. Eligibility depends heavily on the tumor's molecular profile, previous treatment, and available trials. Not every rare cancer has an approved or investigational gene therapy option, so testing and specialist review are needed to confirm whether this approach may be considered.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for gene therapy for rare cancers?",
+            "a": "<p>Eligibility for gene therapy depends on cancer type, stage, biomarker or genetic profile, previous treatment, and overall health. Many programs require specific mutations, adequate organ function, and fitness for the procedure. Because much of this treatment is delivered through clinical trials, strict inclusion and exclusion criteria often apply. Final eligibility is decided after medical record review and investigator or specialist assessment, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of gene therapy for rare cancers?",
+            "a": "<p>Gene therapy can cause side effects that vary by the type of treatment used. Cell-based therapies may trigger immune reactions such as cytokine release syndrome or neurological symptoms, while other approaches may cause fever, fatigue, low blood counts, or infection risk. Long-term effects are still being studied. These risks should be weighed against potential benefits and discussed carefully with the treating medical team before any decision is made.</p>"
+          },
+          {
+            "q": "Is gene therapy a cure for rare cancers?",
+            "a": "<p>Gene therapy is not a guaranteed cure for rare cancers, and outcomes vary from patient to patient. In some cases it has produced strong or lasting responses, while in others the benefit is partial or temporary. Because many uses remain investigational, results depend on cancer type, genetics, and individual response. It may be considered as one option among others, and final treatment decisions should be made by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does gene therapy for rare cancers cost?",
+            "a": "<p>The cost of gene therapy for rare cancers varies widely and can be high, especially for engineered cell therapies. Final cost depends on the hospital, diagnosis, cancer stage, required tests, treatment protocol, possible complications, and length of stay. Some patients may access lower or covered costs through clinical trials, though enrollment is not guaranteed. A personalized estimate should be confirmed with the treating center before planning treatment.</p>"
+          },
+          {
+            "q": "Which countries offer gene therapy, and how can international patients access it?",
+            "a": "<p>Gene therapy for rare cancers is offered mainly at specialized centers and trial sites in countries such as the United States, parts of Europe, China, and India, depending on the specific therapy. Access for international patients depends on hospital acceptance, medical review, visa approval, and travel fitness. Approvals and available treatments differ by country. Patients usually need updated reports, pathology, and biomarker testing before a center can assess their case.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene therapy for rare cancers?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For rare cancers, this can include locating suitable gene therapy programs or clinical trials for review. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

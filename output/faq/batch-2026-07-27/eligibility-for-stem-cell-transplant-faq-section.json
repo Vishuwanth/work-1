@@ -1,0 +1,62 @@
+{
+  "pillar": "Stem Cell Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "eligibility-for-stem-cell-transplant",
+  "route": "/insights/eligibility-for-stem-cell-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for Stem Cell Transplant",
+    "intro": "Eligibility for a stem cell transplant depends on many personal and medical factors, and it is decided by a specialist team rather than by any single rule. These answers explain the main considerations for patients and caregivers.",
+    "groups": [
+      {
+        "title": "Understanding Transplant Eligibility",
+        "items": [
+          {
+            "q": "What determines eligibility for a stem cell transplant?",
+            "a": "<p>Eligibility for a stem cell transplant depends on cancer type, stage, disease response to earlier treatment, overall health, and organ function such as heart, lung, liver, and kidney. Age, performance status, and the availability of a suitable donor also matter for certain transplant types. There is no single fixed rule, and suitability may be considered only after a full evaluation. Final decisions should be made by the treating transplant team after reviewing the patient's complete medical picture.</p>"
+          },
+          {
+            "q": "Is there an age limit for a stem cell transplant?",
+            "a": "<p>There is no strict universal age limit for a stem cell transplant, as biological fitness matters more than age alone. Many centers consider autologous transplants into the late 60s or beyond and allogeneic transplants using reduced-intensity conditioning for selected older patients. What counts most is overall health, organ function, and how well the disease is controlled. Whether a transplant is suitable at a given age should be discussed carefully with a qualified transplant team.</p>"
+          },
+          {
+            "q": "How does eligibility differ for autologous and allogeneic transplants?",
+            "a": "<p>Eligibility differs because autologous transplants use the patient's own stem cells, while allogeneic transplants use cells from a matched donor. Autologous transplants may be considered when a patient can produce enough healthy stem cells and tolerate high-dose therapy. Allogeneic transplants depend heavily on finding a suitable donor and on the patient handling a more demanding process. The right option depends on diagnosis, disease status, and specialist review, and should be decided by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Medical Factors and the Evaluation Process",
+        "items": [
+          {
+            "q": "What tests are needed to assess transplant eligibility?",
+            "a": "<p>Assessing transplant eligibility usually involves tests that check organ function, infection status, and disease control. These may include blood counts, heart tests such as an echocardiogram, lung function tests, kidney and liver panels, screening for viruses like hepatitis and HIV, and bone marrow or imaging studies. Additional tissue typing is needed for donor matching in allogeneic transplants. The exact tests depend on the individual case and are decided by the transplant team after review.</p>"
+          },
+          {
+            "q": "Can patients with other health conditions still qualify for a transplant?",
+            "a": "<p>Patients with other health conditions may still be considered for a transplant, but this depends on how well those conditions are controlled. Well-managed diabetes, high blood pressure, or a history of infection do not automatically rule out a transplant, while significant heart, lung, kidney, or liver problems may raise the risks. Each situation is weighed individually. Whether a transplant is safe and suitable should be assessed and confirmed by a qualified transplant and oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Donors, Access, and International Patients",
+        "items": [
+          {
+            "q": "How is a matching donor found for an allogeneic transplant?",
+            "a": "<p>A matching donor is found through human leukocyte antigen (HLA) tissue typing, which compares genetic markers between the patient and potential donors. Siblings are checked first because they may be a full match, and unrelated donors can be searched through international registries. Haploidentical (half-matched) family donors and cord blood are options at some centers. Donor availability affects eligibility and timing, and suitable matching should be confirmed by the transplant team before proceeding.</p>"
+          },
+          {
+            "q": "Can international patients access stem cell transplants abroad?",
+            "a": "<p>International patients may access stem cell transplants abroad, but this depends on hospital acceptance, medical record review, donor availability, visa approval, and fitness to travel. Centers typically assess reports before confirming whether a transplant is appropriate and when it can be scheduled. Costs and timelines vary by hospital, diagnosis, and transplant type, and admission or outcomes cannot be guaranteed. Careful planning for reports, second opinions, travel, and follow-up care is strongly recommended.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with eligibility for stem cell transplant?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant specialists or centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to understand whether a stem cell transplant may be an option and what steps are involved. Treatment and eligibility decisions are always made by the qualified transplant and oncology team after reviewing the patient's diagnosis, disease status, organ function, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

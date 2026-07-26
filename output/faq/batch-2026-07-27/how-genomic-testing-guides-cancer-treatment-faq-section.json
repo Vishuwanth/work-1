@@ -1,0 +1,62 @@
+{
+  "pillar": "Advanced Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-genomic-testing-guides-cancer-treatment",
+  "route": "/insights/how-genomic-testing-guides-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How Genomic Testing Guides Cancer Treatment",
+    "intro": "Genomic testing looks at the specific changes inside a tumor to help oncologists choose more targeted treatment. These answers explain how it works, who it may suit, and what patients can expect.",
+    "groups": [
+      {
+        "title": "Understanding Genomic Testing",
+        "items": [
+          {
+            "q": "What is genomic testing in cancer treatment?",
+            "a": "<p>Genomic testing in cancer analyzes the DNA of a tumor to identify mutations, gene changes, or biomarkers that may be driving the cancer's growth. Also called molecular or tumor profiling, it helps oncologists understand the specific characteristics of a patient's cancer. Results may guide treatment choices such as targeted therapy or immunotherapy, but their usefulness depends on cancer type, stage, and careful review of the full clinical picture by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does genomic testing guide cancer treatment decisions?",
+            "a": "<p>Genomic testing guides treatment by revealing specific mutations or biomarkers that certain therapies are designed to target. When an actionable change is found, an oncologist may consider targeted therapy, immunotherapy, or a matched clinical trial. This approach, often called precision oncology, aims to tailor treatment to the individual tumor. Final decisions depend on cancer type, stage, previous treatment, overall health, and review by the treating medical team.</p>"
+          },
+          {
+            "q": "What is the difference between genomic testing and genetic testing?",
+            "a": "<p>Genomic testing usually examines the tumor itself to find changes acquired during cancer development, while genetic testing often looks at inherited changes in a person's normal cells. Tumor profiling helps guide treatment selection, whereas hereditary genetic testing assesses cancer risk in patients and sometimes their families. The two can overlap, and which test is appropriate depends on the clinical situation and should be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Samples, and Results",
+        "items": [
+          {
+            "q": "Who may benefit from genomic testing for cancer?",
+            "a": "<p>Genomic testing may be considered for patients with advanced, metastatic, or hard-to-treat cancers, and for certain tumor types where biomarkers strongly influence treatment. It may be suitable for selected patients when results could change the treatment plan or open access to targeted therapy or clinical trials. Eligibility depends on cancer type, stage, available tissue, and previous treatment, and should be decided by the treating oncology team after reviewing the case.</p>"
+          },
+          {
+            "q": "What sample is needed for genomic testing?",
+            "a": "<p>Genomic testing usually requires a sample of the tumor, most often from a previous biopsy or surgery, though a fresh biopsy is sometimes needed. In some cases, a blood test known as a liquid biopsy can detect tumor DNA when tissue is limited. The best sample type depends on the cancer, the test used, and tissue availability, and should be determined by the treating medical team and laboratory.</p>"
+          },
+          {
+            "q": "How long do genomic testing results take?",
+            "a": "<p>Genomic testing results typically take about one to three weeks, though timing varies by laboratory, test type, and sample quality. Comprehensive tumor profiling that examines many genes may take longer than tests focused on a single biomarker. Delays can occur if additional tissue or repeat testing is required. Patients should ask their oncology team for the expected timeline, as treatment planning may depend on when results become available.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does genomic testing for cancer cost?",
+            "a": "<p>The cost of genomic testing for cancer varies widely depending on the type of test, the number of genes analyzed, the laboratory, and the country where testing is done. Single-biomarker tests are generally less expensive than comprehensive tumor profiling. Insurance coverage differs by region and diagnosis. Final cost depends on the test chosen, sample requirements, and hospital or laboratory pricing, and should be confirmed with the treating team before proceeding.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with genomic testing?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify laboratories or specialists offering genomic testing, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support where relevant. It aims to make the process clearer for international patients and caregivers. Genomic testing decisions and any resulting treatment are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

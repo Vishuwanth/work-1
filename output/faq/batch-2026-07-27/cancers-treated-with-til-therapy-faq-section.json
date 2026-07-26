@@ -1,0 +1,57 @@
+{
+  "pillar": "TIL Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancers-treated-with-til-therapy",
+  "route": "/insights/cancers-treated-with-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancers Treated with TIL Therapy",
+    "intro": "TIL (tumor-infiltrating lymphocyte) therapy is a personalized cell therapy studied and used across several cancer types. These answers explain which cancers it may help, how eligibility is decided, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy and Which Cancers It Treats",
+        "items": [
+          {
+            "q": "What is TIL therapy and which cancers does it treat?",
+            "a": "<p>TIL therapy, or tumor-infiltrating lymphocyte therapy, is a personalized cell therapy that uses a patient's own immune cells collected from within the tumor, expanded in a laboratory, and reinfused to help fight cancer. It is used mainly for advanced melanoma and is being studied in cervical, lung, head and neck, and other solid tumors. Suitability depends on cancer type, stage, previous treatment, overall health, and specialist review.</p>"
+          },
+          {
+            "q": "Which cancer is TIL therapy currently approved to treat?",
+            "a": "<p>TIL therapy is currently approved mainly for advanced or metastatic melanoma that has progressed after prior immunotherapy and, where relevant, targeted therapy. Lifileucel (Amtagvi) received approval for certain melanoma patients based on clinical trial results. Approval status varies by country and regulatory authority, so availability may differ. Eligibility depends on cancer type, stage, previous treatments, and overall health, and should be confirmed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can TIL therapy treat cervical cancer?",
+            "a": "<p>TIL therapy is being investigated for advanced cervical cancer, mainly through clinical trials, and early studies have shown responses in some patients. It is not a standard, widely approved treatment for cervical cancer in most countries. Whether it may be considered depends on cancer stage, prior therapy, biomarker profile, overall health, and trial eligibility. Any decision to pursue TIL therapy should be discussed with a specialist oncology team.</p>"
+          },
+          {
+            "q": "Is TIL therapy used for lung cancer?",
+            "a": "<p>TIL therapy is being studied for non-small cell lung cancer (NSCLC), particularly in patients whose disease has progressed after other treatments, but it remains largely experimental for this cancer type. It is not yet a standard approved therapy for lung cancer in most regions. Eligibility may be considered for selected patients through clinical trials, depending on tumor type, prior treatment, and investigator assessment after medical record review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Access, and International Patients",
+        "items": [
+          {
+            "q": "Does TIL therapy work for all solid tumors?",
+            "a": "<p>No, TIL therapy does not work for all solid tumors and is not suitable for everyone. It has shown the most benefit in melanoma and is being explored in cancers such as cervical, lung, and head and neck tumors. Response varies from patient to patient, and the tumor must contain enough usable immune cells to grow. Whether it may be considered depends on cancer type, biomarkers, and specialist review.</p>"
+          },
+          {
+            "q": "Who is eligible for TIL therapy?",
+            "a": "<p>Eligibility for TIL therapy depends on cancer type, stage, previous treatments, overall health, and whether a tumor sample can be surgically collected to grow the cells. It may be suitable for selected patients with advanced melanoma or those enrolled in clinical trials for other cancers. Patients generally need to be fit enough for the associated chemotherapy and cell infusion. Final decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Is TIL therapy available for international patients?",
+            "a": "<p>TIL therapy may be available to international patients at specialized centers, but access depends on hospital acceptance, medical record review, treatment availability in that country, visa approval, and travel fitness. Because the therapy requires surgery, laboratory cell expansion, and inpatient care, planning and coordination are important. Availability and cost vary by center and cannot be guaranteed. Eligibility is confirmed only after a specialist reviews the patient's diagnosis and reports.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers offering TIL therapy, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. TIL therapy may be considered for selected patients and cannot be guaranteed for every cancer type or individual.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

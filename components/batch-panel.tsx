@@ -9,15 +9,15 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
 interface BatchPanelProps {
-  /** The slugs to run; a NEW array reference starts a run. null = hidden. */
-  slugs: string[] | null;
+  /** The page keys to run; a NEW array reference starts a run. null = hidden. */
+  keys: string[] | null;
   concurrency: number;
   onConcurrencyChange: (n: number) => void;
   onStatus: (slug: string, status: GenStatus) => void;
-  /** Called once when the batch finishes, with the slugs that were freshly generated. */
+  /** Called once when the batch finishes, with the keys that were freshly generated. */
   onDone: (doneSlugs: string[]) => void;
   onClose: () => void;
-  onRetry: (slugs: string[]) => void;
+  onRetry: (keys: string[]) => void;
 }
 
 interface Failure {
@@ -39,7 +39,7 @@ interface RunState {
 const INITIAL: RunState = { total: 0, done: 0, failed: 0, skipped: 0, running: 0, finished: false, failures: [] };
 
 export function BatchPanel({
-  slugs,
+  keys,
   concurrency,
   onConcurrencyChange,
   onStatus,
@@ -56,15 +56,15 @@ export function BatchPanel({
   cbs.current = { onStatus, onDone, concurrency };
 
   React.useEffect(() => {
-    // A new `slugs` array identity (a fresh Start or Retry) drives one run. The
+    // A new `keys` array identity (a fresh Start or Retry) drives one run. The
     // effect is self-contained: its cleanup aborts its own fetch. Under React
     // Strict Mode the effect runs twice (mount → cleanup → mount); the first
     // fetch is aborted by its cleanup and the second survives — so no stale
     // guard here (a guard would let the survivor bail out and leave nothing).
-    if (!slugs) return;
-    setState({ ...INITIAL, total: slugs.length });
+    if (!keys) return;
+    setState({ ...INITIAL, total: keys.length });
     doneSlugsRef.current = [];
-    slugs.forEach((s) => cbs.current.onStatus(s, "queued"));
+    keys.forEach((s) => cbs.current.onStatus(s, "queued"));
 
     const ctrl = new AbortController();
     abortRef.current = ctrl;
@@ -72,10 +72,10 @@ export function BatchPanel({
     const apply = (e: GenEvent) => {
       if (e.type === "start") return setState((s) => ({ ...s, total: e.total }));
       if (e.type === "row") {
-        cbs.current.onStatus(e.slug, e.status);
+        cbs.current.onStatus(e.key, e.status);
         if (e.status === "running") return setState((s) => ({ ...s, running: s.running + 1 }));
         if (e.status === "done") {
-          doneSlugsRef.current.push(e.slug);
+          doneSlugsRef.current.push(e.key);
           return setState((s) => ({ ...s, done: s.done + 1, running: Math.max(0, s.running - 1) }));
         }
         if (e.status === "skipped") return setState((s) => ({ ...s, skipped: s.skipped + 1 }));
@@ -84,7 +84,7 @@ export function BatchPanel({
             ...s,
             failed: s.failed + 1,
             running: Math.max(0, s.running - 1),
-            failures: [...s.failures, { slug: e.slug, error: e.error }],
+            failures: [...s.failures, { slug: e.key, error: e.error }],
           }));
       }
       if (e.type === "aborted") return setState((s) => ({ ...s, aborted: { reason: e.reason, message: e.message } }));
@@ -99,7 +99,7 @@ export function BatchPanel({
         const res = await fetch("/api/generate", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ slugs, concurrency: cbs.current.concurrency }),
+          body: JSON.stringify({ keys, concurrency: cbs.current.concurrency }),
           signal: ctrl.signal,
         });
         if (!res.ok || !res.body) {
@@ -128,9 +128,9 @@ export function BatchPanel({
     })();
 
     return () => ctrl.abort();
-  }, [slugs]);
+  }, [keys]);
 
-  if (!slugs) return null;
+  if (!keys) return null;
 
   const completed = state.done + state.failed + state.skipped;
   const pct = state.total ? Math.round((completed / state.total) * 100) : 0;

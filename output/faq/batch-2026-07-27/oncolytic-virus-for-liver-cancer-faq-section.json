@@ -1,0 +1,62 @@
+{
+  "pillar": "Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "oncolytic-virus-for-liver-cancer",
+  "route": "/insights/oncolytic-virus-for-liver-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Oncolytic Virus for Liver Cancer",
+    "intro": "Oncolytic virus therapy is an emerging approach that uses modified viruses to target liver cancer cells and stimulate the immune system. These FAQs explain how it works, who it may suit, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Oncolytic Virus Therapy for Liver Cancer",
+        "items": [
+          {
+            "q": "What is oncolytic virus therapy for liver cancer?",
+            "a": "<p>Oncolytic virus therapy for liver cancer uses genetically modified or naturally occurring viruses that selectively infect and destroy cancer cells while sparing most healthy tissue. As the virus replicates inside tumour cells, it can trigger cell death and alert the immune system to attack the cancer. It is still considered an investigational or emerging option for liver cancer and is usually studied within clinical trials or specialised centres under specialist supervision.</p>"
+          },
+          {
+            "q": "How does an oncolytic virus work against liver tumours?",
+            "a": "<p>An oncolytic virus works by entering liver cancer cells, multiplying inside them, and causing the cells to burst, which releases tumour signals that may activate an immune response. This dual action—direct cell destruction plus immune stimulation—is why researchers are interested in it. The exact effect depends on the virus type, tumour biology, and delivery method, and outcomes vary between patients and should be interpreted by the treating oncology team.</p>"
+          },
+          {
+            "q": "Is oncolytic virus therapy a proven cure for liver cancer?",
+            "a": "<p>Oncolytic virus therapy is not an established cure for liver cancer and remains largely experimental. Most evidence comes from early-phase clinical trials and selected research settings, often combined with other treatments such as immunotherapy. It may be considered for certain patients, but responses are not guaranteed. Liver cancer treatment decisions should always be discussed with a qualified oncology team based on stage, liver function, and overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Treatment Process",
+        "items": [
+          {
+            "q": "Who may be eligible for oncolytic virus therapy for liver cancer?",
+            "a": "<p>Eligibility for oncolytic virus therapy is decided case by case and often depends on cancer type, stage, liver function, previous treatments, overall health, and clinical trial criteria. It may be considered for selected patients with advanced or limited-option liver cancer, frequently within research studies. Because inclusion and exclusion rules can be strict, suitability must be confirmed by a specialist team after reviewing medical records, imaging, and pathology reports.</p>"
+          },
+          {
+            "q": "What are the possible side effects of oncolytic virus therapy?",
+            "a": "<p>Possible side effects of oncolytic virus therapy can include flu-like symptoms such as fever, chills, fatigue, and injection-site reactions, and less commonly more serious immune or liver-related effects. Because the treatment involves a live modified virus, patients are monitored carefully for safety. Side effects vary by virus type and individual health, and any symptoms should be reported promptly to the treating medical team for assessment and management.</p>"
+          },
+          {
+            "q": "How is oncolytic virus therapy given to liver cancer patients?",
+            "a": "<p>Oncolytic virus therapy is usually delivered by direct injection into the liver tumour, sometimes guided by imaging, or through the bloodstream, depending on the study protocol and tumour location. It may be combined with immunotherapy, targeted therapy, or other treatments. The number of doses and schedule vary by protocol, and the specific approach should be planned and supervised by the treating oncology and interventional team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does oncolytic virus therapy for liver cancer cost?",
+            "a": "<p>The cost of oncolytic virus therapy varies widely and cannot be quoted as a fixed price, since much of it is offered through clinical trials or specialised centres. Final cost depends on the hospital, country, diagnosis, stage, required tests, treatment protocol, complications, and length of stay. Some trial-based treatments may reduce certain costs, while others do not. A personalised estimate should be confirmed directly with the treating hospital.</p>"
+          },
+          {
+            "q": "How can international patients access oncolytic virus therapy for liver cancer, and how does CancerFax help?",
+            "a": "<p>International access to oncolytic virus therapy depends on hospital acceptance, medical review, trial eligibility, visa approval, and travel fitness, and none of these can be guaranteed in advance. CancerFax helps patients organise medical reports, identify relevant specialists or centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing diagnosis, stage, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "pillar": "Gene Therapy for Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cost-of-gene-therapy-worldwide",
+  "route": "/insights/cost-of-gene-therapy-worldwide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of Gene Therapy Worldwide",
+    "intro": "Gene therapy is one of the most advanced and expensive areas of cancer treatment, and prices vary widely between countries and therapy types. These FAQs explain typical costs, what drives them, and practical considerations for patients exploring treatment at home or abroad.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy Costs",
+        "items": [
+          {
+            "q": "How much does gene therapy for cancer cost?",
+            "a": "<p>Gene therapy for cancer typically costs between US$100,000 and US$500,000 or more per treatment, depending on the therapy type, country, and disease. Approved CAR T-cell therapies often fall at the higher end, while newer or experimental treatments vary widely. These figures are broad estimates, and the final price depends on the hospital, diagnosis, hospitalization, and supportive care needed. Actual costs should always be confirmed with the treating center and specialist team.</p>"
+          },
+          {
+            "q": "Why is gene therapy so expensive?",
+            "a": "<p>Gene therapy is costly because it involves complex, often personalized manufacturing, specialized laboratories, and highly trained medical teams. Many treatments are made individually for each patient using their own or donor cells, which requires strict quality control and lengthy processing. Limited production capacity, expensive raw materials, and intensive hospital monitoring add further expense. Prices may fall over time as the technology matures, but current treatments remain among the most expensive in medicine.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost Differences by Country and Insurance",
+        "items": [
+          {
+            "q": "How much does CAR T-cell therapy cost in different countries?",
+            "a": "<p>CAR T-cell therapy costs vary significantly by country, often ranging from around US$300,000 to US$500,000 in the United States, while some centers in India and China may offer lower estimated prices. These figures usually cover the product, hospitalization, and monitoring, and can rise with complications or extended stays. Costs are estimates only and depend on the hospital, protocol, and patient condition, so confirm current pricing directly with the treating center.</p>"
+          },
+          {
+            "q": "Is gene therapy cheaper in India than in the United States?",
+            "a": "<p>Gene therapy and CAR T-cell treatment are often reported to cost less in India than in the United States, partly due to lower hospital and manufacturing expenses and locally developed therapies. However, savings are not guaranteed, and total costs depend on the specific product, hospital, tests, hospitalization length, and any complications. International patients should also budget for travel, accommodation, and follow-up care, and confirm estimates with the treating oncology team.</p>"
+          },
+          {
+            "q": "Does insurance cover the cost of gene therapy?",
+            "a": "<p>Insurance coverage for gene therapy varies widely by country, insurer, and specific treatment. Some approved therapies may be partially or fully covered under national health systems or private plans, while experimental or overseas treatments are often not covered. Coverage may also require prior authorization and documentation of eligibility. Patients should check directly with their insurer and treating hospital, since approval and reimbursement depend on individual policies and medical circumstances.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "Are there ways to reduce the cost of gene therapy?",
+            "a": "<p>The cost of gene therapy may sometimes be reduced through clinical trials, patient assistance programs, hospital financial support, or treatment in countries with lower prices. Clinical trials can provide access at reduced or no cost, but enrollment is not guaranteed and depends on strict eligibility criteria and investigator review. Savings vary by situation, so patients should discuss available options, trials, and financial planning with their oncology team and treatment center.</p>"
+          },
+          {
+            "q": "Can international patients access gene therapy abroad?",
+            "a": "<p>International patients may access gene therapy abroad, but availability depends on hospital acceptance, medical review, visa approval, and fitness to travel. Some treatments are only offered in specific countries or approved centers, and eligibility is decided after specialists review the patient's diagnosis, stage, and prior treatment. Access and cost cannot be guaranteed. Patients should plan for medical reports, second opinions, estimated costs, travel, and follow-up care with their treating team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of gene therapy worldwide?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

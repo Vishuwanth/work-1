@@ -1,0 +1,66 @@
+{
+  "pillar": "Pediatric Cancer Advanced Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-pediatric-cancer",
+  "route": "/insights/what-is-pediatric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Pediatric Cancer",
+    "intro": "Pediatric cancer affects children and teenagers differently from adults, and families often have urgent questions about its types, symptoms, diagnosis, and treatment. These answers offer clear, medically cautious guidance for parents and caregivers.",
+    "groups": [
+      {
+        "title": "Understanding Pediatric Cancer",
+        "items": [
+          {
+            "q": "What is pediatric cancer?",
+            "a": "<p>Pediatric cancer refers to cancers that develop in children and teenagers, usually from birth to around 18 years of age. These cancers arise when abnormal cells grow uncontrollably, and they often differ biologically from adult cancers. Common forms include leukemia, brain tumors, and lymphomas. Diagnosis, staging, and treatment planning depend on the cancer type, the child's age, and overall health, and should be guided by a specialist pediatric oncology team.</p>"
+          },
+          {
+            "q": "How is childhood cancer different from adult cancer?",
+            "a": "<p>Childhood cancers differ from adult cancers in their origin, biology, and response to treatment. They usually develop from immature or developing cells rather than lifestyle factors, and are rarely linked to smoking, diet, or environment. Children often tolerate certain intensive treatments better, but they may also face long-term effects on growth and development. Care is typically managed by pediatric oncology specialists who tailor treatment to the child's age, cancer type, and needs.</p>"
+          },
+          {
+            "q": "What are the most common types of pediatric cancer?",
+            "a": "<p>The most common childhood cancers include leukemia, brain and central nervous system tumors, lymphomas, neuroblastoma, Wilms tumor, and bone cancers such as osteosarcoma. Leukemia, a cancer of the blood and bone marrow, is the most frequently diagnosed. The specific type influences symptoms, treatment, and outlook. Accurate identification depends on blood tests, imaging, and biopsy, and the treatment approach should be determined by a qualified pediatric oncology team after full evaluation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Causes, Symptoms, and Diagnosis",
+        "items": [
+          {
+            "q": "What causes cancer in children?",
+            "a": "<p>In most cases, the exact cause of childhood cancer is unknown. Unlike many adult cancers, pediatric cancers are rarely linked to lifestyle or environmental factors. Some are associated with inherited genetic conditions or random changes in cell DNA that occur during early development. Parents should understand that childhood cancer is generally not preventable and is not caused by anything they did. A specialist team can advise whether genetic evaluation may be appropriate for selected families.</p>"
+          },
+          {
+            "q": "What are the warning signs of pediatric cancer?",
+            "a": "<p>Warning signs of childhood cancer can include persistent fever, unexplained weight loss, unusual lumps or swelling, ongoing bone or joint pain, easy bruising, paleness, and constant fatigue. Some children may have headaches with vomiting or changes in vision or balance. These symptoms are common in many harmless childhood illnesses, so they do not confirm cancer. Any persistent or unexplained symptoms should be evaluated promptly by a doctor for proper assessment.</p>"
+          },
+          {
+            "q": "How is childhood cancer diagnosed?",
+            "a": "<p>Childhood cancer is diagnosed through a combination of physical examination, blood tests, imaging scans, and biopsy. Tests such as ultrasound, CT, MRI, or bone marrow examination help locate the tumor and determine its type and stage. Biomarker and genetic testing may guide treatment in selected cases. Diagnosis can take time to confirm, and the full plan depends on the results reviewed by a pediatric oncology team before treatment begins.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment, Outlook, and Support",
+        "items": [
+          {
+            "q": "How is pediatric cancer treated?",
+            "a": "<p>Pediatric cancer treatment may include chemotherapy, surgery, radiation therapy, targeted therapy, immunotherapy, or stem cell transplant, often in combination. The approach depends on the cancer type, stage, biomarker profile, and the child's age and overall health. Treatment is usually delivered at specialized centers with pediatric oncology teams. Newer options such as CAR T-cell therapy may be considered for selected cases. Final treatment decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "What is the survival rate for childhood cancer?",
+            "a": "<p>Survival rates for childhood cancer have improved significantly over recent decades, and many children today achieve long-term remission. Outcomes vary widely depending on the cancer type, stage at diagnosis, biomarker features, and response to treatment. Some cancers have very high survival rates, while others remain more challenging. Survival statistics are averages and cannot predict any individual child's outcome, which should be discussed with the treating pediatric oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with pediatric cancer?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant pediatric specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the child's diagnosis, stage, biomarkers, previous treatment, and overall health. This support aims to make accessing appropriate care clearer and less stressful for international patients and their caregivers.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

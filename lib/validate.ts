@@ -2,7 +2,7 @@
 // Rules come from docs/specs/2026-07-27-live-csv-source-mapping-design.md §5.4,
 // which encodes the CancerFax FAQ AEO instructions plus the team's 2026-07-20
 // fixed-count direction.
-import type { PageRole } from "@/lib/pages";
+import type { PageRole } from "@/lib/page-key";
 import {
   normalizeFixture,
   faqCount,

@@ -1,0 +1,62 @@
+{
+  "pillar": "Cancer Immunotherapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cost-of-immunotherapy-worldwide",
+  "route": "/insights/cost-of-immunotherapy-worldwide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of Immunotherapy Worldwide",
+    "intro": "Immunotherapy costs vary widely between countries, drugs, and treatment durations. These answers explain what drives the price, how regions compare, and how international patients can plan and access care.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy Costs",
+        "items": [
+          {
+            "q": "How much does immunotherapy cost worldwide?",
+            "a": "<p>Immunotherapy typically costs between US$5,000 and US$20,000 per cycle in most countries, with total treatment often reaching US$50,000 to US$150,000 or more per year. The exact figure depends on the specific drug, cancer type, dosing schedule, and how many cycles are needed. Prices are generally lower in India and parts of Asia and higher in the United States and Western Europe. Final costs should always be confirmed with the treating hospital.</p>"
+          },
+          {
+            "q": "Why is immunotherapy so expensive?",
+            "a": "<p>Immunotherapy is expensive because these drugs are complex biologics that require advanced research, specialized manufacturing, and rigorous testing before approval. Checkpoint inhibitors and cell therapies involve high development and production costs, which are reflected in their price. Treatment may also continue for many months and requires close monitoring, scans, and supportive care. Costs can differ between brand-name and biosimilar versions, and vary by country, hospital, and healthcare system.</p>"
+          },
+          {
+            "q": "What factors affect the cost of immunotherapy?",
+            "a": "<p>The cost of immunotherapy depends on cancer type, stage, the specific drug, dose, body weight, and the number of cycles required. Country, hospital, and whether a brand-name or biosimilar product is used also make a significant difference. Additional expenses include diagnostic tests, biomarker profiling, hospital stays, and management of side effects. Because each treatment plan is individual, final costs should be discussed with the qualified oncology team after full medical review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Costs by Country and Treatment Type",
+        "items": [
+          {
+            "q": "How does the cost of immunotherapy in India compare with the USA?",
+            "a": "<p>Immunotherapy in India is generally far more affordable than in the United States, often costing a fraction of US prices for the same drugs. A single cycle in India may range from around US$1,500 to US$5,000, while comparable treatment in the USA can cost several times more. Biosimilar availability in India helps lower costs. Actual pricing depends on the hospital, drug brand, and individual protocol, and should be confirmed directly.</p>"
+          },
+          {
+            "q": "How much does CAR T-cell therapy cost?",
+            "a": "<p>CAR T-cell therapy is one of the most expensive immunotherapies, often costing US$300,000 to US$500,000 in the United States for the cell product alone, before hospital and supportive care. Prices are considerably lower in India and China, where locally developed CAR T products may cost significantly less. Because this therapy is complex and highly individualized, eligibility and total cost should be assessed by a specialized transplant and cell-therapy center.</p>"
+          },
+          {
+            "q": "Does insurance cover immunotherapy?",
+            "a": "<p>Insurance may cover immunotherapy, but coverage varies widely by country, policy, drug, and cancer type. Some insurers approve treatment only for specific approved indications, while others require pre-authorization or exclude newer therapies. Patients often face co-payments or caps on annual benefits. It is important to review your policy carefully and confirm approvals in writing before starting treatment. Coverage details should be verified with both the insurer and the treating hospital.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support for International Patients",
+        "items": [
+          {
+            "q": "Are there ways to reduce the cost of immunotherapy?",
+            "a": "<p>Costs may be reduced through biosimilar drugs, treatment in lower-cost countries, patient-assistance programs, or eligibility for a clinical trial. Some trials provide the study drug at no charge, though enrollment depends on strict inclusion criteria and investigator assessment and is never guaranteed. Manufacturer support schemes and charitable programs may also help selected patients. Any cost-saving option should be discussed with the treating oncology team to ensure it remains medically appropriate.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of immunotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Access to treatment abroad depends on hospital acceptance, medical review, and travel fitness, and cannot be guaranteed. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

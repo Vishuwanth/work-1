@@ -1,0 +1,66 @@
+{
+  "pillar": "TIL Therapy for Lung Cancer: What You Need to Know Before Making Any Decision",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "til-therapy-for-lung-cancer",
+  "route": "/insights/til-therapy-for-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About TIL Therapy for Lung Cancer",
+    "intro": "TIL (tumor-infiltrating lymphocyte) therapy is an experimental cell therapy being studied for advanced lung cancer. These answers explain how it works, who may qualify, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy for Lung Cancer",
+        "items": [
+          {
+            "q": "What is TIL therapy for lung cancer?",
+            "a": "<p>TIL therapy for lung cancer is a form of adoptive cell therapy that uses the patient's own tumor-infiltrating lymphocytes to fight cancer. Immune cells are taken from a piece of the tumor, grown into large numbers in a laboratory, and infused back into the patient. In lung cancer it is still mostly investigational and studied within clinical trials, usually for advanced or treatment-resistant non-small cell lung cancer.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by expanding the immune cells that have already recognized the tumor. Surgeons remove a small tumor sample, and specialists isolate the tumor-infiltrating lymphocytes inside it. These cells are multiplied in the laboratory over several weeks, then returned to the patient as an infusion, often after lymphodepleting chemotherapy. The infused cells aim to attack remaining cancer cells, though response varies and cannot be predicted in advance.</p>"
+          },
+          {
+            "q": "Is TIL therapy approved for lung cancer?",
+            "a": "<p>TIL therapy is not yet a standard, widely approved treatment for lung cancer in most countries. The first regulatory approval of a TIL product was in advanced melanoma, and lung cancer use remains largely limited to clinical trials and research settings. Whether it may be suitable depends on cancer type, stage, prior treatment, overall health, and specialist review, and should always be discussed with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Effectiveness",
+        "items": [
+          {
+            "q": "Who may be eligible for TIL therapy for lung cancer?",
+            "a": "<p>TIL therapy may be considered for selected patients with advanced non-small cell lung cancer whose disease has progressed after standard treatments. Eligibility usually requires a tumor that can be safely biopsied or resected, adequate organ function, and fitness for lymphodepleting chemotherapy. Because it is largely trial-based, enrollment depends on strict inclusion and exclusion criteria, medical record review, and investigator assessment. Final decisions rest with the treating medical team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of TIL therapy?",
+            "a": "<p>TIL therapy can cause significant side effects, mainly from the lymphodepleting chemotherapy and high-dose immune support used alongside it. These may include low blood counts, infection risk, fever, fatigue, and reactions related to the infused cells. Serious complications are possible and require treatment in specialized centers with intensive monitoring. Risks depend on the individual's health, the specific protocol, and should be carefully reviewed with the oncology team.</p>"
+          },
+          {
+            "q": "How effective is TIL therapy for lung cancer?",
+            "a": "<p>The effectiveness of TIL therapy for lung cancer is still being studied, and outcomes vary widely between patients. Early trials suggest some patients with advanced non-small cell lung cancer may respond, but results are not guaranteed and long-term data remain limited. Response depends on cancer type, tumor biology, prior treatment, and overall health. No cure or assured benefit can be promised, and expectations should be discussed honestly with specialists.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "How can international patients access TIL therapy for lung cancer?",
+            "a": "<p>International patients can usually access TIL therapy for lung cancer only through clinical trials or specialized centers offering it under research or expanded-access programs. Access depends on hospital acceptance, medical record review, trial eligibility, travel fitness, and visa approval, none of which can be guaranteed. Because the process is complex and time-sensitive, early evaluation of reports and realistic planning with the treating team are strongly recommended.</p>"
+          },
+          {
+            "q": "How much does TIL therapy for lung cancer cost?",
+            "a": "<p>The cost of TIL therapy for lung cancer varies widely and cannot be quoted as a fixed figure. It depends on the hospital, country, diagnosis, stage, required tests, the cell-manufacturing process, hospital stay, and management of any complications. In clinical trials, some costs may be covered while others are not. A reliable estimate requires medical review, and final costs are confirmed only by the treating hospital and team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL therapy for lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help explore whether suitable clinical trials may be available. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and no outcome or trial acceptance is guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

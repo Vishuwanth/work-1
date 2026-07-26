@@ -1,0 +1,66 @@
+{
+  "pillar": "Rare Cancer Treatments",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rare-brain-tumor-treatments",
+  "route": "/insights/rare-brain-tumor-treatments",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Rare Brain Tumor Treatments",
+    "intro": "Rare brain tumors are uncommon and often need specialized care at high-volume neuro-oncology centers. These FAQs explain treatment options, eligibility, cost, and how international patients can access care.",
+    "groups": [
+      {
+        "title": "Understanding Rare Brain Tumors and Their Treatment",
+        "items": [
+          {
+            "q": "What are rare brain tumors?",
+            "a": "<p>Rare brain tumors are uncommon growths in or around the brain and spinal cord that occur far less often than common types like glioblastoma. Examples include ependymoma, medulloblastoma, pineal region tumors, chordoma, hemangioblastoma, and atypical teratoid/rhabdoid tumor (ATRT). Because they are infrequent and biologically diverse, they are best evaluated at specialized neuro-oncology centers where an experienced multidisciplinary team can confirm the diagnosis and plan appropriate care.</p>"
+          },
+          {
+            "q": "How are rare brain tumors treated?",
+            "a": "<p>Rare brain tumors are usually treated with a combination of surgery, radiation therapy, and chemotherapy, tailored to the specific tumor type. Treatment may involve maximal safe surgical removal, focused radiation such as proton therapy or stereotactic radiosurgery, and drug therapy when appropriate. The exact plan depends on tumor type, location, grade, molecular features, age, and overall health, and should be decided by a qualified neuro-oncology team after full evaluation.</p>"
+          },
+          {
+            "q": "Why do rare brain tumors need specialized care?",
+            "a": "<p>Rare brain tumors need specialized care because their uncommon biology and complex locations require experience that general hospitals may not have. High-volume neuro-oncology centers offer expert neurosurgeons, advanced imaging, molecular pathology, and access to newer radiation techniques and clinical trials. Accurate diagnosis and coordinated planning can influence treatment approach, so seeking evaluation or a second opinion at an experienced center is often recommended for these tumors.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Options, Eligibility, and Clinical Trials",
+        "items": [
+          {
+            "q": "What advanced treatments are available for rare brain tumors?",
+            "a": "<p>Advanced options for rare brain tumors may include proton beam therapy, stereotactic radiosurgery, targeted therapy, and immunotherapy for selected patients. Molecular testing of the tumor can sometimes identify specific mutations that guide targeted drugs. Availability depends on tumor type, biomarker profile, and where you receive care. Whether any advanced treatment is suitable should be discussed with a qualified oncology team after reviewing your diagnosis and reports.</p>"
+          },
+          {
+            "q": "Who is eligible for targeted therapy or immunotherapy?",
+            "a": "<p>Eligibility for targeted therapy or immunotherapy depends on the tumor's specific molecular or biomarker profile, cancer type, previous treatment, and overall health. Not every rare brain tumor responds to these approaches, and testing is usually required to identify suitable candidates. Final decisions are made by the treating medical team after reviewing pathology, imaging, and biomarker results. These therapies may be considered for selected patients rather than everyone.</p>"
+          },
+          {
+            "q": "Are clinical trials available for rare brain tumors?",
+            "a": "<p>Clinical trials are often an important option for rare brain tumors because they may provide access to newer treatments under study. Enrollment is not guaranteed, and each trial has strict inclusion and exclusion criteria. Eligibility is decided only after medical record review and investigator assessment. Trials do not guarantee benefit, but discussing them with your neuro-oncology team can help you understand whether participation may be appropriate for your situation.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does rare brain tumor treatment cost?",
+            "a": "<p>The cost of rare brain tumor treatment varies widely and cannot be fixed in advance. It depends on the hospital, country, tumor type, surgery, radiation technique, drug therapy, length of stay, and any complications. Advanced options like proton therapy typically cost more than standard radiation. A reliable estimate is possible only after specialists review your reports, so final costs should be confirmed with the treating hospital and team.</p>"
+          },
+          {
+            "q": "How can international patients access rare brain tumor treatment?",
+            "a": "<p>International patients can access rare brain tumor treatment at specialized centers, but access depends on hospital acceptance, medical review, visa approval, and travel fitness. It usually helps to share detailed medical reports, imaging, and pathology for a specialist opinion and cost estimate before travel. Admission, visa approval, and treatment acceptance are never guaranteed, so planning with the receiving hospital and arranging follow-up care in advance is important.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with rare brain tumor treatments?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax supports coordination and does not replace the medical judgment of the treating doctors or hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

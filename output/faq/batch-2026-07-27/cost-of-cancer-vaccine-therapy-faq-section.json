@@ -1,0 +1,66 @@
+{
+  "pillar": "Tumor Therapeutic Vaccines",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cost-of-cancer-vaccine-therapy",
+  "route": "/insights/cost-of-cancer-vaccine-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cost of Cancer Vaccine Therapy",
+    "intro": "Cancer vaccine therapy costs vary widely depending on the vaccine type, country, and whether treatment is delivered through a clinical trial or a commercial program. These answers explain what shapes the price and what patients should factor into their planning.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Vaccine Therapy Costs",
+        "items": [
+          {
+            "q": "How much does cancer vaccine therapy cost?",
+            "a": "<p>The cost of cancer vaccine therapy can range from a few thousand to well over one hundred thousand US dollars, depending on the vaccine type and country. Approved preventive vaccines are relatively affordable, while personalized therapeutic vaccines that are custom-made for a patient's tumor are far more expensive. Final pricing depends on the hospital, diagnosis, manufacturing process, number of doses, and treating team advice, and should be confirmed directly with the center.</p>"
+          },
+          {
+            "q": "Why are therapeutic cancer vaccines so expensive?",
+            "a": "<p>Therapeutic cancer vaccines are expensive mainly because many are personalized and manufactured individually for each patient. Producing a custom vaccine may involve sequencing the tumor, identifying specific targets called neoantigens, and building the product in a specialized lab. This process is time-consuming and resource-intensive. Costs also reflect research investment, cold-chain handling, and specialist administration. Prices vary by manufacturer and country, so estimates should be confirmed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Does the type of cancer vaccine affect the price?",
+            "a": "<p>Yes, the type of cancer vaccine strongly affects the price. Standardized off-the-shelf vaccines and approved products such as certain prostate cancer or bladder cancer vaccines have more predictable costs. Personalized neoantigen or dendritic cell vaccines, which are built for one individual, are usually far more costly because of custom manufacturing. Dosing schedule, storage, and combination with other treatments also influence the total, so pricing should be reviewed case by case with your specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and International Care",
+        "items": [
+          {
+            "q": "Is cancer vaccine therapy covered by insurance?",
+            "a": "<p>Insurance coverage for cancer vaccine therapy varies widely and cannot be assumed. Approved vaccines with an established regulatory status are more likely to be considered by insurers than experimental or personalized vaccines, which are often classed as investigational and may not be reimbursed. Coverage depends on your policy, country, cancer type, and whether the vaccine is standard care. Patients should verify benefits with their insurer and treating team before starting treatment.</p>"
+          },
+          {
+            "q": "Can I access a cancer vaccine at lower cost through a clinical trial?",
+            "a": "<p>In some cases, clinical trials may provide access to investigational cancer vaccines at reduced or no cost for the study drug, but this is never guaranteed. Trials have strict inclusion and exclusion criteria, and eligibility is decided only after medical record review and investigator assessment. Some associated costs, such as travel or standard care, may still apply. Availability, benefit, and enrollment cannot be promised and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How much does cancer vaccine therapy cost for international patients?",
+            "a": "<p>For international patients, the total cost of cancer vaccine therapy usually extends beyond the vaccine itself. Estimates should account for consultations, diagnostic tests, hospital fees, accommodation, travel, and follow-up care, which vary by country and center. Access also depends on hospital acceptance, medical review, visa approval, and travel fitness, none of which can be guaranteed. A detailed written estimate from the treating hospital is the most reliable way to plan a realistic budget.</p>"
+          },
+          {
+            "q": "Which countries offer cancer vaccine therapy and how do prices compare?",
+            "a": "<p>Cancer vaccine therapy is offered in several countries, including the United States, parts of Europe, China, Japan, and India, often through specialized centers or clinical trials. Prices differ based on local healthcare costs, the specific vaccine, and whether it is approved or investigational. Comparing options requires reviewing not just the headline price but also included services and follow-up. Any comparison should be confirmed with each center and discussed with your oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Planning and Support",
+        "items": [
+          {
+            "q": "What factors should I consider before budgeting for cancer vaccine therapy?",
+            "a": "<p>Before budgeting for cancer vaccine therapy, consider the vaccine type, number of doses, and whether it is combined with other treatments such as immunotherapy or chemotherapy. Additional costs may include diagnostic and biomarker testing, hospital stays, monitoring, and managing side effects. For treatment abroad, add travel, visa, and accommodation. Because final cost depends on your diagnosis, stage, and treatment plan, a written estimate reviewed with your treating team gives the clearest picture.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of cancer vaccine therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to compare options and plan realistically for cancer vaccine therapy. Treatment and cost decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and no specific price or outcome can be guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "pillar": "Rare Cancer Treatments",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cost-of-rare-cancer-treatment",
+  "route": "/insights/cost-of-rare-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of Rare Cancer Treatment",
+    "intro": "Rare cancers often require specialised testing, tailored drugs, and expert centres, which can make costs harder to predict. These FAQs explain what shapes the price of rare cancer treatment and how patients can plan realistically.",
+    "groups": [
+      {
+        "title": "Understanding Rare Cancer Treatment Costs",
+        "items": [
+          {
+            "q": "Why is treating a rare cancer often more expensive?",
+            "a": "<p>Rare cancer treatment is often more expensive because it may require specialised diagnostic tests, advanced molecular profiling, and drugs that are made in smaller volumes. Fewer treating centres and limited standard protocols can also add to costs. The final price depends on cancer type, stage, biomarker profile, chosen therapy, and the hospital, so estimates should always be confirmed with the treating oncology team before planning treatment.</p>"
+          },
+          {
+            "q": "What factors affect the total cost of rare cancer treatment?",
+            "a": "<p>The cost of rare cancer treatment depends on several factors, not a single fixed price. These include cancer type and stage, diagnostic and genomic tests, the treatment protocol chosen, surgery, radiation, targeted therapy or immunotherapy, hospital stay, supportive care, and management of complications. Costs also vary between hospitals and countries. Because rare cancers are highly individual, a detailed estimate should be requested from the treating hospital after full medical review.</p>"
+          },
+          {
+            "q": "Why are targeted and genomic tests important for rare cancer cost planning?",
+            "a": "<p>Genomic and biomarker tests matter for rare cancers because they help identify which targeted therapies or clinical trials may be suitable. While these tests add to upfront costs, they can guide treatment choices and help avoid therapies unlikely to work. The need for and cost of such testing depends on cancer type, prior treatment, and specialist review, and results should always be interpreted by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Countries, and Clinical Trials",
+        "items": [
+          {
+            "q": "How much does rare cancer treatment cost in India?",
+            "a": "<p>Rare cancer treatment in India is often more affordable than in many Western countries, though exact costs vary widely by case. Prices depend on the specific cancer, required tests, treatment type, hospital, length of stay, and any complications. Some advanced targeted drugs remain costly everywhere. Because rare cancers differ greatly between patients, a personalised written estimate should be obtained from the treating hospital after reviewing the patient's reports.</p>"
+          },
+          {
+            "q": "Can clinical trials reduce the cost of rare cancer treatment?",
+            "a": "<p>Clinical trials may reduce some treatment costs because the trial drug and certain related tests can be provided by the sponsor. However, enrollment is not guaranteed and depends on strict inclusion and exclusion criteria, medical record review, and investigator assessment. Some costs, such as travel or standard care, may still apply. Patients should discuss trial eligibility, coverage, and potential benefits and risks with their oncology team before deciding.</p>"
+          },
+          {
+            "q": "How can international patients plan for rare cancer treatment costs abroad?",
+            "a": "<p>International patients should plan for rare cancer treatment costs by requesting a written estimate that covers tests, treatment, hospital stay, and follow-up. Access abroad also depends on hospital acceptance, medical review, visa approval, and travel fitness, none of which are guaranteed. Additional expenses such as accommodation, translation, and repeat imaging may apply. A second opinion and a clear cost breakdown from the treating centre help avoid unexpected financial surprises.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Managing and Estimating Costs",
+        "items": [
+          {
+            "q": "Is the quoted cost of rare cancer treatment fixed?",
+            "a": "<p>Quoted costs for rare cancer treatment are usually estimates, not fixed final prices. The actual amount can change based on how the cancer responds, additional tests, changes in the treatment protocol, length of hospital stay, and any complications. Because rare cancers are unpredictable, patients should treat quotes as a guide and ask the treating team to explain what is included and what could increase the final cost.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of rare cancer treatment?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make planning for rare cancer treatment clearer and less stressful. Treatment and cost decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, and no specific outcome or price is guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

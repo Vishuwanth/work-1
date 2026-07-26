@@ -1,0 +1,62 @@
+{
+  "pillar": "Stem Cell Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "side-effects-of-stem-cell-transplant",
+  "route": "/insights/side-effects-of-stem-cell-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Side Effects of Stem Cell Transplant",
+    "intro": "Stem cell transplant can cause both short-term and long-term side effects that vary by transplant type, conditioning regimen, and each patient's overall health. These answers explain what patients and caregivers commonly ask about managing them.",
+    "groups": [
+      {
+        "title": "Understanding Transplant Side Effects",
+        "items": [
+          {
+            "q": "What are the common side effects of a stem cell transplant?",
+            "a": "<p>Common side effects of a stem cell transplant include nausea, vomiting, mouth sores (mucositis), fatigue, hair loss, diarrhea, and a higher risk of infection due to low blood counts. These effects usually follow the high-dose chemotherapy or radiation used before transplant. Their severity varies with the conditioning regimen, transplant type, and overall health, and should be monitored closely by the treating transplant team throughout recovery.</p>"
+          },
+          {
+            "q": "What is graft-versus-host disease (GVHD)?",
+            "a": "<p>Graft-versus-host disease (GVHD) is a condition where donor immune cells attack the patient's own tissues after an allogeneic (donor) stem cell transplant. It can affect the skin, liver, gut, and other organs, and may appear as an acute or chronic form. GVHD does not occur after autologous transplants using a patient's own cells. Risk and severity depend on donor match, and management should be guided by the transplant team.</p>"
+          },
+          {
+            "q": "Are side effects different for autologous and allogeneic transplants?",
+            "a": "<p>Yes, side effects differ between autologous and allogeneic stem cell transplants. Autologous transplants use the patient's own cells and carry no risk of graft-versus-host disease, though infection and low blood counts still occur. Allogeneic transplants use donor cells and add risks such as GVHD and graft rejection. The exact side-effect profile depends on the conditioning regimen, donor match, and patient health, and should be reviewed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Timing, Recovery, and Long-Term Effects",
+        "items": [
+          {
+            "q": "How long do side effects last after a stem cell transplant?",
+            "a": "<p>Short-term side effects such as nausea, mouth sores, and low blood counts often improve within a few weeks to a few months as the new cells engraft. Some effects, including fatigue, infection risk, and chronic GVHD, may persist for many months or longer. Recovery timelines vary widely depending on transplant type, complications, and overall health, and should be tracked with the treating transplant team.</p>"
+          },
+          {
+            "q": "What are the long-term side effects of a stem cell transplant?",
+            "a": "<p>Long-term side effects of a stem cell transplant may include chronic graft-versus-host disease, fertility problems, hormonal or thyroid changes, cataracts, organ effects, and a small increased risk of secondary cancers. Not every patient experiences these, and their likelihood depends on age, conditioning regimen, and transplant type. Regular long-term follow-up with the transplant team helps detect and manage these effects early and should always guide ongoing care.</p>"
+          },
+          {
+            "q": "Why does infection risk increase after a transplant?",
+            "a": "<p>Infection risk increases after a transplant because high-dose conditioning temporarily wipes out the immune system before the new stem cells rebuild it. During this period, patients have very low white blood cell counts and limited defenses against bacteria, viruses, and fungi. Preventive medicines, hygiene precautions, and close monitoring are commonly used. The degree and duration of risk depend on transplant type and should be managed by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Managing Side Effects and Getting Support",
+        "items": [
+          {
+            "q": "Can the side effects of a stem cell transplant be managed or reduced?",
+            "a": "<p>Yes, many side effects of a stem cell transplant can be managed or reduced with supportive care. Anti-nausea medicines, mouth care, infection prevention, blood transfusions, nutritional support, and medicines to prevent or treat GVHD are commonly used. The right plan depends on transplant type, symptoms, and overall health. Management should always be directed by the transplant team, and patients should report new or worsening symptoms promptly.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with side effects of stem cell transplant?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to transplant care. Decisions about managing transplant side effects are always made by the qualified oncology and transplant team after reviewing the patient's diagnosis, transplant type, conditioning regimen, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

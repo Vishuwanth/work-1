@@ -1,0 +1,66 @@
+{
+  "pillar": "Tumor Therapeutic Vaccines",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-vaccines-for-breast-cancer",
+  "route": "/insights/cancer-vaccines-for-breast-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Vaccines for Breast Cancer",
+    "intro": "Cancer vaccines for breast cancer are an emerging form of immunotherapy being studied to help the immune system target tumor cells. These answers explain how they work, who may be eligible, and how patients can explore trials.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Vaccines for Breast Cancer",
+        "items": [
+          {
+            "q": "What are cancer vaccines for breast cancer?",
+            "a": "<p>Cancer vaccines for breast cancer are immunotherapies designed to help the immune system recognize and attack breast cancer cells. Unlike vaccines that prevent infection, most breast cancer vaccines are therapeutic, meaning they are studied to treat existing disease or reduce the risk of recurrence. They may target proteins such as HER2 or other tumor antigens. Most remain experimental and are currently available mainly through clinical trials rather than routine care.</p>"
+          },
+          {
+            "q": "How do breast cancer vaccines work?",
+            "a": "<p>Breast cancer vaccines work by exposing the immune system to tumor-associated antigens so it can identify and respond to cancer cells. These antigens may be delivered as proteins, peptides, DNA, mRNA, or through dendritic cells prepared in a laboratory. The aim is to stimulate T cells and antibodies that attack cells carrying those markers. Effectiveness varies by tumor biology, and responses depend on cancer type, stage, biomarker profile, and overall health.</p>"
+          },
+          {
+            "q": "Are breast cancer vaccines a cure for breast cancer?",
+            "a": "<p>Breast cancer vaccines are not a proven cure and are mostly investigational at this time. They are being studied to slow progression, support other treatments, or lower the chance of recurrence in selected patients. Results vary widely, and no vaccine currently replaces standard care such as surgery, chemotherapy, radiation, hormone therapy, or targeted therapy. Any potential benefit should be discussed with a qualified oncology team based on individual circumstances.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and How They Work",
+        "items": [
+          {
+            "q": "Who may be eligible for a breast cancer vaccine?",
+            "a": "<p>Eligibility for a breast cancer vaccine depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Many current vaccines are studied in specific groups, such as HER2-positive patients or those at higher risk of recurrence, and most access is through clinical trials with strict inclusion and exclusion criteria. Final eligibility is decided after medical record review and specialist assessment, and decisions should be made with the treating medical team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of breast cancer vaccines?",
+            "a": "<p>The most common side effects of breast cancer vaccines are usually mild, such as injection-site redness, soreness, low-grade fever, fatigue, or flu-like symptoms. Because these therapies activate the immune system, some patients may experience inflammatory or immune-related reactions that require monitoring. Side effects vary by vaccine type and individual response. Any symptoms should be reported promptly, and safety is closely observed by the treating oncology team, especially within clinical trials.</p>"
+          },
+          {
+            "q": "How are breast cancer vaccines different from standard immunotherapy?",
+            "a": "<p>Breast cancer vaccines aim to actively teach the immune system to recognize specific tumor antigens, while checkpoint inhibitors release existing immune brakes so T cells can attack more freely. Vaccines and checkpoint immunotherapy are sometimes studied together to improve responses. Both approaches depend on tumor biology and biomarkers, and neither suits every patient. The most appropriate option should be determined by a qualified oncology team after reviewing diagnosis and test results.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and Practical Questions",
+        "items": [
+          {
+            "q": "Are breast cancer vaccines approved and widely available?",
+            "a": "<p>Most breast cancer vaccines are not yet approved for routine use and remain in clinical development. A few are being evaluated in advanced trials, but availability differs by country, hospital, and specific research programs. Access often requires meeting trial criteria rather than a standard prescription. Because approval status changes over time, patients should confirm current options with a qualified oncology team and understand that participation does not guarantee benefit.</p>"
+          },
+          {
+            "q": "How can international patients access breast cancer vaccine clinical trials?",
+            "a": "<p>International patients may access breast cancer vaccine trials through specialized cancer centers, but enrollment is never guaranteed. Access depends on trial eligibility, medical record review, investigator assessment, hospital acceptance, visa approval, and travel fitness. Trials have strict inclusion and exclusion criteria, and openings can be limited. Patients typically need pathology reports, imaging, biomarker results, and treatment history for review. Practical planning around cost, second opinions, and follow-up care is also important.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer vaccines for breast cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients explore whether relevant clinical trials may be available. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Eligibility for any vaccine or trial is confirmed only after specialist review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

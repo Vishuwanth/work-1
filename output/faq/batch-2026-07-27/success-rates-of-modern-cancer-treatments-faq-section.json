@@ -1,0 +1,62 @@
+{
+  "pillar": "Advanced Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "success-rates-of-modern-cancer-treatments",
+  "route": "/insights/success-rates-of-modern-cancer-treatments",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Success Rates of Modern Cancer Treatments",
+    "intro": "Modern cancer treatments have improved outcomes for many patients, but success rates vary widely by cancer type, stage, and individual health. These answers explain how success is measured, what influences it, and how to interpret survival statistics safely.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Treatment Success Rates",
+        "items": [
+          {
+            "q": "What are the success rates of modern cancer treatments?",
+            "a": "<p>Success rates for modern cancer treatments vary widely and cannot be summarised as a single number. Outcomes depend on cancer type, stage at diagnosis, biomarker profile, treatment used, and overall health. Some early-stage cancers now have high control or remission rates, while advanced cancers may respond less predictably. Published statistics reflect groups of patients, not individuals, so results should always be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "How is cancer treatment success measured?",
+            "a": "<p>Cancer treatment success is usually measured using outcomes such as five-year survival rate, progression-free survival, remission, and response rate. These terms describe how many patients are alive or free of cancer growth after a period, or how tumours change with treatment. Each measure means something different and depends on cancer type and stage. A qualified oncology team can explain which outcomes are most relevant to a specific diagnosis.</p>"
+          },
+          {
+            "q": "Have cancer survival rates improved in recent years?",
+            "a": "<p>Survival rates for many cancers have improved over recent decades due to earlier detection, better imaging, and newer treatments such as targeted therapy and immunotherapy. Improvements vary by cancer type, and some cancers have seen more progress than others. These trends reflect large patient populations and do not guarantee individual outcomes. Actual prognosis depends on stage, biomarkers, previous treatment, and specialist review of the patient's full records.</p>"
+          }
+        ]
+      },
+      {
+        "title": "What Influences Treatment Success",
+        "items": [
+          {
+            "q": "What factors affect cancer treatment success rates?",
+            "a": "<p>Cancer treatment success depends on several factors, including cancer type, stage at diagnosis, tumour biology, biomarker profile, and how early treatment begins. A patient's age, overall health, and response to therapy also play a role. Because these factors combine differently in each person, outcomes cannot be predicted from statistics alone. Final assessment of likely benefit should be made by the treating oncology team after reviewing complete medical records.</p>"
+          },
+          {
+            "q": "Do targeted therapy and immunotherapy have higher success rates?",
+            "a": "<p>Targeted therapy and immunotherapy have improved outcomes for selected patients, particularly when the cancer carries specific biomarkers these treatments act on. For eligible patients, they may offer better responses or fewer side effects than older approaches, but they do not work for everyone and are not suitable for all cancers. Whether these therapies may help depends on biomarker testing, cancer type, previous treatment, and specialist evaluation.</p>"
+          },
+          {
+            "q": "Does early detection improve treatment success?",
+            "a": "<p>Early detection often improves treatment success because cancers found at an earlier stage are generally easier to treat and more likely to respond. Screening and prompt evaluation of symptoms can help identify cancer before it spreads. However, outcomes still depend on tumour type, biology, and individual health, so early detection does not guarantee a cure. Diagnosis and staging should always be confirmed by a qualified medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Interpreting Statistics and Getting Support",
+        "items": [
+          {
+            "q": "Do published cancer survival statistics apply to every patient?",
+            "a": "<p>Published survival statistics do not apply directly to any single patient, because they describe averages across large, varied groups. An individual's outlook depends on cancer type, stage, biomarker profile, treatment response, and overall health, which statistics cannot fully capture. These figures are useful for general understanding but should not be used to predict a personal outcome. A treating oncology team can provide guidance based on the patient's specific situation.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients understand treatment success rates?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions and any discussion of likely outcomes are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

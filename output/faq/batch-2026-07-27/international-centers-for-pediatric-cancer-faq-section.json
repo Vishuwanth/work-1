@@ -1,0 +1,66 @@
+{
+  "pillar": "Pediatric Cancer Advanced Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "international-centers-for-pediatric-cancer",
+  "route": "/insights/international-centers-for-pediatric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About International Centers for Pediatric Cancer",
+    "intro": "This section answers common questions from parents and caregivers exploring international treatment centers for childhood cancer, including how these centers work, what they offer, and how families can access care abroad.",
+    "groups": [
+      {
+        "title": "Understanding International Pediatric Cancer Centers",
+        "items": [
+          {
+            "q": "What are international centers for pediatric cancer?",
+            "a": "<p>International centers for pediatric cancer are specialized hospitals that treat childhood cancers using dedicated pediatric oncology teams, child-friendly facilities, and advanced therapies. These centers often combine chemotherapy, surgery, radiation, stem cell transplant, and access to clinical trials within one coordinated program. Many treat rare or high-risk cancers that require specialized expertise. The most suitable center depends on the child's cancer type, stage, age, and overall health, and should be decided with the treating pediatric oncology team.</p>"
+          },
+          {
+            "q": "Which countries are known for pediatric cancer treatment?",
+            "a": "<p>Several countries are recognized for advanced pediatric cancer care, including the United States, Germany, the United Kingdom, Singapore, India, Turkey, and China. These countries host children's hospitals with experienced pediatric oncology teams, modern equipment, and active research programs. Some also offer specialized options such as proton therapy, CAR T-cell therapy, or bone marrow transplant. The right destination depends on the diagnosis, required treatment, travel feasibility, and cost, and should be reviewed with qualified specialists before any decision.</p>"
+          },
+          {
+            "q": "What treatments do these centers offer for childhood cancer?",
+            "a": "<p>International pediatric cancer centers offer a broad range of treatments tailored to a child's diagnosis. These may include chemotherapy, surgery, radiation therapy, immunotherapy, targeted therapy, bone marrow or stem cell transplant, and, in selected cases, CAR T-cell therapy or proton beam radiation. Many centers also provide supportive care such as nutrition, pain management, and psychological support. The choice of treatment depends on cancer type, stage, genetics, and specialist assessment by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Clinical Trials",
+        "items": [
+          {
+            "q": "How do I choose the right center for my child's cancer?",
+            "a": "<p>Choosing the right center depends on your child's specific cancer type, required treatment, and the center's experience with that diagnosis. Important factors include pediatric oncology expertise, availability of the recommended therapy, transplant or trial access, language support, and overall cost. A second opinion can help confirm the diagnosis and treatment plan. Final decisions should be made with the treating pediatric oncology team, who can match your child's needs to a center's specialized capabilities.</p>"
+          },
+          {
+            "q": "Can my child join a clinical trial at an international center?",
+            "a": "<p>Some international centers offer clinical trials for childhood cancers, but enrollment is never guaranteed. Eligibility is decided only after a review of medical records and assessment by the trial investigator, and trials often have strict inclusion and exclusion criteria based on age, cancer type, genetics, and previous treatment. Participation may or may not provide benefit. Families should discuss any trial's potential risks, requirements, and alternatives carefully with the treating pediatric oncology team.</p>"
+          },
+          {
+            "q": "Are international pediatric cancer treatments safe for children?",
+            "a": "<p>Established international pediatric cancer centers follow internationally recognized safety protocols and use age-appropriate treatment doses designed specifically for children. However, all cancer treatments carry potential side effects, which vary by therapy, cancer type, and the child's overall health. Reputable centers monitor children closely and provide supportive care to manage complications. Safety and suitability depend on individual factors, and treatment plans should always be reviewed and approved by a qualified pediatric oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Practical Support",
+        "items": [
+          {
+            "q": "How much does pediatric cancer treatment cost abroad?",
+            "a": "<p>The cost of pediatric cancer treatment abroad varies widely depending on the country, hospital, diagnosis, and treatment required. Advanced therapies such as bone marrow transplant, proton therapy, or CAR T-cell therapy are generally more expensive than standard chemotherapy. Final costs also depend on the length of stay, tests, complications, and supportive care. Because prices are not fixed, families should request a detailed estimate from the chosen hospital before making any travel or treatment plans.</p>"
+          },
+          {
+            "q": "How can international patients access treatment for their child abroad?",
+            "a": "<p>International families can access pediatric cancer treatment abroad by first sharing their child's medical reports for review, then obtaining a treatment plan and cost estimate from the chosen hospital. Access depends on hospital acceptance, medical suitability, visa approval, and the child's fitness to travel, none of which can be guaranteed. Planning should also cover a caregiver's stay, follow-up care, and communication with local doctors. All treatment decisions remain with the qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with international pediatric cancer centers?",
+            "a": "<p>CancerFax helps families organize their child's medical reports, identify relevant pediatric specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make navigating international care less overwhelming for parents. Treatment decisions are always made by the qualified pediatric oncology team after reviewing the child's diagnosis, stage, genetics, previous treatment, and overall health. CancerFax does not replace the role of doctors or hospitals.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

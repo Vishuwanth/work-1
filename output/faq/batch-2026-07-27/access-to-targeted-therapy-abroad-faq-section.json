@@ -1,0 +1,66 @@
+{
+  "pillar": "Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "access-to-targeted-therapy-abroad",
+  "route": "/insights/access-to-targeted-therapy-abroad",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Access to Targeted Therapy Abroad",
+    "intro": "Many patients travel internationally to reach targeted therapies that are not yet available or approved at home. These answers explain how targeted therapy works, who may qualify, and what accessing it abroad practically involves.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy Abroad",
+        "items": [
+          {
+            "q": "What is targeted therapy and why do patients seek it abroad?",
+            "a": "<p>Targeted therapy is a type of cancer treatment that acts on specific genes, proteins, or biomarkers that help a tumour grow, rather than affecting all rapidly dividing cells like standard chemotherapy. Patients travel abroad when a particular targeted drug, biomarker test, or approval is not yet available in their home country. Suitability depends on cancer type, stage, biomarker profile, previous treatment, and specialist review, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does targeted therapy work compared to chemotherapy?",
+            "a": "<p>Targeted therapy works by blocking specific molecular signals or mutations that drive cancer growth, while chemotherapy broadly attacks fast-dividing cells throughout the body. Because it is more selective, targeted therapy may cause a different side-effect pattern, though it is not free of risks. It is generally used only when tumour testing shows a matching biomarker or genetic change. Whether it fits a patient's situation should be decided by the treating medical team.</p>"
+          },
+          {
+            "q": "Is targeted therapy suitable for all cancer patients?",
+            "a": "<p>Targeted therapy is not suitable for every cancer patient, because it only works when the tumour carries a specific biomarker or genetic alteration that a matching drug can act on. Eligibility depends on cancer type, stage, molecular test results, previous treatments, and overall health. Some cancers have well-established targets, while others have none. A qualified oncology team should review biomarker testing and medical history before deciding whether targeted therapy may be considered.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Testing, and Safety",
+        "items": [
+          {
+            "q": "What tests are needed before starting targeted therapy?",
+            "a": "<p>Biomarker or molecular testing is usually required before starting targeted therapy, since the treatment is chosen to match a specific tumour change. This may include tissue biopsy analysis, immunohistochemistry, next-generation sequencing, or blood-based genomic tests, alongside standard imaging and pathology. Test choice depends on the cancer type and suspected targets. Results should be interpreted by a qualified oncology team, as they guide whether a suitable targeted drug exists for that patient.</p>"
+          },
+          {
+            "q": "What are the possible side effects or risks of targeted therapy?",
+            "a": "<p>Targeted therapy can cause side effects such as skin changes, diarrhoea, fatigue, high blood pressure, liver enzyme changes, or, less commonly, effects on the heart or lungs. The pattern varies by drug and patient, and some reactions can be serious and need monitoring. No cancer treatment is risk-free. Potential benefits and risks depend on the individual and should be reviewed by the treating medical team before and during treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Travel",
+        "items": [
+          {
+            "q": "Which countries commonly offer targeted therapy for international patients?",
+            "a": "<p>Targeted therapy is offered at cancer centres in many countries, including the United States, parts of Europe, India, China, Singapore, and Turkey, though specific drugs and trials vary by location and regulatory approval. Some newer targeted agents may be accessible earlier in certain regions or through clinical trials. Availability depends on hospital acceptance, drug approval, and medical review, so options should be confirmed with the treating team before travel.</p>"
+          },
+          {
+            "q": "How much does targeted therapy abroad cost?",
+            "a": "<p>The cost of targeted therapy abroad varies widely and cannot be quoted as a fixed figure, because it depends on the specific drug, treatment duration, cancer type, and country. Final costs also reflect the hospital, diagnosis, stage, required tests, treatment protocol, possible complications, length of stay, and treating team advice. Many targeted drugs are taken long term, which affects total expense. A personalised estimate should be obtained after medical record review.</p>"
+          },
+          {
+            "q": "How can international patients access targeted therapy abroad?",
+            "a": "<p>International patients usually access targeted therapy abroad by first sharing medical reports for review, obtaining a specialist opinion, and confirming whether a matching drug or trial is available. Access also depends on hospital acceptance, biomarker eligibility, visa approval, travel fitness, and the patient's overall condition, none of which can be guaranteed. Planning should include reports, cost estimates, travel, and follow-up care, and final decisions rest with the treating oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with access to targeted therapy abroad?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or hospitals and cannot guarantee hospital admission, treatment acceptance, or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

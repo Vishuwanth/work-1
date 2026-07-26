@@ -1,0 +1,62 @@
+{
+  "pillar": "Gene Therapy for Cancer",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gene-therapy-for-solid-tumors",
+  "route": "/guides/gene-therapy-for-solid-tumors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Gene Therapy for Solid Tumors",
+    "intro": "Gene therapy for solid tumors is an evolving field that aims to treat cancer by modifying genes inside cancer cells or immune cells. These answers explain how it works, who it may suit, and how patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy for Solid Tumors",
+        "items": [
+          {
+            "q": "What is gene therapy for solid tumors?",
+            "a": "<p>Gene therapy for solid tumors is a treatment approach that modifies genetic material inside cancer cells or a patient's immune cells to fight tumors such as lung, liver, brain, or pancreatic cancer. It may work by correcting faulty genes, inserting genes that trigger cancer cell death, or reprogramming immune cells to recognize tumors. Most approaches remain investigational for solid tumors, and suitability depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How does gene therapy work against solid tumors?",
+            "a": "<p>Gene therapy works by delivering new or altered genetic instructions into targeted cells to change how they behave. Depending on the strategy, it may make tumor cells more visible to the immune system, deliver genes that stop tumor growth, or use engineered viruses that infect and destroy cancer cells. In solid tumors, delivery can be harder than in blood cancers, so approaches and outcomes vary and require careful specialist assessment.</p>"
+          },
+          {
+            "q": "What types of gene therapy are used for solid tumors?",
+            "a": "<p>Several types of gene therapy are being studied for solid tumors, including oncolytic virus therapy, gene-modified immune cell therapies such as TCR and CAR-T, tumor suppressor gene delivery, and suicide gene approaches. Each works differently and targets different biological pathways. Most remain in clinical trials for solid tumors, and whether any option is appropriate depends on cancer type, biomarker profile, previous treatment, and evaluation by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Access",
+        "items": [
+          {
+            "q": "Is gene therapy suitable for all solid tumor patients?",
+            "a": "<p>Gene therapy is not suitable for all solid tumor patients and is currently offered mainly to selected patients, often within clinical trials. Suitability depends on cancer type, stage, biomarker profile, previous treatments, overall health, and specialist review. Some tumors are harder to target because of their location or biology. Final decisions about whether gene therapy may be considered should always be made by the treating medical team after full evaluation.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of gene therapy for solid tumors?",
+            "a": "<p>Gene therapy for solid tumors can cause side effects that vary by the specific approach used. Possible effects include fever, flu-like symptoms, inflammation, immune reactions, and, with cell-based therapies, more serious responses such as cytokine release syndrome. Because many treatments are still being studied, long-term effects are not fully known. Risks and monitoring plans should be discussed carefully with a qualified oncology team before any treatment decision.</p>"
+          },
+          {
+            "q": "How much does gene therapy for solid tumors cost?",
+            "a": "<p>The cost of gene therapy for solid tumors varies widely and cannot be stated as a fixed figure. Because many options are experimental or delivered through clinical trials, pricing depends on the hospital, country, cancer type, treatment protocol, tests required, length of stay, and possible complications. Some trial-based treatments may reduce certain costs. Patients should request a detailed written estimate from the treating hospital before planning treatment.</p>"
+          },
+          {
+            "q": "How can international patients access gene therapy for solid tumors?",
+            "a": "<p>International patients can explore gene therapy for solid tumors mainly through specialized cancer centers and clinical trials in countries offering these programs. Access depends on hospital acceptance, medical record review, trial eligibility, visa approval, and travel fitness. Enrollment and benefit are never guaranteed, and trials often have strict inclusion and exclusion criteria. A second opinion and organized medical reports help specialists assess whether any option may be appropriate.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Support for International Patients",
+        "items": [
+          {
+            "q": "How does CancerFax help patients with gene therapy for solid tumors?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients understand whether relevant clinical trials may apply to their situation. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

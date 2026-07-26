@@ -1,14 +1,13 @@
 {
   "pillar": "What is the difference between leukemia, lymphoma, and myeloma?",
-  "contentType": "⚠ VERIFY",
-  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
-  "slug": "⚠ VERIFY: what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
-  "route": "⚠ VERIFY: /<section>/what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
-  "section": {
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
+  "route": "/insights/what-is-the-difference-between-leukemia-lymphoma-and-myeloma",
+  "sectionToMerge": {
     "type": "faq",
     "id": "faq",
     "h2": "Frequently Asked Questions About the Difference Between Leukemia, Lymphoma, and Myeloma",
-    "intro": "Common questions from patients and families trying to understand how leukemia, lymphoma, and myeloma differ, and how each of these blood cancers is diagnosed and treated.",
     "groups": [
       {
         "title": "Understanding the Difference",
@@ -108,7 +107,5 @@
         ]
       }
     ]
-  },
-  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
-  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+  }
 }

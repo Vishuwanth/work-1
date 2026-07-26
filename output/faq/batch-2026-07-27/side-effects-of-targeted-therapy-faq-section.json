@@ -1,0 +1,62 @@
+{
+  "pillar": "Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "side-effects-of-targeted-therapy",
+  "route": "/insights/side-effects-of-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Side Effects of Targeted Therapy",
+    "intro": "Targeted therapy attacks specific cancer-related molecules, so its side effects differ from chemotherapy. These answers explain the common reactions, how they are managed, and what patients should watch for.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy Side Effects",
+        "items": [
+          {
+            "q": "What are the common side effects of targeted therapy?",
+            "a": "<p>The most common side effects of targeted therapy include skin rash, dry skin, diarrhea, high blood pressure, fatigue, and changes to the nails or hair. Because these drugs act on specific cancer-related pathways, side effects differ from chemotherapy and vary by drug and cancer type. Most reactions are manageable, but their pattern depends on the specific medication, dose, and each patient's overall health, and should be monitored by the treating oncology team.</p>"
+          },
+          {
+            "q": "How are targeted therapy side effects different from chemotherapy?",
+            "a": "<p>Targeted therapy side effects are usually different from chemotherapy because these drugs focus on specific molecules rather than all rapidly dividing cells. Patients often experience less severe hair loss and nausea, but may see more skin problems, high blood pressure, diarrhea, or liver changes. The exact profile depends on the drug's mechanism and target. Side effects vary by patient and should always be reviewed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Why does targeted therapy cause skin and nail problems?",
+            "a": "<p>Targeted therapy often causes skin and nail problems because some of the pathways it blocks, such as EGFR, are also active in healthy skin cells. This can lead to acne-like rash, dry or itchy skin, cracked fingertips, and nail inflammation. These effects are usually manageable with moisturizers, gentle skincare, and medications when needed. Any severe or worsening skin reaction should be reported promptly to the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Severity, Risks, and Management",
+        "items": [
+          {
+            "q": "Are the side effects of targeted therapy serious?",
+            "a": "<p>Most side effects of targeted therapy are mild to moderate and manageable, but some can become serious and need medical attention. Possible serious effects include high blood pressure, heart or liver problems, bleeding, wound-healing issues, or lung inflammation, depending on the drug. Severity varies by medication and patient. Regular monitoring, blood tests, and prompt reporting of new symptoms help the oncology team manage risks and adjust treatment when necessary.</p>"
+          },
+          {
+            "q": "How are targeted therapy side effects managed?",
+            "a": "<p>Targeted therapy side effects are managed through monitoring, supportive medications, and dose adjustments when needed. For example, skin care products, blood pressure medicines, anti-diarrheal drugs, and regular blood tests may be used. In some cases the doctor may pause or reduce the dose. Management depends on the specific drug, severity, and patient health. All changes to treatment should be decided by the qualified oncology team, not adjusted independently.</p>"
+          },
+          {
+            "q": "Do targeted therapy side effects go away after treatment ends?",
+            "a": "<p>Many targeted therapy side effects improve or resolve after treatment ends, though the timeline varies. Skin rash, diarrhea, and fatigue often ease within weeks, while some effects such as blood pressure or thyroid changes may need longer follow-up. A few effects can persist and require ongoing care. Recovery depends on the drug, duration of use, and individual health, and should be reviewed during follow-up with the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "When to Seek Help and Getting Support",
+        "items": [
+          {
+            "q": "When should I call my doctor about side effects?",
+            "a": "<p>Contact your doctor right away if you develop severe diarrhea, a spreading or blistering rash, chest pain, breathlessness, unusual bleeding, swelling, or signs of infection such as fever. Early reporting helps prevent complications and may allow the team to adjust treatment safely. Even milder symptoms that persist or worsen should be discussed. The treating oncology team can advise which symptoms need urgent care based on your specific medication.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with side effects of targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can help patients understand and monitor targeted therapy side effects more clearly. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health, including how any side effects are best managed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

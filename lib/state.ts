@@ -7,7 +7,7 @@ import type {
   ThroughputPoint,
 } from "@/lib/types";
 import { faqCount } from "@/lib/fixtures";
-import { pageKey } from "@/lib/pages";
+import { pageKey } from "@/lib/page-key";
 
 type Tracker = Record<string, ReviewRecord>;
 

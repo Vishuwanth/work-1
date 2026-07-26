@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    // Without an explicit target, tsc defaults to ES5 and rejects direct Set/Map
+    // iteration. Next transpiles via SWC and ignores this, so it only affects
+    // type-checking — the runtime floor is Node >= 18 either way.
+    "target": "es2017",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,

@@ -1,0 +1,66 @@
+{
+  "pillar": "Advanced Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tests-required-before-advanced-therapy",
+  "route": "/insights/tests-required-before-advanced-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Tests Required Before Advanced Therapy",
+    "intro": "Before starting advanced cancer therapies such as immunotherapy, targeted therapy, or CAR T-cell treatment, specific tests are needed to confirm the diagnosis and guide safe, personalised care. These FAQs explain the common tests involved and what patients and caregivers can expect.",
+    "groups": [
+      {
+        "title": "Understanding Pre-Treatment Testing",
+        "items": [
+          {
+            "q": "What tests are required before advanced cancer therapy?",
+            "a": "<p>The tests required before advanced cancer therapy usually include imaging scans, a tissue biopsy, biomarker or genetic testing, and blood work. These tests confirm the cancer type, stage, and molecular profile, which help doctors decide whether therapies like immunotherapy, targeted therapy, or CAR T-cell treatment may be suitable. The exact tests depend on cancer type, stage, previous treatment, and overall health, and should be guided by your oncology team.</p>"
+          },
+          {
+            "q": "Why are tests needed before starting advanced therapy?",
+            "a": "<p>Tests are needed before advanced therapy to confirm the diagnosis, measure how far the cancer has spread, and identify features that predict how it may respond. Advanced treatments such as targeted therapy and immunotherapy often work only for specific biomarker profiles, so accurate testing helps avoid ineffective treatment. Results may also reveal organ function or safety concerns. Final decisions depend on the complete picture reviewed by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Types of Tests and What They Show",
+        "items": [
+          {
+            "q": "What is biomarker testing and why does it matter?",
+            "a": "<p>Biomarker testing analyses the cancer's genes, proteins, and mutations to find features that specific treatments can target. It matters because many advanced therapies, including targeted drugs and immunotherapy, are chosen based on biomarkers such as EGFR, ALK, PD-L1, HER2, or MSI status. Identifying these markers helps match patients to therapies more likely to help. Whether biomarker testing is suitable depends on cancer type and should be discussed with your specialist.</p>"
+          },
+          {
+            "q": "What imaging scans are needed before advanced treatment?",
+            "a": "<p>Imaging scans commonly needed before advanced treatment include CT, MRI, PET-CT, and sometimes bone scans, depending on the cancer type. These scans show the tumour's size, location, and whether the cancer has spread, which helps determine stage and guide treatment planning. Imaging is also used later to measure how the cancer responds. The specific scans required depend on your diagnosis and should be decided by your treating medical team.</p>"
+          },
+          {
+            "q": "Do I need a biopsy before advanced therapy?",
+            "a": "<p>A biopsy is usually needed before advanced therapy because it confirms the cancer type and provides tissue for biomarker and genetic testing. In a biopsy, a small tissue sample is removed and examined in a laboratory. Sometimes a repeat or fresh biopsy may be requested if the tumour has changed or more molecular information is needed. Whether a biopsy is required depends on your situation and your oncology team's assessment.</p>"
+          },
+          {
+            "q": "Which blood tests are done before advanced cancer treatment?",
+            "a": "<p>Blood tests done before advanced cancer treatment typically include a complete blood count, liver and kidney function tests, and sometimes tumour markers or infection screening. These tests check whether your body can safely tolerate treatment and provide a baseline for monitoring side effects. Certain therapies, such as CAR T-cell therapy, may need extra blood work. The exact blood tests required depend on the planned treatment and your overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Timing, Access, and Next Steps",
+        "items": [
+          {
+            "q": "How long do pre-treatment tests take?",
+            "a": "<p>Pre-treatment tests usually take several days to a few weeks, depending on which tests are needed and how quickly results are available. Imaging and blood work are often completed within days, while biomarker and genetic testing can take one to three weeks because samples are processed in specialised laboratories. Timelines vary by hospital and location. Your oncology team can give a clearer estimate based on your specific tests and diagnosis.</p>"
+          },
+          {
+            "q": "Can international patients complete these tests before travelling?",
+            "a": "<p>International patients can often complete some pre-treatment tests in their home country, which may reduce time and cost abroad. Existing scans, biopsy slides, and reports can usually be shared for review, though the treating hospital may request repeat or additional tests to confirm results or meet its standards. Access depends on hospital acceptance, medical review, and the quality of available records. Travel and treatment planning should follow your specialist's guidance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with tests required before advanced therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For pre-treatment testing, this can include arranging review of existing scans, biopsy samples, and biomarker reports. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

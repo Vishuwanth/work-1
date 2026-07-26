@@ -1,0 +1,66 @@
+{
+  "pillar": "Cancer Immunotherapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "monoclonal-antibodies-in-cancer",
+  "route": "/insights/monoclonal-antibodies-in-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Monoclonal Antibodies in Cancer",
+    "intro": "Monoclonal antibodies are a widely used form of cancer immunotherapy that target specific proteins on cancer cells. These FAQs explain how they work, who they may help, and what patients should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Monoclonal Antibodies",
+        "items": [
+          {
+            "q": "What are monoclonal antibodies in cancer treatment?",
+            "a": "<p>Monoclonal antibodies are laboratory-made proteins designed to recognize and attach to specific targets on cancer cells or the immune system. In cancer care, they are a type of immunotherapy that can flag cancer cells for destruction, block growth signals, or deliver drugs directly to a tumor. They are used across many cancer types, and whether one is suitable depends on cancer type, stage, biomarker profile, and specialist review.</p>"
+          },
+          {
+            "q": "How do monoclonal antibodies work against cancer?",
+            "a": "<p>Monoclonal antibodies work by binding to a specific protein, or antigen, found on cancer cells or immune cells. Depending on their design, they may block signals that help tumors grow, mark cancer cells so the immune system can attack them, carry chemotherapy or radiation directly to the tumor, or release the immune system's natural brakes. The exact mechanism varies by drug, and treatment choice depends on the patient's diagnosis and biomarkers.</p>"
+          },
+          {
+            "q": "What types of monoclonal antibodies are used in cancer?",
+            "a": "<p>Several types of monoclonal antibodies are used in cancer, each with a different purpose. These include naked antibodies that work on their own, conjugated antibodies that carry chemotherapy or radiation to the tumor, bispecific antibodies that connect cancer cells to immune cells, and checkpoint inhibitors that help the immune system recognize cancer. The most appropriate type depends on cancer type, biomarker testing, and the treating oncology team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for monoclonal antibody therapy?",
+            "a": "<p>Eligibility for monoclonal antibody therapy depends on the specific cancer type, stage, and biomarker profile, since many antibodies only work when a target protein is present. Doctors often order tests, such as HER2 or PD-L1 testing, before recommending treatment. Overall health, previous treatments, and organ function also matter. Monoclonal antibodies are not suitable for every patient, and final decisions should be made by a qualified oncology team after full evaluation.</p>"
+          },
+          {
+            "q": "What are the benefits of monoclonal antibodies in cancer?",
+            "a": "<p>Monoclonal antibodies can offer more targeted treatment by focusing on specific features of cancer cells, which may spare some healthy tissue compared with traditional chemotherapy. For selected patients, they may improve tumor control, work alongside other treatments, or provide options when standard therapies have not worked. Benefits vary widely by cancer type and individual factors, and expected outcomes should always be discussed with the treating medical team.</p>"
+          },
+          {
+            "q": "What are the side effects of monoclonal antibody treatment?",
+            "a": "<p>Common side effects of monoclonal antibodies include infusion-related reactions such as fever, chills, or low blood pressure, along with fatigue, rash, and increased infection risk. Some antibodies, especially checkpoint inhibitors, can trigger immune-related effects on the skin, bowel, lungs, or hormone-producing glands. Side effects range from mild to serious and differ by drug. Patients should report new symptoms promptly and be monitored closely by their oncology team throughout treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does monoclonal antibody therapy cost?",
+            "a": "<p>The cost of monoclonal antibody therapy varies widely and cannot be quoted as a fixed price. Final cost depends on the specific drug, dose, number of cycles, hospital, country, required tests, and any complications or supportive care. Some antibodies are given for many months, which affects total expense. Patients should request a detailed, written estimate from the treating hospital and confirm what their diagnosis and protocol will actually involve.</p>"
+          },
+          {
+            "q": "Are monoclonal antibodies available for international patients?",
+            "a": "<p>Monoclonal antibodies are available in many countries, but access for international patients depends on hospital acceptance, medical record review, drug availability, visa approval, and travel fitness. Some newer antibodies may only be offered at selected centers or through clinical trials with strict criteria. Patients are encouraged to prepare updated reports, pathology, and biomarker results, and to seek a specialist opinion before planning treatment abroad, as acceptance cannot be guaranteed.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with monoclonal antibody therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is intended to make the process clearer and better organized, not to replace the guidance of the treating doctors and hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

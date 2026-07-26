@@ -1,0 +1,62 @@
+{
+  "pillar": "Clinical Trials in Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-to-ask-about-clinical-trials",
+  "route": "/insights/questions-to-ask-about-clinical-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Questions to Ask About Clinical Trials",
+    "intro": "Knowing the right questions to ask helps cancer patients and caregivers understand a clinical trial before deciding to take part. These FAQs cover what to ask about purpose, eligibility, safety, cost, and access.",
+    "groups": [
+      {
+        "title": "Understanding What to Ask",
+        "items": [
+          {
+            "q": "What questions should I ask before joining a cancer clinical trial?",
+            "a": "<p>Before joining a cancer clinical trial, ask about its purpose, phase, the treatment being tested, potential benefits, possible risks, and how it compares to standard care. Good questions also cover eligibility criteria, required tests, the visit schedule, monitoring, and what happens if the trial ends or you leave early. Understanding these details helps you and your oncology team decide whether a trial fits your diagnosis, stage, and overall health.</p>"
+          },
+          {
+            "q": "What is the purpose of this clinical trial?",
+            "a": "<p>The purpose of a clinical trial explains what researchers hope to learn, such as whether a new drug, combination, or dose is safe and effective. Ask which phase the trial is in, what question it aims to answer, and whether it targets your specific cancer type or biomarker. Knowing the goal helps clarify whether the trial focuses on safety, effectiveness, or comparing a new option against current standard treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and the Treatment Process",
+        "items": [
+          {
+            "q": "How do I know if I am eligible for a clinical trial?",
+            "a": "<p>Eligibility for a clinical trial is decided after the research team reviews your medical records, diagnosis, stage, previous treatments, biomarker results, and overall health. Ask which inclusion and exclusion criteria apply and what tests are needed to confirm eligibility. Trials often have strict requirements, so meeting them is not guaranteed. Final acceptance depends on investigator assessment and should be discussed with your treating oncology team before enrolling.</p>"
+          },
+          {
+            "q": "What are the possible risks and side effects of a clinical trial?",
+            "a": "<p>Every clinical trial carries possible risks, so ask about known side effects, unexpected reactions, and how safety will be monitored throughout the study. Because trial treatments are still being studied, some risks may not yet be fully understood. Ask how problems are managed, who to contact after hours, and whether you can leave the trial if needed. These answers help you weigh potential benefits against uncertainties with your doctor.</p>"
+          },
+          {
+            "q": "Will I still receive standard treatment during the trial?",
+            "a": "<p>In many cancer clinical trials you continue to receive standard care, or the trial treatment is added to it, but this varies by study design. Ask whether you might receive a placebo, the standard treatment, or the new therapy, and how the groups are assigned. Understanding the trial structure helps clarify what care you can expect. Your treating oncology team can explain how participation may affect your ongoing treatment plan.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "What costs are involved in joining a clinical trial?",
+            "a": "<p>Costs in a clinical trial vary, so ask which expenses the study covers and which you may be responsible for. Some trials cover the study drug and certain tests, while routine care, travel, and accommodation may not be included. Ask about insurance, reimbursement, and possible hidden costs before enrolling. Final costs depend on the hospital, protocol, tests, length of participation, and your situation, and should be confirmed with the trial coordinator.</p>"
+          },
+          {
+            "q": "Can international patients ask to join clinical trials abroad?",
+            "a": "<p>International patients may ask to join clinical trials abroad, but access depends on hospital acceptance, medical record review, and whether the trial enrolls overseas participants. Ask whether the trial is open to non-residents, what reports are needed, and how follow-up will be managed after you return home. Enrollment, visa approval, and travel are not guaranteed. These practical questions should be discussed with the trial team and your oncologist early.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with questions to ask about clinical trials?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant clinical trials or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help you prepare the right questions to ask a trial team. Treatment and trial decisions are always made by the qualified oncology team and investigators after reviewing your diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

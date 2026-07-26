@@ -1,0 +1,62 @@
+{
+  "pillar": "Pediatric Cancer Advanced Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immunotherapy-for-pediatric-cancer",
+  "route": "/insights/immunotherapy-for-pediatric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy for Pediatric Cancer",
+    "intro": "Immunotherapy uses a child's own immune system to help fight cancer, and it is changing outcomes for certain childhood cancers. These answers explain what it is, who may be suitable, and how families can access care.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy for Children",
+        "items": [
+          {
+            "q": "What is immunotherapy for pediatric cancer?",
+            "a": "<p>Immunotherapy for pediatric cancer is a treatment that helps a child's immune system find and attack cancer cells. It includes approaches such as CAR T-cell therapy, monoclonal antibodies, checkpoint inhibitors, and immune-activating agents. Unlike chemotherapy, which targets rapidly dividing cells directly, immunotherapy works by training or boosting immune defenses. It is used for selected childhood cancers, and suitability depends on the cancer type, stage, and specialist review by a pediatric oncology team.</p>"
+          },
+          {
+            "q": "How does immunotherapy work in children?",
+            "a": "<p>Immunotherapy works by helping the immune system recognize cancer cells that would otherwise avoid detection. Some treatments, such as monoclonal antibodies, tag cancer cells so immune cells can destroy them, while CAR T-cell therapy re-engineers a child's own T-cells to target specific cancer markers. Checkpoint inhibitors release natural immune brakes. The exact mechanism depends on the treatment chosen, which is decided by the treating oncology team after reviewing the child's diagnosis and biomarkers.</p>"
+          },
+          {
+            "q": "Which childhood cancers can be treated with immunotherapy?",
+            "a": "<p>Immunotherapy may be considered for several childhood cancers, most notably relapsed or refractory B-cell acute lymphoblastic leukemia (ALL) and high-risk neuroblastoma. CAR T-cell therapy is used in selected leukemia cases, and antibody-based therapy is part of some neuroblastoma protocols. Research is ongoing for lymphomas, brain tumors, and certain solid tumors. Whether immunotherapy is appropriate depends on the cancer type, stage, prior treatment, and evaluation by a qualified pediatric oncology specialist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Side Effects",
+        "items": [
+          {
+            "q": "Is immunotherapy suitable for all pediatric cancer patients?",
+            "a": "<p>No, immunotherapy is not suitable for every child with cancer. It may be suitable for selected patients, often those with specific cancer types, biomarkers, or disease that has relapsed or not responded to standard treatment. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Some children are not candidates because of their condition or tumor characteristics. Final treatment decisions should be made by the treating pediatric oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of immunotherapy in children?",
+            "a": "<p>Immunotherapy can cause side effects that range from mild to serious and vary by treatment type. Common effects include fever, fatigue, and flu-like symptoms, while CAR T-cell therapy may cause cytokine release syndrome or neurological effects that need close monitoring. Antibody therapies can cause pain and allergic-type reactions. Most children are treated in specialized centers where side effects are managed carefully. Risks and benefits should always be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Is immunotherapy safe for young children?",
+            "a": "<p>Immunotherapy is used in children under close specialist supervision, and safety depends on the treatment type and the child's condition. Pediatric protocols and dosing differ from those for adults, and treatment is usually given in centers experienced in managing immune-related reactions. While many children tolerate it, some may experience serious side effects requiring intensive support. Safety cannot be guaranteed for any individual child, and decisions should be made by a qualified pediatric oncology team after full assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Clinical Trials, and International Care",
+        "items": [
+          {
+            "q": "Can international patients access pediatric immunotherapy or clinical trials?",
+            "a": "<p>International families may be able to access pediatric immunotherapy or clinical trials, but access depends on several factors. These include hospital acceptance, medical record review, trial eligibility criteria, visa approval, and the child's fitness to travel. Clinical trials often have strict inclusion and exclusion rules, and neither enrollment nor benefit can be guaranteed. Eligibility is decided after investigator assessment. Families should plan for medical reports, second opinions, estimated costs, travel, and follow-up care.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy for pediatric cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For pediatric immunotherapy, this can include connecting families with centers experienced in CAR T-cell therapy or antibody-based treatment. Treatment decisions are always made by the qualified pediatric oncology team after reviewing the child's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "pillar": "Stem Cell Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-stem-cell-therapy-in-cancer",
+  "route": "/insights/what-is-stem-cell-therapy-in-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stem Cell Therapy in Cancer",
+    "intro": "Stem cell therapy is used in cancer care mainly to rebuild healthy bone marrow after high-dose treatment. These answers explain what it involves, who it may suit, and how it is accessed.",
+    "groups": [
+      {
+        "title": "Understanding Stem Cell Therapy in Cancer",
+        "items": [
+          {
+            "q": "What is stem cell therapy in cancer?",
+            "a": "<p>Stem cell therapy in cancer, most often called a stem cell or bone marrow transplant, replaces damaged blood-forming cells with healthy ones. It is mainly used to restore bone marrow after high-dose chemotherapy or radiation destroys diseased cells. The transplanted stem cells regrow into normal blood and immune cells. It is used for certain blood cancers such as leukemia, lymphoma, and myeloma, and suitability depends on specialist review.</p>"
+          },
+          {
+            "q": "How does stem cell therapy work in cancer treatment?",
+            "a": "<p>Stem cell therapy works by rescuing the body's blood-forming system after intensive cancer treatment. High-dose chemotherapy or radiation is given to kill cancer cells, but this also damages healthy bone marrow. Collected stem cells are then infused into the bloodstream, where they travel to the marrow and begin producing new red cells, white cells, and platelets over several weeks. The exact approach depends on cancer type and treatment plan.</p>"
+          },
+          {
+            "q": "What is the difference between autologous and allogeneic stem cell transplants?",
+            "a": "<p>An autologous transplant uses the patient's own stem cells, while an allogeneic transplant uses cells from a matched donor. In autologous transplants, cells are collected, stored, and returned after high-dose therapy, avoiding rejection. Allogeneic transplants add a donor immune effect that may help fight cancer but carry a risk of graft-versus-host disease. The right option depends on cancer type, stage, and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for stem cell therapy in cancer?",
+            "a": "<p>Eligibility for stem cell therapy depends on cancer type, stage, previous treatment, age, and overall health. It may be considered for selected patients with leukemia, lymphoma, multiple myeloma, and some other conditions when standard treatment alone may not be enough. Patients need adequate organ function and, for donor transplants, a suitable match. Final eligibility should be decided by a qualified transplant and oncology team after detailed evaluation.</p>"
+          },
+          {
+            "q": "What happens during the stem cell therapy process?",
+            "a": "<p>The stem cell therapy process usually involves collection, conditioning, infusion, and recovery. Stem cells are first collected from the patient or a donor, often from blood or bone marrow. The patient then receives conditioning chemotherapy or radiation before the cells are infused, similar to a blood transfusion. Recovery and engraftment take several weeks in a closely monitored setting. Timelines vary and should be explained by the treating team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of stem cell therapy?",
+            "a": "<p>Stem cell therapy can cause side effects ranging from mild to serious, and outcomes are not guaranteed. Common effects include infection risk, low blood counts, fatigue, nausea, and mouth sores during recovery. Allogeneic transplants may lead to graft-versus-host disease, where donor cells attack healthy tissue. Serious complications are possible. Risks depend on the transplant type and patient health, and should be discussed carefully with the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and Support for International Patients",
+        "items": [
+          {
+            "q": "How much does stem cell therapy for cancer cost?",
+            "a": "<p>The cost of stem cell therapy varies widely and cannot be fixed in advance. Final pricing depends on the hospital, country, transplant type, diagnosis, tests, length of stay, medications, and any complications. Allogeneic transplants are usually more involved than autologous ones. Estimates should be requested directly from treatment centers after medical review, and patients should confirm what is and is not included before planning.</p>"
+          },
+          {
+            "q": "How can international patients access stem cell therapy for cancer?",
+            "a": "<p>International patients can access stem cell therapy through specialized transplant centers, but access depends on several factors. These include hospital acceptance, medical record review, donor availability for allogeneic transplants, visa approval, travel fitness, and the patient's overall condition. Admission and treatment are never guaranteed and depend on specialist assessment. Patients should prepare recent reports, pathology, and a treatment summary to help centers evaluate suitability.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell therapy in cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee hospital admission, eligibility, or treatment outcomes, and does not replace the treating medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

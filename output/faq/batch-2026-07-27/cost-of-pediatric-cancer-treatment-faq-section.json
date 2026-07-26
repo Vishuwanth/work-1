@@ -1,0 +1,66 @@
+{
+  "pillar": "Pediatric Cancer Advanced Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cost-of-pediatric-cancer-treatment",
+  "route": "/insights/cost-of-pediatric-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of Pediatric Cancer Treatment",
+    "intro": "The cost of treating childhood cancer varies widely from family to family and country to country. These answers explain what shapes the total cost, why estimates differ, and how families can plan for care at home or abroad.",
+    "groups": [
+      {
+        "title": "Understanding Pediatric Cancer Treatment Costs",
+        "items": [
+          {
+            "q": "How much does pediatric cancer treatment cost?",
+            "a": "<p>The cost of pediatric cancer treatment varies widely and cannot be quoted as a single fixed figure. It depends on the cancer type, stage, treatment plan, hospital, country, length of stay, and any complications. Some cancers need only a few months of chemotherapy, while others require transplant or years of care. A reliable estimate is possible only after doctors review the child's confirmed diagnosis and reports.</p>"
+          },
+          {
+            "q": "Why does the cost of childhood cancer treatment vary so much?",
+            "a": "<p>Childhood cancer costs vary because every child's treatment plan is different. The type and stage of cancer, the drugs used, the number of chemotherapy cycles, radiation, surgery, and supportive care all affect the total. Costs also depend on the hospital, city, and country, and on whether complications or repeated hospital stays occur. Because of this, families should ask for a written estimate based on the confirmed diagnosis.</p>"
+          }
+        ]
+      },
+      {
+        "title": "What Affects the Cost",
+        "items": [
+          {
+            "q": "What factors affect the total cost of pediatric cancer care?",
+            "a": "<p>The total cost is influenced by the cancer type, stage, and the specific treatment protocol chosen for the child. Chemotherapy drugs, radiation, surgery, diagnostic tests, imaging, and pathology all add to the bill, as do hospital stay length, intensive care, blood products, and treatment of infections. Follow-up visits and long-term monitoring also matter. Final costs should be confirmed with the treating hospital after full assessment.</p>"
+          },
+          {
+            "q": "Does the type of childhood cancer change the treatment cost?",
+            "a": "<p>Yes, the type of childhood cancer strongly influences treatment cost. Some leukemias may be managed mainly with chemotherapy over months, while solid tumors or high-risk cancers may need surgery, radiation, and intensive care. Cancers that relapse or require transplant generally cost more. Because each diagnosis carries a different treatment pathway, cost estimates should always be based on the child's confirmed cancer type and stage.</p>"
+          },
+          {
+            "q": "Are advanced therapies like bone marrow transplant or CAR T-cell more expensive?",
+            "a": "<p>Advanced therapies such as bone marrow transplant and CAR T-cell therapy are generally more expensive than standard chemotherapy. These treatments involve specialized facilities, longer hospital stays, close monitoring, and costly medications. They may be considered for selected high-risk or relapsed cancers after specialist review. Whether such therapy is suitable, and its likely cost, depends on the child's condition and should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Are there hidden or additional costs beyond treatment?",
+            "a": "<p>Beyond the core treatment, families often face additional costs that are easy to overlook. These can include diagnostic tests, imaging, blood products, medicines for side effects, treatment of infections, and repeated hospital admissions. For families travelling for care, accommodation, food, local transport, and time away from work also add up. Asking the hospital for a detailed, itemized estimate helps families plan for these extra expenses.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Support, and Planning",
+        "items": [
+          {
+            "q": "Is financial help available for families facing pediatric cancer costs?",
+            "a": "<p>Financial help may be available through government schemes, hospital assistance programs, and childhood cancer charities in many countries. Support can cover part of the treatment, medicines, travel, or accommodation, though eligibility and coverage vary widely. Availability depends on the country, hospital, and family circumstances. Families should ask the hospital's social worker or patient support team early about programs they may qualify for.</p>"
+          },
+          {
+            "q": "Can international families access affordable pediatric cancer treatment abroad?",
+            "a": "<p>International families sometimes travel abroad for pediatric cancer treatment, and costs can differ significantly between countries. Access depends on hospital acceptance, medical review, visa approval, the child's fitness to travel, and overall condition. Treatment cost, admission, and visa outcomes cannot be guaranteed in advance. Families should gather medical reports, obtain a written cost estimate, and plan for travel, stay, and follow-up care before deciding.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of pediatric cancer treatment?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help compare options across hospitals and countries so families understand the likely financial picture before deciding. Treatment decisions and final costs are always determined by the qualified oncology team after reviewing the child's diagnosis, stage, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

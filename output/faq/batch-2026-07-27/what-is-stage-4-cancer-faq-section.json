@@ -1,0 +1,66 @@
+{
+  "pillar": "Stage 4 Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-stage-4-cancer",
+  "route": "/insights/what-is-stage-4-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stage 4 Cancer",
+    "intro": "Stage 4 cancer means the disease has spread from where it started to distant parts of the body. These FAQs explain what stage 4 means, how it is diagnosed and treated, and what patients should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Stage 4 Cancer",
+        "items": [
+          {
+            "q": "What is stage 4 cancer?",
+            "a": "<p>Stage 4 cancer means the disease has spread from where it began to distant organs or tissues, such as the liver, lungs, bones, or brain. It is the most advanced stage in cancer staging and is also called advanced or metastatic cancer. Stage 4 does not describe how fast cancer grows; the outlook depends on cancer type, location of spread, biomarker profile, and overall health.</p>"
+          },
+          {
+            "q": "What is the difference between stage 4 and metastatic cancer?",
+            "a": "<p>Stage 4 and metastatic cancer usually mean the same thing: cancer has spread beyond its original site to distant parts of the body. Doctors may use the terms interchangeably, though some cancers can be metastatic at an earlier stage in specific situations. The exact classification depends on the cancer type, imaging, pathology, and the staging system used, and should be confirmed by the treating oncology team.</p>"
+          },
+          {
+            "q": "Does stage 4 cancer always mean it is terminal?",
+            "a": "<p>Stage 4 cancer is not always terminal, though it is serious and usually not curable in the traditional sense. Many patients live for months or years with treatment that controls the disease, and some cancers respond very well to targeted therapy or immunotherapy. Prognosis varies widely by cancer type, extent of spread, biomarkers, and overall health, and should be discussed individually with a qualified oncologist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Symptoms, Diagnosis, and Prognosis",
+        "items": [
+          {
+            "q": "What are the common symptoms of stage 4 cancer?",
+            "a": "<p>Common symptoms of stage 4 cancer may include persistent fatigue, unexplained weight loss, pain in areas where the cancer has spread, shortness of breath, and reduced appetite. Specific symptoms depend on which organs are affected, such as bone pain with skeletal spread or breathlessness with lung involvement. Symptoms vary between individuals, and any new or worsening signs should be evaluated by a medical team.</p>"
+          },
+          {
+            "q": "How is stage 4 cancer diagnosed?",
+            "a": "<p>Stage 4 cancer is diagnosed using imaging, biopsy, and laboratory tests that show the cancer has spread to distant sites. Scans such as CT, MRI, PET-CT, and bone scans help locate metastases, while a biopsy confirms the cancer type. Biomarker and genetic testing may guide treatment choices. Final staging is determined by the oncology team after reviewing all reports, imaging, and pathology together.</p>"
+          },
+          {
+            "q": "What affects survival and prognosis in stage 4 cancer?",
+            "a": "<p>Survival in stage 4 cancer depends on several factors, including the cancer type, where it has spread, biomarker and genetic profile, response to treatment, and the patient's overall health. Some cancers with targetable mutations respond strongly to modern therapies, improving outcomes. Survival statistics are averages and cannot predict any one person's result, so prognosis should always be discussed directly with the treating oncologist.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment and Support",
+        "items": [
+          {
+            "q": "How is stage 4 cancer treated?",
+            "a": "<p>Stage 4 cancer is usually treated with therapies that aim to control the disease, relieve symptoms, and maintain quality of life rather than remove the cancer entirely. Options may include chemotherapy, targeted therapy, immunotherapy, hormone therapy, radiation, and clinical trials, often used in combination. The right approach depends on cancer type, biomarkers, previous treatment, and overall health, and should be planned by the oncology team.</p>"
+          },
+          {
+            "q": "Can stage 4 cancer go into remission?",
+            "a": "<p>Stage 4 cancer can sometimes go into remission, meaning signs and symptoms decrease or disappear, though this is not guaranteed and varies by cancer type. Some patients achieve long periods of disease control with targeted therapy or immunotherapy, while others may not respond as well. Remission does not always mean cure, and ongoing monitoring by the treating medical team remains important throughout care.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stage 4 cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help patients explore advanced options and clinical trials that may be suitable in selected cases. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

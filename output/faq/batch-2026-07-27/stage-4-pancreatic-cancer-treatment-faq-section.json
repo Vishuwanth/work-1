@@ -1,0 +1,62 @@
+{
+  "pillar": "Stage 4 Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "stage-4-pancreatic-cancer-treatment",
+  "route": "/insights/stage-4-pancreatic-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stage 4 Pancreatic Cancer Treatment",
+    "intro": "Clear, patient-friendly answers about how stage 4 (metastatic) pancreatic cancer is treated, what to expect, and how international patients can explore their options.",
+    "groups": [
+      {
+        "title": "Understanding Stage 4 Pancreatic Cancer",
+        "items": [
+          {
+            "q": "What is stage 4 pancreatic cancer?",
+            "a": "<p>Stage 4 pancreatic cancer is cancer that has spread from the pancreas to distant organs such as the liver, lungs, or the abdominal lining. Also called metastatic pancreatic cancer, it is the most advanced stage. While it is generally not considered curable, treatment can help control the disease, ease symptoms, and support quality of life. Care plans depend on cancer type, overall health, and specialist review.</p>"
+          },
+          {
+            "q": "Can stage 4 pancreatic cancer be treated?",
+            "a": "<p>Yes, stage 4 pancreatic cancer can be treated, though the aim is usually to control the cancer rather than cure it. Chemotherapy is the main treatment, and options like targeted therapy or immunotherapy may be considered for selected patients based on biomarker testing. Treatment can help slow growth, relieve symptoms, and maintain quality of life. Final decisions should be made by a qualified oncology team after reviewing the full medical picture.</p>"
+          },
+          {
+            "q": "What is the goal of treatment for stage 4 pancreatic cancer?",
+            "a": "<p>The main goal of treatment for stage 4 pancreatic cancer is to control the cancer, relieve symptoms, and support quality of life rather than achieve a cure. Treatment may help slow disease progression, reduce pain, and improve daily comfort. Some patients respond better than others, and outcomes vary widely. Goals should be discussed openly with the oncology team, who tailor the plan to the patient's condition, priorities, and overall health.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment Options and What to Expect",
+        "items": [
+          {
+            "q": "What are the main treatment options for stage 4 pancreatic cancer?",
+            "a": "<p>The main treatment for stage 4 pancreatic cancer is systemic chemotherapy, often using combinations such as FOLFIRINOX or gemcitabine with nab-paclitaxel. Targeted therapy or immunotherapy may be suitable for selected patients whose tumors show specific biomarkers, such as BRCA mutations or high microsatellite instability. Supportive care to manage pain, digestion, and nutrition is also important. The right combination depends on cancer biology, overall health, and the treating team's assessment.</p>"
+          },
+          {
+            "q": "Does biomarker testing help in stage 4 pancreatic cancer?",
+            "a": "<p>Yes, biomarker testing can play an important role in stage 4 pancreatic cancer by identifying targetable features. Testing may reveal BRCA1/2 or PALB2 mutations, high microsatellite instability (MSI-High), NTRK fusions, or KRAS G12C changes, which can open the door to targeted therapy or immunotherapy for selected patients. Not every tumor has an actionable marker. Whether testing changes treatment depends on the results and the treating oncology team's review.</p>"
+          },
+          {
+            "q": "What are the side effects of chemotherapy for stage 4 pancreatic cancer?",
+            "a": "<p>Chemotherapy for stage 4 pancreatic cancer can cause side effects that vary by drug and individual. Common effects may include fatigue, nausea, hair loss, diarrhea, reduced blood counts, numbness or tingling in the hands and feet, and higher infection risk. Many side effects can be managed with supportive medicines and dose adjustments. Patients should report new or worsening symptoms promptly, and the treating team monitors tolerance throughout treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Clinical Trials and International Patient Support",
+        "items": [
+          {
+            "q": "Are clinical trials available for stage 4 pancreatic cancer?",
+            "a": "<p>Clinical trials may offer access to newer treatments for stage 4 pancreatic cancer, including novel targeted drugs, immunotherapies, and combination approaches. Eligibility is decided after medical record review and investigator assessment, and trials often have strict inclusion and exclusion criteria. Participation does not guarantee benefit, and it involves careful monitoring. Discussing trial options with the oncology team can help patients understand whether a suitable study is available for their situation.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stage 4 pancreatic cancer treatment?",
+            "a": "<p>CancerFax helps patients with stage 4 pancreatic cancer organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For international patients, access depends on hospital acceptance, medical review, visa approval, and travel fitness. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

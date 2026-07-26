@@ -1,0 +1,62 @@
+{
+  "pillar": "Advanced Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cost-of-advanced-cancer-treatment-worldwide",
+  "route": "/insights/cost-of-advanced-cancer-treatment-worldwide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Cost of Advanced Cancer Treatment Worldwide",
+    "intro": "Advanced cancer treatments can vary enormously in price from one therapy and country to another. These FAQs explain what drives the cost, how it differs internationally, and how patients can plan realistically.",
+    "groups": [
+      {
+        "title": "Understanding the Cost of Advanced Cancer Treatment",
+        "items": [
+          {
+            "q": "What is the cost of advanced cancer treatment worldwide?",
+            "a": "<p>The cost of advanced cancer treatment worldwide varies widely and can range from a few thousand to several hundred thousand US dollars, depending on the therapy and country. Advanced options such as immunotherapy, targeted therapy, CAR T-cell therapy, or proton therapy are generally more expensive than standard treatment. Final costs depend on cancer type, stage, treatment protocol, hospital, tests, and length of stay, and should be confirmed with the treating team.</p>"
+          },
+          {
+            "q": "Why does advanced cancer treatment cost so much?",
+            "a": "<p>Advanced cancer treatment is often costly because it uses newer technologies, specialised drugs, and highly trained medical teams. Therapies like CAR T-cell treatment, targeted therapy, and precision medicine require complex manufacturing, genetic testing, and close monitoring, which raises the price. Costs also reflect hospital facilities, supportive care, and management of possible side effects. Actual expenses vary by diagnosis, protocol, and country and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which factors affect the total cost of advanced cancer treatment?",
+            "a": "<p>Several factors affect the total cost of advanced cancer treatment, including cancer type, stage, and biomarker profile. The chosen therapy, number of cycles, hospital, city, required tests, hospital stay, and management of complications all influence the final amount. Additional costs may include imaging, pathology, supportive medicines, and follow-up care. Because each patient's plan is different, estimates should be reviewed with the treating medical team before making financial decisions.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How Cost Varies by Country and Coverage",
+        "items": [
+          {
+            "q": "How does the cost of advanced cancer treatment vary by country?",
+            "a": "<p>The cost of advanced cancer treatment varies significantly by country due to differences in healthcare systems, drug pricing, and hospital charges. The same therapy may cost far more in the United States or parts of Europe than in countries like India, Turkey, or Thailand. However, lower prices should not be the only consideration, as quality, expertise, and safety also matter. Exact costs depend on the hospital and should be confirmed directly.</p>"
+          },
+          {
+            "q": "Is advanced cancer treatment more affordable in India?",
+            "a": "<p>Advanced cancer treatment is often more affordable in India compared with many Western countries, which is why some international patients consider treatment there. Costs for procedures such as targeted therapy, immunotherapy, or bone marrow transplant may be lower while still delivered at accredited hospitals. However, final pricing depends on the hospital, diagnosis, stage, and treatment plan, and acceptance is not guaranteed. Estimates should be confirmed after a medical record review.</p>"
+          },
+          {
+            "q": "Does insurance cover advanced cancer treatment abroad?",
+            "a": "<p>Insurance coverage for advanced cancer treatment abroad depends on the patient's policy, provider, and country of residence. Some international or private plans may cover part of the treatment, while many do not cover care received in another country. Newer therapies and clinical-trial-related costs may also be excluded. Patients should check their policy details carefully, request a written cost estimate from the hospital before travelling, and confirm coverage with their insurer.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Planning and Support for International Patients",
+        "items": [
+          {
+            "q": "How can international patients plan and budget for advanced cancer treatment?",
+            "a": "<p>International patients can plan for advanced cancer treatment by first obtaining a clear diagnosis and a written cost estimate from the treating hospital. It helps to budget for treatment, tests, medicines, travel, accommodation, and follow-up care, plus a reserve for possible complications. Comparing accredited hospitals and seeking a second opinion is also useful. Because costs and eligibility vary, final planning should be based on specialist review and confirmed hospital estimates.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with the cost of advanced cancer treatment worldwide?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help compare options across hospitals and countries so patients understand potential expenses more clearly. Treatment and cost decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

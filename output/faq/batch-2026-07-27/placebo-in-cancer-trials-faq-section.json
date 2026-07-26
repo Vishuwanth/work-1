@@ -1,0 +1,62 @@
+{
+  "pillar": "Clinical Trials in Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "placebo-in-cancer-trials",
+  "route": "/insights/placebo-in-cancer-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Placebo in Cancer Trials",
+    "intro": "These answers explain how placebos are used in cancer clinical trials, when they are and are not allowed, and what patients can expect regarding safety and standard care.",
+    "groups": [
+      {
+        "title": "Understanding Placebos in Cancer Trials",
+        "items": [
+          {
+            "q": "What is a placebo in a cancer clinical trial?",
+            "a": "<p>A placebo is an inactive substance with no treatment effect, used in some clinical trials to compare against a new therapy. In cancer research, placebos are used carefully and rarely given alone. They usually help researchers measure whether a new drug adds benefit beyond existing care. The specific design depends on the cancer type, stage, and available standard treatments, and should be explained fully during the consent process.</p>"
+          },
+          {
+            "q": "Why are placebos used in cancer research?",
+            "a": "<p>Placebos are used to help researchers tell whether improvements come from the new treatment or from other factors. Comparing a new drug against a placebo can reduce bias and make trial results more reliable. In cancer trials, this comparison is often combined with standard therapy rather than used alone. The goal is to produce trustworthy evidence about whether a treatment truly works, which supports safer decisions for future patients.</p>"
+          },
+          {
+            "q": "Will I be given only a placebo instead of real cancer treatment?",
+            "a": "<p>In most cancer trials, patients are not left without active treatment when an effective standard therapy exists. Placebos are typically added to standard care, so one group receives standard treatment plus the new drug and another receives standard treatment plus placebo. Pure placebo-only designs are uncommon and mainly considered when no proven treatment is available. The exact design should be clearly described in the informed consent document.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Ethics, and Your Rights",
+        "items": [
+          {
+            "q": "Is it ethical to use a placebo in cancer trials?",
+            "a": "<p>Placebo use in cancer trials is guided by strict ethical rules designed to protect patients. Ethics committees generally allow placebos only when withholding active treatment does not cause serious or irreversible harm, or when no standard therapy exists. Trials are reviewed by independent boards before approval. Any placebo use must be justified scientifically and disclosed to participants, and final participation decisions should always be discussed with your oncology team.</p>"
+          },
+          {
+            "q": "Will I know if I am receiving a placebo?",
+            "a": "<p>In many trials you will not know whether you are receiving the placebo or the new treatment, because trials are often \"blinded\" to reduce bias. However, you will always be told before joining that a placebo may be used and what your chances are of receiving it. In urgent situations, doctors can find out which group you are in. This information is explained during the informed consent discussion.</p>"
+          },
+          {
+            "q": "Can I leave a trial if I am worried about receiving a placebo?",
+            "a": "<p>Yes, participation in any cancer trial is voluntary, and you can withdraw at any time without losing your right to standard care. If you are concerned about placebo use, you can raise this with the trial team before enrolling and ask how the study is designed. Leaving a trial should ideally be discussed with your oncology team so your ongoing treatment and follow-up can be arranged safely.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for Patients",
+        "items": [
+          {
+            "q": "How do I find out if a cancer trial uses a placebo?",
+            "a": "<p>You can find out whether a trial uses a placebo by reviewing the trial's informed consent form and asking the research team directly. Trial listings and protocols usually state the study design, including whether a control group receives placebo or standard treatment. It is reasonable to ask what each group receives, what your odds are, and what care continues regardless. A qualified oncology team can help you interpret these details.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with placebo in cancer trials?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant clinical trials or treatment centers, understand trial designs including placebo use, and coordinate second opinions, appointments, travel, visa, and follow-up support. CancerFax does not enroll patients or guarantee trial acceptance. Eligibility and participation decisions are always made by the qualified oncology team and trial investigators after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

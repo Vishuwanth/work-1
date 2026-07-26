@@ -1,0 +1,66 @@
+{
+  "pillar": "Stem Cell Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "graft-vs-host-disease-explained",
+  "route": "/insights/graft-vs-host-disease-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Graft vs Host Disease",
+    "intro": "Clear, patient-friendly answers about graft vs host disease (GVHD), a possible complication after an allogeneic (donor) stem cell or bone marrow transplant.",
+    "groups": [
+      {
+        "title": "Understanding Graft vs Host Disease",
+        "items": [
+          {
+            "q": "What is graft vs host disease?",
+            "a": "<p>Graft vs host disease (GVHD) is a condition where immune cells from a donor's transplanted stem cells or bone marrow recognize the recipient's body as foreign and attack healthy tissue. It can occur after an allogeneic (donor) transplant, most commonly affecting the skin, gut, and liver. GVHD ranges from mild to serious and is managed by the transplant team using medicines that calm the immune response.</p>"
+          },
+          {
+            "q": "Why does GVHD happen after a stem cell transplant?",
+            "a": "<p>GVHD happens because donor immune cells (T cells) view the recipient's tissues as foreign and mount an immune attack. This risk exists mainly with allogeneic transplants, where cells come from another person, and not with autologous transplants using the patient's own cells. The likelihood depends on donor–recipient matching, donor type, patient age, conditioning treatment, and other factors reviewed by the transplant team.</p>"
+          },
+          {
+            "q": "What is the difference between acute and chronic GVHD?",
+            "a": "<p>Acute GVHD and chronic GVHD differ mainly in timing and how they affect the body. Acute GVHD often appears in the early weeks after transplant and typically involves the skin, gut, and liver. Chronic GVHD may develop later and can affect the skin, eyes, mouth, joints, lungs, and other organs, sometimes resembling autoimmune conditions. Both are graded by severity and managed differently by the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Symptoms, Risk, and Diagnosis",
+        "items": [
+          {
+            "q": "What are the symptoms of graft vs host disease?",
+            "a": "<p>Common GVHD symptoms include skin rash, itching, diarrhea, abdominal cramps, nausea, and yellowing of the skin or eyes from liver involvement. Chronic GVHD can cause dry eyes, mouth sores, skin tightening, and breathing changes. Symptoms vary widely between patients and organs. Anyone who has had a donor transplant should report new symptoms promptly, as early assessment by the transplant team supports safer management.</p>"
+          },
+          {
+            "q": "Who is at higher risk of developing GVHD?",
+            "a": "<p>Risk of GVHD may be higher with less closely matched donors, unrelated donors, older patient or donor age, certain graft sources, and specific conditioning regimens. Each person's risk depends on donor–recipient tissue matching, transplant type, and overall health. There is no single risk profile, and estimates should be discussed with a qualified transplant team that reviews the patient's full medical and matching details.</p>"
+          },
+          {
+            "q": "How is graft vs host disease diagnosed?",
+            "a": "<p>GVHD is usually diagnosed through a combination of clinical examination, symptom review, blood tests, and sometimes a biopsy of the affected skin, gut, or liver. The transplant team evaluates timing after transplant and rules out other causes such as infection or drug reactions. Because symptoms overlap with other conditions, diagnosis and grading should always be confirmed by the treating specialist team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment, Prevention, and Support",
+        "items": [
+          {
+            "q": "How is graft vs host disease treated?",
+            "a": "<p>GVHD is treated with medicines that reduce the donor immune response, most commonly corticosteroids, along with other immunosuppressive drugs for steroid-resistant cases. Treatment depends on which organs are affected, the severity grade, and how the patient responds. Newer targeted therapies may be considered for selected patients. All treatment choices, including dose adjustments, should be made by the transplant team based on the individual's condition.</p>"
+          },
+          {
+            "q": "Can GVHD be prevented?",
+            "a": "<p>GVHD cannot be fully prevented, but its risk may be reduced through careful donor matching and preventive medicines given around the time of transplant. Approaches such as immunosuppressive drugs and, in some cases, modifying the graft may lower the chance or severity of GVHD. Prevention strategies vary between transplant centers and are chosen by the specialist team based on the patient's risk profile.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with graft vs host disease?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment and management decisions for graft vs host disease are always made by the qualified oncology and transplant team after reviewing the patient's diagnosis, transplant details, affected organs, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

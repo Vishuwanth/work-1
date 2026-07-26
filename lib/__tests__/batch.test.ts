@@ -9,13 +9,12 @@ import type { Row } from "@/lib/types";
 import type { GenerateResult } from "@/lib/generate";
 
 const row = (slug: string): Row => ({
-  rowNum: 0,
-  pillarNum: "1",
-  pillarName: "P",
-  title: slug,
-  excelStatus: "Pending",
-  contentType: "",
+  collection: "insights",
   slug,
+  title: slug,
+  faqDone: false,
+  role: "",
+  pillarAssociation: "",
 });
 
 const rows = (n: number) => Array.from({ length: n }, (_, i) => row(`r${i}`));
@@ -79,7 +78,7 @@ describe("runBatch", () => {
     );
     expect(summary).toMatchObject({ done: 4, failed: 1, skipped: 0 });
     const failed = events.find((e) => e.type === "row" && e.status === "failed");
-    expect(failed).toMatchObject({ slug: "r2", status: "failed", error: "bad json" });
+    expect(failed).toMatchObject({ key: "insights/r2", status: "failed", error: "bad json" });
   });
 
   it("aborts the whole run immediately on an auth failure", async () => {

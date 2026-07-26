@@ -28,13 +28,13 @@ export function writeTracker(data: TrackerData, dir?: string): void {
   writeFileSync(trackerPath(dir), JSON.stringify(data, null, 2) + "\n");
 }
 
-/** The existing record for a slug, or a fresh pending default. */
-export function recordFor(data: TrackerData, slug: string): ReviewRecord {
+/** The existing record for a "collection/slug" key, or a fresh pending default. */
+export function recordFor(data: TrackerData, key: string): ReviewRecord {
   return (
-    data[slug] || {
+    data[key] || {
       reviewStatus: "pending",
       note: "",
-      edits: { answers: {}, slug: "", route: "" },
+      edits: { answers: {} },
     }
   );
 }

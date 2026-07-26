@@ -1,0 +1,62 @@
+{
+  "pillar": "Gene Therapy for Cancer",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gene-therapy-for-leukemia",
+  "route": "/guides/gene-therapy-for-leukemia",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Gene Therapy for Leukemia",
+    "intro": "Gene therapy is an evolving approach for certain blood cancers that reprograms or repairs cells to help fight leukemia. These answers explain how it works, who may qualify, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy for Leukemia",
+        "items": [
+          {
+            "q": "What is gene therapy for leukemia?",
+            "a": "<p>Gene therapy for leukemia is a treatment that changes the genetic instructions inside cells to help the body fight blood cancer. It may involve modifying a patient's own immune cells or correcting faulty genes so cells behave normally. It is a specialised option, not a routine first treatment, and is mainly studied in certain leukemia types. Suitability depends on cancer type, previous treatment, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does gene therapy work for leukemia?",
+            "a": "<p>Gene therapy works by adding, editing, or silencing genes inside targeted cells so they can recognise or resist leukemia. In one common approach, a patient's immune T-cells are collected, genetically reprogrammed in a laboratory to detect cancer cells, and returned to the body. The exact method depends on the leukemia subtype and platform used. Any gene therapy plan should be discussed with an experienced haematology and oncology team before proceeding.</p>"
+          },
+          {
+            "q": "What is CAR T-cell therapy and how is it used in leukemia?",
+            "a": "<p>CAR T-cell therapy is a type of gene therapy in which a patient's own T-cells are genetically engineered to target leukemia cells. It is used mainly in certain relapsed or hard-to-treat B-cell leukemias, such as some cases of acute lymphoblastic leukemia. It is a complex, hospital-based treatment given after careful evaluation. Whether it may be suitable depends on cancer type, biomarker profile, prior therapy, and overall health, and requires specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for gene therapy for leukemia?",
+            "a": "<p>Eligibility for gene therapy in leukemia is decided individually and may be considered for selected patients whose disease has relapsed or not responded to standard treatment. It depends on cancer type, leukemia subtype, age, biomarker profile, previous therapy, and overall health. Not every patient is a candidate, and some may need standard chemotherapy or transplant instead. Final decisions should be made by the treating medical team after a full review of reports and test results.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of gene therapy for leukemia?",
+            "a": "<p>Gene therapy for leukemia can cause side effects that require close hospital monitoring. With CAR T-cell therapy, these may include cytokine release syndrome, which causes fever and low blood pressure, and temporary nervous system effects such as confusion. Infection risk, low blood counts, and other complications can also occur. Side effects vary between patients and treatments. Any therapy carries risks, so care must be delivered by an experienced team in a specialised centre.</p>"
+          },
+          {
+            "q": "Does gene therapy replace chemotherapy or stem cell transplant for leukemia?",
+            "a": "<p>Gene therapy does not replace standard leukemia treatment for most patients. Chemotherapy, targeted drugs, and stem cell transplant remain the main options, and gene therapy such as CAR T-cell therapy is usually considered when these have failed or in specific relapsed cases. In some situations it may be used alongside or before a transplant. The right sequence depends on individual factors and should be decided by the treating oncology and haematology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does gene therapy for leukemia cost?",
+            "a": "<p>Gene therapy for leukemia is generally expensive, and costs can vary widely between countries and hospitals. Reliable estimates are difficult to give because the final amount depends on the hospital, leukemia type, tests, treatment protocol, hospital stay, and any complications. Additional costs may include monitoring, supportive care, and travel for international patients. Patients should request a detailed written estimate from the treating hospital and confirm what is and is not included before planning treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene therapy for leukemia?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For international patients, access also depends on hospital acceptance, medical review, visa approval, and travel fitness, and cannot be guaranteed. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

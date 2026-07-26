@@ -1,0 +1,66 @@
+{
+  "pillar": "Stage 4 Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "stage-4-ovarian-cancer-treatment",
+  "route": "/insights/stage-4-ovarian-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stage 4 Ovarian Cancer Treatment",
+    "intro": "These answers explain how stage 4 ovarian cancer is treated, what options may be available, and what international patients should know before planning care.",
+    "groups": [
+      {
+        "title": "Understanding Stage 4 Ovarian Cancer",
+        "items": [
+          {
+            "q": "What is stage 4 ovarian cancer?",
+            "a": "<p>Stage 4 ovarian cancer means the cancer has spread beyond the pelvis and abdomen to distant organs, such as the lungs, liver tissue, or areas outside the abdominal cavity. It is the most advanced stage and is generally treated as a chronic, controllable illness rather than a curable one. Treatment aims to shrink tumors, relieve symptoms, and extend life. The exact approach depends on cancer subtype, spread, biomarkers, and overall health.</p>"
+          },
+          {
+            "q": "Can stage 4 ovarian cancer be treated?",
+            "a": "<p>Yes, stage 4 ovarian cancer can be treated, though the goal is usually long-term control rather than a guaranteed cure. Many patients respond well to a combination of surgery, chemotherapy, and targeted or maintenance therapy, and some live for years with good quality of life. Response varies widely and depends on tumor type, BRCA and HRD status, previous treatment, and overall health. Final treatment plans should be made by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment Options, Eligibility, and Safety",
+        "items": [
+          {
+            "q": "What are the main treatment options for stage 4 ovarian cancer?",
+            "a": "<p>The main treatments for stage 4 ovarian cancer are surgery to remove visible tumor, chemotherapy (often carboplatin with paclitaxel), and maintenance therapy using targeted drugs. Options may include PARP inhibitors for BRCA-mutated or HRD-positive disease and bevacizumab, an anti-angiogenic drug. The right combination depends on cancer subtype, biomarker profile, disease spread, and fitness for surgery. Treatment is usually sequenced and adjusted over time by a specialist oncology team.</p>"
+          },
+          {
+            "q": "Is surgery possible for stage 4 ovarian cancer?",
+            "a": "<p>Surgery may be possible for selected stage 4 ovarian cancer patients, but it depends on how far the cancer has spread and the patient's overall fitness. Some patients have surgery first, while others receive chemotherapy first to shrink tumors before an operation called interval debulking. The aim is to remove as much visible cancer as possible. Whether surgery is suitable should be decided by a gynecologic oncology surgeon after full assessment.</p>"
+          },
+          {
+            "q": "What targeted therapies are used for stage 4 ovarian cancer?",
+            "a": "<p>Targeted therapies for stage 4 ovarian cancer include PARP inhibitors such as olaparib, niraparib, and rucaparib, which may benefit patients with BRCA mutations or homologous recombination deficiency. Bevacizumab, which blocks blood supply to tumors, may be combined with chemotherapy or used as maintenance. Eligibility depends on biomarker testing, prior response to chemotherapy, and overall health. These drugs are prescribed and monitored by the oncology team based on individual test results.</p>"
+          },
+          {
+            "q": "What are the side effects of stage 4 ovarian cancer treatment?",
+            "a": "<p>Side effects of stage 4 ovarian cancer treatment vary by therapy but commonly include fatigue, nausea, hair loss, low blood counts, and increased infection risk from chemotherapy. PARP inhibitors may cause tiredness, nausea, and blood count changes, while bevacizumab can raise blood pressure or bleeding risk. Most side effects are manageable with supportive care and dose adjustments. Patients should report new symptoms promptly so the treating team can respond and adapt the plan.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does stage 4 ovarian cancer treatment cost abroad?",
+            "a": "<p>The cost of stage 4 ovarian cancer treatment abroad varies widely and cannot be fixed in advance. Final cost depends on the hospital, country, diagnosis, surgery, chemotherapy cycles, targeted drugs, tests, hospital stay, and any complications. Some countries offer treatment at lower cost than others, but prices differ between centers. Patients should request a detailed written estimate from the hospital after medical record review, as actual costs may change during treatment.</p>"
+          },
+          {
+            "q": "Are clinical trials available for stage 4 ovarian cancer?",
+            "a": "<p>Clinical trials for stage 4 ovarian cancer are often available and may test new targeted drugs, immunotherapies, or antibody-drug conjugates. Trials do not guarantee enrollment or benefit, and each has strict inclusion and exclusion criteria. Eligibility is decided only after medical records and pathology are reviewed by the trial investigator. Patients interested in trials should discuss the risks, potential benefits, and travel or follow-up requirements with their oncology team before applying.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stage 4 ovarian cancer treatment?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa support, and follow-up care. Access to any treatment or clinical trial depends on hospital acceptance, medical review, and travel fitness, and cannot be guaranteed. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

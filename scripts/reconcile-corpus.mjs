@@ -27,6 +27,10 @@ const LEDGER_CSV = resolve(
   ROOT,
   "docs/source/cancerfax-faq-generator/master-faq-reconciliation.csv",
 );
+const PAGES_CSV = resolve(
+  ROOT,
+  "docs/source/cancerfax-faq-generator/all-pages-faq-status.csv",
+);
 const APP_BATCH_FOLDER = "150 pillar pages";
 
 const args = process.argv.slice(2);
@@ -107,6 +111,51 @@ function readLedger() {
   return map;
 }
 
+/** slug -> collection, from the live-site status CSV. */
+function readCollectionBySlug() {
+  const grid = toGrid(readFileSync(PAGES_CSV, "utf8")).filter((r) =>
+    r.some((c) => c.trim() !== ""),
+  );
+  const header = grid[0].map((h) => h.trim());
+  const iCol = header.indexOf("collection");
+  const iSlug = header.indexOf("slug");
+  const map = new Map();
+  for (const cells of grid.slice(1)) {
+    const collection = (cells[iCol] ?? "").trim();
+    const slug = (cells[iSlug] ?? "").trim();
+    if (slug && collection) map.set(slug, collection);
+  }
+  return map;
+}
+
+/**
+ * Re-key tracker records from a bare slug to "collection/slug", the identity the
+ * app now uses. Without this every pre-migration review record is orphaned and its
+ * row reads "pending". Records whose slug has no live page keep their old key —
+ * there is no collection to attach them to, and they are archived work anyway.
+ */
+function rekeyTracker(tracker, collectionBySlug, ledger) {
+  let rekeyed = 0;
+  let orphaned = 0;
+  const out = {};
+  for (const [key, rec] of Object.entries(tracker)) {
+    if (key.includes("/")) {
+      out[key] = rec;
+      continue;
+    }
+    const collection = collectionBySlug.get(key);
+    const stamped = { ...rec, ledgerStatus: ledger.get(`${key}-faq-section.json`) ?? rec.ledgerStatus };
+    if (collection) {
+      out[`${collection}/${key}`] = stamped;
+      rekeyed++;
+    } else {
+      out[key] = stamped;
+      orphaned++;
+    }
+  }
+  return { out, rekeyed, orphaned };
+}
+
 function planReconcile(doneFiles, ledger) {
   const plan = { keep: [], flagged: [], archive: [], unknown: [] };
   for (const file of doneFiles) {
@@ -137,8 +186,28 @@ console.log(`  drifted   (flag)  : ${plan.flagged.length}`);
 console.log(`  no-page   (archive): ${plan.archive.length}`);
 console.log(`  unknown   (leave) : ${plan.unknown.length}`);
 
+// Tracker maintenance runs on EVERY invocation, including the already-reconciled
+// path — re-keying is idempotent and must not be skipped just because the archive
+// step already happened.
+if (!DRY) {
+  let tracker = {};
+  try {
+    tracker = JSON.parse(readFileSync(TRACKER, "utf8"));
+  } catch {
+    tracker = {};
+  }
+  const { out, rekeyed, orphaned } = rekeyTracker(tracker, readCollectionBySlug(), ledger);
+  if (rekeyed > 0) {
+    writeFileSync(TRACKER, JSON.stringify(out, null, 2) + "\n");
+    console.log(`\nre-keyed ${rekeyed} tracker records to collection/slug`);
+    console.log(`  left under a bare slug (no live page): ${orphaned}`);
+  } else {
+    console.log(`\ntracker already keyed by collection/slug (${Object.keys(out).length} records)`);
+  }
+}
+
 if (plan.archive.length === 0) {
-  console.log("\nnothing to archive — already reconciled. No changes made.");
+  console.log("nothing to archive — already reconciled.");
   process.exit(0);
 }
 
@@ -175,23 +244,6 @@ try {
       `The files are safe in ${stageDir}. Zip that folder manually, or leave it as-is.`,
   );
 }
-
-// Stamp every fixture's ledger verdict into the tracker; keep all review history.
-let tracker = {};
-try {
-  tracker = JSON.parse(readFileSync(TRACKER, "utf8"));
-} catch {
-  tracker = {};
-}
-let stamped = 0;
-for (const [file, status] of ledger) {
-  const slug = file.replace(/-faq-section\.json$/, "");
-  if (!tracker[slug]) continue;
-  tracker[slug].ledgerStatus = status;
-  stamped++;
-}
-writeFileSync(TRACKER, JSON.stringify(tracker, null, 2) + "\n");
-console.log(`stamped ledgerStatus on ${stamped} tracker records`);
 
 const after = readdirSync(DONE_DIR).filter((f) => f.endsWith("-faq-section.json"));
 console.log(`\ndone/ after         : ${after.length}`);

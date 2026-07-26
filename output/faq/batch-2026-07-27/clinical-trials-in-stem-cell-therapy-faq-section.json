@@ -1,0 +1,66 @@
+{
+  "pillar": "Stem Cell Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "clinical-trials-in-stem-cell-therapy",
+  "route": "/insights/clinical-trials-in-stem-cell-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Clinical Trials in Stem Cell Therapy",
+    "intro": "Clinical trials help researchers understand how stem cell–based treatments perform in cancer care. These FAQs explain how the trials work, who may qualify, and what international patients should consider before taking part.",
+    "groups": [
+      {
+        "title": "Understanding Stem Cell Therapy Trials",
+        "items": [
+          {
+            "q": "What are clinical trials in stem cell therapy?",
+            "a": "<p>Clinical trials in stem cell therapy are carefully monitored research studies that test how stem cell–based treatments work for specific cancers. These trials evaluate safety, correct dosing, and effectiveness, often for blood cancers such as leukemia, lymphoma, or myeloma. Participation is voluntary and depends on cancer type, stage, previous treatment, and overall health. Eligibility and enrollment are decided by the investigators after reviewing each patient's medical records and specialist assessment.</p>"
+          },
+          {
+            "q": "How do stem cell therapy clinical trials work?",
+            "a": "<p>Stem cell therapy clinical trials work in carefully designed phases that gradually test safety and effectiveness. Early phases focus on safe dosing and side effects, while later phases compare the therapy against standard treatment in larger groups. Patients are closely monitored throughout, and follow-up may continue for months or years. Whether a trial suits you depends on your diagnosis, stage, prior therapy, and the investigator's review of your medical records.</p>"
+          },
+          {
+            "q": "What types of cancers are studied in stem cell therapy trials?",
+            "a": "<p>Stem cell therapy clinical trials most often study blood cancers such as leukemia, lymphoma, and multiple myeloma, where transplants are already established. Newer trials also explore stem cell approaches for selected solid tumors and for rebuilding the immune or blood system after intensive treatment. The cancers studied vary by trial and research center. Eligibility for any specific trial depends on cancer type, stage, biomarkers, previous treatment, and specialist review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Participation",
+        "items": [
+          {
+            "q": "Who is eligible for a stem cell therapy clinical trial?",
+            "a": "<p>Eligibility for a stem cell therapy clinical trial depends on strict inclusion and exclusion criteria set by the investigators. Factors often include cancer type, stage, previous treatments, organ function, age, and overall health, and some trials require specific biomarkers or a suitable donor match. Meeting the general criteria does not guarantee enrollment, as final eligibility is confirmed only after a detailed review of medical records and specialist assessment.</p>"
+          },
+          {
+            "q": "Are stem cell therapy clinical trials safe?",
+            "a": "<p>Stem cell therapy clinical trials follow strict safety standards and ethical oversight, but no trial is risk-free. Each study is reviewed by regulatory and ethics boards, and participants are monitored closely for side effects. Because these are experimental treatments, benefits are not guaranteed and unexpected reactions can occur. Any decision to join should be discussed carefully with your treating oncology team, who can weigh the possible risks and benefits for your situation.</p>"
+          },
+          {
+            "q": "What are the possible risks or side effects of stem cell therapy trials?",
+            "a": "<p>Possible risks of stem cell therapy trials may include infection, immune reactions such as graft-versus-host disease, fatigue, and complications from conditioning treatment. Because trials test newer approaches, some side effects may not be fully known at the start. The likelihood and severity vary by therapy type, cancer, and individual health. Your medical team will explain the specific risks of any trial and monitor you closely, and final decisions rest with the treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "How much does it cost to join a stem cell therapy clinical trial?",
+            "a": "<p>The cost of joining a stem cell therapy clinical trial varies widely and cannot be fixed in advance. Some trials cover the experimental treatment and related tests, while patients may still pay for travel, accommodation, standard care, and follow-up. Final costs depend on the hospital, country, diagnosis, protocol, length of stay, and any complications. It is best to confirm all expenses with the trial center and treating team before enrolling.</p>"
+          },
+          {
+            "q": "Can international patients join stem cell therapy clinical trials?",
+            "a": "<p>International patients may be able to join stem cell therapy clinical trials, but access depends on several factors. These include trial availability, hospital acceptance, medical record review, visa approval, and fitness to travel. Some trials enroll only local residents, while others accept overseas patients. Enrollment is never guaranteed and is confirmed only after investigator assessment. Planning ahead for medical reports, second opinions, and follow-up care can make the process smoother.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with clinical trials in stem cell therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

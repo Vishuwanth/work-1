@@ -1,0 +1,62 @@
+{
+  "pillar": "Rare Cancer Treatments",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "orphan-drug-designations-explained",
+  "route": "/insights/orphan-drug-designations-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Orphan Drug Designations",
+    "intro": "Orphan drug designation is a special regulatory status that supports the development of treatments for rare diseases, including many rare cancers. These FAQs explain what the designation means, how it affects access, and what patients and caregivers should know.",
+    "groups": [
+      {
+        "title": "Understanding Orphan Drug Designations",
+        "items": [
+          {
+            "q": "What is an orphan drug designation?",
+            "a": "<p>An orphan drug designation is a special status that regulators grant to a medicine developed for a rare disease, including many rare cancers. It is given by agencies such as the US FDA or the European Medicines Agency to encourage research into conditions that affect small numbers of patients. The designation offers development incentives to companies but does not by itself mean the drug is approved, proven, or available for treatment.</p>"
+          },
+          {
+            "q": "What qualifies a cancer as a rare disease for orphan status?",
+            "a": "<p>A cancer usually qualifies as rare when it affects a small, defined number of people, based on each regulator's threshold. In the United States, orphan status generally applies to conditions affecting fewer than 200,000 people, while the European Union uses a rate of fewer than 5 in 10,000. Many rare cancers, cancer subtypes, and biomarker-defined tumors may meet these criteria, but classification depends on official regulatory assessment.</p>"
+          },
+          {
+            "q": "Does orphan drug designation mean the drug is approved?",
+            "a": "<p>No, orphan drug designation does not mean a drug is approved or ready for use. The designation is granted early to support development and applies before clinical trials are complete. A drug must still pass through testing and formal regulatory review to be approved for a specific cancer. Some designated drugs are later approved, while others may not complete trials, so patients should confirm current approval status with their oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Benefits, Incentives, and Access",
+        "items": [
+          {
+            "q": "What benefits do companies receive from orphan drug designation?",
+            "a": "<p>Orphan drug designation gives companies incentives designed to make rare-disease research more feasible. These may include tax credits for clinical trials, waived or reduced regulatory fees, scientific support, and a period of market exclusivity after approval. The goal is to encourage investment in treatments that might otherwise be overlooked because the patient population is small. These benefits support development but do not guarantee that a drug will ultimately be approved or reach patients.</p>"
+          },
+          {
+            "q": "Does orphan drug designation make a treatment cheaper for patients?",
+            "a": "<p>Orphan drug designation does not directly lower the price patients pay for a treatment. The incentives mainly reduce costs for the company developing the drug, not for individuals. Approved orphan drugs can sometimes be expensive because they serve small patient groups. Actual out-of-pocket cost depends on the country, hospital, insurance or reimbursement rules, and the specific medicine, so patients should discuss pricing and coverage with their treating team.</p>"
+          },
+          {
+            "q": "How can patients access an orphan-designated drug?",
+            "a": "<p>Access to an orphan-designated drug depends on where it sits in development and where the patient lives. Options may include standard treatment if the drug is approved, participation in a clinical trial, or in some regions compassionate-use or early-access programs. Availability varies by country and hospital and depends on eligibility, medical review, and regulatory rules. A qualified oncology team can advise whether a particular drug is a realistic option for a specific case.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for Patients and Caregivers",
+        "items": [
+          {
+            "q": "Is an orphan drug safe and effective just because it has designation?",
+            "a": "<p>Orphan drug designation is not a measure of safety or effectiveness. It is an early regulatory status that supports development, granted before a drug's full risks and benefits are known. Safety and effectiveness are established later through clinical trials and formal approval. Some designated drugs prove beneficial, while others do not. Patients should rely on approval status, trial evidence, and their specialist's review rather than the designation alone when weighing a treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with orphan drug designations?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, understand which designated or approved therapies may be relevant, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee treatment access, drug availability, or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

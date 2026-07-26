@@ -1,0 +1,62 @@
+{
+  "pillar": "Precision Oncology & NGS Testing",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "ngs-reports-explained",
+  "route": "/insights/ngs-reports-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About NGS Reports Explained",
+    "intro": "Next-generation sequencing (NGS) reports can look complex, so these answers explain in plain language what they contain, how they guide treatment, and what patients and caregivers should ask their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding NGS Reports",
+        "items": [
+          {
+            "q": "What is an NGS report in cancer?",
+            "a": "<p>An NGS report is a laboratory document that lists the genetic changes found in a tumor using next-generation sequencing, a technology that reads many genes at once. It typically shows mutations, gene fusions, copy-number changes, and markers such as tumor mutational burden or microsatellite instability. The report helps oncologists understand what may be driving the cancer and whether targeted therapies or immunotherapy might be relevant, based on the treating team's full review.</p>"
+          },
+          {
+            "q": "What information does an NGS report contain?",
+            "a": "<p>An NGS report usually contains detected genetic alterations, their clinical significance, and any therapies or clinical trials linked to those findings. You may see gene names, mutation types, variant allele frequency, and biomarkers like TMB, MSI, or PD-L1 where tested. Reports often separate findings into actionable variants and variants of uncertain significance. The exact layout varies by laboratory, so interpretation should always be done with a qualified oncology or molecular tumor team.</p>"
+          },
+          {
+            "q": "What is the difference between actionable mutations and variants of uncertain significance?",
+            "a": "<p>Actionable mutations are genetic changes linked to an approved or investigational treatment, while variants of uncertain significance (VUS) are changes whose clinical meaning is not yet clear. Actionable findings may guide targeted therapy or clinical trial options, depending on cancer type and stage. A VUS does not usually change treatment on its own and may be reclassified as more research emerges. Only the treating specialist can decide how each finding applies to a patient.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing, Eligibility, and Interpretation",
+        "items": [
+          {
+            "q": "Who should consider NGS testing?",
+            "a": "<p>NGS testing may be considered for patients with advanced, metastatic, or hard-to-treat cancers, and for certain cancers where biomarkers strongly guide therapy. It can also be useful when standard treatments have stopped working or when clinical trial options are being explored. Whether testing is appropriate depends on cancer type, stage, prior treatment, available tissue, and specialist review. The decision to order NGS should always be made by the treating oncology team.</p>"
+          },
+          {
+            "q": "How long does it take to get NGS results?",
+            "a": "<p>NGS results usually take around one to three weeks from the time the laboratory receives a suitable tissue or blood sample. The exact turnaround depends on the test panel size, sample quality, and the laboratory's workload. Larger comprehensive panels may take longer than smaller targeted ones. If tissue is insufficient, a repeat biopsy or blood-based test may be needed, which can add time. Your oncology team can share the expected timeline for your specific test.</p>"
+          },
+          {
+            "q": "Can NGS be done on a blood sample instead of a biopsy?",
+            "a": "<p>Yes, NGS can sometimes be performed on a blood sample through what is called liquid biopsy, which detects tumor DNA circulating in the blood. This may be helpful when a tissue biopsy is difficult, risky, or when tissue is insufficient. Liquid biopsy does not replace tissue testing in every situation and may miss some alterations. Whether a blood-based or tissue-based test is right depends on the cancer type and the treating team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Using NGS Results and Getting Support",
+        "items": [
+          {
+            "q": "Does an NGS report guarantee a matching targeted treatment?",
+            "a": "<p>No, an NGS report does not guarantee that a matching treatment will be found or that it will work. Some tumors show no actionable alterations, while others reveal changes without an approved therapy for that cancer type. When a match exists, eligibility still depends on stage, overall health, drug availability, and specialist review. NGS is a tool to guide options, and final treatment decisions are always made by the qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with NGS reports?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For NGS reports specifically, this can include gathering the report and related pathology for expert review. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

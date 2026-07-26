@@ -1,0 +1,62 @@
+{
+  "pillar": "CAR-T Cell Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "side-effects-of-car-t-therapy",
+  "route": "/insights/side-effects-of-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Side Effects of CAR-T Therapy",
+    "intro": "CAR-T cell therapy can cause distinct short-term and longer-term side effects that are usually managed closely in specialized centers. These FAQs explain the common reactions, warning signs, and recovery expectations in plain language.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Side Effects",
+        "items": [
+          {
+            "q": "What are the most common side effects of CAR-T therapy?",
+            "a": "<p>The most common side effects of CAR-T therapy are cytokine release syndrome (CRS) and neurological effects, along with low blood counts and infection risk. CRS can cause fever, chills, low blood pressure, and difficulty breathing, while neurological symptoms may include confusion, tremors, or trouble speaking. Most reactions appear within the first one to two weeks and are managed in hospital. The type and severity vary by patient, product, and cancer type.</p>"
+          },
+          {
+            "q": "What is cytokine release syndrome (CRS)?",
+            "a": "<p>Cytokine release syndrome is an inflammatory reaction that happens when CAR-T cells activate and rapidly release immune signaling proteins. Symptoms may include fever, fatigue, low blood pressure, fast heartbeat, and breathing difficulty, ranging from mild to severe. CRS usually begins within the first week after infusion and is closely monitored in hospital. Treatment may include supportive care and medicines such as tocilizumab or steroids, decided by the treating team.</p>"
+          },
+          {
+            "q": "Can CAR-T therapy affect the brain or nervous system?",
+            "a": "<p>Yes, CAR-T therapy can cause neurological side effects, sometimes called ICANS (immune effector cell-associated neurotoxicity syndrome). Symptoms may include confusion, difficulty finding words, tremors, headache, drowsiness, or in rare cases seizures. These effects are usually temporary and reversible with prompt monitoring and treatment, often using steroids. Because timing and severity differ between patients, close observation in a specialized center is important during the early weeks after infusion.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Severity, Timing, and Warning Signs",
+        "items": [
+          {
+            "q": "How long do CAR-T side effects usually last?",
+            "a": "<p>Most acute CAR-T side effects appear within the first one to two weeks and often improve within a few weeks with treatment. CRS and neurological symptoms are typically short-term, while low blood counts and higher infection risk can persist for weeks to months. Recovery time depends on the patient's overall health, cancer type, and how the body responds. Ongoing follow-up with the treating oncology team helps track and manage lingering effects.</p>"
+          },
+          {
+            "q": "What warning signs after CAR-T therapy need urgent attention?",
+            "a": "<p>Urgent warning signs after CAR-T therapy include high fever, chills, difficulty breathing, dizziness, severe fatigue, confusion, trouble speaking, or seizures. Any new neurological change or signs of infection should be reported to the medical team immediately, as early treatment reduces severity. Patients are usually advised to stay near the treating center for a set period after infusion. Final guidance on monitoring and emergency care should come from the treating team.</p>"
+          },
+          {
+            "q": "Are the side effects of CAR-T therapy the same for everyone?",
+            "a": "<p>No, CAR-T side effects are not the same for everyone and can range from mild to serious. Severity depends on factors such as cancer type, disease burden, the specific CAR-T product, and the patient's overall health. Some patients have only mild fever, while others need intensive supportive care. Because responses vary widely, eligibility and risk should be assessed individually and discussed with a qualified oncology team before treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Managing Risks and Getting Support",
+        "items": [
+          {
+            "q": "How are the side effects of CAR-T therapy managed?",
+            "a": "<p>CAR-T side effects are managed through close hospital monitoring, supportive care, and specific medicines when needed. CRS may be treated with tocilizumab, steroids, fluids, and oxygen, while neurological effects are often managed with steroids and careful observation. Low blood counts and infections may require transfusions, antibiotics, or growth factors. Care is usually delivered in experienced centers with trained teams, and all treatment decisions are guided by the treating medical team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with side effects of CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can help families understand how CAR-T side effects are monitored and managed at experienced centers. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

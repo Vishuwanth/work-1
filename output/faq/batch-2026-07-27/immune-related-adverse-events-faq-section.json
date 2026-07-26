@@ -1,0 +1,61 @@
+{
+  "pillar": "Cancer Immunotherapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immune-related-adverse-events",
+  "route": "/insights/immune-related-adverse-events",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immune-Related Adverse Events",
+    "intro": "Immune-related adverse events (irAEs) are side effects that can occur when immunotherapy activates the immune system against healthy tissue. These answers explain what irAEs are, how they are recognized, and how they are managed.",
+    "groups": [
+      {
+        "title": "Understanding Immune-Related Adverse Events",
+        "items": [
+          {
+            "q": "What are immune-related adverse events?",
+            "a": "<p>Immune-related adverse events (irAEs) are side effects caused when immunotherapy overstimulates the immune system, leading it to attack healthy organs. They most often occur with immune checkpoint inhibitors such as PD-1, PD-L1, and CTLA-4 drugs. Commonly affected areas include the skin, gut, thyroid, liver, and lungs. Severity ranges from mild to serious, so symptoms should always be reported promptly to the treating oncology team for assessment.</p>"
+          },
+          {
+            "q": "How are immune-related adverse events different from chemotherapy side effects?",
+            "a": "<p>Immune-related adverse events differ from chemotherapy side effects because they result from an overactive immune response rather than direct toxicity to cells. Chemotherapy side effects like hair loss and low blood counts are usually predictable and time-limited. irAEs can appear at any point, sometimes weeks or months after treatment, and may affect almost any organ. Because patterns vary, ongoing monitoring and specialist review are important throughout immunotherapy.</p>"
+          },
+          {
+            "q": "What are the most common immune-related adverse events?",
+            "a": "<p>The most common immune-related adverse events involve the skin, digestive system, and hormone-producing glands. These include rash and itching, colitis (inflammation of the bowel causing diarrhea), thyroid problems, and inflammation of the liver or lungs. Less commonly, the kidneys, heart, nerves, or eyes may be affected. The type and frequency depend on the specific immunotherapy drug used, and symptoms should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "When do immune-related adverse events usually appear?",
+            "a": "<p>Immune-related adverse events can appear at any time, often within the first few weeks to months of starting immunotherapy. Some reactions, such as skin changes, tend to occur early, while others involving the liver, lungs, or hormone glands may develop later. In selected cases, irAEs have been reported even after treatment ends. Because timing is unpredictable, patients are advised to report new symptoms promptly to their treating team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Recognizing, Managing, and Monitoring irAEs",
+        "items": [
+          {
+            "q": "What are the warning signs of immune-related adverse events?",
+            "a": "<p>Warning signs of immune-related adverse events include persistent diarrhea, unusual fatigue, shortness of breath, new cough, skin rash, yellowing of the eyes or skin, and severe headaches. Changes in weight, mood, or urination may also signal hormone or kidney involvement. These symptoms can be subtle at first, so any new or worsening changes should be reported to the oncology team without delay for evaluation.</p>"
+          },
+          {
+            "q": "How are immune-related adverse events treated?",
+            "a": "<p>Immune-related adverse events are usually managed by reducing immune overactivity, often with corticosteroids such as prednisone in moderate to severe cases. Mild reactions may be monitored or treated symptomatically, while immunotherapy may be paused or stopped depending on severity. Serious events sometimes require hospital care and additional immune-suppressing medicines. Treatment decisions depend on the affected organ and overall health, and should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Can immunotherapy be continued after an immune-related adverse event?",
+            "a": "<p>Immunotherapy may sometimes be continued after an immune-related adverse event, but this depends on the severity and type of reaction. Mild events that resolve may allow treatment to resume under close monitoring, while severe or organ-threatening events may require permanent discontinuation. The decision balances cancer control against safety risks. Whether immunotherapy can restart should always be reviewed carefully by the treating oncology team.</p>"
+          },
+          {
+            "q": "How are patients monitored for immune-related adverse events?",
+            "a": "<p>Patients are monitored for immune-related adverse events through regular symptom reviews, blood tests, and clinical check-ups during immunotherapy. Blood work may track liver, kidney, thyroid, and hormone function, while imaging can help assess the lungs or other organs. Patients are also encouraged to keep a symptom diary and report changes early. The monitoring schedule depends on the drug used and individual risk, guided by the treating team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immune-related adverse events?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For those on immunotherapy, this can include connecting with teams experienced in monitoring and managing side effects. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

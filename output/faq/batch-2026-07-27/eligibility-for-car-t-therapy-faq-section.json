@@ -1,0 +1,66 @@
+{
+  "pillar": "CAR-T Cell Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "eligibility-for-car-t-therapy",
+  "route": "/insights/eligibility-for-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for CAR-T Therapy",
+    "intro": "CAR-T cell therapy is a personalized treatment for certain blood cancers, and eligibility depends on several medical factors. These FAQs explain who may qualify, what tests are involved, and how international patients can be assessed.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T Eligibility",
+        "items": [
+          {
+            "q": "Who is eligible for CAR-T cell therapy?",
+            "a": "<p>CAR-T cell therapy may be considered for selected patients with certain blood cancers, such as some types of B-cell lymphoma, acute lymphoblastic leukemia, and multiple myeloma, that have relapsed or not responded to earlier treatment. Eligibility depends on cancer type, previous therapies, disease stage, organ function, and overall health. A qualified oncology team reviews each case individually, and final suitability is confirmed only after specialist assessment and required testing.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with CAR-T therapy?",
+            "a": "<p>CAR-T therapy is currently approved for specific blood cancers, mainly relapsed or refractory B-cell lymphomas, B-cell acute lymphoblastic leukemia, and multiple myeloma. It is generally not used for solid tumors outside of clinical trials. Whether a patient qualifies depends on the exact diagnosis, biomarker profile, and prior treatments. The treating hematology-oncology team determines whether an approved CAR-T product or a clinical trial option may be appropriate for the individual case.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy suitable for all cancer patients?",
+            "a": "<p>No, CAR-T therapy is not suitable for all cancer patients and is reserved for selected cases. It is mainly used for certain blood cancers after other treatments have failed, and it is not a standard option for most solid tumors. Suitability depends on cancer type, stage, previous therapies, organ function, and overall fitness. Patients should discuss whether CAR-T or another approach fits their situation with a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Medical Requirements and Assessment",
+        "items": [
+          {
+            "q": "What medical conditions affect CAR-T eligibility?",
+            "a": "<p>Adequate organ function and controlled infections are important factors in CAR-T eligibility. Doctors typically assess heart, lung, kidney, and liver function, along with blood counts, active infections, and any autoimmune or neurological conditions. Patients must generally be well enough to tolerate the treatment and its possible side effects. Because CAR-T can cause serious reactions, the treating team carefully weighs these factors, and final eligibility is decided after specialist review.</p>"
+          },
+          {
+            "q": "Is there an age limit for CAR-T therapy?",
+            "a": "<p>There is no strict universal age limit for CAR-T therapy, as overall fitness matters more than age alone. Some approved treatments are used in children and young adults, while others are used in older adults, depending on the product and diagnosis. Doctors focus on organ function, general health, and the ability to tolerate treatment. Eligibility for each patient, regardless of age, is confirmed by the treating oncology team after assessment.</p>"
+          },
+          {
+            "q": "What tests and reports are needed to check CAR-T eligibility?",
+            "a": "<p>Eligibility for CAR-T therapy is assessed using pathology, imaging, and detailed blood and organ-function tests. Commonly required reports include a confirmed diagnosis and biopsy, biomarker or immunophenotyping results, PET or CT scans, blood counts, and heart, kidney, and liver assessments. Records of previous treatments are also reviewed. The exact requirements vary by cancer type and center, and the treating team decides which additional tests are needed before confirming suitability.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and Support",
+        "items": [
+          {
+            "q": "Can international patients qualify for CAR-T therapy abroad?",
+            "a": "<p>International patients may qualify for CAR-T therapy abroad, but access depends on several factors beyond medical eligibility. These include hospital acceptance, review of medical records, visa approval, travel fitness, and the patient's overall condition. Because CAR-T requires careful monitoring, treatment usually involves a planned stay near the center. No hospital admission, visa approval, or treatment acceptance can be guaranteed, and each case is evaluated individually by the treating medical team.</p>"
+          },
+          {
+            "q": "Can I join a CAR-T clinical trial if I am not eligible for approved therapy?",
+            "a": "<p>Some patients who do not qualify for approved CAR-T products may be considered for clinical trials, though enrollment is never guaranteed. Trials often study new targets, including certain solid tumors, and have strict inclusion and exclusion criteria. Eligibility is decided only after medical record review and investigator assessment, and participation does not guarantee benefit. Discussing trial options with your oncology team can help identify whether any studies may be appropriate.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with eligibility for CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make it easier to explore whether CAR-T therapy or a clinical trial may be an option. Treatment and eligibility decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

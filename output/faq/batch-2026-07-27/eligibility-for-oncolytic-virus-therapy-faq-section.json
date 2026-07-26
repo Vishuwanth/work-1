@@ -1,0 +1,62 @@
+{
+  "pillar": "Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "eligibility-for-oncolytic-virus-therapy",
+  "route": "/insights/eligibility-for-oncolytic-virus-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Eligibility for Oncolytic Virus Therapy",
+    "intro": "Oncolytic virus therapy uses specially modified viruses to target cancer cells, but not every patient qualifies. These FAQs explain who may be eligible, what affects suitability, and how patients are assessed.",
+    "groups": [
+      {
+        "title": "Understanding Eligibility for Oncolytic Virus Therapy",
+        "items": [
+          {
+            "q": "What is oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy uses modified viruses to selectively infect and destroy cancer cells while stimulating the immune system to attack tumors. Eligibility depends on cancer type, stage, tumor location, biomarker profile, previous treatments, and overall health. It is currently approved for selected cancers such as advanced melanoma and is offered elsewhere through clinical trials. Suitability should always be confirmed by a qualified oncology team after reviewing your medical records.</p>"
+          },
+          {
+            "q": "Who is eligible for oncolytic virus therapy?",
+            "a": "<p>Eligibility for oncolytic virus therapy depends on cancer type, stage, tumor accessibility, biomarker profile, previous treatments, and overall health. It may be considered for selected patients with certain advanced or treatment-resistant cancers, and for some tumors that can be reached for direct injection. Because criteria vary by approved indication and clinical trial, final eligibility should be assessed by a qualified oncology team after reviewing your diagnosis, imaging, and pathology reports.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Who Qualifies and Key Requirements",
+        "items": [
+          {
+            "q": "Which cancers may qualify for oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy is approved for advanced melanoma and is being studied in cancers such as brain, head and neck, bladder, and certain solid tumors. Eligibility for each cancer type depends on the specific approved indication or trial protocol, tumor characteristics, and prior treatment. Availability outside approved uses is usually through clinical trials with strict criteria. A specialist should confirm whether your cancer type may qualify after reviewing your records.</p>"
+          },
+          {
+            "q": "Does cancer stage affect eligibility?",
+            "a": "<p>Cancer stage strongly influences eligibility for oncolytic virus therapy, which is often considered for advanced, recurrent, or treatment-resistant disease rather than early-stage cancer. Some approaches require tumors that can be directly injected, while others are given intravenously in trials. Eligibility also depends on tumor location, immune status, and overall health. The treating oncology team decides suitability based on stage, imaging, and your full clinical picture.</p>"
+          },
+          {
+            "q": "Are there patients who should not receive oncolytic virus therapy?",
+            "a": "<p>Some patients may not be suitable for oncolytic virus therapy, including those with severely weakened immune systems, certain active infections, or specific health conditions that raise safety risks. Eligibility depends on immune status, organ function, current medications, and overall health. These factors are carefully reviewed before treatment because live modified viruses are involved. Whether the therapy is safe for you should be determined by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing, Access, and Support",
+        "items": [
+          {
+            "q": "What tests or reports are needed to assess eligibility?",
+            "a": "<p>Assessing eligibility for oncolytic virus therapy usually requires recent imaging (such as CT, MRI, or PET), pathology and biopsy reports, biomarker or molecular testing, blood tests, and a summary of previous treatments. These help the specialist evaluate tumor type, location, immune status, and overall health. For clinical trials, additional tests may be required under the protocol. Your oncology team will confirm exactly which reports are needed for review.</p>"
+          },
+          {
+            "q": "How can international patients access oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy is available in some countries through approved indications or clinical trials, and access for international patients depends on hospital acceptance, medical record review, trial eligibility, visa approval, and travel fitness. Because approved uses are limited, many patients are considered only within clinical trials with strict inclusion and exclusion criteria. Access, cost, and timing should be confirmed with the treating center after they review your medical documents.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with eligibility for oncolytic virus therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Whether oncolytic virus therapy is suitable, and whether a patient qualifies for an approved use or clinical trial, is always decided by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,33 +1,21 @@
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { parseCsv } from "@/lib/csv";
+import type { Collection, LivePage, PageRole } from "@/lib/page-key";
+
+// This module touches node:fs, so it must never reach a client bundle. The types
+// and pageKey live in lib/page-key.ts and are re-exported here for server callers.
+export { pageKey } from "@/lib/page-key";
+export type { Collection, LivePage, PageRole } from "@/lib/page-key";
 
 export const PAGES_CSV = "docs/source/cancerfax-faq-generator/all-pages-faq-status.csv";
 
-export type Collection = "guides" | "insights" | "treatments";
-export type PageRole = "PILLAR PAGE" | "Support Page" | "";
-
 const COLLECTIONS = new Set<string>(["guides", "insights", "treatments"]);
-
-/** One live published page, as the site's own status CSV describes it. */
-export interface LivePage {
-  collection: Collection;
-  slug: string;
-  title: string;
-  faqDone: boolean;
-  role: PageRole;
-  pillarAssociation: string;
-}
 
 export interface PagesResult {
   pages: LivePage[];
   /** Rows dropped for a missing/unknown collection or a missing slug. */
   skipped: number;
-}
-
-/** The identity of a page everywhere in the app: tracker keys, React keys, lookups. */
-export function pageKey(p: { collection: string; slug: string }): string {
-  return `${p.collection}/${p.slug}`;
 }
 
 /**

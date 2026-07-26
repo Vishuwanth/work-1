@@ -1,0 +1,66 @@
+{
+  "pillar": "Gene Therapy for Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gene-editing-vs-gene-replacement",
+  "route": "/insights/gene-editing-vs-gene-replacement",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Gene Editing vs Gene Replacement",
+    "intro": "Gene editing and gene replacement are two different gene therapy strategies being studied in cancer care. This FAQ explains how they differ, where each may apply, and what patients should know before considering them.",
+    "groups": [
+      {
+        "title": "Understanding the Two Approaches",
+        "items": [
+          {
+            "q": "What is the difference between gene editing and gene replacement?",
+            "a": "<p>Gene editing changes or corrects a faulty gene at its original location, while gene replacement adds a healthy working copy of a gene without removing the faulty one. Editing tools such as CRISPR can cut, disable, or rewrite specific DNA sequences. Replacement therapy delivers a new gene, often using a viral vector, so cells can produce a missing or needed protein. Both are still largely investigational in cancer and depend on cancer type, genetic profile, and specialist review.</p>"
+          },
+          {
+            "q": "How does gene editing work in cancer treatment?",
+            "a": "<p>Gene editing works by making precise changes to specific genes inside cells to help the body fight cancer. Tools like CRISPR can disable genes that help tumors grow or can reprogram immune cells to recognize cancer more effectively, as seen in some engineered CAR-T approaches. In cancer, most gene editing is done outside the body on immune cells, which are then returned to the patient. Its use remains investigational and depends on careful specialist evaluation.</p>"
+          },
+          {
+            "q": "How does gene replacement therapy work?",
+            "a": "<p>Gene replacement therapy works by delivering a healthy copy of a gene into cells so they can produce a needed protein. In cancer research, this may involve restoring tumor-suppressor genes that normally control abnormal cell growth. The new gene is usually carried by a modified virus that does not cause disease. Gene replacement in cancer is still mostly studied in clinical trials, and suitability depends on the tumor's specific genetic changes and the treating team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Which cancer patients may be suitable for gene editing or gene replacement?",
+            "a": "<p>Gene editing or gene replacement may be considered for selected patients whose cancer has specific genetic features that these therapies can target. Eligibility depends on cancer type, stage, biomarker profile, previous treatment, overall health, and specialist review. Because most of these therapies are offered through clinical trials, patients must also meet strict inclusion and exclusion criteria. Final decisions about suitability should always be made by a qualified oncology team after reviewing complete medical records.</p>"
+          },
+          {
+            "q": "What are the potential benefits of gene editing compared with gene replacement?",
+            "a": "<p>Gene editing may offer more precise correction of a faulty gene at its source, while gene replacement can add function when a gene is missing or inactive. Editing can potentially disable cancer-promoting genes, and replacement can restore protective ones. The best approach depends on the specific genetic problem driving the cancer. Neither therapy guarantees a response, and outcomes vary between patients. Any potential benefit should be discussed carefully with the treating medical team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of gene editing and gene replacement?",
+            "a": "<p>Both gene editing and gene replacement carry possible risks that are still being studied. These may include unintended changes to other genes, immune reactions to viral vectors, inflammation, or off-target effects. Because many of these therapies are new, long-term safety is not fully known. Side effects vary by treatment type, dose, and individual health. Patients should discuss all potential risks with a qualified oncology team and understand that these therapies do not replace standard cancer treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and Practical Questions",
+        "items": [
+          {
+            "q": "Are gene editing and gene replacement therapies widely available for cancer?",
+            "a": "<p>Most gene editing and gene replacement therapies for cancer are not yet widely available and are offered mainly through clinical trials at specialized centers. A few engineered cell therapies have regulatory approval for certain blood cancers, but many approaches remain experimental. Availability depends on the country, hospital, cancer type, and ongoing research programs. Patients interested in these options should seek evaluation at experienced centers and confirm current availability with the treating oncology team.</p>"
+          },
+          {
+            "q": "How can international patients explore gene therapy clinical trials?",
+            "a": "<p>International patients can explore gene therapy trials by first having their medical records reviewed by specialists at centers running relevant studies. Access depends on hospital acceptance, medical review, trial eligibility, visa approval, and travel fitness, and enrollment is never guaranteed. Trials have strict inclusion and exclusion criteria decided by investigators after assessment. Patients should prepare pathology reports, imaging, biomarker results, and treatment history, and plan for costs, travel, and follow-up care in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene editing vs gene replacement options?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to gene therapy options. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee trial enrollment, hospital admission, or specific outcomes, and these therapies do not replace standard cancer care.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

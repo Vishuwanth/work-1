@@ -26,7 +26,7 @@ export function AppShell({ initial }: AppShellProps) {
   const [open, setOpen] = React.useState(false);
 
   const [genStatus, setGenStatus] = React.useState<Record<string, GenStatus>>({});
-  const [batchSlugs, setBatchSlugs] = React.useState<string[] | null>(null);
+  const [batchKeys, setBatchKeys] = React.useState<string[] | null>(null);
   const [concurrency, setConcurrency] = React.useState(DEFAULT_CONCURRENCY);
 
   const refresh = React.useCallback(() => router.refresh(), [router]);
@@ -67,7 +67,7 @@ export function AppShell({ initial }: AppShellProps) {
   };
 
   // Batch — a fresh array reference starts the streaming run in BatchPanel.
-  const onRunBatch = (slugs: string[]) => setBatchSlugs([...slugs]);
+  const onRunBatch = (keys: string[]) => setBatchKeys([...keys]);
 
   // When the batch finishes: auto-approve the freshly-generated rows if enabled, then refresh.
   const onBatchDone = (doneSlugs: string[]) => {
@@ -114,16 +114,16 @@ export function AppShell({ initial }: AppShellProps) {
         <BentoOverview stats={stats} toggles={toggles} onToggle={onToggle} />
       </div>
 
-      {batchSlugs ? (
+      {batchKeys ? (
         <div className="mb-3">
           <BatchPanel
-            slugs={batchSlugs}
+            keys={batchKeys}
             concurrency={concurrency}
             onConcurrencyChange={setConcurrency}
             onStatus={setStatus}
             onDone={onBatchDone}
             onClose={() => {
-              setBatchSlugs(null);
+              setBatchKeys(null);
               setGenStatus({});
             }}
             onRetry={onRunBatch}
@@ -138,11 +138,11 @@ export function AppShell({ initial }: AppShellProps) {
         genStatus={genStatus}
         onRunBatch={onRunBatch}
         onApproveAll={onApproveAll}
-        batchRunning={batchSlugs !== null}
+        batchRunning={batchKeys !== null}
       />
 
       <FaqDetailDrawer
-        slug={selectedSlug}
+        rowKey={selectedSlug}
         open={open}
         onOpenChange={setOpen}
         toggles={toggles}

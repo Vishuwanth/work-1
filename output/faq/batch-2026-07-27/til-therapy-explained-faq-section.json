@@ -1,0 +1,62 @@
+{
+  "pillar": "Advanced Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "til-therapy-explained",
+  "route": "/insights/til-therapy-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About TIL Therapy",
+    "intro": "TIL (tumor-infiltrating lymphocyte) therapy is a personalized form of immunotherapy being studied and used for selected advanced cancers. These answers explain how it works, who may be considered, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding TIL Therapy",
+        "items": [
+          {
+            "q": "What is TIL therapy?",
+            "a": "<p>TIL therapy is a type of personalized immunotherapy that uses a patient's own tumor-infiltrating lymphocytes to help fight cancer. These immune cells are collected from the tumor, grown into large numbers in a laboratory, and then infused back into the patient. TIL therapy may be considered for selected patients with certain advanced solid tumors, and suitability depends on cancer type, previous treatment, overall health, and specialist review.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by expanding the immune cells that have already recognized a patient's tumor. Surgeons remove a small piece of the tumor, and cells called tumor-infiltrating lymphocytes are separated and multiplied in a specialized laboratory over several weeks. The patient may receive preparative chemotherapy before the expanded cells are infused back into the body. Whether this approach is suitable depends on cancer type, stage, and the oncology team's assessment.</p>"
+          },
+          {
+            "q": "Which cancers may be treated with TIL therapy?",
+            "a": "<p>TIL therapy is most studied in advanced melanoma, particularly for selected patients whose disease has progressed after other treatments. Research is also exploring its role in cervical, lung, and other solid tumors, often through clinical trials. Availability for a specific cancer depends on approval status, biomarker profile, previous therapy, and specialist review. Final treatment decisions should always be made by a qualified oncology team after reviewing the full medical picture.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for TIL therapy?",
+            "a": "<p>Eligibility for TIL therapy depends on cancer type, stage, overall health, and having a tumor that can be safely sampled. It may be suitable for selected patients with certain advanced solid tumors, often after standard treatments have been tried. Patients generally need adequate organ function to tolerate the preparative chemotherapy. Final eligibility is decided by the treating medical team and, for clinical trials, after medical record review and investigator assessment.</p>"
+          },
+          {
+            "q": "What steps are involved in TIL therapy?",
+            "a": "<p>TIL therapy usually involves several stages carried out over a few weeks. First, a portion of the tumor is surgically removed so that immune cells can be collected. These cells are then grown into large numbers in a specialized laboratory. The patient may receive a short course of chemotherapy before the expanded cells are infused, followed by supportive care and monitoring. The exact process depends on the hospital protocol and the patient's condition.</p>"
+          },
+          {
+            "q": "What are the possible side effects of TIL therapy?",
+            "a": "<p>The side effects of TIL therapy are often linked to the chemotherapy given before infusion and to supportive medicines such as interleukin-2. These may include low blood counts, higher infection risk, fever, fatigue, and fluid-related effects, which are usually managed in hospital under close monitoring. Side effects vary between patients and depend on overall health and the protocol used. Possible risks should be discussed in detail with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support for International Patients",
+        "items": [
+          {
+            "q": "Which countries offer TIL therapy and how can international patients access it?",
+            "a": "<p>TIL therapy is currently available in a limited number of specialized centers and, in some regions, through clinical trials or recently approved programs. International patients may access it depending on hospital acceptance, medical review, travel fitness, and visa approval, none of which can be guaranteed. Recent pathology, imaging, and medical reports are usually needed for assessment. Cost and access depend on the country, hospital, and the specific treatment plan advised by the medical team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with TIL therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is intended to make the process clearer for international patients exploring whether TIL therapy may be a suitable option for their situation.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

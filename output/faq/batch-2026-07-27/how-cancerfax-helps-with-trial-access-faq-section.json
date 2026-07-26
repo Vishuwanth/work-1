@@ -1,0 +1,62 @@
+{
+  "pillar": "Clinical Trials in Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-cancerfax-helps-with-trial-access",
+  "route": "/insights/how-cancerfax-helps-with-trial-access",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About How CancerFax Helps with Trial Access",
+    "intro": "These questions explain what clinical trial access involves, how patients are matched to studies, and the practical steps international patients face when seeking trials abroad.",
+    "groups": [
+      {
+        "title": "Understanding Trial Access",
+        "items": [
+          {
+            "q": "What does clinical trial access mean for cancer patients?",
+            "a": "<p>Clinical trial access means being matched to and enrolled in a research study testing a new cancer treatment, drug, or approach. Access depends on the patient's cancer type, stage, biomarker profile, previous treatments, and overall health, as well as the trial's inclusion and exclusion criteria. Final eligibility is decided by the trial investigators after reviewing medical records. Access to any specific trial can never be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How can a patient find clinical trials that match their diagnosis?",
+            "a": "<p>Matching a patient to a clinical trial usually starts with a detailed review of their diagnosis, stage, pathology, imaging, and biomarker or genetic test results. These details are compared against the inclusion and exclusion criteria of trials open at hospitals or research centers. Suitable options may then be discussed with the treating oncology team. The number and type of matching trials depend heavily on cancer type, mutations, and prior treatment history.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Reports, and Expectations",
+        "items": [
+          {
+            "q": "Who is eligible for a cancer clinical trial?",
+            "a": "<p>Eligibility for a cancer clinical trial depends on strict inclusion and exclusion criteria set by the study. Common factors include cancer type, stage, specific biomarkers or mutations, age, organ function, and how many previous treatments a patient has received. Some trials accept newly diagnosed patients, while others require prior therapy. Final eligibility is confirmed only after the investigators review complete medical records and, in some cases, perform additional screening tests.</p>"
+          },
+          {
+            "q": "What reports are needed to be considered for a clinical trial?",
+            "a": "<p>Being considered for a clinical trial usually requires recent and complete medical records. These often include pathology and biopsy reports, imaging scans such as CT, MRI, or PET, biomarker or genetic testing results, blood tests, and a summary of previous treatments. Organized, up-to-date reports help investigators assess eligibility more quickly. Some trials may request additional screening tests. The exact documents required depend on the specific trial and treating team.</p>"
+          },
+          {
+            "q": "Does joining a clinical trial guarantee treatment or benefit?",
+            "a": "<p>No, joining a clinical trial does not guarantee treatment benefit or a cure. Trials study whether a new treatment is safe and effective, so results and responses can vary between patients. Some participants may receive standard care as part of the study design. Enrollment itself is not guaranteed, since it depends on meeting eligibility criteria and investigator approval. Potential benefits and risks should be discussed with the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "Can international patients join clinical trials abroad?",
+            "a": "<p>International patients may be able to join clinical trials abroad, but access depends on several factors. These include the trial's eligibility criteria, whether it accepts overseas participants, hospital acceptance, visa approval, travel fitness, and the patient's overall condition. Some trials are limited to residents or specific countries. Medical record review and investigator assessment come first. Admission, visa approval, and trial enrollment can never be guaranteed and require careful planning with the treating team.</p>"
+          },
+          {
+            "q": "How much does it cost to take part in a clinical trial?",
+            "a": "<p>The cost of taking part in a clinical trial varies widely and depends on the trial, sponsor, hospital, and country. In some studies, the investigational drug and certain study-related tests are provided at no charge, while routine care, travel, accommodation, and non-trial costs are usually the patient's responsibility. Final costs depend on diagnosis, protocol, length of participation, and any complications. Patients should confirm what is and isn't covered before enrolling.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with trial access?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant clinical trials, specialists, or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Trial eligibility and treatment decisions are always made by the qualified oncology team and trial investigators after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee trial enrollment, hospital admission, or treatment outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

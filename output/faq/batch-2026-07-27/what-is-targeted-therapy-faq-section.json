@@ -1,0 +1,62 @@
+{
+  "pillar": "Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-targeted-therapy",
+  "route": "/insights/what-is-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Targeted Therapy",
+    "intro": "Targeted therapy is a type of cancer treatment that acts on specific molecules involved in tumour growth. These answers explain how it works, who it may suit, and how international patients can explore it.",
+    "groups": [
+      {
+        "title": "Understanding Targeted Therapy",
+        "items": [
+          {
+            "q": "What is targeted therapy?",
+            "a": "<p>Targeted therapy is a type of cancer treatment that acts on specific genes, proteins, or signals that help cancer cells grow and spread. Unlike treatments that affect all fast-dividing cells, it aims to interfere with particular molecular targets found in certain tumours. It may be given as tablets or infusions and is usually chosen after biomarker or genetic testing. Suitability depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How does targeted therapy work?",
+            "a": "<p>Targeted therapy works by blocking specific molecules that cancer cells rely on to grow, divide, or survive. Some drugs stop the signals that tell cells to multiply, while others cut off a tumour's blood supply or flag cancer cells for the immune system. Because these targets are identified through biomarker testing, the treatment is matched to the tumour's biology. Whether a particular target is present should be confirmed by an oncology team.</p>"
+          },
+          {
+            "q": "How is targeted therapy different from chemotherapy?",
+            "a": "<p>Targeted therapy differs from chemotherapy by focusing on specific molecular targets in cancer cells rather than affecting all rapidly dividing cells. Chemotherapy works broadly and can harm healthy fast-growing cells, causing effects like hair loss. Targeted therapy is guided by biomarker testing and may cause different side effects, such as skin or blood pressure changes. The two are sometimes combined, and the right approach depends on the treating medical team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for targeted therapy?",
+            "a": "<p>Eligibility for targeted therapy depends on whether the cancer carries a specific target that a matching drug can act on. Doctors usually order biomarker, genetic, or molecular tests to check for markers such as EGFR, HER2, ALK, or BRAF. Eligibility also depends on cancer type, stage, previous treatment, and overall health. Not every patient will have a treatable target, so final decisions should be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the benefits of targeted therapy?",
+            "a": "<p>The main benefit of targeted therapy is that it focuses on cancer-specific molecules, which may spare more healthy cells than some traditional treatments. For selected patients, it can help control tumour growth and may cause fewer of certain chemotherapy-related side effects. Some targeted drugs are taken as tablets at home. Benefits vary between individuals and cancer types, and expected outcomes should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of targeted therapy?",
+            "a": "<p>Side effects of targeted therapy vary by drug but may include skin rashes, diarrhoea, high blood pressure, fatigue, liver changes, or slower wound healing. These differ from typical chemotherapy effects and are usually monitored with regular tests. Most side effects can be managed, though some require dose changes or breaks in treatment. Any new or worsening symptoms should be reported promptly to the treating medical team for review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support for International Patients",
+        "items": [
+          {
+            "q": "Is targeted therapy suitable for all cancer patients?",
+            "a": "<p>Targeted therapy is not suitable for all cancer patients, because it only works when a tumour carries a specific target the drug can act on. Patients without a matching biomarker may not benefit and may be offered other treatments instead. Suitability depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Whether targeted therapy may be considered should always be decided by a qualified oncology team after testing.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Access to targeted therapy also depends on biomarker testing, hospital acceptance, and medical review. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

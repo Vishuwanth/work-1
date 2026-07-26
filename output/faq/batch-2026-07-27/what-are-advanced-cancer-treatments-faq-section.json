@@ -1,0 +1,62 @@
+{
+  "pillar": "Advanced Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-are-advanced-cancer-treatments",
+  "route": "/insights/what-are-advanced-cancer-treatments",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Advanced Cancer Treatments",
+    "intro": "Advanced cancer treatments are newer therapies that go beyond conventional surgery, chemotherapy, and radiation. These answers explain what they are, who may benefit, and how they are accessed.",
+    "groups": [
+      {
+        "title": "Understanding Advanced Cancer Treatments",
+        "items": [
+          {
+            "q": "What are advanced cancer treatments?",
+            "a": "<p>Advanced cancer treatments are newer therapies that go beyond conventional surgery, chemotherapy, and radiation. They include options such as immunotherapy, targeted therapy, CAR T-cell therapy, and precision medicine guided by biomarker testing, as well as certain clinical trial treatments. These approaches aim to attack cancer more selectively based on its genetic and molecular features. Suitability depends on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How are advanced cancer treatments different from standard treatment?",
+            "a": "<p>Advanced cancer treatments differ from standard therapy by targeting the specific molecular or genetic features of a tumor rather than affecting all rapidly dividing cells. Standard treatments like chemotherapy and radiation remain the foundation of care, while advanced options such as immunotherapy or targeted therapy may be added or considered when appropriate. The right combination depends on cancer type, stage, biomarkers, and specialist review, and final decisions should be made by the treating medical team.</p>"
+          },
+          {
+            "q": "Which types of advanced cancer treatments are available?",
+            "a": "<p>Common advanced cancer treatments include immunotherapy, targeted therapy, CAR T-cell therapy, precision or personalized medicine, hormone therapy, and treatments offered through clinical trials. Each works differently, as some help the immune system recognize cancer while others block specific genetic changes driving tumor growth. Availability varies by cancer type, biomarker profile, and country. Whether any option may be suitable for selected patients depends on the diagnosis and should be reviewed by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for advanced cancer treatments?",
+            "a": "<p>Eligibility for advanced cancer treatments depends on several factors, including cancer type, stage, biomarker or genetic test results, previous treatments, and overall health. Some therapies are approved only for specific tumors that carry particular mutations or protein markers. Patients often need detailed pathology, imaging, and molecular testing before a decision is made. These treatments may be suitable for selected patients, and eligibility should always be confirmed by the treating oncology team after full medical review.</p>"
+          },
+          {
+            "q": "What are the benefits of advanced cancer treatments?",
+            "a": "<p>The potential benefits of advanced cancer treatments include more targeted action against tumors and, in some cases, fewer effects on healthy cells compared with conventional chemotherapy. For certain cancers, these therapies may improve disease control or offer options when standard treatment has stopped working. Responses vary widely between patients and cannot be guaranteed. The likely benefit for any individual depends on cancer type, biomarkers, and overall health, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the risks or side effects of advanced cancer treatments?",
+            "a": "<p>Advanced cancer treatments can still cause side effects, which vary by therapy. Immunotherapy may trigger immune-related reactions affecting the skin, thyroid, lungs, or bowel, while targeted therapy can cause fatigue, rashes, or blood-count changes. CAR T-cell therapy carries specific risks that require close monitoring. Side effects range from mild to serious and differ between patients. Any treatment plan and its risks should be carefully reviewed with the treating medical team before starting.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much do advanced cancer treatments cost?",
+            "a": "<p>The cost of advanced cancer treatments varies widely and can be significantly higher than standard therapy, especially for immunotherapy, targeted drugs, or CAR T-cell therapy. Final cost depends on the hospital, country, cancer type, stage, required tests, treatment protocol, length of stay, and any complications. Reliable estimates are only possible after medical review. Patients should request a detailed written estimate from the treating hospital, as prices are not fixed and cannot be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with advanced cancer treatments?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

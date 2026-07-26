@@ -1,0 +1,66 @@
+{
+  "pillar": "Rare Cancer Treatments",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immunotherapy-for-rare-cancers",
+  "route": "/insights/immunotherapy-for-rare-cancers",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy for Rare Cancers",
+    "intro": "Immunotherapy helps the body's own immune system recognize and attack cancer cells, and it is being studied and used in selected rare cancers. These FAQs explain how it works, who may be eligible, and how international patients can explore access.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy for Rare Cancers",
+        "items": [
+          {
+            "q": "What is immunotherapy for rare cancers?",
+            "a": "<p>Immunotherapy for rare cancers is a treatment approach that helps the immune system identify and attack cancer cells. It includes checkpoint inhibitors, adoptive cell therapies, cancer vaccines, and cytokine treatments. Because rare cancers are less studied, immunotherapy use often depends on tumor biology, biomarker testing, and specialist review. It may be considered when standard options are limited, but suitability should always be confirmed by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does immunotherapy work against rare cancer types?",
+            "a": "<p>Immunotherapy works by removing the biological \"brakes\" that stop immune cells from attacking a tumor or by training immune cells to target cancer. In rare cancers, response may depend on markers such as PD-L1 expression, tumor mutational burden, or microsatellite instability (MSI-H). These biomarkers help predict whether treatment may help. Testing and interpretation should be done by a specialist, since rare tumors can behave differently from common cancers.</p>"
+          },
+          {
+            "q": "Which rare cancers may respond to immunotherapy?",
+            "a": "<p>Certain rare cancers, including some sarcomas, Merkel cell carcinoma, mesothelioma, rare skin cancers, and tumors with high MSI or high mutation burden, may respond to immunotherapy in selected patients. Response varies widely and is not guaranteed. Because rare cancers have limited trial data, decisions often rely on biomarker profiles and expert judgment. A treating oncology team should confirm whether a specific rare cancer may be suitable for immunotherapy.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for immunotherapy for rare cancers?",
+            "a": "<p>Eligibility for immunotherapy depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Patients with specific markers such as PD-L1 positivity, MSI-high status, or high tumor mutational burden may be considered candidates. Fitness for treatment and organ function also matter. Because rare cancers differ, eligibility should be assessed individually. Final treatment decisions should be made by the treating medical team after reviewing reports and pathology.</p>"
+          },
+          {
+            "q": "What are the benefits and risks of immunotherapy?",
+            "a": "<p>The potential benefit of immunotherapy is that it may control certain rare cancers and, in some patients, produce durable responses. However, it does not work for everyone and cannot guarantee outcomes. Risks include immune-related side effects such as inflammation of the skin, thyroid, lungs, liver, or bowel. These effects need close monitoring. Benefits and risks should be carefully weighed and discussed with a qualified oncology team before starting treatment.</p>"
+          },
+          {
+            "q": "Are there clinical trials for immunotherapy in rare cancers?",
+            "a": "<p>Yes, clinical trials are an important pathway for immunotherapy in rare cancers, since standard treatments may be limited. Trials may study new checkpoint inhibitors, cell therapies, or combination approaches. Enrollment is not guaranteed and depends on strict inclusion and exclusion criteria. Eligibility is decided after medical record review and investigator assessment. Patients considering a trial should discuss suitability, potential benefits, and risks with their treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does immunotherapy for rare cancers cost?",
+            "a": "<p>The cost of immunotherapy varies widely and cannot be fixed in advance. Final cost depends on the hospital, diagnosis, cancer stage, required tests, treatment protocol, number of cycles, complications, and length of stay. Biomarker testing and follow-up care add to the total. Because rare cancers often need specialized evaluation, estimates should be confirmed directly with the treating hospital. Cost should always be reviewed alongside treatment advice from the medical team.</p>"
+          },
+          {
+            "q": "How can international patients access immunotherapy for rare cancers?",
+            "a": "<p>International patients may access immunotherapy through specialized cancer centers, but access depends on hospital acceptance, medical review, visa approval, travel fitness, and patient condition. A confirmed diagnosis, pathology reports, imaging, and biomarker results are usually needed for evaluation. Admission and treatment acceptance are never guaranteed. Planning should include a second opinion, cost estimate, and follow-up arrangements. All decisions should be guided by the treating oncology team abroad.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy for rare cancers?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This is especially useful for rare cancers that need experienced immunotherapy teams. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not replace doctors or guarantee treatment access or outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -2,19 +2,18 @@
 
 import * as React from "react";
 import { toast } from "sonner";
-import { AlertTriangle, Check, Copy, Loader2, Pencil, X } from "lucide-react";
+import { Check, Copy, Loader2, Pencil, X } from "lucide-react";
 
 import type { Fixture, ReviewRecord, Toggles } from "@/lib/types";
-import { cleanSlug, getSection, applyEdits, faqCount, isFaqShape } from "@/lib/fixtures";
+import { getSection, applyEdits, faqCount, isFaqShape } from "@/lib/fixtures";
 import { getFixture, getReview, saveReview, approveRow, moveToDone, moveBack } from "@/app/actions";
-import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 
 interface FaqDetailDrawerProps {
-  slug: string | null;
+  /** "collection/slug" — the page identity. */
+  rowKey: string | null;
   open: boolean;
   onOpenChange: (open: boolean) => void;
   toggles: Toggles;
@@ -23,8 +22,6 @@ interface FaqDetailDrawerProps {
 
 interface EditBuffer {
   answers: Record<string, string>;
-  slug: string;
-  route: string;
 }
 
 const stripP = (html: string) => html.replace(/^\s*<p>/i, "").replace(/<\/p>\s*$/i, "").trim();
@@ -49,46 +46,40 @@ function invalidReason(fx: Fixture): string {
   return "unknown reason";
 }
 
-function VerifyChip({ label, raw }: { label: string; raw: string }) {
-  const { value, needsVerify } = cleanSlug(raw);
+/** Slug and route come from the live-site CSV, so they are shown, never edited. */
+function FieldChip({ label, value }: { label: string; value: string }) {
   return (
     <span className="inline-flex items-center gap-1.5 text-xs">
       <span className="text-muted-foreground">{label}</span>
-      {needsVerify ? (
-        <Badge variant="warning" className="tabular gap-1">
-          <AlertTriangle className="h-3 w-3" /> {value}
-        </Badge>
-      ) : (
-        <code className="tabular rounded bg-muted px-1.5 py-0.5 text-foreground">{value}</code>
-      )}
+      <code className="tabular rounded bg-muted px-1.5 py-0.5 text-foreground">{value}</code>
     </span>
   );
 }
 
-export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }: FaqDetailDrawerProps) {
+export function FaqDetailDrawer({ rowKey, open, onOpenChange, toggles, onChanged }: FaqDetailDrawerProps) {
   const [fixture, setFixture] = React.useState<Fixture | null>(null);
   const [record, setRecord] = React.useState<ReviewRecord | null>(null);
-  const [buffer, setBuffer] = React.useState<EditBuffer>({ answers: {}, slug: "", route: "" });
+  const [buffer, setBuffer] = React.useState<EditBuffer>({ answers: {} });
   const [editing, setEditing] = React.useState(false);
   const [loading, setLoading] = React.useState(false);
   const [pending, startTransition] = React.useTransition();
 
   React.useEffect(() => {
-    if (!open || !slug) return;
+    if (!open || !rowKey) return;
     let alive = true;
     setLoading(true);
     setEditing(false);
-    Promise.all([getFixture(slug), getReview(slug)]).then(([fx, rec]) => {
+    Promise.all([getFixture(rowKey), getReview(rowKey)]).then(([fx, rec]) => {
       if (!alive) return;
       setFixture(fx);
       setRecord(rec);
-      setBuffer({ answers: { ...rec.edits.answers }, slug: rec.edits.slug, route: rec.edits.route });
+      setBuffer({ answers: { ...rec.edits.answers } });
       setLoading(false);
     });
     return () => {
       alive = false;
     };
-  }, [open, slug]);
+  }, [open, rowKey]);
 
   const section = fixture ? getSection(fixture) : null;
 
@@ -105,20 +96,20 @@ export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }
   };
 
   const onSaveEdits = () =>
-    slug && mutate(() => saveReview(slug, { edits: buffer }), "Edits saved");
+    rowKey && mutate(() => saveReview(rowKey, { edits: buffer }), "Edits saved");
   const onApprove = () =>
-    slug &&
+    rowKey &&
     mutate(async () => {
-      await saveReview(slug, { edits: buffer });
-      await approveRow(slug, toggles.autoMove);
+      await saveReview(rowKey, { edits: buffer });
+      await approveRow(rowKey, toggles.autoMove);
     }, toggles.autoMove ? "Approved and moved to done" : "Approved");
   const onNeedsWork = () =>
-    slug && mutate(() => saveReview(slug, { reviewStatus: "needs-work" }), "Marked needs work");
-  const onMove = () => slug && mutate(() => moveToDone(slug), "Moved to done");
+    rowKey && mutate(() => saveReview(rowKey, { reviewStatus: "needs-work" }), "Marked needs work");
+  const onMove = () => rowKey && mutate(() => moveToDone(rowKey), "Moved to done");
   const onMoveBack = () =>
-    slug && mutate(() => moveBack(slug), "Moved back to raw (un-approved)");
+    rowKey && mutate(() => moveBack(rowKey), "Moved back to raw (un-approved)");
   const onSaveNote = (note: string) =>
-    slug && mutate(() => saveReview(slug, { note }), "Note saved");
+    rowKey && mutate(() => saveReview(rowKey, { note }), "Note saved");
 
   const onCopy = async () => {
     if (!fixture || !record) return;
@@ -145,8 +136,8 @@ export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }
           </SheetTitle>
           {fixture ? (
             <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
-              <VerifyChip label="slug" raw={buffer.slug || fixture.slug} />
-              <VerifyChip label="route" raw={buffer.route || fixture.route} />
+              <FieldChip label="slug" value={fixture.slug} />
+              <FieldChip label="route" value={fixture.route} />
               {section ? (
                 <span className="tabular text-xs text-muted-foreground">
                   {faqCount(fixture)} FAQs · {section.groups.length} groups
@@ -171,28 +162,6 @@ export function FaqDetailDrawer({ slug, open, onOpenChange, toggles, onChanged }
             <p className="text-sm text-warning">Fixture is invalid: {invalidReason(fixture)}</p>
           ) : (
             <div className="space-y-6">
-              {editing ? (
-                <div className="grid grid-cols-1 gap-3 rounded-lg border bg-muted/40 p-3">
-                  <label className="text-xs font-medium text-muted-foreground">
-                    Resolved slug
-                    <Input
-                      className="mt-1"
-                      value={buffer.slug}
-                      placeholder={cleanSlug(fixture.slug).value}
-                      onChange={(e) => setBuffer((b) => ({ ...b, slug: e.target.value }))}
-                    />
-                  </label>
-                  <label className="text-xs font-medium text-muted-foreground">
-                    Resolved route
-                    <Input
-                      className="mt-1"
-                      value={buffer.route}
-                      placeholder={cleanSlug(fixture.route).value}
-                      onChange={(e) => setBuffer((b) => ({ ...b, route: e.target.value }))}
-                    />
-                  </label>
-                </div>
-              ) : null}
 
               {section.groups.map((g, gi) => (
                 <div key={gi} className="space-y-3">

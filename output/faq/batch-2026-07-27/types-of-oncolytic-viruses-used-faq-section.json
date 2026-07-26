@@ -1,0 +1,62 @@
+{
+  "pillar": "Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "types-of-oncolytic-viruses-used",
+  "route": "/insights/types-of-oncolytic-viruses-used",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Types of Oncolytic Viruses Used",
+    "intro": "Oncolytic virus therapy uses modified viruses to infect and destroy cancer cells while sparing most healthy tissue. These FAQs explain the main virus types studied and used, how they differ, and what patients should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Oncolytic Virus Types",
+        "items": [
+          {
+            "q": "What are the main types of oncolytic viruses used in cancer treatment?",
+            "a": "<p>The main oncolytic viruses studied in cancer treatment include herpes simplex virus (HSV), adenovirus, reovirus, vaccinia virus, measles virus, coxsackievirus, and Newcastle disease virus. Each type differs in how it enters cells, how it is modified for safety, and which cancers it may target. Most remain investigational, and suitability depends on cancer type, stage, prior treatment, overall health, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Which oncolytic virus is approved and most widely used?",
+            "a": "<p>Talimogene laherparepvec (T-VEC), a modified herpes simplex virus type 1, is the most established approved oncolytic virus and is used for certain advanced melanoma lesions. It is injected directly into tumors that can be reached. Approvals, availability, and eligibility vary by country and individual case. Whether T-VEC or any oncolytic virus is appropriate should always be assessed by the treating medical team based on the patient's specific diagnosis.</p>"
+          },
+          {
+            "q": "How is herpes simplex virus used as an oncolytic virus?",
+            "a": "<p>Herpes simplex virus is genetically modified so it can replicate inside cancer cells while its ability to harm normal cells is weakened. In therapies like T-VEC, the modified virus multiplies within the tumor, causing cancer cells to break apart and helping stimulate an immune response. It is usually delivered by direct injection into accessible tumors. Its use is decided case by case after specialist evaluation of the cancer type and stage.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How Different Virus Types Work",
+        "items": [
+          {
+            "q": "What is the difference between DNA and RNA oncolytic viruses?",
+            "a": "<p>DNA oncolytic viruses, such as herpesvirus, adenovirus, and vaccinia virus, carry DNA and are often easier to genetically modify to improve tumor targeting. RNA oncolytic viruses, such as reovirus, measles virus, and coxsackievirus, carry RNA and may naturally prefer certain cancer cells. Both aim to destroy tumor cells and trigger immune activity. The choice of virus type in research or treatment depends on tumor biology and clinical assessment.</p>"
+          },
+          {
+            "q": "How do oncolytic adenoviruses and reoviruses target cancer?",
+            "a": "<p>Oncolytic adenoviruses are engineered to replicate mainly in cancer cells with specific genetic changes, allowing them to burst tumor cells while limiting harm to healthy tissue. Reoviruses tend to naturally target cancer cells with active certain signaling pathways, often without extensive modification. Both are being studied across several cancer types. Their use remains largely investigational, and eligibility is determined by the treating oncology team and, where relevant, trial investigators.</p>"
+          },
+          {
+            "q": "Are oncolytic viruses combined with other cancer treatments?",
+            "a": "<p>Oncolytic viruses are frequently studied in combination with immunotherapy, chemotherapy, radiotherapy, or surgery to improve results. Combining a virus with immune checkpoint inhibitors, for example, may help the immune system recognize and attack tumor cells more effectively. Combination approaches are still being evaluated in clinical trials for many cancers. Whether a combination is suitable should be discussed with a qualified oncology team based on the individual's full clinical picture.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Access, and Support",
+        "items": [
+          {
+            "q": "Are all types of oncolytic viruses suitable for every cancer patient?",
+            "a": "<p>No, oncolytic virus therapies are not suitable for all cancer patients or all cancer types. Suitability depends on cancer type, stage, tumor location and accessibility, biomarker profile, previous treatment, and overall health. Many oncolytic viruses are still investigational and available only through clinical trials with strict inclusion and exclusion criteria. Final decisions on eligibility and safety should always be made by the treating medical team after detailed review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with types of oncolytic viruses used?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions involving oncolytic virus therapy are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Availability of specific virus therapies or clinical trials depends on hospital acceptance and medical eligibility review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "pillar": "Targeted Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "future-of-targeted-therapy",
+  "route": "/insights/future-of-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About the Future of Targeted Therapy",
+    "intro": "Targeted therapy is evolving rapidly through precision medicine, new drug designs, and biomarker-guided treatment. These FAQs explain where targeted cancer therapy is heading and what it may mean for patients and caregivers.",
+    "groups": [
+      {
+        "title": "Understanding the Future of Targeted Therapy",
+        "items": [
+          {
+            "q": "What is the future of targeted therapy in cancer treatment?",
+            "a": "<p>The future of targeted therapy is moving toward more precise, biomarker-driven treatments that attack specific molecular features of a tumor while sparing healthy cells. Advances include next-generation inhibitors, antibody-drug conjugates, and therapies guided by comprehensive genomic testing. These approaches may be considered for selected patients based on cancer type, stage, and biomarker profile. Final treatment decisions should be made by a qualified oncology team after reviewing each patient's diagnosis and overall health.</p>"
+          },
+          {
+            "q": "How is precision medicine shaping targeted therapy?",
+            "a": "<p>Precision medicine is shaping targeted therapy by matching treatments to the specific genetic and molecular changes found in a patient's tumor. Instead of a one-size-fits-all approach, doctors use biomarker testing and genomic sequencing to select therapies most likely to help. This may improve response for selected patients, though suitability depends on cancer type, mutation status, previous treatment, and specialist review. Testing availability and results should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "Will targeted therapy replace chemotherapy in the future?",
+            "a": "<p>Targeted therapy is unlikely to fully replace chemotherapy in the near future, though it is expanding the options available. For some cancers with specific biomarkers, targeted drugs may be used alone or combined with chemotherapy, immunotherapy, or radiation. The right combination depends on cancer type, stage, biomarker profile, and overall health. Whether chemotherapy remains part of treatment should be discussed with a qualified oncology team based on individual circumstances.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Emerging Approaches and Resistance",
+        "items": [
+          {
+            "q": "What new types of targeted therapy are being developed?",
+            "a": "<p>New targeted therapies in development include next-generation kinase inhibitors, antibody-drug conjugates, bispecific antibodies, and drugs aimed at previously hard-to-treat targets such as certain KRAS mutations. Researchers are also studying therapies that address treatment resistance and rare molecular alterations. These options may be available mainly through approved use or clinical trials, and suitability depends on biomarker testing, cancer type, and specialist review by the treating oncology team.</p>"
+          },
+          {
+            "q": "How are antibody-drug conjugates changing targeted treatment?",
+            "a": "<p>Antibody-drug conjugates (ADCs) are changing targeted treatment by combining a tumor-seeking antibody with a potent anti-cancer drug, delivering treatment more directly to cancer cells. This design may reduce damage to healthy tissue for selected patients. ADCs are being studied and approved across several cancer types, including breast, bladder, and lung cancers. Eligibility depends on biomarker status, cancer type, previous treatment, and review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can targeted therapy overcome drug resistance in the future?",
+            "a": "<p>Overcoming drug resistance is a major goal of future targeted therapy, though resistance remains a significant challenge. Researchers are developing next-generation inhibitors, combination regimens, and drugs that target the pathways tumors use to escape treatment. Repeat biomarker testing may help identify new mutations and guide next steps. Whether a newer therapy is suitable depends on cancer type, resistance mechanism, and assessment by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Practical Questions for Patients",
+        "items": [
+          {
+            "q": "Is future targeted therapy suitable for all cancer patients?",
+            "a": "<p>Future targeted therapy is not suitable for all cancer patients, because these treatments work only when a tumor carries the specific target they are designed to attack. Patients without a matching biomarker may not benefit and could need other treatments. Suitability depends on cancer type, stage, genomic testing results, previous therapy, and overall health. Eligibility should always be confirmed by a qualified oncology team after reviewing test results.</p>"
+          },
+          {
+            "q": "How can international patients access new targeted therapies?",
+            "a": "<p>International patients can access newer targeted therapies through approved treatments at specialized cancer centers or, in some cases, clinical trials. Access depends on hospital acceptance, medical record review, biomarker eligibility, visa approval, and travel fitness, and cannot be guaranteed. Costs vary by country, hospital, diagnosis, and treatment protocol. Patients are encouraged to gather recent reports, pathology, and genomic testing results and seek a specialist second opinion before planning treatment abroad.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with targeted therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

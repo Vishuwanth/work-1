@@ -4,9 +4,10 @@ import { readFileSync, writeFileSync, readdirSync, unlinkSync, mkdirSync } from 
 import { resolve, join, dirname } from "node:path";
 import { revalidatePath } from "next/cache";
 
-import type { Fixture, ReviewRecord, RowView, OverviewStats, Toggles } from "@/lib/types";
-import { readRows } from "@/lib/excel";
-import { applyEdits } from "@/lib/fixtures";
+import type { Fixture, ReviewRecord, RowView, OverviewStats, Toggles, Row } from "@/lib/types";
+import { readPages, pageKey } from "@/lib/pages";
+import { readExcelIndex, joinExcel } from "@/lib/excel";
+import { applyEdits, normalizeFixture } from "@/lib/fixtures";
 import { readTracker, writeTracker, recordFor } from "@/lib/tracker";
 import { deriveRowViews, overviewStats, throughputByDay } from "@/lib/state";
 import { runGenerate, type GenerateResult } from "@/lib/generate";
@@ -19,47 +20,61 @@ const DEFAULT_TOGGLES: Toggles = { autoGenerate: false, autoMove: true, autoAppr
 const FAQ_SUFFIX = "-faq-section.json";
 
 /**
- * The row slug for a fixture file. Files are named `<slugify(title)>-faq-section.json`,
- * and the filename is stable across the raw→done move — so it (not the editable in-file
- * slug) is the stable key that matches `row.slug === slugify(title)`.
+ * The slug for a fixture file. Files are named `<slug>-faq-section.json` and the
+ * filename is stable across the raw→done move, so it is the reliable slug source.
  */
 function slugFromFilename(file: string): string {
   if (file.endsWith(FAQ_SUFFIX)) return file.slice(0, -FAQ_SUFFIX.length);
   return file.replace(/\.json$/, "");
 }
 
+/** The collection a fixture belongs to, read from its own `/{collection}/{slug}` route. */
+function collectionFromRoute(route: unknown): string {
+  return String(route ?? "").split("/")[1] ?? "";
+}
+
 interface FixtureEntry {
   fixture: Fixture;
-  slug: string;
+  /** "collection/slug" — the app-wide page identity. */
+  key: string;
   file: string;
 }
 
 interface FixtureListing {
   entries: FixtureEntry[];
-  /** Filename-derived slug → parse error message, for fixtures that failed to parse. */
-  invalid: Map<string, string>;
+  /** Filename-derived slug → parse error, for fixtures that failed to parse. */
+  invalidSlugs: Set<string>;
 }
 
-/** Read + parse every fixture in a directory, keyed by its FILENAME-derived slug. */
+/**
+ * Read + parse every fixture in a directory. A fixture is self-describing: its slug
+ * comes from the filename and its collection from its own route, so an entry can be
+ * keyed without consulting the page list.
+ */
 function listFixtures(dir: string): FixtureListing {
   let names: string[];
   try {
     names = readdirSync(dir).filter((n) => n.endsWith(".json"));
   } catch {
-    return { entries: [], invalid: new Map() };
+    return { entries: [], invalidSlugs: new Set() };
   }
   const entries: FixtureEntry[] = [];
-  const invalid = new Map<string, string>();
+  const invalidSlugs = new Set<string>();
   for (const file of names) {
     const slug = slugFromFilename(file);
     try {
-      const fixture = JSON.parse(readFileSync(join(dir, file), "utf8")) as Fixture;
-      entries.push({ fixture, slug, file });
-    } catch (e) {
-      invalid.set(slug, (e as Error).message);
+      const raw = JSON.parse(readFileSync(join(dir, file), "utf8")) as unknown;
+      const fixture = normalizeFixture(raw);
+      if (!fixture) {
+        invalidSlugs.add(slug);
+        continue;
+      }
+      entries.push({ fixture, key: `${collectionFromRoute(fixture.route)}/${slug}`, file });
+    } catch {
+      invalidSlugs.add(slug);
     }
   }
-  return { entries, invalid };
+  return { entries, invalidSlugs };
 }
 
 function readToggles(): Toggles {
@@ -70,6 +85,19 @@ function readToggles(): Toggles {
   }
 }
 
+/** The live page list, enriched with whatever workbook metadata joins unambiguously. */
+function readRowsFromSources(): Row[] {
+  const { pages } = readPages();
+  let index;
+  try {
+    index = readExcelIndex();
+  } catch {
+    // The workbook is optional metadata now — a missing one must not break the app.
+    index = { byTitle: new Map(), ambiguousTitles: [] };
+  }
+  return joinExcel(pages, index);
+}
+
 /** Load rows + fixtures + tracker into the derived views/stats/toggles the UI renders. */
 export async function loadAll(): Promise<{
   views: RowView[];
@@ -77,50 +105,58 @@ export async function loadAll(): Promise<{
   toggles: Toggles;
   error?: string;
 }> {
-  let rows;
+  let rows: Row[];
   try {
-    rows = readRows();
+    rows = readRowsFromSources();
   } catch (e) {
-    // Missing/unreadable workbook: surface a message instead of a 500.
+    // Missing/unreadable page CSV: surface a message instead of a 500.
     return {
       views: [],
       stats: overviewStats([]),
       toggles: readToggles(),
-      error: `Could not read the content workbook at docs/source/CancerFax_Content_Architecture_1.xlsx — ${(e as Error).message}`,
+      error: `Could not read the live-page CSV at docs/source/cancerfax-faq-generator/all-pages-faq-status.csv — ${(e as Error).message}`,
     };
   }
+
   const rawListing = listFixtures(RAW_DIR);
   const doneListing = listFixtures(DONE_DIR);
-  const rawBySlug = new Map(rawListing.entries.map((e) => [e.slug, e.fixture]));
-  const doneBySlug = new Map(doneListing.entries.map((e) => [e.slug, e.fixture]));
-  const invalidSlugs = new Set<string>([
-    ...Array.from(rawListing.invalid.keys()),
-    ...Array.from(doneListing.invalid.keys()),
+  const rawByKey = new Map(rawListing.entries.map((e) => [e.key, e.fixture]));
+  const doneByKey = new Map(doneListing.entries.map((e) => [e.key, e.fixture]));
+
+  // An unparseable fixture has no readable route, so map its filename slug back to
+  // a key through the page list.
+  const badSlugs = new Set([
+    ...Array.from(rawListing.invalidSlugs),
+    ...Array.from(doneListing.invalidSlugs),
   ]);
+  const invalidKeys = new Set(
+    rows.filter((r) => badSlugs.has(r.slug)).map((r) => pageKey(r)),
+  );
+
   const tracker = readTracker();
-  const views = deriveRowViews(rows, rawBySlug, doneBySlug, tracker, invalidSlugs);
+  const views = deriveRowViews(rows, rawByKey, doneByKey, tracker, invalidKeys);
   const stats = { ...overviewStats(views), throughput: throughputByDay(tracker) };
   return { views, stats, toggles: readToggles() };
 }
 
-/** The parsed fixture for a slug: raw takes precedence over done. */
-export async function getFixture(slug: string): Promise<Fixture | null> {
-  const raw = listFixtures(RAW_DIR).entries.find((e) => e.slug === slug);
+/** The parsed fixture for a "collection/slug" key: raw takes precedence over done. */
+export async function getFixture(key: string): Promise<Fixture | null> {
+  const raw = listFixtures(RAW_DIR).entries.find((e) => e.key === key);
   if (raw) return raw.fixture;
-  const done = listFixtures(DONE_DIR).entries.find((e) => e.slug === slug);
+  const done = listFixtures(DONE_DIR).entries.find((e) => e.key === key);
   return done?.fixture ?? null;
 }
 
-/** The persisted review record for a slug (or a fresh pending default). */
-export async function getReview(slug: string): Promise<ReviewRecord> {
-  return recordFor(readTracker(), slug);
+/** The persisted review record for a key (or a fresh pending default). */
+export async function getReview(key: string): Promise<ReviewRecord> {
+  return recordFor(readTracker(), key);
 }
 
-/** Merge a patch into the slug's tracker record (edits shallow-merged) and persist. */
-export async function saveReview(slug: string, patch: Partial<ReviewRecord>): Promise<void> {
+/** Merge a patch into the key's tracker record (edits shallow-merged) and persist. */
+export async function saveReview(key: string, patch: Partial<ReviewRecord>): Promise<void> {
   const tracker = readTracker();
-  const rec = recordFor(tracker, slug);
-  tracker[slug] = {
+  const rec = recordFor(tracker, key);
+  tracker[key] = {
     ...rec,
     ...patch,
     edits: patch.edits ? { ...rec.edits, ...patch.edits } : rec.edits,
@@ -129,61 +165,64 @@ export async function saveReview(slug: string, patch: Partial<ReviewRecord>): Pr
   revalidatePath("/");
 }
 
-/** Atomically move a fixture between dirs, writing the edited version under the same filename. */
-async function move(slug: string, fromDir: string, toDir: string): Promise<void> {
-  const entry = listFixtures(fromDir).entries.find((e) => e.slug === slug);
-  if (!entry) throw new Error(`fixture not found in ${fromDir}: ${slug}`);
+/** Move a fixture between dirs, writing the edited version under the same filename. */
+async function move(key: string, fromDir: string, toDir: string): Promise<void> {
+  const entry = listFixtures(fromDir).entries.find((e) => e.key === key);
+  if (!entry) throw new Error(`fixture not found in ${fromDir}: ${key}`);
   const tracker = readTracker();
-  const rec = recordFor(tracker, slug);
+  const rec = recordFor(tracker, key);
   mkdirSync(toDir, { recursive: true });
-  writeFileSync(join(toDir, entry.file), JSON.stringify(applyEdits(entry.fixture, rec), null, 2) + "\n");
+  writeFileSync(
+    join(toDir, entry.file),
+    JSON.stringify(applyEdits(entry.fixture, rec), null, 2) + "\n",
+  );
   unlinkSync(join(fromDir, entry.file));
-  tracker[slug] = { ...rec, movedAt: new Date().toISOString() };
+  tracker[key] = { ...rec, movedAt: new Date().toISOString() };
   writeTracker(tracker);
   revalidatePath("/");
 }
 
-export async function moveToDone(slug: string): Promise<void> {
-  await move(slug, RAW_DIR, DONE_DIR);
+export async function moveToDone(key: string): Promise<void> {
+  await move(key, RAW_DIR, DONE_DIR);
 }
 
-export async function moveBack(slug: string): Promise<void> {
-  await move(slug, DONE_DIR, RAW_DIR);
+export async function moveBack(key: string): Promise<void> {
+  await move(key, DONE_DIR, RAW_DIR);
 }
 
-/** Approve a slug; when autoMove is on, also move raw -> done. */
-export async function approveRow(slug: string, autoMove: boolean): Promise<void> {
+/** Approve a key; when autoMove is on, also move raw -> done. */
+export async function approveRow(key: string, autoMove: boolean): Promise<void> {
   const tracker = readTracker();
-  const rec = recordFor(tracker, slug);
-  tracker[slug] = { ...rec, reviewStatus: "approved", reviewedAt: new Date().toISOString() };
+  const rec = recordFor(tracker, key);
+  tracker[key] = { ...rec, reviewStatus: "approved", reviewedAt: new Date().toISOString() };
   writeTracker(tracker);
-  if (autoMove) await moveToDone(slug);
+  if (autoMove) await moveToDone(key);
   else revalidatePath("/");
 }
 
 /**
- * Bulk-approve a set of slugs (one tracker write), then move each raw->done when
+ * Bulk-approve a set of keys (one tracker write), then move each raw->done when
  * autoMove is on. Rows not currently in raw (already moved) skip the move quietly.
  * Returns the number approved.
  */
-export async function approveRows(slugs: string[], autoMove: boolean): Promise<number> {
+export async function approveRows(keys: string[], autoMove: boolean): Promise<number> {
   const now = new Date().toISOString();
   const tracker = readTracker();
-  for (const slug of slugs) {
-    tracker[slug] = { ...recordFor(tracker, slug), reviewStatus: "approved", reviewedAt: now };
+  for (const key of keys) {
+    tracker[key] = { ...recordFor(tracker, key), reviewStatus: "approved", reviewedAt: now };
   }
   writeTracker(tracker);
   if (autoMove) {
-    for (const slug of slugs) {
+    for (const key of keys) {
       try {
-        await moveToDone(slug);
+        await moveToDone(key);
       } catch {
         // Not in raw (already in done) — approval already recorded above.
       }
     }
   }
   revalidatePath("/");
-  return slugs.length;
+  return keys.length;
 }
 
 /**
@@ -193,22 +232,22 @@ export async function approveRows(slugs: string[], autoMove: boolean): Promise<n
 export async function approveAllGenerated(autoMove: boolean): Promise<number> {
   const tracker = readTracker();
   const generated = [
-    ...listFixtures(RAW_DIR).entries.map((e) => e.slug),
-    ...listFixtures(DONE_DIR).entries.map((e) => e.slug),
+    ...listFixtures(RAW_DIR).entries.map((e) => e.key),
+    ...listFixtures(DONE_DIR).entries.map((e) => e.key),
   ];
-  const toApprove = generated.filter((s) => (tracker[s]?.reviewStatus ?? "pending") !== "approved");
+  const toApprove = generated.filter((k) => (tracker[k]?.reviewStatus ?? "pending") !== "approved");
   return approveRows(toApprove, autoMove);
 }
 
 /** Generate a fixture for a row via `claude -p`; stamp generatedAt on success. */
-export async function generateRow(slug: string): Promise<GenerateResult> {
-  const row = readRows().find((r) => r.slug === slug);
-  if (!row) return { ok: false, error: `row not found: ${slug}` };
+export async function generateRow(key: string): Promise<GenerateResult> {
+  const row = readRowsFromSources().find((r) => pageKey(r) === key);
+  if (!row) return { ok: false, error: `unknown page: ${key}` };
   const result = await runGenerate(row);
   if (result.ok) {
     const tracker = readTracker();
-    const rec = recordFor(tracker, slug);
-    tracker[slug] = { ...rec, generatedAt: new Date().toISOString() };
+    const rec = recordFor(tracker, key);
+    tracker[key] = { ...rec, generatedAt: new Date().toISOString() };
     writeTracker(tracker);
     revalidatePath("/");
   }

@@ -1,0 +1,70 @@
+{
+  "pillar": "TIL Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "fda-approval-of-til-therapy",
+  "route": "/insights/fda-approval-of-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About FDA Approval of TIL Therapy",
+    "intro": "These questions explain what the FDA approval of TIL (tumor-infiltrating lymphocyte) therapy means for cancer patients, including which cancer it treats, how the treatment works, and what patients and caregivers should know about eligibility, safety, and access.",
+    "groups": [
+      {
+        "title": "Understanding FDA-Approved TIL Therapy",
+        "items": [
+          {
+            "q": "What is TIL therapy and has it received FDA approval?",
+            "a": "<p>TIL therapy, or tumor-infiltrating lymphocyte therapy, is a form of cellular immunotherapy that uses a patient's own immune cells to fight cancer. In February 2024, the U.S. FDA granted accelerated approval to lifileucel (Amtagvi), the first TIL therapy approved for a solid tumor. It is currently approved for certain adults with advanced melanoma, and whether it is suitable depends on prior treatment, cancer type, overall health, and specialist review.</p>"
+          },
+          {
+            "q": "Which TIL therapy did the FDA approve and when?",
+            "a": "<p>The FDA approved lifileucel, sold under the brand name Amtagvi, in February 2024 through its accelerated approval pathway. It became the first tumor-infiltrating lymphocyte therapy and the first individualized, one-time cell therapy authorized for a solid tumor in the United States. Approval was based on clinical trial data in advanced melanoma. Continued approval may depend on confirmatory trials, and treatment decisions should always be made by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What cancer is FDA-approved TIL therapy used for?",
+            "a": "<p>FDA-approved TIL therapy (lifileucel/Amtagvi) is currently indicated for adults with unresectable or metastatic melanoma that has already been treated with a PD-1 blocking antibody, and a BRAF inhibitor when the tumor is BRAF-positive. It is not yet approved for other cancer types, although TIL therapy is being studied in several solid tumors through clinical trials. Suitability depends on cancer stage, biomarkers, prior treatment, and specialist assessment.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by collecting immune cells called tumor-infiltrating lymphocytes from a patient's own tumor tissue, growing them into large numbers in a specialized laboratory, and infusing them back into the body. Before the infusion, patients usually receive lymphodepleting chemotherapy, followed by the TIL infusion and interleukin-2 to help the cells expand. This process aims to strengthen the immune system's ability to recognize and attack cancer cells.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who may be eligible for FDA-approved TIL therapy?",
+            "a": "<p>FDA-approved TIL therapy may be considered for selected adults with advanced melanoma that has progressed after prior immunotherapy and, when relevant, targeted therapy. Patients generally need adequate organ function and enough fitness to tolerate lymphodepleting chemotherapy and interleukin-2. Eligibility depends on cancer type, stage, previous treatment, and overall health. Final decisions about whether TIL therapy is suitable should be made by the treating oncology team after specialist review.</p>"
+          },
+          {
+            "q": "What does the TIL therapy treatment process involve?",
+            "a": "<p>The TIL therapy process usually involves several stages over a few weeks. First, a piece of the tumor is surgically removed so the immune cells can be extracted and multiplied in a laboratory. Patients then receive lymphodepleting chemotherapy to prepare the body, followed by a single infusion of the expanded TIL cells and a short course of interleukin-2. Most patients need close hospital monitoring throughout, and recovery time varies between individuals.</p>"
+          },
+          {
+            "q": "What are the possible side effects of TIL therapy?",
+            "a": "<p>Side effects of TIL therapy are often related to the lymphodepleting chemotherapy and interleukin-2 given alongside the cells rather than the TIL cells themselves. These may include low blood counts, increased infection risk, fever, chills, fatigue, low blood pressure, and fluid retention. Some side effects can be serious and require intensive hospital care. The risk profile depends on the patient's health, and all risks should be discussed with the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does FDA-approved TIL therapy cost?",
+            "a": "<p>The cost of FDA-approved TIL therapy varies widely and is generally high, because it involves surgery, individualized cell manufacturing, chemotherapy, hospital admission, and intensive monitoring. Published figures suggest the therapy itself carries a substantial list price, but the final cost depends on the hospital, diagnosis, complications, length of stay, insurance, and treatment protocol. Patients should request a detailed written estimate from the treating center rather than relying on a fixed figure.</p>"
+          },
+          {
+            "q": "How can international patients access FDA-approved TIL therapy?",
+            "a": "<p>International patients may access FDA-approved TIL therapy at authorized treatment centers, mainly in the United States, or explore TIL clinical trials in other countries. Access depends on hospital acceptance, medical record review, treatment suitability, visa approval, travel fitness, and the patient's overall condition. Because the process requires surgery, cell manufacturing, and an extended hospital stay, careful planning is essential. Eligibility and admission are never guaranteed and are decided after specialist assessment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with FDA-approved TIL therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers offering TIL therapy, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax provides guidance and coordination but does not replace the assessment and care of the treating hospital and medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

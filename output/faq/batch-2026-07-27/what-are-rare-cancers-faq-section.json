@@ -1,0 +1,66 @@
+{
+  "pillar": "Rare Cancer Treatments",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-are-rare-cancers",
+  "route": "/insights/what-are-rare-cancers",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Rare Cancers",
+    "intro": "Rare cancers are cancers that occur in a small number of people, which can make diagnosis and treatment more challenging. These answers explain what rare cancers are, how they are diagnosed, and the options patients may consider.",
+    "groups": [
+      {
+        "title": "Understanding Rare Cancers",
+        "items": [
+          {
+            "q": "What are rare cancers?",
+            "a": "<p>Rare cancers are cancers that affect a small number of people, generally defined as fewer than 6 cases per 100,000 people each year. They include many sarcomas, certain childhood cancers, neuroendocrine tumors, and unusual cancers of the eye, salivary glands, or thymus. Because they are uncommon, they are often less studied than common cancers. Diagnosis and treatment usually depend on cancer type, location, stage, and specialist review by an experienced oncology team.</p>"
+          },
+          {
+            "q": "What makes a cancer 'rare' compared to a common cancer?",
+            "a": "<p>A cancer is considered rare mainly because of how few people it affects each year, not because it is less serious. Rare cancers may arise in unusual body sites, affect specific age groups, or involve uncommon cell types. They often have fewer approved treatments and limited research data. As a result, rare cancers may be harder to diagnose and typically benefit from evaluation at specialized centers with experience in that particular cancer type.</p>"
+          },
+          {
+            "q": "Are rare cancers more dangerous than common cancers?",
+            "a": "<p>Rare cancers are not always more dangerous, but they can be harder to diagnose and treat. Because they are uncommon, symptoms may be missed or mistaken for other conditions, sometimes leading to later diagnosis. Treatment options may also be more limited. However, outcomes vary widely depending on cancer type, stage, biomarker profile, and overall health. Prognosis should always be discussed individually with a qualified oncology team familiar with the specific diagnosis.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Diagnosis and Symptoms",
+        "items": [
+          {
+            "q": "What are common symptoms of rare cancers?",
+            "a": "<p>Symptoms of rare cancers vary widely and depend on where the cancer develops in the body. They may include an unusual lump, unexplained pain, persistent fatigue, weight loss, or changes in an organ's function. Because these signs can resemble more common conditions, they are sometimes overlooked. Anyone with persistent or unexplained symptoms should seek medical evaluation, as early assessment and specialist review can help guide accurate diagnosis and appropriate care.</p>"
+          },
+          {
+            "q": "Why are rare cancers often harder to diagnose?",
+            "a": "<p>Rare cancers are often harder to diagnose because doctors may see very few cases during their careers. Their symptoms can mimic common illnesses, and standard tests may not immediately identify them. Accurate diagnosis frequently requires specialized imaging, biopsy, and expert pathology review, sometimes including molecular or biomarker testing. Seeking evaluation at a center experienced with rare cancers, or obtaining a second opinion, may help confirm the diagnosis and inform treatment planning.</p>"
+          },
+          {
+            "q": "What tests are used to diagnose a rare cancer?",
+            "a": "<p>Diagnosing a rare cancer usually involves a combination of imaging, biopsy, and laboratory tests. Doctors may use CT, MRI, PET scans, or ultrasound to locate a tumor, followed by a biopsy for detailed pathology examination. Molecular and biomarker testing can help identify specific features of the cancer. Because rare cancers are uncommon, expert pathology review is important, and results should always be interpreted by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Treatment and Support",
+        "items": [
+          {
+            "q": "How are rare cancers treated?",
+            "a": "<p>Rare cancers are treated using approaches such as surgery, chemotherapy, radiation therapy, targeted therapy, or immunotherapy, depending on the cancer type. Treatment plans are highly individualized and may combine several methods. Because standard protocols may be limited, care is often guided by specialist expertise and, in some cases, clinical trials. Final treatment decisions depend on cancer type, stage, biomarker profile, previous treatment, and overall health, and should be made by the treating oncology team.</p>"
+          },
+          {
+            "q": "Are clinical trials available for rare cancers?",
+            "a": "<p>Clinical trials may be available for some rare cancers and can offer access to newer or investigational treatments. Because rare cancers have fewer standard options, trials sometimes play an important role in care. However, enrollment is not guaranteed and depends on strict inclusion and exclusion criteria, decided after medical record review and investigator assessment. Patients interested in trials should discuss eligibility, potential benefits, and risks with their oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with rare cancers?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can be especially useful for rare cancers, where expert evaluation may not be locally available. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

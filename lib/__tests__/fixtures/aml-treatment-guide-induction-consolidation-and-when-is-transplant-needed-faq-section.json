@@ -1,14 +1,13 @@
 {
   "pillar": "AML treatment guide: induction, consolidation, and when is transplant needed?",
-  "contentType": "⚠ VERIFY",
-  "runner": "⚠ VERIFY: unknown (Content Type not set in sheet)",
-  "slug": "⚠ VERIFY: aml-treatment-guide-induction-consolidation-and-when-is-transplant-needed",
-  "route": "⚠ VERIFY: /<section>/aml-treatment-guide-induction-consolidation-and-when-is-transplant-needed",
-  "section": {
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "aml-treatment-guide-induction-consolidation-and-when-is-transplant-needed",
+  "route": "/insights/aml-treatment-guide-induction-consolidation-and-when-is-transplant-needed",
+  "sectionToMerge": {
     "type": "faq",
     "id": "faq",
     "h2": "Frequently Asked Questions About AML Treatment: Induction, Consolidation, and Transplant",
-    "intro": "Common questions from patients and families researching acute myeloid leukemia (AML) treatment, including induction and consolidation chemotherapy and when a stem cell transplant may be needed.",
     "groups": [
       {
         "title": "Understanding AML and Its Treatment Phases",
@@ -108,7 +107,5 @@
         ]
       }
     ]
-  },
-  "schemaRecommendation": "Use FAQPage schema for this section, combined with MedicalWebPage and BreadcrumbList schema for the parent page.",
-  "medicalDisclaimer": "This information is for educational purposes only and should not be considered medical advice. Cancer diagnosis and treatment decisions should always be made by a qualified oncology team after reviewing the patient's medical history, reports, imaging, pathology, biomarkers, previous treatments, and overall health condition."
+  }
 }

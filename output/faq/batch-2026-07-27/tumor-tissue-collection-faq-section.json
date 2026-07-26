@@ -1,0 +1,66 @@
+{
+  "pillar": "TIL Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tumor-tissue-collection",
+  "route": "/insights/tumor-tissue-collection",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Tumor Tissue Collection",
+    "intro": "Tumor tissue collection is a key first step in TIL (tumor-infiltrating lymphocyte) therapy, providing the living tumor sample from which a patient's own immune cells are grown. These answers explain how the tissue is obtained, what it is used for, and what patients and caregivers should know.",
+    "groups": [
+      {
+        "title": "Understanding Tumor Tissue Collection",
+        "items": [
+          {
+            "q": "What is tumor tissue collection for TIL therapy?",
+            "a": "<p>Tumor tissue collection is the surgical removal of a piece of a patient's tumor so that immune cells inside it can be isolated and grown for TIL therapy. The sample contains tumor-infiltrating lymphocytes (TILs), which are expanded in a laboratory into billions of cells before being returned to the patient. The tissue must be living and handled carefully, and the procedure is planned by the treating oncology and surgical team.</p>"
+          },
+          {
+            "q": "Why does TIL therapy require a fresh tumor sample?",
+            "a": "<p>TIL therapy requires a fresh, living tumor sample because the therapy relies on extracting viable immune cells that can still multiply. Unlike a routine biopsy stored for diagnosis, the collected tissue must reach the manufacturing laboratory quickly and under controlled conditions to keep the tumor-infiltrating lymphocytes alive. The amount and quality of viable tumor tissue can influence whether cells grow successfully, so collection is carefully coordinated with the treating team.</p>"
+          },
+          {
+            "q": "How is tumor tissue collected?",
+            "a": "<p>Tumor tissue is usually collected through a minor surgical procedure or a larger surgical resection, depending on where the tumor is located. Surgeons may remove an accessible lesion, part of a tumor, or an involved lymph node under local or general anaesthesia. The exact method depends on cancer type, tumor site, size, and overall health. The surgical and oncology team decide the safest approach after reviewing imaging and the patient's condition.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Practical Considerations",
+        "items": [
+          {
+            "q": "Who is eligible for tumor tissue collection?",
+            "a": "<p>Eligibility for tumor tissue collection depends on having an accessible tumor of sufficient size and on the patient being fit enough for the procedure. It may be considered for selected patients pursuing TIL therapy, based on cancer type, tumor location, previous treatment, and overall health. A surgeon must confirm that a lesion can be safely reached and removed. Final decisions are made by the treating medical and surgical team after specialist review.</p>"
+          },
+          {
+            "q": "Is tumor tissue collection safe?",
+            "a": "<p>Tumor tissue collection is generally a well-established surgical procedure, but like any surgery it carries some risks. Possible risks may include bleeding, infection, pain, or complications related to anaesthesia, and these vary with tumor location and the extent of surgery. The surgical team takes steps to minimise risk and monitors recovery. Patients should discuss potential benefits and complications with their treating team before agreeing to the procedure.</p>"
+          },
+          {
+            "q": "How much tumor tissue is needed for TIL therapy?",
+            "a": "<p>TIL therapy usually requires a tumor sample large enough to contain sufficient living immune cells, often a lesion around one to a few centimetres, though requirements vary by program. Larger or more cellular samples can improve the chance of successfully growing tumor-infiltrating lymphocytes, but success is not guaranteed. The manufacturing laboratory and treating team specify the minimum tissue needed, and the surgeon collects the amount considered safe for the patient.</p>"
+          },
+          {
+            "q": "How long does recovery take after tumor tissue collection?",
+            "a": "<p>Recovery after tumor tissue collection depends on the type of surgery and the tumor's location. A minor procedure on an accessible lesion may allow recovery within days, while a larger resection can require longer healing and monitoring. The treating team schedules collection so that recovery aligns with the overall TIL therapy timeline. Patients should follow wound-care and activity guidance from their surgeon and report any unusual symptoms promptly.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access and Support for International Patients",
+        "items": [
+          {
+            "q": "How can international patients arrange tumor tissue collection?",
+            "a": "<p>International patients can arrange tumor tissue collection at a hospital that offers TIL therapy, but access depends on hospital acceptance, medical review, travel fitness, and visa approval. Because the tissue must reach the manufacturing laboratory quickly, collection is usually performed at or near the treating centre. Coordination of surgery, tissue transport, and cell manufacturing timelines is essential, and admission and treatment acceptance are decided by the treating hospital after reviewing records.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with tumor tissue collection?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support related to tumor tissue collection for TIL therapy. Treatment decisions are always made by the qualified oncology and surgical team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, tumor accessibility, and overall health. CancerFax does not replace the treating doctors or hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "pillar": "Cancer Immunotherapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immunotherapy-for-melanoma",
+  "route": "/insights/immunotherapy-for-melanoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy for Melanoma",
+    "intro": "Immunotherapy has become a central treatment for many people with advanced or high-risk melanoma. These answers explain how it works, who may benefit, and what patients and caregivers should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy for Melanoma",
+        "items": [
+          {
+            "q": "What is immunotherapy for melanoma?",
+            "a": "<p>Immunotherapy for melanoma is a treatment that helps the body's own immune system recognize and attack melanoma cells. The most common types are checkpoint inhibitors, which block proteins such as PD-1, PD-L1, or CTLA-4 that cancer uses to hide from immune cells. It is often used for advanced or high-risk melanoma. Whether it is suitable depends on cancer stage, prior treatment, overall health, and specialist review.</p>"
+          },
+          {
+            "q": "How does immunotherapy work for melanoma?",
+            "a": "<p>Immunotherapy works by removing the 'brakes' that stop immune cells from attacking melanoma. Checkpoint inhibitors like pembrolizumab, nivolumab, and ipilimumab block signals that tumors use to avoid detection, allowing T-cells to target cancer more effectively. Some patients receive a single drug, while others receive a combination. Response varies from person to person, and treatment plans should always be guided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the main types of immunotherapy used for melanoma?",
+            "a": "<p>The main types of immunotherapy for melanoma are checkpoint inhibitors, which include PD-1 blockers (pembrolizumab, nivolumab) and CTLA-4 blockers (ipilimumab), sometimes used together. Other approaches include oncolytic virus therapy (such as talimogene laherparepvec) injected into tumors, and tumor-infiltrating lymphocyte (TIL) therapy in selected cases. The most appropriate option depends on stage, biomarkers, and previous treatment, and should be decided by the treating specialists.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for melanoma immunotherapy?",
+            "a": "<p>Immunotherapy may be considered for patients with advanced, metastatic, or high-risk melanoma, and sometimes after surgery to reduce recurrence risk. Eligibility depends on cancer stage, tumor characteristics, overall health, organ function, and any autoimmune conditions. People with certain immune disorders may need extra caution. Final decisions about suitability should be made by a qualified oncology team after reviewing the patient's full medical history and reports.</p>"
+          },
+          {
+            "q": "What are the benefits of immunotherapy for melanoma?",
+            "a": "<p>Immunotherapy can help control advanced melanoma and, in some patients, produce long-lasting responses that continue after treatment ends. It has improved outcomes for many people compared with older therapies and may lower recurrence risk when used after surgery in selected cases. Results vary widely between individuals, and no outcome is guaranteed. A specialist can explain the likely benefits based on each patient's specific situation.</p>"
+          },
+          {
+            "q": "What are the side effects of melanoma immunotherapy?",
+            "a": "<p>Immunotherapy can cause side effects when the activated immune system also affects healthy tissue. Common issues include fatigue, skin rash, and diarrhea, while less common but serious effects can involve the thyroid, liver, lungs, or bowel. Combination therapy tends to cause more side effects than single-drug treatment. Most are manageable when caught early, so patients should report new symptoms promptly to their treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does melanoma immunotherapy cost?",
+            "a": "<p>The cost of melanoma immunotherapy varies widely depending on the drug used, number of cycles, hospital, country, and whether one or two agents are combined. Treatment often continues for many months, which affects the total. Final cost also depends on diagnosis, stage, tests, complications, and length of care. Patients should request a detailed estimate from the treating hospital, as prices are not fixed and cannot be guaranteed.</p>"
+          },
+          {
+            "q": "Is melanoma immunotherapy available for international patients?",
+            "a": "<p>Melanoma immunotherapy is available at many specialized cancer centers, and international patients can often access it, though this depends on hospital acceptance, medical review, visa approval, and fitness to travel. Approved checkpoint inhibitors are widely used in several countries. Access is not automatic and cannot be guaranteed. Patients usually need recent pathology, imaging, and treatment records, and should confirm details and estimated costs with the chosen center in advance.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy for melanoma?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support is designed to make the process clearer for patients and caregivers, not to replace medical advice from doctors.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

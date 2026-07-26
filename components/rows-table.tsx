@@ -23,6 +23,7 @@ import {
 } from "lucide-react";
 import { toast } from "sonner";
 
+import { pageKey } from "@/lib/page-key";
 import type { RowView, ContentState, ReviewStatus, GenStatus } from "@/lib/types";
 import { cn } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
@@ -44,8 +45,8 @@ interface RowsTableProps {
   onGenerate: (slug: string) => void;
   /** Transient generation status per slug, overlaid on the content cell. */
   genStatus: Record<string, GenStatus>;
-  /** Start a batch for these slugs (checked rows, else filtered ungenerated). */
-  onRunBatch: (slugs: string[]) => void;
+  /** Start a batch for these page keys (checked rows, else filtered ungenerated). */
+  onRunBatch: (keys: string[]) => void;
   /** Bulk-approve every currently-generated (raw) row. */
   onApproveAll: () => void;
   /** A batch is currently running — disable batch controls. */
@@ -55,12 +56,12 @@ interface RowsTableProps {
 const ALL = "all";
 
 /** Fetch the status workbook and save it under the filename the server set. */
-async function downloadExport(slugs: string[] | null): Promise<void> {
-  const res = slugs
+async function downloadExport(keys: string[] | null): Promise<void> {
+  const res = keys
     ? await fetch("/api/export", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ slugs }),
+        body: JSON.stringify({ keys }),
       })
     : await fetch("/api/export");
   if (!res.ok) throw new Error((await res.text()).slice(0, 200));
@@ -119,7 +120,7 @@ function ContentBadge({ state }: { state: ContentState }) {
   );
 }
 
-function ReviewBadge({ status, verify }: { status: ReviewStatus; verify: number }) {
+function ReviewBadge({ status }: { status: ReviewStatus }) {
   return (
     <span className="flex items-center gap-1">
       {status === "approved" ? (
@@ -131,11 +132,6 @@ function ReviewBadge({ status, verify }: { status: ReviewStatus; verify: number 
           Pending
         </Badge>
       )}
-      {verify > 0 ? (
-        <Badge variant="warning" title={`${verify} field(s) need verification`}>
-          ⚠ {verify}
-        </Badge>
-      ) : null}
     </span>
   );
 }
@@ -182,34 +178,36 @@ export function RowsTable({
   batchRunning,
 }: RowsTableProps) {
   const [globalFilter, setGlobalFilter] = React.useState("");
-  const [pillar, setPillar] = React.useState(ALL);
+  const [collection, setCollection] = React.useState(ALL);
+  // The working set is the backlog: pages that still need a FAQ section.
+  const [faqDone, setFaqDone] = React.useState<"no" | "yes" | typeof ALL>("no");
   const [content, setContent] = React.useState(ALL);
   const [review, setReview] = React.useState(ALL);
-  const [sorting, setSorting] = React.useState<SortingState>([{ id: "rowNum", desc: false }]);
+  const [sorting, setSorting] = React.useState<SortingState>([{ id: "slug", desc: false }]);
   const [rowSelection, setRowSelection] = React.useState<RowSelectionState>({});
   const [exporting, setExporting] = React.useState(false);
 
-  // Pillars annotated with how many rows are still ungenerated, sorted most-work-
-  // first so fully-done pillars sink to the bottom (marked ✓) and you can see at a
-  // glance which pillar still has content to generate.
-  const pillars = React.useMemo(() => {
+  // Collections annotated with how many rows are still ungenerated, sorted
+  // most-work-first. Collection replaces pillar here: 448 of the 449 pending
+  // pages have a blank pillar_association, so per-pillar counts read all zeroes.
+  const collections = React.useMemo(() => {
     const m = new Map<string, { name: string; ungen: number }>();
     for (const v of views) {
-      if (!v.pillarName) continue;
-      const e = m.get(v.pillarName) ?? { name: v.pillarName, ungen: 0 };
+      if (!v.collection) continue;
+      const e = m.get(v.collection) ?? { name: v.collection, ungen: 0 };
       if (v.contentState === "not-generated") e.ungen++;
-      m.set(v.pillarName, e);
+      m.set(v.collection, e);
     }
     return Array.from(m.values()).sort((a, b) => b.ungen - a.ungen || a.name.localeCompare(b.name));
   }, [views]);
 
   const columns = React.useMemo<ColumnDef<RowView>[]>(
     () => [
-      { accessorKey: "rowNum", header: "#" },
+      { accessorKey: "slug", header: "Slug" },
       { accessorKey: "title", header: "Title" },
-      { accessorKey: "pillarName", header: "Pillar" },
-      { accessorKey: "contentType", header: "Type" },
-      { accessorKey: "excelStatus", header: "Excel" },
+      { accessorKey: "collection", header: "Collection" },
+      { accessorKey: "role", header: "Role" },
+      { accessorKey: "faqDone", header: "FAQ" },
       { accessorKey: "contentState", header: "Content" },
       { accessorKey: "reviewStatus", header: "Review" },
     ],
@@ -220,17 +218,18 @@ export function RowsTable({
     () =>
       views.filter(
         (v) =>
-          (pillar === ALL || v.pillarName === pillar) &&
+          (collection === ALL || v.collection === collection) &&
+          (faqDone === ALL || (faqDone === "yes" ? v.faqDone : !v.faqDone)) &&
           (content === ALL || v.contentState === content) &&
           (review === ALL || v.reviewStatus === review),
       ),
-    [views, pillar, content, review],
+    [views, collection, faqDone, content, review],
   );
 
   const table = useReactTable({
     data: filtered,
     columns,
-    getRowId: (row) => row.slug,
+    getRowId: (row) => pageKey(row),
     enableRowSelection: true,
     state: { sorting, globalFilter, rowSelection },
     onSortingChange: setSorting,
@@ -240,7 +239,7 @@ export function RowsTable({
       const q = String(value).toLowerCase();
       return (
         row.original.title.toLowerCase().includes(q) ||
-        row.original.pillarName.toLowerCase().includes(q)
+        row.original.slug.toLowerCase().includes(q)
       );
     },
     getCoreRowModel: getCoreRowModel(),
@@ -269,11 +268,11 @@ export function RowsTable({
   const toggleSort = (id: string) => table.getColumn(id)?.toggleSorting();
 
   // Batch target: checked rows if any, else the filtered-visible ungenerated rows.
-  const selectedSlugs = table.getSelectedRowModel().rows.map((r) => r.original.slug);
-  const ungeneratedInView = filtered.filter((v) => v.contentState === "not-generated").map((v) => v.slug);
-  const batchTargets = selectedSlugs.length ? selectedSlugs : ungeneratedInView;
-  const batchLabel = selectedSlugs.length
-    ? `Generate ${selectedSlugs.length} selected`
+  const selectedKeys = table.getSelectedRowModel().rows.map((r) => pageKey(r.original));
+  const ungeneratedInView = filtered.filter((v) => v.contentState === "not-generated").map((v) => pageKey(v));
+  const batchTargets = selectedKeys.length ? selectedKeys : ungeneratedInView;
+  const batchLabel = selectedKeys.length
+    ? `Generate ${selectedKeys.length} selected`
     : `Generate ${ungeneratedInView.length} in view`;
   // Bulk-approve targets every generated-but-not-yet-approved row, globally
   // (raw or done — matches approveAllGenerated).
@@ -282,26 +281,53 @@ export function RowsTable({
   ).length;
   // Export target: same rule as the batch button — checked rows if any, else
   // every row currently visible (filters + search applied).
-  const visibleSlugs = rows.map((r) => r.original.slug);
-  const exportTargets = selectedSlugs.length ? selectedSlugs : visibleSlugs;
-  const exportLabel = selectedSlugs.length
-    ? `Export ${selectedSlugs.length} selected`
-    : `Export ${visibleSlugs.length} in view`;
+  const visibleKeys = rows.map((r) => pageKey(r.original));
+  const exportTargets = selectedKeys.length ? selectedKeys : visibleKeys;
+  const exportLabel = selectedKeys.length
+    ? `Export ${selectedKeys.length} selected`
+    : `Export ${visibleKeys.length} in view`;
 
-  const onExport = (slugs: string[] | null) => {
+  const onExport = (keys: string[] | null) => {
     setExporting(true);
-    downloadExport(slugs)
+    downloadExport(keys)
       .catch((e: Error) => toast.error("Export failed", { description: e.message }))
+      .finally(() => setExporting(false));
+  };
+
+  /**
+   * Write every approved row's fixture + mapping.json into output/faq/batch-<date>/.
+   * That folder is what gets handed to the team's apply-pillar-faqs.js runner.
+   */
+  const onExportBatch = () => {
+    setExporting(true);
+    fetch("/api/export/batch", { method: "POST" })
+      .then(async (res) => {
+        if (!res.ok) throw new Error(await res.text());
+        const { dir, count, skipped, warningCount } = (await res.json()) as {
+          dir: string;
+          count: number;
+          skipped: string[];
+          warningCount: number;
+        };
+        const notes = [
+          skipped.length ? `${skipped.length} skipped (no fixture)` : "",
+          warningCount ? `${warningCount} with format warnings` : "",
+        ].filter(Boolean);
+        toast.success(`Wrote ${count} fixture${count === 1 ? "" : "s"} + mapping.json`, {
+          description: notes.length ? `${dir} — ${notes.join(", ")}` : dir,
+        });
+      })
+      .catch((e: Error) => toast.error("Batch export failed", { description: e.message }))
       .finally(() => setExporting(false));
   };
 
   const cols: { id: string; label: string; className: string; sortable?: boolean }[] = [
     { id: "select", label: "", className: "w-10" },
-    { id: "rowNum", label: "#", className: "w-14", sortable: true },
+    { id: "slug", label: "Slug", className: "w-56", sortable: true },
     { id: "title", label: "Title", className: "min-w-[280px]", sortable: true },
-    { id: "pillarName", label: "Pillar", className: "w-40", sortable: true },
-    { id: "contentType", label: "Type", className: "w-28", sortable: true },
-    { id: "excelStatus", label: "Excel", className: "w-24", sortable: true },
+    { id: "collection", label: "Collection", className: "w-28", sortable: true },
+    { id: "role", label: "Role", className: "w-28", sortable: true },
+    { id: "faqDone", label: "FAQ", className: "w-20", sortable: true },
     { id: "contentState", label: "Content", className: "w-36", sortable: true },
     { id: "reviewStatus", label: "Review", className: "w-40", sortable: true },
     { id: "action", label: "", className: "w-28" },
@@ -315,18 +341,28 @@ export function RowsTable({
           <Input
             value={globalFilter}
             onChange={(e) => setGlobalFilter(e.target.value)}
-            placeholder="Search title or pillar…"
+            placeholder="Search title or slug…"
             className="pl-8"
             aria-label="Search rows"
           />
         </div>
-        <Select value={pillar} onValueChange={setPillar}>
-          <SelectTrigger className="w-44" aria-label="Filter by pillar">
-            <SelectValue placeholder="Pillar" />
+        <Select value={faqDone} onValueChange={(v) => setFaqDone(v as typeof faqDone)}>
+          <SelectTrigger className="w-40" aria-label="Filter by FAQ status">
+            <SelectValue placeholder="FAQ status" />
           </SelectTrigger>
           <SelectContent>
-            <SelectItem value={ALL}>All pillars</SelectItem>
-            {pillars.map((p) => (
+            <SelectItem value="no">FAQ needed</SelectItem>
+            <SelectItem value="yes">FAQ done</SelectItem>
+            <SelectItem value={ALL}>All pages</SelectItem>
+          </SelectContent>
+        </Select>
+        <Select value={collection} onValueChange={setCollection}>
+          <SelectTrigger className="w-44" aria-label="Filter by collection">
+            <SelectValue placeholder="Collection" />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value={ALL}>All collections</SelectItem>
+            {collections.map((p) => (
               <SelectItem key={p.name} value={p.name}>
                 <span className="flex w-full items-center justify-between gap-3">
                   <span className="truncate">{p.name}</span>
@@ -393,6 +429,15 @@ export function RowsTable({
         <Button
           size="sm"
           variant="outline"
+          disabled={exporting}
+          onClick={onExportBatch}
+          title="Write approved fixtures + mapping.json to output/faq/batch-<date>/ for apply-pillar-faqs.js"
+        >
+          <Download className="h-4 w-4" /> Export batch
+        </Button>
+        <Button
+          size="sm"
+          variant="outline"
           disabled={unapprovedCount === 0}
           onClick={onApproveAll}
           title="Approve every generated row that isn't approved yet"
@@ -406,7 +451,7 @@ export function RowsTable({
         >
           <Sparkles className="h-4 w-4" /> {batchLabel}
         </Button>
-        {selectedSlugs.length ? (
+        {selectedKeys.length ? (
           <Button size="sm" variant="ghost" onClick={() => table.resetRowSelection()}>
             Clear
           </Button>
@@ -464,14 +509,14 @@ export function RowsTable({
                   const v = rows[vr.index].original;
                   return (
                     <TableRow
-                      key={v.slug + v.rowNum}
+                      key={pageKey(v)}
                       data-index={vr.index}
                       ref={(el) => virtualizer.measureElement(el)}
-                      onClick={() => onOpen(v.slug)}
+                      onClick={() => onOpen(pageKey(v))}
                       onKeyDown={(e) => {
                         if (e.key === "Enter" || e.key === " ") {
                           e.preventDefault();
-                          onOpen(v.slug);
+                          onOpen(pageKey(v));
                         }
                       }}
                       tabIndex={0}
@@ -486,14 +531,14 @@ export function RowsTable({
                           aria-label={`Select ${v.title}`}
                         />
                       </TableCell>
-                      <TableCell className="tabular text-muted-foreground">{v.rowNum}</TableCell>
+                      <TableCell className="tabular truncate text-xs text-muted-foreground" title={v.slug}>{v.slug}</TableCell>
                       <TableCell className="font-medium text-foreground">{v.title}</TableCell>
-                      <TableCell className="text-sm">{v.pillarName || "—"}</TableCell>
-                      <TableCell className="text-sm text-muted-foreground">{v.contentType || "—"}</TableCell>
-                      <TableCell className="text-sm text-muted-foreground">{v.excelStatus || "—"}</TableCell>
+                      <TableCell className="text-sm text-muted-foreground">{v.collection}</TableCell>
+                      <TableCell className="text-sm text-muted-foreground">{v.role || "—"}</TableCell>
+                      <TableCell className="text-sm text-muted-foreground">{v.faqDone ? "Done" : "Pending"}</TableCell>
                       <TableCell>
-                        {genStatus[v.slug] && genStatus[v.slug] !== "done" ? (
-                          <GenPill status={genStatus[v.slug]} />
+                        {genStatus[pageKey(v)] && genStatus[pageKey(v)] !== "done" ? (
+                          <GenPill status={genStatus[pageKey(v)]} />
                         ) : v.invalid ? (
                           <Badge variant="destructive" title="Fixture failed to parse">
                             ⚠ Invalid
@@ -503,20 +548,20 @@ export function RowsTable({
                         )}
                       </TableCell>
                       <TableCell>
-                        <ReviewBadge status={v.reviewStatus} verify={v.verifyCount} />
+                        <ReviewBadge status={v.reviewStatus} />
                       </TableCell>
                       <TableCell onClick={(e) => e.stopPropagation()}>
                         {v.contentState === "not-generated" ? (
                           <Button
                             size="sm"
                             variant="outline"
-                            disabled={genStatus[v.slug] === "queued" || genStatus[v.slug] === "running"}
-                            onClick={() => onGenerate(v.slug)}
+                            disabled={genStatus[pageKey(v)] === "queued" || genStatus[pageKey(v)] === "running"}
+                            onClick={() => onGenerate(pageKey(v))}
                           >
                             Generate
                           </Button>
                         ) : (
-                          <Button size="sm" variant="ghost" onClick={() => onOpen(v.slug)}>
+                          <Button size="sm" variant="ghost" onClick={() => onOpen(pageKey(v))}>
                             Review →
                           </Button>
                         )}

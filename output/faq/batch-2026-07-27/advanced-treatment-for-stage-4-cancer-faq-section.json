@@ -1,0 +1,62 @@
+{
+  "pillar": "Advanced Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "advanced-treatment-for-stage-4-cancer",
+  "route": "/insights/advanced-treatment-for-stage-4-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Advanced Treatment for Stage 4 Cancer",
+    "intro": "Advanced treatment for stage 4 cancer focuses on controlling the disease, easing symptoms, and improving quality of life when cancer has spread. These FAQs explain the available options, who they may suit, and what patients should discuss with their oncology team.",
+    "groups": [
+      {
+        "title": "Understanding Advanced Treatment for Stage 4 Cancer",
+        "items": [
+          {
+            "q": "What is advanced treatment for stage 4 cancer?",
+            "a": "<p>Advanced treatment for stage 4 cancer refers to therapies used when cancer has spread to distant parts of the body, aiming to control the disease, relieve symptoms, and improve quality of life. Options may include targeted therapy, immunotherapy, advanced chemotherapy, precision radiation, or clinical trials. The most suitable approach depends on cancer type, biomarker profile, previous treatment, and overall health, and should be decided by a qualified oncology team.</p>"
+          },
+          {
+            "q": "Can stage 4 cancer be treated?",
+            "a": "<p>Yes, stage 4 cancer can often be treated, although the goal is usually to control the disease rather than cure it. Modern therapies such as immunotherapy, targeted therapy, and advanced chemotherapy may help selected patients live longer with better symptom control. Outcomes vary widely and cannot be guaranteed. Whether treatment is appropriate depends on cancer type, stage, biomarkers, and overall health, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What advanced treatment options are available for stage 4 cancer?",
+            "a": "<p>Advanced options for stage 4 cancer may include targeted therapy, immunotherapy, chemotherapy, hormone therapy, precision radiation, and clinical trials. Some patients may also be considered for combination approaches or newer treatments such as CAR T-cell therapy for selected blood cancers. The right option depends on cancer type, biomarker profile, previous treatment, and overall health. Final treatment decisions should be made by the treating medical team after reviewing all reports.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Safety",
+        "items": [
+          {
+            "q": "Is advanced treatment suitable for all stage 4 cancer patients?",
+            "a": "<p>No, advanced treatment is not suitable for every stage 4 cancer patient, as each case is different. Suitability depends on cancer type, stage, biomarker profile, previous treatment, organ function, and overall health. Some patients may benefit from active treatment, while others may focus on symptom control and comfort. These choices should be discussed carefully with a qualified oncology team, who can recommend the safest and most appropriate plan.</p>"
+          },
+          {
+            "q": "What are the benefits and risks of advanced stage 4 cancer treatment?",
+            "a": "<p>Advanced treatment may help control tumor growth, relieve symptoms, and improve quality of life for selected stage 4 patients. However, these therapies also carry risks, including side effects that vary by treatment type, such as fatigue, immune-related reactions, or effects on organs. No treatment is risk-free or guaranteed to work. The balance of benefit and risk depends on individual factors and should be reviewed carefully with the treating oncology team.</p>"
+          },
+          {
+            "q": "Are clinical trials available for stage 4 cancer?",
+            "a": "<p>Yes, clinical trials are often available for stage 4 cancer and may offer access to newer therapies not yet widely used. Eligibility is decided after medical record review and investigator assessment, and trials usually have strict inclusion and exclusion criteria. Enrollment and benefit cannot be guaranteed. Patients interested in trials should discuss suitable options with their oncology team, who can help identify appropriate studies where available.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does advanced treatment for stage 4 cancer cost, and can international patients access it?",
+            "a": "<p>The cost of advanced stage 4 cancer treatment varies widely and cannot be fixed in advance. It depends on the therapy type, cancer, hospital, country, treatment duration, tests, and supportive care. International patients may access treatment abroad, but this depends on hospital acceptance, medical review, visa approval, and travel fitness. Final costs and eligibility should be confirmed with the treating hospital and team before planning travel or treatment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with advanced treatment for stage 4 cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This helps stage 4 patients explore advanced options with clearer information and appropriate specialist guidance.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

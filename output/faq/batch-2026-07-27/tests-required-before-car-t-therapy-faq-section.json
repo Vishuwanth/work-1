@@ -1,0 +1,70 @@
+{
+  "pillar": "CAR-T Cell Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tests-required-before-car-t-therapy",
+  "route": "/insights/tests-required-before-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Tests Required Before CAR-T Therapy",
+    "intro": "Clear, patient-friendly answers about the tests and evaluations done before CAR-T cell therapy, why they matter, and what international patients should understand about the assessment process.",
+    "groups": [
+      {
+        "title": "Why Testing Is Done Before CAR-T",
+        "items": [
+          {
+            "q": "What tests are required before CAR-T cell therapy?",
+            "a": "<p>Before CAR-T cell therapy, patients usually need blood tests, bone marrow or biopsy assessment, imaging such as PET or CT, heart and lung function tests, and infection screening. Doctors also check the cancer target antigen and organ function to confirm fitness for treatment. The exact tests depend on cancer type, prior therapy, and hospital protocol, and the full list is decided by the treating oncology team after reviewing each patient individually.</p>"
+          },
+          {
+            "q": "Why are so many tests needed before CAR-T therapy?",
+            "a": "<p>Testing before CAR-T therapy is needed to confirm the diagnosis, check that the cancer carries the target antigen, and make sure the patient is fit enough for treatment. CAR-T can cause serious side effects, so heart, lung, kidney, and liver function are assessed carefully. These tests help the team plan safely and decide whether CAR-T is appropriate. Results are reviewed together, and final decisions rest with the treating specialist.</p>"
+          },
+          {
+            "q": "How long does pre-CAR-T testing take?",
+            "a": "<p>Pre-CAR-T testing usually takes one to three weeks, depending on the hospital, the number of tests needed, and how quickly results become available. Some tests, such as bone marrow biopsy or specialised antigen testing, may take longer to report. Timelines can vary if additional or repeat tests are requested. Patients travelling from abroad should allow extra time, as some evaluations may need to be repeated at the treating centre.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Specific Tests and Assessments",
+        "items": [
+          {
+            "q": "What blood tests are done before CAR-T therapy?",
+            "a": "<p>Blood tests before CAR-T therapy typically include complete blood counts, kidney and liver function tests, electrolytes, and markers of inflammation. Doctors may also check immunoglobulin levels and previous treatment effects on the bone marrow. These results help assess overall health and readiness for cell collection. The specific panel depends on the cancer type and hospital protocol, and additional blood tests may be requested during the process based on the specialist's judgment.</p>"
+          },
+          {
+            "q": "What imaging scans are needed before CAR-T therapy?",
+            "a": "<p>Imaging before CAR-T therapy often includes PET, CT, or MRI scans to map the extent of disease and provide a baseline for later comparison. In some cancers, brain imaging may also be requested. These scans help confirm disease status and guide treatment planning, including any bridging therapy. The choice of imaging depends on the cancer type and clinical situation, and is decided by the treating team after reviewing the patient's history.</p>"
+          },
+          {
+            "q": "How are heart and lung function checked before CAR-T?",
+            "a": "<p>Heart and lung function are checked before CAR-T therapy using tests such as an ECG, an echocardiogram to assess heart pumping, and sometimes lung function tests or oxygen level checks. Because CAR-T can cause cytokine release syndrome and strain the body, these baseline assessments help confirm the patient can tolerate treatment. Any concerns are reviewed carefully, and additional cardiac or respiratory evaluation may be requested depending on the patient's age and health.</p>"
+          },
+          {
+            "q": "What tests confirm the cancer target before CAR-T therapy?",
+            "a": "<p>Specialised tests confirm that the cancer carries the antigen the CAR-T cells are designed to target, such as CD19 in some lymphomas and leukaemias or BCMA in myeloma. This is checked using biopsy, bone marrow, or flow cytometry testing. Confirming the target helps predict whether the therapy is likely to recognise the cancer. If the target is absent or unclear, the treating team reassesses whether CAR-T is a suitable option.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility and Practical Questions",
+        "items": [
+          {
+            "q": "Can test results affect CAR-T eligibility?",
+            "a": "<p>Yes, test results can directly affect CAR-T eligibility. Poor organ function, active infection, very low blood counts, absence of the target antigen, or rapidly progressing disease may make a patient temporarily or permanently unsuitable. In some cases, treatment is delayed until results improve. Eligibility depends on cancer type, stage, prior treatment, and overall health, and is assessed individually. Final decisions are made by the treating oncology team after reviewing all reports.</p>"
+          },
+          {
+            "q": "What reports should international patients prepare for CAR-T evaluation?",
+            "a": "<p>International patients should prepare recent pathology and biopsy reports, bone marrow results, imaging scans, blood test results, antigen or biomarker testing, and a detailed treatment history for CAR-T evaluation. A written summary from the current oncologist is also helpful. These documents allow the receiving centre to assess eligibility and plan next steps. Requirements vary by hospital, and some tests may need to be repeated at the treating centre after review or on arrival.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with tests required before CAR-T therapy?",
+            "a": "<p>CancerFax helps patients organise medical reports, identify relevant specialists or treatment centres, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

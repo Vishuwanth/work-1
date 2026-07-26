@@ -18,18 +18,18 @@ describe("tracker", () => {
     const rec: ReviewRecord = {
       reviewStatus: "approved",
       note: "looks good",
-      edits: { answers: { "0.0": "<p>x</p>" }, slug: "s", route: "/r" },
+      edits: { answers: { "0.0": "<p>x</p>" } },
     };
     writeTracker({ "some-slug": rec }, dir);
     const back = readTracker(dir);
     expect(back["some-slug"]).toEqual(rec);
   });
 
-  it("recordFor returns a pending default for an unknown slug", () => {
+  it("recordFor returns a pending default for an unknown key", () => {
     expect(recordFor({}, "nope")).toEqual({
       reviewStatus: "pending",
       note: "",
-      edits: { answers: {}, slug: "", route: "" },
+      edits: { answers: {} },
     });
   });
 
@@ -37,7 +37,7 @@ describe("tracker", () => {
     const rec: ReviewRecord = {
       reviewStatus: "needs-work",
       note: "",
-      edits: { answers: {}, slug: "", route: "" },
+      edits: { answers: {} },
     };
     expect(recordFor({ known: rec }, "known")).toBe(rec);
   });

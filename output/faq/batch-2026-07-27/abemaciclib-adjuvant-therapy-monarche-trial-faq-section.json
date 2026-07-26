@@ -1,0 +1,59 @@
+{
+  "pillar": "Abemaciclib (Verzenio) Adjuvant Therapy: The monarchE Trial and Who Should Receive It",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "abemaciclib-adjuvant-therapy-monarche-trial",
+  "route": "/insights/abemaciclib-adjuvant-therapy-monarche-trial",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is abemaciclib (Verzenio) and why would I take it after surgery?",
+            "a": "<p>Abemaciclib is a CDK4/6 inhibitor taken as a tablet twice daily alongside hormone therapy to lower the chance that hormone-receptor-positive, HER2-negative breast cancer returns after surgery. It blocks proteins that cancer cells use to divide. It is added for people whose tumour features suggest higher recurrence risk, not for everyone with early breast cancer. Your oncologist decides based on your nodes, tumour size, and grade.</p>"
+          },
+          {
+            "q": "What did the monarchE trial actually show?",
+            "a": "<p>monarchE showed that adding two years of abemaciclib to standard hormone therapy reduced the risk of cancer returning in high-risk, node-positive early breast cancer. At five years, about 7 to 8 more women out of 100 remained free of invasive recurrence compared with hormone therapy alone. The benefit continued after the drug was stopped. Individual results vary, and your own risk depends on your tumour details.</p>"
+          },
+          {
+            "q": "Am I eligible for adjuvant abemaciclib?",
+            "a": "<p>You may be eligible if your breast cancer is hormone-receptor-positive, HER2-negative, and has spread to lymph nodes. The usual criteria are four or more positive underarm nodes, or one to three positive nodes together with a tumour of 5 cm or larger or a grade 3 tumour. Eligibility can differ by country and insurer, so ask your oncologist to confirm whether you qualify under local guidelines.</p>"
+          },
+          {
+            "q": "How long do I have to take Verzenio?",
+            "a": "<p>Adjuvant abemaciclib is taken for two years, at 150 mg twice a day. Hormone therapy continues much longer, usually five to ten years in total, so you keep taking it after the abemaciclib course finishes. Stopping abemaciclib early is sometimes necessary because of side effects, and many people still gain benefit. Your oncologist will weigh how much of the two years you were able to complete.</p>"
+          },
+          {
+            "q": "What are the side effects, and is the diarrhoea as bad as people say?",
+            "a": "<p>Diarrhoea is the most common side effect and affects most people, usually starting in the first month. It is generally mild to moderate and improves with loperamide, dose reduction, and hydration. Other effects include low white blood cell counts, fatigue, nausea, and a small increase in blood clot risk. Tell your team at the first loose stool rather than waiting, because early treatment keeps it manageable.</p>"
+          },
+          {
+            "q": "Do I still need hormone therapy if I am taking abemaciclib?",
+            "a": "<p>Yes. Abemaciclib is added to hormone therapy, never used instead of it. In monarchE everyone received an aromatase inhibitor or tamoxifen, and the abemaciclib group simply added the tablet for two years. Premenopausal women may also receive ovarian suppression. If you stop hormone therapy, the protection abemaciclib provides is reduced, so tell your oncologist about any side effects instead of quietly stopping either drug on your own.</p>"
+          },
+          {
+            "q": "Does my Ki-67 score still matter for getting this drug?",
+            "a": "<p>Ki-67 is no longer required in most places. The first approval limited abemaciclib to tumours with a Ki-67 score of 20 percent or higher, but that restriction was removed in 2023 after longer follow-up showed benefit regardless of Ki-67. Some health systems and insurers still ask for the score. CancerFax can help you gather the pathology details hospitals abroad request, though your treating oncologist decides suitability.</p>"
+          },
+          {
+            "q": "Will abemaciclib stop my cancer from coming back?",
+            "a": "<p>No treatment can guarantee that cancer will not return. Abemaciclib lowers the risk meaningfully for high-risk, node-positive disease, but some cancers still come back and some people would never have relapsed anyway. Think of it as improving your odds rather than removing the risk. Regular follow-up scans and examinations remain important throughout and after the two years of treatment, and your oncologist will set the schedule that fits your risk.</p>"
+          },
+          {
+            "q": "What does two years of Verzenio cost, and can I get it in India?",
+            "a": "<p>Cost varies widely by country. Abemaciclib is a branded drug and two years of treatment can be expensive, though prices in India are often substantially lower than in the United States or Europe, and generic CDK4/6 options are emerging in some markets. Insurance cover depends on your policy and on meeting the approved criteria. CancerFax can help you request written cost estimates from hospitals in India before you commit.</p>"
+          },
+          {
+            "q": "What happens if I cannot tolerate the full dose?",
+            "a": "<p>Dose reduction is common and expected. Doctors usually step down from 150 mg to 100 mg, and then to 50 mg twice daily, before considering stopping altogether. In monarchE many participants reduced their dose and still benefited. Treatment breaks of a few days are also used to let diarrhoea or low blood counts settle. Report symptoms early, because adjustments made in time often let you stay on treatment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

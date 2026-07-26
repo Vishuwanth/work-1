@@ -1,0 +1,62 @@
+{
+  "pillar": "Precision Oncology & NGS Testing",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-precision-oncology",
+  "route": "/insights/what-is-precision-oncology",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Precision Oncology",
+    "intro": "Precision oncology matches cancer treatment to the genetic and molecular features of an individual tumor. These answers explain what it is, how testing works, who it may help, and how international patients can access it.",
+    "groups": [
+      {
+        "title": "Understanding Precision Oncology",
+        "items": [
+          {
+            "q": "What is precision oncology?",
+            "a": "<p>Precision oncology is a cancer care approach that tailors treatment to the specific genetic and molecular features of a person's tumor. Also called personalized or molecular oncology, it uses tests that analyze DNA, RNA, and proteins in cancer cells to identify mutations driving tumor growth. Doctors then match patients to therapies most likely to help, based on cancer type, stage, biomarker profile, and specialist review.</p>"
+          },
+          {
+            "q": "How is precision oncology different from standard cancer treatment?",
+            "a": "<p>Precision oncology differs from standard treatment by targeting the molecular changes inside a specific tumor rather than treating all cancers of one type the same way. Traditional chemotherapy often follows protocols based mainly on cancer type and stage. Precision oncology adds biomarker testing to guide therapy selection, which may include targeted drugs or immunotherapy. It does not replace standard care and is used alongside a treating oncology team's judgment.</p>"
+          },
+          {
+            "q": "How does precision oncology work?",
+            "a": "<p>Precision oncology works by first analyzing a tumor sample, and sometimes blood, to detect genetic mutations, gene fusions, or other biomarkers. Laboratory tests such as next-generation sequencing read many genes at once to build a molecular profile. Specialists review these results, often in a molecular tumor board, to identify therapies that may match the tumor's biology. Final treatment decisions depend on the results, overall health, and the treating team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Testing, Eligibility, and Access",
+        "items": [
+          {
+            "q": "What is NGS testing in precision oncology?",
+            "a": "<p>Next-generation sequencing (NGS) is a laboratory technology that reads many cancer-related genes at the same time from a tumor or blood sample. In precision oncology, NGS helps identify mutations, gene fusions, and biomarkers that may guide targeted therapy or immunotherapy decisions. It can also flag eligibility for certain clinical trials. The choice and timing of NGS testing depend on cancer type, available tissue, and the treating oncologist's recommendation.</p>"
+          },
+          {
+            "q": "Who is eligible for precision oncology testing?",
+            "a": "<p>Eligibility for precision oncology testing depends on cancer type, stage, available tumor tissue, previous treatment, and specialist review. It is often considered for advanced, metastatic, rare, or hard-to-treat cancers, and for tumors that may carry actionable biomarkers. Some patients are tested at diagnosis, others after standard therapies. Whether testing is appropriate, and which test to use, should be decided by a qualified oncology team after reviewing the individual case.</p>"
+          },
+          {
+            "q": "Is precision oncology suitable for all cancer patients?",
+            "a": "<p>Precision oncology is not suitable for every cancer patient, as its value depends on whether a tumor carries treatable molecular changes. Some cancers have well-established biomarkers with matched therapies, while others currently have few or none. Even when a mutation is found, a targeted treatment may not always exist or be accessible. Suitability should be discussed with a qualified oncology team based on the specific diagnosis and test results.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Practical Questions for International Patients",
+        "items": [
+          {
+            "q": "How can international patients access precision oncology?",
+            "a": "<p>International patients can access precision oncology through hospitals and specialized laboratories offering biomarker and NGS testing, often in countries with established cancer centers. Access depends on hospital acceptance, availability of tumor samples, medical review, cost, and, for treatment abroad, visa approval and travel fitness. Gathering pathology reports, imaging, and prior treatment records helps specialists advise on relevant testing. Final decisions rest with the treating medical team after reviewing each case.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with precision oncology?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or laboratories for biomarker and NGS testing, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. Precision oncology testing and its results should always be interpreted by the treating specialists.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

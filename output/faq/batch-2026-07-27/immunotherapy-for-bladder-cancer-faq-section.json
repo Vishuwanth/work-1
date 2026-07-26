@@ -1,0 +1,66 @@
+{
+  "pillar": "Cancer Immunotherapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immunotherapy-for-bladder-cancer",
+  "route": "/insights/immunotherapy-for-bladder-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Immunotherapy for Bladder Cancer",
+    "intro": "Immunotherapy has become an important option for many bladder cancer patients, especially when the disease is advanced or does not respond to chemotherapy. These answers explain how it works, who may benefit, and what to consider before treatment.",
+    "groups": [
+      {
+        "title": "Understanding Immunotherapy for Bladder Cancer",
+        "items": [
+          {
+            "q": "What is immunotherapy for bladder cancer?",
+            "a": "<p>Immunotherapy for bladder cancer is a treatment that helps the body's own immune system recognize and attack cancer cells. The most common types are checkpoint inhibitors, which block proteins like PD-1 or PD-L1 that tumors use to hide from immune cells. It may be used for advanced or metastatic bladder cancer, or as bladder-preserving therapy in selected early-stage cases. Suitability depends on cancer stage, biomarker profile, and specialist review.</p>"
+          },
+          {
+            "q": "How does immunotherapy work for bladder cancer?",
+            "a": "<p>Immunotherapy works by removing the biological \"brakes\" that stop immune cells from attacking bladder tumors. Checkpoint inhibitors such as pembrolizumab, atezolizumab, nivolumab, and avelumab block PD-1 or PD-L1 signals, allowing T-cells to detect and destroy cancer cells. For early non-muscle-invasive bladder cancer, BCG therapy stimulates a local immune response inside the bladder. The right approach depends on cancer type, stage, previous treatment, and the treating oncology team's assessment.</p>"
+          },
+          {
+            "q": "What is BCG immunotherapy for early bladder cancer?",
+            "a": "<p>BCG immunotherapy is a treatment placed directly into the bladder to trigger an immune reaction against early, non-muscle-invasive bladder cancer. BCG (Bacillus Calmette-Guérin) is a weakened bacterium that prompts the immune system to attack remaining cancer cells after tumor removal. It is often used to lower the risk of recurrence in selected patients. Response varies, and ongoing monitoring with cystoscopy is usually needed under specialist supervision.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Benefits, and Side Effects",
+        "items": [
+          {
+            "q": "Who is eligible for bladder cancer immunotherapy?",
+            "a": "<p>Eligibility for bladder cancer immunotherapy depends on cancer stage, biomarker profile, prior treatments, and overall health. It may be considered for advanced or metastatic bladder cancer, for patients who cannot tolerate or did not respond to chemotherapy, or for BCG-unresponsive early disease. PD-L1 testing sometimes guides decisions. Final eligibility should be confirmed by a qualified oncology team after reviewing pathology, imaging, and the patient's medical condition.</p>"
+          },
+          {
+            "q": "What are the benefits of immunotherapy for bladder cancer?",
+            "a": "<p>The main benefit of immunotherapy is that it can offer durable responses in some patients whose bladder cancer no longer responds to chemotherapy. It may help control advanced disease, delay progression, and in early cases reduce recurrence risk. Some patients tolerate it better than chemotherapy. However, benefit is not guaranteed and varies between individuals, so realistic expectations should be discussed with the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of bladder cancer immunotherapy?",
+            "a": "<p>Immunotherapy side effects happen because the activated immune system can also affect healthy tissues. Common effects include fatigue, skin rash, diarrhea, and thyroid changes, while less common but serious reactions can involve the lungs, liver, bowel, or hormone glands. BCG therapy may cause bladder irritation, urinary symptoms, or fever. Side effects vary by patient and should be monitored closely and managed by the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and Support",
+        "items": [
+          {
+            "q": "How much does immunotherapy for bladder cancer cost?",
+            "a": "<p>The cost of bladder cancer immunotherapy varies widely depending on the drug used, number of cycles, hospital, and country of treatment. Checkpoint inhibitors are generally expensive and usually given over several months, which affects the total. Final cost also depends on diagnosis, stage, additional tests, supportive care, and any complications. A personalized estimate should be obtained from the treating hospital rather than assumed from general figures.</p>"
+          },
+          {
+            "q": "Is immunotherapy for bladder cancer available in India and other countries?",
+            "a": "<p>Immunotherapy for bladder cancer is available in India and many countries at specialized cancer centers, though specific drugs and access can differ by location and regulatory approval. International patients can often seek treatment abroad, but access depends on hospital acceptance, medical record review, visa approval, and travel fitness. Availability of a particular drug or clinical trial is not guaranteed and should be confirmed with the chosen treatment center.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with immunotherapy for bladder cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It also helps patients explore whether immunotherapy or a suitable clinical trial may be relevant to their situation. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

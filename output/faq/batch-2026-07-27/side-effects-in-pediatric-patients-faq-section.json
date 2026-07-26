@@ -1,0 +1,62 @@
+{
+  "pillar": "Pediatric Cancer Advanced Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "side-effects-in-pediatric-patients",
+  "route": "/insights/side-effects-in-pediatric-patients",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Side Effects in Pediatric Patients",
+    "intro": "Cancer treatment can affect children differently from adults, and side effects vary by therapy, age, and overall health. These answers explain what families can expect and how side effects are monitored and managed.",
+    "groups": [
+      {
+        "title": "Understanding Side Effects in Children",
+        "items": [
+          {
+            "q": "What are the most common side effects of cancer treatment in children?",
+            "a": "<p>Common side effects of childhood cancer treatment include nausea, vomiting, fatigue, hair loss, mouth sores, appetite changes, and low blood counts that raise infection or bleeding risk. The specific effects depend on the cancer type, treatment used, dose, and the child's age and overall health. Most side effects are temporary and managed with supportive care, and the treating pediatric oncology team monitors children closely to reduce discomfort and complications.</p>"
+          },
+          {
+            "q": "Why do children experience treatment side effects differently from adults?",
+            "a": "<p>Children often experience side effects differently because their bodies, organs, and immune systems are still developing. Growing tissues can be more sensitive to chemotherapy and radiation, which may affect growth, learning, fertility, or organ function over time. At the same time, children sometimes recover from certain acute effects faster than adults. Effects vary by age, cancer type, and treatment, and should always be discussed with the treating pediatric oncology team.</p>"
+          },
+          {
+            "q": "What side effects can advanced therapies like CAR T-cell or immunotherapy cause in children?",
+            "a": "<p>Advanced therapies such as CAR T-cell therapy and immunotherapy can cause side effects like fever, cytokine release syndrome, neurological changes, and increased infection risk. These effects can sometimes be serious but are often manageable when detected early in specialized centers. Whether a child is suitable for these therapies depends on the cancer type, previous treatment, and specialist review, and monitoring should always be carried out by an experienced pediatric oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Managing and Monitoring Side Effects",
+        "items": [
+          {
+            "q": "How are chemotherapy side effects managed in pediatric patients?",
+            "a": "<p>Chemotherapy side effects in children are managed with supportive care such as anti-nausea medicines, nutrition support, pain relief, and medicines that protect blood counts or prevent infection. Doctors adjust doses, schedule rest periods, and monitor blood tests closely to keep the child safe. Management depends on the child's symptoms, treatment protocol, and overall health, and all decisions should be made by the treating pediatric oncology team based on regular review.</p>"
+          },
+          {
+            "q": "How can parents help reduce their child's treatment side effects?",
+            "a": "<p>Parents can help by giving medicines as prescribed, encouraging good nutrition and hydration, maintaining hygiene to lower infection risk, and reporting new symptoms early. Emotional support, rest, and gentle routines also help children cope during treatment. Parents should never stop or change medicines without medical advice. Working closely with the pediatric oncology team ensures side effects are recognized quickly and managed safely based on the child's condition.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Long-Term Effects and Support",
+        "items": [
+          {
+            "q": "Are side effects in children permanent?",
+            "a": "<p>Most cancer treatment side effects in children are temporary and improve after treatment ends. However, some children may develop long-term or late effects involving growth, heart, hormones, fertility, or learning, depending on the treatment received. The risk varies by cancer type, treatment intensity, and the child's age. Regular follow-up and survivorship care help detect and manage any lasting effects, and concerns should be discussed with the treating pediatric oncology team.</p>"
+          },
+          {
+            "q": "What are late effects of childhood cancer treatment?",
+            "a": "<p>Late effects are health problems that can appear months or years after childhood cancer treatment ends. They may include effects on growth, heart, lungs, hormones, fertility, memory, or a small risk of secondary cancers. Not every child develops late effects, and the likelihood depends on the treatments used and the child's age. Long-term survivorship follow-up helps monitor for these effects so they can be managed early by specialists.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with side effects in pediatric patients?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant pediatric specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. CancerFax does not provide treatment or manage side effects directly. All decisions about a child's care and side-effect management are made by the qualified pediatric oncology team after reviewing the diagnosis, stage, treatment history, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

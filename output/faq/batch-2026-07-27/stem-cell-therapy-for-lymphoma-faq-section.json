@@ -1,0 +1,62 @@
+{
+  "pillar": "Stem Cell Therapy in Oncology",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "stem-cell-therapy-for-lymphoma",
+  "route": "/insights/stem-cell-therapy-for-lymphoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stem Cell Therapy for Lymphoma",
+    "intro": "Stem cell therapy is used in selected lymphoma patients to help restore healthy bone marrow after high-dose treatment. These answers explain how it works, who may qualify, and what international patients should consider.",
+    "groups": [
+      {
+        "title": "Understanding Stem Cell Therapy for Lymphoma",
+        "items": [
+          {
+            "q": "What is stem cell therapy for lymphoma?",
+            "a": "<p>Stem cell therapy for lymphoma is a treatment that replaces damaged or destroyed bone marrow with healthy blood-forming stem cells after high-dose chemotherapy. It is also called a stem cell or bone marrow transplant. The high-dose treatment aims to eliminate lymphoma cells, and the transplanted stem cells help rebuild the immune system and blood cell production. Whether it is suitable depends on lymphoma type, stage, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "How does a stem cell transplant work for lymphoma?",
+            "a": "<p>A stem cell transplant works by using high-dose chemotherapy to destroy lymphoma cells, followed by an infusion of healthy stem cells to restore bone marrow function. The stem cells travel to the bone marrow and begin producing new red cells, white cells, and platelets over several weeks. Patients are monitored closely during recovery for infection and other complications. The exact process depends on the transplant type and the treating team's protocol.</p>"
+          },
+          {
+            "q": "What is the difference between autologous and allogeneic transplant?",
+            "a": "<p>An autologous transplant uses the patient's own stem cells, while an allogeneic transplant uses stem cells from a matched donor. Autologous transplants are commonly considered for relapsed Hodgkin and certain non-Hodgkin lymphomas, whereas allogeneic transplants may be used when disease is harder to control or the marrow is affected. Each carries different risks and recovery patterns. The choice depends on lymphoma type, response to prior therapy, donor availability, and specialist assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for stem cell therapy for lymphoma?",
+            "a": "<p>Stem cell therapy may be suitable for selected lymphoma patients, often those with relapsed or high-risk disease that has responded to earlier treatment. Eligibility depends on lymphoma type, stage, previous therapy, organ function, age, and overall health. Patients usually undergo detailed testing before a transplant is confirmed. Not every patient is a candidate, and final decisions should be made by a qualified oncology and transplant team after full evaluation.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of stem cell therapy?",
+            "a": "<p>Common risks of stem cell therapy include infection, bleeding, fatigue, mouth sores, and low blood counts during recovery. Allogeneic transplants also carry a risk of graft-versus-host disease, where donor cells react against the patient's tissues. Side effects vary by transplant type, conditioning treatment, and individual health. Careful monitoring helps manage complications. Patients should discuss the specific risks and expected recovery with their treating medical team before proceeding.</p>"
+          },
+          {
+            "q": "How long does recovery take after a stem cell transplant?",
+            "a": "<p>Recovery after a stem cell transplant often takes several weeks to a few months, with the early phase usually requiring close hospital monitoring. Blood counts typically begin to recover within two to four weeks, but full immune recovery can take much longer. Patients may need protection from infection, regular follow-up, and gradual return to daily activities. Recovery timelines vary by transplant type, complications, and the treating team's guidance.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "How can international patients access stem cell therapy for lymphoma?",
+            "a": "<p>International patients can access stem cell therapy by having their medical records reviewed by a transplant center to confirm suitability. Access depends on hospital acceptance, medical evaluation, donor matching where needed, visa approval, and fitness to travel. Patients usually provide pathology, imaging, and treatment history for assessment. Coordination of second opinions, cost estimates, and follow-up care is often helpful. Admission and treatment acceptance cannot be guaranteed and depend on specialist review.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell therapy for lymphoma?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant transplant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. This can make navigating stem cell therapy options more manageable for international patients and caregivers. Treatment decisions are always made by the qualified oncology and transplant team after reviewing the patient's diagnosis, lymphoma type, stage, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

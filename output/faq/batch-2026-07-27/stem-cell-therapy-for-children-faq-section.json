@@ -1,0 +1,66 @@
+{
+  "pillar": "Pediatric Cancer Advanced Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "stem-cell-therapy-for-children",
+  "route": "/insights/stem-cell-therapy-for-children",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Stem Cell Therapy for Children",
+    "intro": "Clear, patient-friendly answers about how stem cell therapy is used in children with cancer and certain blood disorders, including eligibility, safety, and international access.",
+    "groups": [
+      {
+        "title": "Understanding Stem Cell Therapy for Children",
+        "items": [
+          {
+            "q": "What is stem cell therapy for children?",
+            "a": "<p>Stem cell therapy for children uses healthy blood-forming stem cells to rebuild a child's bone marrow after high-dose chemotherapy or radiation, or to replace unhealthy marrow. It is most often used for pediatric leukemias, lymphomas, certain solid tumors, and some inherited blood disorders. The cells may come from the child (autologous) or a matched donor (allogeneic). Suitability depends on diagnosis, disease stage, prior treatment, and specialist review by a pediatric oncology team.</p>"
+          },
+          {
+            "q": "How does a stem cell transplant work in children?",
+            "a": "<p>A stem cell transplant works by giving a child healthy stem cells that travel to the bone marrow and begin producing new blood and immune cells. Before this, the child usually receives conditioning chemotherapy, sometimes with radiation, to clear diseased cells and make space in the marrow. The new cells are given through a vein, similar to a blood transfusion. Recovery and engraftment are monitored closely, and the full process depends on the child's condition and treatment plan.</p>"
+          },
+          {
+            "q": "What is the difference between autologous and allogeneic transplants for children?",
+            "a": "<p>The main difference is the source of the stem cells. In an autologous transplant, the child's own stem cells are collected, stored, and returned after high-dose therapy. In an allogeneic transplant, cells come from a matched donor, such as a sibling, unrelated donor, or cord blood. The choice depends on the cancer type, disease status, donor availability, and risks like graft-versus-host disease. The treating oncology team decides which approach may be most appropriate.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Recovery",
+        "items": [
+          {
+            "q": "Which children may be eligible for stem cell therapy?",
+            "a": "<p>Children with certain leukemias, lymphomas, high-risk or relapsed cancers, and some inherited blood or immune disorders may be considered for stem cell therapy. Eligibility depends on the diagnosis, disease stage, response to earlier treatment, organ function, availability of a suitable donor, and overall health. Each case is reviewed individually, and final decisions are made by a qualified pediatric transplant team after evaluating reports, imaging, and laboratory results.</p>"
+          },
+          {
+            "q": "Is stem cell therapy safe for children?",
+            "a": "<p>Stem cell therapy can be effective for selected children but does carry real risks that require close monitoring. Possible side effects include infections, bleeding, organ effects, and graft-versus-host disease in allogeneic transplants. Because the immune system is temporarily weakened, children are cared for in specialized units. Safety depends on the child's condition, transplant type, and center experience. Risks and benefits should always be discussed in detail with the treating oncology team.</p>"
+          },
+          {
+            "q": "How long does recovery take after a stem cell transplant?",
+            "a": "<p>Recovery after a pediatric stem cell transplant usually takes several months, though timelines vary for each child. The initial hospital stay often lasts a few weeks until blood counts recover and early engraftment is confirmed. Immune recovery can take six months to a year or longer, during which infection precautions and follow-up visits are important. The exact recovery path depends on the transplant type, complications, and the child's overall health and response.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Patients",
+        "items": [
+          {
+            "q": "How much does stem cell therapy for children cost?",
+            "a": "<p>The cost of pediatric stem cell therapy varies widely and cannot be fixed in advance. It depends on the transplant type, hospital, country, diagnosis, donor search, length of stay, supportive care, and any complications. Autologous transplants are often less costly than allogeneic ones, which may involve donor matching and longer care. Families should request a detailed, itemized estimate from the treating hospital, as final costs are confirmed only after full medical review.</p>"
+          },
+          {
+            "q": "How can international patients access stem cell therapy for a child?",
+            "a": "<p>International families can access pediatric stem cell therapy at specialized transplant centers, but access depends on hospital acceptance, medical record review, donor availability, visa approval, and the child's fitness to travel. The process usually begins with sharing diagnosis, reports, and treatment history for evaluation. A treatment plan and estimate follow if the child is considered suitable. Admission and outcomes are never guaranteed and remain subject to the treating team's assessment.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with stem cell therapy for children?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant pediatric specialists or transplant centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the child's diagnosis, stage, biomarkers, previous treatment, donor options, and overall health. CancerFax does not provide treatment or guarantee hospital admission, donor availability, or medical outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

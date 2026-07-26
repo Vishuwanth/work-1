@@ -1,0 +1,62 @@
+{
+  "pillar": "Oncolytic Virus Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "oncolytic-virus-vs-immunotherapy",
+  "route": "/insights/oncolytic-virus-vs-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Oncolytic Virus vs Immunotherapy",
+    "intro": "Oncolytic virus therapy and immunotherapy are two immune-based approaches to cancer treatment that are sometimes compared and sometimes combined. These answers explain how they differ, how they may work together, and what patients and caregivers should consider.",
+    "groups": [
+      {
+        "title": "Understanding the Difference",
+        "items": [
+          {
+            "q": "What is the difference between oncolytic virus therapy and immunotherapy?",
+            "a": "<p>Oncolytic virus therapy uses modified viruses to infect and destroy cancer cells directly, while immunotherapy trains the body's own immune system to recognize and attack tumors. Both aim to harness immunity, but they start from different points. Oncolytic viruses act locally within the tumor and can also trigger immune responses, whereas immunotherapy works more broadly across the body. The right approach depends on cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "What is oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy is a treatment that uses genetically modified or naturally occurring viruses to selectively infect and kill cancer cells. These viruses replicate inside tumor cells, causing them to burst, while also alerting the immune system to attack remaining cancer. Talimogene laherparepvec (T-VEC) for melanoma is one approved example. Oncolytic virus therapy may be considered for selected patients, and suitability should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does immunotherapy work?",
+            "a": "<p>Immunotherapy works by helping the body's own immune system find and destroy cancer cells more effectively. Common types include checkpoint inhibitors, which release the natural 'brakes' on immune cells, and CAR T-cell therapy, which reprograms a patient's cells to target tumors. Its suitability depends on cancer type, biomarker profile, and previous treatment, and should be reviewed by a qualified oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How They Work Together and Who They Help",
+        "items": [
+          {
+            "q": "Can oncolytic viruses and immunotherapy be used together?",
+            "a": "<p>Yes, oncolytic viruses and immunotherapy are increasingly studied together because they may work in complementary ways. Oncolytic viruses can make 'cold' tumors more visible to the immune system, potentially improving how checkpoint inhibitors respond. Several clinical trials are exploring these combinations for melanoma and other cancers. However, combination therapy is not suitable for everyone, and eligibility depends on cancer type, stage, and specialist review by the treating medical team.</p>"
+          },
+          {
+            "q": "Which cancers are treated with oncolytic virus therapy?",
+            "a": "<p>Oncolytic virus therapy is currently approved mainly for advanced melanoma, with T-VEC used to treat skin and lymph node tumors. Researchers are studying it for other cancers, including brain, head and neck, bladder, and some solid tumors, largely within clinical trials. Availability outside melanoma is often limited to research settings. Whether it may be considered depends on cancer type, stage, previous treatment, and specialist review.</p>"
+          },
+          {
+            "q": "Is oncolytic virus therapy better than immunotherapy?",
+            "a": "<p>Neither oncolytic virus therapy nor immunotherapy is universally 'better'; each suits different situations. Immunotherapy has broader approval and is used across many cancer types, while oncolytic virus therapy is approved for fewer cancers and often works locally. In some cases, they are combined rather than compared. The most appropriate option depends on cancer type, stage, biomarker profile, and overall health, and should be decided by qualified specialists.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Safety, Access, and Support",
+        "items": [
+          {
+            "q": "What are the side effects of oncolytic virus therapy versus immunotherapy?",
+            "a": "<p>Oncolytic virus therapy often causes flu-like symptoms such as fever, chills, fatigue, and reactions at the injection site, which are usually temporary. Immunotherapy can trigger immune-related side effects that may affect the skin, thyroid, lungs, liver, or bowel, and these sometimes require medical management. Side effects vary between patients and treatments. Any symptoms should be reported promptly, and treatment decisions should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with oncolytic virus vs immunotherapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Whether oncolytic virus therapy, immunotherapy, or a combination may be considered is always decided by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. This support helps patients and caregivers plan care with clarity.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

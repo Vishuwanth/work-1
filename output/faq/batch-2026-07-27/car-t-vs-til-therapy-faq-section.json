@@ -1,0 +1,66 @@
+{
+  "pillar": "CAR-T Cell Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-vs-til-therapy",
+  "route": "/insights/car-t-vs-til-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About CAR-T vs TIL Therapy",
+    "intro": "CAR-T and TIL therapy are two forms of cell-based immunotherapy that use a patient's own immune cells to fight cancer, but they work differently and suit different cancer types. These FAQs explain how each treatment works, who may be eligible, and how international patients can explore their options.",
+    "groups": [
+      {
+        "title": "Understanding CAR-T and TIL Therapy",
+        "items": [
+          {
+            "q": "What is the difference between CAR-T and TIL therapy?",
+            "a": "<p>CAR-T therapy and TIL therapy are both cell-based immunotherapies, but they use different immune cells and target cancer in different ways. CAR-T therapy genetically engineers a patient's T cells to recognise a specific marker, mainly on blood cancers. TIL therapy expands tumour-infiltrating lymphocytes already found inside a solid tumour, without genetic engineering. The right choice depends on cancer type, stage, and specialist review by a qualified oncology team.</p>"
+          },
+          {
+            "q": "How does CAR-T cell therapy work?",
+            "a": "<p>CAR-T therapy works by collecting a patient's T cells and genetically modifying them to carry a chimeric antigen receptor (CAR) that targets a cancer marker such as CD19 or BCMA. The engineered cells are grown in a lab, then infused back to seek and destroy cancer cells. It is mainly used for selected blood cancers like leukaemia, lymphoma, and myeloma, and eligibility depends on prior treatment and overall health.</p>"
+          },
+          {
+            "q": "How does TIL therapy work?",
+            "a": "<p>TIL therapy works by extracting tumour-infiltrating lymphocytes—immune cells that have already moved into a solid tumour—from a surgically removed tumour sample. These cells are multiplied into large numbers in a laboratory and infused back into the patient, often after chemotherapy that prepares the body. TIL therapy is being studied mainly for solid tumours such as melanoma, and its suitability should be discussed with a specialist team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Cancer Types, and Safety",
+        "items": [
+          {
+            "q": "Which cancers are treated with CAR-T versus TIL therapy?",
+            "a": "<p>CAR-T therapy is mainly used for blood cancers, while TIL therapy is studied mostly for solid tumours. CAR-T is approved for selected cases of B-cell lymphoma, acute lymphoblastic leukaemia, and multiple myeloma. TIL therapy shows the most progress in advanced melanoma and is under investigation for other solid tumours. Actual eligibility depends on cancer type, stage, biomarker profile, previous treatment, and assessment by the treating oncology team.</p>"
+          },
+          {
+            "q": "Is CAR-T or TIL therapy better for solid tumors?",
+            "a": "<p>TIL therapy is generally more established than CAR-T for solid tumours, though both remain areas of active research. CAR-T has struggled against solid tumours because the target markers are harder to find and reach, while TIL uses immune cells already present inside the tumour. Neither is a guaranteed solution, and the better option for any patient depends on tumour type, prior therapy, and specialist evaluation.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of CAR-T and TIL therapy?",
+            "a": "<p>Both CAR-T and TIL therapy can cause serious side effects that need close monitoring in specialised centres. CAR-T may trigger cytokine release syndrome, neurological effects, and low blood counts. TIL therapy often involves prior chemotherapy and high-dose interleukin-2, which can affect blood pressure, organs, and immunity. Side effects vary by patient, and all risks should be discussed in detail with a qualified oncology team before treatment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Access, and International Support",
+        "items": [
+          {
+            "q": "How much do CAR-T and TIL therapy cost?",
+            "a": "<p>CAR-T and TIL therapy are among the most expensive cancer treatments, and costs vary widely by country and centre. Prices depend on the hospital, diagnosis, stage, required tests, treatment protocol, possible complications, and length of stay. Because both are complex cell therapies, quoted figures are only estimates and are not fixed. A detailed cost estimate should be confirmed with the treating hospital after a full medical review.</p>"
+          },
+          {
+            "q": "How can international patients access CAR-T or TIL therapy?",
+            "a": "<p>International patients can explore CAR-T or TIL therapy at specialised centres and clinical trials, but access is never guaranteed. Availability depends on hospital acceptance, medical record review, eligibility criteria, visa approval, travel fitness, and the patient's condition. Many options are offered through trials with strict inclusion and exclusion rules decided by investigators. Gathering complete medical reports and a second opinion helps a specialist team assess suitable pathways.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with CAR-T vs TIL therapy?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

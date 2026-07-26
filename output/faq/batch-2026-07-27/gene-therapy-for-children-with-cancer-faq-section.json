@@ -1,0 +1,66 @@
+{
+  "pillar": "Pediatric Cancer Advanced Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gene-therapy-for-children-with-cancer",
+  "route": "/insights/gene-therapy-for-children-with-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Gene Therapy for Children with Cancer",
+    "intro": "Gene therapy is an emerging approach for certain childhood cancers that modifies a patient's cells or genes to fight disease. These answers explain how it works, who may qualify, and what families should know.",
+    "groups": [
+      {
+        "title": "Understanding Gene Therapy in Childhood Cancer",
+        "items": [
+          {
+            "q": "What is gene therapy for children with cancer?",
+            "a": "<p>Gene therapy for children with cancer is a treatment that changes or reprograms cells or genes to help the body recognize and destroy cancer cells. In pediatric oncology, the most established form is CAR T-cell therapy, where a child's own immune cells are modified in a laboratory to target specific cancers such as certain leukemias. It is a specialized treatment offered at select centers and depends on the cancer type, stage, and overall health assessed by the treating oncology team.</p>"
+          },
+          {
+            "q": "How does gene therapy work for pediatric cancer?",
+            "a": "<p>Gene therapy works by adding, changing, or reprogramming genetic instructions inside cells so they can better fight cancer. In CAR T-cell therapy, immune cells are collected from the child, genetically engineered to recognize a cancer marker, multiplied in a lab, and returned to the body through an infusion. Other approaches aim to correct faulty genes or deliver cancer-fighting genes. The exact method depends on the cancer type and should be explained by a qualified pediatric oncology team.</p>"
+          },
+          {
+            "q": "Which childhood cancers may be treated with gene therapy?",
+            "a": "<p>Gene therapy is most established for certain blood cancers, particularly relapsed or refractory B-cell acute lymphoblastic leukemia (ALL) and some lymphomas, using CAR T-cell therapy. Research is ongoing for other pediatric cancers, including some solid tumors and brain tumors, mainly within clinical trials. Whether gene therapy may be considered depends on the specific diagnosis, biomarker profile, previous treatment, and specialist review, and final decisions rest with the treating medical team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Access",
+        "items": [
+          {
+            "q": "Who is eligible for gene therapy as a child cancer patient?",
+            "a": "<p>Eligibility for gene therapy depends on the cancer type, stage, prior treatments, and the child's overall health. It may be considered for selected children whose cancer has returned or has not responded to standard treatment, especially certain leukemias. Each case requires detailed evaluation of medical records, pathology, and biomarkers. Some options are available only through clinical trials with strict inclusion criteria, and suitability is ultimately determined by the treating pediatric oncology team.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of gene therapy for children?",
+            "a": "<p>Gene therapy can cause side effects that range from mild to serious and require close monitoring in specialized centers. With CAR T-cell therapy, children may experience cytokine release syndrome (a strong immune reaction causing fever and low blood pressure), neurological effects, and increased infection risk. Side effects vary by treatment and by patient. The medical team manages these carefully, and families should discuss the specific risks and safety measures with the treating oncology specialists.</p>"
+          },
+          {
+            "q": "Is gene therapy a cure for childhood cancer?",
+            "a": "<p>Gene therapy is not a guaranteed cure, but it has helped some children achieve remission when other treatments have failed. Results depend on the cancer type, how advanced it is, prior therapies, and how the individual child responds. Some children benefit significantly, while others may relapse or not respond. Gene therapy is one option within a broader treatment plan, and outcomes should always be discussed realistically with the treating pediatric oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, Countries, and Practical Support",
+        "items": [
+          {
+            "q": "How much does gene therapy for children with cancer cost?",
+            "a": "<p>The cost of gene therapy varies widely and can be substantial, depending on the treatment type, country, and hospital. Approved therapies like CAR T-cell treatment involve complex manufacturing, hospital stays, and monitoring, which affect the total price. Final cost depends on the diagnosis, stage, tests, protocol, possible complications, and length of stay. Families should request a detailed estimate from the treating hospital and confirm what support or coverage may be available.</p>"
+          },
+          {
+            "q": "Which countries offer gene therapy for pediatric cancer?",
+            "a": "<p>Gene therapy for children is available at select specialized centers in countries such as the United States, parts of Europe, China, India, and other regions with advanced oncology programs. Availability depends on regulatory approvals and whether the treatment is offered as standard care or within a clinical trial. Access for international patients depends on hospital acceptance, medical review, visa approval, and travel fitness, and should be planned with guidance from a qualified specialist team.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with gene therapy for children with cancer?",
+            "a": "<p>CancerFax helps families organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can help connect families with centers offering gene therapy or relevant clinical trials for childhood cancer. Treatment decisions are always made by the qualified pediatric oncology team after reviewing the child's diagnosis, stage, biomarkers, previous treatment, and overall health, and no outcome or enrollment is guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

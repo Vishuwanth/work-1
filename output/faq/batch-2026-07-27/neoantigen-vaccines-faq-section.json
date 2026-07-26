@@ -1,0 +1,66 @@
+{
+  "pillar": "Tumor Therapeutic Vaccines",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "neoantigen-vaccines",
+  "route": "/insights/neoantigen-vaccines",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Neoantigen Vaccines",
+    "intro": "Neoantigen vaccines are a personalized form of cancer immunotherapy designed around the unique mutations found in a patient's own tumor. These FAQs explain how they work, who may be suitable, and what patients and caregivers should know.",
+    "groups": [
+      {
+        "title": "Understanding Neoantigen Vaccines",
+        "items": [
+          {
+            "q": "What is a neoantigen vaccine?",
+            "a": "<p>A neoantigen vaccine is a personalized cancer immunotherapy that trains the immune system to recognize mutations unique to a patient's tumor. Neoantigens are abnormal proteins produced only by cancer cells, not healthy tissue. By targeting these markers, the vaccine aims to help T-cells find and attack cancer more precisely. It is an emerging, largely investigational approach, and its suitability depends on tumor type, mutation profile, and specialist review.</p>"
+          },
+          {
+            "q": "How do neoantigen vaccines work?",
+            "a": "<p>Neoantigen vaccines work by teaching the immune system to identify tumor-specific mutations and mount a targeted response. Doctors sequence the tumor and healthy DNA to find neoantigens, then design a vaccine—often mRNA or peptide-based—to present these targets to the immune system. This may stimulate T-cells to recognize and destroy cancer cells carrying those mutations. The overall effect varies between patients and continues to be studied in clinical trials.</p>"
+          },
+          {
+            "q": "How is a neoantigen vaccine different from a standard vaccine?",
+            "a": "<p>A neoantigen vaccine is personalized and therapeutic, while standard vaccines are usually preventive and identical for everyone. Traditional vaccines protect against infections before they occur, whereas neoantigen vaccines are made individually for a patient already diagnosed with cancer, based on their tumor's specific mutations. Rather than preventing disease, they aim to help the immune system fight existing cancer. Their role and benefit are still being defined through ongoing research.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Process, and Safety",
+        "items": [
+          {
+            "q": "Who is eligible for a neoantigen vaccine?",
+            "a": "<p>Eligibility for a neoantigen vaccine depends on cancer type, tumor mutation burden, overall health, previous treatment, and specialist assessment. Cancers with more mutations, such as melanoma or certain lung cancers, may generate more usable neoantigen targets. Because most vaccines are offered within clinical trials, patients must meet specific inclusion and exclusion criteria. Final eligibility is determined only after medical record review and evaluation by the treating oncology team.</p>"
+          },
+          {
+            "q": "How is a personalized neoantigen vaccine made?",
+            "a": "<p>A personalized neoantigen vaccine is made by analyzing a sample of the patient's tumor alongside normal tissue. Scientists sequence both to identify tumor-specific mutations, then use computer prediction to select the neoantigens most likely to trigger an immune response. A custom vaccine is then manufactured, which can take several weeks. Timelines, feasibility, and quality depend on tumor sample availability and laboratory capacity, and should be discussed with the medical team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of neoantigen vaccines?",
+            "a": "<p>Reported side effects of neoantigen vaccines are generally mild, but responses vary between individuals. Common effects may include injection-site reactions, fatigue, mild fever, or flu-like symptoms as the immune system activates. More serious immune-related reactions are uncommon but possible, particularly when combined with other immunotherapies. Because these vaccines are still investigational, the full safety profile is being studied, and any symptoms should be reported promptly to the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Trials, and Support",
+        "items": [
+          {
+            "q": "Are neoantigen vaccines available outside of clinical trials?",
+            "a": "<p>Neoantigen vaccines are mostly available through clinical trials rather than as routine approved treatment. Because they are personalized and still being evaluated for safety and effectiveness, access is generally limited to research studies at specialized cancer centers. Some combinations, such as with checkpoint inhibitors, are being tested in advanced trials. Availability depends on location, trial openings, and eligibility, and options should be reviewed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "How can international patients access neoantigen vaccine trials?",
+            "a": "<p>International patients may access neoantigen vaccine trials by first having their medical records reviewed against a study's eligibility criteria. Access depends on hospital acceptance, investigator assessment, tumor sample suitability, travel fitness, and visa approval, and enrollment is never guaranteed. Trials often have strict inclusion and exclusion rules. Patients typically need pathology reports, genomic testing, and imaging, and decisions rest with the treating and research teams after full evaluation.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with neoantigen vaccines?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. For neoantigen vaccine options, this may include locating suitable clinical trials and arranging genomic testing review. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

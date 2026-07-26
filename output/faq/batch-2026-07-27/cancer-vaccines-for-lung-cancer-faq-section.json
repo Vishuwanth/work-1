@@ -1,0 +1,66 @@
+{
+  "pillar": "Tumor Therapeutic Vaccines",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-vaccines-for-lung-cancer",
+  "route": "/insights/cancer-vaccines-for-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions About Cancer Vaccines for Lung Cancer",
+    "intro": "Cancer vaccines for lung cancer are an evolving area of immunotherapy that aims to help the immune system recognize and attack lung tumor cells. These answers explain how they work, who may benefit, and how patients can explore trial access.",
+    "groups": [
+      {
+        "title": "Understanding Cancer Vaccines for Lung Cancer",
+        "items": [
+          {
+            "q": "What are cancer vaccines for lung cancer?",
+            "a": "<p>Cancer vaccines for lung cancer are a form of immunotherapy designed to train the immune system to recognize and attack lung tumor cells. Unlike preventive vaccines, most are therapeutic and used in patients already diagnosed with lung cancer. They target specific tumor markers or mutations to trigger an immune response. Most remain investigational and are studied in clinical trials, so suitability depends on cancer type, stage, biomarkers, and specialist review.</p>"
+          },
+          {
+            "q": "How do cancer vaccines for lung cancer work?",
+            "a": "<p>Cancer vaccines for lung cancer work by exposing the immune system to tumor-related proteins or antigens, helping it identify cancer cells as threats. This may prompt T-cells to seek out and destroy tumor cells carrying those markers. Some vaccines use tumor antigens, peptides, or genetic material such as mRNA. They are sometimes combined with other therapies to strengthen the response. Effectiveness varies by patient and is still being evaluated in ongoing clinical trials.</p>"
+          },
+          {
+            "q": "What types of lung cancer vaccines are being studied?",
+            "a": "<p>Several types of lung cancer vaccines are being studied, including peptide vaccines, dendritic cell vaccines, mRNA vaccines, and tumor antigen-based vaccines. Some target specific mutations or proteins such as MAGE-A3, EGFR, or KRAS-related markers, while personalized neoantigen vaccines are tailored to an individual's tumor. Most are investigational and available mainly through clinical trials. Which type may be relevant depends on the tumor's biology, biomarker profile, and the treating oncology team's assessment.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Eligibility, Safety, and Effectiveness",
+        "items": [
+          {
+            "q": "Who may be eligible for a lung cancer vaccine?",
+            "a": "<p>Eligibility for a lung cancer vaccine depends on cancer type, stage, biomarker profile, previous treatment, and overall health. Because most vaccines are studied in clinical trials, each trial sets specific inclusion and exclusion criteria that must be met. Some may be considered for selected patients with certain tumor markers or after standard therapy. Final eligibility is confirmed only after medical record review and investigator assessment, and should be discussed with a qualified oncology team.</p>"
+          },
+          {
+            "q": "What are the possible side effects of lung cancer vaccines?",
+            "a": "<p>Possible side effects of lung cancer vaccines are often mild but can vary between patients. Common reactions may include injection-site pain, redness, swelling, fatigue, low-grade fever, or flu-like symptoms. Less commonly, immune-related effects involving organs may occur, especially when vaccines are combined with other immunotherapies. Because these treatments are still under study, safety is closely monitored in clinical trials. Any symptoms should be reported promptly to the treating medical team for evaluation and management.</p>"
+          },
+          {
+            "q": "Are cancer vaccines a proven treatment for lung cancer?",
+            "a": "<p>Cancer vaccines are not yet an established standard treatment for lung cancer and remain largely investigational. Research is ongoing, and some early results are encouraging, but their role is still being defined through clinical trials. They do not replace standard treatments such as surgery, chemotherapy, radiation, targeted therapy, or approved immunotherapy. Whether a vaccine may be considered depends on individual factors, and final treatment decisions should be made by the treating oncology team.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Access, Cost, and International Patients",
+        "items": [
+          {
+            "q": "How can international patients access lung cancer vaccine clinical trials?",
+            "a": "<p>International patients can access lung cancer vaccine clinical trials by first having their medical records reviewed to check possible eligibility against a trial's criteria. Access depends on hospital acceptance, investigator assessment, travel fitness, and visa approval, none of which can be guaranteed. Trials often have strict inclusion and exclusion requirements. Patients typically need diagnosis reports, imaging, pathology, and biomarker results, and should plan for travel, second opinions, and follow-up care with their oncology team.</p>"
+          },
+          {
+            "q": "How much do cancer vaccines for lung cancer cost?",
+            "a": "<p>The cost of cancer vaccines for lung cancer varies widely and is difficult to state as a fixed figure. Many are available only through clinical trials, where some costs may be covered while others are not. Final expenses depend on the hospital, country, diagnosis, stage, required tests, treatment protocol, length of stay, and any complications. Patients should request a detailed written estimate from the treating center before making travel or treatment decisions.</p>"
+          },
+          {
+            "q": "How does CancerFax help patients with cancer vaccines for lung cancer?",
+            "a": "<p>CancerFax helps patients organize medical reports, identify relevant specialists or treatment centers, estimate possible costs, and coordinate second opinions, appointments, travel, visa, and follow-up support. It can also help patients explore whether relevant clinical trials may be available. Treatment decisions are always made by the qualified oncology team after reviewing the patient's diagnosis, stage, biomarkers, previous treatment, and overall health. CancerFax does not guarantee trial enrollment, hospital admission, or specific outcomes.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}
