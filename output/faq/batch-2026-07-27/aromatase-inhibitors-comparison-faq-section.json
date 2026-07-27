@@ -1,0 +1,59 @@
+{
+  "pillar": "Aromatase Inhibitors: Letrozole, Anastrozole, and Exemestane Compared",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "aromatase-inhibitors-comparison",
+  "route": "/insights/aromatase-inhibitors-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between letrozole, anastrozole, and exemestane?",
+            "a": "<p>All three block the aromatase enzyme so your body makes far less oestrogen, but they do it in two different ways. Letrozole and anastrozole are non-steroidal drugs that attach reversibly to the enzyme. Exemestane is steroidal and disables the enzyme permanently. All three are taken as one tablet daily. In practice the drugs perform very similarly, and the choice often comes down to side effects and tolerance.</p>"
+          },
+          {
+            "q": "Is one aromatase inhibitor more effective than the others?",
+            "a": "<p>No aromatase inhibitor has been shown to be clearly better than the others for survival. Head-to-head trials such as FACE and MA.27 found letrozole, anastrozole, and exemestane gave similar disease-free and overall survival in early breast cancer. Letrozole suppresses oestrogen slightly more strongly in laboratory measures, but that has not translated into better outcomes. Your oncologist may still favour one based on your other medicines and health conditions.</p>"
+          },
+          {
+            "q": "Can I switch from one aromatase inhibitor to another if side effects are bad?",
+            "a": "<p>Yes, switching is common and often helps. Roughly half of women who stop one aromatase inhibitor because of joint pain tolerate a different one reasonably well, and exemestane is frequently tried after letrozole or anastrozole because it works through a different chemical structure. Switching usually does not reduce how well the treatment works. Discuss the change with your oncology team rather than stopping the tablet on your own.</p>"
+          },
+          {
+            "q": "Who can take aromatase inhibitors?",
+            "a": "<p>Aromatase inhibitors are for women whose breast cancer is hormone receptor-positive and who are past menopause, either naturally or through ovarian suppression or removal. They do not work properly in women whose ovaries are still producing oestrogen, so premenopausal women need ovarian suppression alongside them or tamoxifen instead. Men with breast cancer may also be prescribed them in selected cases. Eligibility depends on your hormone receptor status and menopausal status.</p>"
+          },
+          {
+            "q": "What are the most common side effects of aromatase inhibitors?",
+            "a": "<p>Joint stiffness and aching are the most common problems, affecting roughly one in three to one in two women, and they are the main reason people stop treatment. Hot flushes, vaginal dryness, fatigue, and bone thinning are also frequent. Exemestane can cause mild androgen-type effects such as slight hair thinning or acne. Most side effects are manageable, and reporting them early gives your team more chance to help.</p>"
+          },
+          {
+            "q": "How much bone loss do aromatase inhibitors cause?",
+            "a": "<p>Aromatase inhibitors typically reduce bone density by about 1-3% a year, faster than normal post-menopausal loss, and raise fracture risk while you take them. Doctors usually order a DEXA scan before starting and repeat it every one to two years. Calcium, vitamin D, and weight-bearing exercise help, and bone-protecting drugs such as zoledronic acid or denosumab may be added if your scan shows significant loss.</p>"
+          },
+          {
+            "q": "Will the joint pain go away, and what helps?",
+            "a": "<p>Joint pain usually appears in the first few months, often peaks around six months, and eases for many women over the following year. Regular exercise has the strongest evidence, and both walking programmes and resistance training reduce stiffness in trials. Acupuncture, duloxetine, weight loss, and simple pain relief help some women. If pain stays severe after a fair trial, switching drugs or taking a short break may be options worth discussing.</p>"
+          },
+          {
+            "q": "How long do I need to take an aromatase inhibitor?",
+            "a": "<p>Five years is the standard course, though many women are advised to continue for a total of seven to ten years of hormone therapy. Longer treatment lowers the chance of the cancer returning but adds to bone loss and joint symptoms, so the balance depends on your recurrence risk, age, and how well you tolerate the tablet. Your oncologist should review this decision with you around the five-year mark.</p>"
+          },
+          {
+            "q": "How much do aromatase inhibitors cost in India or China?",
+            "a": "<p>All three drugs are available as low-cost generics, and in India a month's supply of letrozole or anastrozole commonly costs a few hundred rupees, with exemestane usually somewhat higher. Prices in China are similarly modest for generic versions. Actual cost depends on brand, dose, pharmacy, and any insurance cover. CancerFax can help you check availability and typical local pricing, though prescribing decisions stay with your oncology team.</p>"
+          },
+          {
+            "q": "Can I take an aromatase inhibitor if I am still having periods?",
+            "a": "<p>Not on its own. Aromatase inhibitors do not block oestrogen made by working ovaries, so taking one while you are still menstruating can leave oestrogen levels uncontrolled. Premenopausal women are usually offered tamoxifen, or an aromatase inhibitor combined with ovarian suppression using injections such as goserelin. Chemotherapy can also stop periods temporarily, so your team may check hormone blood levels before deciding which approach suits you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

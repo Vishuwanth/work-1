@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is SRS and How Is It Different from Regular Radiation?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-stereotactic-radiosurgery-srs",
+  "route": "/insights/what-is-stereotactic-radiosurgery-srs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is stereotactic radiosurgery (SRS) in plain terms?",
+            "a": "<p>SRS is a non-surgical radiation treatment that delivers a single, very high dose of radiation to a small target with sub-millimetre precision. Hundreds of weak beams converge from different angles, so the tumour receives an intense dose while the healthy tissue around it receives very little. It is used most often in the brain and spine. Most patients go home the same day and return to normal activity within a day or two.</p>"
+          },
+          {
+            "q": "How is SRS different from the regular radiation I've heard about?",
+            "a": "<p>Regular radiation spreads a moderate dose over 20 to 35 daily sessions across a wider area, while SRS concentrates a much larger dose into one session aimed at a target usually under 3 to 4 cm. The dose falls away sharply at the edge of the tumour, which is why nearby healthy brain is largely spared. Conventional radiation is often still preferred when disease is widespread or poorly defined on imaging.</p>"
+          },
+          {
+            "q": "Is SRS actual surgery? Will I be cut open?",
+            "a": "<p>No. Nothing is cut and no incision is made. The word radiosurgery describes the sharp, surgery-like precision of the radiation dose, not an operation. You lie still on a treatment couch while a machine moves around you, awake and without general anaesthesia. Some systems use a lightweight head frame fixed under local anaesthetic; others use a moulded mask. Treatment usually takes 30 to 90 minutes from start to finish.</p>"
+          },
+          {
+            "q": "How many SRS sessions will I need?",
+            "a": "<p>SRS is usually a single session. When a tumour is larger or sits close to the optic nerves or brainstem, the dose may be split across three to five sessions, which doctors call fractionated stereotactic radiotherapy, or SBRT when the target is outside the brain. Your radiation oncologist decides based on size, location and any radiation you have already had. The final number can change once your planning scan is reviewed.</p>"
+          },
+          {
+            "q": "What kinds of tumours and conditions can SRS treat?",
+            "a": "<p>SRS is used for brain metastases, acoustic neuromas, meningiomas, pituitary tumours, some recurrent gliomas, and non-cancerous conditions such as arteriovenous malformations and trigeminal neuralgia. Outside the brain, the same technique aimed at lung, liver, spine or prostate is usually called SBRT. It works best on small, well-defined targets that show clearly on MRI or CT. Whether it suits your case depends on tumour size, number and position.</p>"
+          },
+          {
+            "q": "Does SRS hurt?",
+            "a": "<p>The treatment itself is painless. You feel nothing while the radiation is delivered, much like having a scan. Any discomfort usually comes from lying still for a long stretch, or from the pins of a head frame, which are placed after local anaesthetic and can ache for a day. Mask-based systems avoid pins entirely. Tell the team beforehand if enclosed spaces are difficult for you, because mild sedation can often be arranged.</p>"
+          },
+          {
+            "q": "What side effects should I expect after SRS?",
+            "a": "<p>Most people have mild, short-lived effects: tiredness for a week or two, headache, mild nausea, and some hair thinning where the beams enter. A short course of steroids is often given to control swelling around the treated area. A less common late effect is radiation necrosis, dead tissue that can appear months afterwards and may need treatment of its own. Risk depends on the dose, the site and the volume treated.</p>"
+          },
+          {
+            "q": "Is Gamma Knife better than CyberKnife or a standard LINAC machine?",
+            "a": "<p>No single platform is best for every patient. Gamma Knife is built specifically for the brain and is very well established for small brain targets. CyberKnife tracks movement and can reach targets in the spine, lung and elsewhere. Modern LINAC systems handle both and are more widely available. Results are broadly comparable in experienced hands, so the team's experience and your tumour's location usually matter more than the brand name.</p>"
+          },
+          {
+            "q": "How do I know if I'm eligible for SRS?",
+            "a": "<p>Eligibility usually depends on tumour size, generally under 3 to 4 cm, a limited number of lesions, a clear target on imaging, and being well enough to lie still for the session. Widespread disease, very large tumours, or earlier radiation to the same area may rule it out or change the plan. Only a radiation oncologist reviewing your scans can confirm this, and CancerFax can help arrange that review.</p>"
+          },
+          {
+            "q": "How much does SRS cost in India or China compared with home?",
+            "a": "<p>Costs vary widely by country, platform and the number of lesions treated, and centres in India and China are often considerably less expensive than hospitals in Western countries. A written quote should cover planning scans, the treatment itself and follow-up imaging. CancerFax can request itemised estimates from accredited centres, though what is actually appropriate for you remains a decision for your treating oncology team after they review your records.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

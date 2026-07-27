@@ -1,0 +1,59 @@
+{
+  "pillar": "Post-Ablation Syndrome: Why Fever and Fatigue After RFA Are Normal",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "post-ablation-syndrome",
+  "route": "/insights/post-ablation-syndrome",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is it normal to run a fever after radiofrequency ablation?",
+            "a": "<p>Yes, a low-grade fever in the first few days after RFA is normal and expected. Heat destroys tumour tissue, and your immune system releases inflammatory signals as it clears away the dead cells. Temperatures usually stay under 38.5°C and settle within a week. Doctors call this post-ablation syndrome. A fever that climbs higher than that, or that starts after day five, should be reported to your team promptly.</p>"
+          },
+          {
+            "q": "How long does post-ablation syndrome usually last?",
+            "a": "<p>Most people feel better within seven to ten days. Symptoms often peak on day two or three and then fade steadily. Fatigue is usually the last thing to go and can linger for two to three weeks, especially after a large ablation or after several tumours were treated in one session. If fever or malaise is still present beyond two weeks, your doctor may want scans to rule out infection.</p>"
+          },
+          {
+            "q": "What actually causes the fever and the tiredness?",
+            "a": "<p>Your body is clearing dead tissue, not fighting an infection. Ablation leaves behind a zone of destroyed tumour and some normal tissue, and immune cells release chemicals called cytokines while they break it down. Those same chemicals cause fever, body aches, nausea and deep tiredness, which is why it feels like flu. Larger ablation zones release more of them, so bigger treatments often bring stronger symptoms.</p>"
+          },
+          {
+            "q": "When should I stop waiting it out and call my doctor?",
+            "a": "<p>Call your team if your temperature goes above 38.5°C, lasts more than five days, or returns after you had already started improving. Also call for shaking chills, abdominal pain that spreads or worsens, vomiting that stops you drinking, yellowing of the eyes or skin, or breathlessness. These can point to bleeding, an abscess, or injury to a nearby organ, and they need same-day assessment.</p>"
+          },
+          {
+            "q": "Does getting a fever mean the ablation worked?",
+            "a": "<p>Not reliably. Post-ablation syndrome shows your body is clearing destroyed tissue, but having it or not having it does not predict whether the whole tumour was killed. Many people with complete ablations feel almost nothing afterwards. Only follow-up imaging, usually a contrast CT or MRI around four to six weeks later, can show whether living tumour remains at the edges of the treated area.</p>"
+          },
+          {
+            "q": "How is post-ablation syndrome treated?",
+            "a": "<p>Treatment is supportive rather than active. Paracetamol usually controls the fever and aches, and rest with steady fluid intake handles the rest. Antibiotics are not normally needed, because this is inflammation and not infection. Your team may add a short course of anti-nausea medication if eating is difficult. If simple measures are not helping and you still feel very unwell, ask to be reviewed rather than increasing painkillers yourself.</p>"
+          },
+          {
+            "q": "Can I take ibuprofen or other anti-inflammatory painkillers?",
+            "a": "<p>Ask your interventional radiologist before you do. Paracetamol is generally the safer default in the first days after RFA. Anti-inflammatories such as ibuprofen can raise bleeding risk soon after a needle procedure and may not suit people with reduced liver or kidney function, which is common in patients treated for liver tumours. Some teams do allow them later. The answer depends on your organ function and any blood thinners you take.</p>"
+          },
+          {
+            "q": "How many patients actually get these symptoms?",
+            "a": "<p>Somewhere between a third and two-thirds of patients get some degree of post-ablation syndrome, depending on the organ treated and how much tissue was ablated. It is more common after large liver or kidney ablations and after several lesions are treated in one sitting. Small ablations often cause nothing worse than a day of tiredness. Reported rates vary widely because mild cases frequently go unrecorded.</p>"
+          },
+          {
+            "q": "I travelled abroad for RFA. Will this delay my flight home?",
+            "a": "<p>Often yes, by a few days. Most centres in India and China keep patients nearby for about a week after ablation so that fever, pain and follow-up imaging can be checked before discharge. A flexible return ticket is worth the extra cost. CancerFax can help you understand a hospital's usual post-procedure stay when you are planning, though your treating team decides when you are fit to fly.</p>"
+          },
+          {
+            "q": "Is pain at the treatment site normal, and why does my shoulder hurt?",
+            "a": "<p>Yes, pain is expected. A dull ache under the ribs, or in the flank after kidney ablation, commonly lasts one to two weeks. Some people also feel referred pain in the right shoulder tip after liver ablation, because the diaphragm shares nerve supply with that area. It should ease day by day. Pain that sharply worsens, or comes with fever and a rigid, tender abdomen, needs urgent review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

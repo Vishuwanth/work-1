@@ -1,0 +1,59 @@
+{
+  "pillar": "Questions to Ask Before Cryoablation: A Complete Patient Checklist",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-before-cryoablation",
+  "route": "/insights/questions-before-cryoablation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What questions should I ask my doctor before cryoablation?",
+            "a": "<p>Ask five things: whether your tumour's size and location suit freezing, how many sessions you may need, what local control rate the centre sees for your cancer type, which complications are most likely, and how follow-up scans will be scheduled. Write the answers down during the visit. Bring a family member to listen, because most people remember only part of a consultation when the news is heavy.</p>"
+          },
+          {
+            "q": "How do I know if I am a candidate for cryoablation?",
+            "a": "<p>Eligibility usually depends on tumour size, how many tumours there are, and how close they sit to nerves, bowel, or large blood vessels. Many centres prefer lesions under about 4 cm that a needle can reach safely. Your general health and clotting status matter too. Only your treating team, after reviewing recent imaging, can confirm whether cryoablation is suitable in your case.</p>"
+          },
+          {
+            "q": "What should I ask about my doctor's experience with cryoablation?",
+            "a": "<p>Ask how many cryoablation procedures the interventional radiologist performs each year, how many were for your specific cancer type, and what their complication rate has been. Also ask whether your case will be discussed at a tumour board. Procedure volume often tracks with better outcomes in needle-based treatments, so these questions are fair, and experienced teams expect them rather than take offence.</p>"
+          },
+          {
+            "q": "How many cryoablation sessions will I need?",
+            "a": "<p>Many patients need only one session per tumour, but a second procedure is common if follow-up imaging shows residual disease at the edge of the treated zone. Ask your team how they make that call and what the retreatment rate is at that centre. The answer depends on tumour size, shape, and how well the ice ball covers a safety margin around it.</p>"
+          },
+          {
+            "q": "What risks and side effects should I ask about?",
+            "a": "<p>Ask about bleeding, infection, injury to nearby organs or nerves, and cryoshock, a rare whole-body reaction after large-volume freezing. For kidney or lung tumours, ask specifically about urine leaks or a collapsed lung. Most side effects are mild and short-lived, such as pain and bruising at the needle site, but risk varies with tumour location and should be discussed case by case.</p>"
+          },
+          {
+            "q": "How will we know whether the cryoablation worked?",
+            "a": "<p>Success is judged on imaging, not on how you feel afterwards. Ask when the first scan is due, usually a contrast CT or MRI around four to six weeks after the procedure, and what the team will look for. Enhancement at the treated margin can suggest residual tumour. Ask how long surveillance scans continue, since monitoring often runs for several years.</p>"
+          },
+          {
+            "q": "How long is recovery after cryoablation?",
+            "a": "<p>Most people go home the same day or after one night, and return to light activity within a few days. Ask about pain control, when you can drive, lift, or fly, and which symptoms should prompt an urgent call. Recovery is generally faster than open surgery, though it can take longer if several tumours are treated in a single session.</p>"
+          },
+          {
+            "q": "Does cryoablation replace surgery or chemotherapy?",
+            "a": "<p>Cryoablation is usually one part of a treatment plan, not a replacement for it. Ask whether it is being offered with curative intent, to control a single problem site, or to relieve pain from bone metastases. Also ask what happens if the tumour returns, and whether surgery or radiation would still be possible afterwards. That answer shapes every decision that follows.</p>"
+          },
+          {
+            "q": "What should I ask about cost, and about having cryoablation abroad?",
+            "a": "<p>Ask for a written estimate that separates the procedure, imaging, anaesthesia, hospital stay, and follow-up scans, and ask how the cost changes if a second session is needed. If you are considering India or China, also ask about visa timelines, interpreter support, and who manages your care once you fly home.</p><p>CancerFax can help you gather and compare these quotes, but your treating oncology team should approve any plan.</p>"
+          },
+          {
+            "q": "What imaging and tests do I need before cryoablation?",
+            "a": "<p>Expect recent cross-sectional imaging, usually a CT or MRI taken within about four to six weeks, plus blood counts, kidney function, and clotting tests. Ask whether a biopsy is still needed for a tissue diagnosis, and whether blood thinners must be paused and for how long. Ask who reviews these results, since planning the needle path depends on how current the scans are.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

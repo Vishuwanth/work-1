@@ -1,0 +1,59 @@
+{
+  "pillar": "Hyperthermia Chemosensitisation: How Heat Makes Chemotherapy Work Better: Drug-Heat Interactions",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hyperthermia-chemosensitisation",
+  "route": "/insights/hyperthermia-chemosensitisation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How does heat make chemotherapy work better?",
+            "a": "<p>Heat makes chemotherapy work better by changing both the tumour and the drug. Warming tissue to about 40–43°C widens blood vessels, so more drug reaches the tumour, and it makes cancer cell membranes more permeable so the drug gets inside. Heat also blocks the repair enzymes cells use to fix chemotherapy damage. The size of this benefit depends on the drug, the tumour, and how evenly the heat is delivered.</p>"
+          },
+          {
+            "q": "Which chemotherapy drugs work best with heat?",
+            "a": "<p>Platinum drugs such as cisplatin, oxaliplatin and carboplatin show the strongest heat synergy, along with alkylating agents like ifosfamide, melphalan and cyclophosphamide, plus mitomycin C and doxorubicin. Antimetabolites such as 5-FU and gemcitabine gain much less, because their action depends on the cell cycle rather than direct DNA damage. Your oncologist will choose the combination based on your tumour type and the regimen you are already receiving.</p>"
+          },
+          {
+            "q": "What temperature is used, and why not go hotter?",
+            "a": "<p>Chemosensitisation uses 40–43°C, held for 45 to 60 minutes. This range is warm enough to boost drug uptake and block DNA repair, but not hot enough to kill tissue outright. Above roughly 43°C the tumour's blood vessels can shut down, which actually reduces how much drug arrives. Higher temperatures also raise the risk of burns to skin and fat, so teams stay inside this therapeutic window.</p>"
+          },
+          {
+            "q": "Does it matter whether I get the heat before, during or after chemo?",
+            "a": "<p>Timing matters a great deal. The strongest effect comes when heat and drug overlap, so most centres start the infusion shortly before or during the heating session. Separating them by more than an hour or two weakens the synergy, and by several hours it can disappear. For platinum drugs the overlap is especially important. Your team will build the schedule around your drug's half-life and your infusion times.</p>"
+          },
+          {
+            "q": "Does hyperthermia mean I can take a lower dose of chemotherapy?",
+            "a": "<p>Not usually. Hyperthermia is normally added to your standard chemotherapy dose to make it more effective, not to replace part of it. In some settings, such as heated chemotherapy delivered directly into the abdomen, the drug stays local and body-wide exposure is lower. Any dose change is a decision for your treating oncologist, who will weigh your organ function, previous cycles, and how well you tolerate treatment.</p>"
+          },
+          {
+            "q": "Will hyperthermia make my chemotherapy side effects worse?",
+            "a": "<p>In most cases the usual chemotherapy side effects stay about the same, because the heat is aimed at the tumour rather than the whole body. The added problems are local: skin redness, blistering, pain or burns in fatty tissue, and discomfort from lying still. Some drugs, including doxorubicin and gemcitabine, can show more toxicity when heated. Tell your team immediately if you feel burning during a session.</p>"
+          },
+          {
+            "q": "Which cancers is heated chemotherapy used for?",
+            "a": "<p>It is used most often in cancers that can be reached by a heating device or a heated washout. Common examples include bladder, cervical, ovarian, peritoneal, gastric, colorectal, pancreatic, soft tissue sarcoma, head and neck, and chest wall recurrence of breast cancer. Deep tumours in the abdomen and pelvis can be treated with regional systems. Whether it suits your case depends on tumour location, depth, and your overall condition.</p>"
+          },
+          {
+            "q": "How many hyperthermia sessions will I need?",
+            "a": "<p>Most schedules run one or two sessions a week, timed to your chemotherapy cycles, for a total of six to twelve sessions. Each session lasts about 60 to 90 minutes once setup and cooling are included. Courses are often extended if scans show the tumour responding. The exact number depends on your regimen, the equipment at your centre, and how well you tolerate the heat.</p>"
+          },
+          {
+            "q": "Can I get hyperthermia with chemotherapy in India or China?",
+            "a": "<p>Yes, regional and whole-body hyperthermia units are available at several large cancer centres in India and China, often alongside standard chemotherapy protocols. Availability varies by city and by the depth of tumour a given machine can treat. CancerFax can help you identify centres with working deep regional hyperthermia equipment and share your records for review. Acceptance for treatment always rests with the receiving hospital's oncology team.</p>"
+          },
+          {
+            "q": "How much does hyperthermia with chemotherapy cost?",
+            "a": "<p>In India, a single regional hyperthermia session commonly costs between USD 200 and USD 500, so a full course of eight to ten sessions may run USD 1,600 to USD 5,000, on top of your chemotherapy drugs. Chinese centres are often in a similar band. Insurance cover is inconsistent, as many insurers treat hyperthermia as adjunctive. Ask for a written estimate covering sessions, imaging, and hospital charges before you travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

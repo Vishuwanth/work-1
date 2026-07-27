@@ -1,0 +1,59 @@
+{
+  "pillar": "Hyperthermia Costs in China and India vs Western Programmes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hyperthermia-costs-china-india",
+  "route": "/insights/hyperthermia-costs-china-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does hyperthermia treatment cost in India?",
+            "a": "<p>A single hyperthermia session in India typically costs about USD 150 to USD 400, and a full course of eight to twelve sessions often falls between USD 1,500 and USD 4,000. The exact figure depends on whether the treatment is local, regional, or whole-body, and on the equipment the hospital uses. Prices move, so ask the treating centre for a written quote before you book travel.</p>"
+          },
+          {
+            "q": "What does hyperthermia cost in China?",
+            "a": "<p>Hyperthermia in China generally runs about USD 200 to USD 500 per session, so a standard course of eight to twelve sessions often totals USD 2,000 to USD 5,000. Deep regional and whole-body treatment sit at the higher end of that range, and pricing differs between large public cancer hospitals and private centres. Ask for an itemised estimate that states exactly how many sessions are included.</p>"
+          },
+          {
+            "q": "Why is hyperthermia so much cheaper in India and China than in the West?",
+            "a": "<p>The gap comes mainly from lower staffing, facility, and overhead costs, not from a different treatment. Salaries, hospital real estate, and administrative expenses are far lower in Asia, and machines are often used at higher patient volumes, spreading their cost further. Currency differences widen the gap again for Western patients. The devices themselves are frequently the same models used in European programmes.</p>"
+          },
+          {
+            "q": "How much does hyperthermia cost in Germany, the UK, or the United States?",
+            "a": "<p>Western programmes commonly charge EUR 250 to EUR 600 per session in Germany and USD 400 to USD 1,000 per session in the United States, so a full course can reach USD 5,000 to USD 12,000. German university centres offering deep regional hyperthermia alongside radiotherapy tend to be the most expensive. Because it is often self-pay, ask what the quoted price actually covers.</p>"
+          },
+          {
+            "q": "Does the lower price in Asia mean lower quality treatment?",
+            "a": "<p>Not automatically. Leading centres in India and China use the same device families found in European programmes, including capacitive, deep regional, and whole-body systems, and follow comparable heating and monitoring protocols.</p><p>What varies more is the experience of the team, thermometry practice, and how well hyperthermia is integrated with your radiotherapy or chemotherapy. Ask how many patients the unit treats each year before deciding.</p>"
+          },
+          {
+            "q": "Will my insurance pay for hyperthermia?",
+            "a": "<p>In most countries hyperthermia is not routinely reimbursed, and many patients pay out of pocket. Some German statutory and private insurers cover deep regional hyperthermia for specific indications such as soft tissue sarcoma or cervical cancer, usually with prior approval. Cover for treatment received abroad is rarer still. Check with your insurer in writing before travelling, because verbal assurances often do not hold.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how does that change the total?",
+            "a": "<p>Most protocols use two sessions per week for four to six weeks, giving roughly eight to twelve treatments timed around radiotherapy or chemotherapy cycles. That session count, more than the per-session price, drives your total bill. Some patients continue with maintenance sessions if their oncologist sees benefit. Confirm the planned number early, since a quote for six sessions is not comparable to one for twelve.</p>"
+          },
+          {
+            "q": "What costs should I budget for beyond the sessions themselves?",
+            "a": "<p>Budget for the treatment that hyperthermia accompanies, since it is almost never given alone. Concurrent chemotherapy or radiotherapy, scans, blood work, and oncologist consultations usually cost more than the hyperthermia itself.</p><p>Add flights, visa fees, accommodation for several weeks, and interpreter support. CancerFax can help you assemble a full cost picture from a hospital, though your treating oncologist should confirm the clinical plan.</p>"
+          },
+          {
+            "q": "Is whole-body hyperthermia more expensive than local treatment?",
+            "a": "<p>Yes. Local or superficial hyperthermia is the cheapest option, deep regional treatment costs more because it needs larger applicators and careful temperature monitoring, and whole-body hyperthermia is the most expensive since it often involves sedation, anaesthetic support, and longer monitoring. In India or China, a whole-body session may cost two to three times a local one. Your tumour site usually decides which type applies.</p>"
+          },
+          {
+            "q": "How do I get a reliable cost estimate before I travel?",
+            "a": "<p>Send your recent scans, pathology report, and current treatment summary to the hospital and ask for a written estimate that lists the number of sessions, the hyperthermia type, and any concurrent chemotherapy or radiotherapy. Vague per-session figures are the main reason budgets overrun. CancerFax can pass your records to centres in India and China for costed opinions, which your own oncology team should then review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

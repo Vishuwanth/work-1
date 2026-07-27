@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation for Breast Cancer and Breast Fibroadenoma",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-breast-cancer-fibroadenoma",
+  "route": "/insights/cryoablation-breast-cancer-fibroadenoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is cryoablation for breast cancer?",
+            "a": "<p>Cryoablation freezes a breast tumour to death using a thin needle-like probe guided by ultrasound. The probe creates an ice ball that reaches roughly minus 40 degrees Celsius, destroying tumour cells without cutting the breast open. It is done through a small skin nick under local anaesthetic, usually as a day case. The dead tissue is then slowly absorbed by the body over several months.</p>"
+          },
+          {
+            "q": "Can cryoablation replace surgery for my breast cancer?",
+            "a": "<p>For most breast cancers, cryoablation is not yet a proven replacement for surgery. It is best supported in small, early-stage, low-grade tumours under about 1.5 cm, and in women who cannot safely have an operation. Trial results such as ICE3 are encouraging, but long-term data are still maturing. Whether it can replace lumpectomy in your case depends on tumour size, biology and imaging, and should be decided by your surgical and oncology team.</p>"
+          },
+          {
+            "q": "Does cryoablation work for a breast fibroadenoma?",
+            "a": "<p>Yes, cryoablation is an established, FDA-cleared option for benign breast fibroadenomas. The lump is frozen in a single office visit lasting about 20 to 30 minutes, and it then shrinks steadily over the following year. Most lumps become difficult to feel within six to twelve months, and the breast keeps its normal shape because no tissue is cut out. Very large fibroadenomas may still be better treated surgically.</p>"
+          },
+          {
+            "q": "Is cryoablation painful?",
+            "a": "<p>Cryoablation is usually only mildly uncomfortable. The skin is numbed with local anaesthetic, and the ice itself acts as a natural painkiller, so most patients feel pressure and cold rather than sharp pain. You stay awake throughout and can go home the same day. Afterwards, expect a few days of tenderness, bruising and swelling, which simple painkillers normally control. Tell your team beforehand if you are anxious, as light sedation can often be added.</p>"
+          },
+          {
+            "q": "How long does the procedure take and how fast will I recover?",
+            "a": "<p>Most people are back to normal activity within one to three days. The procedure itself takes about 20 to 45 minutes, needs no stitches, and leaves a mark smaller than a grain of rice. You will usually wear a supportive bra and avoid heavy lifting or the gym for roughly a week. Because nothing is cut away, there is no drain, no general anaesthetic recovery and no long wound-healing period.</p>"
+          },
+          {
+            "q": "How big can my tumour be for cryoablation to be an option?",
+            "a": "<p>Cryoablation works best on breast cancers smaller than about 1.5 cm that sit clearly away from the skin and chest wall. Ideal candidates have a single, ultrasound-visible, hormone-receptor-positive, HER2-negative tumour with no spread to lymph nodes. Larger, multi-focal or aggressive tumours are generally treated surgically. Your eligibility depends on MRI and biopsy findings, so ask your breast surgeon to review your imaging before you count on this option.</p>"
+          },
+          {
+            "q": "What can go wrong after breast cryoablation?",
+            "a": "<p>Serious complications are uncommon. The usual effects are bruising, swelling, temporary numbness and a firm lump of frozen tissue that softens over months. Less often, patients get skin blistering or a small burn if the ice ball reaches the skin, bleeding, or infection at the needle site. The main clinical risk is incomplete freezing, which can leave cancer cells behind, so careful follow-up imaging is essential after treatment.</p>"
+          },
+          {
+            "q": "Will I still need radiation, hormone therapy or chemotherapy?",
+            "a": "<p>Usually yes. Cryoablation treats the tumour locally, so most women with breast cancer still need hormone therapy, and many need radiotherapy to the breast, exactly as they would after a lumpectomy. Chemotherapy depends on tumour biology and genomic testing rather than on how the lump was removed. For a fibroadenoma, no further cancer treatment is needed because the lump is benign, though routine follow-up scans are still sensible.</p>"
+          },
+          {
+            "q": "How much does breast cryoablation cost in India or China?",
+            "a": "<p>Breast cryoablation in India typically costs far less than in the United States or Europe, often in the range of a few thousand dollars including imaging and day-care charges, while Chinese centres price it similarly. The final figure depends on the hospital, the number of probes used and whether biopsy, MRI or hormone therapy is added. CancerFax can help you request written cost estimates from centres before you travel.</p>"
+          },
+          {
+            "q": "How do I find out if I am suitable, and where can I get it?",
+            "a": "<p>Ask a breast surgeon or interventional radiologist at a centre that already performs image-guided ablation, since experience matters more than equipment. Bring your ultrasound, mammogram, MRI and biopsy report, as suitability is judged mainly from these. In India and China, several tertiary cancer hospitals offer cryoablation for both fibroadenoma and selected early cancers. CancerFax can help you share these records for a second opinion, but the treating team makes the final call.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

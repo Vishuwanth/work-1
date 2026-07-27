@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing Cryoablation Through CancerFax: Patient Navigation Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-patient-navigation",
+  "route": "/insights/cryoablation-patient-navigation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoablation and how does it treat cancer?",
+            "a": "<p>Cryoablation kills a tumour by freezing it. A thin needle is guided into the tumour using CT or ultrasound, then cycled through extreme cold to destroy the cancer cells. It is used most often for small kidney, lung, liver, bone, prostate and breast tumours that a needle can safely reach. Most patients go home within a day or two. Whether it suits your cancer depends on tumour size, location and your general health.</p>"
+          },
+          {
+            "q": "Am I eligible for cryoablation?",
+            "a": "<p>Eligibility usually depends on the size, number and position of your tumours rather than the cancer type alone. Tumours under roughly 4 cm that sit away from major blood vessels, bowel and nerves are often the strongest candidates. Your scans, biopsy report and fitness for sedation all feed into the decision. Only an interventional radiologist who has reviewed your actual imaging can say whether cryoablation may be an option for you.</p>"
+          },
+          {
+            "q": "How can I find out if cryoablation is an option before I travel anywhere?",
+            "a": "<p>You can send your recent scans and reports for a remote review before booking any travel. Interventional radiology teams in India and China routinely assess CT, MRI or PET images shared electronically and reply with an opinion and a cost estimate. CancerFax can pass your records to those teams and relay their response. Any recommendation still needs to be confirmed by your own treating oncologist before you commit to a plan.</p>"
+          },
+          {
+            "q": "What records and scans do the doctors abroad need from me?",
+            "a": "<p>Send a recent CT, MRI or PET scan in DICOM form or on disc, the biopsy or histopathology report, a short summary of treatments you have already had, and current blood counts with kidney function. Imaging older than about eight weeks is often repeated after you arrive. A missing pathology report is the most common reason an assessment stalls, so gather that document first.</p>"
+          },
+          {
+            "q": "How much does cryoablation cost in India or China?",
+            "a": "<p>Cryoablation in India commonly runs between about 4,000 and 9,000 US dollars for a single session, and often somewhat higher in China. The figure moves with the number of tumours treated, how many probes are needed, and the hospital you choose. Imaging, hospital stay and follow-up scans are usually billed separately. Treat any figure you are given as an estimate that can change once the team examines you in person.</p>"
+          },
+          {
+            "q": "How long will I need to stay abroad for the procedure?",
+            "a": "<p>Plan for roughly ten to fourteen days. The procedure itself takes one to three hours, and many patients stay one night in hospital, but you also need time for arrival imaging, pre-anaesthetic checks and a follow-up scan before flying home. A second session or a complication can extend the stay, so keep your return booking flexible if you can.</p>"
+          },
+          {
+            "q": "Will it hurt, and how quickly will I recover?",
+            "a": "<p>The procedure is done under sedation or general anaesthesia, so you should feel nothing while it happens. Afterwards most people describe soreness or a dull ache at the needle site for a few days, usually controlled with simple painkillers. Many patients are walking the same evening and back to light routine within a week. Recovery is generally faster than open surgery because there is no large incision to heal.</p>"
+          },
+          {
+            "q": "What can go wrong with cryoablation?",
+            "a": "<p>The main risks are bleeding, infection, injury to nearby structures such as bowel, nerves or lung tissue, and incomplete destruction of the tumour. Lung and kidney procedures sometimes leave a small air or fluid collection that needs a drain. Serious complications are uncommon in experienced hands. Your team should walk you through the specific risks for your tumour's location before you sign consent.</p>"
+          },
+          {
+            "q": "If the tumour comes back, can cryoablation be repeated?",
+            "a": "<p>Yes, cryoablation can often be repeated, which is one of its practical advantages over radiation, where a given area has a lifetime dose limit. Follow-up scans at roughly three, six and twelve months are used to look for residual or new disease. Whether a repeat session makes sense depends on where the recurrence sits and how your cancer has behaved so far.</p>"
+          },
+          {
+            "q": "How soon can treatment be arranged, and what about the medical visa?",
+            "a": "<p>Once a hospital issues an invitation letter, Indian medical visas are often granted within one to two weeks, and treatment dates are commonly available two to four weeks after a confirmed assessment. Chinese timelines vary more widely. CancerFax can help with the invitation letter, appointment dates and airport pickup.</p><p>Visa approval always rests with the embassy, so build in buffer time and avoid booking non-refundable flights too early.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Getting a Cancer Second Opinion at Tata Memorial Centre Mumbai",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-second-opinion-tata-memorial-centre",
+  "route": "/guides/cancer-second-opinion-tata-memorial-centre",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How do I get a second opinion at Tata Memorial Centre in Mumbai?",
+            "a": "<p>Register as a new patient at Tata Memorial's outpatient department, either in person at Parel or through the hospital's online appointment system, and bring your complete medical file for review. A specialist in your disease group examines your reports and gives an independent opinion. Registration is usually done on weekday mornings. Timelines and available slots depend on your cancer type and the current patient load.</p>"
+          },
+          {
+            "q": "What documents and reports should I carry for the second opinion?",
+            "a": "<p>Carry every original report you have: biopsy and histopathology reports, the actual pathology slides and paraffin blocks, all scans on CD along with their printed reports, blood work, discharge summaries, and a written note of the treatment already given. Tata Memorial's pathologists often re-examine the slides themselves. Missing slides or blocks can delay the opinion, so collect them from your first hospital before you travel.</p>"
+          },
+          {
+            "q": "How much does a second opinion at Tata Memorial cost?",
+            "a": "<p>A second opinion at Tata Memorial is inexpensive compared with private hospitals, because the centre is government-aided and subsidises most services. Registration and consultation charges are modest, and many patients pay little beyond that for the review itself. Repeat scans, slide review, or extra tests are billed separately. Exact charges can change and may depend on your category of registration, so confirm current rates with the hospital.</p>"
+          },
+          {
+            "q": "Can I get a Tata Memorial second opinion online without travelling to Mumbai?",
+            "a": "<p>Yes, Tata Memorial offers teleconsultation for many patients, so you can often get an initial opinion without travelling. You upload or email your reports, scans, and pathology details in advance, and a specialist reviews them during a scheduled video or phone consultation. Some cases still need a physical examination or fresh slide review in Mumbai. Availability of remote slots depends on the department and your diagnosis.</p>"
+          },
+          {
+            "q": "How long will it take to get an appointment and the opinion itself?",
+            "a": "<p>Most patients get seen within a few days to two weeks, though the first registration visit itself can take a full day because of the volume of patients. If your case goes to a multidisciplinary tumour board, the final written opinion may take a week or more. Waiting times vary widely by disease group and season, so plan your stay in Mumbai with some flexibility.</p>"
+          },
+          {
+            "q": "Will Tata Memorial re-read my biopsy slides or repeat my scans?",
+            "a": "<p>Tata Memorial routinely re-reviews outside pathology slides and blocks in its own laboratory, and this review changes the diagnosis or the cancer subtype in a meaningful number of cases. Scans are often accepted if they are recent and of good quality, but poor images may be repeated. Additional molecular or immunohistochemistry testing may be advised. What gets repeated depends on the specialist's assessment of your file.</p>"
+          },
+          {
+            "q": "Is a second opinion worth it if my doctor has already started treatment?",
+            "a": "<p>A second opinion is still worth getting, and it is most useful before a major, hard-to-reverse step such as surgery, stem cell transplant, or a long chemotherapy course. Reviews at high-volume centres like Tata Memorial sometimes alter the stage, the drug choice, or the order of treatment. Getting it quickly matters more than getting it perfectly. Discuss any proposed change with your current oncologist before stopping treatment.</p>"
+          },
+          {
+            "q": "Can international patients get a second opinion at Tata Memorial?",
+            "a": "<p>Yes, international patients are seen at Tata Memorial, usually through the hospital's international patient desk, and many begin with a remote review before travelling. You will need a medical visa, translated reports where relevant, and originals of your pathology material. CancerFax can help you assemble and forward records to the right department. Visa timelines, appointment availability, and treatment eligibility all depend on your individual case.</p>"
+          },
+          {
+            "q": "How often does a second opinion actually change the treatment plan?",
+            "a": "<p>A second opinion changes something important in a meaningful minority of cases, most often the exact cancer subtype, the stage, or the choice and order of drugs. Smaller adjustments are more common than a complete reversal. Even when the original plan is confirmed, most families find the reassurance worth the trip. Whether your own plan changes depends on your diagnosis and how complete the first workup was.</p>"
+          },
+          {
+            "q": "If I take a second opinion at Tata Memorial, can I also be treated there or join a trial?",
+            "a": "<p>You can usually continue treatment at Tata Memorial after a second opinion, and the centre runs a large number of clinical trials across cancer types. Trial entry depends on strict criteria such as your stage, prior treatment, and organ function, so not everyone qualifies. Bed and surgery waiting lists can be long. Ask the treating team directly whether an open trial or a treatment slot may suit your case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

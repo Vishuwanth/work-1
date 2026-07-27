@@ -1,0 +1,59 @@
+{
+  "pillar": "Repeat TACE: When to Retreat, When to Switch, and When to Stop",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "repeat-tace-when-to-retreat",
+  "route": "/insights/repeat-tace-when-to-retreat",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How many times can I have TACE?",
+            "a": "<p>Most people have two to four TACE sessions, though there is no fixed upper limit. Retreatment depends on whether the tumour still takes up the chemotherapy-carrying particles, how well your liver recovers between sessions, and your overall fitness. Some patients benefit from a fifth or sixth session; others should stop after two. Your interventional radiologist and oncologist decide session by session, using imaging and blood tests rather than a set number.</p>"
+          },
+          {
+            "q": "How long should I wait between TACE sessions?",
+            "a": "<p>Repeat TACE is usually scheduled four to eight weeks after the previous session, once your liver function and blood counts have recovered. Doctors do not retreat on a calendar alone. They order a contrast CT or MRI first, and only proceed if viable tumour remains and your bilirubin, albumin and platelet counts are acceptable. If your liver is still inflamed or your appetite has not returned, the next session may be delayed.</p>"
+          },
+          {
+            "q": "What does it mean if my doctor says I am TACE refractory?",
+            "a": "<p>TACE refractory means the tumour keeps growing or new tumours keep appearing despite two well-performed sessions. The usual definition is inadequate tumour response after two consecutive TACE treatments to the same lesion, new liver lesions, vascular invasion, spread outside the liver, or a rising tumour marker. Reaching this point does not mean treatment is over. It usually means the next step should be systemic therapy rather than a third embolisation.</p>"
+          },
+          {
+            "q": "When should I switch from TACE to drug treatment?",
+            "a": "<p>Most guidelines advise switching once TACE has failed twice, or when the tumour invades a portal vein branch or spreads beyond the liver. At that stage, drug treatment reaching the whole body often works better than another local procedure. Options include immunotherapy combined with an anti-angiogenic drug, or a targeted tablet such as lenvatinib. Your suitability depends on liver function and other health conditions, so the choice is individual.</p>"
+          },
+          {
+            "q": "Does having TACE again damage my liver?",
+            "a": "<p>Each TACE session damages some healthy liver tissue alongside the tumour, and the effect adds up. Repeated sessions can push a Child-Pugh A liver towards Child-Pugh B or C, causing jaundice, fluid in the abdomen or confusion. This is why doctors track bilirubin, albumin and clotting at every visit. If your liver reserve is falling, stopping TACE often protects you better than continuing, because poor liver function also blocks access to systemic drugs.</p>"
+          },
+          {
+            "q": "How do doctors know whether my last TACE actually worked?",
+            "a": "<p>A contrast CT or MRI about four to six weeks after each session shows whether it worked. Radiologists look for loss of arterial enhancement inside the tumour, which means the tissue is dead, rather than simple shrinkage. A tumour can stay the same size and still be fully treated. Residual enhancement at the edge suggests live tumour and may justify another session targeting that specific area.</p>"
+          },
+          {
+            "q": "When is it right to stop TACE altogether?",
+            "a": "<p>Stopping TACE is the right choice when your liver can no longer tolerate it, when the disease has spread outside the liver, or when your performance status has declined too far for any active treatment. Stopping embolisation is not the same as stopping care. Many patients move to systemic therapy, a clinical trial, or supportive care focused on pain, appetite and fluid control. Discuss the goal of each option with your oncologist.</p>"
+          },
+          {
+            "q": "Will the second or third session feel worse than the first?",
+            "a": "<p>Post-embolisation syndrome, meaning fever, nausea and right-sided pain for two to five days, is common after every session, and repeat sessions are not usually worse. What often grows is fatigue and recovery time, especially if liver function has dipped. Tell your team if pain lasts beyond a week, if you develop chills, or if you become confused, since these can signal infection or liver decompensation needing urgent assessment.</p>"
+          },
+          {
+            "q": "Can repeat TACE make me eligible for surgery or a transplant?",
+            "a": "<p>Yes, repeat TACE is often used to shrink tumours enough for surgery or a liver transplant, a strategy called downstaging. It is also used as a bridge to keep tumours controlled while you wait on a transplant list. Success depends on tumour number, size and response, and transplant eligibility rules differ by country and centre. Ask your team early whether downstaging is a realistic goal for your particular case.</p>"
+          },
+          {
+            "q": "I want repeat TACE abroad. What should I send before I travel?",
+            "a": "<p>If you are considering repeat TACE in India or China, send your latest scans, liver blood tests and previous procedure reports for review before you travel, because retreatment decisions rest on imaging more than on history. CancerFax can help arrange a review of these records with interventional radiology teams at centres abroad and give an indicative cost estimate. Any final plan still depends on assessment by the treating team on arrival.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

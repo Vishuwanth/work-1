@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT Treatment Costs in China and India: What Patients Pay and What Is Included",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-treatment-cost",
+  "route": "/insights/pdt-treatment-cost",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does photodynamic therapy cost in India?",
+            "a": "<p>Photodynamic therapy in India usually costs between USD 1,200 and USD 4,000 per session, depending on the tumour site and the photosensitiser used. Skin lesions treated with topical agents sit at the lower end, while endoscopic PDT for oesophageal or lung tumours costs more because it needs theatre time and anaesthesia. Most patients need one to three sessions. Final pricing depends on the hospital and your confirmed treatment plan.</p>"
+          },
+          {
+            "q": "How much does PDT cost in China?",
+            "a": "<p>PDT in China generally costs between USD 2,000 and USD 6,000 per session, with most centres quoting a package that covers the photosensitiser, the laser session and a short hospital stay. Prices are higher in Beijing, Shanghai and Guangzhou than in provincial hospitals. Costs may rise if the tumour needs bronchoscopic or endoscopic delivery. Quotes are usually confirmed only after your scans and pathology are reviewed.</p>"
+          },
+          {
+            "q": "What is actually included in a PDT treatment package?",
+            "a": "<p>A typical PDT package covers the photosensitiser drug, the laser or light delivery session, the doctor's fee, and day-care or short inpatient stay. Most packages also include the pre-treatment consultation and one follow-up review. Scans, biopsies, anaesthesia and repeat sessions are often billed separately. Ask for the inclusion list in writing before you travel, because what counts as included varies between hospitals and can change with your final plan.</p>"
+          },
+          {
+            "q": "Why is PDT so much cheaper in India than in the US or Europe?",
+            "a": "<p>PDT costs less in India mainly because hospital overheads, staff salaries and drug pricing are lower, not because the equipment or protocols are different. Many Indian centres use the same photosensitisers and laser systems approved in Western countries. Patients often pay 60 to 80 percent less for the same procedure. Savings can shrink once flights, accommodation and a longer stay for follow-up are added in.</p>"
+          },
+          {
+            "q": "How many PDT sessions will I need, and how does that change the cost?",
+            "a": "<p>Most patients need one to three PDT sessions, and each session is usually billed separately. Early skin cancers often clear after one or two treatments, while oesophageal, lung or bile duct tumours may need repeat sessions every few months. Budget for at least two sessions when planning your trip. Your oncologist can only confirm the number after seeing how the tumour responds to the first treatment.</p>"
+          },
+          {
+            "q": "What extra costs should I plan for beyond the treatment quote?",
+            "a": "<p>Plan for flights, a medical visa, accommodation, food, local travel and an interpreter, which together often add USD 1,500 to USD 4,000 for a two to three week stay in India or China. Pre-treatment scans, blood tests and biopsies are usually extra. You may also need to stay longer if a second session is scheduled. Ask the hospital for a written estimate covering the whole stay.</p>"
+          },
+          {
+            "q": "Does insurance cover photodynamic therapy?",
+            "a": "<p>Coverage depends on your insurer and whether PDT is approved for your cancer type. Some policies cover PDT for oesophageal and lung cancer but treat skin PDT as cosmetic. International policies rarely reimburse treatment taken abroad unless it is pre-authorised in writing. Ask your insurer for written confirmation before you book. Most patients travelling to India or China pay out of pocket and claim afterwards, which may not succeed.</p>"
+          },
+          {
+            "q": "India or China: which gives better value for PDT?",
+            "a": "<p>India is usually the cheaper option, while China offers a wider range of newer photosensitisers and more centres running PDT for lung and oesophageal tumours. India is often easier for English-speaking patients, and medical visas are quicker. The better choice depends on your cancer type, stage and how far you can travel. CancerFax can share cost estimates from both countries for your treating oncology team to review.</p>"
+          },
+          {
+            "q": "How do I get an accurate PDT cost estimate before I travel?",
+            "a": "<p>Send your recent scans, biopsy report and current medication list to the hospital; most centres return a written estimate within three to five working days. Ask specifically what is included, what is billed per session, and what happens if you need extra treatment. Get the quote in writing and confirm the currency. CancerFax can help forward your reports to PDT centres in India and China for costing.</p>"
+          },
+          {
+            "q": "Is cheaper PDT abroad lower quality?",
+            "a": "<p>A lower price does not automatically mean lower quality; it usually reflects lower running costs rather than weaker protocols. Check that the centre performs PDT regularly, uses an approved photosensitiser, and has an oncologist who manages your cancer type. Ask how many PDT cases they treat each year. Quality varies between hospitals in every country, so verify credentials rather than choosing on price alone.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

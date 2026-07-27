@@ -1,0 +1,59 @@
+{
+  "pillar": "External Beam Radiation Therapy (EBRT): Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "external-beam-radiation-therapy",
+  "route": "/treatments/external-beam-radiation-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is external beam radiation therapy, in plain terms?",
+            "a": "<p>External beam radiation therapy (EBRT) aims high-energy X-rays or particle beams at a tumour from outside the body, using a machine called a linear accelerator. Nothing is placed inside you. The beams damage cancer cell DNA so those cells cannot keep dividing, while nearby healthy tissue is spared as much as possible. Treatment is planned from a CT scan and given in short daily sessions over several weeks.</p>"
+          },
+          {
+            "q": "Does radiation treatment hurt?",
+            "a": "<p>No, the treatment itself is painless, and you feel nothing while the beams are on, much like having an X-ray taken. The hardest part for most patients is lying still in one position for 10 to 20 minutes. Side effects such as skin soreness or fatigue can build up over the weeks, but they come between sessions, not during them. Tell your radiation team about any discomfort.</p>"
+          },
+          {
+            "q": "How many radiation sessions will I need?",
+            "a": "<p>Most people receive between 5 and 35 sessions, usually once a day from Monday to Friday. The number depends on your cancer type, its stage, and whether radiation is the main treatment or is being added after surgery. Shorter hypofractionated schedules give a higher dose per session and can finish in one to three weeks. Your radiation oncologist will set the schedule that fits your case.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>Side effects depend on which part of the body is treated, and most are temporary. Fatigue is almost universal and often peaks in the final weeks. Skin in the treated area may redden, itch, or peel. Treating the pelvis can cause loose stools or bladder urgency, while head and neck treatment can cause mouth sores and taste changes. Most settle within weeks of finishing.</p>"
+          },
+          {
+            "q": "Will I be radioactive around my family?",
+            "a": "<p>No. With external beam radiation the beam passes through your body and leaves nothing behind, so you are not radioactive at any point. It is safe to hug your children, share a bed, and be around pregnant women or babies. This is different from brachytherapy or radioactive iodine, where a source is placed inside the body and short-term precautions may apply.</p>"
+          },
+          {
+            "q": "Is proton therapy better than IMRT for my cancer?",
+            "a": "<p>Neither is better for every cancer; it depends on where the tumour sits. Proton therapy stops at the target and delivers almost no dose beyond it, which can matter for tumours in children, near the brain stem, or close to the spinal cord. For many common cancers, modern IMRT gives comparable control at much lower cost. CancerFax can help you compare options at different centres, though your treating oncologist should make the final call.</p>"
+          },
+          {
+            "q": "Can I keep working during radiation treatment?",
+            "a": "<p>Many people keep working, especially in the first half of a course, because sessions are short and side effects build up gradually. Fatigue is the usual reason people cut back, and it often peaks in the last week or two and for a month afterwards. If your job is physically demanding, plan for lighter duties. Talk to your team early so leave can be arranged if needed.</p>"
+          },
+          {
+            "q": "How much does external beam radiation cost in India?",
+            "a": "<p>A full course of EBRT in India often costs between about USD 3,000 and 7,000 for IMRT or VMAT, with SBRT and proton therapy priced higher. The final figure depends on session count, technology, hospital, and whether scans and consultations are bundled in. CancerFax can help you gather written estimates from treating centres. Prices change, so confirm costs directly before you travel.</p>"
+          },
+          {
+            "q": "How soon will I know if the radiation worked?",
+            "a": "<p>Radiation keeps working for weeks after your last session, so the first response scan is usually done two to three months later. Scanning too early can mislead, because swelling and inflammation from treatment can look like remaining tumour. Symptom relief, such as less pain from bone metastases, often comes sooner. Your team will choose the scan timing that suits your cancer type and treatment goal.</p>"
+          },
+          {
+            "q": "Can I have radiation again if I already had it before?",
+            "a": "<p>In selected cases, yes. Re-irradiation depends on how much dose the surrounding organs already received, how long ago it was given, and how well that area recovered. Techniques such as SBRT and proton therapy can sometimes deliver a second course while sparing previously treated tissue. A radiation oncologist will need your original treatment plan and dose records before judging whether a repeat course is safe.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

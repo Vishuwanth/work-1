@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU for Pancreatic Cancer: Pain Relief and Local Tumour Control",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-for-pancreatic-cancer",
+  "route": "/insights/hifu-for-pancreatic-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can HIFU actually relieve my pancreatic cancer pain?",
+            "a": "<p>HIFU can reduce pancreatic cancer pain in many patients, often within a few days of treatment. Published studies report meaningful pain relief in roughly 60 to 80 percent of people treated, and some are able to lower their opioid doses. The heat destroys tumour tissue and the nerve endings that carry pain signals. Relief may fade over months, so repeat sessions are sometimes needed. Suitability depends on tumour position and your overall health.</p>"
+          },
+          {
+            "q": "Is HIFU a cure for pancreatic cancer?",
+            "a": "<p>HIFU is not a cure for pancreatic cancer. It is a local treatment that heats and destroys tumour tissue inside the pancreas, which can shrink the tumour and ease pain, but it does nothing about cancer cells that have already spread elsewhere. Most patients receive it alongside chemotherapy rather than instead of it. Doctors usually describe the goal as pain control and local tumour control, not clearing the disease.</p>"
+          },
+          {
+            "q": "How does HIFU work on a tumour deep inside the pancreas?",
+            "a": "<p>HIFU focuses ultrasound waves from outside the body onto a single point inside the tumour, much as a magnifying glass focuses sunlight. At that point the tissue heats above 60°C within seconds and dies, while the skin and organs the beam passes through are largely unharmed. The doctor moves the focal point across the tumour, treating it piece by piece under real-time ultrasound or MRI guidance.</p>"
+          },
+          {
+            "q": "Can I have HIFU if my pancreatic cancer is inoperable?",
+            "a": "<p>Many people with locally advanced, inoperable pancreatic cancer can still be considered for HIFU, because it needs no incision. Doctors check whether the tumour is clearly visible on ultrasound, whether bowel gas or bone blocks the beam path, and how well you are coping day to day. Widespread metastatic disease usually shifts the focus elsewhere.</p><p>CancerFax can help share your scans with HIFU centres, but your treating oncology team makes the final decision.</p>"
+          },
+          {
+            "q": "Will I be awake during HIFU, and does it hurt?",
+            "a": "<p>You are usually not awake during HIFU for pancreatic cancer. Most centres use sedation or general anaesthesia, because you must stay very still and the treatment itself can cause a deep, aching sensation in the upper abdomen. Afterwards some people feel soreness or warmth in the treated area, and mild skin redness where the beam entered. Ordinary painkillers usually handle this. Your anaesthetic plan depends on the centre and your general health.</p>"
+          },
+          {
+            "q": "How long does a HIFU session take, and how long is recovery?",
+            "a": "<p>A HIFU session for pancreatic cancer usually takes one to three hours, depending on tumour size and how clearly it can be seen on imaging. There is no incision, so many patients go home the same day or after one night in hospital. Most return to normal activity within a few days. Some centres plan two or three sessions spaced over several weeks, depending on how the tumour responds.</p>"
+          },
+          {
+            "q": "Can I have HIFU at the same time as chemotherapy?",
+            "a": "<p>Yes, HIFU is normally given alongside chemotherapy rather than instead of it. Chemotherapy treats cancer cells throughout the body, while HIFU works only on the tumour the beam can reach, so the two address different problems. Teams often time HIFU between chemotherapy cycles, once blood counts have recovered. Some evidence suggests heating may make tumours more responsive to drugs. Your oncologist decides the safest order and spacing for you.</p>"
+          },
+          {
+            "q": "What can go wrong with HIFU for pancreatic cancer?",
+            "a": "<p>The main risks are skin burns where the beam enters, inflammation of the pancreas, and injury to nearby structures such as the bowel, bile duct or major blood vessels. Serious complications are uncommon in experienced hands, and reported rates are lower than with open surgery. Milder effects include fever, abdominal pain and fatigue for a few days. Risk depends heavily on tumour location and how much HIFU experience the centre has.</p>"
+          },
+          {
+            "q": "Where can I get HIFU for pancreatic cancer?",
+            "a": "<p>HIFU for pancreatic cancer is offered at selected hospitals in China, where the technique was pioneered and is most widely used, and at a small number of centres in India and Europe. It is not standard care everywhere, and some hospitals offer it only inside clinical trials.</p><p>CancerFax can help you identify centres currently treating pancreatic tumours with HIFU. Availability and acceptance for treatment can change and are never guaranteed.</p>"
+          },
+          {
+            "q": "How much does HIFU for pancreatic cancer cost abroad?",
+            "a": "<p>HIFU for pancreatic cancer often costs roughly US$5,000 to US$12,000 per treatment course in China and India, usually far less than in Europe or the United States. The figure depends on the number of sessions, hospital stay, imaging and anaesthesia. Travel, accommodation and any chemotherapy given alongside it add more. Many insurers do not cover HIFU for this indication, so ask for a written estimate before committing.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Second Opinions for Blood Cancers: Ruijin Hospital and Peking University",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "second-opinion-blood-cancer-china",
+  "route": "/guides/second-opinion-blood-cancer-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can I get a second opinion on my blood cancer from a hospital in China?",
+            "a": "<p>Yes. Ruijin Hospital in Shanghai and the Peking University haematology centres in Beijing both review blood cancer cases for patients abroad, usually from scanned records rather than an in-person visit. You send pathology and bone marrow reports, flow cytometry, and genetic testing results, and a haematologist comments on the diagnosis and options. Turnaround often runs one to three weeks, and acceptance depends on how complete your records are.</p>"
+          },
+          {
+            "q": "What records do I need to send for a blood cancer second opinion?",
+            "a": "<p>Send the bone marrow biopsy and aspirate reports, flow cytometry, cytogenetics or FISH, and any molecular or next-generation sequencing panel. Add recent blood counts, imaging, and a summary of treatments already given with dates and doses. Pathology slides or blocks may also be requested for re-reading. Missing genetic results are the most common reason a review stalls, so gather these before you apply.</p>"
+          },
+          {
+            "q": "Why are Ruijin Hospital and Peking University known for blood cancers?",
+            "a": "<p>Ruijin Hospital is where the arsenic-plus-ATRA regimen for acute promyelocytic leukaemia was developed, a protocol now used worldwide. Peking University People's Hospital built one of the largest haploidentical transplant programmes anywhere, the approach often called the Beijing Protocol, which allows a half-matched family donor when no full match exists. Both handle high volumes in leukaemia, lymphoma and transplant, which is why families abroad ask them to review difficult cases.</p>"
+          },
+          {
+            "q": "Could a second opinion actually change my diagnosis?",
+            "a": "<p>Sometimes, yes. Blood cancer classification rests heavily on flow cytometry and genetic markers, and re-reading these can move a case between subtypes or shift risk grouping from standard to high. That matters because it can change whether transplant is advised. In many cases the original diagnosis is simply confirmed, and the value is reassurance. Any proposed change should be discussed with your treating haematologist before your plan is altered.</p>"
+          },
+          {
+            "q": "How much does a second opinion from these hospitals cost?",
+            "a": "<p>A remote written second opinion from a major Chinese haematology centre usually costs a few hundred US dollars, often in the 200 to 600 range, with pathology re-review or extra genetic testing charged on top. An in-person consultation costs more once travel, accommodation and repeat tests are counted. Prices vary by hospital and case complexity and change over time, so ask for a written quote stating exactly what the fee covers.</p>"
+          },
+          {
+            "q": "Do I have to travel to China to get the opinion?",
+            "a": "<p>No. Most blood cancer second opinions start remotely, with records reviewed and a written report or video call returned to you. Travel becomes relevant only if you decide to pursue treatment there, such as a haploidentical transplant or a CAR T-cell trial. Starting remotely lets you compare options without interrupting your current care, which matters when the disease is active and delay carries real risk.</p>"
+          },
+          {
+            "q": "Can a second opinion tell me if I qualify for CAR T-cell therapy in China?",
+            "a": "<p>A review can tell you whether your disease type, previous lines of treatment and organ function make you a plausible CAR T candidate, but it cannot confirm enrolment. Chinese centres run many CAR T trials in lymphoma, myeloma and leukaemia, each with its own criteria. Final eligibility depends on screening tests done on site and on whether that trial is still recruiting when you apply.</p>"
+          },
+          {
+            "q": "How long does the whole process usually take?",
+            "a": "<p>Expect roughly one to three weeks from sending complete records to receiving a written opinion, and sometimes faster when the case is urgent. Delays generally come from translation, missing genetic reports, or waiting for pathology slides to be shipped and re-cut. CancerFax helps families assemble and forward records to Ruijin, Peking University and other centres, while every clinical judgement stays with the reviewing haematologist and your own team.</p>"
+          },
+          {
+            "q": "Should I pause my current treatment while waiting for a second opinion?",
+            "a": "<p>No, not without your own doctor's agreement. Acute leukaemias and aggressive lymphomas can progress within weeks, so stopping chemotherapy to wait for an outside review may cost more than the review gains. Ask instead whether your next major decision, such as transplant or a change of regimen, can wait. Second opinions help most just before a decision point, not in the middle of a treatment cycle.</p>"
+          },
+          {
+            "q": "What if the Chinese hospital suggests something my doctor cannot offer?",
+            "a": "<p>Take the report back to your treating team and ask what can be arranged locally. Some suggestions, such as a different drug sequence or additional genetic testing, are often available at home. Others, like a haploidentical transplant using the Beijing Protocol or an early-phase trial, may require travelling. CancerFax can outline what each route involves, though the final decision rests with you and your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

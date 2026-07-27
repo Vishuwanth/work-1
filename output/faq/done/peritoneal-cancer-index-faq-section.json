@@ -1,0 +1,59 @@
+{
+  "pillar": "The Peritoneal Cancer Index (PCI): Understanding Your Score",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "peritoneal-cancer-index",
+  "route": "/insights/peritoneal-cancer-index",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the Peritoneal Cancer Index (PCI)?",
+            "a": "<p>The Peritoneal Cancer Index is a number from 0 to 39 that describes how much cancer has spread across the lining of your abdomen. Surgeons divide the abdomen and pelvis into 13 regions, score the largest tumour deposit in each from 0 to 3, then add the scores together. A higher number means more widespread disease, which usually makes complete surgical removal harder to achieve.</p>"
+          },
+          {
+            "q": "What counts as a low, medium or high PCI score?",
+            "a": "<p>Scores are usually grouped as low (roughly 1 to 10), intermediate (11 to 20) and high (above 20), though the exact cut-offs differ by cancer type and by centre. Lower scores generally mean the disease sits in fewer areas and can more often be removed completely. A high score does not automatically rule out treatment, but it does change which options your surgical team is likely to recommend.</p>"
+          },
+          {
+            "q": "What do the numbers 0 to 3 mean for each region?",
+            "a": "<p>Each of the 13 regions is scored by the size of the largest tumour deposit found there. A score of 0 means no visible disease, 1 means deposits up to 0.5 cm, 2 means deposits between 0.5 cm and 5 cm, and 3 means a deposit larger than 5 cm or several deposits that have joined together. The 13 region scores are then added to give the total.</p>"
+          },
+          {
+            "q": "Is my PCI worked out from a scan or during the operation?",
+            "a": "<p>The reliable PCI is the one measured during surgery, when the surgeon can see and feel every surface. CT and MRI scans can give a useful estimate beforehand, but they often miss small deposits and tend to understate the true score. Many teams also use diagnostic laparoscopy, a keyhole look inside the abdomen, to check the score before committing to a long operation. Estimates can differ between centres.</p>"
+          },
+          {
+            "q": "Does a high PCI score mean surgery is off the table?",
+            "a": "<p>Not necessarily. A high PCI makes complete removal of all visible disease less likely, and most centres become cautious above about 20, but the cut-off is not fixed. Where the disease sits matters as much as how much there is; extensive small-bowel involvement is often a bigger obstacle than a high number alone. Your surgeon weighs the score alongside your fitness, cancer type and response to chemotherapy.</p>"
+          },
+          {
+            "q": "How does my PCI affect whether I can have CRS and HIPEC?",
+            "a": "<p>PCI is one of the main factors deciding whether cytoreductive surgery with HIPEC is offered, because the aim is to leave no visible tumour behind. Lower scores are linked with better outcomes after this combined treatment. Eligibility also depends on your cancer type, previous treatment and general health, so decisions vary between centres. CancerFax can help you share your imaging and reports with peritoneal surface units for their assessment.</p>"
+          },
+          {
+            "q": "Does the same PCI score mean the same thing for every cancer?",
+            "a": "<p>No. The same number carries different weight depending on where the cancer started. In pseudomyxoma peritonei from an appendix tumour, even a PCI near the maximum can still be treated with surgery in specialist hands. In colorectal or gastric cancer, thresholds are much lower, often around 15 to 20 for colorectal and lower still for gastric. Your team interprets the score against your specific diagnosis.</p>"
+          },
+          {
+            "q": "Can my PCI score come down with chemotherapy?",
+            "a": "<p>Yes, it can. Chemotherapy given before surgery, sometimes with targeted or immune drugs, may shrink deposits enough to lower the score and bring borderline cases within reach of surgery. Doctors call this converting a patient to operable. Not everyone responds, and a repeat scan or laparoscopy is usually needed to confirm any change. Whether this route suits you depends on your cancer type and how it behaves.</p>"
+          },
+          {
+            "q": "Is PCI the only score my surgeon looks at?",
+            "a": "<p>No. The other number that matters is the completeness of cytoreduction, or CC score, recorded at the end of surgery. CC-0 means no visible disease was left, CC-1 means deposits under 2.5 mm remain, and higher grades mean larger residual tumour. Studies consistently show that achieving CC-0 or CC-1 has a stronger link to long-term outcome than the starting PCI alone. Both numbers are read together.</p>"
+          },
+          {
+            "q": "Should I get a second opinion on my PCI score?",
+            "a": "<p>A second opinion is often worth seeking, especially if your PCI was estimated from scans alone or if you were told surgery is not possible. Peritoneal surface malignancy units see these cases daily and may read the same images differently. CancerFax can arrange a review of your scans and pathology by such teams in India and China. Any final decision still rests with the surgeons who would operate.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

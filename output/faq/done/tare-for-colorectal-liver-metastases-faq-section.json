@@ -1,0 +1,59 @@
+{
+  "pillar": "TARE for Colorectal Liver Metastases: The SIRFLOX and FOXFIRE Trials",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-for-colorectal-liver-metastases",
+  "route": "/insights/tare-for-colorectal-liver-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TARE for colorectal cancer that has spread to the liver?",
+            "a": "<p>TARE, or transarterial radioembolisation, delivers tiny radioactive yttrium-90 beads straight into the arteries feeding liver tumours. Colorectal liver metastases draw most of their blood supply from the hepatic artery, so the beads lodge in and around the tumour and irradiate it from the inside while sparing most healthy liver tissue. An interventional radiologist performs it, usually alongside or after chemotherapy rather than instead of it.</p>"
+          },
+          {
+            "q": "What did the SIRFLOX trial actually show?",
+            "a": "<p>SIRFLOX randomised 530 patients with untreated colorectal liver metastases to first-line FOLFOX chemotherapy with or without yttrium-90 resin microspheres. It missed its main goal: progression-free survival anywhere in the body was almost identical, 10.7 versus 10.2 months. But progression inside the liver was delayed substantially, from 12.6 to 20.5 months. The treatment controlled liver disease well while disease elsewhere progressed on schedule.</p>"
+          },
+          {
+            "q": "Did FOXFIRE show that people live longer with TARE?",
+            "a": "<p>No. The combined analysis of SIRFLOX, FOXFIRE and FOXFIRE-Global pooled 1,103 patients and found median overall survival of 22.6 months with radioembolisation versus 23.3 months with chemotherapy alone. Serious side effects were more common in the radioembolisation group. This is why adding yttrium-90 to first-line chemotherapy for everyone is no longer recommended, even though liver control clearly improved.</p>"
+          },
+          {
+            "q": "If the trials were negative, why do doctors still offer TARE?",
+            "a": "<p>Because the trials tested TARE in the wrong setting, not necessarily in the wrong patients. Giving it upfront to everyone did not extend life, but the liver-control signal was real. It is now generally offered later, for liver-limited disease that has stopped responding to chemotherapy, where the liver is the problem most likely to shorten life. Whether it suits you depends on your scans, liver function and prior treatment.</p>"
+          },
+          {
+            "q": "Does TARE work better if my tumour started on the right side of the colon?",
+            "a": "<p>Possibly, but the evidence is not strong enough to rely on. A subgroup analysis of the pooled trials suggested people whose primary tumour began on the right side lived longer with radioembolisation, while left-sided patients did not benefit. This finding was exploratory and has never been confirmed in a trial designed to test it, so it may guide discussion rather than decide your treatment.</p>"
+          },
+          {
+            "q": "Am I likely to be eligible for TARE?",
+            "a": "<p>Candidates usually have liver-dominant metastases, reasonable liver function, good performance status and limited disease outside the liver. Before treatment you have a mapping angiogram and a scan measuring how much of the injection would leak to the lungs or stomach; too much shunting rules the procedure out. Eligibility is decided case by case by a multidisciplinary team, and a meaningful number of people are found unsuitable.</p>"
+          },
+          {
+            "q": "What side effects should I expect after treatment?",
+            "a": "<p>Most people get post-embolisation symptoms — tiredness, mild abdominal pain, nausea and a low-grade fever — lasting from days to a couple of weeks. Less commonly, stray beads cause stomach or duodenal ulcers, and radiation can injure the liver itself, which matters most after heavy prior chemotherapy. In the pooled trials, serious adverse events were more frequent when radioembolisation was added to chemotherapy.</p>"
+          },
+          {
+            "q": "Can TARE shrink my liver tumours enough for surgery?",
+            "a": "<p>Sometimes, though that is not the main reason it is given. SIRFLOX showed deeper tumour shrinkage and more complete responses in the liver when yttrium-90 was added, and a small number of patients later became suitable for surgery or ablation. Conversion rates were low overall, so this is better seen as a possible bonus than an expected outcome. Your surgical team decides whether resection is realistic.</p>"
+          },
+          {
+            "q": "How does TARE compare with ablation or SBRT for liver metastases?",
+            "a": "<p>They suit different situations. Ablation and stereotactic radiotherapy target a few discrete tumours precisely and can control small lesions very effectively. TARE treats a whole lobe or the whole liver at once, so it fits diffuse or numerous metastases that cannot be targeted one by one. Liver-focused teams often combine these tools rather than choosing one, based on the number, size and position of your lesions.</p>"
+          },
+          {
+            "q": "Where can I get TARE abroad, and what does it cost?",
+            "a": "<p>Yttrium-90 radioembolisation is available at selected liver centres in India, China, Europe and the United States, and costs vary widely with the number of sessions, the device used and how much workup is needed. Insurance rules also differ by country and indication. CancerFax can help you identify centres that perform the procedure and gather quotations, though your treating oncology team should confirm whether it is appropriate for you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

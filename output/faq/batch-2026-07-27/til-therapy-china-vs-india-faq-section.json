@@ -1,0 +1,59 @@
+{
+  "pillar": "China vs India for TIL Therapy: Which Is Better for Solid Tumours?",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "til-therapy-china-vs-india",
+  "route": "/guides/til-therapy-china-vs-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is TIL therapy actually available in China and India right now?",
+            "a": "<p>TIL therapy is available in China mainly through clinical trials at large cancer centres, while in India it remains largely experimental and offered at only a few research hospitals. China runs far more active cell therapy trials, so access is often faster there. Enrolment changes month to month, and CancerFax can check which centres are currently taking patients, though your treating oncology team decides whether TIL therapy suits your case.</p>"
+          },
+          {
+            "q": "Which is better for TIL therapy, China or India?",
+            "a": "<p>China is generally ahead for TIL therapy, with more open trials, more manufacturing capacity, and more solid tumour patients treated so far. India often works out better on cost, English-language communication, and shorter travel for families from South Asia and Africa. The right choice depends on your tumour type, how urgently you need treatment, and whether you qualify for a specific trial. Standard approved options should be weighed first.</p>"
+          },
+          {
+            "q": "How much does TIL therapy cost in China compared with India?",
+            "a": "<p>Inside a Chinese clinical trial, the cell product itself may cost little or nothing, with families paying for hospital stay, conditioning chemotherapy, travel, and living costs, often totalling roughly US$30,000 to US$60,000. Indian programmes generally quote lower hospital costs but have fewer TIL slots available. Prices vary widely between hospitals and can change without notice, so ask for a written, itemised estimate before booking anything.</p>"
+          },
+          {
+            "q": "Which solid tumours can TIL therapy treat?",
+            "a": "<p>TIL therapy is used mainly for advanced melanoma, and is being studied in lung, cervical, head and neck, colorectal, and some gynaecological cancers. It works best when the tumour already contains immune cells that can be harvested and grown in a lab. Not every solid tumour is suitable, and many patients who are screened turn out to be ineligible. A biopsy and your treatment history usually decide this.</p>"
+          },
+          {
+            "q": "How long does the whole TIL process take from start to finish?",
+            "a": "<p>Expect roughly four to eight weeks from tumour surgery to cell infusion. Surgeons remove a piece of tumour, the lab grows billions of immune cells over two to four weeks, and you then receive chemotherapy to prepare your body before the cells are returned to you. The hospital stay after infusion is often two to four weeks. Delays can happen if the cells do not grow well.</p>"
+          },
+          {
+            "q": "How long will we need to stay abroad, and can a family member come?",
+            "a": "<p>Plan for at least two to three months in the country, with one adult caregiver alongside you. There are two hospital phases, tumour collection and then the infusion admission, with waiting time in between while the cells are grown. Both China and India issue medical visas that cover an attendant.</p><p>Ask the hospital in writing how many visa invitation letters it will provide before you book flights.</p>"
+          },
+          {
+            "q": "What are the side effects of TIL therapy?",
+            "a": "<p>The hardest part is usually the chemotherapy given before the cells, which drops blood counts and raises infection risk for one to two weeks. After the infusion, IL-2 support can cause fever, low blood pressure, fluid build-up, and kidney strain. Most of these are managed in hospital and settle within weeks. Serious complications can occur, so treatment should only take place in a centre with intensive care on site.</p>"
+          },
+          {
+            "q": "Is TIL therapy approved, or is it still experimental?",
+            "a": "<p>One TIL product is approved in the United States for advanced melanoma, but in both China and India most TIL treatment is still given inside clinical trials or under special access rules. Approval status differs by country and shifts as regulators review new data. Ask any hospital directly whether what they are offering is an approved product, a registered trial, or an unapproved private programme, and get the answer in writing.</p>"
+          },
+          {
+            "q": "How do I find out if I qualify for a TIL trial abroad?",
+            "a": "<p>Trials usually need a solid tumour that can be safely biopsied or removed, disease that has progressed after standard treatment, reasonable organ and blood counts, and enough strength to walk and care for yourself. Many trials also set age limits. CancerFax can forward your recent scans, pathology report, and treatment summary to centres in China and India, though the final eligibility decision always rests with the treating oncology team.</p>"
+          },
+          {
+            "q": "Should I choose TIL therapy instead of CAR-T or immunotherapy drugs?",
+            "a": "<p>For most solid tumours, checkpoint immunotherapy drugs are tried first because they are approved, widely available, and far better studied. TIL therapy is usually considered after those stop working. CAR-T is used mainly for blood cancers and is rarely an option for solid tumours today. Your oncologist can compare these against your pathology report and past response, and a second opinion may help before you commit to travelling.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

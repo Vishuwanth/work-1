@@ -1,0 +1,59 @@
+{
+  "pillar": "TheraSphere vs SIR-Spheres: Which Y-90 Platform Is Used for Your Case?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "therasphere-vs-sir-spheres",
+  "route": "/insights/therasphere-vs-sir-spheres",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the main difference between TheraSphere and SIR-Spheres?",
+            "a": "<p>TheraSphere uses glass microspheres and SIR-Spheres uses resin microspheres, both carrying yttrium-90. Each glass sphere carries far more radiation, so far fewer are injected. Resin needs millions of spheres to deliver the same dose, which creates more of a blocking effect inside the tumour's blood vessels. Your interventional radiologist chooses based on tumour type, blood flow, and liver function. Availability may also depend on the hospital and country.</p>"
+          },
+          {
+            "q": "Which Y-90 platform is better for liver cancer (HCC)?",
+            "a": "<p>Neither is proven better overall; both are used for HCC and the choice usually comes down to your anatomy and the treatment plan. Glass TheraSphere is often preferred for radiation segmentectomy, where a small area gets a very high dose. Resin SIR-Spheres is often used for larger or multifocal disease. Ask your interventional radiologist which one their centre uses most and why.</p>"
+          },
+          {
+            "q": "Which one is used for colorectal cancer that has spread to the liver?",
+            "a": "<p>SIR-Spheres has the longer track record in colorectal liver metastases and carries approval for that use in many countries. TheraSphere is also used, and some centres prefer it when the tumour needs a high focal dose. Both are given alongside or after chemotherapy rather than instead of it. Eligibility depends on liver function, tumour burden, and prior treatment, so approval is decided case by case.</p>"
+          },
+          {
+            "q": "Does one platform have fewer side effects than the other?",
+            "a": "<p>Side effects are broadly similar, but the pattern can differ. Resin SIR-Spheres delivers more microspheres, so post-embolisation symptoms like abdominal pain, nausea, and fatigue may be somewhat more common. Glass TheraSphere is less embolic and is often better tolerated in patients with portal vein thrombosis. Serious problems such as radiation-induced liver disease or ulcers are uncommon with both when planning is careful. Your own risk depends on liver reserve and how much liver is treated.</p>"
+          },
+          {
+            "q": "Can I choose which Y-90 platform I get?",
+            "a": "<p>Usually not directly. The choice is made by the interventional radiologist based on your tumour, liver function, blood vessel mapping, and what the hospital stocks. Many centres carry only one platform. You can ask which one they use and why, and you can seek a second opinion if the reasoning is unclear. In many cases either platform gives a comparable result. CancerFax can share which centres offer Y-90, though your treating team decides suitability.</p>"
+          },
+          {
+            "q": "How much does Y-90 cost, and is one platform cheaper?",
+            "a": "<p>Costs vary widely by country and hospital rather than by brand. In India, Y-90 radioembolization often falls in the range of roughly 12,000 to 20,000 US dollars per treatment session, including workup and the mapping angiogram. Prices in China and Western countries can be higher. Resin cases sometimes cost more when several vials are needed. Always ask for a written estimate, as final costs depend on your case.</p>"
+          },
+          {
+            "q": "Why do I need a mapping angiogram before treatment?",
+            "a": "<p>The mapping angiogram, done one to two weeks before treatment, shows exactly where blood flows into your liver tumour. Doctors inject a test particle to measure how much would leak to the lungs or stomach, and they block off risky vessels. This step is required for both TheraSphere and SIR-Spheres. If the lung leak is too high, treatment may be adjusted or postponed. Results of this scan often decide which platform and dose are used.</p>"
+          },
+          {
+            "q": "How long does recovery take after Y-90?",
+            "a": "<p>Most people go home the same day or after one night, and return to normal activity within a week. Tiredness, mild fever, and abdominal discomfort are common for a few days and are called post-embolisation syndrome. Resin SIR-Spheres can cause slightly more of this. Scans at about three months show whether the tumour has responded. Recovery time may be longer if liver function was already poor.</p>"
+          },
+          {
+            "q": "Is Y-90 with either platform available in India and China?",
+            "a": "<p>Yes. Y-90 radioembolization is offered at several large cancer and liver centres in India and China, though not every hospital carries both brands. Some Chinese centres also use locally made yttrium-90 or holmium products. International patients usually need imaging, blood tests, and a liver function review before travel. CancerFax can help arrange these records, but eligibility is confirmed only after the centre reviews your case.</p>"
+          },
+          {
+            "q": "Can I have Y-90 more than once, or switch platforms?",
+            "a": "<p>Yes, in many cases. Y-90 can be repeated on the other lobe of the liver, or on the same area later, if liver function stays adequate. Switching between glass and resin between sessions is possible and sometimes done for practical reasons. Your team will check bilirubin, tumour response, and how much healthy liver remains. Repeat treatment depends on how well your liver recovered from the first round.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

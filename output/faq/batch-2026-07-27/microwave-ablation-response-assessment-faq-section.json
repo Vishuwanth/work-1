@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation Response Assessment: CT and MRI Criteria",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-response-assessment",
+  "route": "/insights/microwave-ablation-response-assessment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How do doctors know if my microwave ablation worked?",
+            "a": "<p>Success is judged on a contrast-enhanced CT or MRI scan: if no part of the treated tumour takes up contrast, the ablation is considered complete. Radiologists compare the new images with your pre-treatment scans, looking for any enhancing tissue at the edge of the ablation zone. Size alone is misleading, because the treated area often looks larger at first. Your radiologist and oncologist read these findings together before deciding anything further.</p>"
+          },
+          {
+            "q": "When will I have my first scan after microwave ablation?",
+            "a": "<p>Most centres do the first contrast-enhanced CT or MRI about four to six weeks after the procedure, once early inflammation has settled. Some teams also scan within 24 hours to check for obvious residual tumour or complications. Scanning too early can confuse the picture, because fresh swelling and blood around the ablation zone can mimic disease. Your timing may differ depending on the organ treated, your recovery, and local protocol.</p>"
+          },
+          {
+            "q": "Is CT or MRI better for checking my ablation?",
+            "a": "<p>Both work, and the better choice depends on the organ. Contrast-enhanced MRI is usually more sensitive in the liver and kidney, especially with diffusion-weighted sequences that help separate live tumour from dead tissue. CT is faster, cheaper, and often preferred for lung ablation or when metal implants or claustrophobia rule out MRI. Where possible you should be followed with the same method each time, so scans can be compared fairly.</p>"
+          },
+          {
+            "q": "Why does the treated area look bigger than my tumour on the scan?",
+            "a": "<p>That is expected, and it is usually a good sign. Microwave ablation deliberately destroys a margin of healthy tissue around the tumour, often five to ten millimetres, so the ablation zone should look larger than the original lesion. A zone that is not clearly bigger raises concern that tumour was missed at the edge. Over the following months this area typically shrinks and may leave only a small scar.</p>"
+          },
+          {
+            "q": "My report mentions a rim of enhancement. Should I worry?",
+            "a": "<p>A thin, smooth, even rim around the ablation zone in the first weeks is usually harmless. It reflects healing and inflammation, not cancer. The concerning pattern looks different: thick, lumpy, irregular, or crescent-shaped enhancement, especially if it grows on the next scan or sits exactly where the tumour was. Radiologists compare studies side by side before calling anything residual disease, and a short-interval repeat scan often settles the question.</p>"
+          },
+          {
+            "q": "What does residual tumour mean on my report?",
+            "a": "<p>Residual tumour means living cancer appears to have been left behind at the first follow-up scan, usually as enhancing tissue at the edge of the ablation zone. It is not the same as recurrence, which shows up later after a clean scan. Residual disease can often be treated with a second ablation session, and finding it early is exactly why that first scan matters so much.</p>"
+          },
+          {
+            "q": "What are mRECIST and LI-RADS, and why are they on my report?",
+            "a": "<p>These are scoring systems radiologists use so reports stay consistent between readers and between hospitals. mRECIST measures only the part of a tumour that still takes up contrast, rather than total size, which suits ablation and other liver-directed treatments. LI-RADS is a liver-specific system with a dedicated treatment-response category. You do not need to decode these yourself; ask your oncologist what your category means in practice.</p>"
+          },
+          {
+            "q": "How often will I need follow-up scans?",
+            "a": "<p>After the baseline scan, imaging is commonly repeated about every three months for the first year or two, then less often if everything stays clear. Blood markers such as AFP or CEA are often checked alongside. Schedules vary with cancer type, how many lesions were treated, and underlying liver or lung disease. CancerFax can help you organise follow-up imaging if you were treated abroad, though your treating team sets the schedule.</p>"
+          },
+          {
+            "q": "Can a scan tell the difference between scar tissue and cancer coming back?",
+            "a": "<p>In most cases yes, because dead ablated tissue does not take up contrast while living tumour does. The difficulty comes in the early weeks, when healing tissue can also enhance. When the picture is unclear, doctors may add MRI diffusion sequences, a PET-CT, a repeat scan six to eight weeks later, or occasionally a biopsy. Comparison across several scans over time remains the most reliable answer.</p>"
+          },
+          {
+            "q": "What happens if my scan shows the tumour has come back?",
+            "a": "<p>Recurrence after ablation is not the end of treatment. Depending on the size, number, and position of the lesions, options can include repeat microwave ablation, surgery, targeted radiotherapy such as SBRT, embolisation, or systemic drug therapy. Local recurrence at the ablation edge is often still treatable when caught small, which is the whole point of regular scanning. CancerFax can help you gather scans and reports for a second opinion.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Pembrolizumab (Keytruda) for Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pembrolizumab-for-cancer-treatment",
+  "route": "/insights/pembrolizumab-for-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is pembrolizumab (Keytruda) and how does it work?",
+            "a": "<p>Pembrolizumab, sold as Keytruda, is an immunotherapy that blocks a protein called PD-1 on your T cells, releasing the brake cancer uses to hide from your immune system.</p><p>It does not kill cancer cells directly. Instead it helps your own immune system recognise and attack them, which is why responses can take weeks to appear and may last long after treatment ends. The cancers it is approved for differ from country to country.</p>"
+          },
+          {
+            "q": "Which cancers is Keytruda approved to treat?",
+            "a": "<p>Keytruda is approved for more than fifteen cancer types, including melanoma, non-small cell lung cancer, head and neck cancer, Hodgkin lymphoma, bladder, kidney, oesophageal, cervical, triple-negative breast, and stomach cancer.</p><p>It is also approved for any advanced solid tumour that is MSI-high or has high tumour mutational burden, regardless of where the cancer started. Exact approvals differ between the United States, Europe, India, and China, so your oncologist will confirm what applies to you.</p>"
+          },
+          {
+            "q": "How is pembrolizumab given, and how long will I need it?",
+            "a": "<p>Keytruda is given as an intravenous drip, usually 200 mg every three weeks or 400 mg every six weeks, and each infusion takes about thirty minutes.</p><p>Most patients continue for up to two years if the cancer stays under control and side effects remain manageable. Some stop earlier, and others restart later if the cancer returns. Your medical team decides the schedule based on your cancer type and how you respond.</p>"
+          },
+          {
+            "q": "Do I need a PD-L1 test before starting Keytruda?",
+            "a": "<p>For many cancers, yes. A PD-L1 test on your tumour tissue helps predict whether Keytruda is likely to work, and some approvals require a minimum PD-L1 score.</p><p>Other patients qualify through MSI-high or mismatch repair deficient results instead. High PD-L1 does not guarantee a response, and low PD-L1 does not always rule treatment out, particularly when pembrolizumab is combined with chemotherapy. Your oncologist will read the test alongside your overall picture.</p>"
+          },
+          {
+            "q": "What are the side effects of Keytruda?",
+            "a": "<p>The most common side effects are tiredness, itching, rash, joint pain, diarrhoea, nausea, and reduced appetite, and most people tolerate pembrolizumab better than chemotherapy.</p><p>The serious risk is immune-related inflammation, where the activated immune system attacks healthy organs such as the lungs, bowel, liver, skin, or thyroid. These reactions can appear months after starting and often respond to steroids. Report new breathlessness, persistent diarrhoea, or yellowing skin to your team straight away.</p>"
+          },
+          {
+            "q": "How well does Keytruda actually work?",
+            "a": "<p>Results vary widely by cancer type, but in advanced lung cancer with high PD-L1, roughly one in three patients responds, and some stay in remission for five years or longer.</p><p>Pembrolizumab does not help everyone. Around half of patients see no benefit, and there is no way to know in advance which group you fall into. Scans after two or three cycles usually show whether the drug is working for you.</p>"
+          },
+          {
+            "q": "Can Keytruda be given together with chemotherapy?",
+            "a": "<p>Yes. Pembrolizumab is often combined with chemotherapy, and this pairing is now standard first treatment for many advanced lung, head and neck, oesophageal, stomach, and triple-negative breast cancers.</p><p>Chemotherapy can release tumour material that helps the immune system recognise the cancer, so the two often work better together than alone. Side effects add up, so your team weighs the extra benefit against your fitness, organ function, and personal priorities before recommending it.</p>"
+          },
+          {
+            "q": "How much does Keytruda cost in India or China?",
+            "a": "<p>A single Keytruda infusion typically costs far less in India than in the United States, and biosimilar and patient assistance programmes can reduce the bill further, though prices change often.</p><p>Total cost depends on how many cycles you need, whether chemotherapy is added, and hospital charges for scans and admissions. CancerFax can help you gather written cost estimates from hospitals in India and China so your family can compare before travelling.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for pembrolizumab treatment?",
+            "a": "<p>Pembrolizumab is available in India and China at major cancer centres, and international patients can usually start treatment within days of arriving with their scans, biopsy report, and biomarker results.</p><p>Practical planning matters more than availability. You may need several cycles over months, so visa duration, accommodation, and a local oncologist willing to follow your case all shape the plan. Access and eligibility depend on your cancer type and current health.</p>"
+          },
+          {
+            "q": "What happens if Keytruda stops working for me?",
+            "a": "<p>If the cancer grows again on Keytruda, your options usually include switching to chemotherapy, targeted therapy matched to a mutation, a different immunotherapy combination, or a clinical trial.</p><p>A repeat biopsy and updated genomic testing often reveal choices that were not visible at diagnosis. Trials of cell therapies and newer checkpoint drugs are running in India and China, though enrolment depends on trial criteria and cannot be promised in advance.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

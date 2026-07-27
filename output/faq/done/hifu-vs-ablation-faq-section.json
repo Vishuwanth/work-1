@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU vs Ablation (RFA, MWA, Cryoablation): The Non-Invasive Advantage",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-vs-ablation",
+  "route": "/insights/hifu-vs-ablation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the main difference between HIFU and RFA or microwave ablation?",
+            "a": "<p>HIFU destroys tumours with focused sound waves aimed from outside the body, while RFA, microwave ablation and cryoablation need a needle pushed through the skin into the tumour. That difference matters most for infection risk, bleeding and recovery time. HIFU leaves no puncture wound, so many patients go home the same day. Which option suits you depends on tumour size, location and your overall health.</p>"
+          },
+          {
+            "q": "Is HIFU really non-invasive, or does it still need a cut?",
+            "a": "<p>HIFU needs no cut and no needle. The ultrasound beam passes through skin and tissue and focuses heat only where the tumour sits, much like sunlight through a magnifying glass. Most patients receive sedation or spinal anaesthesia rather than full general anaesthesia. There is still preparation, imaging and a recovery period, and not every tumour can be reached safely by the beam, so eligibility depends on your scans.</p>"
+          },
+          {
+            "q": "Which is better for liver tumours: HIFU, RFA or microwave ablation?",
+            "a": "<p>For small liver tumours, RFA and microwave ablation are the more established choices, with decades of outcome data behind them. Microwave ablation often heats faster and can handle larger tumours than RFA. HIFU may be considered when a needle path is unsafe or when other options have been exhausted. Your hepatologist and interventional radiologist should decide together, based on tumour size, number of lesions and liver function.</p>"
+          },
+          {
+            "q": "Does HIFU hurt less than needle ablation?",
+            "a": "<p>Most patients report less pain after HIFU than after needle-based ablation, mainly because there is no puncture site to heal. Discomfort during treatment can still happen, often a warm or pressing sensation over the treated area, and sessions can run one to four hours. Needle ablation usually causes short-lived soreness and sometimes a dull ache for several days. Pain levels vary a lot between people and treatment sites.</p>"
+          },
+          {
+            "q": "How long does recovery take after each of these treatments?",
+            "a": "<p>HIFU recovery is usually the fastest, and many patients return to normal activity within one to three days. RFA and microwave ablation typically need one overnight stay and about a week before full activity. Cryoablation can take slightly longer when the ice ball was large, because of swelling around the treated area. Recovery also depends on where the tumour was, how many were treated and your general fitness.</p>"
+          },
+          {
+            "q": "When is cryoablation chosen over the heat-based treatments?",
+            "a": "<p>Cryoablation is often preferred when a tumour sits close to nerves, the bowel or the urinary tract, because the ice ball shows clearly on imaging and its edges can be tracked in real time. It also tends to cause less pain during and after the procedure than heat does. Heat-based options may be favoured when bleeding is a concern, since heat seals small vessels as it works.</p>"
+          },
+          {
+            "q": "Can HIFU treat prostate cancer without causing incontinence?",
+            "a": "<p>HIFU carries lower reported rates of incontinence than radical prostate surgery in many published series, but the risk is not zero. Focal HIFU, which treats only the affected part of the gland, tends to carry lower rates than whole-gland treatment. Erectile function is affected less often than with surgery, though it can still change. Results depend heavily on tumour grade, location and the experience of the treating centre.</p>"
+          },
+          {
+            "q": "Are HIFU and ablation available in India and China?",
+            "a": "<p>Both are available. Large hospitals in India and China offer RFA, microwave ablation and cryoablation routinely, and HIFU is offered at selected centres, with China holding some of the longest experience in body HIFU. Availability varies by tumour type, and some uses are still offered mainly within trials. CancerFax can help you check which centres currently treat your specific cancer, alongside advice from your own oncology team.</p>"
+          },
+          {
+            "q": "What does HIFU cost compared with RFA or cryoablation?",
+            "a": "<p>HIFU is often the more expensive option, partly because sessions run longer and the equipment is costly, though prices in India and China usually sit well below Western figures. RFA and microwave ablation tend to cost less per session. Cryoablation costs rise with the number of probes used. Quoted prices often exclude imaging, anaesthesia and follow-up scans, so ask for a written, itemised estimate before travelling.</p>"
+          },
+          {
+            "q": "How do I find out which of these treatments I qualify for?",
+            "a": "<p>Start by getting recent imaging and a pathology report reviewed by a specialist who actually performs these procedures, because eligibility rests on tumour size, exact position and how many lesions there are. A tumour touching a large blood vessel or the bowel may rule out some options. Many patients ask CancerFax to arrange a second opinion, but the final decision belongs to your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

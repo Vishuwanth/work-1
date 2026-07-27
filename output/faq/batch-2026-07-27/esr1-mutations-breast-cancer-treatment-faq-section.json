@@ -1,0 +1,59 @@
+{
+  "pillar": "ESR1 Mutations in Breast Cancer: What They Mean and How They Change Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "esr1-mutations-breast-cancer-treatment",
+  "route": "/insights/esr1-mutations-breast-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is an ESR1 mutation in breast cancer?",
+            "a": "<p>An ESR1 mutation is a change in the gene that builds the oestrogen receptor, which leaves the receptor switched on even when oestrogen is blocked. It is almost always acquired during treatment rather than inherited. These mutations appear in hormone receptor-positive, HER2-negative breast cancer, and are found in roughly 30 to 40 percent of people whose advanced disease has progressed on an aromatase inhibitor.</p>"
+          },
+          {
+            "q": "Why did my cancer develop an ESR1 mutation?",
+            "a": "<p>ESR1 mutations usually emerge as an escape route from aromatase inhibitors such as letrozole, anastrozole or exemestane. Those drugs work by lowering oestrogen, so cancer cells that alter the receptor to stay active without oestrogen survive and multiply. This is treatment pressure at work, not something you did wrong. The longer someone stays on an aromatase inhibitor for advanced disease, the more likely such a mutation can appear.</p>"
+          },
+          {
+            "q": "How do doctors test for an ESR1 mutation?",
+            "a": "<p>A blood test called a liquid biopsy is the usual method, because it picks up tumour DNA circulating in the blood and can detect mutations that an older tissue sample would miss. Testing tumour tissue is an alternative when blood testing is not available. Results usually take one to three weeks, though the availability and cost of ctDNA testing vary widely between hospitals and between countries.</p>"
+          },
+          {
+            "q": "Does an ESR1 mutation mean my hormone therapy has stopped working?",
+            "a": "<p>It usually means the aromatase inhibitor you are taking has lost its grip, not that hormone therapy as a whole is finished. The mutated receptor ignores drugs that work by lowering oestrogen, so those specific medicines often stop controlling the disease. Medicines that block or break down the receptor itself can still work. Your oncologist will weigh scans and tumour markers alongside the mutation result before changing anything.</p>"
+          },
+          {
+            "q": "What treatments are used if I have an ESR1 mutation?",
+            "a": "<p>Selective oestrogen receptor degraders are the main answer, because they break the receptor down instead of trying to starve it of oestrogen. Elacestrant is approved for ESR1-mutated, hormone receptor-positive, HER2-negative advanced breast cancer after endocrine therapy. Fulvestrant, given by injection, remains widely used, and newer oral degraders such as camizestrant and imlunestrant are moving through trials. Combinations with CDK4/6 or PI3K inhibitors may also be considered.</p>"
+          },
+          {
+            "q": "What is elacestrant, and who can take it?",
+            "a": "<p>Elacestrant is an oral selective oestrogen receptor degrader taken as a daily tablet. It is generally considered for adults with ESR1-mutated, oestrogen receptor-positive, HER2-negative advanced or metastatic breast cancer that has progressed after at least one line of endocrine therapy. Common side effects include nausea, tiredness and joint pain. Eligibility depends on your mutation status, previous treatments and local drug approval, so confirm the details with your treating oncologist.</p>"
+          },
+          {
+            "q": "When should I be tested, and how often?",
+            "a": "<p>Testing is most useful at the point your disease progresses, and again at each later progression, because ESR1 mutations develop over time rather than being present at diagnosis. A liquid biopsy taken before you switch treatments can change which drug is chosen next. Some teams also retest during treatment to catch a mutation early. Retesting schedules differ between centres and may depend on what your hospital or insurer covers.</p>"
+          },
+          {
+            "q": "Is an ESR1 mutation inherited? Can my children get it?",
+            "a": "<p>No. ESR1 mutations of this kind are acquired by the tumour during treatment and are not passed on to children. They are completely different from inherited BRCA1 or BRCA2 changes, which are present in every cell from birth and do run in families. An ESR1 result says nothing about your relatives' risk. If family history worries you, ask your team about separate inherited genetic testing.</p>"
+          },
+          {
+            "q": "Are there clinical trials for ESR1-mutated breast cancer in India or China?",
+            "a": "<p>Yes, trials of newer oral receptor degraders and combination regimens are open in several countries, including centres in India and China. Enrolment is never guaranteed and depends on your mutation report, previous treatments, organ function and how far the disease has spread.</p><p>Teams such as CancerFax can help gather records and identify recruiting centres, though your treating oncologist should decide whether travelling for a trial makes sense for you.</p>"
+          },
+          {
+            "q": "Does an ESR1 mutation mean a worse outlook?",
+            "a": "<p>An ESR1 mutation signals resistance to one class of drugs, not the end of treatment options. Studies link these mutations to shorter benefit from aromatase inhibitors and, in some analyses, poorer survival, yet many people who carry them respond well to receptor-degrading drugs afterwards. Outcomes depend on how much disease is present, where it has spread, and which treatments you have already received.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

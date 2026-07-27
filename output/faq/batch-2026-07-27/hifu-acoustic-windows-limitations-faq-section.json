@@ -1,0 +1,59 @@
+{
+  "pillar": "Acoustic Windows: When HIFU Cannot Reach the Target",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-acoustic-windows-limitations",
+  "route": "/insights/hifu-acoustic-windows-limitations",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is an acoustic window in HIFU?",
+            "a": "<p>An acoustic window is the clear path of soft tissue that HIFU sound waves travel through to reach a tumour. The beam must pass skin, fat and muscle without hitting bone, air or metal, because those reflect or absorb the energy. If no clean corridor exists, the focus cannot be placed accurately and the treatment may not be offered. Your team confirms this on imaging before booking anything.</p>"
+          },
+          {
+            "q": "Why does bowel gas stop HIFU treatment?",
+            "a": "<p>Gas reflects almost all ultrasound energy, so any loop of bowel sitting between the skin and the tumour blocks the beam completely. It can also heat up and cause injury. This is a common problem for pancreatic, liver and kidney tumours, where the colon shifts position. Fasting, bowel preparation or repositioning may open a window, though in some cases the gas simply cannot be moved.</p>"
+          },
+          {
+            "q": "Can HIFU treat a liver tumour hidden behind my ribs?",
+            "a": "<p>Sometimes, but ribs are the single biggest obstacle in liver HIFU. Bone absorbs ultrasound strongly, which weakens the beam and can burn the rib and overlying skin. Newer systems switch off the elements blocked by bone, and tumours near the dome of the liver may still be reachable. Whether it works for you depends on tumour position, breathing movement and rib spacing, so ask for a specific assessment.</p>"
+          },
+          {
+            "q": "How do doctors know before treatment whether HIFU can reach my tumour?",
+            "a": "<p>A planning scan decides it. The team reviews a recent CT or MRI, then usually does a live ultrasound check with you lying in the treatment position, watching how the tumour moves as you breathe. They look for bone, gas, scar and depth along the intended beam path. If the tumour cannot be seen clearly on that check, HIFU is generally not recommended. This screening is quick and painless.</p>"
+          },
+          {
+            "q": "Does scar tissue from earlier surgery block HIFU?",
+            "a": "<p>It can. Dense scar, surgical clips and mesh scatter or absorb ultrasound, and scar tissue also heats more than normal tissue, raising the risk of a skin burn. Patients who have had open abdominal surgery, hernia repair or a caesarean sometimes have a narrowed window. The team may angle the beam around the scar, but if the scar sits directly over the tumour, HIFU is often ruled out.</p>"
+          },
+          {
+            "q": "I am overweight. Will that stop me having HIFU?",
+            "a": "<p>Body size matters because ultrasound loses energy with every centimetre it travels. Most systems can focus roughly 12 to 15 centimetres below the skin, so a deep tumour under a thick layer of fat may fall outside that range. Fat also bends the beam and blurs the focus. Eligibility depends on the distance from skin to tumour on your scan, not on weight alone. Ask for that measurement.</p>"
+          },
+          {
+            "q": "Does MRI-guided HIFU fix the acoustic window problem?",
+            "a": "<p>No. MRI guidance improves what doctors can see and lets them measure temperature during treatment, which helps accuracy and safety. It does not change the physics: bone still blocks sound, and gas still reflects it. MRI-guided HIFU is mainly used for uterine fibroids and painful bone metastases, where the beam path is short and predictable. A blocked path stays blocked whichever imaging method guides the beam.</p>"
+          },
+          {
+            "q": "What can be done to create or improve an acoustic window?",
+            "a": "<p>Several things sometimes help. Filling the bladder can push bowel out of the way for pelvic targets. Fasting and bowel prep reduce gas. Changing your position, using a water balloon to displace tissue, or injecting fluid between the tumour and nearby bowel can open a corridor. In selected liver cases, surgeons have removed a small piece of rib. These options depend on your anatomy and your centre's experience.</p>"
+          },
+          {
+            "q": "What are my options if HIFU cannot reach my tumour?",
+            "a": "<p>Other local treatments do not need an acoustic window. Radiofrequency and microwave ablation use a needle placed under CT guidance, cryoablation freezes the tumour, and stereotactic radiotherapy delivers focused radiation through bone and gas without difficulty. Liver tumours may also suit TACE or Y-90. CancerFax can help you gather these scans and opinions from centres in India and China, though your treating oncologist decides what fits.</p>"
+          },
+          {
+            "q": "Is it worth getting a second opinion if I am told HIFU is not possible?",
+            "a": "<p>Often yes, because window assessment depends on the machine and the operator's experience. A centre with newer rib-sparing technology or a high-volume HIFU programme may reach targets another centre declines. A second review of your existing scans is usually enough to answer this. It will not always change the answer, and if two experienced teams agree, another local therapy is likely the better route. Ask for the review in writing.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

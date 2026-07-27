@@ -1,0 +1,59 @@
+{
+  "pillar": "Gendicine for Head and Neck Cancer",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gendicine-for-head-and-neck-cancer",
+  "route": "/guides/gendicine-for-head-and-neck-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Gendicine and how does it work for head and neck cancer?",
+            "a": "<p>Gendicine is a gene therapy that carries a working copy of the p53 tumour-suppressor gene into cancer cells using a modified, non-replicating adenovirus. The p53 gene normally tells damaged cells to stop dividing or die, and it is faulty in most head and neck cancers. Restoring it can make tumour cells more sensitive to radiation and chemotherapy. China approved it in 2003 for head and neck squamous cell carcinoma.</p>"
+          },
+          {
+            "q": "Is Gendicine approved outside China?",
+            "a": "<p>No. Gendicine is licensed only in China, where the drug regulator cleared it in 2003 for head and neck squamous cell carcinoma. It has not been approved by the FDA or the EMA, so patients elsewhere generally travel to a licensed Chinese hospital to receive it. Access depends on your diagnosis, your fitness for treatment and current hospital policy, so confirm eligibility in writing before making travel plans.</p>"
+          },
+          {
+            "q": "How is Gendicine actually given?",
+            "a": "<p>Gendicine is injected directly into the tumour, usually once a week for about four to eight weeks. Ultrasound or endoscopic guidance helps the doctor reach tumours in the tongue, throat or neck. Each session takes under an hour and most patients go home the same day.</p><p>It is almost always combined with radiotherapy or chemotherapy rather than used alone, because that is where the evidence is strongest.</p>"
+          },
+          {
+            "q": "Does Gendicine work better when combined with radiotherapy?",
+            "a": "<p>Yes, the better results come from pairing Gendicine with radiotherapy rather than using it on its own. Chinese trials in head and neck squamous cell carcinoma reported substantially higher complete response rates with the combination than with radiotherapy alone. Restoring p53 appears to leave tumour cells less able to repair radiation damage. How much benefit any one person sees depends on tumour size, stage and previous treatment.</p>"
+          },
+          {
+            "q": "What are the side effects of Gendicine?",
+            "a": "<p>The most common side effect is a short-lived fever, which appears in most patients within a few hours of injection and usually settles within a day. Mild injection-site pain, chills and flu-like aches are also common. Serious toxicity has been rare across more than twenty years of use in China. Because the drug is injected locally, it does not usually add the low blood counts or hair loss chemotherapy causes.</p>"
+          },
+          {
+            "q": "Am I a candidate for Gendicine?",
+            "a": "<p>Gendicine may suit patients whose head and neck tumour can be physically reached with a needle and who are well enough for the radiotherapy or chemotherapy it is paired with. It is used most often for locally advanced or recurrent disease that has not spread widely. Cancer that has spread to many sites is a poor fit, since injecting each one is impractical. Only your oncology team can confirm suitability.</p>"
+          },
+          {
+            "q": "How much does Gendicine cost in China?",
+            "a": "<p>A single vial of Gendicine often costs roughly 300 to 600 US dollars, and a full course of eight to twelve injections commonly falls between 3,000 and 8,000 dollars. Radiotherapy, hospital stays, scans, interpreters and travel sit on top of that. Prices differ between hospitals and change over time, and international patients may be quoted different rates, so ask for a written estimate before committing to travel.</p>"
+          },
+          {
+            "q": "Can Gendicine cure my head and neck cancer?",
+            "a": "<p>No treatment can be promised as a cure, and Gendicine is best understood as something that may improve how well radiotherapy or chemotherapy works. Chinese studies report greater tumour shrinkage when it is added, and some patients have had long remissions. Outcomes still depend heavily on stage, tumour location, HPV status and earlier treatment. Talk through realistic expectations with your treating oncologist before deciding anything.</p>"
+          },
+          {
+            "q": "How do I arrange Gendicine treatment in China from abroad?",
+            "a": "<p>Start by having your pathology report, medical records and recent scans reviewed by a Chinese hospital licensed to give Gendicine. This review usually happens remotely, before any travel. Services such as CancerFax can help route those records and coordinate hospital appointments and medical visa paperwork.</p><p>Acceptance is never guaranteed and rests on the hospital's own assessment, so plan for the possibility that a different approach is advised.</p>"
+          },
+          {
+            "q": "Should I get a second opinion before travelling for Gendicine?",
+            "a": "<p>Yes, a second opinion is worth having before any international treatment decision, because standard options such as surgery, chemoradiation or immunotherapy may still be open to you. A reviewer who reads your pathology and scans can say whether adding Gendicine is likely to help in your situation. CancerFax can arrange a review with oncologists familiar with Chinese protocols. Your own treating team should remain the final voice.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

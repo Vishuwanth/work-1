@@ -1,0 +1,59 @@
+{
+  "pillar": "Carvykti (Ciltacabtagene Autoleucel) for Multiple Myeloma: CARTITUDE Results",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "carvykti-cilta-cel-for-multiple-myeloma",
+  "route": "/insights/carvykti-cilta-cel-for-multiple-myeloma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is Carvykti, and how does it work?",
+            "a": "<p>Carvykti (ciltacabtagene autoleucel) is a one-time CAR-T cell therapy for multiple myeloma. Your own T cells are collected, genetically reprogrammed in a laboratory to recognise BCMA, a protein found on myeloma cells, and infused back after a short course of chemotherapy. It is approved in the United States and Europe for myeloma that has returned after earlier treatment. Availability and eligibility depend on your country and your own disease history.</p>"
+          },
+          {
+            "q": "How well did Carvykti work in the CARTITUDE-1 trial?",
+            "a": "<p>In CARTITUDE-1, 98% of the 97 patients responded and about 83% reached a stringent complete response, meaning no myeloma could be detected by standard tests. These patients had already received a median of six previous lines of therapy. Median progression-free survival was roughly 35 months, and about a third remained progression-free at five years with no further treatment.</p><p>Individual results vary widely and cannot be promised.</p>"
+          },
+          {
+            "q": "Can I have Carvykti earlier, instead of waiting until many treatments have failed?",
+            "a": "<p>In many countries, yes. The CARTITUDE-4 trial tested Carvykti in patients who had one to three prior treatments and were resistant to lenalidomide. Compared with standard drug combinations, it cut the risk of progression or death by roughly three-quarters, and more patients reached deep remission. Regulators then widened approval to include earlier use. Whether it fits your stage of disease is a decision for your myeloma specialist.</p>"
+          },
+          {
+            "q": "Does Carvykti cure multiple myeloma?",
+            "a": "<p>No, Carvykti is not described as a cure. It can produce very deep and long-lasting remissions, and a meaningful minority of CARTITUDE-1 patients stayed free of progression for five years without any further therapy, but most patients eventually relapse. Doctors treat it as a highly effective one-time therapy rather than a cure. Longer follow-up is still being collected, so this picture may change.</p>"
+          },
+          {
+            "q": "Am I eligible for Carvykti?",
+            "a": "<p>Eligibility usually depends on how many prior treatments you have had, whether your myeloma still carries BCMA, and whether your heart, lungs, liver and kidneys can tolerate the process. Active infection, uncontrolled disease in the brain, or very poor general fitness often delay or rule out treatment. Each centre applies its own criteria, so only a CAR-T team that has reviewed your records can confirm whether you qualify.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the infusion?",
+            "a": "<p>The most common early side effect is cytokine release syndrome, causing fever, low blood pressure and breathlessness. It affects most patients, but is usually mild to moderate and responds to tocilizumab and steroids. Low blood counts can last weeks to months, which raises infection risk, and antibody levels often fall. You will stay close to the treating centre for several weeks so problems can be caught early.</p>"
+          },
+          {
+            "q": "Is it true that Carvykti can cause movement or memory problems?",
+            "a": "<p>It can, in a small percentage of patients. Beyond the confusion and word-finding difficulty seen with many CAR-T therapies, Carvykti has been linked to delayed movement and thinking problems, including parkinsonism-like tremor and slowness. Cranial nerve palsies and Guillain-Barre syndrome have also been reported. Teams now screen earlier and treat sooner, which has reduced these events. Report any new tremor, handwriting change or weakness straight away.</p>"
+          },
+          {
+            "q": "How long does the whole process take, from first appointment to going home?",
+            "a": "<p>Expect roughly six to ten weeks in most cases. Cell collection takes a few hours, manufacturing usually runs several weeks, and bridging therapy keeps the myeloma controlled in the meantime. Three days of chemotherapy come before the infusion, then about a month of close monitoring near the centre. CancerFax can help you understand what each stage involves, though the actual schedule is set by your treating hospital.</p>"
+          },
+          {
+            "q": "How much does Carvykti cost, and can I get it in India or China?",
+            "a": "<p>In the United States the list price is around US$465,000 before hospital, monitoring and travel costs, and total spending is often considerably higher. Carvykti itself is not routinely available in India, while China has approved its own BCMA CAR-T products.</p><p>Patients often ask CancerFax to compare what is accessible in each country. Prices, approvals and trial places change often, so confirm current figures directly.</p>"
+          },
+          {
+            "q": "Could Carvykti cause another cancer later?",
+            "a": "<p>Regulators have added a boxed warning about secondary blood cancers, including rare T-cell malignancies, after CAR-T therapy. These events appear uncommon, and active myeloma is usually the more immediate threat, but lifelong monitoring is advised. Your team will check blood counts regularly and investigate any unexplained symptoms. It is worth discussing how this risk compares with the risks of your other available options before deciding.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

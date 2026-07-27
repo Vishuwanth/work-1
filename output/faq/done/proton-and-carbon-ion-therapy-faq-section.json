@@ -1,0 +1,59 @@
+{
+  "pillar": "Proton and Carbon Ion Therapy for Brain Tumours",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "proton-and-carbon-ion-therapy",
+  "route": "/guides/proton-and-carbon-ion-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between proton therapy and carbon ion therapy for a brain tumour?",
+            "a": "<p>Proton therapy and carbon ion therapy both use charged particles that stop inside the tumour, sparing healthy brain beyond it. The difference is biological force: carbon ions damage tumour DNA far more heavily than protons, which makes them useful against radiation-resistant tumours. Protons are gentler and far more widely available. Which one suits you depends on tumour type, location and prior treatment, so your radiation oncologist decides.</p>"
+          },
+          {
+            "q": "Is proton therapy better than regular radiation for a brain tumour?",
+            "a": "<p>Often yes, but the benefit is about protecting healthy tissue, not killing more tumour. Protons stop at the tumour and deliver little dose beyond it, which can lower the risk of memory problems, hormone changes and hearing loss years later. For tumours near the optic nerves, pituitary or brainstem, that margin matters. Standard photon radiation still works well for many patients, so the choice depends on your scan and tumour type.</p>"
+          },
+          {
+            "q": "Can carbon ion therapy treat a brain tumour that came back after radiation?",
+            "a": "<p>In many cases it can. Carbon ions kill tumour cells through a mechanism that does not depend on oxygen or on the repair pathways that survived your first course of radiation, so re-irradiation is sometimes possible where photons are not. The limit is the total dose your brain, optic nerves and brainstem have already absorbed. You will need your original radiation records and dose maps before any centre can answer this.</p>"
+          },
+          {
+            "q": "Am I eligible for proton therapy if my tumour is close to the brainstem?",
+            "a": "<p>A tumour close to the brainstem is often a reason to choose particle therapy, not a reason to rule it out. Because the beam stops sharply, doctors can push dose into the tumour while keeping the brainstem below its safe limit. Eligibility still depends on tumour size, how much of the brainstem is involved and any earlier radiation. Only a planning scan reviewed at a particle centre can confirm it.</p>"
+          },
+          {
+            "q": "How much does proton or carbon ion therapy for a brain tumour cost in India or China?",
+            "a": "<p>Proton therapy for a brain tumour usually runs between about 25,000 and 45,000 US dollars in India and China, against 90,000 to 150,000 dollars in the United States or Europe. Carbon ion therapy sits higher, often 40,000 to 60,000 dollars. The final figure depends on the number of sessions, anaesthesia for children and whether chemotherapy runs alongside. Quotes change often, so ask CancerFax or the centre itself for a written estimate.</p>"
+          },
+          {
+            "q": "How long does a course of proton or carbon ion therapy take?",
+            "a": "<p>Most brain tumour courses run four to seven weeks, with one short session each weekday. Each appointment takes about 30 to 45 minutes, though the beam itself is on for only a minute or two. Carbon ion courses are often shorter, sometimes 12 to 16 sessions, because each dose does more. Planning scans and mask fitting add about a week before treatment starts, and your schedule may shift.</p>"
+          },
+          {
+            "q": "What are the side effects of proton therapy on the brain?",
+            "a": "<p>The common ones are tiredness, mild skin redness, hair loss over the treated area and headaches, and they usually build in the later weeks. Because less dose reaches healthy brain, patients often report fewer late problems with memory, concentration and hormone levels than after standard radiation. Swelling around the tumour can cause temporary symptoms and is usually managed with steroids. Your own risk depends on where the tumour sits.</p>"
+          },
+          {
+            "q": "Is proton therapy safe for children with brain tumours?",
+            "a": "<p>Yes, and children are the group that benefits most. A developing brain is highly sensitive to stray radiation, so cutting the dose to healthy tissue can protect IQ, growth, hearing and hormone function for decades. Many paediatric brain tumours, including medulloblastoma and ependymoma, are treated this way as a first choice. Very young children may need daily light anaesthesia to stay still, which your team will discuss with you.</p>"
+          },
+          {
+            "q": "Which brain tumours are usually treated with carbon ion therapy?",
+            "a": "<p>Carbon ions are used mainly for tumours at the skull base that resist ordinary radiation, such as chordoma, chondrosarcoma and some adenoid cystic carcinomas reaching the brain. They are also considered for recurrent gliomas and for tumours wrapped around the optic nerves or brainstem. Gliomas and metastases are still treated more often with protons or photons. Availability is limited to a handful of centres, mostly in Japan, China and Germany.</p>"
+          },
+          {
+            "q": "How do I find out if I can travel abroad for this treatment?",
+            "a": "<p>Start by sending your MRI scans, biopsy report and any earlier radiation records to a particle therapy centre for review, because they decide eligibility before anything else is arranged. Teams like CancerFax can pass those files to centres in India, China and Japan and return written opinions and cost estimates, though the final call rests with your treating oncologist. Medical visas, waiting lists and travel fitness may all affect the timeline.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

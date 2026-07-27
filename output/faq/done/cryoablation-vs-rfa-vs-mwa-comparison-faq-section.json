@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation vs RFA vs MWA: Which Ablation Modality Is Right for You?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-vs-rfa-vs-mwa-comparison",
+  "route": "/insights/cryoablation-vs-rfa-vs-mwa-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the actual difference between cryoablation, RFA and microwave ablation?",
+            "a": "<p>Cryoablation freezes tumours to death, while radiofrequency ablation (RFA) and microwave ablation (MWA) destroy them with heat. RFA passes electrical current through the tissue; MWA uses microwave energy, which heats faster and works better in tissue that conducts poorly. Cryoablation creates a visible ice ball on scans, so the treated zone is easier to watch in real time. Your radiologist picks based on tumour size, location and the organ involved.</p>"
+          },
+          {
+            "q": "Which ablation is best for a liver tumour?",
+            "a": "<p>Microwave ablation is often the first choice for liver tumours because it heats a larger area quickly and is less affected by nearby blood vessels carrying heat away. RFA remains a strong option for small tumours under three centimetres. Cryoablation may be chosen when the tumour sits close to structures that must be protected. The decision depends on your imaging, your liver function and the interventional radiologist's assessment.</p>"
+          },
+          {
+            "q": "Does the size of my tumour decide which method I can have?",
+            "a": "<p>Tumour size is one of the strongest deciding factors. RFA works best for tumours up to about three centimetres; beyond that, incomplete treatment becomes more likely. Microwave ablation can often handle tumours up to five centimetres because it creates a larger, hotter zone faster. Cryoablation can cover wide areas by combining several probes. Larger or awkwardly placed tumours may need a different approach, so imaging review comes first.</p>"
+          },
+          {
+            "q": "Is cryoablation less painful than the heat-based methods?",
+            "a": "<p>Cryoablation is generally the least painful during the procedure, because freezing numbs the nerves in the treated area. Heat-based RFA and MWA can cause more discomfort during and shortly after treatment, though this is usually controlled with sedation and pain medicine. Pain after any of the three is typically mild and short-lived. Tell your team about past pain problems, as this can influence which modality they suggest.</p>"
+          },
+          {
+            "q": "Can ablation replace surgery for a small kidney cancer?",
+            "a": "<p>For small kidney tumours, ablation can be a reasonable alternative to surgery, especially for older patients, people with one working kidney, or anyone who cannot safely have an operation. Cryoablation is widely used here because the ice ball is clearly visible on scans. Long-term control for tumours under four centimetres is often comparable to partial nephrectomy, but eligibility depends on a joint urology and radiology assessment.</p>"
+          },
+          {
+            "q": "Why did my doctor rule out RFA because of where my tumour sits?",
+            "a": "<p>Ablation near the bile ducts, bowel or major nerves carries a risk of heat injury, so RFA and MWA are used cautiously in these areas. Cryoablation is often safer there because the freeze zone is visible during the procedure and spreads more predictably. Protective steps, such as injecting fluid or gas to push organs away, can also help. Your team weighs these risks against the benefit of treating the tumour.</p>"
+          },
+          {
+            "q": "How long does recovery take after an ablation?",
+            "a": "<p>Most people go home within one day and return to normal activity in about a week. Ablation is done through a needle placed under scan guidance, so there is no large incision to heal. Mild fever, aching and tiredness for a few days afterwards are common and usually settle on their own. Follow-up scans, generally at one and three months, confirm whether the tumour was fully destroyed.</p>"
+          },
+          {
+            "q": "How much does ablation cost in India or China?",
+            "a": "<p>Ablation abroad is usually far cheaper than in Western countries. In India, a single session commonly falls between 2,500 and 6,000 US dollars, and Chinese hospitals sit in a similar range. Costs vary with the organ treated, the number of probes and the length of stay.</p><p>CancerFax can help you gather written quotes and hospital opinions before travelling, though the final plan rests with your treating oncology team.</p>"
+          },
+          {
+            "q": "What can go wrong during these procedures?",
+            "a": "<p>Serious complications are uncommon, occurring in roughly two to five percent of cases. Possible problems include bleeding, infection, injury to a nearby organ, and, with cryoablation, a rare reaction where freezing a large volume affects clotting and kidney function. Heat-based methods can occasionally burn the skin at the probe entry site. Risk depends heavily on tumour location and your general health, so ask about your specific numbers.</p>"
+          },
+          {
+            "q": "If the tumour comes back, can I have ablation again?",
+            "a": "<p>Ablation can usually be repeated if the tumour returns or a new one appears. This is one of its practical advantages over surgery and radiation, which are harder to deliver twice in the same area. Repeat sessions are often possible within weeks of a scan showing residual disease. Whether repeating is right for you depends on your liver or kidney function, the pattern of disease and your team's judgement.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

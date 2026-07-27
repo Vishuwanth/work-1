@@ -1,0 +1,59 @@
+{
+  "pillar": "Ovarian Suppression for Breast Cancer: Goserelin, Leuprolide, and Surgical Oophorectomy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "ovarian-suppression-for-breast-cancer",
+  "route": "/insights/ovarian-suppression-for-breast-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does ovarian suppression actually do for my breast cancer?",
+            "a": "<p>Ovarian suppression stops your ovaries from making oestrogen, which removes the main fuel supply for hormone receptor-positive breast cancer. It is used alongside tamoxifen or an aromatase inhibitor, not instead of them. Doctors achieve it with monthly or three-monthly injections such as goserelin or leuprolide, or by surgically removing the ovaries. Your oncologist decides whether the added benefit outweighs the side effects in your case.</p>"
+          },
+          {
+            "q": "Who benefits most from ovarian suppression?",
+            "a": "<p>Ovarian suppression helps premenopausal women with hormone receptor-positive breast cancer who face a higher risk of the cancer returning. That usually means younger age, larger tumours, involved lymph nodes, or a high-grade cancer, and often women who needed chemotherapy. Women at low risk may do just as well on tamoxifen alone. Eligibility depends on your pathology report, your age, and how you tolerate treatment, so ask your oncologist.</p>"
+          },
+          {
+            "q": "Is goserelin better than leuprolide?",
+            "a": "<p>Neither drug is clearly better; goserelin and leuprolide both switch off ovarian oestrogen the same way and are considered interchangeable in most treatment guidelines. Goserelin has the largest body of breast cancer trial data, which is why many oncologists reach for it first. The practical difference is usually the dosing schedule, the injection itself, and what your hospital stocks. Your team may pick based on availability and cost.</p>"
+          },
+          {
+            "q": "How are the injections given, and do they hurt?",
+            "a": "<p>Goserelin is a small implant placed under the skin of your abdomen with a wide needle, usually every 28 days, and leuprolide is an intramuscular or subcutaneous injection given monthly or every three months. Most women describe a sharp sting for a few seconds and some bruising afterwards. A numbing cream applied beforehand helps. Ask your nurse about longer-acting three-monthly forms if frequent clinic visits are difficult.</p>"
+          },
+          {
+            "q": "Should I just have my ovaries removed instead?",
+            "a": "<p>Surgical removal of the ovaries works as well as injections for suppressing oestrogen and ends the need for monthly clinic visits, but it is permanent and brings on menopause immediately. It is often preferred for women who carry a BRCA1 or BRCA2 mutation, since it also lowers ovarian cancer risk. If you may want children later, injections keep the option open. Discuss the trade-off before deciding.</p>"
+          },
+          {
+            "q": "Will I be able to have a baby after ovarian suppression?",
+            "a": "<p>Many women recover ovarian function and periods within six to twelve months of stopping goserelin or leuprolide, and pregnancy after treatment is possible for some. Recovery is less likely if you are over 40 or had chemotherapy. Surgical removal of the ovaries ends fertility permanently. If having children matters to you, ask for a fertility referral before starting, because egg or embryo freezing must happen first.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>Expect menopausal symptoms: hot flushes, night sweats, vaginal dryness, low libido, mood changes, joint aches, and tiredness. Bone thinning is the main long-term concern, so most women have a bone density scan and take calcium and vitamin D. Symptoms are often strongest in the first few months and can ease with time. Tell your team early, because dose timing, medication, and non-hormonal remedies can make them manageable.</p>"
+          },
+          {
+            "q": "How long will I have to stay on it?",
+            "a": "<p>Ovarian suppression is usually given for five years alongside tamoxifen or an aromatase inhibitor, and some women at higher risk continue for longer. The decision is reviewed as you go, based on how well you tolerate the side effects and what your risk of recurrence looks like. Stopping early is common and is not a failure. Talk to your oncologist rather than stopping injections on your own.</p>"
+          },
+          {
+            "q": "Should I take it with tamoxifen or an aromatase inhibitor?",
+            "a": "<p>An aromatase inhibitor such as exemestane with ovarian suppression lowers the chance of recurrence slightly more than tamoxifen with suppression, but it causes more joint pain, bone loss, and vaginal dryness. Aromatase inhibitors only work if the ovaries are properly switched off, so oestrogen levels are sometimes checked. Many women at moderate risk do very well on tamoxifen. The right pairing depends on your risk and tolerance.</p>"
+          },
+          {
+            "q": "Can I get these injections if I am treated in India or China?",
+            "a": "<p>Goserelin and leuprolide are widely available at major cancer centres in India and China, and generic versions often make them far cheaper than in Western countries. Oophorectomy is also routinely offered. Costs, brands, and dosing intervals vary between hospitals, so ask for a written treatment plan before you travel. CancerFax can help you share your reports with treating centres, though all decisions remain with your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

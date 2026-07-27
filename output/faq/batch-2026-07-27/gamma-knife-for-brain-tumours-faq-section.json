@@ -1,0 +1,59 @@
+{
+  "pillar": "Gamma Knife for Brain Tumours",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gamma-knife-for-brain-tumours",
+  "route": "/guides/gamma-knife-for-brain-tumours",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Gamma Knife, and is it actually a knife?",
+            "a": "<p>Gamma Knife is not a knife and involves no cutting. It is a form of focused radiation that delivers around 192 fine beams of gamma rays that meet precisely at the tumour. Each single beam is too weak to harm the brain it passes through, but together they deliver a strong dose at the target. Most people go home the same day or the next morning.</p>"
+          },
+          {
+            "q": "Is Gamma Knife treatment painful?",
+            "a": "<p>The treatment itself is painless, and you feel nothing while the beams are delivered. What people find uncomfortable is fixing the head frame, which is pinned to the scalp under local anaesthetic, so you may feel pressure and brief stinging. Some centres use a moulded mask instead of pins.</p><p>Many patients report a headache afterwards that settles with simple pain relief. Tell your team beforehand if you are anxious, as mild sedation is often available.</p>"
+          },
+          {
+            "q": "How long does the whole thing take?",
+            "a": "<p>Most Gamma Knife treatment is finished in a single day. Planning scans and dose calculation take a couple of hours, and the radiation delivery itself usually runs from 20 minutes to two hours, depending on the size, shape and number of tumours. Larger or multiple lesions can be split across a few sessions. You stay awake throughout and can usually go home the same evening.</p>"
+          },
+          {
+            "q": "Which brain tumours can Gamma Knife treat?",
+            "a": "<p>Gamma Knife works best for small, well-defined tumours, generally under about 3 centimetres. It is used often for brain metastases, acoustic neuromas, meningiomas, pituitary adenomas and some recurrent gliomas. Large, diffuse or widely infiltrating tumours usually need surgery or wider radiotherapy instead.</p><p>CancerFax can send your MRI and reports to a Gamma Knife centre for review, though the treating oncology team decides whether your tumour is suitable.</p>"
+          },
+          {
+            "q": "How soon will my tumour shrink after Gamma Knife?",
+            "a": "<p>Gamma Knife does not remove the tumour; it stops the cells dividing, so change is gradual rather than immediate. Follow-up MRI scans at three to six months usually show the tumour stable or slowly shrinking, and it may keep shrinking over one to two years. For many tumours, halting growth counts as success even if the size never changes much. Your team will set the scan schedule.</p>"
+          },
+          {
+            "q": "Is Gamma Knife better than open brain surgery for me?",
+            "a": "<p>Neither is universally better, because they solve different problems. Gamma Knife avoids an incision, general anaesthetic and a hospital stay, and it can reach deep tumours that are hard to operate on safely. Open surgery removes tumour tissue immediately, relieves pressure and provides a biopsy sample. If your tumour is large or pressing on the brain, surgery often comes first. Your neurosurgeon will weigh this against your scans.</p>"
+          },
+          {
+            "q": "What are the side effects?",
+            "a": "<p>Most side effects are mild and short-lived. Tiredness for a few weeks is the most common, along with headache, mild nausea and small patches of hair thinning where the beams entered. Weeks to months later, some people develop swelling around the treated area, which steroids usually control. Rarely, radiation damages nearby healthy tissue. Risk depends on tumour location and dose, so ask your radiation oncologist what applies to you.</p>"
+          },
+          {
+            "q": "How much does Gamma Knife cost in India or China?",
+            "a": "<p>Gamma Knife in India commonly costs roughly USD 4,000 to 8,000, and in China roughly USD 6,000 to 12,000, against USD 40,000 or more in the United States. Quotes usually cover planning scans, the procedure and a short stay, while travel, follow-up MRI and any later treatment sit outside. CancerFax can help you compare written hospital quotes before you commit. Prices vary by centre.</p>"
+          },
+          {
+            "q": "Can I have Gamma Knife more than once?",
+            "a": "<p>In many cases, yes. Gamma Knife can often be repeated for new lesions that appear elsewhere in the brain, and this is common in people with brain metastases. Re-treating the same spot is approached more cautiously, because the earlier dose already sits in that tissue and raises the risk of radiation injury. Your team weighs the previous dose, the time gap and your MRI before agreeing to a second round.</p>"
+          },
+          {
+            "q": "Will my head be shaved or will I lose my hair?",
+            "a": "<p>Your head is not shaved for Gamma Knife. The frame pins need only small patches of scalp cleaned, so your hair usually stays intact. Some people notice thinning months later in the narrow strips where the beams entered, and this often regrows. You can wash your hair normally once the pin sites have healed, usually within a few days. Ask your nurse how to care for those sites.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

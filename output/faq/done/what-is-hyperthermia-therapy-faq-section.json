@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is Hyperthermia Therapy and How Does It Help Cancer Treatment?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-hyperthermia-therapy",
+  "route": "/insights/what-is-hyperthermia-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is hyperthermia therapy for cancer?",
+            "a": "<p>Hyperthermia therapy heats tumour tissue to roughly 40–45°C to damage cancer cells and make them more vulnerable to other treatments. The heat is delivered by microwaves, radiofrequency waves or ultrasound, aimed at a tumour, a body region, or the whole body. It is almost always used alongside radiotherapy or chemotherapy rather than on its own. Whether it suits your case depends on tumour type, site and your general health.</p>"
+          },
+          {
+            "q": "Does hyperthermia actually kill cancer cells?",
+            "a": "<p>Heat can kill cancer cells directly, but that is not its main job. At 40–45°C most cancer cells are injured rather than destroyed, and the real benefit is that damaged cells repair themselves poorly after radiation or chemotherapy. Heat also widens blood vessels inside the tumour, so drugs and oxygen reach it better. Studies show this can improve local tumour control, though results vary by cancer type and how evenly the heat is delivered.</p>"
+          },
+          {
+            "q": "What are the different types of hyperthermia treatment?",
+            "a": "<p>There are three main types: local hyperthermia heats a single tumour, regional hyperthermia heats a limb, organ or body cavity, and whole-body hyperthermia raises your entire body temperature to treat widespread disease. Local and regional treatment are the most common. Whole-body hyperthermia is more demanding and is offered in fewer centres. Your oncology team chooses the type based on where the tumour sits, how deep it is, and what else you are receiving.</p>"
+          },
+          {
+            "q": "Which cancers is hyperthermia therapy used for?",
+            "a": "<p>Hyperthermia is most often used for sarcoma, cervical cancer, head and neck cancers, recurrent breast cancer on the chest wall, melanoma, bladder cancer and some abdominal tumours. It tends to be considered when a tumour has come back in a previously irradiated area, or when radiation alone has not controlled it. Suitability is decided case by case, and many cancers have no established role for heat treatment at all.</p>"
+          },
+          {
+            "q": "Does hyperthermia therapy hurt?",
+            "a": "<p>Most people describe hyperthermia as warm and uncomfortable rather than painful. You lie still while applicators direct energy at the treatment area, and a session usually lasts 60 to 90 minutes. Some patients feel hot spots, pressure or a burning sensation on the skin, and the team can adjust the power or reposition the applicator. Tell the staff immediately if the heat becomes sharp or unbearable, as that can often be corrected mid-session.</p>"
+          },
+          {
+            "q": "What are the side effects of hyperthermia therapy?",
+            "a": "<p>The commonest side effects are skin redness, blisters, superficial burns, swelling and fatigue, and these usually settle within days. Whole-body hyperthermia can also cause nausea, diarrhoea, and changes in heart rate or blood pressure, so it is done under close monitoring. Serious burns to deeper tissue are uncommon in experienced centres. Because hyperthermia is given with radiation or chemotherapy, some effects you notice may come from those treatments instead.</p>"
+          },
+          {
+            "q": "How many hyperthermia sessions will I need?",
+            "a": "<p>Most protocols use one or two sessions a week for four to six weeks, timed to run within about an hour of each radiotherapy or chemotherapy appointment. That usually works out to between five and twelve sessions in total. The exact number depends on your tumour, the partner treatment schedule and how your skin tolerates the heat. Your radiation oncologist sets the plan and may shorten or extend it as treatment progresses.</p>"
+          },
+          {
+            "q": "Is hyperthermia therapy available in India and China?",
+            "a": "<p>Yes, several large cancer centres in India and China offer hyperthermia, usually as an add-on to radiotherapy. Availability is uneven, and machines capable of deep regional or whole-body treatment sit in a limited number of hospitals. If you are travelling for treatment, ask the centre directly which type of hyperthermia it runs and how many cases it treats each year. CancerFax can help you confirm what a specific hospital actually offers.</p>"
+          },
+          {
+            "q": "How much does hyperthermia therapy cost?",
+            "a": "<p>Costs vary widely, but a full course of local hyperthermia in India often runs between about USD 1,500 and USD 4,000, with deep regional and whole-body treatment costing more. Prices in China are broadly comparable. This is usually charged on top of the radiotherapy or chemotherapy it accompanies, not instead of it. Insurance cover is inconsistent, so ask the hospital for a written estimate before you commit to travel.</p>"
+          },
+          {
+            "q": "Is hyperthermia therapy proven, or is it still experimental?",
+            "a": "<p>Hyperthermia is an approved, evidence-backed treatment in several countries, but it is not standard care everywhere. Randomised trials in sarcoma, cervical cancer and recurrent breast cancer have shown better local control when heat is added to radiotherapy. Results depend heavily on the equipment and the team's experience, which is why quality varies between centres. Ask your oncologist whether the trial evidence applies to your specific cancer before deciding.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Allogeneic CAR-T in China: Off-the-Shelf Trials and the Road to Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "allogeneic-car-t-in-china",
+  "route": "/insights/allogeneic-car-t-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is allogeneic CAR-T therapy?",
+            "a": "<p>Allogeneic CAR-T uses immune cells from a healthy donor, not from you, engineered to attack your cancer and then frozen in batches ready for use. Because the product is made in advance, it is often called off-the-shelf. The donor cells are edited to lower the chance they attack your body or are rejected by it. Most allogeneic products remain investigational, so availability depends on which trials are open.</p>"
+          },
+          {
+            "q": "How is off-the-shelf CAR-T different from the CAR-T my doctor described?",
+            "a": "<p>Standard CAR-T is made from your own T cells, so treatment waits three to six weeks while the product is manufactured. Off-the-shelf CAR-T already exists, frozen and stored, and can often be given within days of a decision. The trade-off is that donor cells may be cleared by your immune system sooner, which can shorten how long they keep working. Trial eligibility rules still apply in every case.</p>"
+          },
+          {
+            "q": "Is allogeneic CAR-T approved in China, or can I only get it in a trial?",
+            "a": "<p>No allogeneic CAR-T product is approved for routine sale in China; access today runs through clinical trials or, in limited settings, hospital-led investigational programmes. China has approved several autologous CAR-T therapies, and its allogeneic pipeline is among the largest in the world. Whether a specific trial is open, and whether you fit its criteria, can change month to month, so treat any list as a snapshot.</p>"
+          },
+          {
+            "q": "How quickly could I actually start treatment?",
+            "a": "<p>In trials, dosing can begin within one to two weeks of screening, because the cells already exist and the wait is for eligibility testing rather than manufacturing. That matters when disease is moving fast and a patient may not safely wait for their own cells to be grown. Screening still involves imaging, blood work, and often a fresh biopsy. Timelines depend on the site, bed availability, and how quickly records arrive.</p>"
+          },
+          {
+            "q": "Could donor cells attack my body? What about graft-versus-host disease?",
+            "a": "<p>Graft-versus-host disease is the main added risk with donor cells, and gene editing is used to remove the receptor that drives it, so severe cases have been uncommon in reported trials. You may still face cytokine release syndrome and neurological side effects, as with any CAR-T.</p><p>Stronger lymphodepletion is often needed to stop your immune system rejecting the donor cells, which can raise infection risk for several weeks afterwards.</p>"
+          },
+          {
+            "q": "Does it work as well as CAR-T made from my own cells?",
+            "a": "<p>Early response rates in lymphoma and leukaemia trials have looked broadly similar to autologous CAR-T, but remissions have often been less durable and follow-up is still short. Many protocols now use repeat dosing or deeper lymphodepletion to extend how long the cells persist. Nobody can yet promise equal long-term outcomes. If an approved autologous product is available and you can safely wait for it, most oncologists still start there.</p>"
+          },
+          {
+            "q": "Can I join a Chinese allogeneic CAR-T trial if I live outside China?",
+            "a": "<p>Some Chinese sites do enrol international patients, but many trials restrict entry to residents or to people already treated within that hospital system. Acceptance depends on the protocol, your prior treatment history, disease status, and whether the site can support a foreign patient through months of follow-up. CancerFax can help you assemble records and check which sites are reviewing overseas applications, alongside your own oncology team.</p>"
+          },
+          {
+            "q": "What will it cost, and does the trial cover it?",
+            "a": "<p>In many Chinese allogeneic CAR-T trials the cell product itself is supplied free, and families pay for hospitalisation, testing, supportive drugs, and complication management, often between US$20,000 and US$50,000. Costs can rise sharply if intensive care is needed for cytokine release syndrome. Travel, visas, accommodation, and interpreting are extra. Every quote should be confirmed in writing with the hospital, because sponsorship terms differ from site to site.</p>"
+          },
+          {
+            "q": "Which cancers are being tested with off-the-shelf CAR-T in China?",
+            "a": "<p>Most activity is in relapsed B-cell cancers, including diffuse large B-cell lymphoma, acute lymphoblastic leukaemia, and multiple myeloma, targeting CD19, CD7, or BCMA. Trials in T-cell leukaemia and lymphoma are a particular Chinese strength, because donor cells avoid the problem of malignant cells contaminating the product. Solid tumour work is far earlier. Eligibility usually requires that at least two prior lines of treatment have already failed.</p>"
+          },
+          {
+            "q": "What should I do first if I want to be considered?",
+            "a": "<p>Start by getting your diagnosis documented in writing: the pathology report, flow cytometry or immunohistochemistry showing the target antigen, recent scans, and a dated list of every prior treatment. Sites screen on paperwork before anything else, and incomplete records are the most common reason for delay. Ask your treating oncologist whether you are well enough to travel. Nothing here replaces their judgement about the right next step.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

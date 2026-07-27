@@ -1,0 +1,59 @@
+{
+  "pillar": "TARE Cost Comparison: China vs India vs Western Countries",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-cost-comparison",
+  "route": "/insights/tare-cost-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does TARE cost in India compared to the US or Europe?",
+            "a": "<p>TARE in India typically costs about USD 12,000 to 20,000 per treatment, against roughly USD 45,000 to 90,000 in the United States and USD 30,000 to 60,000 in Western Europe. The gap comes mainly from lower hospital, staffing and imaging charges rather than a different device or a different microsphere. Quoted figures move with the brand used, the liver volume treated and the hospital tier, so ask for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "What does Y-90 radioembolization cost in China?",
+            "a": "<p>Y-90 radioembolization in China generally runs USD 15,000 to 25,000 per session at major liver centres in Beijing, Shanghai and Guangzhou. Yttrium-90 resin microspheres were approved there relatively recently, so fewer hospitals offer the procedure and availability can be limited to selected centres. Prices often include the microspheres, the mapping angiogram and a short admission, but international patient fees and interpreter charges may be billed on top.</p>"
+          },
+          {
+            "q": "Why is TARE so much cheaper in India than at home?",
+            "a": "<p>Lower operating costs, not lower technology, drive most of the difference. Indian hospitals pay far less for salaries, buildings and overheads, and price controls keep imaging and admission charges down. The yttrium-90 microspheres themselves are imported and cost roughly the same everywhere, which is why they make up a large share of the Indian price. Interventional radiology expertise at leading centres is often comparable to Western units.</p>"
+          },
+          {
+            "q": "What is usually included in a quoted TARE package?",
+            "a": "<p>Most packages cover the mapping angiogram, the lung shunt study, the yttrium-90 microspheres, the delivery procedure, the interventional radiology team, and one or two nights in hospital. Pre-treatment scans, biopsies, blood work and follow-up imaging are often billed separately. Ask the hospital to list inclusions and exclusions line by line in writing, because the microspheres alone can account for around half the total cost.</p>"
+          },
+          {
+            "q": "What extra costs should I budget beyond the hospital bill?",
+            "a": "<p>Budget for flights, medical visas, accommodation for you and a caregiver, local transport, translation and food, which commonly add USD 3,000 to 6,000 for a two to three week stay in India or China. Repeat scans, treatment of side effects, or an unplanned second session can push the total higher. A contingency of roughly twenty percent on top of the quoted package is sensible.</p>"
+          },
+          {
+            "q": "Does a lower price mean lower quality care?",
+            "a": "<p>Not necessarily. The yttrium-90 microspheres used in India and China are the same commercial products used in Western hospitals, and dosimetry follows the same manufacturer protocols. What varies more is case volume and experience, so ask how many TARE procedures the interventional radiologist performs each year and whether a tumour board reviews your case. JCI or NABH accreditation is another useful signal of standards.</p>"
+          },
+          {
+            "q": "Will my insurance pay for TARE abroad?",
+            "a": "<p>Most domestic policies do not reimburse elective treatment overseas, although some plans cover care that is unavailable or heavily delayed at home. In many cases you pay the foreign hospital directly and claim afterwards, if at all. Ask your insurer in writing about pre-authorisation, reimbursement currency and the paperwork they need before you book. Coverage depends entirely on your policy and country, so confirm it rather than assume it.</p>"
+          },
+          {
+            "q": "Do I need more than one TARE session, and how does that change the cost?",
+            "a": "<p>Many patients need two sessions when both lobes of the liver are treated, usually four to six weeks apart, and each session is generally billed separately. A single whole-liver session may be possible when the tumour load is smaller. The second treatment often costs a little less because the mapping work is already done. Your interventional radiologist decides this after the mapping angiogram, so the final figure can change.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India or China for TARE?",
+            "a": "<p>Plan for roughly two to three weeks in total. The mapping angiogram usually happens about a week before the treatment itself, and doctors generally prefer you stay a few days afterwards for observation and a post-treatment scan. Treating a second lobe can mean either a longer stay or a return trip. Keep travel plans flexible, since scheduling depends on your scan results and hospital availability.</p>"
+          },
+          {
+            "q": "How do I compare quotes from different hospitals fairly?",
+            "a": "<p>Ask each hospital for a written estimate that names the microsphere brand, the number of planned sessions, and everything included and excluded. Comparing headline numbers alone is misleading when one quote covers scans and another does not. Services such as CancerFax can help gather comparable estimates and medical opinions from centres in India and China, though your treating oncology team should guide the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "ICANS After CAR-T: Neurological Side Effects, Grading, and Management",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "icans-after-car-t",
+  "route": "/insights/icans-after-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is ICANS after CAR-T therapy?",
+            "a": "<p>ICANS stands for immune effector cell-associated neurotoxicity syndrome, a temporary brain-related side effect that can follow CAR-T cell therapy. It happens when the immune activation triggered by the CAR-T cells affects the nervous system. Symptoms range from mild confusion and trouble writing to seizures or reduced consciousness. In most patients ICANS is short-lived and reversible with prompt treatment, but the severity varies from person to person.</p>"
+          },
+          {
+            "q": "When does ICANS usually start after a CAR-T infusion?",
+            "a": "<p>ICANS most often begins four to ten days after the CAR-T infusion, though it can appear as early as day one or as late as three to four weeks. It frequently follows cytokine release syndrome rather than arriving first. Because the timing varies, transplant centres usually ask patients to stay close to the hospital for at least four weeks so any neurological change can be caught early.</p>"
+          },
+          {
+            "q": "What are the first signs of ICANS I should watch for?",
+            "a": "<p>The earliest signs are usually trouble finding words, messy or shaky handwriting, and mild confusion about the date or place. Family members often notice the change before the patient does. Later signs can include tremor, drowsiness, agitation, weakness on one side, or seizures. Any new confusion, speech difficulty, or unusual sleepiness in the weeks after CAR-T should be reported to the treating team immediately, even if it seems minor.</p>"
+          },
+          {
+            "q": "How is ICANS graded by doctors?",
+            "a": "<p>Doctors grade ICANS from 1 to 4 using the ASTCT consensus scale, where grade 1 is mild and grade 4 is life-threatening. The grade combines the ICE score, level of alertness, seizure activity, motor weakness, and signs of brain swelling on imaging. The highest-scoring feature sets the overall grade. Grading matters because it decides how quickly steroids, intensive care monitoring, or other interventions are started.</p>"
+          },
+          {
+            "q": "What is the ICE score and why do nurses keep asking me questions?",
+            "a": "<p>The ICE score is a ten-point bedside test used to detect ICANS early. Nurses ask you to name the year, month, city and hospital, name three objects, follow a simple command, write a short sentence, and count backwards from 100 by tens. A drop from 10 out of 10 is often the first measurable sign of neurotoxicity, which is why the check is repeated several times a day.</p>"
+          },
+          {
+            "q": "How is ICANS treated?",
+            "a": "<p>Corticosteroids such as dexamethasone are the main treatment for ICANS, along with supportive care and close neurological monitoring. Mild grade 1 cases may only need observation and fluids. Higher grades usually mean steroids, anti-seizure medicine, and often a move to intensive care. Tocilizumab helps cytokine release syndrome but does not treat ICANS well on its own, because it does not cross into the brain effectively.</p>"
+          },
+          {
+            "q": "Will ICANS cause permanent brain damage?",
+            "a": "<p>In most patients ICANS resolves completely, usually within days to a few weeks, and leaves no lasting damage. Recovery often happens in the reverse order that symptoms appeared. A small number of people report lingering problems with memory, attention or word-finding for several months, and very severe cases can rarely cause serious harm. Your haematology team can give a realistic picture based on your grade and response to steroids.</p>"
+          },
+          {
+            "q": "Is ICANS the same thing as cytokine release syndrome?",
+            "a": "<p>No, they are two different side effects, although they often overlap. Cytokine release syndrome affects the whole body, causing fever, low blood pressure and low oxygen, and usually starts first. ICANS affects the brain and nervous system, causing confusion, speech problems or seizures, and tends to follow a few days later. They are graded separately and treated differently, so your team monitors for both at the same time.</p>"
+          },
+          {
+            "q": "Who is more likely to get severe ICANS?",
+            "a": "<p>Higher risk is generally seen in patients with a heavy tumour burden, those receiving CD19-directed CAR-T products, people who develop early or severe cytokine release syndrome, and those with pre-existing neurological conditions. High inflammatory markers before infusion may also raise risk. These are patterns across groups rather than predictions for any one person, so ask your transplant centre how your own risk profile is assessed before treatment.</p>"
+          },
+          {
+            "q": "How long must I stay near the hospital after CAR-T because of ICANS risk?",
+            "a": "<p>Most centres in India and China ask patients to remain within about an hour of the treating hospital for four weeks after infusion, with a caregiver present at all times. Driving is usually restricted for eight weeks. Exact rules depend on the product used and the centre's protocol. CancerFax can help you confirm a specific centre's monitoring and accommodation requirements, but your treating oncology team sets the final plan.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

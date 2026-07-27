@@ -1,0 +1,59 @@
+{
+  "pillar": "CyberKnife Radiosurgery: Robotic SBRT for Brain, Spine, and Body Tumours",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cyberknife",
+  "route": "/treatments/cyberknife",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CyberKnife and how is it different from normal radiotherapy?",
+            "a": "<p>CyberKnife is a robotic radiosurgery system that delivers very high radiation doses to a tumour from hundreds of angles, using a small linear accelerator mounted on a moving robotic arm. Standard radiotherapy spreads a lower dose over many weeks. CyberKnife concentrates the dose into one to five sessions and tracks the tumour as you breathe, so healthy tissue nearby receives much less radiation.</p>"
+          },
+          {
+            "q": "Is CyberKnife actual surgery? Will I be cut open?",
+            "a": "<p>No. Despite the name, CyberKnife involves no incision, no anaesthetic, and no blood loss. You lie still on a treatment couch while the robotic arm moves around you and delivers focused radiation beams. Most people feel nothing during treatment and go home the same day. The word surgery refers only to how precisely the radiation destroys the target, not to any cutting.</p>"
+          },
+          {
+            "q": "Which tumours can CyberKnife treat?",
+            "a": "<p>CyberKnife treats small, well-defined tumours in the brain, spine, lung, liver, prostate, pancreas, and some head and neck sites. It also treats a limited number of metastases, and certain non-cancerous conditions such as acoustic neuroma and trigeminal neuralgia. Large or widely spread tumours are usually better handled by surgery, chemotherapy, or conventional radiotherapy. Your radiation oncologist decides based on tumour size, site, and prior treatment.</p>"
+          },
+          {
+            "q": "How many sessions will I need and how long does each one take?",
+            "a": "<p>Most CyberKnife courses run one to five sessions, usually on consecutive or alternate days. Each session lasts around 30 to 90 minutes, depending on tumour size and how many beam angles the plan uses. Brain lesions often need a single session; prostate and lung tumours typically need three to five. Before treatment you will have a planning CT and often an MRI, which takes a separate visit.</p>"
+          },
+          {
+            "q": "Will they screw a metal frame to my head like Gamma Knife?",
+            "a": "<p>No. CyberKnife uses a moulded plastic mask for head and neck treatment, and a soft body cradle elsewhere. Nothing pierces the skin. The robot corrects for small movements by taking X-ray images throughout the session and re-aiming the beam, so rigid immobilisation is not needed. Many patients choose CyberKnife specifically to avoid the head frame used in frame-based radiosurgery.</p>"
+          },
+          {
+            "q": "What are the side effects of CyberKnife?",
+            "a": "<p>Side effects are usually mild and depend on where the radiation is aimed. Fatigue is the most common, often starting a few days after treatment. Brain treatment can cause headache or temporary swelling; lung treatment may bring cough or chest discomfort; prostate treatment can cause urinary urgency or bowel irritation. Serious late effects are uncommon but possible, and should be discussed with your radiation oncologist before you consent.</p>"
+          },
+          {
+            "q": "Am I eligible for CyberKnife?",
+            "a": "<p>Eligibility depends on tumour size, number of lesions, location, your prior radiation history, and your general fitness. CyberKnife generally suits tumours under about 5 cm with clear edges, and up to a few lesions rather than widespread disease. Being able to lie still for an hour also matters. Only a radiation oncologist reviewing your scans and reports can confirm whether you are suitable.</p>"
+          },
+          {
+            "q": "How much does CyberKnife cost in India or China?",
+            "a": "<p>A full CyberKnife course typically costs about USD 5,000–9,000 in India and roughly USD 7,000–14,000 in China, covering planning scans and all sessions in most packages. Prices vary by hospital, city, tumour site, and number of fractions. Costs may rise if extra imaging, fiducial marker placement, or a longer stay is needed. Always ask for a written quote listing exactly what is included.</p>"
+          },
+          {
+            "q": "Can I have CyberKnife if I have already had radiation to the same area?",
+            "a": "<p>Sometimes, yes. CyberKnife is one of the few options considered for re-irradiation, because its sharp dose fall-off can spare tissue that already received radiation. Whether it is safe depends on how much dose that area absorbed before, how long ago, and which organs sit nearby. Your team will review your earlier radiation records in detail. Re-treatment carries a higher risk of tissue damage and is decided case by case.</p>"
+          },
+          {
+            "q": "How do I arrange CyberKnife treatment abroad?",
+            "a": "<p>Start by sending your recent scans, biopsy report, and treatment history to a centre that runs a CyberKnife system, so their radiation oncologist can confirm suitability before you travel. CancerFax can help you organise those reports, reach centres in India and China, and compare written cost estimates alongside your own oncology team. Acceptance, scheduling, and visa approval are never guaranteed and remain decisions for the hospital and authorities.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

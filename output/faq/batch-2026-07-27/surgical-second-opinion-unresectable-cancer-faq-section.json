@@ -1,0 +1,59 @@
+{
+  "pillar": "Getting a Surgical Second Opinion for an 'Unresectable' Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "surgical-second-opinion-unresectable-cancer",
+  "route": "/insights/surgical-second-opinion-unresectable-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does it mean when doctors say my cancer is unresectable?",
+            "a": "<p>Unresectable means the surgeon does not believe the whole tumour can be removed safely with clear margins. It is a judgement about this tumour, this patient and this surgical team at this moment. It often reflects the tumour wrapping around major blood vessels, spread to several organs, or a body not strong enough for a long operation. That assessment can change as treatment shrinks the tumour.</p>"
+          },
+          {
+            "q": "Is unresectable the same as inoperable or terminal?",
+            "a": "<p>No. Unresectable describes the tumour's anatomy, inoperable usually describes your fitness for anaesthesia and surgery, and neither word means terminal. Many people live for years with an unresectable cancer controlled by drugs, radiation or ablation, and some later become surgical candidates once the tumour shrinks. Ask your oncologist to state plainly which of the three words applies to you, because the treatment path differs for each.</p>"
+          },
+          {
+            "q": "Should I get a second opinion after being told surgery is not an option?",
+            "a": "<p>Yes, a surgical second opinion is worth seeking whenever surgery has been ruled out, because resectability is one of the most reviewer-dependent calls in oncology. High-volume centres often accept cases that smaller hospitals decline, since they perform vascular reconstruction and multi-organ resections routinely. A second review may simply confirm the first opinion, which is still useful, as it lets you commit to non-surgical treatment with confidence.</p>"
+          },
+          {
+            "q": "How often does a second opinion actually change the answer?",
+            "a": "<p>Published reviews of second opinions in surgical oncology report that the treatment plan changes in roughly 10 to 30 percent of cases, with resectability itself reversed in a smaller share. The odds tend to be highest for pancreatic, liver, bile duct and retroperitoneal tumours, where borderline anatomy is common. Your own chance depends on your scans, your fitness and the expertise of the centre reviewing you.</p>"
+          },
+          {
+            "q": "Which kind of doctor should give the second opinion?",
+            "a": "<p>Ask a surgeon who personally operates on your tumour type in high volume, not only a medical oncologist. For pancreatic or liver cancer that means a hepatopancreatobiliary surgeon; for sarcoma, a dedicated sarcoma unit. The reviewer should sit in a tumour board that includes radiology, so your images are re-read rather than the old report repeated. Academic and national cancer centres are usually the strongest option.</p>"
+          },
+          {
+            "q": "What records and scans do I need to send for the review?",
+            "a": "<p>Send the actual imaging files, not the reports alone. Surgeons need raw DICOM data from a recent contrast CT or MRI, ideally taken within six weeks, plus pathology slides or the tissue block, the pathology report, blood results including tumour markers, and a summary of treatment so far. CancerFax can help you assemble and forward this file set to reviewing centres in India or China.</p>"
+          },
+          {
+            "q": "Can chemotherapy or radiation make an unresectable tumour operable later?",
+            "a": "<p>Yes, and this happens often enough to be a standard strategy, usually called conversion or downstaging therapy. Several months of chemotherapy, sometimes with radiation or targeted drugs, may pull a tumour away from a blood vessel or shrink liver metastases enough to remove them. Your team should re-scan and formally reassess resectability after each block of treatment rather than assuming the first verdict still holds.</p>"
+          },
+          {
+            "q": "Will waiting for a second opinion let my cancer grow?",
+            "a": "<p>A two to three week review rarely changes the outcome for most solid tumours, and starting the wrong treatment can cost far more time than a short pause. Tell both teams your timeline so the review is expedited. If you have bleeding, a blocked bowel, jaundice or spinal cord pressure, those need urgent attention first, and the resectability question can be revisited once you are stable.</p>"
+          },
+          {
+            "q": "Can I get a surgical second opinion from a hospital in India or China?",
+            "a": "<p>Yes. Many Indian and Chinese cancer centres review scans remotely and issue a written opinion before you travel, usually within one to two weeks. This can be valuable because some of these centres perform very high volumes of complex resections each year. Costs, visa timelines and whether the surgeon will operate on an overseas patient vary widely, so confirm all three in writing first.</p>"
+          },
+          {
+            "q": "How much does a surgical second opinion cost?",
+            "a": "<p>A remote written opinion from an Indian or Chinese cancer centre typically costs a few hundred US dollars, and some centres waive the fee if you later book treatment there. Second opinions at home may be covered by insurance, though coverage rules differ by policy. CancerFax can outline current fees and turnaround times, but confirm the final figure with the hospital and let your treating oncologist guide the decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

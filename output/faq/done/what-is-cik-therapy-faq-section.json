@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is CIK Therapy? A Complete Patient Introduction",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-cik-therapy",
+  "route": "/insights/what-is-cik-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK therapy in simple terms?",
+            "a": "<p>CIK therapy is a form of immunotherapy in which your own white blood cells are collected, grown and activated in a laboratory, then returned to your body to attack cancer cells. CIK stands for cytokine-induced killer cells. These cells are trained outside the body to recognise tumour cells more aggressively than they would naturally. The whole cycle usually takes two to three weeks from blood collection to infusion.</p>"
+          },
+          {
+            "q": "How is CIK therapy different from CAR T-cell therapy?",
+            "a": "<p>CIK therapy uses your natural immune cells expanded and activated in a lab, while CAR T-cell therapy genetically engineers those cells to carry a new receptor targeting a specific protein. CAR T is more targeted and more powerful in certain blood cancers, but also more toxic and far more expensive. CIK is gentler, broader in action, and often used for solid tumours where CAR T has shown limited results so far.</p>"
+          },
+          {
+            "q": "Which cancers is CIK therapy used for?",
+            "a": "<p>CIK therapy has been studied most in liver, lung, stomach, kidney, colorectal and breast cancers, and in some blood cancers such as leukaemia and lymphoma. It is most often given alongside surgery, chemotherapy or radiotherapy rather than on its own. Whether it may help in your case depends on your tumour type, stage, prior treatments and general health, so your oncology team needs to review your full records first.</p>"
+          },
+          {
+            "q": "Does CIK therapy actually work, or is it experimental?",
+            "a": "<p>CIK therapy is still considered investigational in most countries, though several trials suggest it can extend disease-free survival when added to standard treatment, particularly after liver cancer surgery. It is not a replacement for chemotherapy, radiotherapy or surgery. Results vary widely between studies and between patients, and no reputable centre can promise that it will shrink a tumour or prevent recurrence in any individual case.</p>"
+          },
+          {
+            "q": "What are the side effects of CIK therapy?",
+            "a": "<p>Most people experience only mild side effects, typically fever, chills, fatigue, headache or a short-lived flu-like feeling in the hours after infusion. Serious reactions are uncommon compared with chemotherapy or CAR T-cell therapy. Because the cells come from your own body, the risk of rejection is very low. Even so, you should be monitored during and after each infusion, and any fever should be reported to your team promptly.</p>"
+          },
+          {
+            "q": "How many CIK infusions will I need?",
+            "a": "<p>Most protocols involve four to six infusions given over several weeks, though some centres extend treatment across multiple cycles over a year. Each cycle typically starts with a blood draw, followed by two to three weeks of cell culture in the lab, then the infusion itself. The exact number depends on your cancer type, how you respond and what the treating centre's protocol specifies.</p>"
+          },
+          {
+            "q": "Where can I get CIK therapy?",
+            "a": "<p>CIK therapy is most widely available in China, Japan, South Korea and Germany, with some access in India through specialist centres and clinical trials. It is generally not approved as a standard treatment in the United States or the United Kingdom outside of research settings. CancerFax can help you identify centres currently offering CIK therapy for your cancer type, though your treating oncologist should confirm whether travelling for it makes clinical sense.</p>"
+          },
+          {
+            "q": "How much does CIK therapy cost?",
+            "a": "<p>CIK therapy typically costs between USD 5,000 and USD 20,000 for a full course, depending on the country, the number of infusions and whether it is combined with other treatments. China and India sit at the lower end of that range. Costs quoted online rarely include travel, accommodation, scans or the treatments given alongside CIK, so ask any centre for a written breakdown before committing.</p>"
+          },
+          {
+            "q": "Can I have CIK therapy at the same time as chemotherapy?",
+            "a": "<p>Yes, CIK therapy is usually given in combination with chemotherapy rather than instead of it, and several studies have tested exactly this pairing. Timing matters, because chemotherapy suppresses the immune cells that CIK therapy relies on. Most centres collect your blood before a chemotherapy cycle and infuse the cells during a recovery window. Your oncologist and the CIK centre need to coordinate this schedule directly.</p>"
+          },
+          {
+            "q": "Am I eligible for CIK therapy if I have advanced cancer?",
+            "a": "<p>Many centres do accept patients with advanced or metastatic disease, but eligibility usually depends on having adequate white blood cell counts, reasonable organ function and a performance status that allows you to travel and tolerate infusions. Very frail patients or those with severe autoimmune conditions may not qualify. A centre can only confirm eligibility after reviewing your recent scans, blood work and pathology reports.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

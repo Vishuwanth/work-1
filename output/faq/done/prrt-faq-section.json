@@ -1,0 +1,59 @@
+{
+  "pillar": "PRRT: Peptide Receptor Radionuclide Therapy for Neuroendocrine Tumors",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "prrt",
+  "route": "/treatments/prrt",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is PRRT and how does it actually work?",
+            "a": "<p>PRRT is a targeted radiation treatment that delivers radioactivity directly to neuroendocrine tumour cells from inside the body. A lab-made peptide binds to somatostatin receptors on the tumour surface, carrying a radioactive isotope such as lutetium-177 with it. The radiation destroys the cell it is attached to while largely sparing healthy tissue nearby. It is given as a drip into a vein, usually in a hospital nuclear medicine unit.</p>"
+          },
+          {
+            "q": "Am I eligible for PRRT?",
+            "a": "<p>Eligibility depends mainly on whether your tumour shows strong somatostatin receptor uptake on a Ga-68 DOTATATE PET scan. Your kidney function, blood counts and general fitness also matter, and most centres look for a well or moderately differentiated tumour rather than a high-grade one. Many patients are considered after somatostatin analogues stop controlling the disease. Only a nuclear medicine team reviewing your scans can confirm whether you qualify.</p>"
+          },
+          {
+            "q": "How many PRRT sessions will I need, and how long does each one take?",
+            "a": "<p>Most patients receive four cycles, spaced about eight weeks apart, so the full course runs roughly six to eight months. Each session takes four to six hours, including the amino acid drip given to protect your kidneys. Some centres keep you in overnight; many send you home the same day. Your team may change the number of cycles depending on how your scans, blood counts and kidney tests respond.</p>"
+          },
+          {
+            "q": "What are the side effects of PRRT?",
+            "a": "<p>The most common side effects are nausea, tiredness and mild abdominal discomfort in the days after each infusion, largely caused by the amino acid drip rather than the radiation. Blood counts often dip over the following weeks and usually recover. Less commonly, kidney function declines slowly over years, and a small number of patients later develop a bone marrow disorder. Your team checks blood and kidney tests before every cycle.</p>"
+          },
+          {
+            "q": "Can PRRT cure my neuroendocrine tumour?",
+            "a": "<p>PRRT is not usually a cure, but it can control neuroendocrine tumours for a long time. In trials of lutetium-177 DOTATATE for midgut tumours, most patients saw the disease stop growing, and many had tumours shrink and symptoms such as flushing and diarrhoea ease. Benefit often lasts a few years, and treatment can sometimes be repeated later. How long it works varies widely from one person to the next.</p>"
+          },
+          {
+            "q": "How much does PRRT cost in India?",
+            "a": "<p>A four-cycle course of PRRT in India commonly costs between USD 16,000 and 28,000, or roughly USD 4,000 to 7,000 per cycle, depending on the hospital, the isotope used and how much imaging is included. Travel, accommodation and follow-up scans sit on top of that.</p><p>Prices move, so ask for a written quote covering the whole course; CancerFax can help you gather quotes from accredited centres, with the final decision resting with your oncology team.</p>"
+          },
+          {
+            "q": "Is PRRT available in China for international patients?",
+            "a": "<p>PRRT with lutetium-177 is offered at several large nuclear medicine centres in China, though availability varies by city and hospital, and isotope supply can affect scheduling. International patients usually need their scans, pathology report and recent blood tests reviewed before a treatment slot is offered. Some centres also run trials of newer agents. Confirm in writing that the specific isotope and dose you need are available before you travel.</p>"
+          },
+          {
+            "q": "Will I be radioactive afterwards, and do I have to stay away from my family?",
+            "a": "<p>You will be mildly radioactive for a few days, so most centres ask you to sleep alone, keep about a metre away from children and pregnant women, flush the toilet twice and drink plenty of water for roughly three to seven days. The exact instructions depend on local rules and the dose you received. Short periods of normal contact with other adults are generally considered safe.</p>"
+          },
+          {
+            "q": "Is PRRT better than chemotherapy for my type of tumour?",
+            "a": "<p>PRRT is usually preferred over chemotherapy for well-differentiated neuroendocrine tumours that light up on a DOTATATE scan, because it is better tolerated and often controls the disease for longer. Chemotherapy tends to be reserved for fast-growing, high-grade tumours or those with weak receptor uptake. Targeted drugs such as everolimus and sunitinib are other options. The best sequence depends on your tumour grade, scan findings and previous treatments.</p>"
+          },
+          {
+            "q": "What do I need to arrange before travelling abroad for PRRT?",
+            "a": "<p>Start by having your Ga-68 DOTATATE PET scan, pathology report and recent kidney and blood results reviewed remotely, so the centre can confirm suitability before you book flights. Plan for either a long stay across the whole course or repeat trips roughly every eight weeks. Medical visas, an interpreter and a local follow-up plan matter too. CancerFax can help arrange these reviews alongside your own oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Robotic-Assisted Radical Prostatectomy: What to Expect Before and After",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "robotic-radical-prostatectomy",
+  "route": "/insights/robotic-radical-prostatectomy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What actually happens during a robotic-assisted radical prostatectomy?",
+            "a": "<p>Robotic-assisted radical prostatectomy removes the whole prostate and the seminal vesicles through five or six keyhole cuts, with the surgeon controlling the instruments from a console beside you. The robot does not operate on its own; it copies your surgeon's hand movements with steadier, finer control. Magnified 3D vision helps spare the nerves and muscles that control erections and urine. Most men go home within one to two days.</p>"
+          },
+          {
+            "q": "How long does the operation take, and what happens on the day?",
+            "a": "<p>Most robotic prostatectomies take two to four hours, and you are fully asleep under general anaesthetic the whole time. You arrive fasting that morning, meet the anaesthetist, and are usually in the recovery room within an hour of the last stitch. A urinary catheter, and sometimes a small drain, will already be in place when you wake up. Timing can stretch if the prostate is large or scarred.</p>"
+          },
+          {
+            "q": "How long will I have the catheter, and does removing it hurt?",
+            "a": "<p>The catheter usually stays in for seven to ten days, sometimes as little as five. It lets the new join between the bladder and urethra heal without urine leaking through it. Removal takes about a minute in the clinic and is uncomfortable rather than painful. Expect some leakage in the first hours after it comes out. That is normal and does not mean the surgery failed. Your surgeon decides the exact day.</p>"
+          },
+          {
+            "q": "Will I be able to control my urine after surgery?",
+            "a": "<p>Most men leak urine at first and regain control over weeks to months, with roughly 80 to 90 percent dry or needing only a thin pad by twelve months. Pelvic floor exercises started before surgery often speed this up. Age, prostate size, and how much of the sphincter could be preserved all matter. A small number of men have lasting leakage that may need a sling or artificial sphincter later.</p>"
+          },
+          {
+            "q": "Will I lose my erections permanently?",
+            "a": "<p>Erections often return within one to two years if both nerve bundles were spared, but recovery is slow and rarely complete straight away. Men who were under 60 with good erections before surgery tend to do best. If cancer sat close to the nerves, your surgeon may have to remove them, and natural erections may not come back. Tablets, vacuum devices, and injections can help; ask about penile rehabilitation before you leave hospital.</p>"
+          },
+          {
+            "q": "Is robotic surgery better than open surgery for prostate cancer?",
+            "a": "<p>Robotic surgery gives less blood loss, less pain, and a faster return home than open surgery, but cancer control and long-term continence and potency results are broadly similar. The surgeon's experience matters more than the machine; a high-volume open surgeon can outperform a low-volume robotic one. Ask how many cases your surgeon does each year. Access to robotic surgery also depends on cost and on which hospitals near you have a system.</p>"
+          },
+          {
+            "q": "When can I go back to work and normal activity?",
+            "a": "<p>Most men walk the same evening, manage light desk work at three to four weeks, and return to full activity by about six weeks. No lifting over five kilograms, no driving, and no cycling until your surgeon clears you, usually after the catheter is out. Constipation and shoulder-tip pain from the gas used during surgery are common in the first week. Recovery can take longer if you have other health problems.</p>"
+          },
+          {
+            "q": "What should my PSA be after the prostate is removed?",
+            "a": "<p>Your PSA should fall to undetectable, usually under 0.1 ng/mL, about six to eight weeks after the prostate is removed. The first test is normally done then, and repeated every three to six months for the first two years. A rising PSA does not always mean the cancer has spread; it may mean a few cells were left behind, which radiation can often treat. Ask your team what number they act on.</p>"
+          },
+          {
+            "q": "Will I need radiation or hormone therapy after the surgery?",
+            "a": "<p>You may, and the pathology report on the removed prostate decides it. Positive margins, cancer through the capsule, or involved lymph nodes can lead to radiation or hormone therapy, often months later rather than straight away. Around a quarter to a third of men need some added treatment within ten years. CancerFax can help you get the pathology report reviewed by a second oncology team, though your treating surgeon leads the plan.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for robotic prostate surgery?",
+            "a": "<p>Yes, and India and China both offer robotic prostatectomy at a fraction of Western prices, often with waiting times of days rather than weeks. Plan for roughly two to three weeks in the country so the catheter can come out and the pathology report can be discussed before you fly. Costs, visas, and hospital availability vary. CancerFax can help arrange estimates and appointments, but your own urologist should approve travelling.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "CancerFax: How We Help International Cancer Patients Access Advanced Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-cancerfax-helps-international-patients",
+  "route": "/insights/how-cancerfax-helps-international-patients",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How does CancerFax help me if I want cancer treatment in another country?",
+            "a": "<p>CancerFax helps international patients find and reach advanced cancer treatment abroad, mainly in India and China. That usually means reviewing your reports, identifying hospitals and specialists who treat your exact cancer type, arranging a written treatment plan with cost estimates, and supporting the travel and admission steps. Every clinical decision stays with the treating oncology team, and what is possible depends on your diagnosis, stage and current health.</p>"
+          },
+          {
+            "q": "What medical documents do I need to send before anyone can advise me?",
+            "a": "<p>Start with your most recent medical reports: the pathology or biopsy report, recent scans such as PET-CT or MRI, blood work, and a summary of any treatment you have already received. Molecular or genetic testing results help a great deal when they exist. Clear scanned copies in English are easiest to review. Missing pieces can often be added later, though a hospital opinion may take longer without them.</p>"
+          },
+          {
+            "q": "How long will it take to get a treatment plan and a cost estimate?",
+            "a": "<p>Most hospitals return a written opinion and cost estimate within three to seven working days once complete reports are received. Complex cases needing a tumour board review, or extra tests such as immunohistochemistry, can take longer. If your situation is urgent, say so at the start so the request can be flagged. Timelines are estimates, not promises, and depend on the hospital's own workload and the specialist's availability.</p>"
+          },
+          {
+            "q": "Do I have to pay for this help, and are there hidden charges?",
+            "a": "<p>Patient support of this kind is generally free; you pay the hospital directly for your treatment. There are no hidden charges added to the hospital's quoted price. You may still have your own costs for visas, flights, accommodation and translation. Always ask for the full cost estimate in writing before you travel, and confirm what is included, since prices can change if the treatment plan changes.</p>"
+          },
+          {
+            "q": "Which countries and which treatments can I actually be sent to?",
+            "a": "<p>India and China are the two main destinations, and both offer options that many patients cannot access at home. India is strong in surgery, radiotherapy, bone marrow transplant and proton therapy. China leads in CAR T-cell therapy, TCR-T and other cell therapies, often through clinical trials. Availability depends on your cancer type, prior treatment and whether a suitable trial is open at the time you apply.</p>"
+          },
+          {
+            "q": "Can you get me into a clinical trial for CAR T-cell therapy?",
+            "a": "<p>No one can guarantee a place in a clinical trial, but you can be matched to trials you may qualify for and helped to submit your file to the study team. Enrolment is decided only by the trial investigators against strict criteria covering cancer type, prior therapy, organ function and performance status. Screening tests are repeated on arrival, and a patient who looks eligible on paper can still be declined.</p>"
+          },
+          {
+            "q": "Will someone help with the medical visa, flights and staying near the hospital?",
+            "a": "<p>Yes. A visa invitation letter from the treating hospital is normally arranged once your admission is confirmed, and this letter supports a medical visa application for you and an attendant. Airport pickup, accommodation near the hospital, interpreters and a local coordinator can also be organised. Visa approval itself rests with the embassy, so apply early and keep your medical documents and hospital correspondence together in one folder.</p>"
+          },
+          {
+            "q": "Can I get a second opinion first, without flying anywhere?",
+            "a": "<p>Yes, a written second opinion can usually be obtained without leaving your country. You share your reports, a specialist reviews them, and you receive an opinion on diagnosis, staging and the treatment options worth considering. Video consultations with the doctor are often possible too. A remote opinion is guidance for you and your local oncologist, and any final plan still needs an in-person examination and current tests.</p>"
+          },
+          {
+            "q": "How do you decide which hospital and doctor to recommend to me?",
+            "a": "<p>Hospitals are shortlisted on their experience with your specific cancer, the technology they have, waiting time and cost, not on who pays for referrals. CancerFax usually presents more than one option so you can compare opinions and prices side by side before deciding. You are free to choose any hospital, or none. The final treatment decision should always be made with your own oncologist involved.</p>"
+          },
+          {
+            "q": "What happens after my treatment, once I go back home?",
+            "a": "<p>Before discharge you receive a full summary: what was done, drugs given, scan results and a follow-up schedule your local oncologist can continue. Discharge papers are usually shared electronically as well, so nothing is lost in transit. Follow-up questions can often be sent back to the treating doctor for months afterwards. How long remote follow-up continues varies by hospital, so confirm the arrangement before you fly home.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

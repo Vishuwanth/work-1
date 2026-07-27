@@ -1,0 +1,59 @@
+{
+  "pillar": "CAR-T for DLBCL in India: Eligibility, Outcomes, and Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-for-dlbcl-in-india",
+  "route": "/insights/car-t-for-dlbcl-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Am I eligible for CAR-T therapy if my DLBCL has come back?",
+            "a": "<p>Most CAR-T programmes in India accept patients with diffuse large B-cell lymphoma that has relapsed or stopped responding after at least two prior lines of treatment. Doctors also check that your heart, lungs, kidneys and liver can handle the process, and that no uncontrolled infection is present. Age alone rarely disqualifies anyone. Final eligibility depends on your treating haematologist's assessment and the specific centre's protocol.</p>"
+          },
+          {
+            "q": "How much does CAR-T for DLBCL cost in India?",
+            "a": "<p>Indian-made CD19 CAR-T products such as NexCAR19 are priced at roughly Rs 30 to 42 lakh, far below the US price of around 400,000 dollars for imported products. Hospital stay, bridging chemotherapy, scans and treatment of side effects add to this figure. Prices change and vary between centres, so ask for a written estimate before committing. Insurance cover for CAR-T in India is still limited.</p>"
+          },
+          {
+            "q": "What are the chances CAR-T will actually work for my lymphoma?",
+            "a": "<p>In international trials, about 50 to 65 percent of patients with relapsed DLBCL reached a complete response after CD19 CAR-T, and roughly 30 to 40 percent stayed disease-free years later. Early Indian experience with NexCAR19 has shown broadly similar response rates in smaller groups. Your own outcome depends on tumour bulk, how fast the disease is growing and your prior treatments. No result can be promised.</p>"
+          },
+          {
+            "q": "Which hospitals in India offer CAR-T for lymphoma?",
+            "a": "<p>CAR-T is delivered at a small number of accredited centres, including Tata Memorial Centre and ACTREC in Mumbai, Apollo Hospitals in Chennai, and selected transplant units in Delhi, Bengaluru and Hyderabad. Each centre needs a cell-therapy licence, an apheresis unit and intensive care backup. The list keeps growing as regulatory approvals expand, so confirm current availability and waiting times directly with the hospital before you travel.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for the whole treatment?",
+            "a": "<p>Plan for roughly six to ten weeks in total. That covers the workup and cell collection, about two to four weeks while your cells are manufactured, lymphodepleting chemotherapy, the infusion itself, and two to four weeks of close monitoring afterwards. Most centres ask you to stay within an hour of the hospital for the first month. Your team may extend this if side effects develop.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the CAR-T infusion?",
+            "a": "<p>The two main risks are cytokine release syndrome, which brings fever, low blood pressure and breathlessness, and neurological effects such as confusion or trouble speaking. Most episodes are mild to moderate and reverse with tocilizumab and steroids. Low blood counts and a higher infection risk can last weeks or months.</p><p>Serious events do occur in a minority of patients, which is why you stay near the hospital for monitoring.</p>"
+          },
+          {
+            "q": "Can I travel to India from another country for CAR-T?",
+            "a": "<p>Yes, international patients are treated at Indian CAR-T centres, usually on a medical visa arranged with a hospital invitation letter. You will need an accompanying attendant, translated medical records, recent scans and pathology blocks. Because your own cells must be collected and manufactured locally, treatment cannot be started at home and finished in India. CancerFax can help coordinate paperwork with a centre, though the treating oncology team decides suitability.</p>"
+          },
+          {
+            "q": "How is CAR-T different from a stem cell transplant?",
+            "a": "<p>CAR-T uses your own T cells, re-engineered to recognise the CD19 protein on lymphoma cells, and given back as a single infusion. A transplant relies on high-dose chemotherapy followed by stem cells to rebuild your bone marrow. CAR-T needs no donor and carries no graft-versus-host disease risk, and it is often considered when a transplant has failed or you are not fit enough for one.</p>"
+          },
+          {
+            "q": "What happens if CAR-T does not work for me?",
+            "a": "<p>Other options usually remain. Bispecific antibodies such as glofitamab and epcoritamab, antibody-drug conjugates like polatuzumab vedotin, allogeneic transplant, radiotherapy to a single stubborn site, or a clinical trial may all be discussed. Doctors typically scan at one and three months to judge the response. CancerFax can help you gather second opinions and trial information, but your haematologist should decide the next step.</p>"
+          },
+          {
+            "q": "How soon can I start, and what is the first step?",
+            "a": "<p>Most centres complete screening within one to two weeks once your records and recent scans are in hand, with cell collection soon after. Begin by sending your biopsy report, PET-CT images and full treatment history to the transplant unit for review. Bridging chemotherapy is often used to keep the disease controlled while cells are manufactured. Timelines shift with slot availability, so confirm dates before booking travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

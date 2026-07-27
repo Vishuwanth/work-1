@@ -1,0 +1,59 @@
+{
+  "pillar": "Remote vs In-Person Cancer Second Opinions: How to Decide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "remote-vs-in-person-cancer-second-opinion",
+  "route": "/guides/remote-vs-in-person-cancer-second-opinion",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is a remote second opinion as good as seeing the doctor in person?",
+            "a": "<p>For most cancer cases a remote second opinion is clinically equivalent, because the specialist is reviewing the same pathology report, scans, and treatment history a visiting patient would bring. What changes is the physical exam and the face-to-face conversation. Remote review works well for confirming diagnosis, staging, and treatment sequence, though your treating team may still advise an in-person visit if your case is unusual or a procedure decision is close.</p>"
+          },
+          {
+            "q": "When should I insist on an in-person second opinion instead?",
+            "a": "<p>Choose in person when a physical examination could change the plan, or when you are close to committing to surgery or a complex procedure at that hospital. Head and neck tumours, sarcomas, palpable masses, skin lesions, and cases where function or reconstruction is being weighed often benefit from hands-on assessment. Your current oncologist can tell you whether your specific case falls into that group.</p>"
+          },
+          {
+            "q": "How much does a remote second opinion cost compared to travelling?",
+            "a": "<p>A written remote second opinion typically costs a few hundred US dollars, while an in-person visit abroad adds flights, visas, accommodation, and often repeat local diagnostics, which can run into several thousand. Estimates only, and the final figure depends on the hospital, how many tests are repeated, and how long you stay. Ask for the full breakdown in writing before you commit either way.</p>"
+          },
+          {
+            "q": "How long does each option take?",
+            "a": "<p>Remote opinions are usually delivered within five to seven working days once your complete records arrive, while an in-person consultation abroad often takes three to six weeks to arrange because of appointment slots and visa processing. If a treatment decision is already scheduled, remote review is usually the only option fast enough. Timelines can slip if records are incomplete or slides need re-review.</p>"
+          },
+          {
+            "q": "What records do I need to send for a remote review?",
+            "a": "<p>Send your pathology or biopsy report, recent CT, PET, or MRI with the original scan files rather than printed images, recent blood work, and a summary of treatment already given. Molecular or genetic testing reports help considerably.</p><p>An incomplete file does not block the review, but the specialist may hold a firm opinion until the missing pieces arrive.</p>"
+          },
+          {
+            "q": "Can the specialist really judge my scans without examining me?",
+            "a": "<p>Yes, in most cases, because cancer decisions rest largely on imaging, pathology slides, and molecular markers rather than on physical findings. Radiologists and oncologists routinely read scans for patients they never meet. Where a physical detail matters, the reviewing specialist will usually say so and ask your local doctor to check it, or recommend that you come in person before anything is finalised.</p>"
+          },
+          {
+            "q": "Do I get to speak to the doctor on a remote second opinion?",
+            "a": "<p>Often yes. Many remote reviews include a video call with the reviewing specialist after the written report is delivered, so you can ask questions directly. Some hospitals provide the written opinion only, with a coordinator available to explain it. Ask upfront whether a call is included and whether interpretation is available, because this varies by hospital and by what you pay for.</p>"
+          },
+          {
+            "q": "Will a remote second opinion be accepted by my current hospital?",
+            "a": "<p>In most cases yes, as a written specialist opinion carries the same weight whether it was produced remotely or in a clinic. Your treating oncologist is not obliged to follow it, and they may reasonably disagree. Take the report in and go through it point by point. The decision rests with you and the team actually delivering your care, so bring both plans to that conversation.</p>"
+          },
+          {
+            "q": "Can a remote review tell me whether I qualify for a clinical trial abroad?",
+            "a": "<p>A remote review can flag trials that may fit your cancer type, stage, and biomarker profile, but it cannot confirm enrolment. Trial eligibility is decided only after investigator review of your full records and current lab values, and recruitment can close without notice. Most trials also require you to be physically present at the site, so travel becomes part of the decision if a match looks promising.</p>"
+          },
+          {
+            "q": "How do I decide between the two if I am still unsure?",
+            "a": "<p>Start remote in most situations, then travel only if the opinion points to treatment you would take at that hospital. Remote review is cheaper, faster, and rules nothing out, so it costs you little to begin there. CancerFax can help organise your records, identify relevant specialists, and estimate costs for either route, with the final choice made together with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

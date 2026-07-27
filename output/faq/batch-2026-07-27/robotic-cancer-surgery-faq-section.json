@@ -1,0 +1,59 @@
+{
+  "pillar": "Robotic Cancer Surgery: Technology, Evidence, and Global Access",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "robotic-cancer-surgery",
+  "route": "/treatments/robotic-cancer-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is robotic cancer surgery?",
+            "a": "<p>Robotic cancer surgery is keyhole surgery in which a surgeon controls thin instruments through a console instead of holding them directly. Small cuts, a magnified 3D camera, and wristed instruments let the surgeon work precisely in tight spaces like the pelvis or chest. The most widely used system is the da Vinci platform. Your surgeon stays in control of every movement, and can switch to open surgery if needed.</p>"
+          },
+          {
+            "q": "Is robotic surgery better than open surgery for my cancer?",
+            "a": "<p>Robotic surgery usually means less blood loss, less pain, and a shorter hospital stay than open surgery, but long-term cancer survival is broadly similar in most studies. The advantage is recovery, not cure rates. For some cancers, such as early cervical cancer, trials found open surgery gave better outcomes. The right choice depends on your tumour type, stage, and your surgeon's experience with the specific operation.</p>"
+          },
+          {
+            "q": "Does the robot operate on its own?",
+            "a": "<p>No. The robot cannot move or cut by itself. Every instrument movement comes from a trained surgeon sitting at a console a few feet away, watching a magnified 3D view of your body. The system filters out hand tremor and scales large hand movements into tiny, precise ones. A second surgeon and a scrub team stay at the operating table throughout, ready to take over if the system needs to be stopped.</p>"
+          },
+          {
+            "q": "Which cancers is robotic surgery used for?",
+            "a": "<p>Robotic surgery is most established for prostate, kidney, bladder, uterine, colorectal, and some lung and stomach cancers. It suits operations deep in the pelvis or chest, where open access is difficult. Head and neck tumours reachable through the mouth are another common use. Whether it fits your case depends on tumour size, spread, previous surgery, and whether a robotic programme with that specific expertise is available near you.</p>"
+          },
+          {
+            "q": "How much does robotic cancer surgery cost in India?",
+            "a": "<p>Robotic cancer surgery in India often costs between USD 6,000 and USD 12,000 for common operations such as robotic prostatectomy or hysterectomy, including the hospital stay. Prices vary widely with the hospital, the city, the complexity of the tumour, and how long you stay. The same operation in the United States or Europe frequently costs several times more. Quotes are estimates and can change once your scans and fitness for surgery are reviewed.</p>"
+          },
+          {
+            "q": "Can I get robotic cancer surgery in China as an international patient?",
+            "a": "<p>Yes, many large hospitals in Chinese cities such as Shanghai, Beijing, and Guangzhou run robotic surgery programmes and accept international patients. Access usually depends on a medical visa, an accepted referral with your scans and pathology, and bed availability. Waiting times and the languages supported vary by hospital. CancerFax can help you send your reports to centres abroad for an opinion, though the final plan stays with your treating oncology team.</p>"
+          },
+          {
+            "q": "How long is recovery after robotic cancer surgery?",
+            "a": "<p>Most people leave hospital one to three days after robotic surgery and return to light daily activity within two to four weeks. Full recovery, including heavy lifting and physically demanding work, often takes six to eight weeks. Bigger operations, such as robotic surgery for oesophageal or rectal cancer, take longer. Your age, other health problems, and whether chemotherapy or radiotherapy follows can all change this timeline.</p>"
+          },
+          {
+            "q": "What are the risks of robotic cancer surgery?",
+            "a": "<p>Robotic surgery carries the same core risks as any cancer operation: bleeding, infection, blood clots, injury to nearby organs, and problems with anaesthesia. Specific risks include a longer time under anaesthesia and the small chance the surgeon must convert to open surgery mid-operation. Prostate surgery can affect urine control and erections; bowel surgery can affect bowel habit. Ask your surgeon how often these happen in their own patients.</p>"
+          },
+          {
+            "q": "Who is not a good candidate for robotic surgery?",
+            "a": "<p>Robotic surgery may not suit you if the tumour is very large, has grown into major blood vessels, or has spread widely. Heavy scarring from previous abdominal surgery, severe heart or lung disease, and an inability to tolerate the head-down positioning used in pelvic operations can also rule it out. Eligibility is decided case by case after imaging, biopsy, and an anaesthetic assessment, so ask for a clear explanation of the reason.</p>"
+          },
+          {
+            "q": "How do I know the surgeon and hospital are experienced enough?",
+            "a": "<p>Ask how many robotic operations of your exact type the surgeon performs each year and how many the hospital does in total; higher volume is linked to better results. Ask about their conversion rate to open surgery, positive margin rate, and complication rate. A centre should share these numbers without hesitation. Second opinions are reasonable, and CancerFax can help you compare accredited robotic programmes in India and China before you commit.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

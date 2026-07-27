@@ -1,0 +1,59 @@
+{
+  "pillar": "Neuro-Oncology Centres in China for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "neuro-oncology-centres-in-china",
+  "route": "/insights/neuro-oncology-centres-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Which hospitals in China treat brain tumours for international patients?",
+            "a": "<p>China's main neuro-oncology centres include Beijing Tiantan Hospital, Huashan Hospital in Shanghai, Sun Yat-sen University Cancer Center in Guangzhou, and the Chinese PLA General Hospital. These run dedicated neurosurgery units with high case volumes and international patient offices. Hospital quality varies sharply by tier, so ask about annual case numbers for your specific tumour type before you commit to travelling. Acceptance is never guaranteed and depends on your diagnosis and current condition.</p>"
+          },
+          {
+            "q": "Is brain tumour surgery in China as safe as in the US or Europe?",
+            "a": "<p>At top-tier centres, outcomes for brain tumour surgery are broadly comparable to leading Western hospitals, helped by very high surgical volumes and modern tools such as awake craniotomy, intraoperative MRI, and fluorescence-guided resection. Results depend far more on the individual surgeon and the tumour's location than on the country. Ask for the surgeon's personal case numbers for your tumour type, and get a second opinion before deciding.</p>"
+          },
+          {
+            "q": "What brain tumour treatments can I get in China that may not be available at home?",
+            "a": "<p>China offers several options that are limited elsewhere, including carbon ion and proton therapy, tumour-treating fields, early-phase CAR-T and TCR-T trials for glioma, and locally approved targeted drugs. Some are still experimental, and none replaces standard surgery, radiation, and temozolomide where those are appropriate. Whether any of them suits you depends on tumour type, molecular markers, prior treatment, and specialist review. Ask for a written treatment plan before you travel.</p>"
+          },
+          {
+            "q": "How much does brain tumour treatment in China cost for a foreign patient?",
+            "a": "<p>A craniotomy for a brain tumour in China commonly costs about 15,000 to 30,000 US dollars including a short hospital stay, with radiotherapy adding roughly 8,000 to 20,000 dollars and particle therapy considerably more. Prices sit well below United States levels but vary widely by hospital, tumour complexity, and complications. Ask the international patient office for an itemised written estimate, since final costs depend on your protocol and length of stay.</p>"
+          },
+          {
+            "q": "Can I get proton or carbon ion therapy for a brain tumour in China?",
+            "a": "<p>Yes, several Chinese centres offer particle therapy for selected brain and skull base tumours, including the Shanghai Proton and Heavy Ion Center and facilities in Wuwei and Hefei. It is most often considered for tumours sitting close to critical structures, or for recurrent disease after earlier radiation. Eligibility depends on tumour type, size, location, and previous treatment, and is confirmed only after the centre's radiation oncology team reviews your imaging.</p>"
+          },
+          {
+            "q": "Will a Chinese hospital accept my MRI scans and biopsy results from home?",
+            "a": "<p>Most Chinese neuro-oncology centres will review your MRI discs, pathology slides, and treatment summary to give a written opinion before you travel, but they usually repeat the imaging and re-read the pathology themselves after admission. Bring original DICOM files and glass slides rather than printed reports, along with certified English or Chinese translations. Budget an extra week and additional cost for this repeat workup.</p>"
+          },
+          {
+            "q": "Are there clinical trials in China for glioblastoma I could join?",
+            "a": "<p>China runs a large number of early-phase glioma trials, covering cell therapies, oncolytic viruses, bispecific antibodies, and new targeted drugs. Many are open only to residents, or require a local address, a caregiver, and a Chinese-language consent process. Eligibility is decided only after the investigator reviews your molecular profile, prior treatment, and current performance status, so enrolment can never be promised and open slots may close while you arrange travel.</p>"
+          },
+          {
+            "q": "How do I arrange brain tumour treatment in China from abroad?",
+            "a": "<p>Start by sending your imaging, pathology, and treatment history to the hospital's international patient office, which can issue a written opinion, a cost estimate, and an invitation letter for a medical visa. Plan for a deposit, an interpreter, and a caregiver travelling with you. CancerFax can help you organise reports, reach appropriate centres, and compare estimates, while treatment decisions stay with your oncology team. Visa approval and admission are never guaranteed.</p>"
+          },
+          {
+            "q": "Is language a problem at Chinese hospitals if I only speak English?",
+            "a": "<p>Major neuro-oncology centres have international patient offices with English-speaking coordinators, but ward nurses, junior doctors, and rehabilitation staff often speak only Chinese. For brain tumour care, where daily neurological checks and consent discussions matter, arrange a dedicated medical interpreter rather than relying on ward staff or translation apps. Confirm in writing who will interpret during rounds and surgical consent before you fly.</p>"
+          },
+          {
+            "q": "Am I well enough to fly to China with a brain tumour?",
+            "a": "<p>Flying may not be safe if you have raised intracranial pressure, uncontrolled seizures, recent bleeding into the tumour, or weakness that affects mobility. Airlines often require medical clearance, and many centres ask for a recent scan and a fitness-to-fly letter. Ask your current neurosurgeon or oncologist for an honest assessment before you spend money on arrangements, and plan how follow-up scans will continue after you return home.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

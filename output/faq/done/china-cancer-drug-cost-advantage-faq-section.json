@@ -1,0 +1,59 @@
+{
+  "pillar": "China's Biotech Manufacturing Power: Why Advanced Cancer Drugs Cost 40-70% Less",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-cancer-drug-cost-advantage",
+  "route": "/guides/china-cancer-drug-cost-advantage",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why do cancer drugs cost 40 to 70 percent less in China?",
+            "a": "<p>Cancer drugs cost 40 to 70 percent less in China because a large domestic manufacturing base, lower production and labour costs, and heavy price negotiation by the national insurance scheme push prices down. Dozens of Chinese firms make the same molecule, so competition is fierce. Government reimbursement lists also require steep discounts before a drug is covered. Actual savings vary by drug, brand, and hospital.</p>"
+          },
+          {
+            "q": "Are cheaper Chinese cancer drugs lower quality than Western ones?",
+            "a": "<p>Lower price does not automatically mean lower quality. Chinese plants that export to regulated markets must meet the same good manufacturing practice standards as plants in Europe or the United States, and many supply active ingredients to Western brands. Quality varies between manufacturers, though, so it matters which company made the specific batch. Ask your oncology team to confirm the maker and approval status of any drug you are offered.</p>"
+          },
+          {
+            "q": "Are Chinese cancer drugs approved by the FDA or EMA?",
+            "a": "<p>Some are, most are not. A growing number of Chinese cancer drugs have won FDA or EMA approval, often after being licensed to a Western partner, but many are approved only by China's own regulator, the NMPA. An NMPA approval is valid for treatment inside China and does not mean the drug can be prescribed at home. Your local oncologist can tell you what is licensed where you live.</p>"
+          },
+          {
+            "q": "What is a biosimilar, and does it work as well as the original drug?",
+            "a": "<p>A biosimilar is a near-identical copy of a biologic drug, made after the original patent expires and approved only after studies show it behaves the same way in the body. Chinese biosimilars of trastuzumab, rituximab, and bevacizumab commonly cost 50 to 70 percent less than the originator brand. In many cases they work comparably, though your oncologist should decide whether switching is appropriate for your treatment plan.</p>"
+          },
+          {
+            "q": "How much does PD-1 immunotherapy cost in China?",
+            "a": "<p>A PD-1 immunotherapy infusion in China often costs 800 to 2,000 US dollars per cycle, against 8,000 to 12,000 dollars for equivalent drugs in the United States. China has several domestically developed PD-1 antibodies competing on price, including tislelizumab, sintilimab, and camrelizumab. Your final bill depends on the drug chosen, your weight and dose, the number of cycles, and the hospital's own pricing, so ask for a written per-cycle estimate.</p>"
+          },
+          {
+            "q": "Which advanced cancer drugs are made in China?",
+            "a": "<p>China now manufactures a wide range of advanced cancer treatments, including PD-1 and PD-L1 immunotherapies, antibody-drug conjugates, targeted tyrosine kinase inhibitors, biosimilar antibodies, and approved CAR-T cell products. Several were developed domestically rather than copied, and some have been licensed to large Western pharmaceutical companies. Whether any of them fits your cancer depends on your tumour type, biomarkers, and prior treatment, which only your specialist can assess.</p>"
+          },
+          {
+            "q": "Can I buy cancer drugs in China and bring them home?",
+            "a": "<p>Usually not without permission. Most countries limit personal importation of prescription medicines, and unapproved cancer drugs are often blocked at customs. Some allow a named-patient or compassionate-use import if your own doctor applies in advance and takes responsibility for treatment. Rules differ sharply by country, and cold-chain drugs may spoil in transit. Check with your national regulator and your treating oncologist before buying anything abroad.</p>"
+          },
+          {
+            "q": "Were these drugs tested on patients like me?",
+            "a": "<p>Many Chinese cancer drug trials were run mainly in Chinese patients, which is why some Western regulators have asked for extra international data before approving them. That does not mean the drugs do not work, but response and side-effect rates in a broader population may differ. Ask your oncologist whether the trial evidence behind a particular drug includes patients similar to you, and what that evidence actually showed.</p>"
+          },
+          {
+            "q": "How do I check that a Chinese cancer drug is genuine?",
+            "a": "<p>Ask for the manufacturer name, the NMPA approval number, and a hospital-issued invoice listing the exact product and batch. Buy only through a licensed hospital pharmacy, never a broker or online seller. Genuine packaging carries a traceability code that can be checked against the regulator's database. CancerFax can help you verify a drug's approval status and source documents, while the prescribing decision stays with your oncology team.</p>"
+          },
+          {
+            "q": "Do I have to travel to China to get these cheaper drugs?",
+            "a": "<p>In most cases, yes. Drugs approved only in China are normally given inside Chinese hospitals, so patients who want them usually travel for a treatment cycle or a full course. A few molecules are also licensed in India or Europe under a different brand name, which may save you the trip. Your oncologist can check whether an equivalent drug is already available closer to home.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

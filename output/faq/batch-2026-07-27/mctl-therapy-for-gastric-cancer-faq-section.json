@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Therapy for Gastric Cancer: What Patients Should Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-therapy-for-gastric-cancer",
+  "route": "/insights/mctl-therapy-for-gastric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MCTL therapy for gastric cancer?",
+            "a": "<p>MCTL therapy is a personalised cell therapy that uses your own immune cells, expanded in a laboratory to recognise several gastric cancer targets at once, then returned to your bloodstream. It is offered mainly in China, usually within clinical studies for advanced or recurrent gastric cancer. It is not a standard first treatment, and whether it suits you depends on your stage, prior treatments and overall health.</p>"
+          },
+          {
+            "q": "How is MCTL therapy different from CAR-T?",
+            "a": "<p>MCTL uses unmodified T cells trained against multiple tumour antigens, while CAR-T genetically engineers cells to hit one target such as CD19 or Claudin 18.2. Because MCTL cells are not gene-edited, side effects are usually milder, but the anti-tumour effect can also be less intense. For solid tumours like gastric cancer, both approaches remain investigational, and your oncologist can explain which is realistic for your case.</p>"
+          },
+          {
+            "q": "Am I eligible for MCTL therapy?",
+            "a": "<p>Most centres consider patients with advanced or metastatic gastric cancer who have already had chemotherapy, still have reasonable organ function, and can travel for repeated visits. Adequate white blood cell counts matter, because your own cells are collected and grown. Very frail patients, or those with uncontrolled infection or severe autoimmune disease, are often excluded. Eligibility is decided case by case after the treating team reviews your scans and pathology.</p>"
+          },
+          {
+            "q": "Is MCTL therapy approved for gastric cancer?",
+            "a": "<p>No regulator has approved MCTL therapy as a standard gastric cancer treatment. In China it is generally delivered through registered clinical trials or hospital-based cell therapy programmes, and it is not available as routine care in India, Europe or the United States. Approval status can change, so ask the hospital to confirm in writing whether your treatment is a trial, a compassionate programme, or a paid service.</p>"
+          },
+          {
+            "q": "What results have actually been reported so far?",
+            "a": "<p>Reported results are early and come from small studies, so they should be read with caution. Some patients have shown tumour shrinkage or longer disease control when MCTL is combined with chemotherapy or immunotherapy, while others see no measurable benefit. No large randomised trial has yet confirmed a survival advantage. Ask for the published data on patients whose stage and tumour biology resemble your own.</p>"
+          },
+          {
+            "q": "How long does the whole treatment take?",
+            "a": "<p>Plan for roughly four to eight weeks. Cells are collected from your blood, cultured for about two to three weeks, then given back over several infusions spaced days or weeks apart. Many programmes repeat the cycle two to four times. If you are travelling from abroad, add time for visas, scans and pre-treatment tests; coordinators, including teams at CancerFax, can help line up dates before you fly.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>The most common effects are mild and short-lived: fever, chills, fatigue, headache and flu-like aches in the first day or two after an infusion. Because the cells are your own and are not genetically engineered, severe cytokine release syndrome is uncommon. Even so, infusions are given where emergency care is available. Tell the team immediately about high fever, breathlessness or confusion, which need prompt assessment.</p>"
+          },
+          {
+            "q": "How much does MCTL therapy cost in China?",
+            "a": "<p>Costs commonly run from about US$20,000 to US$60,000 for a full course, depending on the hospital, the number of infusions, and whether chemotherapy or immunotherapy is added. Travel, accommodation, scans and interpreter support sit on top. Trial participation may reduce the cell therapy cost but rarely covers everything. Insurance seldom reimburses experimental cell therapy, so ask for a written, itemised estimate before committing.</p>"
+          },
+          {
+            "q": "Can MCTL therapy replace chemotherapy or surgery?",
+            "a": "<p>No. MCTL therapy is used alongside or after standard treatment, not instead of it. Surgery, chemotherapy, HER2-targeted drugs and checkpoint immunotherapy remain the proven backbone of gastric cancer care, and stopping them to pursue cell therapy can cost you time you cannot get back. In most protocols, MCTL is added when standard options are exhausted or when disease control looks fragile.</p>"
+          },
+          {
+            "q": "How do I find out whether I am a candidate?",
+            "a": "<p>Start by having your pathology report, recent scans and full treatment history reviewed by a gastric cancer specialist, then ask a Chinese centre for a written opinion on eligibility. Services such as CancerFax can help gather records and arrange remote reviews, but the decision should rest with your treating oncology team. Ask what happens if the cells fail to grow, and what follow-up is offered after you return home.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

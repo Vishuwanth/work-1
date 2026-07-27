@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoprobe Technology: Argon Systems, Multi-Probe Arrays, and Ice-Ball Engineering",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoprobe-technology",
+  "route": "/insights/cryoprobe-technology",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is a cryoprobe and how does it freeze a tumour?",
+            "a": "<p>A cryoprobe is a thin, insulated needle that carries pressurised argon gas to its tip, where the gas expands and drops the temperature to around minus 150°C, freezing the tumour from the inside out. The shaft stays insulated so only the exposed tip forms ice. Doctors guide the probe with CT or ultrasound, and tumour position and size largely decide whether this approach may suit your case.</p>"
+          },
+          {
+            "q": "Why do cryoprobes use argon gas instead of liquid nitrogen?",
+            "a": "<p>Argon cools faster and gives finer control than liquid nitrogen because it works through the Joule-Thomson effect, where high-pressure gas expands at the probe tip. That lets engineers build much thinner probes, often 1.5 to 2.4 mm, which can be placed through the skin instead of open surgery. Argon systems also pair with helium for active thawing, so freeze and thaw cycles can be timed precisely.</p>"
+          },
+          {
+            "q": "What is the ice ball, and how big does it need to be?",
+            "a": "<p>The ice ball is the frozen zone that forms around the probe tip, and it usually needs to extend about 5 to 10 mm beyond the visible tumour edge to cover microscopic disease. The lethal cold sits at the core, while the outer rim of the ice is often not cold enough to kill cells. The margin your team plans for can vary by tumour type and organ.</p>"
+          },
+          {
+            "q": "Why do doctors use several cryoprobes at once instead of just one?",
+            "a": "<p>A single probe usually creates an ice ball too small for anything larger than roughly 1.5 cm, so multiple probes are placed in a planned array and their frozen zones merge into one larger, more predictable shape. Spacing is typically 1 to 2 cm between probes. Modern argon consoles can drive eight or more probes independently, which helps shape the freeze around blood vessels and healthy tissue.</p>"
+          },
+          {
+            "q": "Does a bigger tumour just need more probes?",
+            "a": "<p>Not always. More probes help, but blood flowing through large vessels warms nearby tissue and can leave under-frozen pockets even inside a big ice ball, an effect often called heat sink. Tumour location, vessel proximity, and safe needle paths matter as much as size. Many teams treat 4 to 5 cm as a practical ceiling for cryoablation alone, above which other options may be recommended after specialist review.</p>"
+          },
+          {
+            "q": "What is a freeze-thaw cycle and why is it repeated?",
+            "a": "<p>A freeze-thaw cycle means freezing the tumour for several minutes, allowing it to thaw, then freezing again, because the second freeze kills more cells than the first. Ice crystals rupture cell membranes during freezing, and the thaw phase spreads the damage further as fluid shifts between cells. Most protocols use two cycles of roughly 10 minutes freezing, though timing depends on the tumour and the system used.</p>"
+          },
+          {
+            "q": "How does the team watch the ice ball while it forms?",
+            "a": "<p>The ice ball is visible in real time, which is one of cryoablation's main advantages over heat-based ablation. On CT it appears as a sharply defined low-density zone, on ultrasound as a bright leading edge, and on MRI as a clear signal void. This lets the team stop or extend freezing based on what they can see. Which scanner is used often depends on the organ and the centre's equipment.</p>"
+          },
+          {
+            "q": "Is cryoablation safe near nerves, skin, or the bowel?",
+            "a": "<p>Cryoablation can be performed close to sensitive structures, but the safety margin is not unlimited. Because the ice edge shows up on imaging, the team can steer the freeze and add protective steps such as injecting fluid to push tissue away or warming the skin surface. Nerve injury, skin damage, and bleeding remain possible, so your interventional radiologist should discuss the risks for your specific site.</p>"
+          },
+          {
+            "q": "Does the probe size affect how much it hurts and how fast I recover?",
+            "a": "<p>Thin argon probes, often under 2.5 mm, go in through small skin punctures rather than an incision, and the freezing itself has a numbing effect, so many patients report less pain than after heat-based ablation. Most people go home the same day or after one night. Recovery still depends on the organ treated, how many probes were used, and your general health.</p>"
+          },
+          {
+            "q": "How do I check whether a hospital abroad has the right cryoprobe system for me?",
+            "a": "<p>Ask the centre directly which argon console and probe sizes they use, how many probes they can run at once, and how many cases of your tumour type they treat each year. Those answers matter more than brand names. CancerFax can help patients organise medical reports, identify relevant specialists in India and China, estimate costs, and coordinate travel, while suitability is decided by the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing CAR-T Treatment in India Through CancerFax",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "accessing-car-t-treatment-in-india",
+  "route": "/insights/accessing-car-t-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can I get CAR-T therapy in India if I am not an Indian citizen?",
+            "a": "<p>Yes, international patients can receive CAR-T therapy in India, and centres in Mumbai, Delhi, Chennai and Bengaluru treat overseas patients regularly. You will need a medical visa, a treating haematologist in India who accepts your case, and records showing relapsed or refractory blood cancer. Acceptance depends on your diagnosis, prior treatments and general fitness, so eligibility is decided case by case after your reports are reviewed.</p>"
+          },
+          {
+            "q": "How much does CAR-T therapy cost in India?",
+            "a": "<p>CAR-T therapy in India generally costs between USD 45,000 and USD 65,000 for Indian-made products, compared with USD 400,000 or more in the United States. The quoted price usually covers cell collection, manufacturing, the infusion and a planned hospital stay.</p><p>Managing complications, extended ICU care or bridging chemotherapy can add to this, so ask each centre for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "Which cancers can actually be treated with CAR-T in India?",
+            "a": "<p>Indian CAR-T programmes mainly treat relapsed or refractory B-cell cancers: B-cell acute lymphoblastic leukaemia, diffuse large B-cell lymphoma and other CD19-positive lymphomas, with BCMA-directed therapy used for multiple myeloma. Solid tumours are not routinely treated outside clinical trials. Whether your specific diagnosis qualifies depends on how many treatment lines you have already had, your disease burden and organ function, so a haematologist must review your reports first.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for the whole process?",
+            "a": "<p>Most patients should plan for two to three months in India. The first weeks cover consultation, eligibility testing and cell collection. Manufacturing the cells then takes roughly two to four weeks, and the infusion is followed by two to three weeks in hospital plus close monitoring nearby. Manufacturing delays or side effects can extend this, so keep your visa and return dates flexible.</p>"
+          },
+          {
+            "q": "Are Indian CAR-T products as good as the American ones?",
+            "a": "<p>Indian CAR-T products have reported response rates broadly comparable to approved Western therapies in relapsed B-cell cancers, with trial results showing overall responses in the region of 70 percent. Long-term follow-up data are still shorter than for products approved years earlier in the West. Your own likely benefit depends on disease type, tumour burden and prior treatment, and should be discussed directly with your treating oncologist.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the infusion?",
+            "a": "<p>The two main side effects are cytokine release syndrome, causing fever, low blood pressure and breathlessness, and neurological effects such as confusion, tremor or difficulty speaking. Both usually appear within the first two weeks and can often be controlled with tocilizumab and steroids. Infections and low blood counts may persist for months afterwards, which is why Indian centres keep you as an inpatient during the early recovery period.</p>"
+          },
+          {
+            "q": "How does CancerFax help me arrange CAR-T treatment in India?",
+            "a": "<p>CancerFax reviews your medical records, sends them to Indian CAR-T centres for an eligibility opinion, and returns written cost estimates and timelines so you can compare options before committing. Support also covers visa paperwork, appointments and accommodation near the hospital. All treatment decisions remain with the treating haematologist, and no service can promise that a centre will accept you or that the therapy will work.</p>"
+          },
+          {
+            "q": "What documents and tests do centres need before they accept me?",
+            "a": "<p>Centres usually ask for a recent diagnosis summary, bone marrow or biopsy reports, flow cytometry or immunophenotyping confirming the target antigen, recent PET-CT imaging, a dated treatment history, and current blood counts with kidney, liver and heart function results. Reports older than about four weeks often need repeating in India. CancerFax can check your file for these gaps before it reaches a centre.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial in India instead of paying for CAR-T?",
+            "a": "<p>Some Indian centres run CAR-T trials that cover part or all of the product cost, but many recruit only Indian residents and may exclude international patients for regulatory reasons. Places are limited and criteria on prior therapy, organ function and disease status are strict. Ask each centre directly whether an open trial matches your diagnosis, and treat enrolment as possible rather than assured.</p>"
+          },
+          {
+            "q": "What happens if the CAR-T does not work for me?",
+            "a": "<p>If the cancer does not respond or comes back, options may include a stem cell transplant, bispecific antibodies, a CAR-T product aimed at a different antigen, or a clinical trial. A second infusion is sometimes attempted, though responses to it are often weaker. Your Indian team can share the treatment summary with your home oncologist so follow-up and monitoring continue after you fly back.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing MWA Through CancerFax: Patient Navigation Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-access",
+  "route": "/insights/microwave-ablation-access",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation, and how does it destroy a tumour?",
+            "a": "<p>Microwave ablation uses a thin needle-like probe, guided by ultrasound or CT, to heat a tumour until its cells die. The heat comes from microwave energy delivered through the probe tip, and the destroyed tissue is slowly absorbed by the body over the following months. It is done through a small skin puncture rather than an open cut, so most people go home within one to two days.</p>"
+          },
+          {
+            "q": "Am I eligible for microwave ablation?",
+            "a": "<p>Eligibility usually depends on tumour size, number, and location rather than on your age. Doctors often consider MWA when tumours are under about 3 to 5 centimetres, few in number, and sitting away from large blood vessels, the bowel, or the bile duct. Liver, lung, and kidney tumours are the most common targets. Only a specialist who has reviewed your actual scans can confirm whether you qualify.</p>"
+          },
+          {
+            "q": "How do I start the process of arranging microwave ablation abroad?",
+            "a": "<p>Start by gathering your recent scans and pathology reports, then have a specialist review them before you plan any travel. CancerFax can share those records with interventional radiology teams in India and China and return their written opinion without you leaving home. That opinion tells you whether ablation is realistic for your tumour, what it may cost, and how soon a slot could open. Your own oncologist should agree before you book.</p>"
+          },
+          {
+            "q": "What scans and reports do the doctors need from me?",
+            "a": "<p>Send a recent contrast CT or MRI, ideally less than four to six weeks old, along with the radiology report, your biopsy or pathology result, and a short summary of any treatment you have already had. Blood counts, liver function, and clotting results help too. Older scans often have to be repeated on arrival, which adds days and cost, so fresh imaging usually saves you both.</p>"
+          },
+          {
+            "q": "How long does it take from my first enquiry to the actual procedure?",
+            "a": "<p>Most people receive a written specialist opinion within three to seven days of sending complete records. After that, scheduling depends on visa timelines, hospital availability, and whether extra tests are needed, so a realistic window is three to six weeks from first contact to the procedure itself. Urgent cases can sometimes move faster. Timelines can shift, so treat any date as provisional until the hospital confirms it in writing.</p>"
+          },
+          {
+            "q": "How much does microwave ablation cost in India or China?",
+            "a": "<p>Microwave ablation abroad commonly falls between about 3,000 and 8,000 US dollars for the procedure and hospital stay, often a fraction of the price in Western countries. The final figure depends on how many tumours are treated, whether general anaesthesia is used, and what imaging follows. Travel, accommodation, and repeat scans usually sit outside that quote, so ask for a written estimate before you commit to anything.</p>"
+          },
+          {
+            "q": "How long will I have to stay in the country?",
+            "a": "<p>Plan for roughly seven to ten days in total, even though the procedure itself often takes under an hour. That covers pre-procedure blood tests and imaging, one or two nights in hospital, and a follow-up scan about a week later to check the tumour was fully covered. If a second session is needed, the stay can stretch to two or three weeks. Your team will confirm the length once they see your scans.</p>"
+          },
+          {
+            "q": "Is microwave ablation better than surgery for my tumour?",
+            "a": "<p>Neither option is better for everyone; the right choice depends on your tumour and your general health. For small liver tumours, ablation can give local control comparable to surgery with a much smaller wound, faster recovery, and less blood loss. Surgery may still be preferred for larger tumours, or ones sitting near critical structures where heat could cause damage. A multidisciplinary team should weigh both against your imaging.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of microwave ablation?",
+            "a": "<p>Most people have mild pain at the puncture site, a low fever, and tiredness for a few days, a pattern doctors call post-ablation syndrome. Less commonly, bleeding, infection, injury to a nearby organ, or a collapsed lung after chest procedures can occur, and serious complications happen in a small minority of cases. Risk rises when tumours sit close to the bowel, bile duct, or major blood vessels.</p>"
+          },
+          {
+            "q": "What happens after treatment, and how will I know it worked?",
+            "a": "<p>You will usually have a contrast scan about four to six weeks after ablation, then every three to six months, to check that no live tumour tissue remains at the treated edge. If a small area was missed, a repeat ablation is often possible. Send these reports back to your home oncologist so ongoing care stays in one place; CancerFax can help route them if that proves difficult.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

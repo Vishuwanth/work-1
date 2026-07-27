@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU Cost Comparison: China, India, and Western Countries",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-cost-comparison",
+  "route": "/insights/hifu-cost-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does HIFU cost in China compared to the US and UK?",
+            "a": "<p>HIFU in China commonly costs USD 6,000 to 15,000 per session, against roughly USD 25,000 to 50,000 in the United States and USD 20,000 to 35,000 in UK private care. The machines are broadly similar, so the gap reflects lower hospital overheads, salaries and imaging charges rather than cheaper technology. Published prices are estimates, and your final bill depends on tumour size, location and length of stay.</p>"
+          },
+          {
+            "q": "What does HIFU cost in India?",
+            "a": "<p>HIFU in India typically ranges from USD 4,000 to 9,000 per session at major private cancer hospitals, which usually places it below Chinese and far below Western pricing. Availability is narrower than in China, with fewer centres and less experience in liver and pancreatic work. Ask each hospital for an itemised written estimate, since quotes shift with tumour site, imaging guidance and the number of sessions planned.</p>"
+          },
+          {
+            "q": "Why is HIFU so much cheaper in China and India?",
+            "a": "<p>Lower costs come from lower staff salaries, land and administrative overheads, not from inferior equipment or shortcuts in care. Chinese centres also run very high HIFU case volumes, which spreads the cost of the machine across many more patients. What can differ between countries is operator experience, after-hours cover and follow-up imaging, so ask how many HIFU procedures your named specialist performs each year before comparing prices.</p>"
+          },
+          {
+            "q": "What is included in the HIFU price a hospital quotes me?",
+            "a": "<p>A typical HIFU package covers the ablation session itself, anaesthesia or sedation, theatre and machine time, the treating doctor's fee and one to three nights in hospital. It often excludes staging scans, biopsy, follow-up MRI, medicines after discharge and the management of any complication. Ask for the exclusions in writing before you commit, because a headline figure can rise by a third once these items are added.</p>"
+          },
+          {
+            "q": "What will the whole trip cost, not just the HIFU session?",
+            "a": "<p>Budget roughly 30 to 50 per cent above the treatment quote once travel is counted. Flights, a medical visa, an attendant's ticket, two to three weeks of accommodation, interpreter fees, local transport and repeat imaging all add to the total. Most teams also ask you to stay nearby until scans confirm the ablation, so build in a contingency for a longer stay than you first planned.</p>"
+          },
+          {
+            "q": "Will my insurance pay for HIFU done abroad?",
+            "a": "<p>Most insurers will not reimburse HIFU performed overseas unless your policy explicitly covers elective treatment abroad. Some plans fund it at home for approved indications such as uterine fibroids or localised prostate cancer, but decline it as unproven for other tumours. Request written pre-authorisation before booking and keep every invoice, scan report and discharge summary, since claims may be refused on documentation grounds alone.</p>"
+          },
+          {
+            "q": "Is HIFU cheaper than surgery or radiotherapy?",
+            "a": "<p>HIFU is usually cheaper than open surgery and broadly comparable to a full course of stereotactic radiotherapy. Savings come from no incision, a shorter hospital stay and faster return to normal activity rather than from a lower headline fee. Cost should not decide the choice, though, because suitability depends on tumour size, depth and whether bone, bowel or lung blocks the ultrasound beam, and your oncology team may still advise surgery.</p>"
+          },
+          {
+            "q": "How many HIFU sessions will I need, and does each one cost extra?",
+            "a": "<p>Many patients need one session, but larger or multiple tumours may require two or three, and each is normally billed separately. Some centres offer a reduced rate for a second session within the same admission, and others do not. Ask what a repeat treatment would cost and what happens if imaging shows residual tumour, so an extra session does not become an unplanned financial shock.</p>"
+          },
+          {
+            "q": "How do I compare HIFU quotes from different hospitals fairly?",
+            "a": "<p>Compare quotes line by line rather than by the headline total. Ask each hospital for the guidance method used, expected treatment time, planned nights in hospital, follow-up imaging included and the cost if a complication extends your stay. CancerFax can help gather written, itemised estimates from HIFU centres in China and India so you can place them side by side, with the final decision resting with your oncology team.</p>"
+          },
+          {
+            "q": "Can I get a firm HIFU price before I book flights?",
+            "a": "<p>Usually you can get a provisional written estimate, but rarely a fixed final price. Chinese and Indian centres normally quote within a few days of receiving recent scans, pathology reports and your current medication list. The figure stays provisional because tumour size, session count and length of stay can change on the day, and any quote remains subject to the centre's own assessment of your case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Therapy for Colorectal Cancer: Clinical Evidence and Combination Strategies",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-colorectal-cancer",
+  "route": "/insights/cik-therapy-colorectal-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK therapy for colorectal cancer?",
+            "a": "<p>CIK therapy uses your own immune cells, grown and activated in a laboratory, to attack colorectal cancer. Doctors collect white blood cells from your blood, expand them over roughly two weeks using signals such as interleukin-2, then infuse them back. The aim is to clear cancer cells left behind after surgery or chemotherapy. It is generally added to standard treatment rather than used in place of it.</p>"
+          },
+          {
+            "q": "Does CIK therapy cure colorectal cancer?",
+            "a": "<p>No treatment, including CIK therapy, can be promised as a cure for colorectal cancer. In published trials, mostly from China, Japan and South Korea, adding CIK cells to chemotherapy after surgery has often improved disease-free and overall survival compared with chemotherapy alone. The gains are real but modest, and many studies were small or single-centre. What it may do for you depends on stage, tumour biology and overall health.</p>"
+          },
+          {
+            "q": "Who is eligible for CIK therapy in colorectal cancer?",
+            "a": "<p>The evidence is strongest for patients whose tumour has been removed and who are receiving adjuvant chemotherapy, particularly stage II and III disease, and for stage IV patients whose liver metastases have been resected or ablated. In these settings CIK infusions target small amounts of remaining disease. Patients with bulky, fast-growing tumours have shown less benefit. Eligibility depends on your surgical result, blood counts, organ function and specialist review.</p>"
+          },
+          {
+            "q": "Can CIK therapy be combined with chemotherapy?",
+            "a": "<p>Yes, and this is the most studied way to use it. CIK cells are usually infused during the rest period between chemotherapy cycles, once blood counts have recovered, most often alongside FOLFOX or XELOX. Trials suggest the combination can extend progression-free survival and may soften the drop in immune function that chemotherapy causes. Timing matters, because chemotherapy given too close to an infusion can damage the transferred cells.</p>"
+          },
+          {
+            "q": "Does CIK therapy work with PD-1 immunotherapy drugs?",
+            "a": "<p>Early studies suggest the combination is promising, especially in microsatellite stable colorectal cancer, which usually responds poorly to checkpoint drugs alone. The idea is that CIK cells draw immune cells into a cold tumour while a PD-1 antibody such as sintilimab or toripalimab keeps them active. Reported response rates from small Chinese studies are encouraging but not yet confirmed in large randomised trials, so this remains largely investigational.</p>"
+          },
+          {
+            "q": "What are the side effects of CIK therapy?",
+            "a": "<p>Side effects are usually mild compared with chemotherapy. The most common are fever and chills in the hours after an infusion, tiredness, mild muscle aches and occasional rash, and these often settle within a day or two with simple medication. Serious immune reactions such as cytokine release syndrome are uncommon, because CIK cells are less potent than CAR T-cells. Since the cells come from your own body, rejection is not a concern.</p>"
+          },
+          {
+            "q": "How is CIK therapy given, and how many infusions will I need?",
+            "a": "<p>Most protocols give four to six infusions, spaced one to four weeks apart, forming a cycle that may be repeated two or three times over six to twelve months. Each cycle starts with a blood collection by apheresis, followed by about two weeks of laboratory culture. The infusion itself takes under an hour and is often a day-case visit. Your exact schedule depends on the treating centre's protocol.</p>"
+          },
+          {
+            "q": "Is CIK therapy approved for colorectal cancer?",
+            "a": "<p>CIK therapy is not an approved standard treatment in the United States or Europe, where it is generally available only inside clinical trials. It is used more widely in parts of Asia, including licensed hospitals in China, Japan and South Korea, sometimes under regenerative-medicine or hospital-exemption rules. Regulations change and rules differ between hospitals, so the legal route for a specific patient should be confirmed with the centre first.</p>"
+          },
+          {
+            "q": "How much does CIK therapy cost abroad?",
+            "a": "<p>Costs in China typically fall between roughly 5,000 and 15,000 US dollars per treatment cycle, depending on the hospital, the number of infusions, and whether it is combined with chemotherapy or a PD-1 antibody. Quotes rarely include scans, hospital stay, travel or accommodation. CancerFax can help you obtain written estimates from accredited centres, though final pricing always depends on the medical review and protocol your treating team agrees.</p>"
+          },
+          {
+            "q": "How do I decide whether to travel abroad for CIK therapy?",
+            "a": "<p>Travel makes sense only if CIK therapy may add something to the standard treatment you can already access at home, and if you are well enough to fly. Ask the centre for its own outcome data, confirm who manages complications after you return, and share the plan with your local oncologist. CancerFax can arrange a review of your reports so you know whether a centre considers you a candidate.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

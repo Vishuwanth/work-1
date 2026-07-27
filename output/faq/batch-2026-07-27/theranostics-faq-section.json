@@ -1,0 +1,59 @@
+{
+  "pillar": "Theranostics: Personalized Cancer Diagnosis and Treatment in One Targeted Approach",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "theranostics",
+  "route": "/treatments/theranostics",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is theranostics in simple terms?",
+            "a": "<p>Theranostics uses the same targeting molecule twice: once with a small radioactive tag to scan you, and once with a stronger radioactive tag to treat you. The scan shows exactly where your cancer cells are hiding, and the treatment then delivers radiation straight to those same cells while largely sparing healthy tissue. Doctors sum it up as seeing what you treat, and treating what you see.</p>"
+          },
+          {
+            "q": "Which cancers can theranostics treat today?",
+            "a": "<p>Advanced prostate cancer and neuroendocrine tumours are the two cancers most commonly treated with theranostics today, using PSMA-targeted and somatostatin-targeted radioactive drugs. Radioactive iodine for thyroid cancer is the oldest example and has been used for decades. Targets for breast, kidney, pancreatic and brain cancers are still in trials, so availability depends on your country and on specialist review.</p>"
+          },
+          {
+            "q": "How does theranostics actually work inside the body?",
+            "a": "<p>A carrier molecule is designed to lock onto a protein that sits on the surface of your cancer cells, such as PSMA on prostate cancer. Attached to that carrier is a radioactive atom. When the carrier binds, the radiation is released within a very short distance, damaging the tumour cell from close range. Cells without that surface protein receive far less radiation.</p>"
+          },
+          {
+            "q": "How is theranostics different from chemotherapy?",
+            "a": "<p>Chemotherapy travels through the whole body and damages any fast-growing cell, while theranostics is aimed only at cells carrying a marker your scan has already confirmed. That usually means fewer of the side effects patients dread most, such as severe hair loss and mouth sores. It is not side-effect free, though — the radiation can still affect bone marrow, kidneys and salivary glands over time.</p>"
+          },
+          {
+            "q": "What happens during a theranostics treatment session?",
+            "a": "<p>The radioactive drug is given through a drip in your arm, and the infusion itself usually takes 30 to 60 minutes. Most people feel nothing during it and describe it as sitting through a slow IV. You may then stay in a shielded room for a few hours or overnight while radiation levels fall, and follow simple distancing rules at home for several days afterwards.</p>"
+          },
+          {
+            "q": "How many cycles will I need, and how long does the full course take?",
+            "a": "<p>Most theranostics courses run four to six cycles given six to eight weeks apart, so the whole treatment often spans six to nine months. Your team checks blood counts, kidney function and scans between cycles, and may pause or stop early depending on how the cancer responds. The exact number depends on your diagnosis, your scan results, and how well you tolerate each dose.</p>"
+          },
+          {
+            "q": "What are the side effects and risks of theranostics?",
+            "a": "<p>The common side effects are tiredness, mild nausea, a dry mouth, and a temporary drop in blood counts, and these usually settle between cycles. Your kidneys and salivary glands take up some of the drug, so fluids and sometimes amino acid infusions are given to protect them. Serious bone marrow problems are uncommon but possible, which is why blood tests are repeated before every dose.</p>"
+          },
+          {
+            "q": "Who is eligible for theranostics, and how do I find out if I am?",
+            "a": "<p>Eligibility starts with a diagnostic scan showing that your tumours actually take up the tracer — no uptake means the treatment cannot reach them. Your team also reviews kidney function, blood counts, and previous treatments. If you are collecting opinions from centres abroad, CancerFax can help you organise scans and reports for specialist review, though the final decision always rests with the treating oncology team.</p>"
+          },
+          {
+            "q": "How much does theranostics cost in India or China?",
+            "a": "<p>Estimated costs vary widely, but a single cycle in India is often quoted in the low thousands of US dollars, with a full course of four to six cycles costing considerably more once scans, hospital stays and follow-up are added. Chinese centres price differently again. Final costs depend on the hospital, the exact drug, the protocol, and your length of stay, so ask for an itemised written estimate.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for theranostics, and will it cure my cancer?",
+            "a": "<p>Several centres in both countries treat international patients and offer PSMA or somatostatin-targeted therapy with medical visa support, though acceptance and visa approval are never guaranteed. In most advanced cancers theranostics aims to control disease rather than cure it, often shrinking tumours and easing symptoms; radioactive iodine for thyroid cancer is the main exception. CancerFax can help coordinate travel and follow-up alongside your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

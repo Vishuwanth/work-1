@@ -1,0 +1,59 @@
+{
+  "pillar": "SBRT Combined with Immunotherapy: The Abscopal Effect",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "sbrt-combined-with-immunotherapy",
+  "route": "/insights/sbrt-combined-with-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the abscopal effect in simple terms?",
+            "a": "<p>The abscopal effect is when radiation aimed at one tumour causes other, untreated tumours elsewhere in the body to shrink as well. Radiation damages cancer cells and releases their proteins, which can teach the immune system to recognise the same cancer at distant sites. It is rare on its own, but combining radiation with immunotherapy appears to make it more likely in some patients.</p>"
+          },
+          {
+            "q": "How does SBRT trigger an immune response against tumours it never touched?",
+            "a": "<p>SBRT delivers a very high radiation dose in one to five precise sessions, which can break tumour cells open and spill cancer proteins into the bloodstream. Immune cells collect these proteins and learn to hunt the same cancer elsewhere. Immunotherapy drugs such as checkpoint inhibitors then remove the brakes that tumours place on those immune cells. The two treatments may work better together than either alone.</p>"
+          },
+          {
+            "q": "How often does the abscopal effect actually happen?",
+            "a": "<p>Reported rates vary widely, and in most trials clear abscopal responses occur in roughly one in ten to one in four patients who receive both treatments. Numbers depend on the cancer type, the radiation dose and schedule, and which immunotherapy drug is used. Melanoma, kidney cancer and some lung cancers show the strongest signals. Your oncologist can explain what the published data mean for your specific situation.</p>"
+          },
+          {
+            "q": "Which cancers respond best to SBRT combined with immunotherapy?",
+            "a": "<p>Melanoma, non-small cell lung cancer and kidney cancer have shown the most abscopal responses, because these tumours already respond well to checkpoint inhibitors. Head and neck cancer, bladder cancer and some liver cancers are being studied too. Cancers that rarely respond to immunotherapy, such as most pancreatic and prostate tumours, show weaker results. Whether this combination suits you depends on your tumour type, biomarkers and previous treatment.</p>"
+          },
+          {
+            "q": "Can I get SBRT with immunotherapy in India or China?",
+            "a": "<p>Yes, in many cases. Large centres in India and China offer SBRT using linac or CyberKnife machines and stock most approved checkpoint inhibitors, so the combination can often be delivered at lower cost than in Western countries. Availability still depends on the specific drug, its local approval status and your fitness for treatment. CancerFax can help you compare centres, but your treating oncology team makes the final decision.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long does treatment take?",
+            "a": "<p>SBRT usually takes one to five outpatient sessions spread over one to two weeks, with each session lasting about thirty to sixty minutes. Immunotherapy is given as a drip every two to six weeks and may continue for many months. Doctors often start or continue immunotherapy close to the radiation so the immune response is strongest. Exact schedules vary between centres and between drugs.</p>"
+          },
+          {
+            "q": "Does combining the two treatments make side effects worse?",
+            "a": "<p>Side effects are usually manageable, but combining the two can raise the risk of immune-related inflammation, especially in the lungs, gut, liver or skin near the treated area. SBRT alone causes fatigue and local soreness; immunotherapy can cause rash, colitis, thyroid problems and, less often, pneumonitis. Most reactions settle with steroids when caught early. Your team will monitor blood tests and scans closely throughout treatment.</p>"
+          },
+          {
+            "q": "My cancer has already spread. Is this still worth considering?",
+            "a": "<p>Yes, this approach is designed mainly for cancer that has already spread. Doctors pick one or two tumours that are safe to irradiate and treat those, hoping the immune system then attacks the remaining sites. It often works best when the disease burden is limited and you are well enough for both treatments. It is not a cure, and responses vary widely between patients.</p>"
+          },
+          {
+            "q": "What does SBRT with immunotherapy cost abroad?",
+            "a": "<p>Costs vary a great deal. In India, SBRT often runs about 3,000 to 6,000 US dollars for the full course, while immunotherapy can cost roughly 1,500 to 4,000 dollars per cycle depending on the drug and dose. China is broadly similar, with some locally made checkpoint inhibitors priced lower. Ask for a written estimate covering scans, hospital stays and follow-up, since quoted figures often change.</p>"
+          },
+          {
+            "q": "How will my doctors know whether the abscopal effect is working?",
+            "a": "<p>Doctors track the untreated tumours on CT or PET scans, usually at six to twelve weeks, and look for shrinkage at sites that never received radiation. Blood markers and your symptoms help fill in the picture. Some patients show pseudoprogression, where tumours briefly look larger as immune cells flood in, so scans are often repeated before any decision to change treatment. Patience with this timeline is normal.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

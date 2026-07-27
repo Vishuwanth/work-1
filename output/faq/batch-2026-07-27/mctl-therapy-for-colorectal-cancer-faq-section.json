@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Therapy for Colorectal Cancer: What Patients Should Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-therapy-for-colorectal-cancer",
+  "route": "/insights/mctl-therapy-for-colorectal-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MCTL therapy for colorectal cancer?",
+            "a": "<p>MCTL therapy is a cell treatment that uses multi-target cytotoxic T lymphocytes — immune cells taken from your own blood, trained in a laboratory to recognise several tumour markers at once, then infused back into you. It is offered mainly in China as an add-on for advanced or recurrent colorectal cancer. It remains investigational rather than standard care, so availability and suitability depend on the treating centre.</p>"
+          },
+          {
+            "q": "How does MCTL therapy work against colorectal tumours?",
+            "a": "<p>MCTL cells are trained to recognise several proteins that colorectal tumour cells display, then multiplied into the billions before being returned to your bloodstream. Once infused, they can seek out and kill cancer cells carrying those markers. Because they target multiple antigens rather than one, they may keep working when a tumour hides a single marker, though response varies widely between patients.</p>"
+          },
+          {
+            "q": "Is MCTL therapy approved for colorectal cancer?",
+            "a": "<p>No regulator in the United States, Europe or India has approved MCTL therapy for colorectal cancer. It is delivered in China under hospital-based study or special-access pathways, alongside standard chemotherapy or surgery rather than in place of them. Approval status can change over time, so ask the treating hospital in writing which legal framework your treatment would fall under before you travel or pay anything.</p>"
+          },
+          {
+            "q": "Am I eligible for MCTL therapy?",
+            "a": "<p>Eligibility usually depends on having advanced, metastatic or recurrent colorectal cancer, adequate organ function, a life expectancy of at least three months, and enough healthy white blood cells for collection. Heavy recent chemotherapy, active infection or very poor performance status often rules people out. Only the treating centre can decide after reviewing your scans, pathology and blood work, so no answer is final until then.</p>"
+          },
+          {
+            "q": "Where can I get MCTL therapy?",
+            "a": "<p>MCTL therapy is offered mainly at specialist cell-therapy hospitals in China, including centres in Beijing, Shanghai and Guangzhou. It is not routinely available in India, the United States or Europe. CancerFax can help you send your records to these centres for review, but the decision on whether the therapy suits you rests with your own oncologist and the receiving medical team.</p>"
+          },
+          {
+            "q": "How much does MCTL therapy cost in China?",
+            "a": "<p>Reported costs often run between USD 25,000 and USD 60,000 for a full course, depending on the number of infusions, the hospital, and whether chemotherapy or scans are bundled in. Travel, accommodation, visas and interpreter fees sit on top of that. Quotes vary a great deal and can change, so ask for an itemised written estimate stating clearly what is and is not included.</p>"
+          },
+          {
+            "q": "What are the side effects of MCTL therapy?",
+            "a": "<p>The most common side effects are fever, chills, fatigue, muscle aches and a temporary drop in blood counts in the days after infusion. Serious cytokine release syndrome and nerve problems are reported less often than with CAR-T therapy, but they can still happen. Because the cells come from your own body, rejection is not a concern, though every infusion still needs close hospital monitoring.</p>"
+          },
+          {
+            "q": "How is MCTL therapy different from CAR-T?",
+            "a": "<p>CAR-T cells are genetically engineered to attack one specific target and are approved mainly for blood cancers. MCTL cells are not gene-edited; they are trained and expanded to recognise several tumour proteins, which is why they are being tried in solid tumours such as colorectal cancer. MCTL is generally gentler on the body, but the evidence behind it is far thinner than for approved CAR-T products.</p>"
+          },
+          {
+            "q": "How long does the whole treatment take?",
+            "a": "<p>Plan on six to ten weeks in total. Blood is collected first, the cells are grown in the laboratory for roughly two to four weeks, and the infusions are then given across several sessions over a few more weeks. Most patients stay in or near the hospital city for the whole period. Schedules can slip when cell growth is slow, so build spare time into travel plans.</p>"
+          },
+          {
+            "q": "Does MCTL therapy actually work for colorectal cancer?",
+            "a": "<p>Published results so far come from small Chinese studies and case series, which report some tumour shrinkage and longer disease control when MCTL is added to chemotherapy. There are no large randomised trials, so the true benefit remains uncertain. Ask any centre for its own outcome data in writing, and have your oncologist or a team such as CancerFax review it before you commit.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Laparoscopic vs Robotic Cancer Surgery: Which Is Better for My Case?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "laparoscopic-vs-robotic-cancer-surgery",
+  "route": "/insights/laparoscopic-vs-robotic-cancer-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the actual difference between laparoscopic and robotic cancer surgery?",
+            "a": "<p>Both are keyhole surgery through small cuts, but the surgeon's hands work differently. In laparoscopic surgery the surgeon holds long rigid instruments directly at the table. In robotic surgery the surgeon sits at a console and moves wristed instruments through a machine, with 3D magnified vision and tremor filtering. The cancer operation performed inside you is the same in either case.</p>"
+          },
+          {
+            "q": "Is robotic surgery better than laparoscopic surgery for my cancer?",
+            "a": "<p>Not automatically. For most cancers, published trials show similar cancer control, similar survival, and similar complication rates between the two approaches. Robotic surgery tends to help most in tight, deep spaces such as the pelvis, where wristed instruments reach angles rigid tools cannot. Which one suits you depends on your tumour site, stage, body build, and prior surgery, and your surgeon should explain the reasoning.</p>"
+          },
+          {
+            "q": "Which cancers benefit most from the robotic approach?",
+            "a": "<p>Prostate, rectal, and some gynaecological cancers show the clearest advantage from robotic surgery, because these operations happen deep in the narrow pelvis. Robotic prostatectomy is now the standard approach in many centres. For colon, kidney, gallbladder, and many gastric operations, experienced laparoscopic surgeons achieve results that are hard to improve on. Your tumour location often matters more than the technology itself.</p>"
+          },
+          {
+            "q": "Does robotic surgery remove the cancer more completely?",
+            "a": "<p>Not consistently. The measures that matter — clear margins and adequate lymph node removal — depend mainly on the surgeon's skill and the operation planned, not the platform. Some rectal cancer studies report fewer conversions to open surgery with the robot, which may help in difficult pelvises. Long-term survival data across most cancers show no meaningful difference, so surgeon experience should weigh heavily in your decision.</p>"
+          },
+          {
+            "q": "How much more does robotic surgery cost than laparoscopic?",
+            "a": "<p>Robotic surgery typically costs 20 to 60 percent more, driven by the machine, single-use instruments, and longer theatre time. In India, robotic cancer operations often run roughly USD 6,000 to 12,000 against USD 4,000 to 8,000 for laparoscopic, though figures vary widely. Final cost depends on the hospital, the specific operation, diagnostics, complications, and length of stay, so ask for a written estimate.</p>"
+          },
+          {
+            "q": "Will I recover faster after robotic surgery?",
+            "a": "<p>Usually only slightly, if at all. Both approaches use small incisions, so blood loss, pain, and hospital stay are broadly similar and both beat open surgery clearly. Some studies report a day less in hospital after robotic procedures for certain operations. Your recovery depends more on the extent of the cancer surgery, your fitness, and whether complications occur than on which keyhole method was used.</p>"
+          },
+          {
+            "q": "Is the robot operating on me by itself?",
+            "a": "<p>No. The surgeon controls every movement from a console a few feet away, and the instruments only move when the surgeon's hands move. The system cannot act on its own or make decisions. A second surgeon and scrub team stay at the operating table throughout. If a problem arises, the team can undock the robot within minutes and continue laparoscopically or open.</p>"
+          },
+          {
+            "q": "What should I ask my surgeon before choosing between them?",
+            "a": "<p>Ask how many of your specific operation they have done with each method, and what their conversion and complication rates are. A surgeon who has performed 400 laparoscopic gastrectomies will likely serve you better than one starting a robotic programme. Also ask why they recommend one approach for your tumour, and what would make them switch during the operation.</p>"
+          },
+          {
+            "q": "Are both options available in India and China for international patients?",
+            "a": "<p>Yes, major cancer centres in both countries offer laparoscopic and robotic surgery, with robotic systems widely installed in large Indian and Chinese hospitals. Waiting times for robotic slots can be longer because fewer machines exist. CancerFax can help you send your scans and reports for review and compare what different centres recommend. Suitability, cost, and admission remain decisions for the treating hospital.</p>"
+          },
+          {
+            "q": "If my hospital only offers laparoscopic surgery, am I getting worse care?",
+            "a": "<p>Very likely not. For most cancers, an experienced laparoscopic surgeon delivers outcomes equal to robotic surgery, and technique matters more than equipment. Travelling for a robotic operation makes most sense for deep pelvic cancers, or when local expertise in your specific procedure is limited. Discuss the realistic gain with your oncology team before committing to extra cost or travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

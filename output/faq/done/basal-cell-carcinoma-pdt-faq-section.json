@@ -1,0 +1,59 @@
+{
+  "pillar": "Basal Cell Carcinoma PDT: A Non-Surgical Option for Facial and Cosmetic-Zone BCC",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "basal-cell-carcinoma-pdt",
+  "route": "/insights/basal-cell-carcinoma-pdt",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can photodynamic therapy treat basal cell carcinoma on my face without surgery?",
+            "a": "<p>Photodynamic therapy can clear superficial and thin nodular basal cell carcinoma on the face without cutting or stitching. A light-sensitive cream is applied to the lesion, taken up by the cancer cells over about three hours, then activated with red light that destroys them. It suits thin tumours in cosmetic zones such as the nose, forehead and cheek. Thicker or high-risk lesions often still need surgery, so biopsy depth guides the choice.</p>"
+          },
+          {
+            "q": "How well does PDT work compared with surgery for basal cell carcinoma?",
+            "a": "<p>Surgery clears more basal cell carcinomas long term. Published five-year data put PDT clearance for superficial BCC at roughly 75 to 85 percent, against about 95 percent or higher for excision and Mohs surgery. PDT trades some of that margin for a far better cosmetic result, which matters on the nose, eyelid or lip. If PDT does not clear the lesion, surgery remains available, so the choice is rarely final.</p>"
+          },
+          {
+            "q": "Does photodynamic therapy leave a scar on my face?",
+            "a": "<p>PDT usually leaves no scar. It targets cancer cells while sparing collagen and the skin's structure, so the treated area typically heals flat with normal texture. Most patients see redness, crusting and swelling for one to two weeks, then a patch that may stay slightly pink or pale for a few months. Surgery, by contrast, always leaves a line or a graft. Results vary with lesion size and skin tone.</p>"
+          },
+          {
+            "q": "How painful is PDT and what does the session feel like?",
+            "a": "<p>Most patients describe a stinging or burning heat during the light exposure, strongest in the first few minutes and rated moderate. The cream itself is painless. Sessions run about 8 to 20 minutes of light, and clinics use cooling fans, water spray, pauses or local anaesthetic when it gets uncomfortable. Daylight PDT, where sunlight replaces the lamp, hurts far less and may suit patients who cannot tolerate conventional light.</p>"
+          },
+          {
+            "q": "Which basal cell carcinomas are not suitable for PDT?",
+            "a": "<p>PDT is not recommended for morpheaform, infiltrative or micronodular basal cell carcinoma, recurrent lesions, tumours thicker than about 2 mm, or growths near the eye where light exposure is unsafe. Light penetrates only 1 to 3 mm, so deeper cancer can survive underneath and regrow silently. Pigmented lesions also absorb light and often respond poorly. A biopsy reporting growth pattern and depth is essential before PDT is offered.</p>"
+          },
+          {
+            "q": "How many PDT sessions will I need?",
+            "a": "<p>Two sessions, given one week apart, is the standard protocol for basal cell carcinoma, and that pairing gives clearance rates well above a single treatment. Your dermatologist reviews the site at three months, and a further course may be offered if any tumour remains. Some clinics repeat treatment at 12 months for large or multiple lesions. The number you need depends on lesion thickness, site and how your skin responds.</p>"
+          },
+          {
+            "q": "How much does PDT for skin cancer cost in India or China?",
+            "a": "<p>A PDT course in India commonly runs about 15,000 to 60,000 rupees per session depending on lesion size, photosensitiser and city, and Chinese hospitals price it in a broadly similar band. That is a fraction of Western costs. Biopsy, dermoscopy and follow-up visits are billed separately. CancerFax can help you obtain written quotes from accredited hospitals, though final pricing always depends on your pathology report and the treating team's plan.</p>"
+          },
+          {
+            "q": "What are the side effects of PDT and how long is recovery?",
+            "a": "<p>Expect redness, swelling, crusting and mild oozing at the treated spot, peaking in the first three days and settling within one to two weeks. Temporary darkening or lightening of the skin is common and usually fades over months. Infection is rare. You must avoid strong sun and bright indoor light on the treated skin for about 48 hours, because the cream keeps the area light-sensitive.</p>"
+          },
+          {
+            "q": "What happens if the basal cell carcinoma comes back after PDT?",
+            "a": "<p>Recurrence is treatable, and PDT does not close off later options. Most returns show up within three to five years and are found at routine skin checks, which is why follow-up at 3, 12 and 24 months matters. A repeat biopsy confirms the tumour, and surgery or Mohs is then usually recommended rather than a second PDT course. Because PDT leaves no scar tissue, later surgery is often straightforward.</p>"
+          },
+          {
+            "q": "Should I travel abroad for PDT, or have it done close to home?",
+            "a": "<p>For a single small facial basal cell carcinoma, treatment close to home is usually the better choice, because PDT needs two visits a week apart plus follow-up at three months. Travel may make more sense for multiple lesions, field cancerisation, or where local access to PDT is limited. CancerFax can help organise a dermatology second opinion, but any plan should be confirmed by a dermatologist who has seen your biopsy.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

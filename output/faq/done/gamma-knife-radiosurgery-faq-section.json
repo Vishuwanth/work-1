@@ -1,0 +1,59 @@
+{
+  "pillar": "Gamma Knife Radiosurgery: Brain and Skull Base Tumour Treatment Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gamma-knife-radiosurgery",
+  "route": "/treatments/gamma-knife-radiosurgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Gamma Knife radiosurgery, and is it really surgery?",
+            "a": "<p>Gamma Knife radiosurgery is not conventional surgery. There is no incision and no scalpel. The machine aims around 192 fine beams of gamma radiation at the tumour from many angles at once, so the target receives a high dose while the surrounding brain tissue receives very little. The name describes the precision, not a cutting tool. Most people go home the same day or after one night.</p>"
+          },
+          {
+            "q": "Which brain and skull base tumours can Gamma Knife treat?",
+            "a": "<p>Gamma Knife works best for small, well-defined targets, usually under 3 cm across. Common uses include brain metastases, acoustic neuromas (vestibular schwannomas), meningiomas, pituitary adenomas, and skull base tumours sitting close to nerves. It also treats arteriovenous malformations and trigeminal neuralgia. Large tumours, tumours causing pressure symptoms, or widely spread disease may need open surgery or other radiation first. Your neurosurgeon and radiation oncologist decide based on your imaging.</p>"
+          },
+          {
+            "q": "Does Gamma Knife hurt, and will I be awake during it?",
+            "a": "<p>You stay awake, and the treatment itself is painless because radiation cannot be felt. The uncomfortable part is the head frame, which is pinned to the scalp under local anaesthetic, so you may feel pressure or a brief sting. Many centres now use a moulded mask instead of pins for selected cases. Beam delivery can take 20 minutes to a few hours depending on how many targets need covering.</p>"
+          },
+          {
+            "q": "How long does the whole process take, and when can I go home?",
+            "a": "<p>Most patients are in hospital for a single day. The day usually includes frame or mask fitting, an MRI scan, an hour or two while the team plans the dose, then the treatment itself. Beam time ranges from about 20 minutes for one small lesion to several hours for multiple metastases. Many people travel home the same evening and return to normal activity within a day or two.</p>"
+          },
+          {
+            "q": "How quickly will the tumour shrink after Gamma Knife?",
+            "a": "<p>Gamma Knife rarely makes a tumour disappear quickly. It stops the cells from dividing, so change is gradual. Brain metastases often shrink over two to three months. Benign tumours such as acoustic neuromas may stay the same size for a year or more, and that still counts as success because growth has stopped. Follow-up MRI scans at three, six and twelve months are used to track the response.</p>"
+          },
+          {
+            "q": "What are the side effects of Gamma Knife radiosurgery?",
+            "a": "<p>Most side effects are mild and short-lived. Tiredness, headache, mild nausea and small sore spots where the pins sat are the common ones, and they usually settle within days. Steroids are often given to limit swelling around the treated area.</p><p>Later effects can include radiation necrosis, hair thinning over the treated patch, or hearing and hormone changes when the target sits near those structures. Risk depends on dose, size and location.</p>"
+          },
+          {
+            "q": "Is Gamma Knife better than open brain surgery for me?",
+            "a": "<p>Neither is better in general; they answer different problems. Gamma Knife avoids an incision, general anaesthetic and a long recovery, which suits deep or hard-to-reach tumours and older or frailer patients. Open surgery removes tissue immediately, relieves pressure, and provides a biopsy sample when the diagnosis is unclear. Tumours above roughly 3 cm or causing symptoms from mass effect usually need surgery. Your team may recommend both, in sequence.</p>"
+          },
+          {
+            "q": "Can I have Gamma Knife if I have already had radiation to the brain?",
+            "a": "<p>Often yes. Gamma Knife is frequently used after whole brain radiotherapy when a small number of new or regrowing lesions appear, because the tightly focused dose spares tissue that has already been treated. Repeat treatment does raise the risk of radiation necrosis, so the team weighs your previous dose, the time since it was given, and lesion size. Eligibility depends on your scans and full radiation history.</p>"
+          },
+          {
+            "q": "How much does Gamma Knife cost in India, and is travelling worth it?",
+            "a": "<p>Gamma Knife in India commonly costs a fraction of United States or European prices, with quoted packages often falling in the range of a few thousand US dollars for a single session. Prices vary widely by hospital, number of lesions, and whether imaging and follow-up are bundled. Because it is usually a single-day treatment, travel can be practical. CancerFax can help you compare written quotations from accredited centres before you commit.</p>"
+          },
+          {
+            "q": "How do I find out if I am eligible, and what records should I send?",
+            "a": "<p>Eligibility rests mainly on tumour size, number, location and your general condition, so any centre will want a recent brain MRI with contrast, pathology reports, and a summary of previous surgery or radiation. A remote opinion is usually possible within a few days of sending these. CancerFax can route your records to Gamma Knife units in India and China for review, though the final decision always sits with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

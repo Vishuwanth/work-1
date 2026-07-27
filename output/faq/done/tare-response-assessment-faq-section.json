@@ -1,0 +1,59 @@
+{
+  "pillar": "Response Assessment After TARE: mRECIST, LI-RADS TR, and Volumetric Analysis",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-response-assessment",
+  "route": "/insights/tare-response-assessment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How will my doctors know if my TARE treatment worked?",
+            "a": "<p>Doctors judge TARE mainly by imaging that measures living tumour tissue, not overall tumour size. A contrast CT or MRI taken weeks to months after treatment shows how much of the tumour still takes up contrast in the arterial phase. Blood markers such as AFP and your symptoms add supporting information. Most centres repeat scans over time, because response after radioembolization often develops slowly rather than all at once.</p>"
+          },
+          {
+            "q": "Why hasn't my tumour shrunk after Y-90 radioembolization?",
+            "a": "<p>A tumour that stays the same size after TARE can still be responding. Radioembolization kills tumour cells from the inside, and the dead tissue often stays in place for months before the liver clears it. This is why radiologists look for loss of arterial enhancement, the sign that blood-fed living tumour is gone, rather than a smaller measurement. Size alone can underestimate how well the treatment worked.</p>"
+          },
+          {
+            "q": "What is mRECIST and why is it used instead of normal size measurement?",
+            "a": "<p>mRECIST measures only the part of a liver tumour that still enhances with contrast in the arterial phase, treating that enhancing tissue as the living tumour. Standard RECIST measures the whole lesion, including dead tissue, so it can wrongly call a treated tumour stable. Complete response under mRECIST means no arterial enhancement remains. It was designed for liver-directed treatments such as TARE, TACE and ablation.</p>"
+          },
+          {
+            "q": "What does \"LI-RADS TR viable\" mean on my scan report?",
+            "a": "<p>LI-RADS TR viable means the radiologist can still see tumour tissue that looks alive after treatment, usually as arterial enhancement with washout inside or beside the treated area. The other categories are TR nonviable, meaning no living tumour is seen, TR equivocal, meaning the findings are unclear, and TR nonevaluable. A viable result often prompts a discussion about further treatment, depending on your liver function.</p>"
+          },
+          {
+            "q": "When will I have my first scan after TARE?",
+            "a": "<p>Most centres do the first imaging about one to three months after radioembolization, then repeat every two to three months during the first year. Scanning very early can mislead, because inflammation and swelling around the treated area may look like growth. Many teams also do a same-day scan to confirm where the radioactive beads landed. Your exact schedule depends on your liver function and treatment plan.</p>"
+          },
+          {
+            "q": "Is MRI or CT better for checking my response after radioembolization?",
+            "a": "<p>Multiphase MRI with contrast is usually preferred after TARE, because it separates living tumour from treatment-related changes better than CT, and diffusion-weighted sequences add extra information. Multiphase CT remains a good option when MRI is unavailable or unsafe for you, such as with certain implants. Whichever is used, keeping the same scanner and protocol each time can make comparison across scans far more reliable.</p>"
+          },
+          {
+            "q": "What is volumetric analysis, and is it more accurate than a simple measurement?",
+            "a": "<p>Volumetric analysis measures the whole three-dimensional volume of a tumour, and often the enhancing part of it, instead of a single longest diameter. It can pick up changes that one-line measurements miss, especially in irregular tumours or when response is partial. It also tracks how the untreated liver grows afterwards. It is not yet standard everywhere, and results may depend on the software used.</p>"
+          },
+          {
+            "q": "My AFP has dropped but the scan looks the same — which one matters more?",
+            "a": "<p>Imaging carries more weight, but a falling AFP is a genuinely encouraging sign. Tumour markers can change faster than scans after TARE, so a clear drop alongside a stable-looking scan often means treatment is working and the dead tissue has simply not shrunk yet. Not every liver cancer produces AFP, which limits its usefulness. Your oncology team will read both together rather than either one alone.</p>"
+          },
+          {
+            "q": "What happens if my scan still shows viable tumour after TARE?",
+            "a": "<p>Viable tumour on follow-up imaging does not mean treatment has failed or that options have run out. Depending on where the remaining disease sits, teams may consider repeat TARE, ablation, TACE, surgery, systemic therapy or a clinical trial. Liver function and tumour spread shape what is possible.</p><p>CancerFax can help you gather scans and reports for a second opinion, though any decision rests with your treating oncology team.</p>"
+          },
+          {
+            "q": "Can radiation changes in my liver be mistaken for the cancer growing?",
+            "a": "<p>Yes, and this is one of the most common causes of worry after TARE. Radiation can cause inflammation, fluid build-up and a rim of enhancement around the treated area that mimics active tumour, particularly on early scans. Experienced liver radiologists can usually tell the difference from the pattern and by comparing several scans over time. If a report reads unclear, asking for a specialist review is reasonable.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

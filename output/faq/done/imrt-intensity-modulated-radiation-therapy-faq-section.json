@@ -1,0 +1,59 @@
+{
+  "pillar": "IMRT: Intensity-Modulated Radiation Therapy — Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "imrt-intensity-modulated-radiation-therapy",
+  "route": "/treatments/imrt-intensity-modulated-radiation-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is IMRT and how is it different from regular radiation therapy?",
+            "a": "<p>IMRT delivers radiation in many small beams of varying strength, shaping the dose to match the tumour's exact form. Conventional radiation uses uniform beams of a fixed shape. That difference lets your team raise the dose on the cancer while sparing nearby organs such as the spinal cord, salivary glands, or bowel. Most patients tolerate it better than older techniques, though the right choice depends on your tumour's site and size.</p>"
+          },
+          {
+            "q": "How many IMRT sessions will I need?",
+            "a": "<p>Most IMRT courses run 20 to 40 daily sessions, given Monday to Friday over four to eight weeks. Head and neck, brain, and many prostate plans sit at the longer end, while some prostate and lung patients receive shorter courses of five to twenty sessions. Your radiation oncologist sets the number from the tumour type, stage, and whether IMRT follows surgery or chemotherapy. The schedule may change if side effects need a short break.</p>"
+          },
+          {
+            "q": "Does IMRT hurt?",
+            "a": "<p>No, IMRT itself is painless. You lie still on a treatment couch while the machine rotates around you; you feel nothing and hear only a humming sound. Discomfort, when it comes, appears later in the course as sore skin, a dry or painful throat, or fatigue that builds over several weeks. Tell your radiation team early about any pain, because supportive medicines usually control it and rarely require stopping treatment.</p>"
+          },
+          {
+            "q": "What side effects should I expect from IMRT?",
+            "a": "<p>IMRT side effects depend on the area treated. Head and neck patients often get mouth sores, dry mouth, and taste changes; prostate patients may have urinary urgency or loose stools; breast and chest patients commonly see skin redness and tiredness. Most begin in week two or three and settle within a month or two of finishing. Because IMRT spares healthy tissue better than older methods, long-term effects are often milder.</p>"
+          },
+          {
+            "q": "Which cancers is IMRT used for?",
+            "a": "<p>IMRT is used most for cancers wrapped around delicate structures: head and neck, prostate, brain, cervical and other gynaecological sites, oesophagus, lung, anal and rectal cancers, and some sarcomas. It can also help when a tumour sits close to a previously irradiated area. Blood cancers and very small, simple tumours may not need it. Your radiation oncologist decides after reviewing your scans, since not every tumour benefits from the added complexity.</p>"
+          },
+          {
+            "q": "How much does IMRT cost in India compared with the US?",
+            "a": "<p>IMRT in India typically costs between USD 3,000 and USD 6,500 for a full course, compared with roughly USD 15,000 to USD 50,000 in the United States. The final figure depends on the number of sessions, the hospital, the city, and whether simulation, imaging, and follow-up scans are bundled. Ask for a written package quote before you travel. CancerFax can help you compare hospital estimates, though your treating oncology team confirms the plan.</p>"
+          },
+          {
+            "q": "Is proton therapy better than IMRT for my cancer?",
+            "a": "<p>Not always. Protons deposit less dose beyond the tumour, which matters most for children and for tumours near the brain, spine, eye, or heart. For many adult prostate, head and neck, and gynaecological cancers, IMRT often gives similar disease control at a far lower cost and is far more widely available. The better option depends on your tumour site, your age, and what your radiation oncologist sees on your planning scans.</p>"
+          },
+          {
+            "q": "How long does each IMRT session take?",
+            "a": "<p>Each IMRT session takes about 15 to 30 minutes in the room, but the beam is only on for two to seven minutes. The rest is positioning: aligning your mask or body marks and taking a quick scan to confirm the tumour sits exactly where the plan expects. Your first visit, the planning or simulation session, runs longer, often one to two hours, because the mould and detailed scans are made then.</p>"
+          },
+          {
+            "q": "Can I work or travel home during IMRT treatment?",
+            "a": "<p>Many patients keep working through IMRT, especially in the first two or three weeks, though fatigue often builds later and reduced hours help. You are not radioactive after treatment, so it is safe to be around children and pregnant women. Daily sessions do mean staying near the hospital for the whole course, which matters if you are travelling from abroad. Discuss lodging and leave plans with your team before starting.</p>"
+          },
+          {
+            "q": "Can IMRT cause a second cancer years later?",
+            "a": "<p>The risk is real but very small, on the order of one in several hundred patients over ten to twenty years, and it is higher in children and young adults than in older patients. IMRT spreads a low dose across more healthy tissue than older techniques while sharply cutting the high dose. For most adults, the benefit of controlling the current cancer far outweighs this long-term risk, but ask your oncologist about your situation.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

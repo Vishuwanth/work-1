@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE Downstaging for Liver Transplant Eligibility: Beyond Milan Criteria",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-downstaging-for-liver-transplant",
+  "route": "/insights/tace-downstaging-for-liver-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does downstaging with TACE actually mean for a liver transplant?",
+            "a": "<p>Downstaging means shrinking your liver tumours with TACE until they fall back inside the size and number limits that transplant centres accept. Most programmes use the Milan criteria: one tumour up to 5 cm, or up to three tumours each under 3 cm. If TACE brings your disease within those limits and it stays there, you may become eligible for listing. Final decisions rest with the transplant board reviewing your case.</p>"
+          },
+          {
+            "q": "Can I still get a transplant if my tumour is outside the Milan criteria?",
+            "a": "<p>Yes, in many cases. Being outside Milan at diagnosis is no longer an automatic refusal. Several centres now list patients who were downstaged successfully into Milan and then held stable for three to six months. Programmes often set an upper boundary for who may attempt this, such as a single tumour up to 8 cm or a total tumour diameter under 8 cm. Policies vary by country and centre.</p>"
+          },
+          {
+            "q": "How long does downstaging take before I can be listed?",
+            "a": "<p>Most patients need three to nine months. TACE is usually given in two or three sessions spaced four to eight weeks apart, with a scan after each to measure response. Once your tumours are inside Milan, transplant teams commonly ask for a further three to six months of stability before listing you. That waiting period is deliberate: it filters out aggressive disease that would return quickly after a transplant.</p>"
+          },
+          {
+            "q": "How often does TACE downstaging actually work?",
+            "a": "<p>Roughly half of carefully selected patients are successfully downstaged into Milan, and reported rates range from about 40 to 70 percent depending on how strict the entry limits are. Patients with fewer, smaller tumours, preserved liver function and a low alpha-fetoprotein level tend to do best. Success is measured on imaging response, not on symptoms. Your hepatologist can estimate your own likelihood after reviewing your scans and blood work.</p>"
+          },
+          {
+            "q": "Are my survival chances after transplant worse if I needed downstaging first?",
+            "a": "<p>Not markedly. Patients downstaged into Milan and then transplanted show five-year survival around 70 to 80 percent in published series, close to those who met Milan from the start. The key is that the tumour responded and stayed controlled during the waiting period. Patients whose disease progressed despite TACE do worse, which is exactly why centres insist on that observation window before listing. Your own outlook also depends on liver function and general health.</p>"
+          },
+          {
+            "q": "What are the UCSF criteria and how are they different from Milan?",
+            "a": "<p>The UCSF criteria are a wider set of limits: one tumour up to 6.5 cm, or up to three tumours with none above 4.5 cm and a combined diameter under 8 cm. They were designed to include patients Milan excludes without losing survival benefit. Many downstaging programmes use UCSF or a similar expanded boundary as the ceiling for who may attempt TACE downstaging. Not every centre accepts them.</p>"
+          },
+          {
+            "q": "Can TACE be combined with other treatments to get me inside Milan?",
+            "a": "<p>Yes, and combinations are increasingly common. TACE is often paired with radiofrequency or microwave ablation for smaller nodules, or followed by SBRT when a tumour sits awkwardly for ablation. Some centres add immunotherapy or targeted drugs, though these can complicate transplant timing and rejection risk. The combination chosen depends on tumour position, liver function and what your transplant programme allows, so ask your team what they permit.</p>"
+          },
+          {
+            "q": "What happens if TACE does not shrink my tumours enough?",
+            "a": "<p>If your tumours stay outside Milan after two or three TACE sessions, most centres stop pursuing transplant and move to other options. Those can include radioembolisation, SBRT, systemic therapy, or resection if your liver function allows. Failure to respond is treated as information about tumour biology rather than a dead end. Your team should rescan and reassess before closing off transplant entirely, since some patients respond late.</p>"
+          },
+          {
+            "q": "How much does TACE downstaging cost in India or China?",
+            "a": "<p>A single TACE session typically costs around 3,000 to 6,000 US dollars in India and somewhat more in China, so a full downstaging course of two or three sessions often lands between 8,000 and 18,000 dollars before the transplant itself. Scans, admissions and follow-up add to this. CancerFax can help you request itemised quotes from transplant centres, though final pricing depends on your liver status and the centre's protocol.</p>"
+          },
+          {
+            "q": "Will a hospital abroad accept me for downstaging if my own centre said no?",
+            "a": "<p>Sometimes, because listing rules differ between countries and even between hospitals in the same city. Centres in India and China often use expanded criteria and may consider patients turned down elsewhere. You will usually need to send recent triphasic CT or MRI images, alpha-fetoprotein levels and liver function tests for review before any opinion is given. CancerFax can pass those records to transplant teams for assessment. Acceptance is never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

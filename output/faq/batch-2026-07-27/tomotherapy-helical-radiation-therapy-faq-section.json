@@ -1,0 +1,59 @@
+{
+  "pillar": "Tomotherapy: Helical IMRT for Complex Cancer Targets",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tomotherapy-helical-radiation-therapy",
+  "route": "/treatments/tomotherapy-helical-radiation-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is tomotherapy, and how is it different from standard radiotherapy?",
+            "a": "<p>Tomotherapy is radiation therapy delivered in a continuous spiral while the couch moves you slowly through a ring-shaped machine, so the beam treats you from thousands of angles instead of a few fixed ones. This helical delivery shapes dose tightly around irregular tumours and limits the dose reaching nearby healthy organs. Every session begins with a CT scan on the same machine to confirm your position before treatment starts.</p>"
+          },
+          {
+            "q": "Which cancers is tomotherapy best suited for?",
+            "a": "<p>Tomotherapy is often chosen for tumours that are long, curved, or wrapped around critical structures, such as head and neck cancers, spine and paraspinal tumours, prostate cancer, and cases needing total marrow or total body irradiation. It can also treat several separate tumour sites within one plan. Whether it suits your case depends on tumour position, any previous radiation, and your oncologist's assessment of the dose your healthy organs can safely receive.</p>"
+          },
+          {
+            "q": "Is tomotherapy painful?",
+            "a": "<p>No, the treatment itself is painless. You lie still on a couch while the machine rotates around you, and you feel nothing from the radiation beam, much like having a CT scan. The main demands are holding position and, for some sites, wearing a mask or using a body cushion. Side effects, when they appear, usually build up gradually over the course rather than during any single session.</p>"
+          },
+          {
+            "q": "How long does each session take, and how many sessions will I need?",
+            "a": "<p>Most tomotherapy sessions take 15 to 30 minutes in the room, with the beam on for roughly 5 to 15 minutes and the rest spent on setup and the daily CT check. A full course commonly runs five days a week for four to eight weeks, though shorter schedules are used for some tumours. Your radiation oncologist sets the exact number based on your cancer type and treatment goal.</p>"
+          },
+          {
+            "q": "What side effects should I expect from tomotherapy?",
+            "a": "<p>Side effects depend almost entirely on which part of the body is treated, and most are temporary. Fatigue and skin redness over the treated area are common. Head and neck treatment can cause a sore mouth and dry throat, while pelvic treatment may bring bowel or bladder irritation. Because helical delivery spares surrounding tissue well, many patients report milder effects than with older radiation techniques, but reactions still vary.</p>"
+          },
+          {
+            "q": "Is tomotherapy better than IMRT or proton therapy for my cancer?",
+            "a": "<p>Tomotherapy is itself a form of IMRT, so the honest answer is that it is better for certain situations rather than better overall. It tends to win where targets are long, curved, or numerous, and where daily imaging matters. Proton therapy can spare deep healthy tissue more completely and is often preferred for children or tumours beside the brainstem. Your team weighs tumour site, age, and dose limits before deciding.</p>"
+          },
+          {
+            "q": "How much does tomotherapy cost, and is it cheaper abroad?",
+            "a": "<p>A full tomotherapy course in India typically costs far less than the same treatment in the United States or Western Europe, and Chinese centres sit in a similar range. Quoted prices vary widely by hospital, number of sessions, and whether imaging, planning, and stay are bundled, so ask for an itemised written estimate before you travel. CancerFax can help you compare quotations, but final pricing rests with the treating hospital.</p>"
+          },
+          {
+            "q": "Where can I get tomotherapy in India or China?",
+            "a": "<p>Tomotherapy units are installed at several large cancer centres in major Indian cities and at a number of hospitals across mainland China, so access is realistic for international patients. Availability changes as machines are added or serviced, and waiting times differ by centre. CancerFax can share which hospitals currently run the technology and what their intake process involves; your own oncologist should confirm the plan is appropriate.</p>"
+          },
+          {
+            "q": "Can I have tomotherapy if I have already had radiation to the same area?",
+            "a": "<p>Re-irradiation with tomotherapy is sometimes possible, and its precision is one reason it is considered for these difficult cases. Your team must add up the dose your healthy tissue already received, how long ago it was given, and how well it has recovered. In many cases a reduced dose or a smaller target is used. Eligibility is decided case by case and cannot be assumed in advance.</p>"
+          },
+          {
+            "q": "Will I be radioactive after treatment, and is it safe to be around my family?",
+            "a": "<p>You will not be radioactive at any point, and it is safe to hold children, share a bed, and be around pregnant relatives. Tomotherapy uses an external beam that exists only while the machine is switched on, leaving nothing behind in your body. This differs from brachytherapy or radioactive iodine, where short-term precautions may apply. You can go home straight after each session and continue normal contact.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

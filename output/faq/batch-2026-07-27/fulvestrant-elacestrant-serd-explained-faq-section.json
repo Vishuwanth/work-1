@@ -1,0 +1,59 @@
+{
+  "pillar": "Fulvestrant and Elacestrant: Selective Oestrogen Receptor Degraders Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "fulvestrant-elacestrant-serd-explained",
+  "route": "/insights/fulvestrant-elacestrant-serd-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is a SERD, and how is it different from tamoxifen?",
+            "a": "<p>A SERD, or selective oestrogen receptor degrader, destroys the oestrogen receptor inside breast cancer cells rather than simply blocking it. Tamoxifen sits on the receptor and switches it off, but the receptor stays in place and can find ways around the block. Fulvestrant and elacestrant remove the receptor altogether, which is why they often still work after tamoxifen or an aromatase inhibitor has stopped working.</p>"
+          },
+          {
+            "q": "Why do I need fulvestrant as an injection instead of a tablet?",
+            "a": "<p>Fulvestrant is given as an injection because the body breaks it down almost completely when swallowed, leaving too little drug in the blood to work. The standard schedule is two 250 mg injections into the buttock muscle, given on days 1, 15 and 29, then once a month. Many patients find the injections uncomfortable for a day or two, and your nurse can adjust the injection technique to reduce this.</p>"
+          },
+          {
+            "q": "Is elacestrant a pill I can take at home?",
+            "a": "<p>Yes, elacestrant is a once-daily tablet taken with food at home, which removes the need for monthly clinic visits for injections. The usual dose is 345 mg daily, continued for as long as the cancer is responding and side effects stay manageable. This oral option can matter a great deal if you live far from your treating centre or are travelling for care, though your oncologist decides whether it fits your situation.</p>"
+          },
+          {
+            "q": "Who is elacestrant actually approved for?",
+            "a": "<p>Elacestrant is approved for postmenopausal women and adult men with ER-positive, HER2-negative advanced or metastatic breast cancer that carries an ESR1 mutation and has progressed after at least one line of hormone therapy. The ESR1 mutation requirement is strict, so approval depends on a positive test result. Regulatory approval and availability differ between countries, so ask your oncology team what applies where you plan to be treated.</p>"
+          },
+          {
+            "q": "What is an ESR1 mutation and how do I get tested for it?",
+            "a": "<p>An ESR1 mutation is a change in the oestrogen receptor gene that lets the receptor stay switched on even without oestrogen, which is a common reason aromatase inhibitors stop working. It is usually detected with a blood test called liquid biopsy, which looks for tumour DNA circulating in the bloodstream. Testing is generally done at the point the cancer progresses, since these mutations often appear during treatment rather than at diagnosis.</p>"
+          },
+          {
+            "q": "What side effects should I expect from these drugs?",
+            "a": "<p>The most common side effects are hot flushes, joint or muscle aches, tiredness and nausea, and with fulvestrant, soreness at the injection site. Elacestrant can also cause reduced appetite, indigestion and vomiting, which usually improve when the tablet is taken with food. Most people continue their normal routine, but tell your team early about persistent nausea or bone pain so it can be managed before it worsens.</p>"
+          },
+          {
+            "q": "Can I take a SERD together with a CDK4/6 inhibitor?",
+            "a": "<p>Fulvestrant is routinely combined with CDK4/6 inhibitors such as palbociclib, ribociclib or abemaciclib, and this pairing is a standard option after first-line hormone therapy fails. Elacestrant is currently approved as a single agent, with combination use still being studied in trials. Your oncologist will base the choice on what treatment you have already had and how quickly the cancer is growing.</p>"
+          },
+          {
+            "q": "How will I know if the treatment is working?",
+            "a": "<p>Response is tracked with scans, usually CT or PET, done every two to three months, alongside tumour marker blood tests and how you feel day to day. Hormone therapies often work slowly, so stable disease with no growth counts as success rather than failure. Some patients see benefit lasting well over a year, but the duration varies widely and no one can predict it in advance for an individual.</p>"
+          },
+          {
+            "q": "Are these drugs available in India and China?",
+            "a": "<p>Fulvestrant is widely available in both India and China, including lower-cost generic versions, and is used routinely in major cancer centres. Elacestrant is newer and access is more limited, sometimes only through named-patient import routes or clinical trials. CancerFax can help you check what is currently available at specific hospitals, though your treating oncology team remains the right people to confirm whether it suits your case.</p>"
+          },
+          {
+            "q": "What are my options if a SERD stops working?",
+            "a": "<p>If a SERD stops working, the usual next steps are a different targeted drug matched to your tumour's mutations, such as a PI3K or AKT inhibitor, an antibody-drug conjugate, or chemotherapy. Newer oral SERDs and related degraders are also being tested in trials in several countries. Repeat mutation testing at this point can open doors, since the tumour's profile may have changed since your last biopsy.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

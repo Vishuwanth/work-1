@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU for Prostate Cancer: Focal Therapy and Whole-Gland Ablation",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-for-prostate-cancer",
+  "route": "/insights/hifu-for-prostate-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIFU for prostate cancer?",
+            "a": "<p>HIFU, or high-intensity focused ultrasound, destroys prostate cancer tissue by heating it to around 80 degrees Celsius with sound waves aimed through the rectal wall. No cuts or radiation are involved, and it is usually done in a single session under general or spinal anaesthesia. It can treat part of the gland or all of it, and suitability depends on your MRI and biopsy findings.</p>"
+          },
+          {
+            "q": "What is the difference between focal HIFU and whole-gland HIFU?",
+            "a": "<p>Focal HIFU treats only the part of the prostate holding the cancer, while whole-gland HIFU ablates the entire gland. Focal treatment aims to protect the nerves and urinary sphincter, so continence and erections are more often preserved, but it leaves untreated tissue that needs monitoring. Whole-gland ablation covers more cancer with a higher risk of urinary and sexual side effects. MRI mapping usually decides which is offered.</p>"
+          },
+          {
+            "q": "Am I suitable for focal HIFU?",
+            "a": "<p>Focal HIFU may be considered for localised, intermediate-risk prostate cancer where MRI and targeted biopsy show one clearly defined tumour that has not spread beyond the gland. Men with widely scattered disease, heavy calcification, a very large prostate or cancer close to the rectal wall are often unsuitable. Eligibility depends on PSA level, Gleason grade, imaging and specialist review, so only your urology team can confirm it.</p>"
+          },
+          {
+            "q": "How is HIFU done, and how long does it take?",
+            "a": "<p>HIFU is done through a probe placed in the rectum, with no incisions, and usually takes one to three hours depending on how much of the gland is treated. You are under general or spinal anaesthesia and go home the same day or the next morning. A urinary catheter stays in for a few days to a week while swelling settles, and return to normal activity is often quicker than after surgery.</p>"
+          },
+          {
+            "q": "Will HIFU leave me incontinent or unable to get an erection?",
+            "a": "<p>Most men keep urinary control after HIFU, and serious incontinence is uncommon, reported in fewer than 3 in 100 men after focal treatment. Erections are preserved in roughly 70 to 90 per cent of those with good function beforehand, and focal treatment does better here than whole-gland ablation. Urgency, weak flow and blood in the semen are common early on. Your own risk depends on age and how much tissue is treated.</p>"
+          },
+          {
+            "q": "How well does HIFU control prostate cancer?",
+            "a": "<p>HIFU controls cancer well in selected men: about 80 to 90 per cent avoid further prostate cancer treatment for five years after focal ablation, and most avoid radical surgery altogether. Long-term data beyond ten years is still thinner than for surgery or radiotherapy, which is why HIFU is often described as promising rather than proven. Results depend on tumour grade, size and how completely the target was covered.</p>"
+          },
+          {
+            "q": "If my cancer comes back after HIFU, can I be treated again?",
+            "a": "<p>Yes, HIFU can usually be repeated, and it does not close off other options. Around 15 to 25 per cent of men need a second treatment within five years, either more HIFU or a switch to surgery or radiotherapy. Salvage surgery after HIFU is technically harder because of scarring, but it remains possible in experienced hands. Your team will use PSA trends, MRI and biopsy to decide.</p>"
+          },
+          {
+            "q": "Is HIFU better than surgery or radiotherapy for my prostate cancer?",
+            "a": "<p>HIFU trades a little long-term certainty for far fewer side effects. Surgery and radiotherapy have decades of survival data and treat the whole gland, while focal HIFU preserves more urinary and sexual function and can be repeated. For low- and intermediate-risk cancer confined to one area, outcomes look broadly comparable at five years. For high-risk or spread disease, HIFU is not a substitute, and your oncology team should make the call.</p>"
+          },
+          {
+            "q": "How will I know the HIFU worked?",
+            "a": "<p>Follow-up after HIFU relies on PSA blood tests, usually every three months for the first two years, plus an MRI at about 12 months and a targeted biopsy if anything looks suspicious. PSA falls but does not reach zero after focal treatment, because healthy prostate tissue remains, so a single reading matters less than the trend. Expect monitoring to continue for at least five years.</p>"
+          },
+          {
+            "q": "Which countries offer prostate HIFU, and how do I arrange it abroad?",
+            "a": "<p>Prostate HIFU is available in the UK, Europe, the United States, China, India, Japan and South Korea, though the number of experienced high-volume centres is smaller than the number offering it. Ask how many focal HIFU cases the named surgeon does each year. CancerFax can help gather written estimates, arrange specialist opinions and coordinate travel and follow-up, with treatment decisions staying with your oncology team. Acceptance is never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

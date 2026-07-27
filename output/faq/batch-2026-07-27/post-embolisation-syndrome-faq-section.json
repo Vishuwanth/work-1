@@ -1,0 +1,59 @@
+{
+  "pillar": "Post-Embolisation Syndrome: What to Expect After TACE",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "post-embolisation-syndrome",
+  "route": "/insights/post-embolisation-syndrome",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is post-embolisation syndrome after TACE?",
+            "a": "<p>Post-embolisation syndrome is a group of symptoms that often follows TACE: fever, abdominal pain, nausea and tiredness. It happens because blocking the tumour's blood supply causes tumour tissue to die, and the dying tissue triggers inflammation. It affects most people who have TACE, usually starting within 24 hours. In many cases it is mild and settles without any change to your treatment plan, and your interventional radiology team will watch for it.</p>"
+          },
+          {
+            "q": "How long does post-embolisation syndrome last?",
+            "a": "<p>Most people feel better within three to seven days. Symptoms usually peak on day one or two, then fade steadily. Fatigue is often the last thing to go and can linger for two to three weeks, especially after a large treatment or when several tumours are treated at once. If fever or pain is still climbing after a week, tell your team, because that can point to a different problem.</p>"
+          },
+          {
+            "q": "Does post-embolisation syndrome mean the treatment is working?",
+            "a": "<p>Not necessarily. The symptoms come from tumour tissue dying, so they show that the embolisation reached its target, but they are not a reliable measure of how much tumour was killed. People with mild symptoms can still have an excellent response, and people with severe symptoms can still need further treatment. Your doctor will judge the result from a CT or MRI scan taken four to six weeks later.</p>"
+          },
+          {
+            "q": "What symptoms should I expect in the first few days?",
+            "a": "<p>Expect fever up to around 38.5°C, a dull ache or pressure under the right ribs, nausea, poor appetite and marked tiredness. Some people also vomit or feel bloated. Blood tests often show liver enzymes rising for a few days before settling again. These effects are usually managed with fluids, anti-sickness medicine and painkillers, most often in hospital for the first day or two after the procedure.</p>"
+          },
+          {
+            "q": "Will I need to stay in hospital after TACE?",
+            "a": "<p>Most centres keep you in for one to three nights after TACE, mainly to control pain, nausea and fever while post-embolisation syndrome is at its worst. Discharge depends on your liver function, how well symptoms respond to medicine, and whether you can eat and drink normally. If you are travelling from another country, plan for a longer stay than the minimum, as recovery timelines vary.</p>"
+          },
+          {
+            "q": "How is the pain managed after TACE?",
+            "a": "<p>Pain is treated with regular painkillers rather than waiting for it to build. Teams often start with paracetamol and a stronger opioid given through the drip in the first 24 hours, then step down to tablets. Anti-sickness medicine and fluids are given alongside. Tell the nurses early when pain returns, because staying ahead of it works better than chasing it, and doses can usually be adjusted quickly.</p>"
+          },
+          {
+            "q": "Which symptoms mean I should call my doctor?",
+            "a": "<p>Call your team if fever goes above 38.5°C and lasts beyond a week, if pain becomes severe or sudden, or if you develop shaking chills, yellowing of the eyes or skin, confusion, a swollen abdomen, or you cannot keep fluids down. These can signal a liver abscess, infection, or worsening liver function rather than ordinary post-embolisation syndrome. Getting checked early is safer than waiting for your next appointment.</p>"
+          },
+          {
+            "q": "Can post-embolisation syndrome be prevented?",
+            "a": "<p>It cannot be prevented completely, but it can often be softened. Many teams give steroids, anti-sickness medicine and fluids before and during the procedure, and treating one liver segment at a time rather than a whole lobe usually causes milder symptoms. Drug-eluting bead TACE may produce less fever and pain than conventional TACE in some patients. Your interventional radiologist will choose the approach that suits your liver function.</p>"
+          },
+          {
+            "q": "Will it be worse with my second TACE session?",
+            "a": "<p>Not usually. Many people find later sessions easier, because smaller volumes of tumour are treated and the team already knows which medicines controlled your symptoms last time. Some people do have a stronger reaction if a new area of liver is treated or if the session is larger. Keep notes on how you felt after each session and share them, as this helps your team plan the next one.</p>"
+          },
+          {
+            "q": "How soon can I fly home after having TACE abroad?",
+            "a": "<p>Ask your treating team, and give yourself margin. Patients who travel to India or China for TACE are often advised to stay near the hospital for seven to ten days afterwards, so that fever or pain can be assessed if it persists. CancerFax can help you understand what a centre's usual post-TACE follow-up involves, though your treating oncology team makes the final decision on when flying is safe.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

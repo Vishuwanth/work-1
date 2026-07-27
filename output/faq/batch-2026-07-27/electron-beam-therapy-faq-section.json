@@ -1,0 +1,59 @@
+{
+  "pillar": "Electron Beam Radiation Therapy: Guide for Cancer Patients",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "electron-beam-therapy",
+  "route": "/treatments/electron-beam-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is electron beam radiation therapy?",
+            "a": "<p>Electron beam therapy uses fast-moving electrons that release their dose in the first few centimetres of tissue and then stop, so it treats skin and shallow tumours while sparing the organs underneath. The beam comes from a standard linear accelerator, the same machine used for deeper X-ray treatment. Your radiation oncologist selects the electron energy to match how deep your tumour sits, usually between about five millimetres and six centimetres.</p>"
+          },
+          {
+            "q": "How is electron therapy different from ordinary photon radiation?",
+            "a": "<p>The difference is depth. Photons, or X-rays, pass right through the body and deliver dose on the way in and on the way out, while electrons give up almost all their energy near the surface and stop sharply. That makes electrons a good fit for skin cancers, chest wall scars, and lumps you can feel, and a poor fit for tumours sitting deep in the abdomen or pelvis.</p>"
+          },
+          {
+            "q": "Which cancers is electron beam therapy used for?",
+            "a": "<p>Electron therapy is used most often for basal cell and squamous cell skin cancers, chest wall treatment after mastectomy, mycosis fungoides, keloid scars, and lymph node areas lying close to the surface. It is also given as a boost dose to the tumour bed after breast-conserving surgery. Whether it suits your case depends on tumour depth and location, so your radiation oncologist decides after reviewing your imaging.</p>"
+          },
+          {
+            "q": "Does electron beam treatment hurt?",
+            "a": "<p>No, you feel nothing while the beam is on. Each session is painless, much like having an X-ray taken, and the beam itself runs for only one to three minutes. Most of the visit is spent positioning you correctly under the machine. Any discomfort tends to build gradually over the weeks as the treated skin reddens and becomes tender, and your team can usually manage it.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long is each one?",
+            "a": "<p>Most courses run Monday to Friday for three to six weeks, though some small skin cancers are treated in as few as five to ten sessions. Each appointment takes about fifteen to twenty minutes door to door, with only a couple of minutes of actual beam time. The number of sessions depends on your tumour type, its size, and whether the aim is cure or symptom relief.</p>"
+          },
+          {
+            "q": "What side effects should I expect from electron therapy?",
+            "a": "<p>Side effects usually stay within the treated patch of skin. Expect redness, dryness, itching, and sometimes peeling that looks like sunburn, often starting around week two or three and settling within a month of finishing. Hair in the treated area commonly falls out and may not fully return. Deeper organs are largely spared because the dose stops short of them, which is the main advantage of electrons.</p>"
+          },
+          {
+            "q": "Will my skin be permanently damaged or scarred?",
+            "a": "<p>In most cases the skin recovers well, though it may stay slightly darker, thinner, or drier than before. Small visible blood vessels called telangiectasia can appear months or years later. Serious skin breakdown is uncommon with modern planning and careful dose limits. Ask your team about moisturisers and sun protection, because treated skin often stays more sensitive to sunlight for the rest of your life.</p>"
+          },
+          {
+            "q": "What is total skin electron beam therapy, and who needs it?",
+            "a": "<p>Total skin electron beam therapy treats the entire skin surface at once and is used mainly for mycosis fungoides and other skin lymphomas that cover wide areas of the body. You stand in set positions while the beam sweeps across you, and the dose stops before reaching internal organs.</p><p>Only a limited number of centres offer it, and CancerFax can help you identify hospitals in India or China that do.</p>"
+          },
+          {
+            "q": "How much does electron beam therapy cost in India or China?",
+            "a": "<p>A full course in India often falls between USD 800 and USD 3,000, and Chinese hospitals sit in a broadly similar range, well below typical Western prices. The final figure depends on the number of sessions, imaging, hospital tier, and any surgery or drug treatment given alongside. CancerFax can help you request written estimates, though only the treating hospital can confirm a price for your case.</p>"
+          },
+          {
+            "q": "Am I radioactive afterwards? Is it safe to be around my family?",
+            "a": "<p>You are not radioactive after electron beam therapy, and it is safe to hug your children, share a bed, and eat together. The electrons stop inside your tissue and nothing is left behind once the machine switches off. This differs from brachytherapy or radioactive iodine, where a source is placed inside the body and short-term precautions may apply. Ask your team which type of radiation you are receiving.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

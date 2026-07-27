@@ -1,0 +1,59 @@
+{
+  "pillar": "CD19+CD22 Dual-Target CAR-T for B-Cell ALL: Preventing Antigen Escape",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cd19-cd22-dual-car-t",
+  "route": "/insights/cd19-cd22-dual-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CD19+CD22 dual-target CAR-T therapy?",
+            "a": "<p>CD19+CD22 dual-target CAR-T is a single infusion of your own T cells engineered to recognise two proteins on B-cell leukaemia cells rather than one. If the cancer stops showing CD19, the same cells can still attack through CD22. Designs vary, since some use two receptors on one cell and others mix two cell products. Your haematology team decides which design suits your case.</p>"
+          },
+          {
+            "q": "Why does leukaemia come back after CD19 CAR-T treatment?",
+            "a": "<p>Most relapses after CD19 CAR-T happen because the leukaemia either loses the CD19 marker the cells were trained to find, or because the CAR-T cells fade too early. CD19-negative relapse accounts for roughly a third to half of returns in reported series. Targeting CD22 as well removes one escape route, though it cannot remove every route, and outcomes still depend on disease burden and prior treatment.</p>"
+          },
+          {
+            "q": "Is dual-target CAR-T actually better than CD19 CAR-T alone?",
+            "a": "<p>Reported early-phase trials suggest dual-target CAR-T lowers CD19-negative relapse and can produce remission rates above 90 percent in children and young adults with relapsed B-cell ALL. Whether that translates into longer survival than CD19 alone is not yet settled, because head-to-head randomised comparisons are limited. Your oncologist will weigh trial data against your own or your child's disease history rather than treating dual-targeting as automatically superior.</p>"
+          },
+          {
+            "q": "Who can have CD19+CD22 CAR-T for B-cell ALL?",
+            "a": "<p>Dual-target CAR-T is generally considered for B-cell ALL that has returned or stopped responding after at least two lines of treatment, including patients who relapsed after CD19 CAR-T. Adequate organ function, controlled infection and enough healthy T cells to collect are usually required. Age limits differ by programme. Eligibility is decided case by case after review of bone marrow and flow cytometry results, so criteria may vary.</p>"
+          },
+          {
+            "q": "Where can I get dual-target CAR-T, and is it approved anywhere?",
+            "a": "<p>Dual-target CD19+CD22 CAR-T is mostly available through clinical trials and hospital-based programmes in China, with a smaller number of academic trials in India, Europe and the United States. No dual-target product has full marketing approval in most countries, so access usually means enrolling in a study. CancerFax can help you identify centres running these trials, though acceptance always rests with the treating oncology team.</p>"
+          },
+          {
+            "q": "What are the side effects of dual-target CAR-T?",
+            "a": "<p>The main risks are cytokine release syndrome, which causes fever and low blood pressure, and neurological effects such as confusion or seizures. Most cases are mild to moderate and reversible with tocilizumab, steroids and intensive-care support. Low blood counts and infections can persist for weeks or months, and B-cell aplasia often needs regular immunoglobulin replacement. Risk levels differ between products and depend on how much leukaemia is present.</p>"
+          },
+          {
+            "q": "How long does the whole treatment take from start to finish?",
+            "a": "<p>Plan for roughly four to eight weeks from first consultation to discharge. T-cell collection takes a few hours, manufacturing usually needs two to four weeks, and short chemotherapy is given a few days before infusion. Patients then stay near the hospital for two to four weeks of close monitoring. Delays can happen if cells fail to grow or if infection needs treating first, so timelines may shift.</p>"
+          },
+          {
+            "q": "What does dual-target CAR-T cost in China or India?",
+            "a": "<p>In China, dual-target CAR-T within a trial or hospital programme often falls between roughly 40,000 and 90,000 US dollars, while commercial single-target CAR-T in India is priced near 40,000 dollars. Quoted costs rarely include travel, extended stay, or care for complications. CancerFax can share indicative quotations from specific hospitals, but the final figure depends on the centre, the protocol and your clinical condition.</p>"
+          },
+          {
+            "q": "My child relapsed after CD19 CAR-T. Can dual-target therapy still work?",
+            "a": "<p>Yes, in many cases. Patients whose leukaemia returned after CD19 CAR-T are among the groups most often studied for dual-target therapy, provided the cells still show CD22 on testing. Response rates in this setting are lower than in CAR-T-naive patients, and prior treatment can make T cells harder to collect. Some centres use donor-derived products instead. Suitability depends entirely on repeat marrow and flow cytometry findings.</p>"
+          },
+          {
+            "q": "What tests do I need before a centre will accept me?",
+            "a": "<p>You will usually need a fresh bone marrow aspirate with flow cytometry to confirm CD19 and CD22 are present, plus disease burden measurement, cerebrospinal fluid examination, cardiac and kidney function tests, and infection screening. Genetic testing may also be requested. These results are typically no more than four weeks old when a programme reviews them, and repeat testing may be required if the disease changes quickly.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

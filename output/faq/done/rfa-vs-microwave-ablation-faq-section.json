@@ -1,0 +1,59 @@
+{
+  "pillar": "RFA vs Microwave Ablation (MWA): When Each Is Preferred and Why",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-vs-microwave-ablation",
+  "route": "/insights/rfa-vs-microwave-ablation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between RFA and microwave ablation?",
+            "a": "<p>RFA uses radiofrequency electrical current to heat and destroy tumour tissue, while microwave ablation uses microwave energy to do the same job. Microwave ablation generally reaches higher temperatures faster and creates a larger, more predictable zone of destruction. RFA has a longer track record and finer control near delicate structures. Both are needle-based, image-guided, and usually done without open surgery. Your radiologist chooses based on tumour size, location, and nearby blood vessels.</p>"
+          },
+          {
+            "q": "Which one works better for larger tumours?",
+            "a": "<p>Microwave ablation is usually preferred for tumours above roughly 3 cm, because it produces a bigger, hotter ablation zone in less time. The RFA zone tends to plateau near 3 cm per needle placement, so larger lesions may need overlapping burns. Size alone does not decide it — shape, position, and closeness to major vessels also matter. Very large tumours may need a combined approach, such as ablation together with TACE.</p>"
+          },
+          {
+            "q": "Is microwave ablation faster than RFA?",
+            "a": "<p>Yes, microwave ablation is typically faster, often finishing an ablation cycle in 5 to 10 minutes compared with 12 to 25 minutes for RFA. Shorter time can mean less sedation or anaesthesia for you, which matters most when several tumours are treated in one session. A faster burn is not automatically a better one, though. Complete margin coverage matters more for long-term tumour control than time on the table.</p>"
+          },
+          {
+            "q": "What is the heat sink effect and why does it matter?",
+            "a": "<p>The heat sink effect is when blood flowing through a nearby vessel carries heat away from the tumour, leaving live cancer cells at the edge. RFA is more vulnerable to this than microwave ablation, which heats tissue faster and more forcefully. For a tumour sitting against a large vein or portal branch, many interventional radiologists therefore choose microwave. This is one of the clearest reasons a team may move away from RFA.</p>"
+          },
+          {
+            "q": "When is RFA still the better choice?",
+            "a": "<p>RFA is often preferred for small tumours, generally under 3 cm, sitting close to the bowel, bile ducts, gallbladder, or diaphragm. Its ablation zone is smaller and more predictable, which lowers the risk of injuring a structure you cannot afford to damage. RFA also has decades of published outcome data in liver, kidney, and lung tumours. For a small, well-placed lesion, results from the two techniques are often similar.</p>"
+          },
+          {
+            "q": "Is one of them safer than the other?",
+            "a": "<p>Major complication rates for both are low, generally around 2 to 5 percent in experienced hands, and studies rarely show a clear safety gap. The risks differ in character rather than size. The larger, hotter microwave zone can injure a nearby organ more easily, while RFA carries a small risk of skin burns at the grounding pads. Operator experience and tumour location affect your risk more than the energy type.</p>"
+          },
+          {
+            "q": "What is recovery like after either procedure?",
+            "a": "<p>Recovery is similar for both. Most people go home within 24 hours, or the same day for a small tumour, and return to normal activity within a few days. You may feel a dull ache at the puncture site, mild fever, and fatigue for about a week. This is called post-ablation syndrome and usually settles on its own. Follow-up scanning is typically done at one month, then every three to six months.</p>"
+          },
+          {
+            "q": "Do RFA and microwave ablation cost the same in India or China?",
+            "a": "<p>Costs are broadly similar, with microwave ablation sometimes slightly higher because of the antenna used. In India, a single ablation session often falls between USD 2,500 and 5,000, and Chinese hospitals sit in a comparable band. Prices depend on the hospital, the number of tumours, imaging guidance, and length of stay. CancerFax can help you request written quotes before you travel, though final costs are confirmed by the hospital.</p>"
+          },
+          {
+            "q": "Can these treatments be repeated or combined with other therapies?",
+            "a": "<p>Yes. Both can be repeated if a tumour comes back or a new lesion appears, and that repeatability is one of ablation's biggest advantages over surgery. They are also combined with treatments such as TACE for liver cancer, or used on a limited number of metastases alongside systemic therapy. Whether repeat treatment suits you depends on liver or kidney function, the pattern of disease, and your overall condition.</p>"
+          },
+          {
+            "q": "How do I find out which one is right for my tumour?",
+            "a": "<p>Bring a recent contrast CT or MRI, ideally done within the last four to six weeks, to an interventional radiologist who performs both procedures. They will weigh tumour size, number, distance from vessels and hollow organs, and your organ function before recommending one. Ask how many of each procedure the centre does per year. CancerFax can help arrange a review of your scans by ablation centres in India and China.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

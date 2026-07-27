@@ -1,0 +1,59 @@
+{
+  "pillar": "HIPEC for Colorectal Cancer Peritoneal Metastases: Evidence, Eligibility, and Outcomes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-for-colorectal-cancer",
+  "route": "/insights/hipec-for-colorectal-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIPEC, and how does it treat colorectal cancer that has spread inside my abdomen?",
+            "a": "<p>HIPEC is heated chemotherapy washed through the abdominal cavity after surgeons remove every visible tumour deposit. The surgery, called cytoreduction, does most of the work; the heated drug then targets microscopic cells left on the peritoneal lining. Warming the drug to about 41–43°C helps it soak into tissue. It is one long operation, often eight to twelve hours, not a course of repeated treatments. Recovery in hospital usually takes one to two weeks.</p>"
+          },
+          {
+            "q": "Does HIPEC actually work for colorectal cancer, or is the evidence weak?",
+            "a": "<p>The evidence supports the surgery more than the heated chemotherapy. In the PRODIGE 7 trial, patients who had complete cytoreductive surgery lived a median of about 41 months whether or not oxaliplatin HIPEC was added, and the HIPEC group had more complications at 60 days. Many centres still offer HIPEC using mitomycin C, which that trial did not test, so the debate continues. Your surgical team can explain which drug they use and why.</p>"
+          },
+          {
+            "q": "Am I eligible for HIPEC if my colorectal cancer has spread to the peritoneum?",
+            "a": "<p>Eligibility usually depends on whether surgeons can remove all visible disease. Teams look for cancer confined to the peritoneum, a Peritoneal Cancer Index score generally below 20, limited small-bowel involvement, good general fitness, and no widespread liver or lung spread. Age alone rarely rules anyone out. Only a specialist peritoneal surgical team, working from recent scans and often a diagnostic laparoscopy, can confirm whether you qualify.</p>"
+          },
+          {
+            "q": "How long do people live after cytoreductive surgery with HIPEC?",
+            "a": "<p>Median survival after complete cytoreductive surgery with HIPEC is roughly 30 to 45 months, and around 15 to 25 percent of patients are alive at five years. Outcomes depend heavily on how much disease was present and whether every visible deposit was removed. Patients with a low Peritoneal Cancer Index do considerably better. These are group averages from published series, not a prediction for any one person.</p>"
+          },
+          {
+            "q": "How risky is this operation, and what can go wrong?",
+            "a": "<p>Cytoreductive surgery with HIPEC is major surgery, with serious complications in about 20 to 35 percent of patients and death within 30 days in roughly 1 to 4 percent. The commonest problems are bowel leaks, infection, blood clots, kidney strain and low blood counts. Risk falls sharply at high-volume centres that do this operation often. Ask any hospital how many of these procedures they perform each year.</p>"
+          },
+          {
+            "q": "How long will it take me to recover?",
+            "a": "<p>Most people spend one to two days in intensive care, seven to fourteen days in hospital, and two to three months getting back to normal activity. Eating normally often takes several weeks because the bowel is slow to wake up. Fatigue can linger for months. Systemic chemotherapy, if planned afterwards, usually restarts six to eight weeks later, once wounds have healed and blood counts recover.</p>"
+          },
+          {
+            "q": "How much does HIPEC cost in India or China compared with the United States?",
+            "a": "<p>In India, cytoreductive surgery with HIPEC commonly costs about 12,000 to 20,000 US dollars including the hospital stay; in China the range is broadly similar, while United States prices often exceed 100,000 dollars. Quotes vary with the length of surgery, intensive care days and any complications. CancerFax can help you request written estimates from accredited peritoneal surgery centres, though final costs depend on your scans and the treating team's plan.</p>"
+          },
+          {
+            "q": "Can I still have HIPEC if the cancer has also reached my liver?",
+            "a": "<p>Sometimes, yes. A small number of liver deposits that can be removed or ablated during the same operation does not automatically rule out HIPEC, and selected patients still do well. Widespread liver or lung disease usually shifts treatment towards systemic chemotherapy instead. The decision rests on how much total disease there is and how well you responded to chemotherapy beforehand, so it is made case by case.</p>"
+          },
+          {
+            "q": "Do I still need normal chemotherapy after HIPEC?",
+            "a": "<p>Yes, in most cases. HIPEC treats only the abdominal lining; it does nothing for cancer cells circulating elsewhere, so systemic chemotherapy usually continues before, after, or both. Many teams give three to six months of chemotherapy first to see how the disease behaves, then operate on patients whose cancer is stable or shrinking. Your oncologist decides the exact sequence based on your genetics, previous drugs and recovery.</p>"
+          },
+          {
+            "q": "Where should I go for HIPEC, and how do I find a good centre abroad?",
+            "a": "<p>Choose a hospital that performs cytoreductive surgery with HIPEC regularly rather than occasionally, because outcomes track closely with a team's caseload. In India, Tata Memorial Centre and several large private groups run dedicated peritoneal surgery units; China has similar units in Beijing, Shanghai and Guangzhou. Ask for annual case numbers, complete-cytoreduction rates and 30-day mortality. CancerFax can forward your scans to such units for review, though acceptance rests with the treating surgeon.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

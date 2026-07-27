@@ -1,0 +1,59 @@
+{
+  "pillar": "Precision Oncology: China's AI vs India's Clinical Judgment",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "precision-oncology-china-vs-india",
+  "route": "/guides/precision-oncology-china-vs-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does precision oncology actually mean for my treatment?",
+            "a": "<p>Precision oncology means your treatment is chosen from the specific genetic and molecular changes inside your tumour, not from your cancer's location alone. Doctors test tumour tissue or blood for mutations, protein markers, and immune signals, then match drugs to those findings. Not every cancer carries a targetable change, so many patients still receive standard chemotherapy or radiation alongside or instead of a matched drug.</p>"
+          },
+          {
+            "q": "Is China's AI-driven cancer care better than India's doctor-led approach?",
+            "a": "<p>Neither approach is better in general, and the right one depends on your diagnosis. China's larger centres lean on AI tools that read imaging, pathology slides, and genomic panels quickly, which helps when a case fits a known molecular pattern. India's leading centres lean on high-volume clinical experience and tumour board discussion, which often serves complex or unusual cases better. Your oncologist should judge which fits your disease.</p>"
+          },
+          {
+            "q": "Can a computer really decide which cancer drug I should get?",
+            "a": "<p>No. AI systems in Chinese and Indian hospitals rank options, flag mutations, and surface matching trials, but a licensed oncologist signs off on every prescription. These tools are trained mostly on data from their own populations, so they can miss patterns in patients who differ from that training data. An algorithm's suggestion should be treated as one input to a tumour board decision, never as the decision itself.</p>"
+          },
+          {
+            "q": "How much does genomic testing cost in China compared with India?",
+            "a": "<p>A comprehensive genomic panel commonly costs around 1,000 to 2,500 US dollars in India and roughly 1,500 to 3,500 dollars in China, with single-gene tests far cheaper in both. Prices move with panel size, whether a liquid biopsy is included, and how fast you need results.</p><p>These are estimates only. Ask for a written quote covering tissue handling, reporting, and any repeat testing before you travel.</p>"
+          },
+          {
+            "q": "Why do Indian oncologists rely on clinical judgment instead of algorithms?",
+            "a": "<p>Indian cancer centres see very high patient volumes, which builds deep pattern recognition in senior oncologists and makes the weekly tumour board the main decision tool. Many hospitals also treat patients who cannot afford broad genomic panels, so doctors are trained to plan effective treatment from histology, staging, and a few targeted markers. AI tools are being adopted there, but they support the clinician rather than lead.</p>"
+          },
+          {
+            "q": "How fast will I get my molecular test results in each country?",
+            "a": "<p>Expect roughly seven to fourteen days for a comprehensive genomic panel in India, and about five to ten days at major Chinese centres, where automated reporting pipelines are further along. Single-marker tests often come back within two to four days in both countries. Delays are common when tissue must be re-cut or a fresh biopsy is needed, so ask for the reporting timeline in writing before you commit.</p>"
+          },
+          {
+            "q": "Will my existing tumour reports be accepted, or will I need retesting abroad?",
+            "a": "<p>Most Chinese and Indian centres accept recent outside pathology and genomic reports, but they usually want to review the original slides or tissue block themselves. Retesting is often requested when a report is more than six to twelve months old, came from an unaccredited laboratory, or predates a clear change in your disease. Send translated records ahead so the team can tell you what still needs repeating.</p>"
+          },
+          {
+            "q": "Which country is better if my tumour has no targetable mutation?",
+            "a": "<p>With no targetable mutation, the choice usually turns on trial access and cost rather than on AI capability. China runs a large number of early-phase cell therapy and bispecific antibody studies, while India often offers lower-cost chemotherapy, surgery, and radiation with strong supportive care. Enrolment in any trial depends on investigator review and can never be promised before your records are formally assessed.</p>"
+          },
+          {
+            "q": "Does China's AI approach help with rare cancers?",
+            "a": "<p>It can, but less reliably than with common cancers. AI models learn from large datasets, and rare tumours have far fewer cases to learn from, so predictions weaken as the diagnosis becomes more unusual. For a rare diagnosis, an experienced human tumour board, which is the strength of India's top centres, often adds more than an algorithm. Ask how many cases of your specific cancer the team treats each year.</p>"
+          },
+          {
+            "q": "How do I choose between China and India for precision oncology treatment?",
+            "a": "<p>Start with your diagnosis and your tumour's molecular profile, then compare what each country actually offers for that profile: available drugs, open trial slots, waiting time, total cost, and visa practicality. CancerFax can help organise your reports, identify relevant specialists or trials, and estimate costs in both countries, though your treating oncology team should confirm which route suits your stage and overall health.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

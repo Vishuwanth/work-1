@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation in India: Centres, Access, and Options for South Asian Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-india-centres-access",
+  "route": "/insights/cryoablation-india-centres-access",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is cryoablation available in India?",
+            "a": "<p>Yes, cryoablation is available in India at a number of large academic and private hospitals, usually through interventional radiology departments. It is offered less widely than radiofrequency or microwave ablation, so the number of centres with genuine case volume is small. Availability depends on the tumour site, whether the hospital owns cryoablation equipment, and whether an experienced interventional radiologist is part of the team.</p>"
+          },
+          {
+            "q": "Which hospitals in India offer cryoablation?",
+            "a": "<p>Cryoablation is mainly performed at large tertiary centres, including Tata Memorial Centre in Mumbai, AIIMS Delhi, and major private hospital groups such as Apollo, Fortis, Medanta, and Amrita, though the service varies between individual branches. Experience differs a great deal between centres. Ask the interventional radiology team how many cryoablation cases they perform each year, and for which organs, before you commit.</p>"
+          },
+          {
+            "q": "Which cancers is cryoablation used for in India?",
+            "a": "<p>Indian centres use cryoablation most often for small kidney tumours, liver tumours, lung nodules, prostate cancer, and painful bone metastases. It works best on tumours that are small, clearly visible on imaging, and safely reachable by a needle. It may be considered when surgery carries too much risk because of age, poor organ function, or other illness. Suitability depends on tumour size, position, and specialist review.</p>"
+          },
+          {
+            "q": "How much does cryoablation cost in India?",
+            "a": "<p>Cryoablation in India commonly costs roughly 3,000 to 8,000 US dollars per session, usually well below prices in Europe or the United States. That estimate typically covers imaging guidance, the cryoprobes, anaesthesia, and a short hospital stay. The probes are single-use and are often the largest single item. Final costs depend on the hospital, the number of tumours, extra diagnostics, and length of stay.</p>"
+          },
+          {
+            "q": "Is cryoablation better than surgery for a small kidney tumour?",
+            "a": "<p>Not automatically; cryoablation is gentler, while surgery remains more definitive. Freezing avoids a large incision, spares more kidney tissue, and allows faster recovery, which can matter if you are older or have reduced kidney function. Surgery removes tissue that can be examined under a microscope and is still standard for many operable tumours. Your urology and oncology team should compare both options for your case.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of cryoablation?",
+            "a": "<p>The main risks are bleeding, injury to organs sitting beside the tumour, and freezing damage to healthy tissue at the edge of the ice ball. Lung treatment can cause a collapsed lung, and kidney or liver treatment can bruise nearby structures. Cryoshock, a rare reaction with fever, low blood pressure, and clotting problems, is uncommon. Risk rises with larger tumours and awkward locations.</p>"
+          },
+          {
+            "q": "How long does the procedure take, and how quickly will I recover?",
+            "a": "<p>A cryoablation session usually takes one to three hours, and most patients stay in hospital for one to two nights. Soreness at the needle site is common for a few days and is normally managed with simple painkillers. Many people return to light activity within a week. A follow-up scan at one to three months checks whether the tumour was completely treated.</p>"
+          },
+          {
+            "q": "Can patients from Bangladesh, Nepal, or Sri Lanka travel to India for cryoablation?",
+            "a": "<p>Yes, Indian hospitals treat large numbers of patients from Bangladesh, Nepal, Sri Lanka, and other South Asian countries, and most large centres run international patient desks. You will usually need a medical visa, recent scans, pathology reports, and a written treatment plan before travelling, although Nepali citizens often do not require a visa. Hospital acceptance and visa approval are never guaranteed and depend on each individual case.</p>"
+          },
+          {
+            "q": "What reports do I need before an Indian centre will accept me?",
+            "a": "<p>Most centres ask for recent cross-sectional imaging, usually a CT or MRI from the last four to eight weeks, plus a biopsy or pathology report, blood counts, kidney and liver function tests, and a summary of earlier treatment. Clear imaging matters most, because the team must judge whether a needle can reach the tumour safely. CancerFax can help you organise and send these records to centres for review.</p>"
+          },
+          {
+            "q": "What happens if the tumour comes back after cryoablation?",
+            "a": "<p>Cryoablation can usually be repeated if a follow-up scan shows tumour left behind or regrowth at the treated site, and repeat freezing is often simpler than repeat surgery. Some patients move instead to radiofrequency or microwave ablation, radiotherapy, or systemic treatment. Cryoablation only treats what is frozen, so it does not control disease elsewhere in the body. Your oncology team should decide the next step.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

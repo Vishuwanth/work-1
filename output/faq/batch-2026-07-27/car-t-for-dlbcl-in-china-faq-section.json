@@ -1,0 +1,59 @@
+{
+  "pillar": "CAR-T for DLBCL in China: Eligibility, Outcomes, and Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-for-dlbcl-in-china",
+  "route": "/insights/car-t-for-dlbcl-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can I get CAR-T therapy for DLBCL in China?",
+            "a": "<p>Yes, CAR-T therapy for DLBCL is available in China through both approved commercial products and a large number of clinical trials. Several CD19 CAR-T products are licensed by China's drug regulator, and major centres in Shanghai, Beijing, and Guangzhou treat international patients. Most people are referred after two or more previous lines of treatment. Access depends on your disease status and whether a suitable slot is open, so timelines can vary.</p>"
+          },
+          {
+            "q": "Who is eligible for CAR-T for DLBCL in China?",
+            "a": "<p>Most patients treated in China have relapsed or refractory DLBCL after at least two prior lines of therapy, usually including a rituximab-based regimen. Doctors also check that your organ function, blood counts, and general fitness can tolerate the process, and that any brain or spinal involvement is controlled. Active severe infection normally delays treatment. Eligibility is decided by the treating centre after reviewing your pathology and scans, so criteria can differ between hospitals.</p>"
+          },
+          {
+            "q": "How much does CAR-T for DLBCL cost in China?",
+            "a": "<p>CAR-T for DLBCL in China commonly costs between US$60,000 and US$150,000 for a commercial product, covering cell manufacturing, hospital stay, and management of side effects. Clinical trials may reduce or remove the cell-product cost, though you still pay for hospitalisation, tests, and travel.</p><p>Prices vary by hospital, product, and how much complication care you need. CancerFax can request itemised written quotes from several centres so you can compare before committing.</p>"
+          },
+          {
+            "q": "How well does CAR-T work for relapsed DLBCL?",
+            "a": "<p>Across trials and real-world use, roughly 50 to 70 percent of patients with relapsed DLBCL achieve a complete response after CD19 CAR-T, and about 30 to 40 percent remain in remission long term. Results are often better when disease burden is low and the lymphoma is not growing rapidly at the time of infusion. Your own outlook depends on prior treatments and tumour biology, so ask your oncologist for a personalised estimate.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for the whole process?",
+            "a": "<p>Plan for roughly six to ten weeks in China. Screening and eligibility review take one to two weeks, cell collection by apheresis takes a day, and manufacturing the CAR-T cells usually takes two to four weeks. You then receive lymphodepleting chemotherapy, the infusion itself, and two to four weeks of close monitoring afterwards. Delays can happen if infection, a manufacturing problem, or a visa issue arises, so build in extra time.</p>"
+          },
+          {
+            "q": "Do I have to fail chemotherapy before I can have CAR-T?",
+            "a": "<p>In most cases, yes. Commercial CAR-T in China is approved for DLBCL that has relapsed or stopped responding after two or more lines of treatment, and some products are now used after a single prior line in high-risk patients. Certain clinical trials accept people earlier, including as second-line therapy. Whether an earlier-line option is open to you depends on which trial protocols are recruiting when you apply.</p>"
+          },
+          {
+            "q": "What are the main side effects of CAR-T, and how serious are they?",
+            "a": "<p>The two main risks are cytokine release syndrome and neurological toxicity. CRS causes fever, low blood pressure, and breathlessness, usually in the first week, and is treated with tocilizumab and steroids. Neurological effects can include confusion, tremor, or trouble speaking, and are typically reversible.</p><p>Low blood counts and raised infection risk may persist for weeks or months. Chinese CAR-T centres manage these in dedicated units with intensive care on standby.</p>"
+          },
+          {
+            "q": "Can international patients travel to China for CAR-T treatment?",
+            "a": "<p>International patients can be treated in China, but the practical steps matter. You will usually need translated medical records, a pathology review, a hospital invitation letter, and a medical visa, and a caregiver should travel with you. Commercial CAR-T is generally open to overseas patients, while some clinical trials are limited to local residents. CancerFax can forward your records to Chinese centres for an eligibility opinion before you book travel.</p>"
+          },
+          {
+            "q": "Which CAR-T products are approved for DLBCL in China?",
+            "a": "<p>China has approved several CD19-directed CAR-T products for relapsed or refractory DLBCL, including axicabtagene ciloleucel, marketed locally as Yikaida, and relmacabtagene autoleucel, known as Carteyva. Further CD19 products have been approved or are in late-stage review. Trials are also testing dual CD19 and CD22 targeting and donor-derived off-the-shelf cells. Which product a hospital can offer depends on its licence and your disease details.</p>"
+          },
+          {
+            "q": "What happens if the lymphoma comes back after CAR-T?",
+            "a": "<p>Relapse after CAR-T occurs in roughly a third to a half of patients, most often within the first year. Options at that point may include bispecific antibodies such as glofitamab or epcoritamab, antibody-drug conjugates, a second CAR-T aimed at a different target like CD22, radiotherapy for a single site, or an allogeneic stem cell transplant. Chinese centres run trials in this setting, and the right route depends on your fitness and relapse pattern.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

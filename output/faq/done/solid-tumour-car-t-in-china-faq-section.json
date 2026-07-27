@@ -1,0 +1,59 @@
+{
+  "pillar": "Solid-Tumour CAR-T in China: CLDN18.2, GPC3, GD2, and Mesothelin",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "solid-tumour-car-t-in-china",
+  "route": "/insights/solid-tumour-car-t-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Does CAR-T actually work for solid tumours, or is it only for blood cancers?",
+            "a": "<p>CAR-T is approved only for blood cancers, but early trials in China show real responses in some solid tumours. Chinese teams targeting CLDN18.2 in stomach cancer have reported tumour shrinkage in a meaningful share of heavily pretreated patients. Results for GPC3 liver cancer, GD2 neuroblastoma, and mesothelin tumours are earlier and less consistent. All of this remains experimental, and responses may not last.</p>"
+          },
+          {
+            "q": "What is CLDN18.2 CAR-T and which cancers is it being tested for?",
+            "a": "<p>CLDN18.2 CAR-T targets a protein found on stomach, gastro-oesophageal junction, and pancreatic cancer cells. Chinese trials, including satricabtagene autoleucel, have reported response rates near half in some pretreated gastric cancer groups, with disease control often lasting several months. Your tumour must test positive for CLDN18.2 on a biopsy sample before you can be considered. Eligibility depends on that test and your overall fitness.</p>"
+          },
+          {
+            "q": "Can GPC3 CAR-T treat my liver cancer?",
+            "a": "<p>GPC3 CAR-T is being tested in China for hepatocellular carcinoma, the most common form of liver cancer. GPC3 sits on most liver cancer cells but not on healthy tissue, which makes it an attractive target. Early Chinese trials report tumour shrinkage in a minority of patients, with some responses lasting a year or more. Liver function and tumour burden strongly affect whether you may qualify.</p>"
+          },
+          {
+            "q": "Is GD2 CAR-T in China only for children with neuroblastoma?",
+            "a": "<p>No. GD2 CAR-T began in childhood neuroblastoma, but Chinese centres are now testing it in brain tumours such as diffuse midline glioma, and in some sarcomas and melanoma. GD2 also appears on nerve tissue, so pain and nerve-related side effects can occur. Trials often set age limits and require confirmed GD2 expression, so access depends on the specific protocol you apply to.</p>"
+          },
+          {
+            "q": "What cancers does mesothelin CAR-T target?",
+            "a": "<p>Mesothelin CAR-T targets mesothelioma, pancreatic cancer, ovarian cancer, and some lung cancers, where the mesothelin protein is heavily expressed. Chinese groups often deliver these cells directly into the chest or abdominal cavity rather than by vein, which can raise the dose reaching the tumour. Responses so far are more often stable disease than large shrinkage. This remains early-stage research, and benefit is not assured.</p>"
+          },
+          {
+            "q": "How much does solid-tumour CAR-T in China cost?",
+            "a": "<p>Most solid-tumour CAR-T in China is delivered inside clinical trials, where the cell product itself is often supplied free and you pay for screening, hospital stay, and complication care. Out-of-pocket costs commonly fall between 20,000 and 60,000 US dollars once travel and a four to eight week stay are counted. Commercial pricing runs higher. Costs vary widely by centre and can change.</p>"
+          },
+          {
+            "q": "Can foreign patients join CAR-T trials in China?",
+            "a": "<p>Many Chinese CAR-T trials do accept international patients, though some are restricted to residents or to a single hospital. You will usually need translated pathology reports, recent scans, and proof that standard treatments have failed. Testing for the target protein happens before acceptance. CancerFax can help forward your records to Chinese centres for review, but the trial team and your own oncologist decide whether you may enrol.</p>"
+          },
+          {
+            "q": "What side effects should I expect from solid-tumour CAR-T?",
+            "a": "<p>The main risks are cytokine release syndrome, which causes fever and low blood pressure, and damage to healthy tissue carrying the same target protein. CLDN18.2 therapy can inflame the stomach lining and cause nausea and vomiting. GD2 can cause nerve pain. Most reactions appear in the first two weeks and are managed in hospital. Severity varies between patients, and some effects can be serious.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for CAR-T?",
+            "a": "<p>Plan for roughly six to ten weeks in total. Screening and target testing take one to two weeks, cell collection and manufacturing another two to four weeks, then infusion followed by at least two to four weeks of close monitoring nearby. Some centres use pre-made donor cells, which shortens the wait. Delays are common if manufacturing fails or your blood counts need longer to recover.</p>"
+          },
+          {
+            "q": "Should I choose China over India for CAR-T treatment?",
+            "a": "<p>For solid tumours, China currently runs far more trials, with hundreds of registered CAR-T studies covering CLDN18.2, GPC3, GD2, and mesothelin. India's approved CAR-T products treat blood cancers, so solid-tumour options there remain limited. China may therefore suit you better if your tumour carries one of these targets. CancerFax can outline what each country offers, but your treating oncologist should guide the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Second Opinions for CAR-T Therapy Eligibility: China vs Western Access",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "second-opinion-cart-therapy-eligibility",
+  "route": "/guides/second-opinion-cart-therapy-eligibility",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is a second opinion for CAR-T therapy eligibility?",
+            "a": "<p>A second opinion on CAR-T eligibility is an independent review by another cell-therapy specialist of whether you qualify for treatment. They re-read your pathology, disease burden, prior treatment lines, and organ function rather than repeating every test. Eligibility criteria differ between hospitals, trial protocols, and countries, so a patient declined at one centre may still be considered elsewhere. Any final decision depends on your current condition and the treating team's assessment.</p>"
+          },
+          {
+            "q": "I was told I'm not eligible for CAR-T. Can that decision change?",
+            "a": "<p>In many cases it can. Eligibility is judged against a specific product label or trial protocol, and those rules differ from centre to centre. A patient refused because of low blood counts, prior therapy history, or a rare disease subtype may meet another programme's criteria, particularly in China where more trials accept heavily pre-treated patients. A second opinion can clarify whether the barrier was your disease itself or one programme's rules.</p>"
+          },
+          {
+            "q": "Why is CAR-T access so different in China compared with the US or Europe?",
+            "a": "<p>China runs far more CAR-T programmes than most Western countries, so waiting times are often shorter and trial slots more numerous. Western access is commonly limited by insurance approval, narrow labelled indications, and queues at a small number of certified centres. China has both approved commercial products and hundreds of academic trials. Access still depends on your diagnosis, fitness to travel, and each hospital's willingness to accept international patients.</p>"
+          },
+          {
+            "q": "How much does CAR-T cost in China compared with the West?",
+            "a": "<p>Commercial CAR-T in China commonly runs about USD 60,000 to 110,000 for the cell product, against roughly USD 400,000 to 500,000 in the United States before hospital charges. Adding admission, bridging therapy, and monitoring, many families budget USD 90,000 to 150,000 in China.</p><p>Trial participation may reduce the product cost substantially. Prices move with the hospital, product, and any complications, so treat quotes as estimates until a centre reviews your file.</p>"
+          },
+          {
+            "q": "How long does a CAR-T second opinion take to come back?",
+            "a": "<p>Most written second opinions return within three to seven working days once the hospital has a complete set of records. Delays are usually caused by missing pathology slides, untranslated reports, or outdated scans rather than by the review itself. Fast-progressing cases can sometimes be prioritised. CancerFax often collects and forwards records to cell-therapy centres in China and India, though the timeline still depends on the reviewing hospital.</p>"
+          },
+          {
+            "q": "What documents do I need to send for the review?",
+            "a": "<p>Centres usually ask for the pathology or biopsy report, immunophenotyping or flow cytometry showing the target antigen such as CD19 or BCMA, a dated summary of every prior treatment line, recent PET-CT or CT imaging, and current blood counts with kidney and liver function. Bone marrow results matter in leukaemia and myeloma. Reports older than four to six weeks are often refused, so recent imaging is important.</p>"
+          },
+          {
+            "q": "Can I join a CAR-T clinical trial in China as a foreign patient?",
+            "a": "<p>Often yes, but it is never automatic. Many Chinese CAR-T trials do accept international patients, and each protocol sets its own rules on disease type, prior lines of therapy, organ function, and sometimes residency. You will usually need a records review before any slot is discussed, and enrolment can close without notice. No centre can promise a place until its investigators have seen your full file and confirmed screening.</p>"
+          },
+          {
+            "q": "Are Chinese-made CAR-T products as good as the approved Western ones?",
+            "a": "<p>Chinese CAR-T products include NMPA-approved commercial therapies and academic products used in trials, and reported response rates in blood cancers are broadly comparable to Western products. The real differences lie in manufacturing standards between centres, how long follow-up data has been collected, and whether the product is licensed or still investigational. Ask which category a proposed therapy falls into. Outcomes still vary with disease burden and general condition.</p>"
+          },
+          {
+            "q": "My cancer type isn't approved for CAR-T where I live. What are my options?",
+            "a": "<p>There are usually three routes. First, a trial in your own country covering that indication. Second, a trial abroad, most often in China, where more CAR-T targets are under active study. Third, off-label or compassionate access, which is rare and decided case by case.</p><p>A second opinion helps rank these against standard treatment. CancerFax can route records to centres running relevant trials, though acceptance rests with the investigators.</p>"
+          },
+          {
+            "q": "When should I get the second opinion — now or after more chemotherapy?",
+            "a": "<p>Get it early, ideally when relapse is first confirmed rather than after several failed salvage lines. CAR-T tends to work best when disease burden is lower and organ function is still intact, and record review, visas, and travel typically add four to eight weeks to the timeline. Bridging therapy can hold disease during that window. Whether you are fit to travel is a judgement only your treating oncologist can make.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

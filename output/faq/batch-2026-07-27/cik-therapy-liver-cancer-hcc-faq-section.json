@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Therapy for Liver Cancer (Hepatocellular Carcinoma)",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-liver-cancer-hcc",
+  "route": "/insights/cik-therapy-liver-cancer-hcc",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK therapy for liver cancer?",
+            "a": "<p>CIK therapy uses your own immune cells, grown in a laboratory into very large numbers, then given back to you through a drip. Doctors collect blood, expand the cells over roughly two to three weeks using signalling proteins, and infuse them. The cells carry markers of both T cells and natural killer cells, so they can attack hepatocellular carcinoma cells without needing a tissue match from a donor.</p>"
+          },
+          {
+            "q": "Does CIK therapy cure hepatocellular carcinoma?",
+            "a": "<p>No. CIK therapy is not a cure for hepatocellular carcinoma and is not used on its own. It is an add-on treatment, usually given after surgery, ablation or TACE has already removed or destroyed the visible tumour. In that setting, trials suggest it may delay recurrence and extend survival for some patients. Results depend on liver function, tumour stage, and how much disease remains after the main treatment.</p>"
+          },
+          {
+            "q": "Can CIK cells stop my liver cancer coming back after surgery?",
+            "a": "<p>CIK cells may lower the chance of recurrence, but they cannot rule it out. The strongest evidence is a randomised Korean trial in which patients given CIK infusions after curative surgery, radiofrequency ablation or ethanol injection went longer before their cancer returned. Benefit looked clearest in early-stage disease with preserved liver function. Your own risk still depends on tumour size, number of nodules, and vascular invasion.</p>"
+          },
+          {
+            "q": "Is CIK therapy approved, and which countries offer it?",
+            "a": "<p>CIK therapy is not approved by the FDA or EMA, so it is generally offered abroad or inside clinical trials. Hospitals in China, Japan, South Korea and some Indian centres provide it, often under national cell-therapy rules rather than full drug approval. Access, paperwork and waiting times differ by country and by hospital, and no centre can promise admission before its team has reviewed your medical records.</p>"
+          },
+          {
+            "q": "Who is eligible for CIK therapy if they already have cirrhosis?",
+            "a": "<p>Many patients with cirrhosis may still be considered, provided liver function is reasonably preserved — usually Child-Pugh A or good Child-Pugh B. Teams also check blood counts, absence of active infection, controlled hepatitis B or C, and whether you can safely give blood for cell collection. Decompensated liver disease, uncontrolled ascites or severe jaundice often rule it out. Final eligibility is decided by the treating hepatology and oncology team.</p>"
+          },
+          {
+            "q": "How many CIK infusions will I need and how long does it take?",
+            "a": "<p>Most protocols give several infusions rather than one. A common pattern is four to sixteen infusions spread over three to twelve months, each supported by a blood collection so fresh cells can be grown. A single infusion usually takes about an hour as a day-case visit. CancerFax can help you understand a hospital's proposed schedule before you travel, though the final plan comes from the treating oncologist.</p>"
+          },
+          {
+            "q": "What are the side effects of CIK cell infusions?",
+            "a": "<p>Side effects are usually mild and short-lived. Fever, chills, tiredness, headache, mild nausea and muscle aches in the day or two after an infusion are the most common, and they often settle with simple medication. Serious reactions are uncommon, and CIK therapy does not cause the severe cytokine release syndrome seen with CAR T-cell therapy. Report high fever, breathlessness or new confusion to your team promptly.</p>"
+          },
+          {
+            "q": "Can CIK therapy be combined with TACE, targeted drugs or immunotherapy?",
+            "a": "<p>Yes, CIK therapy is normally used alongside other liver cancer treatments rather than instead of them. Studies have paired it with TACE, radiofrequency ablation, sorafenib or lenvatinib, and more recently with PD-1 checkpoint inhibitors. The aim is to clear residual cancer cells that local treatment leaves behind. Which combination suits you depends on stage, liver reserve and prior therapy, so sequencing needs careful specialist planning.</p>"
+          },
+          {
+            "q": "How much does CIK therapy for liver cancer cost abroad?",
+            "a": "<p>Costs vary widely by country, hospital and the number of infusions planned, and CIK therapy is rarely covered by insurance because it is not a licensed drug in most markets. Estimates should also include cell collection, laboratory expansion, imaging, hospital stays and travel for a companion. Ask each hospital for a written, itemised quotation covering the full course; CancerFax can help you compare quotations between centres.</p>"
+          },
+          {
+            "q": "How is CIK therapy different from CAR T-cell therapy for liver cancer?",
+            "a": "<p>CIK cells are not genetically engineered, while CAR T-cells are. CIK cells are grown from your own blood and given back in large numbers to attack tumour cells broadly, so they need no tissue matching and tend to cause milder side effects. CAR T-cells are redirected against one specific target, such as GPC3, and remain experimental in liver cancer, available mainly through trials after investigator review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

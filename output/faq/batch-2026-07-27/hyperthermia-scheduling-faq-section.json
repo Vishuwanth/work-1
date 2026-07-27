@@ -1,0 +1,59 @@
+{
+  "pillar": "Hyperthermia Scheduling: Why Heat Must Be Delivered Within 4 Hours of Radiation",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hyperthermia-scheduling",
+  "route": "/insights/hyperthermia-scheduling",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why does hyperthermia have to be given within 4 hours of radiation?",
+            "a": "<p>Heat blocks the repair of radiation damage inside tumour cells, and that repair begins within minutes and is largely finished a few hours later. Delivering hyperthermia inside about 4 hours catches the cells while the damage is still open, which is when the two treatments add most to each other. Beyond that window the tumour has often repaired itself and the heat mostly acts alone.</p>"
+          },
+          {
+            "q": "What happens if my hyperthermia session is more than 4 hours after radiation?",
+            "a": "<p>The combination usually becomes weaker rather than unsafe. The radiation damage that heat is meant to lock in has largely been repaired by then, so the session may add little beyond what hyperthermia does on its own. Many centres still treat when a delay is unavoidable, and some record the interval so the team can see whether it explains a slower response. Ask your team what gap they accept.</p>"
+          },
+          {
+            "q": "Should the heat come before or after my radiation session?",
+            "a": "<p>Either order can work, and most centres focus on the gap between the two rather than insisting on one sequence. Some units heat first so the tumour is warm and better supplied with blood when radiation is given; others radiate first and heat immediately afterwards. Your radiation oncologist and the hyperthermia team will set the order that fits the machine schedule and your treatment plan.</p>"
+          },
+          {
+            "q": "How long does one hyperthermia session take?",
+            "a": "<p>Plan on 60 to 90 minutes in the treatment room, with roughly 40 to 60 minutes spent at the target temperature once the tissue has warmed through. Setup, positioning and probe placement take the rest. Deep regional treatments generally run longer than superficial ones. Because the session must sit close to your radiation slot, clinics often book both appointments back to back on the same day.</p>"
+          },
+          {
+            "q": "How many hyperthermia sessions will I need alongside radiation?",
+            "a": "<p>Most protocols use one or two hyperthermia sessions a week across the radiation course, which often works out at 4 to 10 sessions in total. The number depends on the tumour site, the length of your radiation schedule and how well you tolerate the heat. Sessions are usually spaced at least 48 hours apart so normal tissue can recover. Your team will confirm the count for your own plan.</p>"
+          },
+          {
+            "q": "Does adding hyperthermia make radiation side effects worse?",
+            "a": "<p>Skin reactions are the most common added effect, ranging from redness and warmth to small blisters over the treated area, and these usually settle within a few weeks. Deep treatments can cause discomfort, pressure or a drop in blood pressure during the session, so you are monitored throughout. Serious burns are uncommon in experienced centres. Tell the radiographer at once if any spot feels sharply hot rather than warm.</p>"
+          },
+          {
+            "q": "How hot does it actually get, and will it hurt?",
+            "a": "<p>The target is usually 40 to 44 degrees Celsius inside the tumour, which most people describe as strong warmth or a deep ache rather than pain. You stay awake and can speak to staff the whole time, and the power is turned down if any area becomes too hot. Discomfort tends to peak in the middle of the session and fades quickly once heating stops.</p>"
+          },
+          {
+            "q": "Can I have hyperthermia if my radiation is at a different hospital?",
+            "a": "<p>It is possible, but the 4-hour rule makes travel time the deciding factor. Centres offering both under one roof can book the two appointments minutes apart; split-site treatment only works if the journey is short and reliable and both departments can hold matching slots daily. Where that is not workable, teams often prefer moving the whole radiation course to the hyperthermia centre. Feasibility depends on both hospitals agreeing the schedule.</p>"
+          },
+          {
+            "q": "Which cancers is radiation plus hyperthermia used for?",
+            "a": "<p>The strongest evidence sits in recurrent breast cancer on the chest wall, cervical cancer, head and neck nodes, melanoma deposits in the skin, soft tissue sarcoma and selected bladder and rectal tumours. It is used most often when a tumour has returned in an area that has already been irradiated. Whether it suits your case depends on tumour depth, position and your earlier radiation dose.</p>"
+          },
+          {
+            "q": "How do I arrange radiation and hyperthermia together if I am travelling abroad for treatment?",
+            "a": "<p>Before booking flights, ask whether the centre delivers both on the same campus and can commit to same-day slots for the full course, and request the planned interval in writing. CancerFax can help you organise your medical reports, approach hyperthermia-equipped centres in India and China and compare their schedules, while the treating oncology team decides whether the combination is appropriate. Costs and availability vary between hospitals and may change.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

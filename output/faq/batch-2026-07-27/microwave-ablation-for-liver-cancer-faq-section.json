@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation for Liver Cancer (HCC): Evidence and Outcomes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-for-liver-cancer",
+  "route": "/insights/microwave-ablation-for-liver-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation for liver cancer?",
+            "a": "<p>Microwave ablation destroys liver tumours with heat delivered through a thin needle placed directly into the tumour, guided by ultrasound or CT scan. The microwave energy heats the tissue above 60 degrees Celsius and kills the cancer cells in place rather than removing them. Most patients have it under sedation or general anaesthetic and go home within a day or two. It is used mainly for hepatocellular carcinoma still confined to the liver.</p>"
+          },
+          {
+            "q": "How well does microwave ablation actually work for HCC?",
+            "a": "<p>For small HCC tumours under 3 cm, microwave ablation destroys the tumour completely in roughly 90 to 95 percent of cases, and five-year survival can approach that of surgery in well-selected patients with preserved liver function. Results depend on tumour size, number, location and how well your liver is working. Larger tumours carry a higher chance of residual disease, so your team may combine ablation with other treatments.</p>"
+          },
+          {
+            "q": "Is my tumour too big or in the wrong place for ablation?",
+            "a": "<p>Microwave ablation works best for up to three tumours, each 3 cm or smaller, though experienced centres often treat lesions up to 5 cm. Tumours sitting next to the gallbladder, bile ducts or bowel are harder to treat safely. Eligibility also depends on your liver function and clotting. Only a hepatobiliary team can confirm suitability after reviewing your scans, and CancerFax can arrange that review if you are considering centres abroad.</p>"
+          },
+          {
+            "q": "Is microwave ablation better than radiofrequency ablation?",
+            "a": "<p>Microwave ablation heats faster, reaches higher temperatures and creates a larger, more predictable burn zone than radiofrequency ablation, and it is less affected by nearby blood vessels cooling the tissue. Trials show similar survival for small tumours, but microwave often has fewer incomplete treatments in lesions above 3 cm. Complication rates are broadly comparable. Which one suits you depends on tumour size and position, and on what your centre does most often.</p>"
+          },
+          {
+            "q": "Should I have surgery instead of ablation?",
+            "a": "<p>Surgery remains the standard when a tumour can be removed safely and your liver can spare the tissue, but microwave ablation gives similar survival for single tumours under 3 cm with far less recovery time. Ablation is often preferred when cirrhosis, poor liver reserve or other illnesses make an operation risky. Local recurrence is somewhat higher after ablation. Your team weighs tumour position, liver function and overall fitness before recommending one.</p>"
+          },
+          {
+            "q": "How long does it take to recover, and will it hurt?",
+            "a": "<p>Most people go home within 24 to 48 hours and return to normal activity in about a week. The procedure is done under sedation or general anaesthetic, so you should not feel it happening. Afterwards, a dull ache in the right upper abdomen or shoulder, mild fever and tiredness are common for a few days. This pattern is called post-ablation syndrome and simple painkillers usually control it.</p>"
+          },
+          {
+            "q": "What can go wrong with microwave ablation?",
+            "a": "<p>Serious complications occur in roughly 2 to 5 percent of microwave ablations. The main risks are bleeding, infection or abscess in the treated area, injury to the bile ducts, bowel or diaphragm, and rarely tumour seeding along the needle track. Liver failure can happen if liver function is already poor. Death is rare, under 1 percent. Risk rises with tumour size and with lesions close to other organs.</p>"
+          },
+          {
+            "q": "Can I have it again if the cancer comes back?",
+            "a": "<p>Yes, microwave ablation can usually be repeated if new tumours appear or if part of the original tumour survives treatment. This is one of its advantages over surgery, because very little healthy liver tissue is lost each time. Many patients with cirrhosis have two or three ablation sessions over several years. Repeat treatment depends on your liver function holding up and the new tumours still being confined to the liver.</p>"
+          },
+          {
+            "q": "How much does microwave ablation cost in India or China?",
+            "a": "<p>Microwave ablation for liver cancer typically costs around 3,000 to 6,000 US dollars in India and 5,000 to 9,000 US dollars in China, covering imaging, the procedure and a short hospital stay. Prices vary with the number of tumours, the hospital and whether treatments such as TACE are combined with it. These figures are indicative only. Ask for a written estimate and check which follow-up scans are included.</p>"
+          },
+          {
+            "q": "What do I need to arrange if I want this treatment abroad?",
+            "a": "<p>Start by sending your recent CT or MRI scans, liver function tests and biopsy report to the centre you are considering, so their interventional radiologist can confirm the tumour is treatable before you travel. Most patients need a medical visa and around two weeks abroad, including follow-up imaging. CancerFax can help forward your reports to hepatobiliary teams in India and China, though the final treatment decision rests with your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

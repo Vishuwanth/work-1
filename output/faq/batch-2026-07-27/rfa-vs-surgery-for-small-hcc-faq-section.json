@@ -1,0 +1,59 @@
+{
+  "pillar": "RFA vs Surgery for Small HCC: Understanding the Randomised Trial Evidence",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-vs-surgery-for-small-hcc",
+  "route": "/insights/rfa-vs-surgery-for-small-hcc",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is radiofrequency ablation as good as surgery for a small liver tumour?",
+            "a": "<p>For a single HCC under 3 cm, randomised trials show radiofrequency ablation gives overall survival close to surgical resection. The main difference appears in local recurrence, which is higher after ablation. Trials from Chinese and Japanese centres reported overlapping survival curves at three to five years, though surgery often held an edge above 3 cm. Your liver function and tumour position may change which option suits you.</p>"
+          },
+          {
+            "q": "What size tumour does the trial evidence actually cover?",
+            "a": "<p>Most randomised trials enrolled patients with one to three HCC nodules, each 3 cm or smaller, with preserved liver function. Below 2 cm, ablation and resection perform almost identically. Between 3 and 5 cm the evidence thins, and surgery tends to look stronger. Results from these trials may not transfer to larger tumours, vascular invasion, or poorly compensated cirrhosis, so ask how closely your case matches.</p>"
+          },
+          {
+            "q": "Why do the trials disagree with some large hospital studies?",
+            "a": "<p>Randomised trials balance hidden differences between the two groups; observational hospital series do not. Surgery patients in registry studies are often younger with better liver reserve, which can make resection look better than it truly is. Trials remove much of that bias, and they narrow the survival gap considerably. Both kinds of evidence matter, but when they conflict the randomised results usually carry more weight.</p>"
+          },
+          {
+            "q": "Does cancer come back more often after RFA than after surgery?",
+            "a": "<p>Local recurrence at the treated site is consistently higher after radiofrequency ablation, roughly 10 to 25 percent against under 10 percent after resection in trial data. Recurrence elsewhere in the liver is similar for both, because cirrhosis keeps producing new tumours. Ablation can often be repeated when recurrence is caught early, which is one reason overall survival stays comparable despite the higher local failure rate.</p>"
+          },
+          {
+            "q": "How much easier is recovery after ablation?",
+            "a": "<p>Radiofrequency ablation usually means a one to two day hospital stay through a needle placed under imaging guidance, while liver resection typically means five to ten days and several weeks of recovery. Major complication rates in trials ran near 4 percent for ablation against 8 to 20 percent for surgery. For older patients, or those with borderline liver function, that gap can matter more than the recurrence numbers.</p>"
+          },
+          {
+            "q": "Can the position of my tumour rule out ablation?",
+            "a": "<p>Yes. Tumours sitting next to the gallbladder, bile ducts, bowel, diaphragm or large blood vessels are harder to ablate safely and completely. Blood flow near a big vessel carries heat away and can leave live tumour behind. Interventional radiologists sometimes work around this with hydrodissection, or with microwave or cryoablation instead. A scan review by the team performing the procedure is the only reliable way to know.</p>"
+          },
+          {
+            "q": "If ablation does not work, can I still have surgery afterwards?",
+            "a": "<p>In many cases yes. Incomplete ablation or local recurrence can be followed by repeat ablation, resection, or transplant assessment, and the randomised trials allowed exactly this kind of salvage treatment. Surgery after ablation is technically harder because of scarring, but it remains possible in suitable patients. Keeping later options open is one argument for starting with the less invasive treatment when both are reasonable.</p>"
+          },
+          {
+            "q": "Should I be considering a liver transplant instead of either one?",
+            "a": "<p>Liver transplant treats both the tumour and the underlying cirrhosis, and it gives the lowest recurrence rate for small HCC within Milan criteria. The obstacle is organ availability and waiting time, which vary hugely by country. Ablation is often used as a bridge while waiting. Whether you qualify depends on tumour count, size, liver function and centre policy, so an early transplant referral is worth requesting.</p>"
+          },
+          {
+            "q": "How do the costs compare if I travel to India or China for treatment?",
+            "a": "<p>Radiofrequency ablation is generally the cheaper option abroad, often a fraction of the cost of a liver resection with its longer hospital stay. Indian and Chinese centres commonly quote ablation in the low thousands of US dollars, with resection several times higher. Prices depend on imaging, hospital grade and any complications. CancerFax can help you gather comparable quotes, though the treatment choice stays with your oncology team.</p>"
+          },
+          {
+            "q": "What should I ask my doctor before choosing between the two?",
+            "a": "<p>Ask for your tumour size and number, your Child-Pugh score, whether the tumour sits close to a vessel or another organ, and how many ablations and resections the centre performs each year. Volume matters for both procedures. Ask what the plan is if the first treatment fails. CancerFax can help you assemble records for a second opinion, but the final recommendation should come from the treating hepatobiliary team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

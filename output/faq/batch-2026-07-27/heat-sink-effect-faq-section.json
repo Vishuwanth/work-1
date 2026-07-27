@@ -1,0 +1,59 @@
+{
+  "pillar": "The Heat-Sink Effect: Why MWA Beats RFA Near Blood Vessels",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "heat-sink-effect",
+  "route": "/insights/heat-sink-effect",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the heat-sink effect in simple terms?",
+            "a": "<p>The heat-sink effect is the cooling caused by blood flowing through vessels next to a tumour during heat-based ablation. The moving blood carries heat away, so tissue beside the vessel never reaches the temperature needed to kill cancer cells. This can leave a rim of living tumour behind, which is why recurrence rates are often higher for tumours sitting against vessels larger than about three millimetres.</p>"
+          },
+          {
+            "q": "Why does the heat-sink effect matter for my treatment?",
+            "a": "<p>It matters because heat-sink cooling is a leading cause of incomplete ablation, and incomplete ablation is why tumours regrow in the same spot. Series of liver tumours touching large vessels report local recurrence in roughly one in three patients after RFA, against under one in ten for tumours with no vessel nearby. Surviving cells hide in the cooled rim and often need a second treatment.</p>"
+          },
+          {
+            "q": "What is the actual difference between MWA and RFA?",
+            "a": "<p>RFA passes electrical current through tissue, so it relies on tissue conducting well and stalls once tissue chars or dries out. MWA uses microwaves that vibrate water molecules directly across a wider volume, heating faster and hotter without needing conduction. In practice MWA reaches 100 to 150 degrees Celsius within minutes and creates a larger, rounder ablation zone, which makes it far less sensitive to cooling blood flow.</p>"
+          },
+          {
+            "q": "Is MWA really better than RFA for a tumour near a blood vessel?",
+            "a": "<p>Near blood vessels, MWA generally outperforms RFA. Comparative studies of liver tumours beside vessels three millimetres or larger show complete ablation in around 90 percent of MWA cases against 60 to 70 percent with RFA, with fewer local recurrences at two years. The advantage shrinks for small tumours away from vessels, where both often work well. Your interventional radiologist decides based on tumour size, site and vessel anatomy.</p>"
+          },
+          {
+            "q": "How close to a blood vessel is too close for RFA?",
+            "a": "<p>Vessels around three millimetres wide or more, lying within five millimetres of the tumour edge, are the usual point where the heat-sink effect starts to matter clinically. Below three millimetres, blood flow is too slow to carry away much heat. With larger vessels such as the portal and hepatic veins, cooling can be strong enough that many teams will choose MWA or another approach instead.</p>"
+          },
+          {
+            "q": "Can MWA damage the blood vessel itself?",
+            "a": "<p>Large vessels are surprisingly resistant to thermal injury, because flowing blood cools their walls. That is the same physics that causes the heat-sink problem in the first place. Serious vessel injury after MWA is uncommon, reported in well under two percent of liver cases. The greater concerns are bile ducts, which lack that protection, and bleeding along the needle track. Risk depends on where your tumour sits.</p>"
+          },
+          {
+            "q": "Which tumours are the best fit for MWA?",
+            "a": "<p>MWA suits liver tumours up to about five centimetres sitting next to portal or hepatic vein branches, and is widely used for hepatocellular carcinoma and colorectal liver metastases in that position. Lung and kidney tumours near large vessels are also treated this way. Tumours touching the bile duct or bowel may need another approach, and CancerFax can pass your scans to an interventional radiologist for that judgement.</p>"
+          },
+          {
+            "q": "If my centre only has RFA, can anything reduce the heat-sink effect?",
+            "a": "<p>Yes, several techniques can help. Blood flow may be reduced temporarily by clamping the liver inflow during open surgery, or by blocking the feeding artery with a balloon during the procedure. Some teams use a no-touch multi-bipolar setup, placing electrodes around the tumour rather than inside it, or combine chemoembolisation with ablation. These add complexity, so availability depends on the centre and the operator's experience.</p>"
+          },
+          {
+            "q": "How will doctors know the whole tumour was destroyed?",
+            "a": "<p>A contrast CT or MRI scan is done within about four to six weeks of ablation, and the treated area should show no enhancing tissue at its edge. Many centres also scan immediately after the procedure, so any missed rim can be re-treated in the same session. Imaging then continues every three to six months, because recurrence near a vessel usually shows up within the first year.</p>"
+          },
+          {
+            "q": "Is MWA available in India and China, and what does it cost?",
+            "a": "<p>MWA is available at major cancer centres in India and China, and both countries use current-generation high-power systems. Costs are usually a fraction of those in the United States or Europe, though the total depends on the number of lesions, length of hospital stay and any imaging or biopsy needed. CancerFax can help you share your scans so a radiologist can confirm whether MWA suits your case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

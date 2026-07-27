@@ -1,0 +1,59 @@
+{
+  "pillar": "CRS After CAR-T: Symptoms, Grading, and Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "crs-after-car-t",
+  "route": "/insights/crs-after-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is cytokine release syndrome after CAR-T?",
+            "a": "<p>Cytokine release syndrome, or CRS, is a strong immune reaction that happens when CAR-T cells switch on and multiply inside the body. As they attack cancer cells, they release chemical messengers called cytokines, which can cause fever, low blood pressure and low oxygen levels. It is the most common side effect of CAR-T therapy, and in most patients it stays mild to moderate and settles with treatment.</p>"
+          },
+          {
+            "q": "When does CRS usually start after the CAR-T infusion?",
+            "a": "<p>CRS most often begins within the first two to seven days after infusion, and fever is usually the first sign. The exact timing depends on the CAR-T product, the dose, and how much cancer is in the body. Some patients react within hours, others after a week. Because of this, most centres keep patients in or near the hospital for at least the first four weeks.</p>"
+          },
+          {
+            "q": "What are the first symptoms I should watch for?",
+            "a": "<p>Fever above 38°C is almost always the first symptom of CRS. It can be followed by chills, fast heartbeat, low blood pressure, breathlessness, headache, muscle aches and severe tiredness. Any fever after CAR-T should be reported to the treating team immediately, because early treatment often keeps CRS mild. Your team will also test for infection, since the symptoms can look very similar at the start.</p>"
+          },
+          {
+            "q": "How is CRS graded, and what do the grades mean?",
+            "a": "<p>Doctors grade CRS from 1 to 4 using the ASTCT consensus scale, based on fever, blood pressure support and oxygen needs. Grade 1 is fever alone. Grade 2 needs oxygen through nasal prongs or low-dose blood pressure medicine. Grade 3 needs higher oxygen or stronger support. Grade 4 means intensive care with a ventilator or several drugs. The grade guides how quickly stronger treatment is started.</p>"
+          },
+          {
+            "q": "Is CRS life-threatening?",
+            "a": "<p>Most CRS is manageable, and severe grade 3 or 4 reactions occur in roughly one in ten to one in four patients, depending on the product and the disease. Deaths from CRS are uncommon at experienced centres, because teams now recognise it early and treat it fast. Risk can be higher when tumour burden is large, so your team may give chemotherapy first to shrink disease before infusion.</p>"
+          },
+          {
+            "q": "How is CRS treated?",
+            "a": "<p>Tocilizumab, a drug that blocks the interleukin-6 signal driving the reaction, is the main treatment for CRS, and it often works within hours. Milder cases may need only paracetamol, fluids and close monitoring. Corticosteroids are added when tocilizumab alone is not enough, and intensive care support is used for severe cases. Every CAR-T centre keeps tocilizumab ready on site before any infusion is given.</p>"
+          },
+          {
+            "q": "Does getting CRS mean the CAR-T cells are working?",
+            "a": "<p>CRS shows that the CAR-T cells have activated and are multiplying, but it is not a reliable measure of how well the treatment will work. Many patients with only mild CRS still reach complete remission, and severe CRS does not promise a better result. Response is judged by scans, bone marrow tests and blood work in the weeks and months after infusion, not by how sick you felt.</p>"
+          },
+          {
+            "q": "How long does CRS last?",
+            "a": "<p>CRS usually lasts between two and eight days once it starts, and most patients are back to baseline within two weeks of infusion. Mild cases can settle in a day or two with simple supportive care. Longer episodes may happen when disease burden is high or when treatment begins late. Tiredness and poor appetite often linger for several weeks after the fever itself has gone.</p>"
+          },
+          {
+            "q": "What is the difference between CRS and the brain side effects doctors call ICANS?",
+            "a": "<p>CRS affects the whole body with fever and low blood pressure, while ICANS is a separate neurological reaction causing confusion, trouble finding words, tremor, drowsiness or seizures. ICANS often starts a few days after CRS, and the two can overlap. Treatment differs as well: steroids are the mainstay for ICANS, because tocilizumab does not reach the brain well. Nurses check handwriting and orientation daily to catch it early.</p>"
+          },
+          {
+            "q": "If I travel abroad for CAR-T, how is CRS handled so far from home?",
+            "a": "<p>Accredited CAR-T centres in India and China manage CRS much as centres elsewhere do, with inpatient monitoring, tocilizumab on standby and intensive care available. Most ask patients to stay within about 30 minutes of the hospital for four weeks and to have a caregiver present. CancerFax can help you understand what a centre's monitoring plan covers, though eligibility and the final plan rest with the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

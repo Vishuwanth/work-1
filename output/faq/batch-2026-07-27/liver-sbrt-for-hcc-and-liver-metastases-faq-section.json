@@ -1,0 +1,59 @@
+{
+  "pillar": "Liver SBRT for HCC and Liver Metastases",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "liver-sbrt-for-hcc-and-liver-metastases",
+  "route": "/insights/liver-sbrt-for-hcc-and-liver-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is liver SBRT, and how is it different from regular radiation?",
+            "a": "<p>Liver SBRT (stereotactic body radiotherapy) delivers a very high radiation dose to a liver tumour in a few precise treatments instead of many small daily ones. Imaging tracks the tumour as you breathe, so the beams stay on target and spare healthy liver tissue. Most patients finish in three to five sessions over one to two weeks. Whether it suits your tumour depends on its size, position and how well your liver is working.</p>"
+          },
+          {
+            "q": "Am I a candidate for liver SBRT if I have HCC?",
+            "a": "<p>You may be a candidate if you have one to three tumours, each usually under about 6 cm, and enough healthy liver left to tolerate treatment. SBRT is often chosen when surgery is not safe, when a tumour sits too close to major blood vessels for ablation, or as a bridge while you wait for a transplant. Your hepatologist and radiation oncologist decide together, so eligibility can only be confirmed after review.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long does each one take?",
+            "a": "<p>Most liver SBRT courses are three to five treatments, given on alternate days or spread over one to two weeks. Each visit takes about 30 to 60 minutes, and most of that time is careful positioning rather than the beam itself. Before treatment starts you will need a planning scan, and sometimes small gold markers or a gel spacer placed near the tumour. The exact number depends on tumour size and liver function.</p>"
+          },
+          {
+            "q": "Does liver SBRT hurt?",
+            "a": "<p>The treatment itself is painless. You feel nothing while the beam is on, much like having a CT scan, though you do need to lie still and follow breathing instructions for 20 to 40 minutes. Some patients feel tired or mildly nauseated in the days afterwards, and a few notice a dull ache under the ribs. Tell your team about any discomfort, since it can often be settled with simple medication.</p>"
+          },
+          {
+            "q": "How well does SBRT actually work on a liver tumour?",
+            "a": "<p>In many published series, 80 to 90 percent of treated liver tumours remain controlled at two years, meaning the tumour does not grow back at that spot. Results are generally best for smaller tumours in patients with preserved liver function. SBRT controls the tumour it targets; it does not treat disease elsewhere in the liver or body. Your own likely outcome depends on tumour size, number, blood tests and previous treatments.</p>"
+          },
+          {
+            "q": "Is SBRT better than TACE or RFA for my liver tumour?",
+            "a": "<p>No single option is best for everyone. Ablation is usually preferred for small tumours in easy positions, TACE for several tumours fed by one artery, and SBRT when a tumour sits near large vessels or bile ducts, or when earlier treatment did not work. Many patients receive more than one of these over time. A liver tumour board reviewing your scans and liver tests is the right place to settle this.</p>"
+          },
+          {
+            "q": "Can I have SBRT if the cancer spread to my liver from somewhere else?",
+            "a": "<p>Yes, SBRT is often used for a small number of liver metastases, most commonly from bowel, breast or lung cancer, when surgery is not possible. It works best when there are one to three deposits, each reasonably small, and disease elsewhere is stable on chemotherapy. Two-year control of the treated spot is often reported around 70 to 90 percent. Suitability depends on where the metastases sit and how much liver is involved.</p>"
+          },
+          {
+            "q": "What are the side effects? Will it damage my liver?",
+            "a": "<p>Most side effects are mild: tiredness, reduced appetite, nausea, and sometimes irritation of the stomach or bowel if they lie close to the tumour. The main serious risk is radiation injury to the liver, which is uncommon when the plan keeps the dose to healthy liver low. Patients with cirrhosis carry a higher risk and need closer blood-test monitoring afterwards. Report jaundice, swelling or confusion promptly, as these may need urgent review.</p>"
+          },
+          {
+            "q": "I have cirrhosis. Is SBRT still safe for me?",
+            "a": "<p>SBRT can still be given with cirrhosis, but the safe dose depends on how well the liver is working. Child-Pugh A patients generally tolerate it well. In Child-Pugh B, doses are usually lowered and treatment is offered more cautiously, because liver function can worsen afterwards. Child-Pugh C is rarely suitable. Your team will check bilirubin, albumin, clotting and portal pressure first, so this depends on your individual results.</p>"
+          },
+          {
+            "q": "What does liver SBRT cost in India or China if I travel for treatment?",
+            "a": "<p>Liver SBRT in India commonly costs roughly USD 4,000 to 8,000, and prices in China are broadly similar or a little higher, depending on the machine, the number of sessions and any marker placement. Scans, hospital stay and follow-up are usually billed separately, and quotes change often. CancerFax can help you collect written estimates and send your scans to liver units abroad, with the final plan set by your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Radioligand Therapy: Targeted Radionuclide Treatment for Cancer",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "radioligand-therapy",
+  "route": "/treatments/radioligand-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is radioligand therapy?",
+            "a": "<p>Radioligand therapy delivers radiation to cancer cells from inside the body. A targeting molecule, called the ligand, locks onto a protein found on the surface of tumour cells, and a radioactive atom attached to it releases short-range radiation that damages the cancer's DNA. Because the ligand seeks out those markers, healthy tissue nearby usually receives a much smaller dose than it would with external beam radiation.</p>"
+          },
+          {
+            "q": "Which cancers is radioligand therapy actually used for?",
+            "a": "<p>Prostate cancer and neuroendocrine tumours are the two main uses today. Lutetium-177 PSMA targets advanced prostate cancer that has spread and stopped responding to hormone treatment, while Lutetium-177 DOTATATE treats neuroendocrine tumours of the gut and pancreas. Trials are testing radioligands for breast, kidney, thyroid and some brain cancers. Whether a specific therapy is available for your cancer depends on local approvals and your scan results.</p>"
+          },
+          {
+            "q": "Will a scan show whether this treatment can work for me?",
+            "a": "<p>Yes, a PET scan is almost always done first. Doctors give a small tracer dose of the same targeting molecule and image where it collects. If your tumours light up strongly, the treatment dose can usually reach them too; if they do not light up, another option is chosen instead. This pairing of scan and treatment is called theranostics, and most centres require it before approving therapy.</p>"
+          },
+          {
+            "q": "How is radioligand therapy given, and how long does the whole course take?",
+            "a": "<p>It is given as a slow injection or drip into a vein, usually taking under an hour. Most protocols involve four to six cycles spaced six to eight weeks apart, so the full course often runs six to nine months. Many patients go home the same day, though some centres keep you overnight for radiation safety checks. Your exact schedule depends on the drug used and how your blood counts recover.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>Tiredness, dry mouth, nausea and a drop in blood counts are the most common side effects. Lutetium-177 PSMA often causes dry mouth because the salivary glands take up some of the drug, while DOTATATE more often causes nausea in the days after each dose. Kidney and bone marrow function are checked before every cycle, and treatment may be delayed or stopped if counts fall too far.</p>"
+          },
+          {
+            "q": "Will I be radioactive afterwards, and is my family safe around me?",
+            "a": "<p>You stay mildly radioactive for a few days, so simple precautions are advised. Teams typically ask you to sleep alone for about a week, flush the toilet twice, wash your clothes separately, and keep some distance from young children and pregnant women. The radiation is short-range and leaves your body mainly through urine. Your hospital will give written instructions with exact timings, which vary by drug and by country.</p>"
+          },
+          {
+            "q": "How is this different from chemotherapy or normal radiotherapy?",
+            "a": "<p>Chemotherapy travels everywhere in the body, and external radiotherapy aims a beam at one spot from outside. Radioligand therapy sits between the two: the drug circulates freely, but it only releases its radiation where the target protein is present, including small deposits too scattered to treat with a beam. That is why it is often chosen when cancer has spread to many bones or organs rather than one site.</p>"
+          },
+          {
+            "q": "Can radioligand therapy cure my cancer?",
+            "a": "<p>Radioligand therapy is rarely a cure, but it can control advanced cancer and ease symptoms for a meaningful period. In prostate cancer trials, Lutetium-177 PSMA delayed progression and extended survival in men whose disease had already resisted hormone therapy and chemotherapy. In neuroendocrine tumours, it often shrinks tumours and reduces hormone-related symptoms. How long the benefit lasts varies widely between patients and cannot be predicted in advance.</p>"
+          },
+          {
+            "q": "What does it cost in India or China compared with Western hospitals?",
+            "a": "<p>Costs vary widely, and India and China are often far cheaper than Western centres. In India, a single cycle of Lutetium-177 PSMA or DOTATATE commonly falls between USD 4,000 and 6,000, with a four to six cycle course priced accordingly; scans, hospital stay and follow-up are usually extra. Teams such as CancerFax can help you compare centres, though final pricing depends on your reports and your treating oncologist.</p>"
+          },
+          {
+            "q": "Can I still have it if my other treatments have stopped working?",
+            "a": "<p>Often yes, because it is mostly used after standard treatments have failed. Doctors will check that your scans show good target uptake, that your kidneys and blood counts are strong enough, and that you are well enough to travel for repeated cycles. Newer agents, including actinium-225 versions, are available mainly through trials in China and a few Indian centres. CancerFax can help identify open trials, but enrolment is never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

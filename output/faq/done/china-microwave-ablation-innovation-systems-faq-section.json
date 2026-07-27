@@ -1,0 +1,59 @@
+{
+  "pillar": "China MWA Innovation: Advanced Antenna Systems and Outcomes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-microwave-ablation-innovation-systems",
+  "route": "/insights/china-microwave-ablation-innovation-systems",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation and how does it destroy a tumour?",
+            "a": "<p>Microwave ablation destroys a tumour by heating it with microwave energy delivered through a thin needle-like antenna placed directly into the tumour. The energy agitates water molecules inside the tissue, pushing temperatures above 60°C and killing cancer cells within minutes. It is usually done through the skin under CT or ultrasound guidance, often with sedation rather than general anaesthesia. Whether it suits your tumour depends on size, location and your overall health.</p>"
+          },
+          {
+            "q": "What makes the antenna systems used in China different?",
+            "a": "<p>Chinese-developed antennas rely on cooled-shaft and water-circulation designs that let high power run for longer without overheating the shaft or the needle track. Many systems pair 2450 MHz or 915 MHz generators with temperature sensing built into the tip. In practice this can produce a rounder, more predictable ablation zone and fewer needle passes for larger tumours.</p><p>Performance still varies by manufacturer, tumour type and the operator's experience.</p>"
+          },
+          {
+            "q": "Is microwave ablation better than radiofrequency ablation for me?",
+            "a": "<p>Microwave ablation heats faster, reaches higher temperatures and is less affected by nearby blood vessels carrying heat away, which can make it the better choice for tumours sitting next to large vessels. Radiofrequency ablation has longer published follow-up, and for small liver tumours reported local control is broadly similar between the two. Your interventional radiologist will weigh tumour size, position and liver function before recommending one.</p>"
+          },
+          {
+            "q": "How large a tumour can microwave ablation actually treat?",
+            "a": "<p>Most centres treat tumours up to about 3 cm with a single antenna and expect complete destruction. Between 3 and 5 cm, doctors often place two or three antennas at once to create an overlapping, larger kill zone. Above 5 cm, complete ablation becomes harder and recurrence rates rise, so it may be combined with TACE or surgery. Eligibility depends on your imaging and your team's assessment.</p>"
+          },
+          {
+            "q": "What survival results are reported from Chinese centres?",
+            "a": "<p>Chinese series in early-stage liver cancer report complete ablation in roughly 90 to 97 percent of small tumours, with five-year survival often between 50 and 70 percent in carefully selected patients. Those figures come from people with preserved liver function and tumours under 3 cm. Outcomes for lung, kidney and bone tumours differ. Published numbers describe groups of patients, so your own outlook may not match them.</p>"
+          },
+          {
+            "q": "How long does the procedure take and when can I go home?",
+            "a": "<p>Ablating a single tumour usually takes 30 to 60 minutes, including imaging and antenna positioning. Most patients stay in hospital for one or two nights of observation, and many are walking the same day. Pain is generally mild and controlled with simple medication, and recovery is far quicker than open surgery. Discharge timing depends on the organ treated, the sedation used and whether any complication appears.</p>"
+          },
+          {
+            "q": "What are the risks and side effects I should expect?",
+            "a": "<p>The most common effects are pain at the puncture site, low-grade fever and tiredness for a few days, often called post-ablation syndrome. Serious problems are uncommon but include bleeding, infection, injury to the bile duct or bowel, and a collapsed lung when treating chest tumours. Major complication rates are usually reported under 5 percent in experienced hands. Your personal risk depends on tumour location and existing organ function.</p>"
+          },
+          {
+            "q": "Can microwave ablation be used for lung tumours?",
+            "a": "<p>Yes, microwave ablation is used for early lung cancers and lung metastases in patients who cannot have surgery, and Chinese centres perform it in high volume under CT guidance. Because air conducts heat poorly, microwave energy tends to work better in lung tissue than radiofrequency does. A collapsed lung is the main risk, and some patients need a chest drain. Suitability depends on tumour size, position and lung function.</p>"
+          },
+          {
+            "q": "What does microwave ablation cost in China, and how do I arrange it from abroad?",
+            "a": "<p>A single microwave ablation session in Chinese hospitals commonly costs between USD 4,000 and 9,000, usually covering imaging, the procedure and a short stay. Costs rise with multiple antennas, several tumours or added TACE, and travel, visa and interpreter support add more.</p><p>CancerFax can help you send scans and reports for a hospital opinion, though final pricing and acceptance always come from the treating oncology team.</p>"
+          },
+          {
+            "q": "Can microwave ablation be combined with immunotherapy?",
+            "a": "<p>Yes. Ablation releases tumour antigens as cells die, and Chinese trials are testing whether pairing it with PD-1 inhibitors improves control of tumours elsewhere in the body. Early reports suggest the combination may extend the time before disease progresses in some patients with liver cancer. This remains investigational rather than standard care, and access often depends on meeting trial criteria at a participating centre.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

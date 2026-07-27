@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is Peritoneal Carcinomatosis? A Patient Introduction",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-peritoneal-carcinomatosis",
+  "route": "/insights/what-is-peritoneal-carcinomatosis",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is peritoneal carcinomatosis in simple terms?",
+            "a": "<p>Peritoneal carcinomatosis means cancer has spread to the peritoneum, the thin lining that wraps the inside of your abdomen and covers your organs. Instead of one tumour, doctors usually find many small deposits scattered across this lining. It most often comes from cancers of the ovary, colon, stomach, appendix or pancreas. It is an advanced pattern of spread, but in selected patients it can still be treated aggressively rather than only palliatively.</p>"
+          },
+          {
+            "q": "Is peritoneal carcinomatosis the same as stage 4 cancer?",
+            "a": "<p>In most staging systems, yes — spread to the peritoneum is counted as stage 4 disease. But stage 4 is a wide category, and outcomes inside it vary enormously. Someone with a few deposits from an appendix tumour sits in a very different position from someone with widespread gastric spread. Your oncologist will look at how much of the peritoneum is involved and whether any organs outside the abdomen are affected.</p>"
+          },
+          {
+            "q": "What symptoms should I watch for?",
+            "a": "<p>The most common early signs are a swollen or bloated abdomen, ongoing discomfort, feeling full after small meals, and unexplained weight loss. Fluid build-up called ascites can make clothes feel tight within a few weeks. Some people develop nausea, constipation, or a partial bowel blockage. These symptoms are vague and often have harmless causes, so they need imaging and a specialist opinion rather than self-diagnosis.</p>"
+          },
+          {
+            "q": "Which cancers spread to the peritoneum most often?",
+            "a": "<p>Ovarian, colorectal, gastric, appendiceal and pancreatic cancers account for most cases, along with peritoneal mesothelioma, a rare cancer that starts in the lining itself. Pseudomyxoma peritonei, usually arising from an appendix tumour, is another type managed in the same specialist centres. Knowing the original cancer matters a great deal, because it drives which chemotherapy drugs and which surgical approach may help you.</p>"
+          },
+          {
+            "q": "How do doctors confirm I have it?",
+            "a": "<p>Diagnosis usually starts with a CT scan of the abdomen and pelvis, often followed by PET-CT. Small peritoneal deposits can hide on scans, so many centres confirm with diagnostic laparoscopy — a keyhole camera that lets the surgeon look directly at the lining and take a biopsy.</p><p>Fluid drained from the abdomen can also be tested for cancer cells. Tumour markers support the picture but cannot confirm the diagnosis on their own.</p>"
+          },
+          {
+            "q": "What is a PCI score and why does my surgeon keep mentioning it?",
+            "a": "<p>The Peritoneal Cancer Index divides the abdomen into 13 regions and scores tumour size in each one, giving a total between 0 and 39. It is the most widely used measure of how much disease is present. A lower score generally means a better chance that surgery can remove everything visible. Scores are most reliable when measured during laparoscopy or surgery rather than estimated from a scan alone.</p>"
+          },
+          {
+            "q": "Can peritoneal carcinomatosis be treated with surgery?",
+            "a": "<p>In selected patients, yes. The main approach is cytoreductive surgery, where the surgeon removes all visible disease, often combined with HIPEC — heated chemotherapy washed through the abdomen during the same operation. It is a long, demanding procedure performed at specialist centres. Whether it suits you depends on your PCI score, your original cancer type, and how well your body would tolerate major surgery.</p>"
+          },
+          {
+            "q": "Am I likely to be eligible for CRS and HIPEC?",
+            "a": "<p>Eligibility usually rests on four things: a limited PCI score, a cancer type known to respond, no significant spread outside the abdomen, and fitness for a long operation. Age alone rarely rules people out, and many patients receive systemic chemotherapy first to see how the disease behaves.</p><p>Only a peritoneal surface malignancy team reviewing your scans and pathology can tell you whether you qualify. CancerFax can help you get those records in front of such a team for review.</p>"
+          },
+          {
+            "q": "What is the outlook if I have this diagnosis?",
+            "a": "<p>Survival varies widely depending on the cancer of origin and how completely the disease can be removed. Patients with pseudomyxoma or appendix tumours who achieve complete cytoreduction may live many years, while widespread gastric spread often follows a shorter course. Published averages describe groups, not individuals, and newer drug combinations continue to shift them. Ask your team for figures specific to your tumour type and PCI score.</p>"
+          },
+          {
+            "q": "Can I get this treated in India or China, and how do I start?",
+            "a": "<p>Both countries have hospitals running dedicated peritoneal surface programmes that offer cytoreductive surgery with HIPEC, often at lower cost than Western centres. The first step is a formal second opinion on your scans and pathology, because eligibility rather than availability is usually the real gatekeeper. Travel timing, visas and fitness for surgery all depend on that review, and the final plan should rest with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

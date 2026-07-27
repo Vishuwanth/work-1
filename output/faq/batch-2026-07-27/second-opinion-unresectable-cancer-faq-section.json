@@ -1,0 +1,59 @@
+{
+  "pillar": "Second Opinions for Unresectable Cancer: How Specialist Review Changes the Verdict",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "second-opinion-unresectable-cancer",
+  "route": "/guides/second-opinion-unresectable-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does it actually mean when doctors say my cancer is unresectable?",
+            "a": "<p>Unresectable means surgeons cannot remove the tumour completely and safely right now. It usually reflects where the tumour sits — wrapped around a major artery, spread across several organs, or pressed against critical structures — rather than how aggressive it is. The label describes one moment in time, and it can change if treatment shrinks the tumour or if a more experienced surgical team reviews the same scans.</p>"
+          },
+          {
+            "q": "Can a second opinion turn an unresectable cancer into an operable one?",
+            "a": "<p>Yes, and this happens more often than most patients expect. High-volume cancer centres reclassify a meaningful share of cases called unresectable elsewhere, often because a specialist surgeon operates on that tumour type every week and can plan vascular reconstruction a general team would not attempt. There is no guarantee your case will be reclassified, but a formal specialist review is usually worth requesting before accepting palliative-only treatment.</p>"
+          },
+          {
+            "q": "Who should be reviewing my case for a second opinion?",
+            "a": "<p>Ask for a surgeon who specialises in your exact tumour type at a high-volume centre, supported by a multidisciplinary tumour board. A pancreatic tumour called unresectable by a general surgeon may look different to a hepatopancreatobiliary specialist who does that operation weekly.</p><p>CancerFax can help route your scans and pathology to specialist teams in India and China, though your treating oncology team should stay involved in every decision.</p>"
+          },
+          {
+            "q": "What records do I need to send for a proper review?",
+            "a": "<p>Send the actual imaging files, not just the written reports — DICOM discs or uploads of your most recent CT, MRI or PET scan. Add the pathology slides or paraffin block, the biopsy report, any molecular or genomic testing, and a treatment summary listing every drug, dose and date. Incomplete imaging is the single most common reason a second opinion gets delayed by weeks.</p>"
+          },
+          {
+            "q": "How long does a specialist second opinion usually take?",
+            "a": "<p>Most remote specialist reviews return a written opinion within five to ten working days once complete records arrive. Cases needing pathology re-review or fresh molecular testing can take two to three weeks. If your oncologist has flagged your situation as urgent, say so when you submit, because many centres can expedite. Actual timelines depend on the centre's workload and how complete your records are.</p>"
+          },
+          {
+            "q": "Will waiting for a second opinion let my cancer get worse?",
+            "a": "<p>For most solid tumours, a one-to-two week review window does not meaningfully change the outcome, and starting the wrong treatment can cost far more time than that. Some situations are genuinely urgent, including airway or spinal cord compression, heavy bleeding, or rapidly rising bilirubin. Ask your oncologist directly how much time you safely have, then arrange the review inside that window.</p>"
+          },
+          {
+            "q": "Does asking for a second opinion mean I don't trust my doctor?",
+            "a": "<p>No, and most oncologists expect it. Second opinions are routine in cancer care, and many centres will help arrange one. Complex unresectable cases involve judgement calls where experienced specialists genuinely disagree, so an independent review either confirms your current plan, which is reassuring, or surfaces an option nobody had considered. Telling your doctor openly that you want one usually makes the process faster, not harder.</p>"
+          },
+          {
+            "q": "Can I get a second opinion from India or China without travelling there?",
+            "a": "<p>Yes. Most large cancer centres in India and China accept remote reviews: you upload scans and reports, then receive a written opinion, often with a video consultation. CancerFax can coordinate that handover so records are not lost between systems, while your local oncologist remains the person signing off on your plan. You travel only if you choose treatment abroad, and visa, cost and eligibility rules vary by hospital.</p>"
+          },
+          {
+            "q": "What if the second opinion also says my tumour is unresectable?",
+            "a": "<p>That is still a useful result, because a good review does not stop at yes or no. It should explain what would need to change for surgery to become possible — usually tumour shrinkage from chemotherapy, radiation or targeted therapy — and name the specific regimen worth trying first. Many tumours called unresectable become operable after several months of conversion therapy, though a response can never be promised.</p>"
+          },
+          {
+            "q": "How much does a second opinion for unresectable cancer cost?",
+            "a": "<p>Remote written opinions typically range from free to around USD 500, depending on the centre and whether pathology re-review or fresh molecular testing is included. Indian and Chinese hospitals generally sit at the lower end, large Western centres at the higher end. Ask upfront exactly what the fee covers, since imaging re-reads and tumour board discussion are sometimes billed separately. Prices change and vary by case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "TARE in China: Zhongshan Hospital and EHBH — Y-90 Centres for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-in-china",
+  "route": "/insights/tare-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TARE, and how is it different from TACE?",
+            "a": "<p>TARE delivers millions of radioactive yttrium-90 microspheres directly into the arteries feeding a liver tumour, treating it with radiation from the inside. TACE uses the same route but delivers chemotherapy plus a blocking agent. TARE causes less post-procedure sickness for many patients and is often a single session, while TACE usually needs repeating. Which one suits you depends on tumour size, liver function, and your blood-flow anatomy.</p>"
+          },
+          {
+            "q": "Which hospitals in China offer Y-90 TARE to international patients?",
+            "a": "<p>Zhongshan Hospital (Fudan University, Shanghai) and Eastern Hepatobiliary Surgery Hospital (EHBH, Shanghai) are the two centres most often named for Y-90 radioembolisation in China. Both run high-volume liver cancer programmes with interventional radiology, nuclear medicine, and hepatobiliary surgery in one place. Both accept international patients through their foreign-patient offices, though microsphere availability can vary from month to month, so confirm scheduling before you book travel.</p>"
+          },
+          {
+            "q": "Am I eligible for Y-90 if my liver cancer has already spread?",
+            "a": "<p>TARE is used mainly when the disease is confined to the liver: primary liver cancer, intrahepatic cholangiocarcinoma, or liver metastases from colorectal or neuroendocrine tumours. Limited spread outside the liver does not always rule it out, especially when the liver disease is what threatens you most. Eligibility also depends on liver function, portal vein status, and your lung-shunt result, so only the treating team can confirm it.</p>"
+          },
+          {
+            "q": "How long do I need to stay in China for TARE?",
+            "a": "<p>Plan on roughly two to three weeks for one Y-90 treatment. The first week covers imaging, blood tests, and the mapping angiogram with the lung-shunt scan. The Y-90 delivery itself usually follows seven to ten days later and needs one or two nights in hospital. Most centres want a check before you fly home, and small delays are common, so keep your return date flexible.</p>"
+          },
+          {
+            "q": "What does Y-90 treatment cost at Zhongshan Hospital or EHBH?",
+            "a": "<p>Expect roughly USD 20,000 to 30,000 for treating one lobe of the liver in Shanghai, covering work-up imaging, the mapping angiogram, the microspheres, the procedure, and a short admission. Treating both lobes usually means two sessions and close to double the cost. Quoted prices move with the exchange rate, the microsphere brand used, and extra imaging, so ask for a written estimate before committing.</p>"
+          },
+          {
+            "q": "Why do I need a mapping angiogram before the actual treatment?",
+            "a": "<p>The mapping angiogram is what makes Y-90 safe. Doctors trace the arteries feeding your tumour, block any vessel that could carry microspheres to your stomach or bowel, and inject a tracer to measure how much would leak into your lungs. A high lung shunt can reduce your dose or stop treatment altogether. Reputable centres, including both Shanghai hospitals, will not skip this step.</p>"
+          },
+          {
+            "q": "How will I feel in the days after the procedure?",
+            "a": "<p>Most people feel tired, mildly feverish, and off their food for one to two weeks. This is called post-embolisation syndrome and it usually settles on its own. Some patients get dull right-sided abdominal pain or nausea. Serious problems such as stomach ulcers, gallbladder inflammation, or radiation injury to the liver are uncommon but possible. Report severe pain, persistent vomiting, or yellowing skin to your team quickly.</p>"
+          },
+          {
+            "q": "Will I be radioactive afterwards? Can I be around my family?",
+            "a": "<p>Yttrium-90 gives off mostly short-range beta radiation that travels only a few millimetres in tissue, so you are not a meaningful hazard to the people around you. Chinese centres typically keep you overnight, then send you home with simple precautions for about a week, such as sleeping apart from a pregnant partner or young child and washing hands carefully. Your nuclear medicine team gives the exact local instructions.</p>"
+          },
+          {
+            "q": "Can TARE shrink my tumour enough for surgery or a transplant?",
+            "a": "<p>In many cases it can, and this is one of the main reasons doctors choose it. Y-90 may shrink tumours until they fall within transplant criteria, a process called downstaging. A higher dose aimed at one lobe can also make the healthy side of the liver grow before surgery. Response takes two to six months to show clearly on scans, and becoming a surgical candidate depends on that response.</p>"
+          },
+          {
+            "q": "How do I get my scans reviewed by these centres before I travel?",
+            "a": "<p>Send a recent triphasic CT or MRI of the liver, AFP and liver function blood results, and a short summary of previous treatment. Most Chinese centres return an opinion and an indicative quote within a few working days.</p><p>CancerFax can help forward these records to Zhongshan Hospital or EHBH and guide the medical visa paperwork, though the final treatment decision should always rest with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

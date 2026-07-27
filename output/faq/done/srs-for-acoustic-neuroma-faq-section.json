@@ -1,0 +1,59 @@
+{
+  "pillar": "SRS for Acoustic Neuroma: Radiation Over Surgery",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "srs-for-acoustic-neuroma",
+  "route": "/insights/srs-for-acoustic-neuroma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is radiosurgery better than surgery for my acoustic neuroma?",
+            "a": "<p>For small and medium acoustic neuromas, stereotactic radiosurgery (SRS) controls the tumour about as well as surgery while carrying a lower risk of facial weakness and hearing loss. Tumour control at 10 years is roughly 90–95 percent in most published series. Surgery still makes more sense for large tumours pressing on the brainstem or causing balance and swallowing problems. Which option fits you depends on tumour size, your hearing, and your age.</p>"
+          },
+          {
+            "q": "What exactly is stereotactic radiosurgery for acoustic neuroma?",
+            "a": "<p>Stereotactic radiosurgery is a single, highly focused dose of radiation delivered to the tumour without any incision. Hundreds of thin beams converge on the acoustic neuroma, so the tumour receives a high dose while the nearby facial and hearing nerves receive very little. Most patients are treated in one session lasting one to three hours, go home the same day, and return to normal activity within a day or two.</p>"
+          },
+          {
+            "q": "Can I just watch and wait instead of having radiation now?",
+            "a": "<p>Watching with serial MRIs is reasonable if your tumour is small, not growing, and not causing symptoms, since many acoustic neuromas grow very slowly or not at all. The argument for treating earlier is that hearing preservation rates are best while the tumour is still small and your hearing is still serviceable. Most teams scan at six months, then yearly, and recommend radiosurgery once growth is confirmed.</p>"
+          },
+          {
+            "q": "How large can my tumour be and still be treated with SRS?",
+            "a": "<p>Most centres treat acoustic neuromas up to about 2.5 to 3 centimetres in diameter with single-session radiosurgery. Above that size, the dose needed can press swelling against the brainstem, so surgery or fractionated radiotherapy over three to five sessions is often preferred. Your radiation oncologist will measure the tumour on a fresh MRI and check how much space sits between it and the brainstem before deciding.</p>"
+          },
+          {
+            "q": "Will radiosurgery save the hearing I still have?",
+            "a": "<p>Radiosurgery preserves useful hearing in roughly half to three-quarters of patients at five years, which is better than most surgical results but not a guarantee. Hearing you have already lost will not come back. The chance of keeping it is higher when your hearing is still good before treatment, the tumour is small, and the dose to the cochlea is kept low. Ask your team for their own preservation figures.</p>"
+          },
+          {
+            "q": "Does the tumour disappear after radiosurgery?",
+            "a": "<p>Usually not. Radiosurgery is designed to stop the tumour growing, not to remove it, so the acoustic neuroma stays visible on MRI for the rest of your life. Many tumours swell slightly in the first six to eighteen months before shrinking, and this is expected rather than treatment failure. Success is measured as stable or smaller size on follow-up scans, typically done at six months and then yearly.</p>"
+          },
+          {
+            "q": "What are the side effects of SRS for acoustic neuroma?",
+            "a": "<p>The common side effects are mild and short-lived: tiredness for a week or two, headache, and a temporary increase in dizziness or ringing in the ear. Serious problems are uncommon with modern dosing. Permanent facial weakness occurs in under two percent of patients and facial numbness in about three to five percent. Hydrocephalus and radiation-induced tumours are rare but real risks your neurosurgeon should explain.</p>"
+          },
+          {
+            "q": "If I travel to India for radiosurgery, how long will I need to stay?",
+            "a": "<p>Plan for about seven to ten days in India for single-session radiosurgery. That covers a fresh MRI, consultations with the neurosurgeon and radiation oncologist, the treatment day itself, and a short observation period before you are cleared to fly. Follow-up MRIs can usually be done at home and sent to the treating centre. CancerFax can help you share your scans with a centre before you commit to travel.</p>"
+          },
+          {
+            "q": "What happens if the tumour keeps growing after radiosurgery?",
+            "a": "<p>About five to ten percent of acoustic neuromas continue to grow after radiosurgery, and you still have options. A second radiosurgery session is possible in selected cases, and microsurgery remains available, though removal after radiation can be technically harder because the tumour often sticks to the facial nerve. This is one reason surgeons with experience in previously irradiated tumours are worth seeking out.</p>"
+          },
+          {
+            "q": "How much does SRS for acoustic neuroma cost in India?",
+            "a": "<p>Gamma Knife or CyberKnife radiosurgery for acoustic neuroma in India typically costs between USD 5,000 and USD 9,000, depending on the hospital, the platform used, and whether the dose is given in one session or several. That figure usually covers planning imaging and the procedure, but not travel, accommodation, or follow-up scans. CancerFax can request itemised estimates, though quoted prices may change once your MRI is reviewed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

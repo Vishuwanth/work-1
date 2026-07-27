@@ -1,0 +1,59 @@
+{
+  "pillar": "Caregiver Guide: Supporting a Loved One With Glioblastoma",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "caregiver-guide-glioblastoma",
+  "route": "/insights/caregiver-guide-glioblastoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "My husband was just diagnosed with glioblastoma. What should I expect in the first few weeks?",
+            "a": "<p>Expect a fast-moving few weeks, because surgery, pathology results, then radiation with temozolomide usually begin within four to six weeks of the operation. Your main jobs early on are practical ones: keep every scan and report in one folder, write down each doctor's name, and track medicines and doses. Ask the neuro-oncology team who to call after hours. Feeling overwhelmed at this stage is normal and does not mean you are coping badly.</p>"
+          },
+          {
+            "q": "Why has my loved one's personality changed so much, and how do I handle it?",
+            "a": "<p>Treat personality changes as a symptom of the tumour or its treatment, not as your loved one choosing to be difficult. Glioblastoma and steroids can both cause irritability, flat mood, poor judgement, and sudden anger. Keep the day predictable, reduce noise and crowds, and step out of the room instead of arguing. Report any sharp change to the neuro-oncology team, because it may signal swelling, seizure activity, or a drug that needs adjusting.</p>"
+          },
+          {
+            "q": "What symptoms mean I should call the doctor straight away?",
+            "a": "<p>Call the same day for a new or worsening headache, repeated vomiting, new weakness on one side, sudden confusion, trouble speaking, or any first-time seizure. Go to emergency care for a seizure lasting more than five minutes, a fall with a head injury, or a fever during chemotherapy. Keep the neuro-oncology number and the nearest emergency department address written on the fridge, so nobody has to search for them under pressure.</p>"
+          },
+          {
+            "q": "The steroids are making him restless and hungry all the time. Can we cut the dose?",
+            "a": "<p>Never change or stop dexamethasone on your own, because sudden withdrawal can be dangerous. Steroids control brain swelling well, but they often bring sleeplessness, hunger, weight gain, mood swings, raised blood sugar, and fragile skin. Giving the dose earlier in the day and offering smaller, lower-sugar meals can help. Doctors usually taper slowly to the lowest dose that keeps symptoms away, and that dose may need to change many times.</p>"
+          },
+          {
+            "q": "Should I tell my mother how serious her prognosis is?",
+            "a": "<p>Follow her lead rather than deciding for her, because most people cope better when they hear the truth in their own time. Ask before appointments what she wants to know, and let the oncologist answer her questions directly. Some patients want survival figures; others only want to know the next step. Honest, unhurried conversations often make it easier to sort out finances, legal papers, and personal wishes while thinking is still clear.</p>"
+          },
+          {
+            "q": "What do I do if she has a seizure at home?",
+            "a": "<p>Stay calm, note the time, and turn her gently onto her side. Move furniture away, put something soft under her head, and loosen tight clothing. Do not put anything in her mouth and do not hold her down. Call emergency services if the seizure passes five minutes, repeats without full recovery, or breathing looks poor.</p><p>Afterwards, let her rest, then describe what happened to the neuro-oncology team, as anti-seizure medication may need adjusting.</p>"
+          },
+          {
+            "q": "He keeps losing words and forgetting things. How can I make daily life easier?",
+            "a": "<p>Speak in short sentences, ask one question at a time, and give him a few extra seconds to find a word instead of finishing it for him. A large wall calendar, labelled drawers, a pill organiser, and a written daily routine reduce frustration for both of you. Save important conversations for the hours when he is most alert. Occupational therapy and speech therapy can help, so ask for a referral early.</p>"
+          },
+          {
+            "q": "How do I look after myself while caring for someone with glioblastoma?",
+            "a": "<p>Build help into the routine before you are exhausted, because caregiver burnout is common and it usually arrives faster than people expect. Turn vague offers into concrete jobs: a hospital run, a cooked meal, two hours of sitting in. Protect your own sleep, appointments, and medication. Ask the hospital about respite care, counselling, and caregiver support groups. Many carers find that talking with others in the same position helps more than anything else.</p>"
+          },
+          {
+            "q": "Is it worth looking into clinical trials or treatment in India or China?",
+            "a": "<p>It can be worth asking, because glioblastoma trials often test tumour-treating fields, immunotherapy, and targeted drugs that are not yet standard care. Bring the pathology report, MGMT and IDH results, and recent scans, since eligibility usually depends on them. CancerFax can help families gather these records and understand options at centres in India and China, though the decision stays with your treating oncology team. Enrolment and travel approval can never be guaranteed.</p>"
+          },
+          {
+            "q": "When should we start talking about palliative care or hospice?",
+            "a": "<p>Earlier than most families expect. Palliative care is not the same as giving up; it runs alongside active treatment and focuses on seizures, pain, fatigue, and family support, and many teams suggest a referral soon after diagnosis. Hospice usually becomes appropriate when treatment is no longer controlling the tumour, or when your loved one is sleeping most of the day. Asking early keeps choices open and often makes the final months calmer.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

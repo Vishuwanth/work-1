@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT Photosensitivity: The Complete Guide to Protecting Yourself After Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-photosensitivity-protection-guide",
+  "route": "/insights/pdt-photosensitivity-protection-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long will I be sensitive to light after photodynamic therapy?",
+            "a": "<p>Most people stay light-sensitive for four to six weeks after photodynamic therapy, though it depends on which photosensitiser was used. Porfimer sodium often causes the longest sensitivity, sometimes 30 to 90 days. Topical agents such as ALA or methyl-ALA usually clear much faster, often within 24 to 48 hours. Your treating team can give you the exact window for your drug, and that timing should guide you rather than a general estimate.</p>"
+          },
+          {
+            "q": "Can I go outside at all after PDT?",
+            "a": "<p>Yes, but only fully covered and at low-light times of day. Short trips are usually possible if you wear long sleeves, gloves, a wide-brimmed hat and sunglasses, and stay in shade. Many teams suggest testing your reaction first by exposing a small patch of skin, such as the back of your hand, to daylight for a few minutes. If redness or burning follows, wait longer before going out.</p>"
+          },
+          {
+            "q": "What happens if I accidentally get sunlight on my skin?",
+            "a": "<p>A photosensitivity reaction can start within minutes and looks like a severe sunburn, with redness, swelling, stinging and sometimes blistering. Move out of the light straight away, cool the area gently, and cover it. Most reactions settle over several days, but severe burns need medical review. Tell your oncology team about any reaction, even a mild one, because it may change how they time the rest of your care.</p>"
+          },
+          {
+            "q": "Does sunscreen protect me after PDT?",
+            "a": "<p>Sunscreen does not protect you after photodynamic therapy. The reaction is triggered by visible light, not only ultraviolet light, and ordinary sunscreens block mainly UV. Physical barriers are what work: tightly woven clothing, gloves, a broad-brimmed hat and wraparound sunglasses. Some teams allow a physical blocker containing zinc oxide or titanium dioxide as an extra layer on exposed facial skin, but it never replaces covering up properly.</p>"
+          },
+          {
+            "q": "Is indoor lighting safe after photodynamic therapy?",
+            "a": "<p>Normal indoor lighting is usually safe, and gentle indoor light is often encouraged because it helps the drug break down in your skin. Stay away from windows with direct sun, bright halogen or examination lamps, and reading lights held close to the skin. Curtains or blinds during the brightest hours help. Sitting in a completely dark room is generally not advised and may prolong how long your sensitivity lasts.</p>"
+          },
+          {
+            "q": "What should I wear when I leave the hospital after PDT?",
+            "a": "<p>Cover every area of skin before you leave the building. That means long sleeves and trousers in dark, tightly woven fabric, gloves, socks and closed shoes, a wide-brimmed hat, and sunglasses that wrap around the sides. A scarf or light face covering protects the neck and cheeks. Bring these items with you on treatment day, because the journey home is when many people get their first unexpected exposure.</p>"
+          },
+          {
+            "q": "Can I watch TV or use my phone after treatment?",
+            "a": "<p>Screens are generally fine after photodynamic therapy. Televisions, phones, laptops and tablets emit far less light than daylight or bright clinical lamps, and most teams place no restriction on them. Hold the screen at a normal distance rather than close to your face, and lower the brightness if your skin feels warm or prickly. If your eyes were involved or feel uncomfortable, ask your team before long screen sessions.</p>"
+          },
+          {
+            "q": "How do I know when it is safe to go back into normal light?",
+            "a": "<p>Test your skin before you trust it. Once your prescribed period ends, most teams suggest exposing a small area, such as the back of your hand, to daylight for about ten minutes, then waiting 24 hours. If there is no redness, swelling or burning, you can usually return to normal light in stages. If a reaction appears, wait several more days and test again after checking with your team.</p>"
+          },
+          {
+            "q": "Can I drive myself home after photodynamic therapy?",
+            "a": "<p>You should not drive yourself home after photodynamic therapy. Sedation, the treatment itself, and light coming through car windows all make this unsafe. Arrange a driver, sit in the back with the windows shaded, and stay fully covered with sunglasses on. Car glass blocks some ultraviolet light but not the visible light that triggers the reaction.</p><p>CancerFax can help patients travelling for treatment arrange transport and accommodation alongside the treating hospital's own instructions.</p>"
+          },
+          {
+            "q": "What do I do if my eyes feel sensitive after PDT?",
+            "a": "<p>Eye sensitivity after photodynamic therapy is common and usually improves within a few days. You may notice glare, watering or discomfort in bright light. Dark wraparound sunglasses indoors and outdoors help, and dimming screens and lamps at home reduces strain. Contact your team promptly if you have eye pain, blurred vision, or symptoms lasting beyond the expected window, since these need direct assessment rather than self-management at home.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

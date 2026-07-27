@@ -1,0 +1,59 @@
+{
+  "pillar": "Extramedullary Myeloma: Challenges and CAR-T Considerations",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "extramedullary-myeloma-car-t",
+  "route": "/insights/extramedullary-myeloma-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is extramedullary myeloma, in plain terms?",
+            "a": "<p>Extramedullary myeloma is multiple myeloma that has grown outside the bone marrow, forming tumours in soft tissue such as the liver, skin, lymph nodes, muscle or the lining around the lungs. It behaves more aggressively than marrow-confined myeloma and often responds less well to standard drugs. It can appear at diagnosis or, more commonly, later as the disease relapses after several lines of treatment.</p>"
+          },
+          {
+            "q": "Why is extramedullary myeloma harder to treat than regular myeloma?",
+            "a": "<p>Soft-tissue myeloma tumours grow fast, carry more high-risk genetic changes, and sit in tissue that many myeloma drugs reach poorly. The plasma cells often lose their dependence on the bone marrow environment, so treatments that work well inside the marrow can leave the outside masses untouched. Responses tend to be shorter, and doctors usually plan for a faster, harder-hitting combination rather than a gentle sequence.</p>"
+          },
+          {
+            "q": "Does CAR-T cell therapy work if my myeloma has spread outside the bone marrow?",
+            "a": "<p>CAR-T can shrink extramedullary myeloma, but responses are usually lower and shorter than in marrow-only disease. Reported studies show many patients still reach a good response with BCMA-targeted CAR-T, though relapse often comes sooner and sometimes starts in the soft-tissue masses. Your haematologist will weigh tumour size, how fast it is growing, and your organ function before deciding whether CAR-T is the right step for you.</p>"
+          },
+          {
+            "q": "Which CAR-T products are used for extramedullary myeloma?",
+            "a": "<p>Most CAR-T for myeloma targets BCMA, with idecabtagene vicleucel and ciltacabtagene autoleucel the two approved products in several countries. Trials in China and India also use GPRC5D-targeted and dual-target CAR-T, which may help when BCMA is lost from the tumour. Availability depends on where you are treated and on trial openings, so your team will confirm what can realistically be accessed for you and when.</p>"
+          },
+          {
+            "q": "How do doctors check whether my myeloma has spread outside the marrow?",
+            "a": "<p>Whole-body PET-CT is the main test, because it shows active soft-tissue masses that blood tests and marrow biopsies can miss. Whole-body MRI is used as well, especially near the spine. A biopsy of an accessible lump confirms the diagnosis and can be sent for genetic testing. Ask for imaging before CAR-T and again afterwards, since the paraprotein level alone may not reflect what these tumours are doing.</p>"
+          },
+          {
+            "q": "What are the risks of CAR-T when I have large tumours outside the marrow?",
+            "a": "<p>A bigger tumour burden raises the chance of severe cytokine release syndrome and nerve-related side effects, so treatment happens in a centre that can manage both around the clock. Infection risk is high for months because CAR-T lowers healthy antibody levels. Teams often give bridging treatment to shrink the masses first, which can make the CAR-T infusion safer and may improve how well it works.</p>"
+          },
+          {
+            "q": "Can I get CAR-T for extramedullary myeloma in India or China?",
+            "a": "<p>Yes, in many cases. Indian centres offer approved and locally made BCMA CAR-T products, and Chinese hospitals run a large number of myeloma CAR-T trials, including newer dual-target designs. Acceptance depends on your organ function, disease pace, prior treatments and the specific protocol. CancerFax can help you send records to these centres for review, though the decision always rests with the treating oncology team there.</p>"
+          },
+          {
+            "q": "How much does CAR-T for myeloma cost abroad?",
+            "a": "<p>Costs vary widely by country and product. In India, CAR-T packages have generally run between roughly 25 and 50 lakh rupees, while approved products in the United States and Europe cost several hundred thousand dollars. Trial slots in China may cover the cell product itself, leaving hospital and travel costs to you. Ask each centre for a written estimate, since prices and inclusions change often and depend on your case.</p>"
+          },
+          {
+            "q": "Will my extramedullary myeloma come back after CAR-T?",
+            "a": "<p>Relapse is common, and soft-tissue masses are often where it shows first. Many patients get months of good disease control, and some get longer, but current CAR-T is not usually a cure for this pattern of myeloma. Regular PET-CT and blood monitoring help catch a return early, when maintenance drugs, a clinical trial or a second cell therapy may still be options worth discussing with your team.</p>"
+          },
+          {
+            "q": "What are my options if I am not eligible for CAR-T?",
+            "a": "<p>Bispecific antibodies such as teclistamab and talquetamab are the closest alternative, and they are given off the shelf without the wait for cell manufacturing. Other choices include combination chemotherapy to control fast-growing masses, radiotherapy to a painful or bulky site, and clinical trials of newer targets. A second opinion from a myeloma-focused centre often widens the list of realistic options, and CancerFax can help arrange that review using your existing records.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

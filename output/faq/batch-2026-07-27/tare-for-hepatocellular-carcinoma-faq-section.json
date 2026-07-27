@@ -1,0 +1,59 @@
+{
+  "pillar": "TARE for Hepatocellular Carcinoma: Indications, Evidence, and Patient Selection",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-for-hepatocellular-carcinoma",
+  "route": "/insights/tare-for-hepatocellular-carcinoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TARE, and how does it treat liver cancer?",
+            "a": "<p>TARE delivers millions of tiny radioactive beads straight into the arteries feeding a liver tumour, so the radiation is concentrated in the cancer and healthy liver tissue is largely spared. It is also called Y-90 radioembolization or selective internal radiation therapy. An interventional radiologist threads a thin catheter from the groin or wrist into the hepatic artery and releases the beads. Most patients go home within a day.</p>"
+          },
+          {
+            "q": "Am I a candidate for TARE if I have hepatocellular carcinoma?",
+            "a": "<p>TARE is generally offered when the tumour is confined to the liver, cannot be removed by surgery, and liver function is still reasonably preserved, usually Child-Pugh A or early B. Your team will check bilirubin levels, portal vein status, and how much healthy liver would remain afterwards. A pre-treatment mapping scan settles the final answer. Eligibility depends on your own scans and blood work, so only your treating oncology team can confirm it.</p>"
+          },
+          {
+            "q": "How is TARE different from TACE?",
+            "a": "<p>TARE works mainly through radiation, while TACE works by delivering chemotherapy and blocking the tumour's blood supply. In hepatocellular carcinoma, TARE often causes less pain and fever afterwards, needs fewer sessions, and can be used when tumour has grown into the portal vein, a situation where TACE is usually avoided. TACE remains a standard choice for many intermediate-stage tumours. The right option depends on tumour size, spread, and liver reserve.</p>"
+          },
+          {
+            "q": "Can TARE cure my liver cancer?",
+            "a": "<p>TARE is not usually described as a cure, but in carefully selected patients with a single small tumour, a high-dose approach called radiation segmentectomy can destroy the tumour completely, with results approaching ablation or surgery. For larger or multiple tumours, the realistic goal is control, shrinkage, and more time. What TARE can achieve for you depends on tumour size, number, and liver function, and your response is tracked with scans over the following months.</p>"
+          },
+          {
+            "q": "Why do I need two separate appointments for TARE?",
+            "a": "<p>The first appointment is a mapping angiogram, where the doctor maps your liver arteries, closes off any vessel that could carry beads to the stomach or intestine, and runs a scan measuring how much blood shunts to your lungs. That data sets your radiation dose. Treatment usually follows one to two weeks later and takes about an hour. Splitting the process this way makes the treatment safer and the dose more accurate.</p>"
+          },
+          {
+            "q": "What side effects should I expect after TARE?",
+            "a": "<p>Fatigue is the most common effect, sometimes with mild nausea, a low-grade fever, or vague abdominal discomfort during the first two weeks. Doctors call this post-embolization syndrome, and it is often milder than what follows TACE. Less common risks include stomach ulcers if beads travel off target, and radiation injury to healthy liver tissue. Careful mapping and dose planning reduce these risks, and your team will monitor liver blood tests afterwards.</p>"
+          },
+          {
+            "q": "Can TARE shrink my tumour enough for surgery or a liver transplant?",
+            "a": "<p>In many cases yes, and this is one of the main reasons TARE is used. It can shrink tumours enough to bring some patients within transplant criteria, and it is widely used to hold disease stable while someone waits for a donor liver. It can also help the remaining liver grow before major surgery. Downstaging does not always succeed, and transplant listing still depends on your centre's own criteria.</p>"
+          },
+          {
+            "q": "Can I still have TARE if the cancer has invaded my portal vein?",
+            "a": "<p>Often yes. Because TARE blocks blood flow only slightly, it can usually be given safely when tumour has grown into the portal vein, a setting where TACE is generally avoided. The evidence is strongest for patients whose liver function is preserved and whose disease has not spread outside the liver. Systemic drug therapy may be combined with it or preferred instead, so this decision belongs with a multidisciplinary liver team.</p>"
+          },
+          {
+            "q": "What does TARE cost in India or China, and can I get it there?",
+            "a": "<p>Y-90 radioembolization is available at several large liver centres in India and China, and it often costs a fraction of United States or European pricing, though the total depends on the number of vials used, imaging, and hospital stay. CancerFax can help you gather quotes and share your scans with treating centres. Final pricing, timing, and suitability are set by the hospital and your treating oncology team.</p>"
+          },
+          {
+            "q": "How will I know whether the treatment worked?",
+            "a": "<p>Response is judged with contrast CT or MRI, usually at one to three months, and doctors look at how much tumour tissue still takes up contrast rather than size alone, because tumours often shrink slowly after radiation. Alpha-fetoprotein blood levels are tracked alongside the scans, which then continue every few months. If you want a second reading of those images, CancerFax can help arrange review by a liver cancer team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

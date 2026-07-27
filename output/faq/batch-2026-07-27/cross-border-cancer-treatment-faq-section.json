@@ -1,0 +1,59 @@
+{
+  "pillar": "Cross-Border Cancer Treatment: A Practical Guide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cross-border-cancer-treatment",
+  "route": "/guides/cross-border-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does cross-border cancer treatment actually mean?",
+            "a": "<p>Cross-border cancer treatment means travelling to another country to receive part or all of your cancer care. Most patients go abroad for a specific reason: a therapy not approved at home, a shorter wait, a lower price, or access to a clinical trial. It is a planned medical journey, not an emergency transfer. Your home oncologist usually stays involved, handling diagnosis before you leave and follow-up after you return.</p>"
+          },
+          {
+            "q": "Is it safe to travel to another country for cancer treatment?",
+            "a": "<p>It can be safe when the trip is planned around a confirmed diagnosis and a written treatment plan. Risk rises when patients travel without records, without a fixed appointment, or while acutely unwell. Ask for the hospital's accreditation, the treating doctor's name, and a fitness-to-fly opinion from your current oncologist. Many patients travel safely each year, but your own suitability depends on your stage, blood counts, and general condition.</p>"
+          },
+          {
+            "q": "How much money can I actually save by getting treated in India or China?",
+            "a": "<p>Many patients report paying 40 to 70 percent less in India or China than in the United States or Western Europe for comparable treatment. Drug prices, hospital stay, and surgical fees are all lower. The saving shrinks once you add flights, accommodation, an attendant, and a long stay. Ask for a written estimate covering the full episode of care, because final cost depends on your stage and how your body responds.</p>"
+          },
+          {
+            "q": "How do I find out whether a hospital abroad can treat my cancer?",
+            "a": "<p>Send your recent scans, biopsy report, and treatment summary to the hospital for a written opinion before booking anything. A good team will tell you what they would do, roughly what it costs, and how long it takes, or say clearly that travelling would not help you. CancerFax can route these records to oncology teams in India and China, though the final call always sits with the treating doctors.</p>"
+          },
+          {
+            "q": "What records should I gather before I contact a hospital abroad?",
+            "a": "<p>Gather the biopsy or pathology report, recent CT, PET or MRI images on a disc, blood reports from the last month, and a summary of every treatment you have already had with dates and drug names. Add any molecular or genetic testing results, since these often decide which targeted drugs you qualify for. Send scanned copies in English where possible. Missing pathology is the most common reason an opinion gets delayed.</p>"
+          },
+          {
+            "q": "How long will I have to stay in the country?",
+            "a": "<p>Most patients stay three to six weeks for surgery with recovery, and longer for radiation or cell therapy. A single course of immunotherapy or a chemotherapy cycle can take one to two weeks per visit. CAR T-cell therapy often needs two to three months, including monitoring after the infusion. Ask the hospital for a day-by-day schedule before you book flights, because delays for infection or low counts are common.</p>"
+          },
+          {
+            "q": "How do I get a medical visa, and can someone come with me?",
+            "a": "<p>Apply for a medical visa using the hospital's invitation letter, which states your diagnosis, planned treatment, and expected stay. India and China both issue attendant visas so one or two family members can travel with you. Processing usually takes a few working days to a few weeks depending on your passport and the mission handling it. Approval is never guaranteed, so apply early and keep your appointment dates flexible.</p>"
+          },
+          {
+            "q": "Will my insurance pay for treatment in another country?",
+            "a": "<p>Most domestic health policies do not cover planned treatment abroad, though some corporate and international plans include it with prior approval. Ask your insurer in writing whether overseas care, the specific drug, and the specific hospital are covered before you commit. Many cross-border patients pay out of pocket and use the written hospital estimate to plan. Coverage depends on your policy wording, so confirm it rather than assuming.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial in another country?",
+            "a": "<p>International patients can sometimes join trials abroad, but many studies limit enrolment to residents or require local follow-up for months or years. Eligibility depends on your cancer type, prior treatments, organ function, and how recently you were treated. Ask the trial site directly whether they accept overseas participants and who pays for travel and scans. Enrolment can never be promised in advance, even when you appear to match on paper.</p>"
+          },
+          {
+            "q": "What happens with follow-up once I fly home?",
+            "a": "<p>Before you leave, ask for a discharge summary, the full drug names and doses, imaging on a disc, and a named contact for questions. Share all of it with your oncologist at home so scans and blood tests continue on schedule. Many hospitals abroad offer video reviews for the first year. Continuity matters more than distance, so arrange local follow-up before you travel, not after you return.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

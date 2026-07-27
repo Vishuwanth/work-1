@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Surgery in China: Hospitals, Costs, and Access Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-surgery-china-hospitals-costs",
+  "route": "/insights/cancer-surgery-china-hospitals-costs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does cancer surgery in China cost?",
+            "a": "<p>Cancer surgery in China usually costs US$8,000 to US$25,000 for international patients, depending on the organ involved and the complexity of the operation. A laparoscopic colectomy often sits near the lower end, while a major liver or oesophageal resection reaches the upper end. Quotes generally cover the surgeon, anaesthesia, theatre time and a standard ward stay. Prices vary by city and hospital, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "Which hospitals in China are best for cancer surgery?",
+            "a": "<p>China's leading cancer surgery centres include Fudan University Shanghai Cancer Center, the Cancer Hospital of the Chinese Academy of Medical Sciences in Beijing, Sun Yat-sen University Cancer Center in Guangzhou, and Tianjin Medical University Cancer Institute. These are high-volume hospitals with dedicated international patient departments. The right choice depends on your cancer type, since each centre has particular surgical strengths, so match the hospital to your diagnosis rather than to its overall ranking.</p>"
+          },
+          {
+            "q": "Do I need a visa to have cancer surgery in China?",
+            "a": "<p>Yes, you will need a Chinese visa, usually an M or S2 category, supported by a medical invitation letter from the treating hospital. The hospital's international office issues that letter once it has reviewed your reports and confirmed a surgical date. A travelling companion normally applies on the same basis. Processing times and document requirements change often, so check with your nearest Chinese embassy before you book flights.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for the surgery?",
+            "a": "<p>Plan for three to six weeks in China for most cancer operations. That usually means about one week of pre-operative tests and consultations, seven to fourteen days as an inpatient, and a further one to two weeks of local recovery before your surgeon clears you to fly. Complex resections or complications can extend this. Your actual stay depends on how you heal, so book flexible return tickets.</p>"
+          },
+          {
+            "q": "Are Chinese cancer surgeons as good as those in the US or Europe?",
+            "a": "<p>Surgeons at China's top cancer centres operate at case volumes that match or exceed major Western hospitals, particularly for gastric, oesophageal, liver and lung cancers, which are common in China. High volume is strongly linked to better surgical outcomes. Standards vary widely between hospitals, though, so the quality of your care depends far more on which centre and which surgeon you choose than on the country itself.</p>"
+          },
+          {
+            "q": "Will the doctors and nurses speak English?",
+            "a": "<p>Senior surgeons at the major cancer centres usually speak workable English, and international patient departments provide interpreters for consultations and consent discussions. Ward nurses and junior staff often do not, so day-to-day communication can be harder. Most international patients arrange a dedicated medical interpreter for the whole admission. Confirm in writing what language support is included before you accept a quote, since it is not always part of the package.</p>"
+          },
+          {
+            "q": "Can I get robotic or keyhole cancer surgery in China?",
+            "a": "<p>Yes. Robotic and laparoscopic surgery are widely available at China's large cancer hospitals for prostate, kidney, colorectal, gastric and lung cancers. Minimally invasive surgery often means less blood loss, smaller scars and a shorter hospital stay. Not every tumour is suitable, however; large, locally advanced or previously operated tumours may still need open surgery. Your surgeon decides after reviewing your imaging and your general fitness.</p>"
+          },
+          {
+            "q": "What scans and reports should I send before I travel?",
+            "a": "<p>Send recent imaging in DICOM format, the pathology report with biopsy slide details, a summary of treatment so far, your current medicines and basic blood work. Scans should ideally be under six weeks old. Chinese hospitals review this package before quoting a price or offering a surgical date. Services such as CancerFax can help collate and forward these records, but your own oncologist should confirm the file is complete.</p>"
+          },
+          {
+            "q": "What happens if I need chemotherapy or radiotherapy after surgery?",
+            "a": "<p>Most Chinese cancer centres deliver surgery, chemotherapy, radiotherapy and immunotherapy on one campus, so follow-up treatment can often begin four to six weeks after your operation without changing hospitals. Many patients instead take the pathology report home and complete chemotherapy locally, which is usually cheaper and easier on the family. Either route can work, and your surgeon and home oncologist should agree the plan before you fly back.</p>"
+          },
+          {
+            "q": "Is cancer surgery in China cheaper than in India?",
+            "a": "<p>India is generally cheaper for standard cancer surgery, often 20 to 40 percent below Chinese prices, and the visa process is usually simpler. China tends to be the stronger option for gastric, oesophageal and liver cancer surgery, where its centres carry very high case volumes. CancerFax can place costed options from both countries side by side, but the deciding factor should be surgical expertise for your specific cancer.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

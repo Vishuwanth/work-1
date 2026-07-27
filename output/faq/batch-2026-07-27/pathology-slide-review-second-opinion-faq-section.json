@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is Pathology Slide Review and Why Is It the Most Important Part of a Second Opinion?",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pathology-slide-review-second-opinion",
+  "route": "/guides/pathology-slide-review-second-opinion",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is a pathology slide review?",
+            "a": "<p>A pathology slide review is a second pathologist examining the actual glass slides made from your biopsy or surgery, not just reading the original report. They look at the tissue themselves under a microscope, and often order extra stains or molecular tests on the same block. The result either confirms your diagnosis or changes it: the cancer type, subtype, or grade. Every treatment decision that follows depends on getting that answer right.</p>"
+          },
+          {
+            "q": "Why is the slide review the most important part of a second opinion?",
+            "a": "<p>Because every treatment decision starts with the diagnosis. Drug choice, radiation dose, surgery, and clinical trial eligibility all follow from what the pathologist says the tumour is. If the type or subtype is wrong, a perfectly designed treatment plan is still the wrong plan. Reviewing the slides checks the foundation first, before anyone argues about which protocol to use. This is why most expert centres insist on seeing the slides before commenting on treatment.</p>"
+          },
+          {
+            "q": "How often does a second pathology opinion actually change the diagnosis?",
+            "a": "<p>Published hospital audits report a meaningful change in roughly 5 to 20 percent of cases, depending on the cancer. Rates are highest in lymphoma, sarcoma, brain tumours, and rare or poorly differentiated cancers, where subtyping is genuinely difficult. Common, straightforward cancers change far less often. Your own odds depend on your diagnosis and how specialised the first laboratory was, so treat these figures as general ranges only.</p>"
+          },
+          {
+            "q": "Do I need to send the actual glass slides, or will scanned images do?",
+            "a": "<p>Send the physical glass slides and, if possible, the paraffin block. Scanned images and phone photographs are useful for a quick informal look, but a reviewing pathologist often needs to order new stains, and those can only be cut from the block. Most hospitals will release slides and blocks on loan to the patient or to another laboratory when you request them in writing.</p>"
+          },
+          {
+            "q": "Will my hospital actually hand over my slides?",
+            "a": "<p>In most countries the tissue is held by the laboratory, but you can request it for a second opinion, usually as a loan that is returned afterwards. Ask for a written slide and block release, list every biopsy date, and expect a few days of paperwork. Refusals are uncommon, and when they happen it is usually because the block is being used for testing. Policies vary by hospital and country.</p>"
+          },
+          {
+            "q": "How long does a pathology second opinion take?",
+            "a": "<p>A straightforward review usually takes three to seven working days once the slides reach the reviewing pathologist. Getting the slides out of the first hospital and shipped is often the slower half. If additional immunohistochemistry stains or molecular testing are needed, add one to three weeks. CancerFax can help coordinate slide collection and courier logistics, though timelines still depend on the hospitals and laboratories involved.</p>"
+          },
+          {
+            "q": "How much does a pathology slide review cost?",
+            "a": "<p>Expect roughly 150 to 600 US dollars for an expert review at most Indian and Chinese centres, and considerably more at large Western academic hospitals. Extra immunohistochemistry stains and molecular panels are billed separately and can add several hundred dollars. Courier and customs charges for shipping tissue are usually your own cost. Quoted prices change often, so confirm the full amount with the laboratory before you ship anything.</p>"
+          },
+          {
+            "q": "Is a slide review the same as genomic or molecular testing?",
+            "a": "<p>No. A slide review is a pathologist re-examining the tissue to confirm what the cancer is, while molecular testing looks for specific genetic changes inside it that may point to targeted drugs. They work best together, because the review confirms the diagnosis and tells the laboratory which molecular tests are worth doing. Which tests apply to you depends on your cancer type and how much tissue remains.</p>"
+          },
+          {
+            "q": "Should I delay starting treatment until the slides are reviewed?",
+            "a": "<p>Ask your treating oncologist, because the answer depends entirely on how urgent your situation is. Many cancers allow a one to two week pause for a pathology review without affecting the outcome, and that pause can prevent months of wrong treatment. Acute leukaemias, spinal cord compression, and airway obstruction do not. Never stop or postpone treatment on your own; raise the question with your oncology team first.</p>"
+          },
+          {
+            "q": "My biopsy was done two years ago. Can those slides still be reviewed?",
+            "a": "<p>Yes, in most cases. Paraffin blocks are usually stored for ten years or longer, and the tissue inside often stays suitable for new stains. Older cut slides can fade, but fresh sections can normally be taken from the block. If your tumour has since grown or spread, your oncologist may still want a new biopsy, because current tissue can behave differently from the original sample.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

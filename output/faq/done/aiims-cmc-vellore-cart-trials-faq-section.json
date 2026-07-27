@@ -1,0 +1,59 @@
+{
+  "pillar": "AIIMS and CMC Vellore CAR-T Programmes: Academic Trial Access for Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "aiims-cmc-vellore-cart-trials",
+  "route": "/insights/aiims-cmc-vellore-cart-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can I actually get CAR-T therapy at AIIMS or CMC Vellore?",
+            "a": "<p>Yes, but access is usually through academic clinical trials or investigator-led protocols rather than routine paid treatment. Both centres run limited CAR-T programmes and review every referral case by case. Whether you are considered often depends on your exact diagnosis, how many prior treatment lines you have had, your organ function, and how quickly you can reach the centre. Acceptance can never be assumed in advance.</p>"
+          },
+          {
+            "q": "Which cancers are these academic CAR-T programmes treating right now?",
+            "a": "<p>Indian academic CAR-T work has focused mainly on CD19-directed therapy for relapsed or refractory B-cell acute lymphoblastic leukaemia and B-cell non-Hodgkin lymphoma. Some protocols also explore multiple myeloma using BCMA-directed cells. Solid tumours remain largely experimental. The open indications change as trials complete and new ones start, so the list on the day you apply may differ from what you read online.</p>"
+          },
+          {
+            "q": "How much will CAR-T cost me at an academic centre compared with a private hospital?",
+            "a": "<p>Trial participation often removes or heavily reduces the cost of the cell product itself, which is the single largest expense. Commercially supplied Indian CAR-T is frequently quoted in the range of thirty to forty-five lakh rupees, while imported products cost several times more. You would still budget for hospital stay, apheresis, imaging, intensive care and complication management. Quotes vary by centre and should be confirmed directly.</p>"
+          },
+          {
+            "q": "What is the real difference between a trial slot and a commercial CAR-T infusion?",
+            "a": "<p>A trial slot means you receive an investigational or study-protocol product under strict monitoring, with defined entry criteria and scheduled follow-up visits. A commercial infusion uses a licensed product your doctor prescribes outside a study. Trials often cost less but restrict who can enrol and may involve randomisation or extra tests. Both carry the same core risks, and the choice depends on eligibility and timing.</p>"
+          },
+          {
+            "q": "Can international patients join CAR-T trials at AIIMS or CMC Vellore?",
+            "a": "<p>Some academic protocols accept overseas patients, but many are restricted to Indian residents because of long follow-up requirements and regulatory conditions. Trials typically need you to stay near the centre for weeks or months after infusion. Visa category, insurance, and the ability to return for scheduled monitoring all affect acceptance. CancerFax can help you check which programmes are currently open to non-resident patients before you travel.</p>"
+          },
+          {
+            "q": "How long is the wait for a CAR-T slot at these centres?",
+            "a": "<p>Waits commonly run from several weeks to a few months, because manufacturing capacity and trial slots are both limited. Screening, apheresis and cell production each add time, and the manufacturing step alone often takes two to four weeks. Patients with rapidly progressing disease may need bridging chemotherapy while they wait. Timelines shift constantly, so any estimate you receive should be reconfirmed close to your planned date.</p>"
+          },
+          {
+            "q": "What tests will doctors want before they consider me for CAR-T?",
+            "a": "<p>Expect confirmation of your diagnosis by biopsy or bone marrow study, flow cytometry to confirm the target antigen, recent PET-CT or CT imaging, and blood tests covering kidney, liver, heart and lung function. Infection screening for hepatitis and HIV is standard. Records of every previous treatment line matter greatly. Missing or outdated reports are the most common reason a referral stalls before review.</p>"
+          },
+          {
+            "q": "Is an academic or trial CAR-T product as safe as an approved one?",
+            "a": "<p>Trial products are manufactured under regulated conditions and given in centres equipped for intensive monitoring, but they have less long-term safety data behind them than fully licensed therapies. The main risks are similar across products: cytokine release syndrome, neurological effects, prolonged low blood counts and infection. Academic centres often monitor trial patients more closely than routine ones. Your haematologist should explain the specific risk profile of the protocol offered.</p>"
+          },
+          {
+            "q": "What happens if the CAR-T therapy does not work for me?",
+            "a": "<p>Not everyone responds, and some patients who respond later relapse. If that happens, teams usually reassess with imaging and marrow studies, then discuss options such as a different antigen target, bispecific antibody therapy, allogeneic transplant, another trial, or supportive care focused on comfort. Trial protocols normally define what follow-up you receive either way. Ask about the exit plan before you consent, not after.</p>"
+          },
+          {
+            "q": "How do I apply, and what should I send first?",
+            "a": "<p>Start with a written referral from your treating haematologist, then send a single organised packet: pathology and flow cytometry reports, recent imaging, a dated summary of every prior treatment and response, and current blood work. Incomplete files are the usual cause of delay. CancerFax can help you assemble and forward these records, though the decision to accept any patient rests entirely with the treating academic team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

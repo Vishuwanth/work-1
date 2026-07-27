@@ -1,0 +1,59 @@
+{
+  "pillar": "Generic Hormone Therapy Drugs in India and China: Quality, Safety, and Cost Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "generic-hormone-therapy-drugs",
+  "route": "/insights/generic-hormone-therapy-drugs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Are generic hormone therapy drugs made in India and China as effective as the branded versions?",
+            "a": "<p>A properly approved generic contains the same active ingredient, in the same dose, as the branded drug, and is expected to work the same way in your body. Regulators require bioequivalence testing before approval. What varies is the manufacturer's quality record, not the molecule itself. Effectiveness for your specific cancer still depends on your hormone receptor status, prior treatments, and how your oncologist plans the overall regimen.</p>"
+          },
+          {
+            "q": "How much cheaper are generic hormone therapy drugs in India and China?",
+            "a": "<p>Generic hormone therapy in India and China often costs 70 to 95 percent less than the branded price in Western markets. A month of generic anastrozole or bicalutamide can fall to a few US dollars, while newer agents such as abiraterone or enzalutamide generics may run tens to low hundreds of dollars monthly. Prices move with brand, supplier, and quantity, so ask for a written quote before you commit.</p>"
+          },
+          {
+            "q": "Which hormone therapy drugs can I actually get as generics there?",
+            "a": "<p>Most established hormone therapies now have generic versions in India and China, including tamoxifen, letrozole, anastrozole, exemestane, bicalutamide, flutamide, and leuprolide. Newer prostate cancer agents such as abiraterone are widely genericised in India; enzalutamide and apalutamide generics are more limited and vary by country. Availability changes as patents expire, so confirm current supply with your treating team or hospital pharmacy rather than relying on an older list.</p>"
+          },
+          {
+            "q": "How do I know the generic I am buying is genuine and not counterfeit?",
+            "a": "<p>Buy only through the treating hospital's own pharmacy or a licensed pharmacy the hospital names, and keep the invoice and batch number. Genuine packs carry a manufacturer name, batch number, manufacturing and expiry dates, and often a scannable verification code. Avoid unlicensed online sellers, street vendors, and anyone offering prices far below the local norm. If a pack looks altered or unlabelled, do not take it and show it to your doctor.</p>"
+          },
+          {
+            "q": "Are Indian and Chinese generic hormone drugs approved by the FDA or EMA?",
+            "a": "<p>Some are, and many are not. India has a large number of plants inspected and approved by the US FDA, the EMA, and the WHO prequalification programme, and drugs from those lines are exported worldwide. Chinese manufacturing has expanded its international approvals more recently. Products made only for the domestic market are approved by the national regulator instead. Ask which plant made your specific batch and what approvals it holds.</p>"
+          },
+          {
+            "q": "Can I take generic hormone therapy drugs home with me on the flight?",
+            "a": "<p>Most countries allow a personal supply for your own treatment, commonly three months, if you carry a prescription and the hospital invoice. Rules differ sharply by country, and some require an import permit or ban personal importation of certain drugs outright. Keep medicines in their original labelled packs in hand luggage. Check your own country's customs and medicines agency rules before you travel, because a refused shipment can interrupt treatment.</p>"
+          },
+          {
+            "q": "Will my oncologist at home agree to me switching to an Indian or Chinese generic?",
+            "a": "<p>Many will, provided the product is from a regulated manufacturer and the dose matches your current prescription. Hormone therapy runs for years, so cost is a real clinical issue and most oncologists take it seriously. Bring the pack, the batch details, and the invoice to your next appointment. CancerFax can help you gather the manufacturer and approval documents your oncologist may ask for, but the decision stays with your treating team.</p>"
+          },
+          {
+            "q": "Do generic hormone therapy drugs cause different side effects?",
+            "a": "<p>The side effects come from the active drug, so a generic version should cause the same ones as the brand: hot flushes, joint pain, fatigue, bone thinning, or loss of libido, depending on the agent. Inactive ingredients such as fillers and dyes can differ, which occasionally matters for allergies or intolerance. If symptoms change noticeably after a switch, tell your oncology team rather than stopping the medicine yourself.</p>"
+          },
+          {
+            "q": "What should I check about the manufacturer before agreeing to a generic?",
+            "a": "<p>Look for WHO-GMP certification at minimum, and ideally an inspection record from the US FDA, the EMA, or the UK MHRA for the specific plant. Ask whether the company exports to regulated markets, how long the product has been sold, and whether it has had recalls. Large Indian and Chinese makers publish this information openly. Your hospital pharmacist can usually confirm these details faster than searching for them yourself.</p>"
+          },
+          {
+            "q": "Can I buy these generics without travelling to India or China?",
+            "a": "<p>In many cases yes, through a licensed pharmacy that ships against a valid prescription, but it depends entirely on what your own country's import rules allow. Some nations permit a named-patient supply; others block it. Websites selling prescription hormone drugs without a prescription should be avoided. CancerFax can point you to hospital-linked pharmacies and explain the paperwork usually required, though your oncologist must confirm the drug and dose first.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

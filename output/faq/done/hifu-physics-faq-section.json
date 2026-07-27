@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU Physics: How Acoustic Focusing Destroys Tissue",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-physics",
+  "route": "/insights/hifu-physics",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly does HIFU do to a tumour?",
+            "a": "<p>HIFU uses focused ultrasound to heat a small volume of tissue until the cells die, with no cut and no needle. The sound waves pass harmlessly through skin and muscle, then converge at one point where the energy becomes intense enough to destroy the tissue in seconds. The dead cells are cleared by the body over the following weeks. Whether your tumour can be reached depends on where it sits.</p>"
+          },
+          {
+            "q": "How can sound waves be strong enough to destroy tissue?",
+            "a": "<p>The power comes from focusing, not from loudness. A curved transducer sends many ultrasound beams from a wide surface and aims them all at one tiny point, much like a magnifying glass concentrating sunlight. Each single beam is weak. Where they overlap, the energy density can rise thousands of times, and that concentrated vibration turns into heat fast enough to kill the cells there.</p>"
+          },
+          {
+            "q": "How hot does the tissue actually get?",
+            "a": "<p>At the focal point, tissue typically reaches 60 to 85 degrees Celsius within a few seconds. Above roughly 56 degrees held for one second, proteins unfold and cells die in a way that cannot be repaired, which doctors call coagulative necrosis. The speed of heating matters as much as the peak temperature, because blood flow has no time to carry the heat away from the target.</p>"
+          },
+          {
+            "q": "What is cavitation, and is it dangerous?",
+            "a": "<p>Cavitation is the forming and violent collapse of microscopic gas bubbles as sound pressure swings up and down. The collapse tears cell membranes mechanically, adding to the heat damage. Controlled cavitation can speed treatment up, but uncontrolled cavitation is unpredictable and may spread damage beyond the target, so modern systems listen for it and adjust the power. Your team can explain which mode their machine uses.</p>"
+          },
+          {
+            "q": "Why is the skin and muscle in the beam path not burned?",
+            "a": "<p>Along the path the beam is wide, so the energy is spread thin and the tissue warms only slightly before blood flow removes that heat. At the focus, the same energy is packed into a volume about the size of a grain of rice. Skin burns can still happen if scar tissue, trapped gas, or a metal implant sits in the path, so the path is mapped before treatment.</p>"
+          },
+          {
+            "q": "How much tissue is destroyed in one shot?",
+            "a": "<p>A single HIFU pulse destroys a cigar-shaped volume roughly 1 to 3 millimetres wide and 10 to 25 millimetres long, depending on the frequency used and the depth of the target. Larger tumours are treated by placing many of these small lesions side by side until the whole target is covered. This is why treatment time depends on tumour size rather than being the same for everyone.</p>"
+          },
+          {
+            "q": "Why can HIFU not reach every tumour?",
+            "a": "<p>Sound needs a clear, watery path. Bone reflects and absorbs ultrasound strongly, and air scatters it almost completely, so targets hidden behind ribs, bowel gas, or lung are hard or unsafe to reach. Movement from breathing is a further limit. This physics, and not the cancer type alone, explains why HIFU is used most often in the prostate, liver, pancreas, uterus, and bone.</p>"
+          },
+          {
+            "q": "How do doctors see where the energy is going?",
+            "a": "<p>There are two guidance methods. MRI-guided HIFU maps temperature in real time, so the team can watch the focal spot heat up and confirm the dose before moving on. Ultrasound-guided HIFU is faster and cheaper but shows the change indirectly, as a brighter grey area.</p><p>MRI thermometry gives tighter control, and availability differs between hospitals. CancerFax can help you check which system a centre actually operates.</p>"
+          },
+          {
+            "q": "Is HIFU the same thing as radiation therapy?",
+            "a": "<p>No. HIFU uses mechanical sound energy and heat, with no ionising radiation at all, so there is no cumulative dose limit and no radiation exposure for nearby organs. That also means HIFU can sometimes be repeated, or used in an area that has already been irradiated. The trade-off is reach, because radiation can treat targets that sound waves cannot physically get to.</p>"
+          },
+          {
+            "q": "How do I find out if my tumour is physically suitable for HIFU?",
+            "a": "<p>A HIFU specialist reviews your recent CT or MRI scans to check three things: whether a clear acoustic window exists, how deep the target sits, and how much it moves when you breathe. That imaging review usually settles suitability faster than any consultation. CancerFax can help arrange such a review with centres in India or China, though eligibility, cost, and access always depend on the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

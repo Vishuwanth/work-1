@@ -1,0 +1,59 @@
+{
+  "pillar": "SRS for Brain Metastases: The Evidence That Changed Standard of Care",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "srs-for-brain-metastases",
+  "route": "/insights/srs-for-brain-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is stereotactic radiosurgery better than whole-brain radiation for brain metastases?",
+            "a": "<p>For a limited number of brain metastases, SRS is now preferred over whole-brain radiation because it protects thinking and memory without shortening survival. Randomised trials, including the Alliance N0574 and MD Anderson studies, found patients given whole-brain radiation had significantly more cognitive decline, with no overall survival benefit. SRS delivers a high dose to each tumour and spares healthy brain. Your radiation oncologist decides based on tumour number, size and control of disease elsewhere.</p>"
+          },
+          {
+            "q": "How many brain metastases can be treated with SRS?",
+            "a": "<p>Most centres now treat up to ten brain metastases with SRS, and some treat more when the tumours are small and systemic disease is controlled. A large Japanese study, JLGK0901, showed survival after SRS for five to ten metastases was no worse than for two to four. Total tumour volume often matters more than the raw count. Whether you qualify depends on tumour size, location and your overall condition, so ask your team directly.</p>"
+          },
+          {
+            "q": "Will SRS damage my memory or thinking?",
+            "a": "<p>SRS carries a much lower risk of memory and thinking problems than whole-brain radiation. In the Alliance N0574 trial, about 92 percent of patients given SRS plus whole-brain radiation showed cognitive decline at three months, compared with roughly 64 percent given SRS alone. Because the radiation is shaped tightly around each tumour, the hippocampus and surrounding brain receive very little dose. Some patients still notice fatigue or mild changes, which often settle over weeks.</p>"
+          },
+          {
+            "q": "Is stereotactic radiosurgery actually surgery?",
+            "a": "<p>No, despite the name, SRS involves no cutting, no anaesthesia and no hospital stay. You lie still on a treatment couch while a machine such as Gamma Knife, CyberKnife or a linear accelerator aims many precise radiation beams that meet at the tumour. A mask or frame keeps your head steady. Most people go home the same day and return to normal activity within a day or two.</p>"
+          },
+          {
+            "q": "How long does SRS take and how many sessions will I need?",
+            "a": "<p>Most brain metastases are treated in a single session lasting 30 to 60 minutes, though larger tumours may be split into three to five sessions. Planning comes first: a detailed MRI, a custom mask, and dose calculation, usually over a few days. The treatment itself is painless. Total time in the department on treatment day is often two to four hours, including setup and imaging checks.</p>"
+          },
+          {
+            "q": "What are the side effects of SRS for brain metastases?",
+            "a": "<p>The common side effects are mild: tiredness, headache, scalp irritation and some hair thinning where the beams enter. Swelling around the treated tumour can cause temporary nausea or worsening of existing symptoms, and steroids usually settle this quickly. Seizures are uncommon. The main delayed problem is radiation necrosis, which can appear months later. Report any new headache, weakness or confusion to your oncology team promptly rather than waiting for the next scan.</p>"
+          },
+          {
+            "q": "What is radiation necrosis, and how likely am I to get it?",
+            "a": "<p>Radiation necrosis is scar-like tissue and swelling that can form at a treated site months to years after SRS, and it affects roughly 5 to 25 percent of treated lesions depending on dose and tumour size. On MRI it can look like the tumour is growing again, which is why advanced imaging is used to tell them apart. Many cases need no treatment; others respond to steroids or bevacizumab.</p>"
+          },
+          {
+            "q": "Can I keep taking immunotherapy or targeted therapy during SRS?",
+            "a": "<p>In many cases yes, and some drugs appear to work better alongside SRS. Immune checkpoint inhibitors are often continued, and retrospective data suggest the combination may improve local control. Certain targeted drugs are paused briefly around treatment because of a higher risk of brain swelling or skin reactions. The safe gap depends on the specific drug, so your medical and radiation oncologists should agree the timing together before you start.</p>"
+          },
+          {
+            "q": "Can I get SRS in India or China, and what does it cost?",
+            "a": "<p>Yes. Gamma Knife, CyberKnife and modern linear accelerators are available at major cancer centres in India and China, often at a fraction of Western prices. Single-session treatment in India commonly falls in the range of 4,000 to 8,000 US dollars, though figures vary by centre, tumour number and imaging needs. CancerFax can help you share your MRI and reports with these centres for review, alongside your own oncologist's advice.</p>"
+          },
+          {
+            "q": "What happens if new brain metastases show up after SRS?",
+            "a": "<p>New metastases appear in roughly half of patients after SRS, and in most cases they can simply be treated with another round of SRS. This is why close MRI surveillance, usually every two to three months, is part of standard care, because small new lesions are easier to treat. Whole-brain radiation is generally held in reserve for widespread disease. CancerFax can arrange a second opinion if you want another view on the plan.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Cost of Hormone Therapy Drugs: India and China vs USA — The Complete Comparison",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hormone-therapy-drug-cost-india-china-usa",
+  "route": "/insights/hormone-therapy-drug-cost-india-china-usa",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why are hormone therapy drugs so much cheaper in India and China than in the USA?",
+            "a": "<p>The same drug costs less mainly because patents have expired in India and China, and many local manufacturers make the generic version, which drives the price down. Government price controls, lower manufacturing costs, and cash-pay pricing add to the gap. In the USA, brand pricing, insurance middlemen, and pharmacy mark-ups keep list prices high even for older drugs. Actual prices vary by brand and pharmacy.</p>"
+          },
+          {
+            "q": "How much does tamoxifen or letrozole cost per month in India?",
+            "a": "<p>Common hormone tablets such as tamoxifen, letrozole, and anastrozole often cost a few hundred to about two thousand rupees a month in India, roughly 5 to 25 US dollars. The same drugs can cost several hundred dollars a month in the USA without insurance. Prices depend on the manufacturer, city, and pharmacy, so ask for a written quote before you plan around a figure.</p>"
+          },
+          {
+            "q": "What does abiraterone or enzalutamide cost in India and China compared with the USA?",
+            "a": "<p>Newer prostate hormone drugs show the widest gap. Generic abiraterone in India often costs a few hundred dollars for a month, and enzalutamide generics are also far below Western prices, while the branded versions in the USA can run several thousand dollars a month before insurance. China sits between the two, with several agents on the national reimbursement list. Figures move with exchange rates and supply.</p>"
+          },
+          {
+            "q": "Are the cheaper Indian and Chinese versions the same medicine?",
+            "a": "<p>In most cases yes, a generic contains the same active ingredient at the same dose as the branded drug. Quality depends on the manufacturer and the regulator overseeing it. Many Indian plants are inspected by the US FDA and supply Western markets, and China has tightened its bioequivalence rules. Ask your oncologist to confirm the specific manufacturer is acceptable before you switch brands.</p>"
+          },
+          {
+            "q": "Can I legally bring hormone therapy drugs back to my country?",
+            "a": "<p>Many countries allow you to carry a personal supply, often up to three months, with a valid prescription and the original packaging. Rules differ sharply by country and some medicines are restricted regardless of quantity. Customs officers can refuse entry. Check your own national health authority's personal import rules before you travel, and carry your prescription and doctor's letter with you.</p>"
+          },
+          {
+            "q": "Do I have to travel to India or China to get these prices?",
+            "a": "<p>Usually yes, because the low prices apply to medicines dispensed locally by licensed pharmacies to patients under the care of a local doctor. Some people combine a consultation, scans, and a drug supply into one trip. Online pharmacies that ship internationally sit in a legal grey area and carry real counterfeit risk, so treat unsolicited offers with caution.</p>"
+          },
+          {
+            "q": "What extra costs should I add on top of the drug price?",
+            "a": "<p>Budget for the consultation, baseline blood tests, bone density or cardiac checks, imaging, and repeat monitoring, plus flights, visa, and accommodation if you travel. Hormone therapy also runs for years, so the honest comparison is the total yearly cost, not one month of tablets. Hospital fees vary widely, so ask for an itemised written estimate covering both drugs and monitoring.</p>"
+          },
+          {
+            "q": "Will my insurance cover treatment bought abroad?",
+            "a": "<p>Most US insurers will not reimburse medicines bought overseas, and Medicare generally does not cover drugs purchased outside the country. Some employer plans and international policies have limited out-of-country benefits. Coverage depends on your specific policy wording, so get written confirmation from your insurer before you spend, rather than assuming a receipt will be honoured later.</p>"
+          },
+          {
+            "q": "How do I compare prices between hospitals without getting misled?",
+            "a": "<p>Ask every hospital for the same itemised list: drug name, manufacturer, strength, monthly quantity, consultation fee, and required tests. A quote that shows only the tablet price hides the monitoring cost. CancerFax can help you gather these written estimates from hospitals in India and China so the numbers sit side by side, though final pricing is set by each hospital and can change.</p>"
+          },
+          {
+            "q": "Is it safe to switch from my current brand to a cheaper generic?",
+            "a": "<p>For most hormone therapy drugs a switch is straightforward, since the active ingredient and dose are identical. Some patients notice differences they attribute to fillers or coatings, and a few drugs need closer blood monitoring after a change. Never stop or swap a hormone drug on your own. Your treating oncologist should approve the specific product and set the follow-up test schedule.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

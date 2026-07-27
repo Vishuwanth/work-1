@@ -1,0 +1,59 @@
+{
+  "pillar": "Nivolumab (Opdivo) for Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "nivolumab-opdivo-for-cancer-treatment",
+  "route": "/insights/nivolumab-opdivo-for-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is nivolumab (Opdivo) and how does it work?",
+            "a": "<p>Nivolumab, sold as Opdivo, is an immunotherapy that helps your own immune system attack cancer. It blocks PD-1, a checkpoint protein on T cells that many tumours use to switch off the immune response. With that brake released, T cells can find and kill cancer cells again. It is given as a drip into a vein, usually every two to four weeks, depending on the schedule your oncology team chooses.</p>"
+          },
+          {
+            "q": "Which cancers is nivolumab approved to treat?",
+            "a": "<p>Nivolumab is approved for several cancers, including melanoma, non-small cell lung cancer, kidney cancer, head and neck cancer, Hodgkin lymphoma, bladder cancer, liver cancer, stomach and oesophageal cancers, and mesothelioma. Approvals differ by country and by stage, and some uses are approved only in combination with other drugs. Whether it may suit you depends on your tumour type, previous treatment and test results, so your oncologist should confirm eligibility.</p>"
+          },
+          {
+            "q": "How much does nivolumab cost in India?",
+            "a": "<p>Nivolumab treatment in India often costs far less than in the United States or Europe, with per-vial prices commonly a fraction of Western list prices. Your total depends on dose, weight-based or fixed dosing, number of cycles, hospital charges and whether it is combined with chemotherapy. Prices change, and patient assistance programmes may be available. CancerFax can help you request current quotes from treating hospitals, though your oncology team decides what treatment you actually need.</p>"
+          },
+          {
+            "q": "What are the most common side effects of Opdivo?",
+            "a": "<p>Tiredness, skin rash, itching, diarrhoea, nausea, joint pain and cough are the side effects patients report most often. Because nivolumab activates the immune system, it can also cause immune-related inflammation in the thyroid, lungs, bowel, liver, skin or hormone glands. Most of these are manageable when caught early, which is why new symptoms should be reported the same day rather than at your next appointment.</p>"
+          },
+          {
+            "q": "How long will I need to stay on nivolumab?",
+            "a": "<p>Many patients receive nivolumab for up to two years if it keeps working and side effects stay manageable. Some stop earlier because the cancer progresses or immune side effects become serious, while others treated after surgery receive about one year. Scans every eight to twelve weeks usually guide the decision. Your oncologist may adjust this depending on how your disease responds and how well you tolerate the drug.</p>"
+          },
+          {
+            "q": "How will I know if nivolumab is working?",
+            "a": "<p>Response is judged mainly by CT or PET scans, usually every eight to twelve weeks, alongside how you feel and your blood test results. Immunotherapy can work slowly, and a tumour may look slightly larger before it shrinks, an effect called pseudoprogression, so a single scan rarely settles the question. Doctors often repeat imaging before changing treatment. Response rates vary widely by cancer type, stage and earlier treatment.</p>"
+          },
+          {
+            "q": "Is nivolumab better than chemotherapy?",
+            "a": "<p>For several cancers, nivolumab has produced longer survival and fewer severe side effects than chemotherapy in head-to-head trials, particularly in melanoma, kidney cancer and previously treated lung cancer. It is not better for everyone. Tumours with low PD-L1 expression or certain mutations may respond poorly, and some patients do best with chemotherapy and immunotherapy combined. The right comparison depends on your specific tumour, so this choice belongs with your oncology team.</p>"
+          },
+          {
+            "q": "Do I need a PD-L1 test before starting nivolumab?",
+            "a": "<p>Sometimes, but not always. PD-L1 testing is required for some lung and stomach cancer indications, while melanoma, kidney cancer and Hodgkin lymphoma usually do not need it. Other markers such as MSI-high status or mismatch repair deficiency can also predict benefit. A high PD-L1 score raises the chance of response but does not guarantee it, and a low score does not rule treatment out.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for nivolumab treatment?",
+            "a": "<p>Yes, in many cases. Nivolumab is approved and widely used in India, and China offers both imported Opdivo and locally approved PD-1 drugs, often at lower cost than Western countries. You will usually need a medical visa, your pathology slides, recent scans and a treatment summary. Hospitals review these records before confirming they can treat you, so acceptance and timelines depend on the individual case.</p>"
+          },
+          {
+            "q": "What happens if nivolumab stops working?",
+            "a": "<p>If scans show the cancer growing, your oncologist will usually change approach rather than continue nivolumab alone. Options may include chemotherapy, targeted therapy matched to a mutation, a different immunotherapy combination such as adding ipilimumab, local radiotherapy, or a clinical trial of newer agents. CancerFax can help you look for trials abroad, though enrolment always depends on the trial's own eligibility criteria and the view of your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

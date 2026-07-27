@@ -1,0 +1,59 @@
+{
+  "pillar": "Second-Line CAR-T for Early-Relapsed DLBCL: The ZUMA-7 Trial Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "second-line-car-t-for-early-relapsed-dlbcl",
+  "route": "/insights/second-line-car-t-for-early-relapsed-dlbcl",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the ZUMA-7 trial and why does it matter for me?",
+            "a": "<p>ZUMA-7 tested axicabtagene ciloleucel, a CAR T-cell therapy, as the second treatment for people whose diffuse large B-cell lymphoma came back within a year or never responded at all. It compared CAR-T directly against the older standard of salvage chemotherapy followed by a stem cell transplant. CAR-T performed better on nearly every measure, which is why many oncologists now consider it early rather than holding it in reserve.</p>"
+          },
+          {
+            "q": "Is CAR-T really better than a stem cell transplant if my lymphoma came back quickly?",
+            "a": "<p>For early relapse, the trial results favour CAR-T. Half the CAR-T group were still free of treatment failure at about eight months, against two months for salvage chemotherapy and transplant. At two years, roughly 41 percent of CAR-T patients remained event-free compared with 16 percent. Only about a third of the chemotherapy group responded well enough to reach transplant at all. Individual results can still vary.</p>"
+          },
+          {
+            "q": "What counts as early relapse in DLBCL?",
+            "a": "<p>Early relapse usually means your lymphoma returned within 12 months of finishing first-line chemoimmunotherapy such as R-CHOP, or never fully responded to it. This group has historically done poorly with salvage chemotherapy, which is exactly why ZUMA-7 studied them. If your disease returned more than a year later, the salvage-and-transplant path may still be reasonable, so ask your haematologist which category your case falls into.</p>"
+          },
+          {
+            "q": "Did people actually live longer with CAR-T, or just stay in remission longer?",
+            "a": "<p>They lived longer. With around five years of follow-up, median overall survival had not been reached in the CAR-T group, compared with roughly 31 months for salvage chemotherapy and transplant. About 55 percent of CAR-T patients were alive at four years versus 46 percent. That survival gain held even though many patients in the chemotherapy arm later crossed over and received CAR-T themselves.</p>"
+          },
+          {
+            "q": "Will I still need chemotherapy before the CAR-T cells are given?",
+            "a": "<p>You will receive a short course of lymphodepleting chemotherapy, usually fludarabine and cyclophosphamide, in the few days before infusion. In ZUMA-7 itself, no bridging chemotherapy was permitted while the cells were being manufactured, only corticosteroids. Everyday practice is more flexible, and many centres now give bridging treatment when disease is growing fast. Your team decides based on how quickly your lymphoma is moving.</p>"
+          },
+          {
+            "q": "What side effects should I expect from axi-cel?",
+            "a": "<p>The two main risks are cytokine release syndrome and neurological effects. In ZUMA-7, cytokine release syndrome occurred in most patients but was severe in only about 6 percent, while serious neurological problems such as confusion, tremor or difficulty speaking affected roughly 21 percent. Both are usually reversible with tocilizumab and steroids. Low blood counts and infection risk can linger for months, so monitoring continues well after discharge.</p>"
+          },
+          {
+            "q": "Am I too old for second-line CAR-T?",
+            "a": "<p>Age by itself is rarely the deciding factor. ZUMA-7 enrolled patients up to 80, and the advantage over transplant held in those over 65, a group often judged too frail for high-dose salvage chemotherapy. Organ function, performance status and infection control matter more than the number. Many older patients tolerate CAR-T better than a transplant, but eligibility depends on a full assessment by the treating team.</p>"
+          },
+          {
+            "q": "What happens if the CAR-T does not work?",
+            "a": "<p>Options remain, though they narrow. Bispecific antibodies such as glofitamab or epcoritamab, antibody-drug conjugates like polatuzumab vedotin, lenalidomide-based combinations, or a clinical trial are all considered after CAR-T fails. Some patients still go on to an allogeneic transplant. The best next step depends on how fast the disease returned and how well you recovered from the infusion, so a specialist lymphoma opinion often helps.</p>"
+          },
+          {
+            "q": "Can I get second-line CAR-T in India or China?",
+            "a": "<p>Both countries offer CAR-T for relapsed DLBCL, but access varies. India has approved locally made CD19 products and several centres now treat this disease, while China has multiple licensed products and a large trial network. Approval for second-line use may differ from later-line use, and waiting lists can be long. CancerFax can help check which centres are currently accepting international patients, alongside your own oncologist's advice.</p>"
+          },
+          {
+            "q": "How much does it cost and how long will I need to stay?",
+            "a": "<p>Costs differ sharply by country and product. Indian CAR-T is often quoted well below Western pricing, and Chinese trial places may reduce it further, but hospital stay, lymphodepletion and managing complications add to the total. From cell collection to infusion usually takes three to four weeks, with about another month staying nearby for monitoring. CancerFax can help gather current quotes, though final pricing depends on the treating hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

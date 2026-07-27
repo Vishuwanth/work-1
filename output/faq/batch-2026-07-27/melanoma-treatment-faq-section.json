@@ -1,0 +1,59 @@
+{
+  "pillar": "Melanoma Treatment: Stages, Options, and Outcomes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "melanoma-treatment",
+  "route": "/insights/melanoma-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How is melanoma treated?",
+            "a": "<p>Surgery to remove the tumour is the main treatment for most melanomas, and for early-stage disease it is often the only treatment needed. What happens next depends on stage: thicker tumours may need a sentinel lymph node biopsy, while stage III and IV melanoma is usually treated with immunotherapy or targeted drugs. Radiation may be added for specific sites. Your oncology team sets the exact plan from your pathology report.</p>"
+          },
+          {
+            "q": "What do the stages of melanoma mean?",
+            "a": "<p>Melanoma is staged 0 to IV based on how deep the tumour has grown, whether it has ulcerated, and how far it has spread. Stage 0 sits in the top skin layer only. Stages I and II are confined to the skin. Stage III means it has reached nearby lymph nodes. Stage IV means it has spread to distant organs such as lung, liver, or brain. Stage drives treatment and outlook.</p>"
+          },
+          {
+            "q": "Can stage 4 melanoma be cured?",
+            "a": "<p>Stage IV melanoma can sometimes be pushed into long-term remission, and a minority of patients stay disease-free for years, but a cure cannot be promised. Modern immunotherapy has changed the picture: combination checkpoint drugs help a meaningful share of patients live five years or more. Response depends on tumour burden, BRAF status, and general health. Your oncologist can estimate what is realistic in your specific case.</p>"
+          },
+          {
+            "q": "What is immunotherapy for melanoma and how well does it work?",
+            "a": "<p>Immunotherapy uses checkpoint inhibitor drugs, such as pembrolizumab, nivolumab, and ipilimumab, to release the brakes on your own immune cells so they attack melanoma. It is the standard first treatment for advanced disease. Roughly half of patients on combination therapy respond, and many of those responses last for years. Side effects come from immune overactivity and can affect the thyroid, bowel, skin, or liver, so monitoring matters.</p>"
+          },
+          {
+            "q": "Do I need a BRAF test, and what does it change?",
+            "a": "<p>Yes, anyone with stage III or IV melanoma should have BRAF mutation testing, because it opens a second treatment route. About 40 to 50 percent of melanomas carry a BRAF V600 mutation. These patients may be offered targeted tablet combinations such as dabrafenib with trametinib, which often shrink tumours within weeks. The test is done on your existing biopsy tissue, so a new procedure is usually not needed.</p>"
+          },
+          {
+            "q": "What is a sentinel lymph node biopsy and do I need one?",
+            "a": "<p>A sentinel lymph node biopsy checks the first lymph node your melanoma would drain into, to see whether cancer cells have started to spread. It is usually offered when the tumour is thicker than 0.8 mm or is ulcerated. The result changes your stage and decides whether you are offered drug treatment after surgery. It is often done at the same time as the wide local excision, under one anaesthetic.</p>"
+          },
+          {
+            "q": "What are the survival rates for melanoma by stage?",
+            "a": "<p>Five-year survival is above 95 percent for stage I melanoma, around 65 to 85 percent for stage II, roughly 50 to 80 percent for stage III, and about 35 percent for stage IV with modern drugs. These are averages from large groups, not predictions for one person. Ulceration, tumour thickness, and how well you respond to immunotherapy can shift your outlook above or below the published figure.</p>"
+          },
+          {
+            "q": "How much does melanoma treatment cost in India compared with Western countries?",
+            "a": "<p>Melanoma treatment in India often costs 60 to 80 percent less than in the United States or Europe, with surgery packages commonly starting near USD 3,000 and immunotherapy priced per cycle. Actual cost depends on stage, how many drug cycles you need, diagnostics, and hospital choice. CancerFax can help you compare written estimates from accredited centres, though your treating oncology team must confirm what your case actually requires.</p>"
+          },
+          {
+            "q": "Should I travel abroad for melanoma treatment?",
+            "a": "<p>Travelling abroad for melanoma treatment can make sense when the immunotherapy you need is unfunded or unavailable at home, but it depends on whether you are medically fit to fly and whether follow-up can continue near you. Immunotherapy often runs for months, so plan for repeat visits or shared care. CancerFax can arrange a written second opinion before you book, and your current oncologist should approve any travel.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial if standard treatment stops working?",
+            "a": "<p>Often yes. Melanoma has one of the most active trial pipelines in oncology, including TIL cell therapy, next-generation checkpoint drug combinations, and cancer vaccines. Eligibility usually depends on prior treatments, organ function, and how well you can move around day to day. Ask your oncologist for a referral early, because some trials exclude patients who have already had several lines of therapy. Enrolment is never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

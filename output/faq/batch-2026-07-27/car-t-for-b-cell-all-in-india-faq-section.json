@@ -1,0 +1,59 @@
+{
+  "pillar": "CAR-T for B-Cell ALL in India: Paediatric and Adult Programmes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-for-b-cell-all-in-india",
+  "route": "/insights/car-t-for-b-cell-all-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is CAR-T therapy actually available in India for B-cell ALL?",
+            "a": "<p>Yes. CAR-T therapy for B-cell acute lymphoblastic leukaemia is available in India, both as an approved Indian product and through hospital trials. NexCAR19, developed by IIT Bombay and ImmunoACT, cleared Indian regulatory approval in 2023 and is now given at large centres in Mumbai, Delhi, Chennai, Bengaluru and Vellore.</p><p>Whether you qualify depends on your age, disease status and prior treatment, so a transplant or CAR-T centre must review your records first.</p>"
+          },
+          {
+            "q": "How much does CAR-T therapy for B-cell ALL cost in India?",
+            "a": "<p>CAR-T therapy for B-cell ALL in India typically costs between ₹30 lakh and ₹45 lakh for the Indian-made product, against roughly USD 400,000 or more in the United States. That figure usually covers cell collection, manufacturing and the infusion, but not the hospital stay for side effects, which can add substantially.</p><p>Quoted prices change often and vary by centre, so ask for a written estimate that lists what is excluded.</p>"
+          },
+          {
+            "q": "Can my child get CAR-T, and at what age do Indian centres accept children?",
+            "a": "<p>Children and young adults with B-cell ALL are usually considered for CAR-T after the disease has relapsed twice, returned after a stem cell transplant, or failed to clear with standard chemotherapy. Most Indian paediatric programmes treat patients from about two years of age upward, provided the child has enough healthy T-cells to collect and no uncontrolled infection.</p><p>Each centre sets its own age and weight limits, so eligibility must be confirmed case by case.</p>"
+          },
+          {
+            "q": "What are the chances CAR-T puts B-cell ALL into remission?",
+            "a": "<p>In published Indian and international data, roughly 60 to 90 percent of patients with relapsed B-cell ALL reach complete remission within a month of CAR-T infusion, with children generally at the higher end. Long-term results are less certain: a substantial share relapse within a year, and some need a stem cell transplant afterwards to hold the response.</p><p>Your own odds depend on disease burden, prior treatments and genetics, so ask your haematologist for individual figures.</p>"
+          },
+          {
+            "q": "How long does the whole CAR-T process take from start to finish?",
+            "a": "<p>The full CAR-T process usually takes six to ten weeks from first consultation to discharge. Blood cells are collected over a few hours, sent for manufacturing that takes about two to four weeks in India, and returned for infusion after a short course of chemotherapy. Patients then stay near the hospital for two to four weeks of monitoring.</p><p>Delays in manufacturing or infection can extend this timeline, so plan for longer.</p>"
+          },
+          {
+            "q": "What side effects should we be prepared for after the infusion?",
+            "a": "<p>The two main side effects are cytokine release syndrome and neurological toxicity. Cytokine release syndrome brings high fever, low blood pressure and breathlessness in the first week or two, and neurological effects can cause confusion, tremor or difficulty speaking. Both are usually reversible when treated early with tocilizumab and steroids in an intensive care setting.</p><p>Low blood counts and infections can persist for months, so close follow-up remains important after discharge.</p>"
+          },
+          {
+            "q": "Can we travel to India from another country for CAR-T therapy?",
+            "a": "<p>Yes, international patients can receive CAR-T therapy in India, and centres in Mumbai, Delhi and Bengaluru regularly treat families from Bangladesh, Nepal, Africa and the Middle East. You will need a medical visa, a caregiver who can stay for the full treatment period, and accommodation near the hospital for at least a month after infusion.</p><p>CancerFax can help send your reports to Indian CAR-T centres, though acceptance always rests with the treating team.</p>"
+          },
+          {
+            "q": "Do adults with B-cell ALL get CAR-T in India, or is it only for children?",
+            "a": "<p>Adults with relapsed or refractory B-cell ALL are treated in India too, though results are generally less durable than in children. Indian centres have infused NexCAR19 in adults up to their sixties, and international products such as brexucabtagene autoleucel are approved abroad for adults. Fitness of the heart, kidneys and liver matters more with age.</p><p>Whether an adult programme will accept you depends on organ function and disease burden at assessment.</p>"
+          },
+          {
+            "q": "Should we choose CAR-T or a stem cell transplant?",
+            "a": "<p>CAR-T and stem cell transplant are not straight alternatives; many patients need both. CAR-T uses your own T-cells, needs no donor match, and avoids graft-versus-host disease, which makes it useful when no donor is available or the leukaemia is active. Transplant still offers the more established long-term cure rate for many patients with B-cell ALL.</p><p>Which comes first, or whether transplant follows CAR-T, is a decision your haematologist makes case by case.</p>"
+          },
+          {
+            "q": "What reports do we need before an Indian CAR-T centre will review our case?",
+            "a": "<p>Start by gathering the bone marrow biopsy report, flow cytometry showing CD19 positivity, recent blood counts, a full treatment history and any transplant records. CAR-T centres use these to judge whether your T-cells are likely to be collectable and whether the leukaemia is controlled enough to proceed.</p><p>CancerFax can forward this file to Indian paediatric and adult CAR-T programmes, but the decision to accept rests with the treating oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

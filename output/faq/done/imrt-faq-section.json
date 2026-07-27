@@ -1,0 +1,59 @@
+{
+  "pillar": "IMRT: Intensity-Modulated Radiation Therapy — Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "imrt",
+  "route": "/treatments/imrt",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is IMRT, and how is it different from ordinary radiation therapy?",
+            "a": "<p>IMRT shapes the radiation dose to match the tumour, adjusting the strength across hundreds of tiny beam segments so nearby healthy tissue receives much less. Conventional radiation uses uniform beams of a single intensity. That difference matters most when a tumour sits close to the spinal cord, salivary glands, bowel or optic nerves. Your radiation oncologist decides whether the added precision is likely to change your result.</p>"
+          },
+          {
+            "q": "How many IMRT sessions will I need, and how long is each one?",
+            "a": "<p>Most IMRT courses run five days a week for four to eight weeks, so roughly 20 to 40 sessions in total. Each visit takes about 15 to 30 minutes, and most of that time is spent positioning you exactly as you were during planning. The beam itself is usually on for only a few minutes. Your final number depends on the cancer type, stage and the total dose planned.</p>"
+          },
+          {
+            "q": "Does IMRT hurt?",
+            "a": "<p>No, IMRT itself is painless. You feel nothing while the beam is on, much like having an X-ray taken. The machine moves around you and makes clicking and whirring sounds, but it never touches you. Discomfort, when it comes, usually appears after two or three weeks as the treated skin and tissue react. Tell your team early about any soreness, because it is easier to control before it worsens.</p>"
+          },
+          {
+            "q": "What side effects should I expect from IMRT?",
+            "a": "<p>Expect tiredness and skin changes over the treated area, plus symptoms specific to the region being treated. Head and neck treatment can cause dry mouth and painful swallowing, pelvic treatment can cause bowel or bladder urgency, and chest treatment can cause a dry cough. Most effects build slowly and settle within a few weeks of finishing. A few, such as reduced saliva, may last longer or become permanent.</p>"
+          },
+          {
+            "q": "Which cancers is IMRT most often used for?",
+            "a": "<p>IMRT is used most often for prostate, head and neck, brain, lung, breast, gynaecological and anal cancers, and for tumours sitting near the spine. It is usually chosen when the target has an awkward shape or lies close to organs that tolerate radiation poorly. It can also help when an area has been irradiated before. Suitability depends on tumour position, past treatment and what your centre's planning system can deliver.</p>"
+          },
+          {
+            "q": "Is IMRT better than proton therapy or SBRT for my cancer?",
+            "a": "<p>Not better or worse, simply different. Proton therapy can spare tissue beyond the tumour more completely, which often matters most for children and for tumours near the brainstem or spinal cord. SBRT delivers very high doses in one to five sessions for small, well-defined tumours. IMRT remains the workhorse for larger or irregular targets. Your oncologist weighs tumour size, location and your age, and local availability may also shape the choice.</p>"
+          },
+          {
+            "q": "How much does a full course of IMRT cost in India or China?",
+            "a": "<p>A complete IMRT course in India often costs roughly USD 3,000 to 6,000, and somewhat more in China, though quotes vary widely by hospital, city and the number of sessions planned. Planning scans, consultations and accommodation are usually billed separately.</p><p>Ask for a written estimate covering the whole course before you travel. CancerFax can help you compare quotes from accredited centres, but final pricing always comes from the treating hospital.</p>"
+          },
+          {
+            "q": "Can I keep working and driving while I am having IMRT?",
+            "a": "<p>Many people continue working through IMRT, especially in the first two or three weeks, and driving is usually fine because the treatment does not sedate you. Fatigue tends to build in the second half of the course, so lighter duties or shorter hours often help later on. You are not radioactive after external beam treatment, so you are safe around children and pregnant family members.</p>"
+          },
+          {
+            "q": "Will IMRT damage my healthy organs?",
+            "a": "<p>Some healthy tissue always receives a dose, but IMRT is planned to keep that dose below the limit each organ can tolerate, and a medical physicist checks the plan against those limits before your first session. Serious long-term injury is uncommon. Remaining risks can include dry mouth, bowel sensitivity, infertility when the pelvis is treated, and a very small chance of a second cancer years later.</p>"
+          },
+          {
+            "q": "How do I arrange IMRT at a hospital abroad?",
+            "a": "<p>Start by sending your diagnosis, pathology report and recent scans to the centre you are considering, so its radiation oncologists can confirm IMRT is appropriate before you book travel. Ask about waiting time, total sessions, and what happens if the plan changes mid-course.</p><p>CancerFax can pass your records to accredited hospitals in India and China for review. Acceptance, timing and visa approval are never guaranteed and depend on each hospital's assessment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Cytoreductive Surgery & HIPEC: A Complete Patient Guide to CRS and Hyperthermic Intraperitoneal Chemotherapy",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cytoreductive-surgery-hipec",
+  "route": "/treatments/cytoreductive-surgery-hipec",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cytoreductive surgery with HIPEC?",
+            "a": "<p>Cytoreductive surgery with HIPEC is a two-part operation that removes visible tumour from the lining of the abdomen, then washes the abdomen with heated chemotherapy. The surgeon first strips out every deposit they can see, sometimes removing parts of the bowel, spleen or peritoneum. Heated drug, usually around 41 to 43 degrees Celsius, is then circulated inside for 30 to 90 minutes to kill microscopic cells left behind.</p>"
+          },
+          {
+            "q": "Which cancers is CRS and HIPEC used for?",
+            "a": "<p>HIPEC is used mainly for cancers that have spread across the lining of the abdomen rather than through the bloodstream. The most common are pseudomyxoma peritonei from appendix tumours, peritoneal mesothelioma, colorectal cancer with peritoneal spread, ovarian cancer, and selected gastric cancers. Whether it suits your specific diagnosis depends on the tumour type, how far the disease has spread, and your surgical team's assessment.</p>"
+          },
+          {
+            "q": "Am I eligible for this surgery?",
+            "a": "<p>You may be a candidate if your cancer is confined to the abdominal cavity and the surgeon believes they can remove all visible disease. Teams look at your fitness for a long operation, your PCI score, and whether the cancer has reached the liver, lungs or distant lymph nodes. Eligibility is decided case by case after scans and often a diagnostic laparoscopy, so it cannot be promised in advance.</p>"
+          },
+          {
+            "q": "What is the PCI score and why does my surgeon keep mentioning it?",
+            "a": "<p>The Peritoneal Cancer Index, or PCI, scores how much tumour is spread across your abdomen on a scale of 0 to 39. Surgeons divide the abdomen into 13 regions and grade the size of the deposits in each one. A lower score usually means a better chance of removing everything and often predicts longer survival. Useful thresholds vary by cancer type, so your surgeon will interpret it for your case.</p>"
+          },
+          {
+            "q": "How long does the operation take and how long will I be in hospital?",
+            "a": "<p>Expect 8 to 12 hours in theatre, sometimes longer when several organs are involved. The cytoreduction itself takes most of that time, and the heated chemotherapy wash adds another 60 to 120 minutes. Most patients spend one to three days in intensive care and 10 to 14 days in hospital overall. Recovery at home commonly takes a further two to three months, depending on your age and fitness.</p>"
+          },
+          {
+            "q": "How risky is CRS with HIPEC?",
+            "a": "<p>Serious complications occur in roughly 20 to 40 percent of patients, which is why this operation is offered only in specialist centres. The main risks are leaks where the bowel is rejoined, infection, bleeding, blood clots, kidney strain from the chemotherapy, and low blood counts. Death within 30 days is generally under 3 percent in high-volume units. Your surgeon can give figures specific to your disease and fitness.</p>"
+          },
+          {
+            "q": "Can this treatment actually cure my cancer?",
+            "a": "<p>For some cancers it can be curative, but that depends heavily on the tumour type and on how completely the disease is removed. Patients with pseudomyxoma peritonei from a low-grade appendix tumour often live many years, and some are considered cured. For colorectal or gastric spread, the realistic goal is more often long-term control. Complete removal of visible disease remains the single strongest predictor of a good outcome.</p>"
+          },
+          {
+            "q": "How is HIPEC different from the chemotherapy I already had through a drip?",
+            "a": "<p>HIPEC puts chemotherapy directly into the abdomen, so the drug reaches the tumour lining at concentrations many times higher than a drip can achieve, while much less spreads through the rest of the body. Heat also helps some drugs penetrate tissue better. It does not replace systemic chemotherapy, which still treats disease travelling in the bloodstream. Most plans use both, in an order your oncologist decides.</p>"
+          },
+          {
+            "q": "What does CRS and HIPEC cost in India or China?",
+            "a": "<p>In India, CRS with HIPEC commonly costs between USD 12,000 and 25,000, covering the surgery, intensive care and the hospital stay. Chinese centres are broadly similar or somewhat higher. Prices shift with the number of organs removed, any complications, and how long you stay. CancerFax can help you compare quotes from accredited peritoneal surgery units, though the final figure always comes from the hospital after they review your records.</p>"
+          },
+          {
+            "q": "How do I choose a hospital for this operation abroad?",
+            "a": "<p>Choose a centre that performs these operations regularly, because outcomes improve sharply with surgical volume. Ask how many cases the team does each year, what share achieve complete cytoreduction, and what their complication rates are. Send recent CT or PET scans and pathology slides for review before you travel. CancerFax can arrange written opinions from peritoneal surgery teams in India and China, but your own oncologist should stay involved throughout.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Gamma Knife Radiosurgery: Brain and Skull Base Tumour Treatment Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gamma-knife",
+  "route": "/treatments/gamma-knife",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Gamma Knife radiosurgery, and is it really surgery?",
+            "a": "<p>Gamma Knife radiosurgery is not surgery at all: no incision is made and the skull is never opened. It uses around 192 finely focused cobalt-60 gamma beams that meet at the tumour, delivering a high radiation dose at that point while surrounding brain tissue receives very little. Most people go home the same day. Your neurosurgeon and radiation oncologist decide together whether it suits your tumour.</p>"
+          },
+          {
+            "q": "Which brain tumours can Gamma Knife actually treat?",
+            "a": "<p>Gamma Knife treats small, well-defined targets inside the head, usually under 3 cm across. Common ones include brain metastases, acoustic neuromas, meningiomas, pituitary adenomas, and skull base tumours sitting close to nerves that surgery struggles to reach safely. It also treats arteriovenous malformations and trigeminal neuralgia. Large or infiltrating tumours such as most high-grade gliomas often need surgery or standard radiotherapy instead. Suitability depends on your scans.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long does each one take?",
+            "a": "<p>Most people need only one session. The treatment day usually runs four to six hours from frame placement to discharge, though the beam-on time itself is often 20 to 60 minutes, depending on how many targets you have and their size. Some centres split treatment into three to five smaller sessions when a tumour is larger or sits against the optic nerve. Your team confirms the plan after imaging.</p>"
+          },
+          {
+            "q": "Does the head frame hurt?",
+            "a": "<p>The head frame is fitted under local anaesthetic, so you feel pressure rather than sharp pain. Four pins hold it steady against the skull. Most patients describe brief stinging as the anaesthetic goes in, then a tight, heavy feeling for the rest of the day. Mild headache afterwards is common and usually settles with simple painkillers. Some centres now use a moulded mask instead of pins for staged treatments.</p>"
+          },
+          {
+            "q": "What are the side effects of Gamma Knife?",
+            "a": "<p>Most side effects are mild and short-lived: tiredness for a week or two, headache, mild nausea, and soreness at the pin sites. Hair loss is uncommon because the beams enter from many directions. Weeks to months later, some people develop swelling around the treated area, which steroids usually control. Radiation necrosis, where treated tissue breaks down, affects a minority and may need further treatment. Risk depends on dose, target size, and location.</p>"
+          },
+          {
+            "q": "How effective is Gamma Knife for brain metastases?",
+            "a": "<p>Local control rates of roughly 80 to 90 percent at one year are commonly reported for small brain metastases, meaning the treated spot stops growing or shrinks. It does not stop new metastases appearing elsewhere in the brain, so follow-up MRI every two to three months is standard. Results vary with tumour type, size, and how well the cancer outside the brain is controlled. Your oncologist can give figures for your situation.</p>"
+          },
+          {
+            "q": "How much does Gamma Knife cost in India or China?",
+            "a": "<p>Gamma Knife in India typically costs about USD 4,000 to 8,000 for a single session, and Chinese centres often sit in a similar range, against USD 30,000 or more in the United States. Quotes usually cover planning MRI, frame placement, treatment, and a short stay, but rarely travel or follow-up scans. CancerFax can collect itemised written estimates from several centres, though final pricing always comes from the hospital.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for Gamma Knife treatment?",
+            "a": "<p>Yes, many international patients do, and both countries admit foreign patients on a medical visa. You will usually send recent MRI scans and reports ahead so the centre can confirm the tumour is suitable and quote a plan before you fly. Expect to stay roughly seven to ten days. CancerFax can pass your scans to treating centres for an opinion, but the decision to treat rests with the neurosurgical team.</p>"
+          },
+          {
+            "q": "Is Gamma Knife better than CyberKnife or ordinary radiotherapy?",
+            "a": "<p>Neither device is universally better; they suit different jobs. Gamma Knife is built only for targets inside the head and is extremely precise there, typically within half a millimetre. CyberKnife is a robotic system that can also treat the spine, lung, and other sites, and works with a mask rather than pins. Conventional radiotherapy spreads dose over many sessions and covers wider areas. The right choice depends on tumour size, location, and number.</p>"
+          },
+          {
+            "q": "Will the tumour disappear straight after treatment?",
+            "a": "<p>No, and that is expected. Gamma Knife stops tumour cells dividing rather than removing the mass, so shrinkage happens slowly over months, and some tumours simply stay the same size permanently, which still counts as success. Your first follow-up MRI is usually around three months, then at regular intervals. A temporary increase in size on early scans can reflect swelling rather than growth, so scans are read alongside your symptoms.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

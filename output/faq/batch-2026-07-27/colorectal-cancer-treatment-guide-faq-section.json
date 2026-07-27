@@ -1,0 +1,59 @@
+{
+  "pillar": "Colorectal Cancer Treatment Guide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "colorectal-cancer-treatment-guide",
+  "route": "/guides/colorectal-cancer-treatment-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the best treatment for colorectal cancer?",
+            "a": "<p>Surgery to remove the tumour is the main treatment for most colorectal cancers, often combined with chemotherapy, radiation, or targeted drugs. The right mix depends on where the tumour sits, how far it has spread, and what your biomarker tests show. Early-stage disease may need surgery alone, while advanced disease usually needs drug therapy as well. Your oncology team will confirm the plan after staging scans and pathology.</p>"
+          },
+          {
+            "q": "Can colorectal cancer be cured?",
+            "a": "<p>Colorectal cancer can often be cured when it is found before it spreads beyond the bowel wall and nearby lymph nodes. Five-year survival is above 90 percent for stage 1 disease and falls as the stage rises. Even stage 4 cancer that has spread only to the liver or lungs may sometimes be treated with the aim of cure. Your own outlook depends on stage, tumour biology, and response.</p>"
+          },
+          {
+            "q": "How much does colorectal cancer treatment cost in India?",
+            "a": "<p>Colorectal cancer surgery in India commonly costs about USD 5,000 to 8,000, with each chemotherapy cycle adding roughly USD 400 to 1,000 and targeted drugs costing more. Robotic rectal surgery sits at the higher end of that range. These are typical figures, not quotes, and can change with the hospital, city, stage, and length of stay. A written estimate from the treating hospital is the only reliable number.</p>"
+          },
+          {
+            "q": "Do I need chemotherapy after surgery for colon cancer?",
+            "a": "<p>Chemotherapy after surgery is usually advised for stage 3 colon cancer, and for stage 2 disease with high-risk features such as a blocked or perforated bowel or too few lymph nodes examined. Stage 1 disease rarely needs it. Treatment often runs three to six months. Your pathology report and MSI status help decide, so ask your oncologist what your specific report shows before agreeing to a plan.</p>"
+          },
+          {
+            "q": "Will I need a permanent colostomy bag?",
+            "a": "<p>Most people with colorectal cancer do not need a permanent stoma. Colon surgery usually rejoins the bowel in the same operation. For rectal cancer, surgeons often create a temporary ileostomy that is closed after a few months, and a permanent colostomy is mainly needed when the tumour sits very close to the anal sphincter. Ask your surgeon before the operation which outcome is likely in your case.</p>"
+          },
+          {
+            "q": "Is rectal cancer treated differently from colon cancer?",
+            "a": "<p>Yes. Rectal cancer often starts with chemotherapy and radiation before surgery, because the rectum sits in a tight pelvic space where shrinking the tumour first improves the chance of clear margins. Colon cancer is usually operated on first, with chemotherapy afterwards if it is needed.</p><p>Some rectal tumours respond so completely that surgery may be delayed and the area watched closely instead. A pelvic MRI guides which path suits you.</p>"
+          },
+          {
+            "q": "Does immunotherapy work for colorectal cancer?",
+            "a": "<p>Immunotherapy works well for the roughly 5 percent of advanced colorectal cancers that are MSI-high or mismatch repair deficient, where drugs such as pembrolizumab can give long-lasting control. For the much larger group with MSS tumours, immunotherapy alone rarely helps and is mostly studied inside clinical trials. Testing your tumour for MSI or MMR status is the only way to know which group you fall into.</p>"
+          },
+          {
+            "q": "Which tests should I get before starting treatment?",
+            "a": "<p>Before treatment you generally need a colonoscopy with biopsy, a CT scan of the chest, abdomen and pelvis, a CEA blood test, and for rectal tumours a pelvic MRI. The biopsy tissue should also be tested for RAS, BRAF, MSI or MMR, and HER2, since these results decide which targeted drugs may help. CancerFax can help you organise these reports for review by an oncology team abroad.</p>"
+          },
+          {
+            "q": "My cancer has spread to my liver. Is treatment still worth it?",
+            "a": "<p>Yes. Colorectal cancer that has spread to the liver is often still treatable, and in selected patients the liver deposits can be removed or ablated with the aim of long-term remission. Chemotherapy with targeted drugs is frequently given first to shrink them. Roughly one in five people with liver-only spread may become candidates for surgery, so a liver surgeon should review your scans before anyone calls it inoperable.</p>"
+          },
+          {
+            "q": "How quickly do I need to start treatment?",
+            "a": "<p>Most colorectal cancers grow slowly enough that taking two to four weeks to finish staging and get a second opinion does not usually harm the outcome. Urgent surgery is needed if the bowel is blocked, perforated, or bleeding heavily. Using that short window to confirm the stage and biomarkers often improves the plan. CancerFax can help arrange a second opinion while your local workup continues.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Questions to Ask Before HIFU Treatment: A Complete Patient Checklist",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-before-hifu-treatment",
+  "route": "/insights/questions-before-hifu-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What should I ask my doctor before agreeing to HIFU treatment?",
+            "a": "<p>Ask five things first: whether your cancer is confined to the area HIFU can reach, how many HIFU cases your doctor has personally done, whether you are being offered whole-gland or focal treatment, what happens if cancer comes back, and what the total cost covers. Write the answers down. A specialist who welcomes these questions is usually the one worth trusting with the procedure.</p>"
+          },
+          {
+            "q": "How do I know if I am actually a suitable candidate for HIFU?",
+            "a": "<p>Suitability usually depends on tumour location, grade, prostate size, and whether imaging shows the disease is still localised. HIFU works best when the target area is visible on MRI and reachable by the ultrasound beam. Large glands, calcification, or cancer close to the rectal wall can rule it out. Only your treating oncology team can confirm eligibility after reviewing your scans, biopsy, and PSA history.</p>"
+          },
+          {
+            "q": "How many HIFU procedures has my doctor done, and does that number matter?",
+            "a": "<p>Yes, operator experience matters a great deal in HIFU because the doctor manually plans and monitors where the energy is delivered. Ask for the number of cases performed, not the number the hospital claims. Ask how many were the same type as yours, and what their recurrence and complication rates look like. Centres that track their own outcomes honestly are generally a safer choice than those that do not.</p>"
+          },
+          {
+            "q": "Should I ask for focal HIFU or whole-gland HIFU?",
+            "a": "<p>Focal HIFU treats only the tumour and a margin around it, while whole-gland HIFU treats the entire prostate. Focal treatment usually preserves more urinary and sexual function but carries a higher chance of cancer remaining elsewhere in the gland. Whole-gland treatment is more thorough but has more side effects. Which one suits you depends on how many tumour sites your biopsy and MRI found.</p>"
+          },
+          {
+            "q": "What side effects should I ask about before saying yes?",
+            "a": "<p>Ask specifically about urinary retention, urine leakage, erection problems, urinary infection, and the rare risk of a fistula between the rectum and urinary tract. Ask how long a catheter stays in and how many weeks recovery usually takes. Rates vary by centre and by whether treatment is focal or whole-gland, so ask for that doctor's own figures rather than published averages.</p>"
+          },
+          {
+            "q": "What happens if my cancer comes back after HIFU?",
+            "a": "<p>Ask this before treatment, not after. HIFU can usually be repeated, and surgery or radiotherapy often remains possible afterwards, though scarring from HIFU can make later surgery more difficult. Find out which follow-up options that specific centre offers and whether they would still treat you or refer you elsewhere. A clear salvage plan is a sign of a well-run programme.</p>"
+          },
+          {
+            "q": "How will my doctor check whether the HIFU actually worked?",
+            "a": "<p>Follow-up normally combines PSA blood tests, an MRI scan at around six to twelve months, and in many cases a repeat biopsy of the treated area. Ask exactly which tests you will have, how often, and what PSA level would prompt further action. Vague follow-up plans are a warning sign, because HIFU success is judged over years rather than at discharge.</p>"
+          },
+          {
+            "q": "How much does HIFU cost, and what is not included in the quote?",
+            "a": "<p>Ask for a written breakdown rather than a single figure. Quotes often exclude pre-treatment MRI and biopsy, anaesthesia, hospital stay, catheter care, follow-up scans, and any repeat procedure. If you are travelling abroad, ask whether travel, accommodation, and translation are separate. Final costs depend on the hospital, the protocol used, and how long you stay, so treat any early estimate as a range.</p>"
+          },
+          {
+            "q": "What questions should I ask if I am travelling abroad for HIFU?",
+            "a": "<p>Ask who reviews your scans before you fly, how long you must stay after the procedure, who manages complications once you return home, and how your local doctor will receive your records. Also confirm visa timelines and whether the quoted price is guaranteed. Nothing about hospital acceptance or visa approval can be promised in advance, so build extra time into your plans.</p>"
+          },
+          {
+            "q": "Can someone help me organise all of this before I decide?",
+            "a": "<p>Yes, a second opinion and organised records make these conversations far easier. Gather your MRI images, biopsy report, PSA history, and current medication list in one place before any consultation. CancerFax can help patients organise medical reports, identify relevant specialists, estimate costs, and coordinate travel and follow-up support alongside the treating oncology team, which continues to make the final treatment decisions.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

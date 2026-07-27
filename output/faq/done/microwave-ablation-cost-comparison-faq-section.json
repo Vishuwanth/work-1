@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation Cost: China vs India vs Western Countries",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-cost-comparison",
+  "route": "/insights/microwave-ablation-cost-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does microwave ablation cost in India and China compared with the US or UK?",
+            "a": "<p>Microwave ablation typically costs around $2,000 to $4,000 in India and $3,000 to $6,000 in China, against roughly $15,000 to $25,000 in the United States and £8,000 to £15,000 privately in the UK. These figures assume one session for a single tumour. Real prices depend on the hospital, the organ treated, tumour size and number, and what the package includes, so treat published ranges as indicative only.</p>"
+          },
+          {
+            "q": "Why is microwave ablation so much cheaper in China and India?",
+            "a": "<p>Lower staff salaries, lower hospital overheads, controlled pricing on devices and consumables, and locally manufactured ablation systems all pull the price down. Malpractice insurance and administrative billing layers are also far smaller than in the United States. The physics of the procedure is the same everywhere. What changes between countries is the cost base built around it, not the technology being delivered to the tumour.</p>"
+          },
+          {
+            "q": "Does a cheaper price mean lower quality treatment?",
+            "a": "<p>Not necessarily. Several high-volume centres in India and China perform hundreds of ablations a year, use the same generators and antennae sold across Europe, and publish outcomes in peer-reviewed journals. Price gaps reflect local economics more than technique. What varies most is interventional radiology experience, so ask each centre for annual case numbers in your specific organ and its local recurrence rate. CancerFax can help you request those figures before you commit.</p>"
+          },
+          {
+            "q": "What should be included in the quote I am given?",
+            "a": "<p>Check that the quote covers the procedure fee, interventional radiologist and anaesthetist charges, CT or ultrasound guidance, the disposable ablation antenna, the day-care or overnight bed, and post-procedure imaging. Many Indian and Chinese hospitals quote one all-inclusive package, while Western quotes are often itemised and grow once anaesthesia and scans are added. An itemised written estimate makes cross-country comparison far more reliable than headline prices.</p>"
+          },
+          {
+            "q": "What will the whole trip cost me, not just the procedure?",
+            "a": "<p>Budget beyond the hospital bill. Flights, medical visa fees, four to ten days of accommodation, local transport, interpreter support and follow-up scans can add $1,500 to $4,000 for a patient travelling with one companion. Even with all of that, the combined total in India or China often stays well below the procedure fee alone in the United States. Costs vary by city and season, so confirm current figures before booking.</p>"
+          },
+          {
+            "q": "Will my insurance pay for microwave ablation done abroad?",
+            "a": "<p>Often it will not. Most US and European insurers decline elective treatment taken overseas, and those that consider it usually require written pre-authorisation and an out-of-network exception. Some employer schemes and international policies include limited overseas cover. Ask your insurer in writing before you travel, and keep every invoice, discharge summary and imaging report, because reimbursement depends entirely on your own policy wording.</p>"
+          },
+          {
+            "q": "Is India or China the better choice for cost and convenience?",
+            "a": "<p>For most patients India works out modestly cheaper and simpler to arrange, largely because of English-language care, an established medical visa route and lower package pricing. China can be very competitive for liver and lung ablation at large tertiary centres and may offer trial options alongside standard care. The price gap is usually a few thousand dollars, so centre experience and travel logistics often matter more than cost.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and does that change the price?",
+            "a": "<p>One session treats most tumours under 3 cm, and that is what standard quotes assume. Larger lesions, several tumours, or a lesion sitting close to a major blood vessel may need repeat ablation, and each further session is usually billed separately at a similar or slightly reduced rate. Ask upfront how a second session would be priced, because that single clause can move your total by thousands.</p>"
+          },
+          {
+            "q": "How does the cost compare with surgery or radiofrequency ablation?",
+            "a": "<p>Microwave ablation is usually the least expensive of the three. In India, ablation packages often run at a third to a half the price of open or laparoscopic resection, mainly because the hospital stay drops from about a week to a day or two. Radiofrequency ablation is priced similarly, sometimes a little lower. Suitability rather than cost decides between them, and that judgement rests with your treating team.</p>"
+          },
+          {
+            "q": "How do I get an accurate quote for my own case?",
+            "a": "<p>Send recent CT or MRI images, your pathology report and a short summary of previous treatment to two or three centres, then ask each for a written, itemised estimate. CancerFax can route those records to interventional radiology teams in India and China and return comparable quotes. Final pricing and eligibility are always confirmed by the treating hospital after its own review of your scans.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

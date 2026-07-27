@@ -1,0 +1,59 @@
+{
+  "pillar": "RFA for Bone Metastases: Pain Relief Without Surgery",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-for-bone-metastases",
+  "route": "/insights/rfa-for-bone-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is RFA for bone metastases, and how does it kill the tumour?",
+            "a": "<p>Radiofrequency ablation (RFA) uses a thin needle guided by CT imaging to deliver heat directly into a painful bone tumour, destroying it without open surgery. The heat also destroys the nerve endings in the bone lining that carry pain signals. The whole procedure usually takes 30 to 90 minutes through a small skin puncture, and most people go home the same day or after one night.</p>"
+          },
+          {
+            "q": "How soon will my bone pain get better after RFA?",
+            "a": "<p>Most patients feel meaningfully less pain within 24 to 72 hours of RFA, and studies report significant relief in roughly 70 to 95 percent of people treated. Radiation, by comparison, often takes two to four weeks to work. Your relief may build over the first week as swelling from the procedure settles. How much benefit you get depends on the size and site of the tumour.</p>"
+          },
+          {
+            "q": "Is RFA better than radiotherapy for painful bone metastases?",
+            "a": "<p>Neither is universally better; they solve different problems. RFA works faster and can be repeated in the same spot, which makes it useful when radiation has already been given to that bone or when pain relief is needed urgently. Radiation covers a wider area and treats multiple lesions at once. Many patients receive both. Your radiation oncologist and interventional radiologist should decide together which order suits your case.</p>"
+          },
+          {
+            "q": "Can I have RFA if the cancer is in my spine?",
+            "a": "<p>Spinal metastases can often be treated with RFA, but the decision depends on how close the tumour sits to the spinal cord and nerve roots. Specialised systems with steerable, insulated needles and real-time temperature monitoring are used to protect nerve tissue. If the vertebra is weakened, cement is usually injected in the same session to stabilise it. Spine cases need review by a team experienced in these procedures.</p>"
+          },
+          {
+            "q": "Will the procedure hurt, and will I be awake?",
+            "a": "<p>You will not feel the ablation itself. RFA for bone metastases is done under conscious sedation or general anaesthesia, so you are either deeply relaxed or fully asleep. Afterwards, most people have soreness at the puncture site and sometimes a temporary flare of bone pain for a day or two, managed with ordinary oral painkillers. There are no large incisions and no stitches to remove.</p>"
+          },
+          {
+            "q": "How long does the pain relief from RFA last?",
+            "a": "<p>Relief often lasts several months to a year or more, and in many patients it holds for the rest of their treatment course. Durability depends on whether the tumour was fully covered by the heat zone and whether the cancer is being controlled systemically. If pain returns in the same bone, RFA can usually be repeated. Ongoing drug or hormone therapy strongly influences how long relief lasts.</p>"
+          },
+          {
+            "q": "What are the risks of RFA for bone metastases?",
+            "a": "<p>Serious complications are uncommon, reported in under 5 percent of cases in most published series. The main risks are skin or nerve burns, bleeding, infection at the needle track, and fracture of the treated bone. Spinal procedures carry a small risk of nerve injury, and cement injection can leak. Your risk profile depends on the tumour's location, so ask your interventional radiologist what applies to you specifically.</p>"
+          },
+          {
+            "q": "My radiation didn't help the pain. Is RFA still an option?",
+            "a": "<p>Yes, RFA is often used exactly in this situation. Because it does not add radiation dose, it can be performed on bone that has already reached its safe radiation limit, and it can be repeated. Roughly one in three patients gets inadequate relief from radiotherapy, and ablation is a recognised next step for them. Eligibility still depends on imaging showing a lesion that can be reached safely.</p>"
+          },
+          {
+            "q": "Why would my doctor add bone cement after the ablation?",
+            "a": "<p>Cement is added when the metastasis has eaten away enough bone to risk a fracture or collapse. Heat kills the tumour but leaves a cavity, so injecting cement restores mechanical support and often improves pain further. This combination is standard for weight-bearing bones and vertebrae. Whether you need it depends on how much bone the tumour has destroyed, which your team assesses on CT before booking the procedure.</p>"
+          },
+          {
+            "q": "How do I arrange RFA in India or China, and what will it cost?",
+            "a": "<p>RFA for bone metastases is available at several interventional radiology centres in India and China, and costs there are usually a fraction of Western prices, though quotes vary widely with the number of lesions and whether cement is used. You will need recent CT or MRI scans and a pathology report for review. CancerFax can help route those records to centres for an opinion, alongside your own oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "How to Share a Second Opinion with Your Treating Oncologist",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-to-share-a-second-opinion-with-your-treating-oncologist",
+  "route": "/guides/how-to-share-a-second-opinion-with-your-treating-oncologist",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How do I tell my oncologist I want a second opinion?",
+            "a": "<p>Say it plainly and early. Tell your oncologist you would like a second opinion before starting treatment, and ask the office to help gather your records. Most oncologists hear this request weekly and treat it as routine. Framing it as gathering information rather than doubting their judgement keeps the relationship easy. Ask which records you need, where to send them, and how long the request usually takes.</p>"
+          },
+          {
+            "q": "Will my oncologist be offended if I get a second opinion?",
+            "a": "<p>Usually not. Second opinions are a normal part of cancer care, and many oncologists suggest one themselves for rare tumours, unclear pathology, or major surgery decisions. Some cancer centres even require one before treatment begins. If your doctor reacts badly, that in itself tells you something about how your later questions may be handled. Asking for another view is your right as a patient.</p>"
+          },
+          {
+            "q": "What should I actually send my oncologist from the second opinion?",
+            "a": "<p>Send the full written report, not a summary you typed yourself. That means the opinion letter, any revised pathology or radiology readings, the proposed treatment plan with drug names and doses, and the name and credentials of the reviewing doctor. Doctors trust primary documents. If slides or scans were re-read, say so clearly, because a changed diagnosis often matters more than a changed plan.</p>"
+          },
+          {
+            "q": "Should I send the report before my appointment or bring it with me?",
+            "a": "<p>Send it ahead, ideally three to five days before your visit. Your oncologist needs unhurried time to read a detailed report, and a document handed over at the start of a fifteen-minute appointment often gets only a glance. Email it to the clinic or upload it to the patient portal, then mention at check-in that you sent it. Bring a printed copy as backup.</p>"
+          },
+          {
+            "q": "What do I do if the second opinion contradicts my current treatment plan?",
+            "a": "<p>Ask your oncologist to walk you through the disagreement instead of picking a side yourself. Differences usually come from one of three things: a different reading of the pathology, different drug availability locally, or a genuine judgement call where the evidence is thin. Ask which applies to you. Many hospitals can arrange a tumour board, where several specialists review the case together and reach a shared recommendation.</p>"
+          },
+          {
+            "q": "Will my oncologist accept a second opinion from a hospital in India or China?",
+            "a": "<p>Many will read it seriously, especially if it comes from a recognised centre with a named oncologist and clear supporting data. Expect questions about whether the suggested drug is approved or available where you live, since a plan can be clinically sound and still be out of reach. CancerFax can help confirm what a centre actually offers, but your treating oncologist should decide what fits your case.</p>"
+          },
+          {
+            "q": "Does the second opinion report need to be translated?",
+            "a": "<p>Yes, if it is not in a language your treating team reads. Ask the reviewing hospital for an English report rather than translating it yourself, because drug names, staging notation, and dosing can be garbled in casual translation. Services such as CancerFax usually deliver the opinion in English alongside the original. Keep both versions, since your oncologist may want to check a detail against the source document.</p>"
+          },
+          {
+            "q": "What questions should I ask my oncologist after they read the report?",
+            "a": "<p>Ask three things. Does this change my diagnosis, does it change my treatment, and if not, why not. Then ask what would have to be true for the alternative plan to become the better choice. Write the answers down during the visit. Vague reassurance is hard to act on later, while specific answers give you something concrete to weigh if your situation changes.</p>"
+          },
+          {
+            "q": "Can I get a second opinion without telling my current oncologist?",
+            "a": "<p>You can, and some patients prefer to. You will still need your records, so request pathology reports, scans, and treatment notes through the hospital records office rather than through your doctor. The drawback is that you have to raise the findings eventually if you want your plan changed. Telling your oncologist upfront often makes the record transfer faster and the later conversation easier.</p>"
+          },
+          {
+            "q": "Will getting a second opinion delay my treatment?",
+            "a": "<p>Usually by days, not months. Most remote second opinions come back within one to two weeks once the records are complete, and for many cancers that pause does not change the outcome. Acute leukaemia and a few fast-moving situations are exceptions where treatment should begin immediately. Ask your oncologist directly how much time you safely have, and let that answer set your timeline.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

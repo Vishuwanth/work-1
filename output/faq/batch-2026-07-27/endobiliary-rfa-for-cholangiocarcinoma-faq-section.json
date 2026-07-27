@@ -1,0 +1,59 @@
+{
+  "pillar": "Endobiliary RFA for Cholangiocarcinoma: Improving Bile Drainage and Survival",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "endobiliary-rfa-for-cholangiocarcinoma",
+  "route": "/insights/endobiliary-rfa-for-cholangiocarcinoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is endobiliary RFA in plain terms?",
+            "a": "<p>Endobiliary radiofrequency ablation uses heat delivered inside your bile duct to shrink the tumour blocking it. A thin catheter carrying an electrode is passed through an endoscope during ERCP, and controlled energy destroys a small zone of tumour tissue. A stent is then usually placed in the reopened channel. It treats the blockage rather than the cancer as a whole, so it is normally combined with other treatment.</p>"
+          },
+          {
+            "q": "Will this clear my jaundice?",
+            "a": "<p>In most cases bile flow improves, and jaundice, itching and dark urine often ease within one to two weeks. The ablation burns back tumour tissue growing into the duct, so the stent placed afterwards sits in a wider, cleaner channel. How quickly your bilirubin falls depends on how long the duct was blocked and how well your liver recovers, so improvement can be slower in some people.</p>"
+          },
+          {
+            "q": "Does endobiliary RFA help people live longer?",
+            "a": "<p>Studies suggest it can. Randomised and observational data in unresectable cholangiocarcinoma report median survival gains of roughly two to six months when RFA is added to stenting, largely because stents stay open longer and fewer infections force breaks in chemotherapy. The evidence base is still small and results vary between centres, so no oncologist can promise a survival benefit in any individual case.</p>"
+          },
+          {
+            "q": "Is this a cure for bile duct cancer?",
+            "a": "<p>No. Endobiliary RFA is a local, palliative treatment. It targets tumour inside the duct to keep bile draining, but it cannot reach disease in the liver, lymph nodes or elsewhere. Surgery remains the only potentially curative option, and only a minority of patients are candidates for it. RFA is best understood as a way to control symptoms, protect liver function and keep you well enough for systemic therapy.</p>"
+          },
+          {
+            "q": "How long does the stent stay open afterwards?",
+            "a": "<p>Reported stent patency after RFA is commonly around six to twelve months, compared with roughly four to eight months with stenting alone. Heat destroys the tumour tissue that would otherwise grow through or around the stent mesh. Blockage can still return, and repeat ERCP is common. Your team will watch bilirubin, fever and returning itch as early signs that the stent needs attention again.</p>"
+          },
+          {
+            "q": "What are the risks of the procedure?",
+            "a": "<p>The main risks are pancreatitis, cholangitis (bile duct infection), bleeding, and rarely duct perforation or a liver abscess. Serious complications occur in roughly five to ten percent of procedures in experienced hands. Mild abdominal pain and a short-lived fever afterwards are common and usually settle.</p><p>Because the ablation is added to an ERCP you would likely need anyway, the extra risk over plain stenting appears modest.</p>"
+          },
+          {
+            "q": "How long will I be in hospital?",
+            "a": "<p>Most people stay one to two nights. The procedure itself takes about thirty to sixty minutes under sedation or general anaesthesia, and you are usually observed overnight for signs of pancreatitis or infection. Eating normally resumes the next day, with light activity within a few days. Stays run longer if you arrived with an already infected duct or if your bilirubin falls slowly.</p>"
+          },
+          {
+            "q": "Can I have RFA alongside chemotherapy or immunotherapy?",
+            "a": "<p>Yes, and that is usually the plan. Endobiliary RFA is generally scheduled around systemic treatment such as gemcitabine with cisplatin, often combined with durvalumab. Clearing the blockage matters first because chemotherapy is unsafe when bilirubin is high. Timing depends on your blood counts and infection risk, so the endoscopist and oncologist decide the order together. Available drug combinations differ by country and depend on liver function and fitness.</p>"
+          },
+          {
+            "q": "Am I a candidate for this treatment?",
+            "a": "<p>Endobiliary RFA is usually considered for unresectable or recurrent cholangiocarcinoma blocking the main bile ducts, in patients well enough for endoscopy. Tumours that are very diffuse, confined to small ducts deep in the liver, or reachable only through the skin may suit other approaches. Uncontrolled infection, advanced liver failure or clotting problems can rule it out. Only the team reviewing your scans and bloods can confirm eligibility.</p>"
+          },
+          {
+            "q": "Where is this offered abroad, and what does it cost?",
+            "a": "<p>Endobiliary RFA is available at tertiary hepatobiliary centres in India and China, where package prices are often well below Western equivalents. Quotes typically cover the ERCP, ablation catheter and stent, but not repeat procedures or systemic therapy. CancerFax can help you send scans and reports to such centres for review by their teams. Final costs, waiting times and acceptance always depend on the treating hospital's own assessment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

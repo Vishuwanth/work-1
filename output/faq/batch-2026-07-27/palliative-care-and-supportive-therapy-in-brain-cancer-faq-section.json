@@ -1,0 +1,59 @@
+{
+  "pillar": "Palliative Care and Supportive Therapy in Brain Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "palliative-care-and-supportive-therapy-in-brain-cancer",
+  "route": "/insights/palliative-care-and-supportive-therapy-in-brain-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does palliative care actually mean for someone with brain cancer?",
+            "a": "<p>Palliative care for brain cancer treats the symptoms of the tumour — headaches, seizures, fatigue, weakness, nausea — alongside whatever cancer treatment you are having. It is delivered by a team that may include neuro-oncologists, palliative physicians, nurses, physiotherapists and counsellors. The aim is to keep you comfortable, thinking clearly and as independent as possible. The plan usually changes over time, depending on how the tumour and the treatment behave.</p>"
+          },
+          {
+            "q": "Does starting palliative care mean we are giving up on treatment?",
+            "a": "<p>No — palliative care runs alongside active treatment, not instead of it. Many patients receive it from the day of diagnosis while still having surgery, radiotherapy or chemotherapy. Research in advanced cancer suggests early palliative care can improve quality of life and symptom control. Choosing to stop tumour-directed treatment is a separate decision, made later and only with your oncology team. You can ask for a referral at any point.</p>"
+          },
+          {
+            "q": "When is the right time to ask for a palliative care referral?",
+            "a": "<p>Ideally at diagnosis, not at the end. International guidance recommends referring people with advanced or high-grade brain tumours early, because the symptom burden appears fast and cognitive changes can make later planning much harder. An early referral also gives you time to record your wishes while you can still express them. You can request the referral yourself; you do not need to wait for your oncologist to suggest it.</p>"
+          },
+          {
+            "q": "How are seizures controlled in brain tumour patients?",
+            "a": "<p>Seizures are usually controlled with anti-seizure medicines such as levetiracetam, lacosamide or valproate, and most people need only one drug. Your neurologist chooses the one that interacts least with your chemotherapy. Report any new staring spells, twitching, jerking or sudden confusion, because these can be seizures even when there is no collapse.</p><p>Driving rules after a seizure differ by country and by state, so check the local requirement before you resume.</p>"
+          },
+          {
+            "q": "What can be done about the headaches and pressure in my head?",
+            "a": "<p>Headache from a brain tumour is often caused by swelling around it, and corticosteroids such as dexamethasone can relieve it within a day or two. Doctors add paracetamol or stronger painkillers if needed, and reduce the steroid to the lowest dose that works. Radiotherapy or surgery may relieve pressure more durably. Tell your team quickly about morning headaches, vomiting or new drowsiness, as these can signal rising pressure.</p>"
+          },
+          {
+            "q": "Are steroids like dexamethasone safe to stay on?",
+            "a": "<p>Dexamethasone works well but carries real side effects: raised blood sugar, stomach irritation, disturbed sleep, mood changes, thigh muscle weakness and, over months, thinning skin and higher infection risk. This is why teams taper the dose as soon as symptoms allow. You may be given a stomach-protecting medicine and regular blood sugar checks. Never stop steroids suddenly on your own — the dose must come down gradually under medical supervision.</p>"
+          },
+          {
+            "q": "Why am I so tired all the time, and what helps?",
+            "a": "<p>Fatigue is the most common symptom in brain cancer and rarely improves with rest alone. Your team will first look for treatable causes — anaemia, low thyroid or sodium, poor sleep, depression, and sedating medicines. Gentle graded exercise and physiotherapy help many people. Short daytime rests planned around your best hours usually work better than long naps. Some patients are offered a stimulant trial, though the evidence for this is mixed.</p>"
+          },
+          {
+            "q": "Can palliative radiotherapy still help if the tumour cannot be cured?",
+            "a": "<p>Yes. Short courses of radiotherapy, sometimes only one to five sessions, can shrink a tumour enough to ease headaches, weakness or seizures, and they are widely used for brain metastases. Stereotactic radiosurgery can treat a small number of lesions precisely in fewer visits. Benefit usually appears over one to four weeks, with fatigue as the main side effect. Suitability depends on tumour type, previous radiation and overall fitness.</p>"
+          },
+          {
+            "q": "My relative's memory and personality have changed — what support exists?",
+            "a": "<p>Memory loss, slowed thinking and personality change are common with brain tumours and with the treatments used against them. Neuropsychological assessment can pinpoint what is affected, and occupational therapy offers practical workarounds such as written routines, alarms and simplified choices. Families often need support too, since these changes can be harder to live with than physical symptoms. CancerFax can help you locate neuro-rehabilitation and caregiver counselling alongside your treating team.</p>"
+          },
+          {
+            "q": "If we travel to India or China for treatment, can we still get supportive care?",
+            "a": "<p>Yes, but it needs planning. Hospitals in India and China that treat international patients usually have pain and palliative services on site, though the depth of home-based support after discharge varies widely. Ask before you travel who manages seizures, steroids and pain once you leave the hospital, and how medicines will be supplied when you return home. CancerFax can help clarify what supportive care a centre actually provides.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

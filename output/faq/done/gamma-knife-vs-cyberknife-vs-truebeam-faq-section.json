@@ -1,0 +1,59 @@
+{
+  "pillar": "Gamma Knife vs CyberKnife vs TrueBeam: How to Choose",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gamma-knife-vs-cyberknife-vs-truebeam",
+  "route": "/insights/gamma-knife-vs-cyberknife-vs-truebeam",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the actual difference between Gamma Knife, CyberKnife and TrueBeam?",
+            "a": "<p>All three deliver focused radiation, but they differ in how the beam is aimed. Gamma Knife uses about 192 fixed cobalt sources pointed at one spot in the head. CyberKnife mounts a small linear accelerator on a robotic arm that moves around the body. TrueBeam is a fast gantry-based linear accelerator that handles both precise small targets and wider treatment fields. Each is precise; the fit depends on where your tumour sits.</p>"
+          },
+          {
+            "q": "Which machine is best for a brain tumour or brain metastasis?",
+            "a": "<p>Gamma Knife is often the first choice for small brain tumours and brain metastases, because it was built only for the head and delivers a very sharp dose edge. CyberKnife and TrueBeam can treat the same targets well, and both avoid a head frame. Your radiation oncologist will weigh tumour size, number of lesions, and location near the optic nerves or brainstem before deciding. Outcomes are usually comparable in experienced hands.</p>"
+          },
+          {
+            "q": "Can Gamma Knife treat cancer outside the brain?",
+            "a": "<p>Gamma Knife cannot treat cancer outside the head and upper neck. Its design fixes the radiation sources around a helmet, so it cannot reach the lung, liver, spine, prostate, or pancreas. CyberKnife and TrueBeam both treat tumours almost anywhere in the body. If your cancer has spread beyond the brain, one of those two machines, or standard radiotherapy, will usually be recommended instead. Ask which systems your hospital actually has.</p>"
+          },
+          {
+            "q": "Which one is the most accurate?",
+            "a": "<p>All three are accurate to roughly one millimetre, so accuracy alone rarely decides the choice. Gamma Knife holds that precision inside the skull. CyberKnife keeps it on moving targets by tracking the tumour with X-ray images during treatment. TrueBeam reaches it with image guidance and breath-hold or gating techniques. The bigger factors are your tumour site, its movement with breathing, and the team's experience with the machine.</p>"
+          },
+          {
+            "q": "Will they fix a metal frame to my head?",
+            "a": "<p>Only with classic Gamma Knife treatment, and only for a single session. A metal frame is fixed to the scalp under local anaesthetic; most people describe pressure rather than sharp pain. Newer Gamma Knife Icon systems, CyberKnife, and TrueBeam use a moulded plastic mask instead, so nothing pierces the skin. Tell your team if you are anxious about the frame, as mask-based options may be available.</p>"
+          },
+          {
+            "q": "How many sessions will I need with each machine?",
+            "a": "<p>Gamma Knife usually treats small brain targets in one session lasting under an hour to a few hours. CyberKnife typically uses one to five sessions, each around thirty to ninety minutes. TrueBeam ranges from one to five stereotactic sessions for small tumours, up to several weeks of short daily treatments for larger ones. The number depends on tumour size, site, and nearby healthy tissue. Your plan may change after the planning scan.</p>"
+          },
+          {
+            "q": "How much does each one cost in India?",
+            "a": "<p>In India, a single Gamma Knife treatment often runs about USD 4,000–7,000, CyberKnife about USD 5,000–9,000, and a TrueBeam stereotactic course about USD 3,500–6,500. Prices vary by city, hospital, tumour size, and how many sessions you need. CancerFax can help you compare written quotes from centres before you travel, though the final cost is always set by the treating hospital. Ask whether imaging, planning, and follow-up scans are included.</p>"
+          },
+          {
+            "q": "Which is better for a lung or liver tumour that moves when I breathe?",
+            "a": "<p>CyberKnife and TrueBeam are the options here, since Gamma Knife cannot treat the chest or abdomen. CyberKnife follows the tumour in real time as you breathe, using implanted markers or the spine as a reference. TrueBeam manages the same movement with breath-hold, gating, or a wider safety margin. Both can work well; the choice often comes down to what your centre uses most confidently. Ask how they will handle your breathing motion.</p>"
+          },
+          {
+            "q": "Are the side effects different between the three?",
+            "a": "<p>Side effects depend far more on where the radiation goes than on which machine delivers it. Brain treatment can bring tiredness, headache, mild swelling, or hair thinning at the beam entry points. Lung or liver treatment may cause fatigue, cough, or nausea. Because all three spare healthy tissue tightly, serious problems are uncommon, though a small risk of late tissue damage remains and should be discussed beforehand.</p>"
+          },
+          {
+            "q": "My hospital only has one of these machines. Should I go somewhere else?",
+            "a": "<p>In most cases you do not need to change hospitals for the machine alone. A skilled team with a well-maintained TrueBeam often gives better results than an inexperienced team with a newer machine, and published outcomes for the three systems are broadly similar for the same target. It is worth travelling only when your tumour genuinely suits one system, such as multiple brain metastases or a moving lung tumour.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

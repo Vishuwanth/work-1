@@ -1,0 +1,59 @@
+{
+  "pillar": "cTACE vs DEB-TACE: Which TACE Technique Is Right for Your HCC?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "ctace-vs-deb-tace-comparison",
+  "route": "/insights/ctace-vs-deb-tace-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between cTACE and DEB-TACE?",
+            "a": "<p>cTACE mixes chemotherapy with an oily contrast agent called lipiodol, then blocks the artery feeding the tumour with small particles. DEB-TACE loads the same chemotherapy onto tiny drug-eluting beads that release it slowly over several days. Both cut the blood supply to the liver tumour and deliver the drug directly into it. The real difference is how long the drug stays concentrated in the tumour and how much of it reaches the rest of your body.</p>"
+          },
+          {
+            "q": "Is DEB-TACE better than cTACE for my liver cancer?",
+            "a": "<p>Neither technique has been proven clearly better for survival. Randomised trials, including PRECISION V, found similar tumour response and survival with the two, although DEB-TACE often caused fewer side effects in patients with poorer liver reserve. Your interventional radiologist will weigh tumour size, number of lesions, liver function and previous treatments. The better option depends on your own case rather than on the technique alone, so ask why one is being recommended for you.</p>"
+          },
+          {
+            "q": "Which technique causes fewer side effects?",
+            "a": "<p>DEB-TACE tends to cause less nausea, hair loss and liver enzyme disturbance, because the beads hold more of the chemotherapy inside the tumour. Post-embolisation syndrome, meaning fever, abdominal pain and fatigue for a few days, happens after both procedures, and some studies report more pain with beads. Side effect patterns vary between hospitals, bead sizes and patients, so ask your team what they actually see in their own practice.</p>"
+          },
+          {
+            "q": "Does DEB-TACE cost more than cTACE?",
+            "a": "<p>DEB-TACE usually costs more, because the drug-eluting beads are a manufactured device that adds to the bill, while cTACE uses lipiodol and generic chemotherapy. In India the difference is commonly a few hundred to a couple of thousand US dollars per session, and in China it varies by hospital and bead brand. Ask for a written estimate before travelling, since prices change and quotes may exclude the hospital stay.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need?",
+            "a": "<p>Most patients receive two to four sessions, spaced roughly six to eight weeks apart, with a scan between each one to see how the tumour responded. Some tumours settle after a single treatment, while others need repeat sessions on demand when imaging shows regrowth. Doctors usually stop if the liver is not tolerating treatment or the tumour keeps progressing. The number depends on your response and liver function, so no fixed course can be promised in advance.</p>"
+          },
+          {
+            "q": "Am I eligible for either type of TACE?",
+            "a": "<p>TACE is generally offered when liver cancer is confined to the liver, cannot be removed by surgery or ablation, and liver function is still reasonably preserved. A blocked portal vein, severe cirrhosis, jaundice or fluid in the abdomen can rule it out, or push doctors toward DEB-TACE with smaller beads. Eligibility is decided case by case after imaging and blood tests, and it may change as your liver function changes.</p>"
+          },
+          {
+            "q": "Can I get cTACE or DEB-TACE in India or China?",
+            "a": "<p>Both cTACE and DEB-TACE are widely available at major liver and cancer centres in India and China, and drug-eluting beads are stocked in most large tertiary hospitals. Waiting times are often shorter than in Europe or North America, and packaged pricing is common. CancerFax can help you assemble scans and reports for review by liver teams there, though the treating oncology team decides which technique suits you.</p>"
+          },
+          {
+            "q": "What actually happens during the procedure, and how long is recovery?",
+            "a": "<p>A thin catheter is passed from an artery in your groin or wrist up to the vessel feeding the tumour, and the chemotherapy plus blocking material is released there. The procedure takes about one to two hours under local anaesthetic with light sedation. Most patients stay one to three nights so pain, fever and nausea can be controlled, and many feel close to normal within one to two weeks.</p>"
+          },
+          {
+            "q": "Can TACE be combined with immunotherapy or targeted drugs?",
+            "a": "<p>Yes, TACE is now often combined with immunotherapy or targeted drugs in selected patients. Trials such as EMERALD-1 and LEAP-012 tested TACE alongside durvalumab, bevacizumab or lenvatinib and reported longer periods before the tumour progressed. These combinations may be standard care in some countries and available only inside clinical trials in others. Whether you qualify depends on liver function, previous treatment and local drug approvals.</p>"
+          },
+          {
+            "q": "What are my options if TACE stops working for me?",
+            "a": "<p>Doctors call this TACE refractoriness, and it is common after two or three sessions that fail to control the tumour. Options then may include radioembolisation with Y-90, systemic therapy combining immunotherapy with targeted drugs, focused radiation such as SBRT, or a clinical trial. Moving away from TACE early can protect liver function for later treatments. Your team will decide based on scans, liver blood tests and how you recovered from each session.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Questions to Ask About Stage 4 Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-to-ask-stage-4-cancer-treatment",
+  "route": "/insights/questions-to-ask-stage-4-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What questions should I ask my oncologist about stage 4 cancer?",
+            "a": "<p>Ask what the treatment is meant to achieve, how long it may work, what the side effects are, and what happens if it stops working. Also ask whether molecular testing has been done, whether a clinical trial fits your case, and what the backup plan is. Write your questions down before the appointment, and bring someone with you to take notes, because most people forget much of what is said.</p>"
+          },
+          {
+            "q": "Does stage 4 cancer mean treatment won't help?",
+            "a": "<p>No. Stage 4 means the cancer has spread beyond where it started, not that treatment is useless. Many stage 4 cancers can be controlled for years with targeted therapy, immunotherapy, hormone therapy, or chemotherapy, and some people live well throughout. The realistic goal is often long-term control rather than cure. What is possible depends on the cancer type, its genetic profile, and your general health, so ask your oncologist directly.</p>"
+          },
+          {
+            "q": "Should I ask whether the goal is to cure or to control the cancer?",
+            "a": "<p>Yes, and it is the single most useful question you can ask. Treatment at stage 4 may aim to shrink the cancer, hold it steady, relieve symptoms, or extend life, and those goals lead to very different plans. Ask plainly whether this treatment is meant to cure, to control, or to keep you comfortable. The answer helps you weigh hard side effects against what you can realistically expect to gain.</p>"
+          },
+          {
+            "q": "How do I ask about life expectancy without losing hope?",
+            "a": "<p>Ask for ranges rather than a single number. A fair way to phrase it is: what does the best case, the typical case, and the worst case look like for someone in my situation? Survival averages come from large groups and cannot predict one person's course. Some people do far better than the median, particularly with newer targeted and immune treatments. You can also say how much detail you want before hearing it.</p>"
+          },
+          {
+            "q": "What should I ask about side effects before I start treatment?",
+            "a": "<p>Ask which side effects are common, which are serious, and which may be permanent. Also ask when they usually begin, how long they last, and which symptoms mean you should call the hospital straight away. Ask what supportive medicines will be given alongside treatment to prevent nausea, infection, or low blood counts. If a side effect would stop you doing something that matters to you, say so, because doses can often be adjusted.</p>"
+          },
+          {
+            "q": "Is it worth asking about clinical trials at stage 4?",
+            "a": "<p>Yes. Trials are often where the newest options appear first, including CAR T-cell therapy, bispecific antibodies, and novel targeted drugs, and many accept people who have already had earlier lines of treatment. Ask whether any open trial matches your cancer type and mutation profile, whether travel is required, and who covers the costs. Enrolment depends on strict eligibility criteria and available slots, so a place can never be promised in advance.</p>"
+          },
+          {
+            "q": "Should I ask about genomic or biomarker testing?",
+            "a": "<p>Yes, always ask. Comprehensive genomic and biomarker testing can reveal changes such as EGFR, ALK, BRAF, HER2, or high PD-L1 expression that open the door to targeted drugs or immunotherapy. These options often work better and are easier to tolerate than standard chemotherapy. Ask whether testing was done on your tumour tissue, how recent the sample is, and whether repeat testing after progression may reveal new treatment options.</p>"
+          },
+          {
+            "q": "How do I ask about the cost of stage 4 treatment abroad?",
+            "a": "<p>Ask for a written estimate that separates drug costs, hospital stay, scans, doctor fees, and follow-up, and ask clearly what is not included. Treatment in India and China is often far less expensive than in Western countries, but totals vary with cancer type, hospital, and length of stay. Services such as CancerFax can help you compare centres and organise records, though your treating oncology team should guide every medical decision. Estimates can change.</p>"
+          },
+          {
+            "q": "When should I ask about palliative or supportive care?",
+            "a": "<p>Earlier than most people expect, ideally at diagnosis. Palliative care manages pain, breathlessness, appetite loss, and fatigue alongside active treatment, and it is not the same as hospice or giving up. Studies suggest people who receive it early often feel better and in some cases live longer. Ask for a referral rather than waiting for a crisis. You can continue chemotherapy, immunotherapy, or radiotherapy while receiving this support.</p>"
+          },
+          {
+            "q": "Is it okay to ask for a second opinion at stage 4?",
+            "a": "<p>Yes, and experienced oncologists expect it. A second opinion can confirm the diagnosis, check that staging and biomarker testing are complete, and surface options such as trials or specialised surgery that were not raised the first time. Take your pathology report, scan images, and treatment records so the review is meaningful. Ask your current doctor whether a delay of one or two weeks would affect your plan before arranging it.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

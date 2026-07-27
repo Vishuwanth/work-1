@@ -1,0 +1,59 @@
+{
+  "pillar": "ER, PR, and HER2 Status Explained: What Your Pathology Results Mean",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "er-pr-her2-status-explained-breast-cancer",
+  "route": "/insights/er-pr-her2-status-explained-breast-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What do ER, PR, and HER2 mean on my pathology report?",
+            "a": "<p>ER, PR, and HER2 are three proteins the pathologist tests for on your breast tumour sample. ER stands for oestrogen receptor, PR for progesterone receptor, and HER2 for human epidermal growth factor receptor 2. Together they tell your oncology team what is fuelling the cancer's growth, which in turn guides whether hormone-blocking tablets, HER2-targeted drugs, chemotherapy, or a combination is likely to work best for you.</p>"
+          },
+          {
+            "q": "What does ER-positive mean for my treatment?",
+            "a": "<p>ER-positive means oestrogen is helping the tumour grow, so hormone-blocking treatment is usually part of the plan. Most patients receive tamoxifen or an aromatase inhibitor for five to ten years, often alongside surgery and sometimes radiation. Roughly 70 to 80 percent of breast cancers are ER-positive, and these often respond well to hormone therapy. Your exact regimen depends on your menopausal status, stage, and other test results.</p>"
+          },
+          {
+            "q": "Is HER2-positive breast cancer more aggressive?",
+            "a": "<p>HER2-positive breast cancer does tend to grow faster than HER2-negative disease, but targeted drugs have changed the outlook substantially. Trastuzumab, pertuzumab, and newer antibody-drug conjugates such as trastuzumab deruxtecan block the HER2 signal directly.</p><p>Many patients treated with HER2-targeted therapy now do as well as, and in some studies better than, those with HER2-negative tumours. The word aggressive describes the biology, not your personal prognosis.</p>"
+          },
+          {
+            "q": "What does triple-negative mean on my report?",
+            "a": "<p>Triple-negative means the tumour tested negative for ER, PR, and HER2, so hormone tablets and HER2-targeted drugs are not expected to work on it. Chemotherapy remains the backbone of treatment, and immunotherapy such as pembrolizumab is now added for many patients whose tumours carry the PD-L1 marker. PARP inhibitors may help if you carry a BRCA mutation. Triple-negative disease accounts for about 10 to 15 percent of cases.</p>"
+          },
+          {
+            "q": "My HER2 result says 2+ or equivocal. What happens next?",
+            "a": "<p>A HER2 score of 2+ on immunohistochemistry is borderline, so your sample should go for a second test called FISH or ISH, which counts the HER2 gene copies directly. That test usually gives a clear positive or negative answer within one to two weeks. Treatment planning should not rest on a 2+ result alone, so ask your oncologist for the FISH report before any HER2-targeted drug is decided.</p>"
+          },
+          {
+            "q": "What does HER2-low mean, and does it change my options?",
+            "a": "<p>HER2-low describes tumours scoring 1+ or 2+ without gene amplification, which older reports simply called HER2-negative. It matters now because trastuzumab deruxtecan has been shown to help many HER2-low patients with metastatic disease, so the label can open a treatment door that did not exist a few years ago. If your report predates this change, ask whether your original slides can be re-scored.</p>"
+          },
+          {
+            "q": "Can my ER, PR, or HER2 status change over time?",
+            "a": "<p>Yes, receptor status can change, particularly when cancer returns or spreads to a new site. Studies suggest around 10 to 20 percent of recurrences show a different ER or HER2 result from the original tumour. For this reason many oncologists prefer to re-biopsy a new lesion rather than rely on the first pathology report. Confirming current status can redirect treatment entirely, so it is worth asking about.</p>"
+          },
+          {
+            "q": "What do the percentages next to ER and PR actually mean?",
+            "a": "<p>The percentage tells you how many tumour cells stained positive for that receptor, and it helps predict how strongly hormone therapy may work. Anything from 1 percent upward is reported as positive, though tumours staining 10 percent or higher generally respond better. Some laboratories also give an Allred or intensity score. A low positive result often still justifies hormone therapy, but the expected benefit may be smaller.</p>"
+          },
+          {
+            "q": "Should I get a second opinion on my pathology report?",
+            "a": "<p>A second pathology review is reasonable when the result is borderline, when the receptors look unexpected for your age or tumour type, or when the whole treatment plan hinges on one number. Slides and blocks can be couriered to a reference laboratory for re-staining. CancerFax can help arrange review at high-volume breast pathology centres, though your treating oncology team should decide whether a repeat reading is needed.</p>"
+          },
+          {
+            "q": "Does my receptor status affect whether I can be treated in India or China?",
+            "a": "<p>Your receptor status shapes which drugs and trials you may be able to access abroad more than whether you can travel. HER2-targeted biosimilars are widely available and often much cheaper in India, while several Chinese centres run trials in triple-negative and HER2-low disease. Eligibility depends on your stage, prior treatment, and current pathology. CancerFax can share what specific hospitals offer, but confirmation always rests with the treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

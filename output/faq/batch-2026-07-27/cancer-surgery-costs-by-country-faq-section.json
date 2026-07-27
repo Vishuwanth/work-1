@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Surgery Costs by Country: India, China, Israel, Thailand, and USA Compared",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-surgery-costs-by-country",
+  "route": "/insights/cancer-surgery-costs-by-country",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much cheaper is cancer surgery in India than in the USA?",
+            "a": "<p>Cancer surgery in India usually costs 60 to 90 percent less than the same operation in the United States. A mastectomy that runs $25,000 to $40,000 in a US hospital is often $4,000 to $7,000 in a leading Indian centre. A Whipple procedure may fall from roughly $150,000 to $15,000. Final costs depend on your stage, hospital, and any complications, so treat every quote as an estimate.</p>"
+          },
+          {
+            "q": "Why is cancer surgery so much cheaper in India, China, and Thailand?",
+            "a": "<p>Lower prices come from lower local expenses, not lower standards. Surgeon and nursing salaries, hospital construction, malpractice insurance, and generic drug prices are all far cheaper in these countries than in the United States, and governments cap many hospital charges. The surgical technique, implants, and equipment used in top JCI-accredited centres are often the same brands used in American hospitals, though outcomes still vary by centre.</p>"
+          },
+          {
+            "q": "How much does cancer surgery cost in China?",
+            "a": "<p>Cancer surgery in China generally costs more than in India but far less than in the United States, often 40 to 70 percent below US prices at international-patient hospitals in Beijing, Shanghai, and Guangzhou. A lung lobectomy may run $8,000 to $15,000. Foreign patients usually pay a higher tariff than local citizens, and visa processing and translation services add to the budget, so confirm the full quote early.</p>"
+          },
+          {
+            "q": "What does cancer surgery cost in Thailand?",
+            "a": "<p>Thailand's cancer surgery prices sit close to India's, usually 50 to 80 percent below US levels, with a hysterectomy for early cervical cancer around $5,000 to $9,000. Bangkok's large private hospitals are built around international patients, so English-speaking coordinators, visas, and accommodation are easy to arrange. Complex or rare tumours may still be referred to a larger centre, so confirm the hospital treats your cancer type regularly.</p>"
+          },
+          {
+            "q": "Is surgery in Israel cheaper than in the USA?",
+            "a": "<p>Yes. Cancer surgery in Israel usually costs 30 to 50 percent less than in the United States, though it runs two to three times higher than India. A colon resection may be $18,000 to $30,000 in Israel against $6,000 to $9,000 in India. Patients choose Israel for its surgical oncology record and robotic programmes. Costs can rise if extra imaging or a longer stay is needed, so ask for a revised estimate.</p>"
+          },
+          {
+            "q": "What is actually included in the price the hospital quotes me?",
+            "a": "<p>Most quoted surgery packages cover the operating theatre, surgeon and anaesthetist fees, a fixed number of hospital days, routine medicines, and standard post-operative care. They usually exclude pre-surgery scans, biopsies, blood products, ICU stays beyond the package limit, and any chemotherapy or radiotherapy that follows. Ask each hospital for a written list of inclusions and the daily rate for extra days, because complications can add significantly to the total.</p>"
+          },
+          {
+            "q": "Does a cheaper price mean the surgery is lower quality?",
+            "a": "<p>Not necessarily, but price alone tells you nothing about quality. What matters is how many times that specific surgeon performs your operation each year, the hospital's infection and complication rates, and whether it holds JCI or NABH accreditation. A high-volume Indian or Thai cancer centre may have better outcomes for a given procedure than a low-volume US hospital. Ask for these numbers in writing before you commit.</p>"
+          },
+          {
+            "q": "What extra costs should I budget for beyond the surgery itself?",
+            "a": "<p>Budget 30 to 50 percent above the surgery quote for everything around it. Flights for you and one attendant, medical visas, accommodation for four to eight weeks, follow-up scans, medicines to take home, and a possible second hospital admission all add up. Currency swings and hospital price revisions can also move the number. A written all-in estimate, refreshed close to your travel date, is the safest thing to plan around.</p>"
+          },
+          {
+            "q": "Will my insurance pay for cancer surgery abroad?",
+            "a": "<p>Most US and European insurers do not pay for planned surgery abroad, so patients usually self-fund. A few employer plans and international policies include medical-travel benefits, and some will reimburse part of the cost if you obtain written pre-authorisation first. Ask your insurer specifically about out-of-network foreign providers and post-operative complications back home. Coverage rules differ by policy and country, so get any promise of reimbursement in writing before you travel.</p>"
+          },
+          {
+            "q": "Which country should I choose for my cancer surgery?",
+            "a": "<p>Choose on the strength of the surgical team for your specific cancer first, and cost second. Ask each hospital for the same procedure name, the same number of hospital days, and a stated ICU rate so the quotes are comparable. CancerFax can help gather written estimates from centres in India, China, and Thailand, though the final plan must come from the treating oncology team after reviewing your scans.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

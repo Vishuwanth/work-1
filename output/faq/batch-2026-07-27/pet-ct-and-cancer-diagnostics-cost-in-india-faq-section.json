@@ -1,0 +1,59 @@
+{
+  "pillar": "PET-CT and Cancer Diagnostics Cost in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pet-ct-and-cancer-diagnostics-cost-in-india",
+  "route": "/guides/pet-ct-and-cancer-diagnostics-cost-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does a PET-CT scan cost in India for an international patient?",
+            "a": "<p>A PET-CT scan in India usually costs international patients between $250 and $500, depending on the city, the hospital, and the tracer used. Mid-tier private centres sit at the lower end, while large corporate hospitals in Delhi and Mumbai sit higher. Most quotes include the scan, the tracer, and a radiologist report. Prices can shift with currency rates and hospital policy, so ask for the figure in writing before you travel.</p>"
+          },
+          {
+            "q": "What is actually included in the PET-CT price a hospital quotes me?",
+            "a": "<p>Most Indian PET-CT quotes cover the radioactive tracer, the scan itself, and a written radiologist report, which together make up the bulk of the cost. Contrast dye, sedation for children, a prior consultation, and blood sugar testing may be billed separately. Ask the hospital for an itemised estimate in writing, since inclusions vary between centres and can depend on which tracer your oncologist orders.</p>"
+          },
+          {
+            "q": "Is a whole-body PET-CT much more expensive than a scan of one area?",
+            "a": "<p>A whole-body PET-CT in India typically costs $300 to $500, while a limited scan covering one region may cost $200 to $300. The difference comes from scanning time and tracer dose, not from image quality. Staging a newly diagnosed cancer often needs whole-body imaging, while rechecking a single known site may not. Your oncologist decides which is appropriate, so ask the centre for both prices when you enquire.</p>"
+          },
+          {
+            "q": "Will a PET-CT done in India be as accurate as one done at home?",
+            "a": "<p>In most cases, yes. Large Indian cancer centres use the same PET-CT scanners from GE, Siemens, and Philips found in the United States and Europe, and many hold international accreditation. Scans are read by radiologists trained in nuclear medicine.</p><p>What can differ is reporting style and turnaround. If your home oncologist needs a particular format, request the raw DICOM images on a disc or drive alongside the written report.</p>"
+          },
+          {
+            "q": "How long does the scan take, and when will I get my report?",
+            "a": "<p>A PET-CT appointment usually takes two to three hours in total: about an hour of quiet rest after the tracer injection, then roughly 20 to 30 minutes inside the scanner. Most Indian centres release the report within 24 hours, and many can deliver it the same evening for patients on a short trip. Tell the hospital in advance if you need it urgently, as this depends on their workload.</p>"
+          },
+          {
+            "q": "Should I carry my old scans and biopsy slides to India?",
+            "a": "<p>Bring everything you have: prior scan discs, biopsy slides, paraffin blocks, and pathology reports. Indian hospitals routinely review outside material, and having the original blocks can often avoid a repeat biopsy, saving both money and time. Carry digital copies too, since discs can fail. A second pathology opinion in India usually costs far less than fresh sampling, though your treating team decides what genuinely needs repeating.</p>"
+          },
+          {
+            "q": "What do a biopsy and the lab tests afterwards cost in India?",
+            "a": "<p>A core needle biopsy in India generally costs $150 to $400, with routine histopathology adding $60 to $150. Immunohistochemistry panels run higher, often $200 to $500 depending on how many markers are needed. Comprehensive genomic profiling is the largest single item and can reach $1,000 to $2,500. Costs depend on the laboratory and the tests your oncologist orders, so request a written estimate before sampling begins.</p>"
+          },
+          {
+            "q": "Why does a PSMA or DOTATATE PET cost more than a normal PET-CT?",
+            "a": "<p>Specialised tracers cost more than routine FDG. A PSMA PET-CT for prostate cancer typically runs $400 to $700 in India, and a DOTATATE PET-CT for neuroendocrine tumours falls in a similar range. The higher price reflects tracer production, which is scheduled in batches rather than made daily. Because of this, appointments may only be offered on certain days, so book before you fix your travel dates.</p>"
+          },
+          {
+            "q": "Can I get a PET-CT done without being admitted to the hospital?",
+            "a": "<p>Yes. PET-CT is an outpatient test in India, and international patients routinely have it done without admission. You will need to fast for four to six hours and arrive with a doctor's requisition. Staying in a hotel near the cancer centre is common and much cheaper than a hospital bed. CancerFax can help arrange scan slots and share written cost estimates, though your treating oncologist decides which scans you need.</p>"
+          },
+          {
+            "q": "How much should I budget for the whole diagnostic workup before treatment starts?",
+            "a": "<p>Plan for roughly $800 to $2,000 for a full diagnostic workup in India, covering PET-CT, biopsy, pathology, blood work, and specialist consultations. Genomic testing, if recommended, sits on top of that. Most patients complete the sequence within four to seven days.</p><p>Keep a buffer, since findings can trigger extra tests. Final costs depend on your diagnosis and the hospital, so ask for a revised estimate as results come in.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

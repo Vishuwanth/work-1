@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE and TARE (Y-90) in India: Advanced Liver-Directed Cancer Treatment",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-and-tare-y90-treatment-in-india",
+  "route": "/guides/tace-and-tare-y90-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TACE, and how does it treat a liver tumour?",
+            "a": "<p>TACE, or transarterial chemoembolization, injects chemotherapy straight into the artery feeding a liver tumour, then plugs that artery so the drug stays trapped inside. The tumour is starved of blood and soaked in chemotherapy at the same time, while healthy liver tissue keeps its own separate supply. It is done through a pinhole in the wrist or groin, with no surgical cut and usually one overnight stay.</p>"
+          },
+          {
+            "q": "What is TARE or Y-90 treatment, and how is it different?",
+            "a": "<p>TARE, also called Y-90 radioembolization, places millions of microscopic radioactive beads into the artery feeding your liver tumour, so radiation is delivered from inside the tumour itself. The yttrium-90 releases its dose over about two weeks and travels only a few millimetres, which largely spares the surrounding liver. Unlike TACE it uses radiation rather than chemotherapy, and most patients go home the same day or the next.</p>"
+          },
+          {
+            "q": "Which is better for me, TACE or TARE?",
+            "a": "<p>Neither is automatically better, and the choice depends on tumour size and number, how well your liver is working, whether the portal vein is involved, and your treatment goal. TARE is often preferred for larger tumours, portal vein involvement, and patients who want fewer sessions. TACE is often chosen for smaller, well-defined tumours. Your interventional radiologist and hepatologist should decide together after reviewing your scans and liver function tests.</p>"
+          },
+          {
+            "q": "Am I eligible for TACE or Y-90 in the first place?",
+            "a": "<p>You may be a candidate if your cancer is confined to the liver, your liver function is still reasonably preserved, and surgery or transplant is not immediately possible. Doctors check bilirubin, albumin, clotting, kidney function and a CT or MRI of the liver's blood vessels. For TARE, a preparatory mapping angiogram and lung-shunt scan are also needed. Advanced cirrhosis or widespread disease outside the liver often rules it out.</p>"
+          },
+          {
+            "q": "How much do TACE and TARE cost in India?",
+            "a": "<p>In India, one TACE session usually costs roughly USD 2,000 to 4,000, while TARE with Y-90 typically runs USD 15,000 to 22,000 because the yttrium-90 microspheres are imported and expensive. Quotes vary by hospital and city, and by whether the mapping angiogram, hospital stay and follow-up scans are included. CancerFax can help you compare itemised estimates from different centres. Treat any figure as approximate until a hospital confirms it in writing.</p>"
+          },
+          {
+            "q": "How long does the procedure take, and how quickly will I recover?",
+            "a": "<p>Both procedures usually take 60 to 90 minutes and are done under local anaesthetic with sedation, not general anaesthesia. You stay awake but comfortable while a thin catheter is threaded from the wrist or groin into the liver artery. TACE normally means one night in hospital, whereas TARE is often a day-care procedure. Most people return to light activity within three to seven days, depending on their overall condition.</p>"
+          },
+          {
+            "q": "What side effects should I expect afterwards?",
+            "a": "<p>Post-embolization syndrome is the most common problem after TACE: fever, nausea, tiredness and a dull ache under the right ribs for a few days. It usually settles with painkillers and fluids. TARE tends to cause milder symptoms, mainly fatigue lasting one to three weeks.</p><p>Less common risks include worsening liver function, stomach ulcers if beads travel the wrong way, and infection. Your team will monitor blood tests closely for several weeks.</p>"
+          },
+          {
+            "q": "Can TACE or TARE cure my liver cancer?",
+            "a": "<p>TACE and TARE usually control liver tumours rather than cure them outright. They shrink tumours, ease symptoms and buy time, and in selected patients they can keep disease stable for years. A small single tumour treated with Y-90 radiation segmentectomy may occasionally be destroyed completely. For most people these treatments work best alongside immunotherapy, targeted drugs, surgery or transplant rather than instead of them, and results vary from person to person.</p>"
+          },
+          {
+            "q": "Could this shrink my tumour enough for surgery or a transplant?",
+            "a": "<p>Yes, and this is one of the main reasons these treatments are used. Shrinking a tumour with TACE or TARE can bring it back within transplant criteria, or make a borderline liver resection safer, a strategy doctors call downstaging or bridging. Y-90 can also help the healthy side of the liver grow before surgery. Whether it works depends on how your tumour responds, and transplant listing decisions rest with the transplant centre.</p>"
+          },
+          {
+            "q": "I live outside India. How do I actually arrange this?",
+            "a": "<p>Start by sending your most recent CT or MRI of the abdomen, liver function tests, AFP level and biopsy report to the Indian centre you are considering, and most will return an opinion and rough plan within a few days. You will need a medical visa, and TARE requires the mapping angiogram roughly a week before treatment. CancerFax can help coordinate the review, appointments and travel timing with your own oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

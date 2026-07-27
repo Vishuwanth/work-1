@@ -1,0 +1,59 @@
+{
+  "pillar": "What to Expect During and After Microwave Ablation",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-procedure-patient-experience",
+  "route": "/insights/microwave-ablation-procedure-patient-experience",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What actually happens during a microwave ablation procedure?",
+            "a": "<p>During microwave ablation, a doctor guides a thin needle-like probe through your skin into the tumour using CT or ultrasound images, then sends microwave energy through it to heat and destroy the tissue. The heating itself usually lasts five to ten minutes per tumour. Most of the appointment is taken up by positioning, imaging and recovery, not the ablation. Your interventional radiologist will explain the exact plan for your tumour.</p>"
+          },
+          {
+            "q": "Will I be awake during microwave ablation?",
+            "a": "<p>Most people are not fully awake. Microwave ablation is usually done under deep sedation or general anaesthesia, so you feel nothing during the procedure and often remember nothing afterwards. Some centres use conscious sedation with local anaesthetic for small, easy-to-reach tumours, in which case you may be drowsy but responsive. The choice depends on the tumour site, your general health and the anaesthetic team's assessment on the day.</p>"
+          },
+          {
+            "q": "Does microwave ablation hurt?",
+            "a": "<p>You should not feel pain during the procedure itself, because of sedation or anaesthesia. Afterwards, most people describe a dull ache, soreness or a burning feeling near the treated area for a few days. Pain is usually controlled with simple painkillers. Liver and lung ablations can also cause shoulder or chest discomfort. Tell your team if pain is severe or worsening rather than settling, as that can need review.</p>"
+          },
+          {
+            "q": "How long does the procedure take from start to finish?",
+            "a": "<p>Plan for most of a day at hospital, even though the ablation itself is short. The procedure typically takes 30 to 90 minutes depending on how many tumours are treated and how hard they are to reach. Before that you have preparation and anaesthesia; afterwards you spend two to six hours in recovery with monitoring. Complex or multi-site treatments can run longer, so ask your team for a realistic timing estimate.</p>"
+          },
+          {
+            "q": "Will I have to stay in hospital overnight?",
+            "a": "<p>Many patients go home the same day, and others stay one night for observation. Overnight admission is more common after liver, lung or kidney ablation, or when several tumours were treated. You will usually have a scan or chest X-ray before discharge to check for bleeding or air leaks. You need a responsible adult to take you home, because sedation makes driving unsafe for at least 24 hours.</p>"
+          },
+          {
+            "q": "How will I feel in the first week after treatment?",
+            "a": "<p>Expect flu-like symptoms in the first week. Low-grade fever, tiredness, mild nausea and general aching are common, and doctors call this post-ablation syndrome. It usually starts within a day or two and settles within a week, though fatigue can linger longer. Bruising and tenderness at the needle site are also normal. Contact your team promptly for high fever, heavy bleeding, breathlessness or pain that keeps getting worse.</p>"
+          },
+          {
+            "q": "When can I go back to work and normal activity?",
+            "a": "<p>Most people return to light daily activity within two to five days and to office work within one to two weeks. Avoid heavy lifting, strenuous exercise and long flights for about two weeks, or as long as your doctor advises. Recovery is often slower if you had several tumours treated, a lung ablation, or other health problems. Ask for written activity advice before you leave hospital.</p>"
+          },
+          {
+            "q": "How will doctors know whether the ablation worked?",
+            "a": "<p>Follow-up imaging tells you. Your team usually orders a CT or MRI scan about four to six weeks after treatment, then every three to six months. Radiologists look for a dead zone slightly larger than the original tumour, with no blood flow inside it. Early scans can look alarming because of swelling and inflammation. If a small area of tumour remains, ablation can often be repeated safely.</p>"
+          },
+          {
+            "q": "What complications should I watch for once I am home?",
+            "a": "<p>Serious complications are uncommon, but you should know the warning signs. Bleeding, infection, injury to nearby structures such as the bile duct or bowel, and a collapsed lung after chest ablation are the main risks. Go to emergency care for severe pain, fever above 38.5 degrees Celsius lasting more than a day, sudden breathlessness, or vomiting blood. Most problems appear within the first week, which is why early follow-up matters.</p>"
+          },
+          {
+            "q": "If I travel abroad for microwave ablation, when is it safe to fly home?",
+            "a": "<p>Most centres in India and China ask international patients to stay seven to ten days after microwave ablation, so complications can be caught before you fly. That window usually covers the post-procedure scan, wound check and discharge summary. Your flight clearance depends on the organ treated and your recovery, and lung ablation often needs longer. CancerFax can help you request a written after-care and travel plan from the treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

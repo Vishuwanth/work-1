@@ -1,0 +1,59 @@
+{
+  "pillar": "Side Effects of CIK Therapy: What Patients Should Expect",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-side-effects",
+  "route": "/insights/cik-therapy-side-effects",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most common side effects of CIK therapy?",
+            "a": "<p>Most side effects of CIK therapy are mild and flu-like: low-grade fever, chills, fatigue, headache, and muscle or joint aches in the first day or two after each infusion. Some patients also report mild nausea, a short-lived drop in appetite, or a skin rash at the infusion site. Because CIK cells are grown from a patient's own blood, severe reactions are uncommon, but every infusion should still be monitored by the treating team.</p>"
+          },
+          {
+            "q": "Will I get a fever after a CIK cell infusion?",
+            "a": "<p>A fever after a CIK cell infusion is common and usually appears within 6 to 24 hours. It is often low-grade, lasts less than a day, and settles with paracetamol, fluids, and rest. The fever reflects immune cells becoming active rather than an infection in most cases. Even so, any temperature above 38°C should be reported promptly, because doctors need to rule out infection before treating it as an expected reaction.</p>"
+          },
+          {
+            "q": "Can CIK therapy cause cytokine release syndrome?",
+            "a": "<p>Cytokine release syndrome can occur with CIK therapy, but it is generally reported as mild and far less frequent than with CAR T-cell therapy. When it happens, it usually looks like fever, low blood pressure, a fast heartbeat, or breathlessness within the first day or two. Most cases are managed with fluids, fever control, and observation. Severe cytokine release syndrome is rare, though risk depends on your disease burden, dose, and any drugs given alongside.</p>"
+          },
+          {
+            "q": "Does CIK therapy cause hair loss and vomiting like chemotherapy?",
+            "a": "<p>No. CIK therapy does not typically cause hair loss, severe vomiting, or mouth sores, because it uses immune cells rather than drugs that damage rapidly dividing healthy cells. Appetite and blood counts are also usually less affected. Patients who receive chemotherapy before or alongside CIK cells may still experience those classic chemotherapy effects, so it helps to ask your oncologist which part of your plan is causing which symptom.</p>"
+          },
+          {
+            "q": "Is CIK therapy safer than CAR T-cell therapy?",
+            "a": "<p>CIK therapy generally carries a lower risk of the severe toxicities seen with CAR T-cell therapy, including high-grade cytokine release syndrome and neurological side effects such as confusion or seizures. CIK cells are not genetically engineered to target a single antigen, which appears to make reactions milder. A gentler side effect profile does not automatically mean better results, however, and the right choice depends on your cancer type, stage, and specialist review.</p>"
+          },
+          {
+            "q": "How long do CIK therapy side effects usually last?",
+            "a": "<p>Most CIK therapy side effects fade within 24 to 72 hours of an infusion, with fever and chills often gone in a day and fatigue lingering slightly longer. Because CIK treatment is usually given as several infusions over weeks or months, some patients notice the same short cycle repeating after each one. Symptoms that persist beyond a few days, or worsen instead of easing, should be reviewed by your medical team.</p>"
+          },
+          {
+            "q": "Are side effects worse when CIK therapy is combined with chemotherapy?",
+            "a": "<p>Side effects are often more noticeable when CIK therapy is combined with chemotherapy, radiotherapy, or checkpoint inhibitors, because the added treatment brings its own risks such as low blood counts, infection, nausea, or immune-related inflammation. Combination schedules are still widely used, since they may improve how well the infused cells work. Your oncology team should explain which effects come from which component and how closely your blood tests will be tracked.</p>"
+          },
+          {
+            "q": "Is the blood collection before CIK therapy risky?",
+            "a": "<p>The blood collection step is low risk for most patients. Cells are drawn through a vein or an apheresis machine over a few hours, and the usual complaints are tingling around the mouth or fingers, light-headedness, bruising at the needle site, and temporary tiredness. These come from the anticoagulant used during collection and settle quickly with calcium supplementation and rest. Patients with poor veins or low blood counts may need extra planning beforehand.</p>"
+          },
+          {
+            "q": "What warning signs after a CIK infusion mean I should call my doctor?",
+            "a": "<p>Call your treating team straight away if you develop a fever above 38°C that does not settle, breathlessness, chest pain, a rash spreading over your body, severe or persistent vomiting, confusion, or dizziness on standing. These can signal cytokine release syndrome, an allergic reaction, or infection, and all respond better to early treatment. Keep the hospital's after-hours number with you for the first week following every infusion.</p>"
+          },
+          {
+            "q": "How do I find out whether CIK therapy's side effects are acceptable for my case?",
+            "a": "<p>That answer comes from a specialist review of your specific situation, since tolerance depends on your cancer type, stage, organ function, blood counts, prior treatments, and any autoimmune or infection history. Ask for the expected side effect profile in writing, along with how monitoring will be handled if you are travelling for treatment.</p><p>CancerFax can help patients organise medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel and follow-up alongside the treating oncology team, though final treatment decisions rest with your doctors.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

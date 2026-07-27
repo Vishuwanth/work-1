@@ -1,0 +1,59 @@
+{
+  "pillar": "Pre-Treatment Tests for MCTL Therapy: What to Prepare",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pre-treatment-tests-for-mctl-therapy",
+  "route": "/insights/pre-treatment-tests-for-mctl-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What tests do I need before starting MCTL therapy?",
+            "a": "<p>Most centres ask for recent imaging, a tumour biopsy or archived tissue block, full blood counts, liver and kidney function tests, viral screening for hepatitis B, hepatitis C and HIV, and a cardiac check such as an ECG or echocardiogram. Some programmes add tumour marker panels or immune profiling of your blood. The exact list depends on your cancer type, your general health, and the treating centre's protocol.</p>"
+          },
+          {
+            "q": "How long does the pre-treatment testing take?",
+            "a": "<p>Pre-treatment testing usually takes one to two weeks once all samples are collected. Blood work and imaging often come back within a few days, while tissue testing, immune profiling and any genomic sequencing can take longer. If you are travelling for treatment, centres frequently review your existing reports first and repeat only what is out of date. Timelines can shift depending on laboratory workload and the results themselves.</p>"
+          },
+          {
+            "q": "Do I need a fresh biopsy, or can they use my old one?",
+            "a": "<p>Not always. Many centres can work from an archived tissue block or slides from your original surgery or biopsy. A fresh biopsy may be requested if the stored sample is too old, too small, or if your disease has changed since it was taken. Because MCTL therapy targets antigens found on your tumour, the tissue needs to reflect your cancer as it is now. Your oncologist decides what is adequate.</p>"
+          },
+          {
+            "q": "Will the hospital accept scans and reports from my own country?",
+            "a": "<p>Yes, in most cases your existing scans, pathology reports and blood results are reviewed first, which can save time and money. Centres generally want imaging from the last four to six weeks and blood work from the last two weeks, so older tests are often repeated on arrival. Sending reports in English, with the actual scan images on disc or digitally, helps the team assess you before you travel.</p>"
+          },
+          {
+            "q": "Which blood tests are required before MCTL therapy?",
+            "a": "<p>Expect a full blood count, liver and kidney function tests, electrolytes, coagulation studies, LDH, C-reactive protein and relevant tumour markers. Viral screening for hepatitis B, hepatitis C, HIV and sometimes syphilis and EBV is standard before any cell therapy. Many centres also draw a larger blood sample to check lymphocyte counts and immune subsets, because your own T cells are the starting material for the treatment.</p>"
+          },
+          {
+            "q": "Why do they test my immune system and HLA type?",
+            "a": "<p>These tests show whether your immune system can supply enough healthy T cells and whether your tumour carries the antigens the therapy is designed to recognise. HLA typing and antigen expression testing help the laboratory choose which targets to train the cells against. If lymphocyte counts are very low after heavy chemotherapy, the team may delay collection until they recover. Results can influence whether the therapy is offered at all.</p>"
+          },
+          {
+            "q": "What happens if a test result says I am not eligible?",
+            "a": "<p>An abnormal result does not always mean the door is closed. Active infection, very low blood counts or poor organ function often delay treatment rather than rule it out, and the tests are repeated once you are more stable. If MCTL therapy is not suitable, most centres suggest alternatives such as clinical trials, other cell therapies or standard treatment. Eligibility decisions rest with the treating oncology team.</p>"
+          },
+          {
+            "q": "Do I have to stop chemotherapy before these tests?",
+            "a": "<p>Most centres ask for a washout period of roughly two to four weeks between chemotherapy and cell collection, so your lymphocytes can recover. Steroids and some immunosuppressive drugs may also need to be reduced, because they can weaken the T cells being harvested. Never stop or change any medicine on your own. Ask your home oncologist and the treating centre to agree the timing together before you travel.</p>"
+          },
+          {
+            "q": "How much do the pre-treatment tests cost?",
+            "a": "<p>Pre-treatment testing is usually quoted separately from the therapy itself and often falls in the range of a few hundred to a few thousand US dollars, depending on how much imaging, tissue testing and immune profiling is needed. Repeating tests you already had done recently is a common source of extra cost. Ask for an itemised estimate in writing before you commit, as prices vary widely between centres.</p>"
+          },
+          {
+            "q": "Can I get some of these tests done at home before I travel?",
+            "a": "<p>Yes, and doing so is usually encouraged. Routine blood work, viral screening and recent imaging can often be completed in your home country and sent ahead for review, which shortens your stay abroad. Specialised tissue and immune tests are normally done at the treating centre's own laboratory. CancerFax can help you understand which reports a centre wants before you travel, though the final test list is set by the treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

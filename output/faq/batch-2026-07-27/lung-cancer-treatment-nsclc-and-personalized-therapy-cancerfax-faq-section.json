@@ -1,0 +1,59 @@
+{
+  "pillar": "Lung Cancer Treatment: NSCLC and Personalized Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "lung-cancer-treatment-nsclc-and-personalized-therapy-cancerfax",
+  "route": "/insights/lung-cancer-treatment-nsclc-and-personalized-therapy-cancerfax",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is non-small cell lung cancer?",
+            "a": "<p>Non-small cell lung cancer (NSCLC) is the most common form of lung cancer, making up about 85 percent of cases. It includes adenocarcinoma, squamous cell carcinoma and large cell carcinoma. NSCLC usually grows more slowly than small cell lung cancer, which gives doctors more time to test the tumour and match treatment to it. Your exact subtype guides which drugs are likely to help you.</p>"
+          },
+          {
+            "q": "What does personalized therapy actually mean for my lung cancer?",
+            "a": "<p>Personalized therapy means your treatment is chosen from the specific genetic changes found inside your tumour, not from the cancer type alone. A sample of tissue or blood is tested for markers such as EGFR, ALK, ROS1, KRAS and PD-L1. If a match is found, you may be offered a targeted tablet or immunotherapy instead of standard chemotherapy. Not every tumour carries a treatable marker.</p>"
+          },
+          {
+            "q": "Do I really need biomarker testing before I start treatment?",
+            "a": "<p>In advanced NSCLC, biomarker testing should be done before treatment starts, because the results can completely change which drug you are given. Testing usually covers EGFR, ALK, ROS1, BRAF, MET, RET, KRAS and PD-L1, and results take one to three weeks. Starting chemotherapy first may limit some later options. Ask your oncologist whether your report includes full next-generation sequencing rather than a single-gene test alone.</p>"
+          },
+          {
+            "q": "I have an EGFR mutation. What treatment will I be offered?",
+            "a": "<p>EGFR-mutated NSCLC is usually treated first with a targeted tablet such as osimertinib, taken once a day at home instead of intravenous chemotherapy. These drugs often control the disease for one to three years and tend to cause fewer side effects than chemotherapy. Osimertinib also reaches the brain well, which matters if the cancer has spread there. Your oncologist will confirm which generation of drug suits your mutation.</p>"
+          },
+          {
+            "q": "What if my tumour is ALK-positive?",
+            "a": "<p>ALK-positive NSCLC responds well to targeted tablets such as alectinib, brigatinib or lorlatinib, and many patients stay stable on them for several years. ALK changes are found in roughly 3 to 5 percent of NSCLC, more often in younger people and non-smokers. These drugs also work inside the brain, where ALK-positive lung cancer commonly spreads. Response length varies, so regular scans are used to check the drug is still holding.</p>"
+          },
+          {
+            "q": "Will immunotherapy work for me?",
+            "a": "<p>Immunotherapy works best when your tumour has a high PD-L1 score and no EGFR or ALK mutation. Drugs such as pembrolizumab, nivolumab and atezolizumab can produce long-lasting control in some patients, sometimes for years. With PD-L1 above 50 percent, immunotherapy may be given alone; below that, it is often combined with chemotherapy. Not everyone responds, and your oncologist will weigh your PD-L1 result against your general health.</p>"
+          },
+          {
+            "q": "Is chemotherapy still used for NSCLC?",
+            "a": "<p>Chemotherapy still has a clear role, especially when no targetable mutation is found or when it is combined with immunotherapy. Platinum-based regimens using cisplatin or carboplatin remain standard for many patients, and are also given after surgery to lower the chance of return. Modern anti-sickness medicines make it far more tolerable than most people expect. Your team will decide based on your tumour tests and how fit you are.</p>"
+          },
+          {
+            "q": "My cancer is stage 4. Is treatment still worth it?",
+            "a": "<p>Stage 4 NSCLC is treatable, and many people now live for years with good quality of life, particularly when a targeted or immunotherapy option matches their tumour. Treatment aims to control the cancer, ease symptoms and keep you active rather than to cure it. Radiotherapy can also settle pain from bone or brain spread. Outcomes depend heavily on your tumour markers, so ask what your own test results mean.</p>"
+          },
+          {
+            "q": "What happens when my targeted tablet stops working?",
+            "a": "<p>When a targeted drug stops working, the usual next step is repeat testing to find out how the tumour has changed, then switching to a newer drug, a different combination, or chemotherapy. A fresh biopsy or blood test can reveal resistance changes such as MET amplification or the C797S mutation. Clinical trials often open at this point too. Options depend on your resistance pattern, so discuss retesting early with your oncologist.</p>"
+          },
+          {
+            "q": "Can I get personalized lung cancer treatment in India or China?",
+            "a": "<p>Hospitals in India and China offer full biomarker testing, targeted drugs and immunotherapy for NSCLC, often at a fraction of Western prices. China also runs a large number of early-phase lung cancer trials, including cell therapies. CancerFax can help you send your reports for a treatment opinion and understand what a plan abroad may involve. Eligibility, visas and costs vary, so confirm everything with the treating team before you travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

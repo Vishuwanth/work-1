@@ -1,0 +1,59 @@
+{
+  "pillar": "Clinical Trials for Gastric Cancer in China: Access Guide for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "clinical-trials-gastric-cancer-china",
+  "route": "/insights/clinical-trials-gastric-cancer-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can international patients join gastric cancer clinical trials in China?",
+            "a": "<p>Yes, some gastric cancer trials in China do accept international patients, but access is not automatic. Many Chinese trials recruit only mainland residents, while others open to foreign patients through private or international arms at large cancer centres. Eligibility depends on the specific protocol, your diagnosis, prior treatment, and investigator review, so acceptance can never be assumed in advance.</p>"
+          },
+          {
+            "q": "What kinds of gastric cancer trials are running in China right now?",
+            "a": "<p>China runs one of the world's largest gastric cancer trial portfolios, covering CAR-T and TCR-T cell therapies against targets such as CLDN18.2, bispecific antibodies, PD-1 and PD-L1 combinations, antibody-drug conjugates, and perioperative chemotherapy strategies. Many of these study advanced or metastatic disease after standard treatment has failed. Which trials are open changes constantly, so current listings should be checked with the treating oncology team.</p>"
+          },
+          {
+            "q": "Who is eligible for a gastric cancer trial in China?",
+            "a": "<p>Eligibility usually requires biopsy-confirmed gastric or gastroesophageal junction cancer, measurable disease, adequate organ function, and a good performance status. Biomarker trials often add requirements such as CLDN18.2 or HER2 expression, or a specific number of prior treatment lines. Final eligibility is decided only after the investigator reviews your full records, so no centre can confirm enrolment before that assessment.</p>"
+          },
+          {
+            "q": "What documents do I need to apply from abroad?",
+            "a": "<p>Most Chinese centres ask for a translated medical summary, the original pathology report, recent imaging on CD or in DICOM form, biomarker or genomic testing results, and a record of every treatment you have already received. Translation into Chinese or English is normally expected.</p><p>Incomplete records are the most common cause of delay, and missing biomarker testing may need to be repeated locally before screening can move forward.</p>"
+          },
+          {
+            "q": "How long does the application and screening process take?",
+            "a": "<p>Expect roughly four to ten weeks from first enquiry to enrolment in most cases. Document review and preliminary screening often take two to four weeks, followed by visa processing, travel, and on-site confirmatory tests such as fresh biopsy or imaging. Timelines vary widely by centre and protocol, and a trial can close to recruitment while your application is still being reviewed.</p>"
+          },
+          {
+            "q": "Do I have to pay for a clinical trial in China?",
+            "a": "<p>The investigational drug or cell product is usually provided free of charge, but international patients generally pay for other costs themselves. These often include screening tests, hospital stay, supportive care, translation, accommodation, and travel, which for cell therapy trials can run into tens of thousands of US dollars.</p><p>Cost structures differ by sponsor and hospital, so a written estimate should be requested before you commit to travel.</p>"
+          },
+          {
+            "q": "What visa do I need to travel to China for a trial?",
+            "a": "<p>Most patients travel on an M or S visa supported by an invitation letter from the treating hospital. The centre normally issues this letter only after preliminary screening suggests you may be suitable, which is why document review comes first. A companion usually applies separately. Visa approval rests with Chinese authorities and can never be guaranteed by the hospital or by any coordinator.</p>"
+          },
+          {
+            "q": "Which hospitals in China run the most gastric cancer trials?",
+            "a": "<p>The busiest centres include Beijing Cancer Hospital, the Chinese Academy of Medical Sciences Cancer Hospital in Beijing, Fudan University Shanghai Cancer Center, Sun Yat-sen University Cancer Center in Guangzhou, and Zhejiang Cancer Hospital. Several have international patient departments with English-speaking coordinators. Trial activity shifts between sites, so a centre with openings today may have none by the time you apply.</p>"
+          },
+          {
+            "q": "What are the risks of joining an experimental gastric cancer trial?",
+            "a": "<p>Experimental treatments carry real risks and no promise of benefit. Cell therapies can cause cytokine release syndrome, low blood counts, and gastric mucosal injury when targeting CLDN18.2, while immunotherapy combinations can trigger immune-related inflammation of the lungs, liver, thyroid, or bowel. Some patients see no response at all. These risks should be weighed against your remaining standard options with your own oncology team.</p>"
+          },
+          {
+            "q": "How do I find out which trials I might actually qualify for?",
+            "a": "<p>Start by matching your pathology, biomarker status, and treatment history against open protocols, since most rejections come from a mismatch that could have been spotted on paper. Registries such as the Chinese Clinical Trial Registry and ClinicalTrials.gov list active studies, though many entries are in Chinese.</p><p>CancerFax can help organize medical reports, identify potentially relevant trials and centres, and coordinate travel and follow-up, alongside your treating oncology team, which makes the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

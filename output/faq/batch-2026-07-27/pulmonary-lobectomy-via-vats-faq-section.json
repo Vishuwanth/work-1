@@ -1,0 +1,59 @@
+{
+  "pillar": "Pulmonary Lobectomy via VATS: What Minimally Invasive Lung Surgery Looks Like",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pulmonary-lobectomy-via-vats",
+  "route": "/insights/pulmonary-lobectomy-via-vats",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is a VATS lobectomy?",
+            "a": "<p>A VATS lobectomy removes one lobe of your lung through two to four small cuts in the chest instead of one large opening. The surgeon works with a tiny camera, called a thoracoscope, and long thin instruments, watching the operation on a screen. Video-assisted thoracoscopic surgery is standard care for many early-stage lung cancers. Whether it suits your tumour depends on its size and position.</p>"
+          },
+          {
+            "q": "How is VATS different from open lung surgery?",
+            "a": "<p>The main difference is that VATS avoids cutting through chest muscle and spreading the ribs, which is the most painful part of open surgery. Open surgery, or thoracotomy, uses a single incision of around 15 to 20 centimetres under the shoulder blade. VATS uses ports of one to four centimetres. Patients often report less pain, fewer chest infections, and a faster return to normal breathing.</p>"
+          },
+          {
+            "q": "Am I a candidate for VATS, or will I need open surgery?",
+            "a": "<p>Most people with a stage I or stage II lung cancer confined to one lobe can be considered for VATS. Your surgeon weighs tumour size, whether it sits near large blood vessels or the airway, scarring from past infection or radiation, and your lung function tests. Some operations start as VATS and convert to open surgery mid-way for safety. Only your surgical team can confirm what fits your case.</p>"
+          },
+          {
+            "q": "How long will I be in hospital after a VATS lobectomy?",
+            "a": "<p>Most patients go home three to five days after a VATS lobectomy, compared with about a week after open surgery. The chest drain usually comes out on day two or three, once air leaks stop and fluid settles. Older patients, smokers, and those with weaker lung function may stay longer. Your discharge date depends on how quickly your drain stops and your pain is controlled on tablets.</p>"
+          },
+          {
+            "q": "How much breathing capacity will I lose after one lobe is removed?",
+            "a": "<p>Expect to lose roughly 10 to 20 percent of your lung capacity after one lobe is removed, and most of that loss is permanent. The remaining lobes expand to fill the space over several months, so day-to-day breathing usually feels better at six months than at six weeks. If you already have emphysema or low baseline lung function, the drop can feel larger and rehabilitation matters more.</p>"
+          },
+          {
+            "q": "Does VATS treat lung cancer as well as open surgery does?",
+            "a": "<p>Yes. For early-stage lung cancer, long-term survival after VATS lobectomy matches open surgery in the trials and large registries reported so far. The key measures are the same: the whole lobe is removed, the margins are clear, and the lymph nodes are sampled properly. What matters more than the incision is complete removal and accurate staging, so ask your surgeon how many nodes they plan to take.</p>"
+          },
+          {
+            "q": "How painful is recovery, and when can I go back to work?",
+            "a": "<p>Most people need strong painkillers for about a week and simple tablets for two to four weeks after that. Light walking starts the day after surgery. Desk work is often possible at three to four weeks, physical work at eight to twelve. Nerve pain around the port sites can linger for months in some patients. Breathing exercises and early walking make the biggest difference to how fast you recover.</p>"
+          },
+          {
+            "q": "What can go wrong during or after the operation?",
+            "a": "<p>The most common problem is a prolonged air leak, where the chest drain has to stay in longer than planned. Other risks include chest infection, irregular heartbeat, bleeding, and pain that persists around the incisions. Serious complications are uncommon in experienced hands, and VATS generally carries fewer of them than open surgery. Your risk depends on your age, smoking history, heart health, and how well your lungs work beforehand.</p>"
+          },
+          {
+            "q": "Should I choose robotic surgery instead of VATS?",
+            "a": "<p>Robotic lobectomy and VATS give broadly similar results, so the better choice is usually whichever your surgeon performs most often. Robotic systems offer wristed instruments and three-dimensional vision, which can help with difficult lymph node dissection. VATS is more widely available and generally costs less. Surgeon experience and hospital volume influence your outcome more than the platform itself, so ask how many cases the team does each year.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for a VATS lobectomy, and what does it cost?",
+            "a": "<p>Yes, VATS lobectomy is performed routinely at high-volume centres in India and China, often at a fraction of Western prices, though quoted figures vary widely by hospital and by what the package includes. Costs usually cover surgery, hospital stay, and initial follow-up, but not travel, extended recovery, or later treatment. CancerFax can help you compare centres and gather estimates, though your treating oncology team should confirm that travelling is safe for you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

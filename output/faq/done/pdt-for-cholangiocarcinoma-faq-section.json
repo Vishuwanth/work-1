@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT for Cholangiocarcinoma: Survival Benefit from Palliative Bile Duct Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-for-cholangiocarcinoma",
+  "route": "/insights/pdt-for-cholangiocarcinoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can photodynamic therapy help me live longer if I have bile duct cancer?",
+            "a": "<p>Yes, in many cases photodynamic therapy adds several months of survival for people with unresectable bile duct cancer. Studies comparing PDT plus biliary stenting against stenting alone have reported median survival of roughly 12 to 16 months, versus about 6 to 9 months with a stent only. The benefit depends on tumour location, liver function and how well bile drainage is restored, so results vary from person to person.</p>"
+          },
+          {
+            "q": "How does photodynamic therapy actually kill the tumour inside my bile duct?",
+            "a": "<p>PDT works in two steps: a light-sensitive drug is injected into your bloodstream, then a thin laser fibre is passed into the bile duct to shine red light on the tumour. The drug gathers in cancer cells and, once activated by that light, releases oxygen molecules that destroy them. The effect reaches only a few millimetres deep, so PDT reopens the duct rather than removing the whole tumour.</p>"
+          },
+          {
+            "q": "Am I eligible for PDT if my bile duct cancer cannot be operated on?",
+            "a": "<p>PDT is generally offered when the tumour cannot be surgically removed but can still be reached by an endoscope or a drain through the skin. Your team will check liver function, bilirubin levels, fitness and whether infection is present. Widespread liver or distant spread usually rules it out. CancerFax can help collate your scans for review, but only your treating hepatobiliary team can confirm eligibility.</p>"
+          },
+          {
+            "q": "What actually happens on the day of the procedure?",
+            "a": "<p>The light-sensitive drug is given by vein about two days before treatment, then you return for an ERCP or a percutaneous procedure under sedation. The doctor threads a laser fibre to the blocked segment and illuminates it for roughly 10 to 12 minutes per section. A stent is usually placed afterwards to keep bile flowing. Most people stay in hospital one or two nights, though this can depend on your liver function.</p>"
+          },
+          {
+            "q": "How long will I be sensitive to light after PDT?",
+            "a": "<p>Expect to avoid direct sunlight and bright indoor light for four to six weeks after porfimer sodium, the drug used most often for bile duct PDT. Sunburn can happen within minutes of exposure, even through a window. Long sleeves, gloves, a wide hat and sunglasses are needed outdoors during that time. Newer photosensitisers such as temoporfin may shorten this window, so ask your team which drug you received.</p>"
+          },
+          {
+            "q": "Can PDT cure my cholangiocarcinoma?",
+            "a": "<p>No, photodynamic therapy is a palliative treatment, not a cure. Its purpose is to shrink the tumour blocking the bile duct, keep bile draining, relieve jaundice and itching, and give you more time with better quality of life. Surgery or a liver transplant remain the only treatments that may cure bile duct cancer, and they are possible only when the tumour is found early and stays confined.</p>"
+          },
+          {
+            "q": "Is PDT better than just having a stent put in?",
+            "a": "<p>Adding PDT to stenting appears to work better than stenting alone for most people with bile ducts blocked by cholangiocarcinoma. Trials have shown longer survival, faster clearing of bilirubin and improved quality-of-life scores in the combined group. A stent relieves the blockage mechanically but does not treat the tumour, while PDT also destroys tumour tissue lining the duct. Your team will weigh this against your fitness for repeated endoscopy.</p>"
+          },
+          {
+            "q": "Can I have chemotherapy as well as PDT?",
+            "a": "<p>Yes, PDT is often combined with systemic chemotherapy such as gemcitabine and cisplatin, and reported survival with the combination has reached about 17 to 20 months in some series. The two treatments act differently: chemotherapy targets disease throughout the body, while PDT targets the duct blockage directly. Timing is usually staggered to let blood counts recover. Whether this combination suits you depends on your liver function and overall fitness.</p>"
+          },
+          {
+            "q": "Will I need PDT more than once?",
+            "a": "<p>Many people have PDT repeated every three to four months, as the tumour regrows and the duct narrows again. Some studies suggest that patients who receive two or more sessions live longer than those treated once. Each session needs a fresh dose of the light-sensitive drug and another period of light avoidance. How often it is repeated depends on your response, your bilirubin levels and how well you tolerate the procedure.</p>"
+          },
+          {
+            "q": "Where can I get PDT for bile duct cancer, and what does it cost?",
+            "a": "<p>PDT for cholangiocarcinoma is available at selected hepatobiliary centres in India, China, South Korea, Europe and the United States, though it is not offered everywhere. Costs vary widely by country and by how many sessions you need, and the light-sensitive drug is often the largest single item. CancerFax can help you identify centres that perform biliary PDT, but treatment decisions should rest with your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

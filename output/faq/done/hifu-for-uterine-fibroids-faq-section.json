@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU for Uterine Fibroids: MRgFUS and USgHIFU Complete Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-for-uterine-fibroids",
+  "route": "/insights/hifu-for-uterine-fibroids",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is HIFU treatment for uterine fibroids?",
+            "a": "<p>HIFU (high-intensity focused ultrasound) destroys fibroid tissue using focused sound waves, with no cuts, no needles, and no general anaesthesia. The beam passes harmlessly through the abdominal wall and heats a tiny point inside the fibroid to roughly 60-85°C, killing that tissue. The body then absorbs the dead tissue over several months. Most women go home the same day and return to normal activity within a few days.</p>"
+          },
+          {
+            "q": "What is the difference between MRgFUS and USgHIFU?",
+            "a": "<p>Both deliver the same focused ultrasound energy; they differ in how the doctor watches the treatment. MRgFUS uses MRI, which shows tissue temperature in real time and maps the dead tissue immediately afterwards. USgHIFU uses ultrasound imaging, which is faster, cheaper, and far more widely available in China and India, but relies on greyscale changes rather than direct temperature readings. Published outcomes for the two are broadly similar.</p>"
+          },
+          {
+            "q": "How much of my fibroid will HIFU actually destroy?",
+            "a": "<p>Most women have 60 to 90 percent of the fibroid's blood-supplied volume ablated in a single session, with the fibroid itself shrinking around 30 to 50 percent over six to twelve months. The exact figure depends on fibroid type, size, position, and blood flow. Fibroids that appear bright and fluid-rich on MRI often respond less well. Your radiologist can estimate your likely ablation rate from the screening scans.</p>"
+          },
+          {
+            "q": "Am I a candidate for HIFU, or will I be turned down?",
+            "a": "<p>You may be suitable if your fibroids cause heavy bleeding, pressure, or pain and can be reached safely by the ultrasound beam. Fibroids hidden behind bowel loops, behind thick surgical scars, or sitting very close to the sacrum are often excluded. A screening MRI is the only reliable way to confirm eligibility. CancerFax can help send your scans to a HIFU centre for review, though the treating team makes the final call.</p>"
+          },
+          {
+            "q": "Will HIFU affect my chances of getting pregnant later?",
+            "a": "<p>HIFU does not cut or stitch the uterus, so it leaves no surgical scar that could weaken the uterine wall, and many women have conceived and delivered after treatment. Reported pregnancies after both MRgFUS and USgHIFU have largely been uncomplicated. Even so, HIFU is not formally approved as a fertility treatment everywhere, and evidence in women actively trying to conceive is still limited. Speak to a fertility-aware gynaecologist first.</p>"
+          },
+          {
+            "q": "How long does a HIFU session take, and does it hurt?",
+            "a": "<p>A session usually runs one to three hours, most of it planning and positioning rather than actual heating. You lie face down on the treatment table and stay awake under light sedation, so you can tell the team exactly what you feel. Most women describe warmth, a deep ache, or brief sharp twinges during each pulse. The energy can be paused or reduced immediately if the pain becomes uncomfortable.</p>"
+          },
+          {
+            "q": "How soon will my heavy bleeding and bloating improve?",
+            "a": "<p>Heavy bleeding often improves within the first one to three menstrual cycles, while pressure and bulk symptoms ease more slowly as the treated tissue is absorbed over six to twelve months. Symptom scores in published series improve substantially by six months and frequently hold for several years. Some women notice a watery or brownish discharge for a few weeks, which is normal as dead tissue clears.</p>"
+          },
+          {
+            "q": "Can my fibroids come back after HIFU?",
+            "a": "<p>Yes, they can. Untreated fibroids may keep growing and new ones can form, so symptoms return in roughly one in five women within five years. Re-intervention rates are somewhat higher after HIFU than after hysterectomy, which removes the uterus completely. The more thoroughly the fibroid is ablated in the first session, the lower the chance of needing more treatment. HIFU can usually be repeated if symptoms return.</p>"
+          },
+          {
+            "q": "How does HIFU compare with myomectomy or uterine artery embolisation?",
+            "a": "<p>HIFU avoids incisions, general anaesthesia, and a hospital stay, so recovery takes days rather than weeks, but myomectomy and uterine artery embolisation usually treat more fibroid volume in one go. Myomectomy suits women with many or deeply embedded fibroids who want the uterus preserved. Embolisation cuts the blood supply to all fibroids at once. The right choice depends on your fibroid map, your symptoms, and your plans for children.</p>"
+          },
+          {
+            "q": "What does HIFU for fibroids cost in India or China?",
+            "a": "<p>Costs vary widely by country and by whether MRI or ultrasound guidance is used, and HIFU in India and China is often a fraction of Western pricing. Quoted packages may exclude the screening MRI, sedation support, and follow-up scans, so the headline figure can be misleading. Insurance cover is inconsistent and many insurers still treat HIFU as investigational.</p><p>CancerFax can help you request itemised quotes from treating centres so you can compare like with like.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

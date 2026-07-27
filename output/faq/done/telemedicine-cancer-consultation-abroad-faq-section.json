@@ -1,0 +1,59 @@
+{
+  "pillar": "Telemedicine Cancer Consultations: How to Prepare for a Video Consultation Abroad",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "telemedicine-cancer-consultation-abroad",
+  "route": "/guides/telemedicine-cancer-consultation-abroad",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What do I need to prepare before a telemedicine cancer consultation abroad?",
+            "a": "<p>Gather your complete medical file first: pathology and biopsy reports, recent scans, blood work, a list of every drug you take, and a short written timeline of your illness. Send these to the hospital several days before the call so the oncologist can read them in advance. Consultations often run only 20 to 30 minutes, so how well you prepare usually decides how much useful guidance you receive.</p>"
+          },
+          {
+            "q": "How long does an online consultation with an overseas oncologist usually take?",
+            "a": "<p>Most first video consultations last 20 to 45 minutes, depending on the hospital and how complex your case is. The oncologist normally reviews your submitted records before the call, then uses the live time to explain the findings and answer your questions. Follow-up calls are often shorter. Ask the coordinator how long your slot is when you book, because scheduling practice varies between centres.</p>"
+          },
+          {
+            "q": "Can a doctor abroad give me a treatment plan without examining me in person?",
+            "a": "<p>Yes, an oncologist can often outline a proposed plan from imaging, pathology, and lab reports alone, because most cancer decisions rest on those documents. What they cannot do remotely is examine you physically, judge your fitness by observation, or repeat tests. Many centres therefore treat the video plan as provisional. The final protocol may change after you arrive and in-person assessment is completed.</p>"
+          },
+          {
+            "q": "What questions should I ask during the video call?",
+            "a": "<p>Ask what stage the doctor believes you are at, what protocol is recommended, how many cycles or sessions it involves, what response rate is typical for patients like you, and how long you would need to stay abroad. Also ask what the next option is if the plan does not work. Write your questions down beforehand and put the three most important ones first.</p>"
+          },
+          {
+            "q": "How much does a telemedicine cancer consultation abroad cost?",
+            "a": "<p>Many cancer centres in India and China offer a first video opinion free or for a modest fee, often somewhere between 50 and 200 US dollars, while a full tumour board review usually costs more. The price depends on the hospital, the seniority of the oncologist, and whether a multidisciplinary panel reviews your file. Ask for the fee in writing before booking, as inclusions vary widely.</p>"
+          },
+          {
+            "q": "Will there be a language barrier, and do I need an interpreter?",
+            "a": "<p>Senior oncologists at India's major cancer centres generally consult in English, so translation is often unnecessary there. For hospitals in China, a medical interpreter is usually arranged by the hospital or by a coordinating service such as CancerFax, and using one is strongly advisable for accuracy. Ask in advance who will interpret, because a relative without medical vocabulary can easily misstate important clinical details.</p>"
+          },
+          {
+            "q": "What technology do I need for the video consultation?",
+            "a": "<p>A stable internet connection, a phone or laptop with a working camera and microphone, and whichever app the hospital uses are usually enough. Test the link, the sound, and the video at least a day earlier, and sit somewhere quiet with good light. Keep your reports beside you or open on screen. If the call drops, most hospitals will reconnect by phone, so keep your number handy.</p>"
+          },
+          {
+            "q": "Should a family member join the call with me?",
+            "a": "<p>Yes, having one relative on the call is usually worth it, because two people remember more than one and patients under stress often miss details. Choose someone who can take notes and ask follow-up questions, rather than having the whole family join and crowd the conversation. Many hospitals allow the session to be recorded if you ask first, though policies on recording differ by centre.</p>"
+          },
+          {
+            "q": "How should I send my scans, and do I still need the originals?",
+            "a": "<p>Send the actual digital image files from the CD, not photographs of printed films, because radiologists abroad need to scroll through the full image set to measure the tumour properly. Upload them through the hospital's portal or a secure link before the call. Still carry the original discs and reports when you travel, since the receiving centre often re-reads or repeats imaging on arrival.</p>"
+          },
+          {
+            "q": "What happens after the consultation if I decide to travel for treatment?",
+            "a": "<p>The hospital normally issues a written opinion with a proposed protocol and a cost estimate, which you then use to apply for a medical visa and plan travel. Coordinators such as CancerFax can help assemble the visa invitation letter, accommodation, and appointment dates, while the treating oncology team decides the medical plan. Timelines depend on visa processing and bed availability, so allow several weeks where you can.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

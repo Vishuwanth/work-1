@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation for Adrenal Tumours and Bone Metastases",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-for-adrenal-bone-metastases",
+  "route": "/insights/microwave-ablation-for-adrenal-bone-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation, and how does it treat adrenal tumours and bone metastases?",
+            "a": "<p>Microwave ablation uses a thin needle-like probe to heat and destroy a tumour from the inside, without open surgery. A doctor guides the probe through the skin using CT or ultrasound, then microwave energy heats the tissue above 60°C until the tumour cells die. For adrenal tumours and bone metastases, this can shrink the tumour and relieve pain while sparing surrounding healthy tissue in most cases.</p>"
+          },
+          {
+            "q": "Does microwave ablation actually shrink adrenal tumours?",
+            "a": "<p>Yes, microwave ablation can destroy small adrenal tumours, with published series reporting local control in roughly 80 to 90 percent of lesions under 3 to 4 cm. Results are best when the tumour is small, well seen on imaging, and away from major blood vessels. Larger tumours may need more than one session, or a combination with other treatments. Your interventional radiologist will judge what is realistic from your own scans.</p>"
+          },
+          {
+            "q": "Will microwave ablation take away my bone pain?",
+            "a": "<p>Most patients feel meaningful pain relief within one to two weeks, and studies report significant improvement in about 70 to 90 percent of treated bone metastases. The heat destroys pain-generating nerve endings in the bone lining as well as tumour tissue. Relief can last months, and the procedure can often be repeated if pain returns. Pain medicines are usually still needed at first, then reduced gradually under your team's guidance.</p>"
+          },
+          {
+            "q": "What happens during the procedure, and will I be awake?",
+            "a": "<p>Most microwave ablations are done under general anaesthesia or deep sedation, so you feel nothing during treatment. The radiologist numbs the skin, makes a small nick, and advances the probe into the tumour under CT or ultrasound guidance. The energy is delivered for roughly 5 to 10 minutes per tumour. Whole procedures usually take 30 to 90 minutes, and no stitches are needed, only a small dressing over the puncture site.</p>"
+          },
+          {
+            "q": "How long is recovery, and when can I fly home?",
+            "a": "<p>Many patients go home the next day, and some the same evening. Soreness at the puncture site and mild fever are common for two to three days and settle with simple painkillers. Normal walking usually resumes within 24 hours, though weight-bearing may be restricted if a large bone was treated. Most teams clear international patients to fly about three to seven days afterwards, once the follow-up scan is reviewed.</p>"
+          },
+          {
+            "q": "What are the risks, especially for an adrenal tumour?",
+            "a": "<p>Serious complications are uncommon, but adrenal ablation carries one specific risk: heating the gland can release a surge of hormones and cause a sudden, dangerous rise in blood pressure. Experienced teams prevent this with drug blockade beforehand and close anaesthetic monitoring. Other risks include bleeding, infection, injury to nearby organs, and, in bone treatment, fracture of a weakened bone. Ask how many adrenal ablations your centre performs each year.</p>"
+          },
+          {
+            "q": "Am I a suitable candidate for microwave ablation?",
+            "a": "<p>You may be suitable if you have a limited number of tumours, each under 3 to 5 cm, that can be reached safely with a needle. It is often chosen when surgery is too risky, when radiotherapy has already been given to that site, or when pain control is the main goal. Very large tumours, or those touching the spinal cord or bowel, are usually excluded. Only your treating team can confirm eligibility after reviewing your scans.</p>"
+          },
+          {
+            "q": "Is microwave ablation better than radiotherapy for painful bone metastases?",
+            "a": "<p>Neither is simply better; they work differently. Radiotherapy is the standard first choice and treats a wider area, but relief can take two to six weeks and a site can usually only be irradiated a limited number of times. Microwave ablation gives faster relief, often within days, and can be used again on the same spot. Many patients receive both, and the sequence depends on your scans and previous treatment.</p>"
+          },
+          {
+            "q": "Can microwave ablation be combined with my other treatments?",
+            "a": "<p>Yes, and it often is. For bone metastases in weight-bearing areas, ablation is frequently followed immediately by cementoplasty, where bone cement is injected to restore strength and prevent fracture. It can also be paired with radiotherapy, and it does not usually interrupt systemic treatment such as chemotherapy, immunotherapy, or hormone therapy for long. Most teams restart systemic drugs within one to two weeks, depending on how you recover.</p>"
+          },
+          {
+            "q": "What does microwave ablation cost in India or China, and how do I arrange it?",
+            "a": "<p>Costs in India commonly fall in the range of USD 3,000 to 6,000 per session, and in China roughly USD 4,000 to 8,000, depending on the number of tumours, imaging used, and hospital stay. Quotes usually exclude scans, travel, and follow-up. CancerFax can help you send your scans and reports to centres for a written opinion and estimate, though the treating team abroad makes the final decision on suitability.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

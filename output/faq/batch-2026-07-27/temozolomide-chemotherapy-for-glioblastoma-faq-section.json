@@ -1,0 +1,59 @@
+{
+  "pillar": "Temozolomide (TMZ) Chemotherapy for Glioblastoma",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "temozolomide-chemotherapy-for-glioblastoma",
+  "route": "/insights/temozolomide-chemotherapy-for-glioblastoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is temozolomide and how does it work against glioblastoma?",
+            "a": "<p>Temozolomide is an oral chemotherapy tablet that damages the DNA inside glioblastoma cells so they can no longer divide. It crosses the blood-brain barrier, which is why it works for brain tumours when most chemotherapy drugs cannot reach them. It is the standard drug given alongside and after radiotherapy for newly diagnosed glioblastoma in adults, and it is usually taken at home rather than in hospital.</p>"
+          },
+          {
+            "q": "How do I take temozolomide, and for how long?",
+            "a": "<p>Most patients take temozolomide capsules once a day on an empty stomach, first every day during six weeks of radiotherapy, then in five-day cycles repeated every 28 days. Six maintenance cycles is the usual plan, though some teams give fewer or more depending on how the tumour and your blood counts respond. Your oncologist sets the dose from your body surface area and adjusts it between cycles.</p>"
+          },
+          {
+            "q": "What is the Stupp protocol my doctor mentioned?",
+            "a": "<p>The Stupp protocol is the standard first treatment for newly diagnosed glioblastoma: surgery to remove as much tumour as safely possible, then six weeks of daily radiotherapy with low-dose temozolomide, then six monthly cycles of higher-dose temozolomide. It is named after the trial that established it in 2005 and remains the backbone of care in most countries, including India and China, often with additions such as tumour-treating fields.</p>"
+          },
+          {
+            "q": "What does MGMT methylation mean for my chances on temozolomide?",
+            "a": "<p>MGMT methylation means the tumour has switched off a repair gene, so temozolomide damage sticks and the drug tends to work far better. Patients with a methylated MGMT tumour often live roughly twice as long on temozolomide as those without it. Unmethylated tumours still receive the drug in most centres because the benefit, while smaller, is real. Ask whether your MGMT test was done on the surgical sample.</p>"
+          },
+          {
+            "q": "How much longer can temozolomide help me live?",
+            "a": "<p>In the trial that made temozolomide standard, adding it to radiotherapy raised median survival from about 12 months to just under 15 months, and five-year survival from 2 to 10 percent. Those are averages across hundreds of patients, not a prediction for any one person. Age, how much tumour was removed, MGMT status and general fitness can all shift the outlook considerably in either direction.</p>"
+          },
+          {
+            "q": "What side effects should I expect from temozolomide?",
+            "a": "<p>Nausea, tiredness, constipation and a drop in blood counts are the common side effects, and most are manageable at home. An anti-sickness tablet taken an hour before each dose usually controls the nausea. Low platelets and white cells are the main reason cycles get delayed, so you will have blood tests before every cycle. Tell your team quickly about any fever, unusual bruising or breathlessness.</p>"
+          },
+          {
+            "q": "Why was I given an antibiotic along with my temozolomide?",
+            "a": "<p>Daily temozolomide during radiotherapy lowers a type of white cell called CD4, which raises the risk of a lung infection called pneumocystis pneumonia. Most centres therefore prescribe a preventive antibiotic, usually co-trimoxazole, for the whole six weeks of combined treatment and sometimes longer. It is a precaution, not a sign that anything has gone wrong. Do not stop it without asking the doctor who prescribed it.</p>"
+          },
+          {
+            "q": "What happens if my glioblastoma comes back while I am on temozolomide?",
+            "a": "<p>Options at recurrence include repeat surgery, re-irradiation, bevacizumab, lomustine, tumour-treating fields, or a clinical trial, and the choice depends on where the tumour returned, how long the first response lasted and your current fitness. Some patients are rechallenged with temozolomide if the earlier response was durable. CancerFax can help you compare recurrence protocols and trial options at centres in India and China alongside your treating oncologist.</p>"
+          },
+          {
+            "q": "How much does temozolomide cost in India, and is it available there?",
+            "a": "<p>Temozolomide is widely available in India as a generic, and a full course often costs a fraction of the branded price charged in Western countries, though the exact figure depends on your dose, body size and the number of cycles. Major centres in Delhi, Mumbai, Chennai and Bengaluru stock it routinely. Ask for a written cycle-by-cycle estimate, since scans, blood tests and radiotherapy add substantially to the total.</p>"
+          },
+          {
+            "q": "Can I travel abroad for glioblastoma treatment while taking temozolomide?",
+            "a": "<p>Many patients do travel, because temozolomide is taken orally at home and only needs monthly blood tests and a scan every two to three months. Plan for continuity: carry your MGMT report, operative notes, recent MRI images and current prescription, and arrange local monitoring before you fly. CancerFax can coordinate records and appointments between your home oncologist and a hospital abroad, though eligibility for any specific programme depends on medical review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

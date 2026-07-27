@@ -1,0 +1,59 @@
+{
+  "pillar": "How to Understand If Your Cancer Treatment Is Working",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-to-know-if-cancer-treatment-is-working",
+  "route": "/guides/how-to-know-if-cancer-treatment-is-working",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How do I know if my cancer treatment is working?",
+            "a": "<p>Your medical team judges whether treatment is working mainly through scans, blood tests and tumour markers, not by how you feel day to day. Most solid tumours are reassessed after two or three cycles of therapy, usually every six to twelve weeks. Radiologists compare the new images against your baseline scan and measure change. Symptom relief matters too, but imaging and laboratory results carry the most weight in this decision.</p>"
+          },
+          {
+            "q": "What do complete response, partial response and stable disease actually mean?",
+            "a": "<p>These are the standard categories oncologists use to score your scan results. Complete response means no measurable tumour remains on imaging. Partial response means the tumour shrank by at least thirty percent. Stable disease means it neither grew nor shrank enough to count as either. Progressive disease means growth of twenty percent or more, or a new lesion. Stable disease is often a good outcome, not a failure.</p>"
+          },
+          {
+            "q": "How soon after starting treatment will I know if it is helping?",
+            "a": "<p>Most patients get their first response assessment six to twelve weeks after starting treatment, once two or three cycles are complete. Scanning earlier often misleads, because tumours can swell before they shrink and inflammation can look like growth. Blood cancers are sometimes assessed sooner, since blood counts and bone marrow results change quickly. Your oncologist sets the timing based on your cancer type, the drug used and how you are tolerating it.</p>"
+          },
+          {
+            "q": "Does feeling better mean the treatment is working?",
+            "a": "<p>Feeling better is encouraging but it is not proof that the tumour is shrinking. Pain relief, better appetite and more energy often follow steroids, painkillers or simply a break from disease symptoms. Equally, feeling terrible does not mean the drug is failing, since side effects come from the treatment rather than the cancer. Tell your team about every change you notice, then let the scans and blood work confirm the picture.</p>"
+          },
+          {
+            "q": "What are tumour markers and how much can I trust them?",
+            "a": "<p>Tumour markers are proteins measured in blood, such as CEA, CA 19-9 or PSA, that can rise or fall with disease activity. A falling marker often suggests the treatment is working, and a rising one prompts a closer look. They are useful for tracking trends over months, not for single snapshots. Markers can move for harmless reasons, so no treatment decision is made on a marker result alone.</p>"
+          },
+          {
+            "q": "My scan says the tumour got bigger. Does that mean treatment failed?",
+            "a": "<p>Not always. With immunotherapy, tumours can appear larger on an early scan because immune cells have flooded into them, a pattern called pseudoprogression. Radiation and some targeted drugs can cause similar swelling or inflammation. Oncologists usually confirm true growth with a repeat scan four to eight weeks later before changing anything. If growth is confirmed across several sites, your team will discuss switching to a different line of treatment.</p>"
+          },
+          {
+            "q": "Which scan is best for checking response, CT, MRI or PET?",
+            "a": "<p>CT is the standard for most solid tumours because it measures size consistently and is widely available. MRI is preferred for brain, spine, liver and pelvic disease, where soft tissue detail matters. PET-CT shows metabolic activity and can tell active tumour from scar tissue, which is why it is common in lymphoma. Your team picks the scan that matched your baseline, since comparing like with like is what makes the reading reliable.</p>"
+          },
+          {
+            "q": "What should I ask my oncologist at a response review appointment?",
+            "a": "<p>Ask four things: what did the scan show compared with my last one, what response category does that fall into, does the plan change, and when is the next assessment. Also ask what would make you stop or switch this treatment. Bring your previous scan reports so the comparison is clear. Writing the answers down, or recording them with permission, helps because these conversations are hard to remember afterwards.</p>"
+          },
+          {
+            "q": "Can I get a second opinion on my scan results if I am being treated abroad?",
+            "a": "<p>Yes, and a second reading of your scans is a reasonable step when a treatment decision is about to change. Send the actual images on disc or through a secure link, not just the written report, because a fresh radiologist may measure differently. CancerFax can help arrange a review by oncology teams in India or China and route the records securely. Any recommendation that comes back should be discussed with your treating oncologist first.</p>"
+          },
+          {
+            "q": "What happens if my treatment is not working?",
+            "a": "<p>Your oncologist will usually move you to the next line of treatment rather than stop care altogether. That may mean a different chemotherapy combination, a targeted drug matched to fresh biopsy or genomic testing, immunotherapy, or a clinical trial. Repeat molecular profiling is worth asking about, because tumours change over time and new targets may appear. Eligibility for trials and newer drugs depends on your organ function, prior therapy and where you are treated.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

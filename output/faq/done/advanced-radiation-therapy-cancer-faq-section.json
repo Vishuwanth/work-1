@@ -1,0 +1,59 @@
+{
+  "pillar": "Advanced Radiation Therapy for Cancer: A Patient Overview",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "advanced-radiation-therapy-cancer",
+  "route": "/insights/advanced-radiation-therapy-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does advanced radiation therapy actually mean?",
+            "a": "<p>Advanced radiation therapy uses imaging and computer planning to shape the radiation dose tightly around the tumour while sparing healthy tissue. Techniques include IMRT, IGRT, SBRT, proton therapy and carbon ion therapy. Older radiotherapy delivered broader beams, so more normal tissue was treated. The advanced approach often means fewer sessions and milder side effects, though the right technique depends on your tumour type, size, location and previous treatment.</p>"
+          },
+          {
+            "q": "Does radiation therapy hurt?",
+            "a": "<p>No, the treatment itself is painless. You feel nothing while the beam is on, much like having an X-ray taken. Each session usually lasts 10 to 30 minutes, and most of that time is spent positioning you accurately. Discomfort, when it happens, comes later from side effects such as skin soreness or tiredness. Tell your radiation team early if anything hurts, because most symptoms can be managed.</p>"
+          },
+          {
+            "q": "How many radiation sessions will I need?",
+            "a": "<p>It depends on the technique and the tumour. Conventional radiotherapy is often given five days a week for four to seven weeks. SBRT and stereotactic radiosurgery can deliver a much higher dose in one to five sessions. Proton and carbon ion courses vary widely. Your radiation oncologist sets the schedule after scans and planning, so the number you are quoted early on may change once the final plan is ready.</p>"
+          },
+          {
+            "q": "Is proton therapy better than regular radiation for my cancer?",
+            "a": "<p>Proton therapy is not automatically better; it is better for specific situations. Protons stop at the tumour instead of passing through, so less dose reaches tissue behind it. That matters most for children, tumours near the brain, spine, eye or heart, and people who have had radiation before. For many common cancers, modern photon techniques give similar control at lower cost. Your oncologist can judge which fits your case.</p>"
+          },
+          {
+            "q": "What is carbon ion therapy and who is it for?",
+            "a": "<p>Carbon ion therapy uses heavier particles that damage tumour DNA more forcefully than protons or X-rays. It is mainly considered for radioresistant tumours such as certain sarcomas, skull base chordomas, and some head and neck or pancreatic cancers. Very few centres worldwide offer it, and most are in Japan, Germany, China and Austria. Access often depends on tumour type, prior treatment and waiting lists, so eligibility must be confirmed case by case.</p>"
+          },
+          {
+            "q": "What is SBRT, and is it really surgery?",
+            "a": "<p>SBRT and stereotactic radiosurgery deliver a very high, precisely targeted dose in one to five sessions instead of many weeks. Despite the name, radiosurgery involves no cutting. They are used for small, well-defined tumours in the lung, liver, spine, prostate and brain, including some cancers that have spread to only a few sites. Accuracy depends on careful immobilisation and image guidance, and not every tumour is suitable.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>Most side effects are local, affecting the area being treated, and build up over the course. Common ones include tiredness, skin redness or dryness, and irritation of nearby organs, such as a sore throat, cough, loose stools or urinary urgency. They usually settle within weeks of finishing. A smaller number of late effects can appear months later. Advanced planning reduces, but does not remove, these risks.</p>"
+          },
+          {
+            "q": "Will radiation make me radioactive around my family?",
+            "a": "<p>No. External beam radiation, including IMRT, SBRT, proton and carbon ion therapy, leaves nothing radioactive in your body, so hugging children or sharing a bed is safe. The exception is internal radiation, such as brachytherapy seeds or radioactive iodine, where short precautions may apply for days or weeks. Your team will tell you clearly if any restriction applies to you, and most patients need none at all.</p>"
+          },
+          {
+            "q": "How much does advanced radiation therapy cost in India or China?",
+            "a": "<p>Costs vary widely by technique, centre and number of sessions. In India, an IMRT or IGRT course often runs about US$3,000 to US$6,000, SBRT around US$5,000 to US$9,000, and proton therapy roughly US$25,000 to US$40,000. Chinese centres are broadly comparable, with carbon ion higher. Quotes usually exclude scans, stay and follow-up, so ask each hospital for a written estimate before travelling, and confirm what happens if extra sessions are needed.</p>"
+          },
+          {
+            "q": "How do I get my case reviewed if I want treatment abroad?",
+            "a": "<p>Start by having your diagnosis, scans and pathology reviewed by a radiation oncologist at the centre you are considering, before you book anything. Most Indian and Chinese hospitals will give a written plan, session count and estimate from those records. CancerFax can help forward your reports for that review and arrange the medical visa paperwork. Whether a technique suits you still depends on your own oncologist's assessment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Why China Is Becoming the Global Center for Precision Oncology",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-a-global-center-for-precision-oncology",
+  "route": "/guides/china-a-global-center-for-precision-oncology",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is precision oncology, in plain language?",
+            "a": "<p>Precision oncology means choosing cancer treatment based on the specific genetic changes inside your tumour rather than only on where the cancer started. Doctors test the tumour tissue or a blood sample, look for mutations that drive the cancer, and then pick drugs aimed at those targets. Not every tumour has a targetable change, so your oncologist may still recommend standard chemotherapy or radiation alongside or instead of targeted drugs.</p>"
+          },
+          {
+            "q": "Why is China becoming a global centre for precision oncology?",
+            "a": "<p>China combines a very large patient population, heavy state investment in biotech, and fast-moving hospital-based research, which lets new targeted drugs and cell therapies reach trials sooner than in most countries. Major centres in Beijing, Shanghai, and Guangzhou now run genomic testing at scale. That speed helps research, but it does not mean every experimental option is proven or suitable for your particular cancer.</p>"
+          },
+          {
+            "q": "Are Chinese cancer hospitals as good as those in the US or Europe?",
+            "a": "<p>Leading Chinese cancer centres match Western hospitals on equipment, surgical volume, and genomic testing capacity, and several publish in the same international journals. Quality varies sharply by hospital tier, so a top-tier national cancer centre is not comparable to a regional hospital. Ask about case volume for your specific cancer, tumour board practice, and whether English-speaking coordination is available before you commit.</p>"
+          },
+          {
+            "q": "What genetic tests would I need before targeted treatment in China?",
+            "a": "<p>Most Chinese centres start with next-generation sequencing of a tumour biopsy, often a panel covering several hundred genes, plus immunohistochemistry for markers such as PD-L1 and HER2. Liquid biopsy from blood may be used when tissue is limited. Results usually take one to three weeks. Hospitals frequently re-run testing on their own rather than accept outside reports, so budget time and money for repeat diagnostics.</p>"
+          },
+          {
+            "q": "Can foreign patients join clinical trials in China?",
+            "a": "<p>Some Chinese trials do accept international patients, but many are restricted to residents or require a local address, caregiver, and Chinese-language consent process. Eligibility depends on your diagnosis, biomarker results, prior treatments, and current organ function, and is confirmed only after the investigator reviews your file. Enrolment can never be promised in advance, and open slots may close between your enquiry and your arrival.</p>"
+          },
+          {
+            "q": "Which advanced treatments is China known for?",
+            "a": "<p>China is best known for CAR-T cell therapy, bispecific antibodies, antibody-drug conjugates, and particle radiation such as proton and carbon ion therapy at centres in Shanghai and Wuwei. It also runs one of the world's largest programmes of early-phase cell therapy trials for blood cancers. Whether any of these fits your case depends on cancer type, stage, and biomarker profile, and needs specialist review.</p>"
+          },
+          {
+            "q": "How much does precision cancer treatment in China cost?",
+            "a": "<p>Expect roughly 30 to 60 percent less than comparable care in the United States, though the range is wide. Genomic panel testing commonly runs 1,000 to 3,000 US dollars, targeted drug therapy several thousand dollars a month, and approved CAR-T therapy 60,000 to 150,000 dollars. Final cost depends on the hospital, the protocol chosen, complications, and how long you stay, so ask for an itemised written estimate.</p>"
+          },
+          {
+            "q": "Will a drug approved in China also be available back home?",
+            "a": "<p>Often not. Several targeted and cell therapies are approved in China but not yet licensed in the United States, Europe, or India, so continuing the same drug after you return home may be difficult. Ask before starting treatment how follow-up doses would be supplied, whether a comparable drug exists locally, and what your home oncologist would need to continue care safely.</p>"
+          },
+          {
+            "q": "How do I arrange treatment in China from another country?",
+            "a": "<p>Start by sending your pathology report, recent imaging, and treatment history to the hospital's international patient office for a written opinion and cost estimate, then apply for a medical visa using their invitation letter. Plan for translation, an interpreter, and a deposit before admission. CancerFax can help you organise reports, reach relevant centres, and compare estimates, while treatment decisions stay with your oncology team.</p>"
+          },
+          {
+            "q": "Is it worth travelling to China if my cancer is already advanced?",
+            "a": "<p>It may be, if standard options at home are exhausted and your tumour carries a targetable mutation or a trial-eligible marker. It is often not worth it if you are too unwell to fly, need urgent symptom control, or have no biomarker that changes the treatment plan. Ask your current oncologist for an honest assessment of fitness to travel before you spend money on arrangements.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

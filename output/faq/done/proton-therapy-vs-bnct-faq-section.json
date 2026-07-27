@@ -1,0 +1,59 @@
+{
+  "pillar": "Proton Therapy vs BNCT: Key Differences Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "proton-therapy-vs-bnct",
+  "route": "/insights/proton-therapy-vs-bnct",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What's the actual difference between proton therapy and BNCT?",
+            "a": "<p>Proton therapy destroys tumours with a beam of protons aimed from outside the body, while BNCT works from inside the tumour cells themselves. In BNCT you first receive a boron drug that collects in cancer cells, and a neutron beam then triggers a tiny reaction inside those cells. Proton therapy targets by shape and depth. BNCT targets by biology, which can matter when a tumour has ragged, hard-to-see edges.</p>"
+          },
+          {
+            "q": "Which one is more precise, proton therapy or BNCT?",
+            "a": "<p>They are precise in different ways. Proton therapy is geometrically precise: the beam stops at a set depth, so tissue behind the tumour receives almost no dose. BNCT is biologically precise: damage happens mainly in cells that absorbed enough boron, even when those cells sit among healthy ones. For a well-defined mass, protons often have the edge. For scattered or infiltrating disease, BNCT's cell-level targeting may suit better.</p>"
+          },
+          {
+            "q": "Can I get BNCT in India or China, or only proton therapy?",
+            "a": "<p>BNCT access remains limited worldwide. Japan has the most established clinical programmes, and centres in China, Taiwan, and Finland run treatment or trial services, while India has research activity rather than a routine patient service. Proton therapy is far more widely available, including centres in India and several Chinese cities. Availability changes as new accelerators open, so confirm current status with the centre before planning any travel.</p>"
+          },
+          {
+            "q": "Which is better if my head and neck cancer has come back?",
+            "a": "<p>BNCT was developed largely for this situation and is used in Japan for recurrent head and neck cancer that has already had full-dose radiation. Proton therapy can also re-treat these tumours and carries a longer track record with more published outcome data. The choice usually depends on how much radiation the area already received, tumour size and site, and where each option is accessible. Your radiation oncologist should decide.</p>"
+          },
+          {
+            "q": "How much does proton therapy cost compared to BNCT?",
+            "a": "<p>Proton therapy is generally the cheaper of the two, with a full course commonly quoted around USD 25,000 to 40,000 in India and higher in China. BNCT is offered in far fewer centres and is often quoted well above that, partly because the boron drug and neutron source are specialised.</p><p>These are estimated ranges only. Final cost depends on hospital, diagnostics, protocol, and length of stay.</p>"
+          },
+          {
+            "q": "How long will I be away from home for each treatment?",
+            "a": "<p>BNCT is usually delivered in a single session, occasionally two, so the treatment itself takes hours rather than weeks. Proton therapy is given as daily sessions across roughly two to seven weeks, depending on the cancer and the prescribed dose. That difference matters if you are travelling abroad, since proton therapy often means staying near the centre for over a month. Your final schedule depends on the treatment plan.</p>"
+          },
+          {
+            "q": "What side effects should I expect from each one?",
+            "a": "<p>Both spare healthy tissue better than standard radiation, but neither is free of side effects. Proton therapy commonly causes fatigue, skin redness, and symptoms local to the treated area, building up over the weeks of treatment. BNCT can bring fatigue, hair loss near the beam, mouth sores, and swelling of the treated region within days, plus temporary effects from the boron infusion. Severity depends on site and prior treatment.</p>"
+          },
+          {
+            "q": "Can I have either treatment if I've already had radiation?",
+            "a": "<p>In many cases, yes — both are often considered precisely because earlier radiation has used up the safe dose for that area. BNCT concentrates its damage in boron-loaded tumour cells, and proton therapy limits dose to tissue beyond the target. Whether re-treatment is safe for you depends on how much dose nearby nerves, arteries, and the spinal cord already absorbed, so your radiation oncologist needs the original treatment records.</p>"
+          },
+          {
+            "q": "Is BNCT an approved treatment or still experimental?",
+            "a": "<p>Proton therapy is approved, standard care in many countries, with decades of use in adults and children. BNCT is approved in Japan for certain recurrent head and neck cancers and some brain tumours, but elsewhere it is largely investigational and reached through trials or named-patient routes. That means access rules and waiting times differ sharply. CancerFax can help you check what a given centre is currently able to offer.</p>"
+          },
+          {
+            "q": "How do I decide which one is right for me?",
+            "a": "<p>Start with your diagnosis, not the technology. The deciding factors are tumour type and site, how clearly its edges show on scans, how much radiation you have already had, and whether you can travel and stay for the required time. Ask your oncology team to review both options against your reports. CancerFax helps patients organise medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel alongside the treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

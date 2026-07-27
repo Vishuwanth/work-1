@@ -1,0 +1,59 @@
+{
+  "pillar": "Follow-Up Care After Cancer Treatment Abroad: A Complete Patient Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "follow-up-care-after-cancer-treatment-abroad",
+  "route": "/insights/follow-up-care-after-cancer-treatment-abroad",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What follow-up care will I need after cancer treatment abroad?",
+            "a": "<p>Follow-up care usually means scheduled scans, blood tests, and clinic reviews for at least five years after treatment ends. The first two years are the most intensive, often every three months, because most recurrences appear early. Your overseas team should give you a written schedule before you fly home. The exact intervals depend on your cancer type, stage, and the treatment you received, so ask for a plan in writing.</p>"
+          },
+          {
+            "q": "Can my local doctor handle follow-up after I am treated in India or China?",
+            "a": "<p>In most cases yes, provided your local oncologist receives the full treatment record. Hospitals in India and China routinely write discharge summaries in English that list drug names, doses, radiation fields, surgical findings, and pathology results. Hand these to your home doctor at the first appointment. If your treatment involved a therapy not licensed at home, such as CAR T-cell therapy, your local team may need extra guidance from the treating centre.</p>"
+          },
+          {
+            "q": "What medical records should I bring home from the hospital abroad?",
+            "a": "<p>Ask for a complete discharge summary, pathology and biopsy reports, imaging on a disc or drive, chemotherapy or radiation dose records, operation notes, and a list of every medicine with generic names. Request English copies before you leave, because getting them later is slow and sometimes costs money. Keep a digital backup in cloud storage. Your home oncologist cannot plan safe follow-up without knowing exactly what you already received.</p>"
+          },
+          {
+            "q": "How soon can I fly home after finishing treatment abroad?",
+            "a": "<p>Most patients are cleared to fly two to four weeks after surgery and one to two weeks after a chemotherapy cycle, but only your treating doctor can sign off. Blood counts need to recover first, because low platelets, anaemia, or infection risk make air travel unsafe. After CAR T-cell therapy many centres ask patients to stay nearby for four to eight weeks. Ask for fitness-to-fly clearance in writing.</p>"
+          },
+          {
+            "q": "How often will I need scans once I am back home?",
+            "a": "<p>Scans are commonly done every three to six months for the first two years, then every six to twelve months up to year five. Blood tests and tumour markers may be more frequent. The pattern differs widely, and lymphoma follow-up looks nothing like breast or liver cancer follow-up. Your overseas team sets the initial schedule, and your home oncologist can usually run the same tests locally at lower cost.</p>"
+          },
+          {
+            "q": "Can I keep seeing my overseas doctor by video call?",
+            "a": "<p>Yes, most cancer centres in India and China offer teleconsultations for former patients. These reviews work well for discussing new scan reports, adjusting oral medicines, and deciding whether you need to travel back, though they cannot replace a physical examination. CancerFax can help arrange the call and forward your reports in advance. Any advice given remotely should be shared with your local oncologist, who manages your day-to-day care.</p>"
+          },
+          {
+            "q": "Who pays for follow-up care after I return home?",
+            "a": "<p>Follow-up scans and consultations at home are usually billed separately from your overseas treatment package, and many insurers treat them as ordinary domestic oncology care. Check before you travel whether your policy covers post-treatment monitoring and whether it excludes conditions treated outside the country. Some hospitals abroad include a limited number of remote reviews in the original price. Costs and coverage vary a lot by country and insurer.</p>"
+          },
+          {
+            "q": "What symptoms mean I should call a doctor straight away after getting home?",
+            "a": "<p>Call immediately for fever above 38°C, breathlessness, uncontrolled bleeding, severe pain, confusion, or a rash spreading quickly. After CAR T-cell therapy or immunotherapy, fever and confusion can signal serious reactions that need hospital treatment within hours. Carry a card listing your treatment, the date it finished, and the emergency contact at the centre abroad. Show it at any emergency department, since local staff may not know the therapy.</p>"
+          },
+          {
+            "q": "What happens if my cancer comes back after I return home?",
+            "a": "<p>Start with your local oncologist, who can order urgent imaging and biopsy to confirm what is happening. Send those results to the team that treated you abroad, since they know your prior doses and can advise whether a second round, a different drug, or a trial makes sense. Returning overseas is not always necessary. Many relapses are treated at home, and the right choice depends on where the disease has spread.</p>"
+          },
+          {
+            "q": "What if the medicine I was given abroad is not available in my country?",
+            "a": "<p>Ask both teams to identify an approved local equivalent, since many cancer drugs have generic or biosimilar versions sold under different brand names. Where no equivalent exists, some countries allow named-patient import with a prescription and regulatory paperwork, though this takes time and is not guaranteed. CancerFax can help patients gather the documents and connect the two hospitals, but the final prescribing decision rests with your treating oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

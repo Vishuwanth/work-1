@@ -1,0 +1,59 @@
+{
+  "pillar": "Pseudomyxoma Peritonei (PMP): The 'Jelly Belly' Cancer Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pseudomyxoma-peritonei",
+  "route": "/insights/pseudomyxoma-peritonei",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is pseudomyxoma peritonei?",
+            "a": "<p>Pseudomyxoma peritonei is a rare cancer in which mucus-producing tumour cells spread across the lining of the abdomen and fill it with thick, jelly-like fluid. It usually begins in the appendix, though the ovary or bowel can also be the source. It grows slowly and rarely travels through the bloodstream, so it behaves differently from most abdominal cancers and is treated differently too.</p>"
+          },
+          {
+            "q": "Why do doctors call it 'jelly belly'?",
+            "a": "<p>The nickname comes from the mucus itself. The tumour cells keep producing a thick, gelatinous substance that collects inside the abdomen, slowly swelling it and pressing on the organs. Surgeons often describe finding jelly-like deposits coating the bowel, liver surface and diaphragm during an operation. The term is informal, and many specialists prefer the medical name, because 'jelly belly' can make a serious disease sound harmless.</p>"
+          },
+          {
+            "q": "Is pseudomyxoma peritonei actually cancer, or something less serious?",
+            "a": "<p>It is a cancer, even when the cells look low-grade under the microscope. Low-grade pseudomyxoma peritonei rarely invades organs or spreads to distant sites, but it keeps producing mucus that fills the abdomen and can eventually become life-threatening. High-grade forms behave more aggressively. The grade on your pathology report matters a great deal, because it shapes both treatment planning and what your medical team can expect over time.</p>"
+          },
+          {
+            "q": "What are the first symptoms I should watch for?",
+            "a": "<p>The most common first sign is a slowly growing abdomen that does not go down, often mistaken for weight gain. Other early symptoms include vague abdominal pain, bloating, a new hernia, a change in bowel habit, and reduced appetite. Many people are diagnosed by accident during surgery for suspected appendicitis or an ovarian cyst. Because symptoms stay mild for years, diagnosis often comes late.</p>"
+          },
+          {
+            "q": "How is it diagnosed?",
+            "a": "<p>A CT scan of the abdomen and pelvis is usually the first step, showing mucus deposits, scalloping of the liver edge and a distended abdomen. MRI can map the disease more precisely before surgery, and blood tumour markers such as CEA, CA 19-9 and CA-125 help track it over time. A firm diagnosis needs tissue, reviewed by a pathologist who sees this rare disease regularly.</p>"
+          },
+          {
+            "q": "What is cytoreductive surgery with HIPEC?",
+            "a": "<p>Cytoreductive surgery removes all visible tumour and mucus from the abdomen, after which heated chemotherapy is circulated inside the abdominal cavity for 60 to 90 minutes to kill the cells left behind. This combination, known as CRS with HIPEC, is the standard treatment for pseudomyxoma peritonei. The operation is long and demanding, so it is best done at a centre that performs it often.</p>"
+          },
+          {
+            "q": "What are my chances of long-term survival?",
+            "a": "<p>Long-term survival is possible with this disease. Published series report ten-year survival above 60 percent for low-grade pseudomyxoma peritonei when all visible tumour is removed, with higher-grade disease carrying poorer figures. The strongest predictor is whether the surgeon achieves a complete cytoreduction. Your own outlook depends on grade, how far the mucus has spread and your fitness for major surgery, so ask your team for individual numbers.</p>"
+          },
+          {
+            "q": "Does ordinary chemotherapy work for this cancer?",
+            "a": "<p>Systemic chemotherapy alone rarely controls pseudomyxoma peritonei, because the slow-growing, mucus-rich tumour responds poorly to drugs carried in the bloodstream. It is used mainly for high-grade disease, for tumours that cannot be removed surgically, or when the disease returns after an operation. For most patients, complete surgical removal with heated intraperitoneal chemotherapy offers better control. Whether chemotherapy may help you depends on your grade and earlier treatment.</p>"
+          },
+          {
+            "q": "How long does recovery after HIPEC surgery take?",
+            "a": "<p>Most people spend one to two weeks in hospital after cytoreductive surgery with HIPEC, including a few days in intensive care. Eating normally, walking comfortably and returning to work usually take two to three months, and full energy can take longer. Complication rates are meaningful, because the operation is extensive. Recovery time varies with how much surgery was needed and your general health beforehand.</p>"
+          },
+          {
+            "q": "Should I travel abroad for treatment, and how do I choose a centre?",
+            "a": "<p>Only a limited number of hospitals perform cytoreductive surgery with HIPEC often enough to do it well, which is why many patients travel, commonly to specialist centres in India. Ask any centre how many of these operations it performs each year and who reviews the pathology. CancerFax can help you send scans and reports to such centres for an opinion alongside your own oncologist. Eligibility and cost depend on your individual case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

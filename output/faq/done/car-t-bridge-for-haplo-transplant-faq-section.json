@@ -1,0 +1,59 @@
+{
+  "pillar": "CAR-T as Bridge to Haploidentical Transplant for ALL in India",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-bridge-for-haplo-transplant",
+  "route": "/insights/car-t-bridge-for-haplo-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does \"CAR-T as a bridge to transplant\" actually mean?",
+            "a": "<p>Bridging means CAR-T therapy is used first to drive the leukaemia into deep remission, and a haploidentical stem cell transplant follows soon after to hold that remission in place. The CAR-T cells clear leukaemia that chemotherapy could not; the donated stem cells then rebuild an immune system that can keep watch for relapse. Doctors plan both steps together from the start, and eligibility for each depends on marrow response and organ health.</p>"
+          },
+          {
+            "q": "If CAR-T already worked, why would my child still need a transplant?",
+            "a": "<p>Because remissions after CAR-T can fade if the CAR-T cells disappear from the blood too early or if the leukaemia stops showing the CD19 target. Many Indian centres therefore offer a transplant while the marrow is still clear, since a donor immune system often gives longer disease control than CAR-T alone. Not every patient needs it, so the decision rests with your haematology team after they review marrow tests and CAR-T persistence.</p>"
+          },
+          {
+            "q": "How soon after the CAR-T infusion is the haploidentical transplant done?",
+            "a": "<p>Most teams aim for roughly two to three months after the CAR-T infusion, once remission is confirmed and the early complications have settled. Doctors usually want the marrow free of measurable disease, cytokine release syndrome and any nerve-related side effects fully resolved, and blood counts recovering. Waiting too long risks relapse; moving too early risks a harder transplant. The exact timing depends on your child's recovery and how quickly a donor workup can be completed.</p>"
+          },
+          {
+            "q": "Is a half-matched donor really good enough for my child?",
+            "a": "<p>Yes, in many cases a half-matched relative works well, which is why haploidentical transplant is now standard practice across India. A parent, sibling or adult child usually qualifies, so almost every patient has a donor available without waiting for a registry search. Modern methods, such as post-transplant cyclophosphamide, have brought graft-versus-host disease down to levels comparable with fully matched donors. Outcomes still vary with age, disease status and the centre's experience.</p>"
+          },
+          {
+            "q": "How much does CAR-T followed by a haploidentical transplant cost in India?",
+            "a": "<p>Plan for roughly ₹50 lakh to ₹75 lakh in total at most private Indian centres, with the CAR-T infusion accounting for the larger share. Indian-made CD19 CAR-T products cost far less than imported ones, and a haploidentical transplant typically adds ₹18 lakh to ₹30 lakh. Intensive care, infections or a longer hospital stay can push the figure higher. Quotes vary widely between hospitals, so ask for an itemised written estimate before committing.</p>"
+          },
+          {
+            "q": "Which hospitals in India offer this combined approach?",
+            "a": "<p>A small group of tertiary centres does both steps under one roof, including Tata Memorial Centre in Mumbai, CMC Vellore, AIIMS Delhi and several large private transplant units in Chennai, Bengaluru and Hyderabad. Doing CAR-T and transplant at the same hospital matters, because the same team then manages timing and complications. CancerFax can help you compare centres and current availability, though the final choice should be made with your treating oncologist.</p>"
+          },
+          {
+            "q": "Can this still be tried if the leukaemia came back after an earlier transplant?",
+            "a": "<p>It often can, and relapse after a first transplant is one of the situations where CAR-T bridging is considered most seriously. Doctors will check whether the leukaemia still carries the CD19 target, how much disease is present, and whether the heart, liver, kidneys and lungs can tolerate a second transplant. Prior graft-versus-host disease also affects the plan. Eligibility is decided case by case, so send recent reports for a formal review.</p>"
+          },
+          {
+            "q": "What side effects should we prepare for across both treatments?",
+            "a": "<p>Expect two different risk periods. In the first weeks after CAR-T, fever, low blood pressure and confusion from cytokine release syndrome or neurotoxicity are common and usually reversible with prompt treatment. After the transplant, the main concerns are infections, graft-versus-host disease and slow blood count recovery.</p><p>Most patients spend several weeks in hospital and need close monitoring for months. Your team will explain which risks apply to your child's specific situation.</p>"
+          },
+          {
+            "q": "We live outside India. Can we travel there for this treatment?",
+            "a": "<p>Yes, Indian centres treat international patients regularly, and a medical visa is usually issued once a hospital confirms the treatment plan. Families should budget for a stay of three to five months, since CAR-T, recovery and transplant follow one another closely, and the donor must travel too. CancerFax can assist with report review, hospital coordination and travel paperwork. Approval and timelines depend on the hospital, slot availability and your own country's requirements.</p>"
+          },
+          {
+            "q": "What are the chances this keeps the leukaemia away long term?",
+            "a": "<p>Published series suggest that many patients who reach transplant in a CAR-T-induced remission remain disease-free at two years, and results are generally better than with CAR-T alone in high-risk relapsed B-cell ALL. Children and young adults tend to do better than older patients. Numbers still vary with prior treatments, disease burden before CAR-T and transplant complications, so ask your team for outcomes that match your specific situation rather than averages.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Patient Selection for CRS-HIPEC: Are You a Candidate?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-patient-selection-criteria",
+  "route": "/insights/hipec-patient-selection-criteria",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Am I a candidate for CRS-HIPEC?",
+            "a": "<p>You may be a candidate for CRS-HIPEC if your cancer is confined to the lining of the abdomen, with no spread to the lungs, bones, or distant lymph nodes, and you are fit enough for a long operation. Surgeons also weigh how widely the disease is scattered inside the abdomen, scored using the Peritoneal Cancer Index. Final eligibility depends on fresh scans, fitness testing, and review by a peritoneal surgical team.</p>"
+          },
+          {
+            "q": "What is the Peritoneal Cancer Index and why does my score matter?",
+            "a": "<p>The Peritoneal Cancer Index, or PCI, is a score from 0 to 39 that maps how much tumour sits in 13 regions of your abdomen. A lower score usually means more of the disease can be removed. Many centres treat scores under 20 as favourable in colorectal cancer, while pseudomyxoma cases are often accepted higher. Your true score is confirmed only once the surgeon can see inside.</p>"
+          },
+          {
+            "q": "Which cancers are usually treated with CRS-HIPEC?",
+            "a": "<p>CRS-HIPEC is used most often for pseudomyxoma peritonei, peritoneal mesothelioma, and peritoneal spread from appendiceal, colorectal, ovarian, and selected gastric cancers. Results are strongest in appendiceal and pseudomyxoma disease, where long survival is common. In gastric cancer the benefit is smaller and still debated. Whether your tumour type qualifies depends on the pathology report, how the disease responded to earlier treatment, and each centre's policy.</p>"
+          },
+          {
+            "q": "Does cancer spread outside the abdomen rule me out?",
+            "a": "<p>In most cases, yes. CRS-HIPEC is built for disease confined to the peritoneal surfaces, so tumour in the lungs, bones, brain, or extensive liver involvement normally excludes you. Some experienced centres will still accept one or two small liver lesions that can be removed during the same operation. You may need a PET-CT and a recent CT of chest, abdomen, and pelvis before any team can decide.</p>"
+          },
+          {
+            "q": "How do doctors decide whether I am fit enough for the surgery?",
+            "a": "<p>Fitness carries as much weight as the cancer itself. The operation can run 8 to 12 hours, so teams assess heart and lung function, kidney function, nutrition, albumin, and your day-to-day activity level. Many units add cardiopulmonary exercise testing. Age alone is not a barrier, and a well 72-year-old may qualify while an unwell 50-year-old may not. Anaesthetic and nutrition reviews are usually part of the workup.</p>"
+          },
+          {
+            "q": "What tests do I need before I can be considered?",
+            "a": "<p>Expect a CT of chest, abdomen, and pelvis, often a PET-CT or MRI, tumour markers such as CEA, CA 19-9, or CA-125, endoscopy or colonoscopy where relevant, and a full review of your original biopsy slides. Some teams also do a diagnostic laparoscopy to view the abdomen directly.</p><p>CancerFax can help you gather these reports and share them with peritoneal units in India or China for an opinion.</p>"
+          },
+          {
+            "q": "Can I still have CRS-HIPEC if I have already had chemotherapy or abdominal surgery?",
+            "a": "<p>Yes, in many cases. Prior chemotherapy is common and often expected, because how the disease responds helps show whether it is behaving aggressively enough to justify major surgery. Earlier abdominal operations do not disqualify you, although scar tissue can make the procedure longer and harder. Some teams will ask for two or three more cycles of systemic treatment before making a final decision about surgery.</p>"
+          },
+          {
+            "q": "What does complete cytoreduction mean, and why do surgeons keep mentioning it?",
+            "a": "<p>Complete cytoreduction means removing all visible tumour, leaving nodules no larger than about 2.5 millimetres. It is the strongest single predictor of benefit, because heated chemotherapy only soaks into a few millimetres of tissue. If the surgeon cannot reach that point, the heated wash adds risk without much gain. Operations are sometimes stopped after exploration for this reason, and your team should discuss that possibility beforehand.</p>"
+          },
+          {
+            "q": "Why was I refused at one hospital but told to try another?",
+            "a": "<p>Selection thresholds genuinely differ between hospitals. High-volume peritoneal units often accept higher PCI scores, more complex organ resections, and patients other centres call borderline, because their surgical and intensive care experience changes how they judge the risk. A refusal at one hospital is not always the final word. A second opinion from a dedicated peritoneal surface malignancy centre may change the answer, though no centre can promise acceptance.</p>"
+          },
+          {
+            "q": "How long does assessment take, and can it be done before I travel?",
+            "a": "<p>Most centres give an initial opinion within one to two weeks of receiving complete scans and pathology, and many review international cases remotely before you fly. You will still need repeat imaging and fitness tests after arrival, since scans older than four to six weeks are often not accepted for surgical planning. Timelines, visa requirements, and costs vary by hospital and country, so confirm them early.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

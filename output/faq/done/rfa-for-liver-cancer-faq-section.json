@@ -1,0 +1,59 @@
+{
+  "pillar": "RFA for Liver Cancer (HCC): Who Is Eligible and What Outcomes to Expect",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-for-liver-cancer",
+  "route": "/insights/rfa-for-liver-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Am I eligible for RFA if I have liver cancer?",
+            "a": "<p>RFA is usually offered when you have up to three liver tumours, each 3 cm or smaller, with preserved liver function and no spread beyond the liver. Doctors also check tumour location, clotting, and whether the growth sits safely away from the bile ducts or bowel. Very small single tumours respond best. Eligibility depends on your scans and liver reserve, so only your treating team can confirm whether RFA suits you.</p>"
+          },
+          {
+            "q": "How well does RFA work for small liver tumours?",
+            "a": "<p>For single HCC tumours under 3 cm, RFA destroys the tumour completely in roughly 90 percent of cases, and five-year survival can reach 40 to 70 percent in people with good liver function. Results fall as tumours grow larger or multiply. Outcomes also depend on cirrhosis severity, since the underlying liver disease often drives long-term survival. Your own figures may differ, so ask your oncologist what your scans and liver tests suggest.</p>"
+          },
+          {
+            "q": "Is RFA as good as surgery for early liver cancer?",
+            "a": "<p>For tumours under 3 cm, RFA gives survival results close to surgical removal, with fewer complications and a shorter hospital stay. Above 3 cm, surgery or transplant often controls the cancer better, because RFA may leave live tumour cells at the edges. Many centres prefer RFA when cirrhosis makes surgery risky. CancerFax can arrange a second opinion, but the final decision belongs to your multidisciplinary team.</p>"
+          },
+          {
+            "q": "How big can my tumour be for RFA to work?",
+            "a": "<p>RFA works best on tumours up to 3 cm, where a single ablation can cover the whole growth plus a safety margin. Tumours between 3 and 5 cm can be treated, often with multiple probe positions or combined with TACE, but recurrence rates rise. Above 5 cm, RFA alone rarely clears the tumour. Your interventional radiologist will measure the lesion on CT or MRI and advise what is realistic.</p>"
+          },
+          {
+            "q": "What actually happens during the RFA procedure?",
+            "a": "<p>A thin needle electrode is passed through the skin into the tumour using CT or ultrasound guidance, and radiofrequency energy heats the tissue to around 60 to 100 degrees Celsius, killing the cancer cells. Most people have sedation or general anaesthesia, and the ablation itself takes 10 to 30 minutes per tumour. Some cases are done during keyhole surgery instead. Your team will explain which route suits your tumour's position.</p>"
+          },
+          {
+            "q": "How long does recovery take after RFA?",
+            "a": "<p>Most people go home within one to two days and return to normal activity in about a week. Mild pain over the right ribs, low-grade fever and tiredness for a few days are common and usually settle without treatment. A follow-up CT or MRI at four to six weeks checks whether the tumour was fully destroyed. Recovery can take longer if you have advanced cirrhosis or other health problems.</p>"
+          },
+          {
+            "q": "What are the side effects and risks of RFA?",
+            "a": "<p>Serious complications happen in fewer than 5 percent of RFA procedures. The common effects are pain, fever and fatigue in the first week, sometimes called post-ablation syndrome. Less often there can be bleeding, infection or abscess, injury to the bile ducts, gallbladder or bowel, or a drop in liver function if you already have cirrhosis. Risk depends on tumour position, so ask your radiologist about your specific scan.</p>"
+          },
+          {
+            "q": "Can the cancer come back after RFA?",
+            "a": "<p>Yes, recurrence is common, because RFA treats the tumour but not the diseased liver that produced it. Around 50 to 70 percent of people develop a new HCC somewhere in the liver within five years, most often at a different site rather than the treated one. That is why scans and alpha-fetoprotein tests every three to six months matter. New tumours found early can often be ablated again.</p>"
+          },
+          {
+            "q": "Can I have RFA if my tumour sits near a large blood vessel?",
+            "a": "<p>It is possible, but tumours next to large vessels are harder to treat, because flowing blood carries heat away and can leave live cancer cells behind. Microwave ablation, irreversible electroporation, or combining RFA with TACE may work better in those positions. Tumours touching the bile ducts, bowel or diaphragm carry extra risk. Your interventional radiologist will review the imaging and may recommend a different ablation method.</p>"
+          },
+          {
+            "q": "How much does RFA cost in India or China, and how do I arrange it?",
+            "a": "<p>RFA for liver cancer typically costs around 3,000 to 6,000 US dollars in India and somewhat more in China, usually covering imaging, the procedure and a short hospital stay. Prices vary with hospital, tumour number and whether TACE is added. CancerFax can help you send your scans and reports to hepatobiliary centres for review, though any final plan rests with the treating oncology team. Costs and eligibility should be confirmed in writing.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

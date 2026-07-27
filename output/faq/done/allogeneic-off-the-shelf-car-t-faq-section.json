@@ -1,0 +1,59 @@
+{
+  "pillar": "Allogeneic (Off-the-Shelf) CAR-T: The Next Frontier",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "allogeneic-off-the-shelf-car-t",
+  "route": "/insights/allogeneic-off-the-shelf-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does \"off-the-shelf\" CAR-T actually mean?",
+            "a": "<p>Off-the-shelf CAR-T means the cells are made in advance from a healthy donor, frozen, and stored ready for use, rather than manufactured from your own blood. Because batches are prepared ahead of time, a dose can often be released within days instead of weeks. One donor collection may yield doses for many patients, which is why this approach is also called allogeneic CAR-T.</p>"
+          },
+          {
+            "q": "How is allogeneic CAR-T different from the CAR-T my doctor offered me?",
+            "a": "<p>The difference is whose T cells are used. Standard CAR-T is autologous: your own T cells are collected, re-engineered, and given back, which usually takes three to six weeks. Allogeneic CAR-T uses donor T cells that were engineered and banked in advance. The target on the cancer cell is often the same; what changes is the source of the cells and how quickly treatment can start.</p>"
+          },
+          {
+            "q": "How long would I wait for an off-the-shelf dose?",
+            "a": "<p>Most allogeneic CAR-T products can be thawed and infused within a few days of the decision to treat, because the cells already exist in a frozen bank. Autologous CAR-T typically needs three to six weeks for collection and manufacturing. For patients whose disease is moving fast, that gap matters. Actual timing still depends on trial slots, bridging therapy, and how quickly your centre can admit you.</p>"
+          },
+          {
+            "q": "Is it dangerous to receive T cells from a stranger?",
+            "a": "<p>The main added risk is graft-versus-host disease, where donor T cells attack your healthy tissue. Manufacturers reduce this by gene-editing the donor cells to remove the receptor that drives the attack, and reported rates in trials have been low. Your own immune system may also reject the donor cells, which can shorten how long they last. Cytokine release syndrome and neurotoxicity remain possible, as with any CAR-T.</p>"
+          },
+          {
+            "q": "Is allogeneic CAR-T approved, or is it still experimental?",
+            "a": "<p>Allogeneic CAR-T is still investigational almost everywhere and is mainly available inside clinical trials. No off-the-shelf product has the broad regulatory approval that autologous CAR-T now holds in the United States, Europe, India, and China. Several candidates in lymphoma, leukaemia, and myeloma are in mid-stage testing, and China runs a large share of them. Approval timelines can shift, so ask your oncologist what is open today.</p>"
+          },
+          {
+            "q": "Will off-the-shelf CAR-T cost less than the treatment I was quoted?",
+            "a": "<p>It is expected to cost less, because one donor batch makes many doses and there is no individual manufacturing run per patient. That saving has not reached patients yet, since most access is through trials where the drug itself is usually supplied free. You would still pay for hospital admission, chemotherapy before infusion, monitoring, and travel. Real-world pricing will only become clear once products are approved and sold.</p>"
+          },
+          {
+            "q": "Does it work as well as CAR-T made from my own cells?",
+            "a": "<p>Early trial responses look broadly similar to autologous CAR-T in the first few months, but the remissions have often been less durable. Donor cells are usually cleared by the patient's immune system sooner, so they may not persist long enough to hold the cancer down. Researchers are testing stronger lymphodepletion and further gene edits to fix this. Long-term comparison data does not exist yet, so results may change.</p>"
+          },
+          {
+            "q": "Can I get allogeneic CAR-T in India or China?",
+            "a": "<p>China currently offers the widest access, with many allogeneic CAR-T trials running at hospitals in Beijing, Shanghai, and Guangzhou. India has a growing autologous CAR-T programme, but it has far fewer off-the-shelf studies open to international patients. CancerFax can help you check which trials are recruiting and share your reports with those centres, though enrolment decisions rest with the trial team and your treating oncologist.</p>"
+          },
+          {
+            "q": "Who is likely to be eligible for an off-the-shelf CAR-T trial?",
+            "a": "<p>Most trials look for adults with relapsed or refractory blood cancers, such as large B-cell lymphoma, acute lymphoblastic leukaemia, or myeloma, who have already had at least two lines of treatment. Adequate organ function, no uncontrolled infection, and no active central nervous system disease are usually required. Prior CAR-T sometimes rules you out and sometimes does not. Only the trial's screening team can confirm whether you qualify.</p>"
+          },
+          {
+            "q": "If allogeneic CAR-T fails, can I still try CAR-T made from my own cells?",
+            "a": "<p>In many cases yes, and doctors often plan for that possibility from the start. Because the donor cells are usually cleared within weeks, your own T cells can sometimes still be collected afterwards for autologous manufacturing. Heavy prior treatment, poor T-cell numbers, or fast-moving disease can make this harder. Discuss the sequence with your haematologist before you enrol, so cell collection is not closed off later.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Esophageal Cancer Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "esophageal-cancer-treatment-in-india",
+  "route": "/guides/esophageal-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does esophageal cancer treatment cost in India?",
+            "a": "<p>Esophageal cancer treatment in India often costs USD 6,000–9,000 for surgery, USD 4,000–6,000 for a course of radiation given with chemotherapy, and around USD 400–800 per chemotherapy cycle. The total depends on your stage, whether a stent or feeding tube is needed, and how long you stay. Most international patients pay far less than in the United States or Europe. Final costs can only be confirmed after the hospital reviews your reports.</p>"
+          },
+          {
+            "q": "Can esophageal cancer be cured in India, or only controlled?",
+            "a": "<p>Cure is possible when the cancer is still confined to the food pipe and nearby lymph nodes, and Indian centres treat these cases with chemoradiation followed by surgery. For stage one and two disease, long-term survival after complete removal can reach 40 to 50 percent. When the cancer has spread further, treatment shifts to controlling it and keeping you able to eat. Which goal applies depends on full staging by your oncologist.</p>"
+          },
+          {
+            "q": "Which hospitals in India treat esophageal cancer for international patients?",
+            "a": "<p>India's high-volume cancer centres in Delhi, Mumbai, Chennai, Bengaluru and Hyderabad have thoracic and gastrointestinal surgery teams with international patient desks. Esophageal surgery is demanding, so ask how many esophagectomies the surgeon performs each year, because higher volume often means fewer complications. CancerFax can gather treatment plans and cost estimates from several such centres for comparison, but the final choice of hospital should be made with your own doctor's guidance.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for esophageal cancer treatment?",
+            "a": "<p>Plan for about four to six weeks if you need surgery alone. That covers staging tests, eight to twelve days in hospital, and recovery before your surgeon clears you to fly. If chemotherapy and radiation are given first, which is common for this cancer, the stay usually stretches to three or four months. Some patients return home between phases. Your surgeon will confirm the timeline once your PET scan and endoscopy are read.</p>"
+          },
+          {
+            "q": "Is minimally invasive or robotic esophagectomy available in India?",
+            "a": "<p>Yes. Minimally invasive and robotic esophagectomy are performed at several Indian centres, using small chest and abdominal incisions instead of one large open cut. Patients often have less pain, fewer chest infections and a shorter hospital stay. Whether this approach suits you depends on tumour size, its position in the food pipe, your lung function and any earlier surgery. The surgical team decides after reviewing your scans and fitness tests.</p>"
+          },
+          {
+            "q": "I can barely swallow food. Can anything be done before treatment starts?",
+            "a": "<p>Yes, and this is usually handled in the first few days. A self-expanding stent can open the narrowed segment, or a feeding tube can be placed into the stomach or small bowel so you regain weight before chemotherapy or surgery. Better nutrition often lowers the risk of complications later. Which option is chosen depends on where the blockage sits and whether surgery is still being planned for you.</p>"
+          },
+          {
+            "q": "Do I need a medical visa to come to India for cancer treatment?",
+            "a": "<p>You will need an Indian medical visa, not a tourist visa, and it is issued against a letter from the treating hospital. It usually permits a stay of up to 60 days per visit and can often be extended for ongoing treatment. Two family members can travel with you on medical attendant visas. Rules vary by nationality, so confirm current requirements with your nearest Indian mission before booking flights.</p>"
+          },
+          {
+            "q": "Will my Indian oncologist accept the biopsy and scans done in my home country?",
+            "a": "<p>Usually yes, but expect the Indian team to review the material again rather than rely on the written report alone. Bringing your biopsy blocks or slides lets the hospital pathologist confirm the tumour type and test HER2 and PD-L1, which guide drug choice. Scans on a CD are read again locally. A repeat endoscopy or PET scan is sometimes needed if the originals are old or unclear.</p>"
+          },
+          {
+            "q": "Can I get immunotherapy or targeted therapy for esophageal cancer in India?",
+            "a": "<p>Yes. Pembrolizumab and nivolumab are used for esophageal cancer in India, and trastuzumab is added when the tumour tests HER2-positive. Access depends on your PD-L1 score, HER2 status and cell type rather than nationality, so molecular testing comes first.</p><p>Newer combinations may also be reachable through clinical trials at larger centres, though enrolment is never guaranteed. Whether any of these fits your case is a decision for your treating oncologist.</p>"
+          },
+          {
+            "q": "What follow-up and eating support will I need after I return home?",
+            "a": "<p>Ask for a written follow-up plan before you fly home. After esophageal surgery this usually means a clinical review every three to four months for two years, a CT scan each year, and dietitian support, because you will need smaller meals taken more often. Some patients need the join in the food pipe stretched if swallowing tightens again. Report new swallowing trouble, vomiting or weight loss promptly rather than waiting.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

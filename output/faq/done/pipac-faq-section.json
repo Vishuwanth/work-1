@@ -1,0 +1,59 @@
+{
+  "pillar": "PIPAC: Pressurized Intraperitoneal Aerosol Chemotherapy for Peritoneal Metastases",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pipac",
+  "route": "/treatments/pipac",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is PIPAC and how does it actually work?",
+            "a": "<p>PIPAC is a keyhole procedure that sprays chemotherapy as a pressurised mist directly into the abdominal cavity, where it settles on tumour deposits lining the abdomen. Surgeons insert two small ports, inflate the abdomen with carbon dioxide, and release the aerosol under pressure for about 30 minutes. The pressure helps the drug penetrate tumour tissue more evenly than a liquid wash, using a fraction of the usual intravenous dose.</p>"
+          },
+          {
+            "q": "How do I know if I am eligible for PIPAC?",
+            "a": "<p>Eligibility usually depends on having peritoneal metastases that are too widespread for complete surgical removal, along with reasonable general fitness and no bowel obstruction or extensive abdominal scarring. Most patients treated with PIPAC have cancer of the stomach, ovary, colon, pancreas or appendix. Your surgical oncologist will review scans, previous operations and blood results before deciding. CancerFax can help you send those records to centres that run PIPAC programmes.</p>"
+          },
+          {
+            "q": "Can PIPAC cure my cancer?",
+            "a": "<p>PIPAC is not a cure. It is a palliative treatment aimed at slowing the growth of tumour deposits in the abdomen, reducing fluid build-up, and easing pain and bloating so you feel better for longer. In published series, roughly half to two-thirds of patients show stable or shrinking disease on repeat biopsies. Results vary widely by cancer type and how much disease was present at the start.</p>"
+          },
+          {
+            "q": "What is the difference between PIPAC and HIPEC?",
+            "a": "<p>HIPEC is a one-time heated chemotherapy wash given during major open surgery to remove all visible tumour, so it suits patients with limited disease. PIPAC is a repeatable aerosol treatment given through keyhole ports, with no tumour removal and a much smaller drug dose. HIPEC can be curative in selected patients; PIPAC is usually offered when disease is too advanced for that. Some patients respond to PIPAC well enough to be reconsidered for surgery.</p>"
+          },
+          {
+            "q": "How many PIPAC treatments will I need?",
+            "a": "<p>Most protocols plan three sessions, spaced about six weeks apart, because response is judged by comparing tumour biopsies taken at each procedure. Patients who are responding and tolerating treatment often continue beyond three cycles. Fewer than three sessions makes the response hard to assess, so teams try to complete at least that many. Your final number depends on how your disease behaves and how well you recover between treatments.</p>"
+          },
+          {
+            "q": "What are the side effects of PIPAC?",
+            "a": "<p>Side effects are usually mild because the drug dose is roughly a tenth of standard intravenous chemotherapy and stays mostly inside the abdomen. Most patients report abdominal pain, nausea and tiredness for a few days after each session. Hair loss and severe blood count drops are uncommon. Serious complications such as bowel injury or infection occur in a small minority. Tell your team promptly about fever, worsening pain or vomiting.</p>"
+          },
+          {
+            "q": "Can I keep having my normal chemotherapy while on PIPAC?",
+            "a": "<p>Yes, in most programmes PIPAC is given between cycles of your usual intravenous or oral chemotherapy rather than instead of it. The two are timed so blood counts have recovered before each procedure, often with a gap of one to two weeks on either side. This combined approach is standard in many centres. Your medical and surgical oncologists should agree the schedule together before you start.</p>"
+          },
+          {
+            "q": "How long does the procedure take and when can I go home?",
+            "a": "<p>The procedure itself takes about 90 minutes under general anaesthetic, including 30 minutes of aerosol exposure while the operating team waits outside the room. Most patients stay in hospital for one to three nights and return to normal activity within a week. Because the ports are small, there is no large wound to heal. Recovery can take longer if you have had previous abdominal surgery or significant fluid build-up.</p>"
+          },
+          {
+            "q": "Where can I get PIPAC in India or China, and what does it cost?",
+            "a": "<p>PIPAC is offered at a small number of specialist surgical oncology units in India and China, mainly in large cancer centres rather than general hospitals. Costs in these countries are often a fraction of European or American prices, though the total depends on the number of sessions, the drug used and your hospital stay. CancerFax can share current centre options and indicative quotes. Confirm all pricing directly with the treating hospital before travelling.</p>"
+          },
+          {
+            "q": "Is PIPAC still experimental?",
+            "a": "<p>PIPAC sits between established care and research. It has been used in thousands of patients since 2011 and is offered as routine palliative treatment in parts of Europe and Asia, but large randomised trials comparing it with chemotherapy alone are still running. Some centres deliver it only inside a clinical trial. Ask whether your proposed treatment is standard practice at that hospital or part of a study, as consent and costs may differ.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

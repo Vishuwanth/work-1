@@ -1,0 +1,59 @@
+{
+  "pillar": "Immune Reconstitution After CAR-T: What to Expect",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immune-reconstitution-after-car-t",
+  "route": "/insights/immune-reconstitution-after-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long does it take for my immune system to recover after CAR-T?",
+            "a": "<p>Most patients regain basic immune function within three to six months, but full immune reconstitution often takes a year or more. Neutrophils and monocytes usually return first, T cells rebuild over several months, and B cells are typically the slowest. Your pace depends on your prior treatments, the conditioning chemotherapy you received, and whether your disease stays in remission. Your CAR-T team will track this with regular blood counts.</p>"
+          },
+          {
+            "q": "Why are my B cells still low months after CAR-T?",
+            "a": "<p>B-cell aplasia is expected after CD19-targeted CAR-T, because the same cells that kill the cancer also remove healthy B cells. In many people B cells return within six to twelve months, but they can stay absent for years if the CAR-T cells persist. Ongoing B-cell aplasia is often a sign the therapy is still working. Your team may monitor immunoglobulin levels and treat low antibodies rather than trying to force recovery.</p>"
+          },
+          {
+            "q": "Will I need immunoglobulin (IVIG) infusions after CAR-T?",
+            "a": "<p>Many patients need immunoglobulin replacement if their IgG level falls below roughly 400 mg/dL or they keep getting infections. Infusions are usually given every three to four weeks, either into a vein or under the skin, and continue until B cells and antibody levels recover. Not everyone needs it; some people with low IgG stay well without infusions. Whether you qualify depends on your counts, your infection history, and local practice.</p>"
+          },
+          {
+            "q": "When will my white blood cell counts come back to normal?",
+            "a": "<p>Neutrophils usually recover within two to four weeks of the CAR-T infusion, though counts can dip again weeks or months later. This late drop, sometimes called prolonged or biphasic cytopenia, affects a meaningful minority of patients and can last several months. Growth-factor injections, transfusions, and in rare cases a stem cell boost may help. Frequent blood counts in the first year let your team catch a delayed dip early.</p>"
+          },
+          {
+            "q": "What infections am I most likely to get after CAR-T?",
+            "a": "<p>Bacterial infections dominate the first month, while viral infections such as shingles, CMV reactivation, and respiratory viruses become more common from month two onward. Fungal infections are less frequent but matter if neutrophils stay low or you need steroids for side effects. Call your team the same day for a fever above 38°C, a new cough, or breathlessness, even if you feel otherwise well. Early treatment usually makes a real difference.</p>"
+          },
+          {
+            "q": "How long do I have to keep taking preventive antibiotics and antivirals?",
+            "a": "<p>Antiviral tablets to prevent shingles are usually continued for at least six to twelve months, and often until your CD4 T-cell count recovers above about 200. Pneumocystis prevention typically runs on a similar timeline. Antifungal and antibacterial cover is usually shorter, ending once neutrophils recover. Do not stop any of these on your own; the stopping point depends on your counts, your steroid use, and your centre's protocol.</p>"
+          },
+          {
+            "q": "Do I need to be re-vaccinated after CAR-T therapy?",
+            "a": "<p>Yes, most centres restart a full vaccination schedule, usually beginning six to twelve months after the infusion. Inactivated vaccines such as influenza, COVID-19, pneumococcal, and tetanus come first. Live vaccines are delayed much longer, often two years, and only when your counts and immunoglobulin levels allow. If you are still on immunoglobulin replacement, your response to vaccines may be blunted, so timing is decided case by case with your oncology team.</p>"
+          },
+          {
+            "q": "When can I go back to work, school, and crowded places?",
+            "a": "<p>Most people return to normal social activity around three months after CAR-T, once neutrophils are stable and no active infection is present. Many centres advise avoiding crowds, construction dust, and unwell contacts for the first 60 to 90 days, and wearing a mask in busy indoor spaces. Return to work also depends on fatigue, which often lags behind blood counts. Your own timeline should be set by your treating team.</p>"
+          },
+          {
+            "q": "Which blood tests show whether my immune system is recovering?",
+            "a": "<p>The core tests are a full blood count with differential, immunoglobulin levels (IgG, IgA, IgM), lymphocyte subsets including CD4 and CD19 counts, and screening for CMV and EBV when indicated. Most centres check these monthly for the first six months, then less often. A rising CD4 count and returning B cells are the clearest signs of recovery. Ask for copies of your results so any future doctor can see the trend.</p>"
+          },
+          {
+            "q": "If I have CAR-T abroad, who looks after my immune recovery when I get home?",
+            "a": "<p>Plan the handover before you travel. Most centres in India and China ask you to stay nearby for one to three months, then transfer monitoring to a haematologist at home who continues blood counts, immunoglobulin infusions, and preventive medicines. Bring discharge summaries, the CAR-T product details, and your medication list. CancerFax can help arrange the treating centre and share these records with your local doctor, who remains responsible for your ongoing care.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

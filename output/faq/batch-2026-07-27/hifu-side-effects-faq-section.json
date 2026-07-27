@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU Side Effects and Complications: What Patients Should Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-side-effects",
+  "route": "/insights/hifu-side-effects",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most common side effects of HIFU?",
+            "a": "<p>The most common HIFU side effects are temporary urinary problems: burning when passing urine, a weak stream, urgency, and blood in the urine. Many men also feel tired or have mild pelvic discomfort for a week or two. Most settle within four to six weeks as swelling in the treated tissue goes down. Your own risk depends on tumour size, location, and any earlier treatment.</p>"
+          },
+          {
+            "q": "Will HIFU affect my erections?",
+            "a": "<p>HIFU carries a lower risk of erectile problems than surgery, but the risk is real. Studies report that roughly one in five to one in three men notice weaker erections afterwards, mostly when treatment is delivered close to the nerve bundles. Whole-gland HIFU affects erections more often than focal treatment of one side. Recovery can take six to twelve months, and medication often helps in the meantime.</p>"
+          },
+          {
+            "q": "Can HIFU cause urinary incontinence?",
+            "a": "<p>Serious, lasting incontinence after HIFU is uncommon, with most series reporting it in under five percent of men, and focal HIFU lower still. Mild leaking with coughing or exercise is more frequent in the first weeks and usually improves with pelvic floor exercises. The risk rises if you have had radiotherapy before, or if the whole gland is treated. Ask your urologist for their own figures.</p>"
+          },
+          {
+            "q": "How long do HIFU side effects last?",
+            "a": "<p>Most HIFU side effects fade within one to three months. Urinary burning and urgency are worst in the first two weeks, while stream strength and bladder control usually keep improving through the first three months. Sexual function takes longest and may continue recovering for up to a year. If any symptom is getting worse rather than better after six weeks, report it to your team promptly.</p>"
+          },
+          {
+            "q": "Why do I need a catheter after HIFU, and for how long?",
+            "a": "<p>A catheter is needed because the treated prostate swells and can block urine flow for several days. Most men go home with either a urethral catheter or a suprapubic tube for three to seven days, sometimes up to two weeks after whole-gland treatment. A small number need it for longer, or need it replaced if the bladder does not empty at the first attempt without it.</p>"
+          },
+          {
+            "q": "How likely is a fistula or rectal injury after HIFU?",
+            "a": "<p>A rectourethral fistula, meaning an abnormal channel between the urethra and rectum, is the most serious HIFU complication, and it is rare. It is reported in well under one percent of first-time treatments. The risk goes up in salvage HIFU after radiotherapy, where the tissue is already fragile. Warning signs include passing urine through the rectum or gas in the urine, and both need same-day medical review.</p>"
+          },
+          {
+            "q": "Are HIFU side effects milder than surgery or radiotherapy?",
+            "a": "<p>In most comparisons HIFU causes less incontinence and less erectile dysfunction than radical prostatectomy, and fewer bowel symptoms than external beam radiotherapy. The trade-off is that HIFU leaves prostate tissue behind, so further treatment is needed more often and follow-up biopsies are part of the plan. Which option suits you depends on your grade, stage, and gland size, so this comparison is worth having in person.</p>"
+          },
+          {
+            "q": "What symptoms after HIFU mean I should call a doctor?",
+            "a": "<p>Call your team the same day if you cannot pass urine at all, have a fever above 38°C, see heavy bleeding or clots, or pass urine or gas through the rectum. Severe pelvic pain that keeps worsening also needs review. Urinary infection is the most common reason for readmission after HIFU, and it usually responds well to antibiotics when treated early rather than left for days.</p>"
+          },
+          {
+            "q": "Does having HIFU a second time increase the risks?",
+            "a": "<p>Repeat HIFU can be done and is fairly common, since a meaningful minority of men need further treatment, but each session slightly raises the chance of urinary stricture, incontinence, and scarring. Salvage HIFU after radiotherapy has failed carries the highest complication rates of all. Your urologist will weigh a second HIFU against surgery or radiotherapy based on where and how the cancer has returned.</p>"
+          },
+          {
+            "q": "What should I ask before having HIFU at a hospital abroad?",
+            "a": "<p>Ask how many HIFU cases the centre performs each year, what their own incontinence and fistula rates are, who manages complications once you fly home, and what any retreatment would cost. Ask for the follow-up PSA and biopsy schedule in writing. CancerFax can help you gather these details from hospitals in India and China, though the final decision should rest with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "NeoAntigen Vaccine for Cancer: The Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "neoantigen-vaccine",
+  "route": "/treatments/neoantigen-vaccine",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is a neoantigen vaccine for cancer?",
+            "a": "<p>A neoantigen vaccine is a personalised cancer treatment made from mutations found only in your own tumour. Those mutations create abnormal proteins, called neoantigens, that healthy cells never make. The vaccine trains your immune system to recognise those markers and attack cells carrying them. It is given to people who already have cancer, alongside standard treatment rather than in place of it, and each vaccine is built for one patient only.</p>"
+          },
+          {
+            "q": "How is a personalised neoantigen vaccine made for me?",
+            "a": "<p>Doctors sequence DNA from your tumour tissue and from a normal blood sample, then compare the two to find mutations unique to the cancer. Software ranks which of those mutations your immune system is most likely to see, and a laboratory builds a vaccine around the top targets, using mRNA, peptide, or dendritic-cell platforms. Manufacturing commonly takes six to twelve weeks, and timelines depend on tissue quality and laboratory capacity.</p>"
+          },
+          {
+            "q": "Which cancers are neoantigen vaccines being used for?",
+            "a": "<p>Melanoma, lung, kidney, bladder, pancreatic, colorectal, liver, and head and neck cancers are the most studied, along with glioblastoma. These tumours tend to carry more mutations, which gives the vaccine more targets to work with. Trials also cover low-mutation cancers using different designs. Whether a study is open for your specific cancer type and stage depends on the centre and changes month to month, so ask your oncologist to check current listings.</p>"
+          },
+          {
+            "q": "Are neoantigen vaccines approved, or still experimental?",
+            "a": "<p>They remain investigational almost everywhere. No neoantigen cancer vaccine has full marketing approval for routine use, so access is normally through a clinical trial, an expanded-access programme, or a hospital-supervised research protocol. A few countries allow personalised immunotherapy under special regulatory routes. Approval status shifts as late-stage trial results read out, so confirm the current position with the treating hospital before you make travel plans.</p>"
+          },
+          {
+            "q": "Who is eligible for a neoantigen vaccine?",
+            "a": "<p>Eligibility usually requires a confirmed cancer diagnosis, enough preserved tumour tissue for sequencing, adequate organ function, and a life expectancy long enough to wait for manufacturing. Most trials also set rules about prior treatment and current disease burden. Patients with rapidly progressing disease often cannot wait the weeks a personalised vaccine takes to build. Final eligibility depends on specialist review and is decided only after the trial team assesses your records.</p>"
+          },
+          {
+            "q": "How well do neoantigen vaccines work?",
+            "a": "<p>Results so far are encouraging but early. In melanoma and kidney cancer trials, adding a personalised vaccine to checkpoint immunotherapy after surgery has lowered the chance of the cancer returning compared with immunotherapy alone. Most immune responses measured in these studies were modest, and follow-up is still short. No neoantigen vaccine has yet proven a survival benefit large enough for routine use, and individual results vary widely.</p>"
+          },
+          {
+            "q": "What are the side effects of a neoantigen vaccine?",
+            "a": "<p>Most side effects are mild and short-lived: soreness at the injection site, low-grade fever, chills, tiredness, and aching muscles for a day or two. Serious immune-related reactions are uncommon on their own but become more likely when the vaccine is combined with checkpoint inhibitors, which can inflame the skin, bowel, thyroid, liver, or lungs. Long-term safety is still being monitored because these vaccines are experimental.</p>"
+          },
+          {
+            "q": "Are neoantigen vaccines available in India or China?",
+            "a": "<p>Both countries run neoantigen vaccine programmes, but almost entirely inside clinical trials or hospital research protocols rather than as routine care. Chinese centres are especially active in personalised mRNA and dendritic-cell vaccine studies, and several Indian institutes offer sequencing-led immunotherapy research. International patients are accepted by some programmes and not others. Acceptance, visa approval, and admission can never be guaranteed and depend on each hospital's current protocol.</p>"
+          },
+          {
+            "q": "How much does a neoantigen vaccine cost?",
+            "a": "<p>Inside a clinical trial the vaccine itself is usually supplied free, leaving you to pay for screening, scans, hospital visits, travel, and accommodation. Outside a trial, personalised manufacturing is expensive and can run into tens of thousands of US dollars per course. Final figures depend on the hospital, the sequencing and biopsy work needed, the number of doses, any combination drugs, and length of stay.</p>"
+          },
+          {
+            "q": "How do I find out if a neoantigen vaccine is a realistic option for me?",
+            "a": "<p>Start by asking your oncologist to confirm your diagnosis, stage, biomarker results, and whether stored tumour tissue is still available, because those details decide most trial eligibility. Then look for centres running neoantigen studies for your cancer type. CancerFax helps patients organise medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel and follow-up support alongside the treating oncology team. Eligibility is confirmed only after investigator review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

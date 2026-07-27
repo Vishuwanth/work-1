@@ -1,0 +1,59 @@
+{
+  "pillar": "Radiation Segmentectomy: Y-90 TARE as Curative Treatment for Small HCC",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "radiation-segmentectomy",
+  "route": "/insights/radiation-segmentectomy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is radiation segmentectomy?",
+            "a": "<p>Radiation segmentectomy is a form of Y-90 radioembolisation that delivers a very high radiation dose into the one or two liver segments feeding a small tumour. Tiny radioactive beads travel through a catheter into that segment's artery, so the tumour receives an ablative dose while the rest of the liver is largely spared. It is used mainly for small hepatocellular carcinoma, usually under 3 cm.</p>"
+          },
+          {
+            "q": "Can radiation segmentectomy actually cure a small liver cancer, or does it only control it?",
+            "a": "<p>For carefully selected small HCC tumours, radiation segmentectomy can act as a curative treatment rather than a holding measure. Published series report complete tumour response in most patients and long-term control of the treated lesion when the delivered dose is high enough, often above 190 Gy. Cure can never be promised, and new tumours may still appear elsewhere in a cirrhotic liver, so ongoing scans remain necessary.</p>"
+          },
+          {
+            "q": "How is this different from a standard Y-90 TARE treatment?",
+            "a": "<p>The difference is how much liver is targeted, not the beads themselves. Standard TARE treats a whole lobe and uses a dose the surrounding liver can tolerate. Radiation segmentectomy moves the catheter down into the segmental or subsegmental artery, so a much higher, tumour-destroying dose can be packed into a small volume. Detailed mapping angiography and dosimetry are what make this possible.</p>"
+          },
+          {
+            "q": "Am I eligible for radiation segmentectomy?",
+            "a": "<p>You may be a candidate if you have one or two HCC tumours confined to a small part of the liver, usually 3 cm or smaller, with preserved liver function and no main portal vein invasion. Doctors also check that the tumour's blood supply can be reached with a catheter and that lung shunting is low. Eligibility depends on your scans, your liver reserve and the treating team's assessment.</p>"
+          },
+          {
+            "q": "Is it better than radiofrequency ablation for a small tumour?",
+            "a": "<p>Neither option is better for everyone; the choice often depends on where the tumour sits. Radiofrequency ablation is quicker and cheaper and works well for easily reached lesions, but it struggles near large blood vessels, the diaphragm or the gallbladder, where flowing blood carries heat away. Radiation segmentectomy is not affected by that cooling effect, so it is frequently chosen for awkwardly placed tumours or after ablation has failed.</p>"
+          },
+          {
+            "q": "What side effects should I expect afterwards?",
+            "a": "<p>Most people feel tired for one to two weeks, and some have mild abdominal discomfort, nausea or a low-grade fever, a pattern doctors call post-embolisation syndrome. Because only a small segment is irradiated, serious liver injury is uncommon. Less often, beads reaching the stomach or duodenum can cause ulcers, or the treated segment slowly shrinks over months. Report fever, jaundice or persistent vomiting to your team promptly.</p>"
+          },
+          {
+            "q": "Is this safe if I already have cirrhosis?",
+            "a": "<p>Radiation segmentectomy is usually well tolerated in Child-Pugh A cirrhosis and in many carefully chosen Child-Pugh B patients, because the radiation stays confined to a small volume of liver. Doctors check bilirubin, albumin, platelet count and signs of portal hypertension before proceeding. People with decompensated disease, significant ascites or very poor liver reserve may instead be steered towards transplant assessment or systemic therapy.</p>"
+          },
+          {
+            "q": "Can it hold my cancer in check while I wait for a liver transplant?",
+            "a": "<p>Yes, radiation segmentectomy is often used as a bridge to liver transplantation, or to downstage tumours towards transplant criteria. Livers removed at transplant frequently show complete tumour death after this treatment, which is reassuring. Whether it keeps you listed depends on your transplant centre's rules, the waiting time and how the tumour responds on follow-up imaging, so these decisions are made with the transplant team.</p>"
+          },
+          {
+            "q": "What happens on the day of the procedure, and how long is recovery?",
+            "a": "<p>Treatment usually happens in two visits. The first is a mapping angiogram with a test injection to check where the blood flows and how much reaches the lungs. One to two weeks later, the Y-90 beads are delivered through a catheter placed in the wrist or groin, generally under light sedation, taking about an hour. Most patients go home the same day or the next morning.</p>"
+          },
+          {
+            "q": "Where can I get radiation segmentectomy, and what does it cost abroad?",
+            "a": "<p>Radiation segmentectomy is offered at interventional radiology units in India, China, Europe and the United States, although not every hospital performs segment-level dosimetry. Costs in India are often well below Western prices, but the total depends on imaging, hospital stay and how many sessions are needed. CancerFax can help you gather quotes and hospital options, and any plan should be confirmed with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

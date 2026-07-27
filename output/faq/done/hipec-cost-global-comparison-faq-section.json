@@ -1,0 +1,59 @@
+{
+  "pillar": "Cost of HIPEC Globally: A Country-by-Country Comparison",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-cost-global-comparison",
+  "route": "/insights/hipec-cost-global-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does HIPEC cost in different countries?",
+            "a": "<p>Cytoreductive surgery with HIPEC typically costs about $8,000 to $15,000 in India, $15,000 to $25,000 in China, $20,000 to $30,000 in Turkey, and $70,000 to $150,000 in the United States. These ranges usually cover the operation, the heated chemotherapy, and a standard hospital stay. Your actual price depends on tumour spread, operating time, and how many days of intensive care you need afterwards.</p>"
+          },
+          {
+            "q": "Why is HIPEC so much cheaper in India than in the US?",
+            "a": "<p>The gap comes mainly from lower staffing, facility, and drug costs, not from a lower standard of surgery. Indian hospitals pay far less for salaries, real estate, and generic chemotherapy agents, and malpractice and billing overheads are a small fraction of US levels. Quality still varies between hospitals, so the surgeon's annual case volume matters more than the country you pick.</p>"
+          },
+          {
+            "q": "What is actually included in a HIPEC package price?",
+            "a": "<p>Most international packages include the surgeon's fee, anaesthesia, theatre charges, the chemotherapy drugs used in the perfusion, a set number of ward and ICU days, and routine post-operative scans. They usually exclude flights, family accommodation, extended ICU stays, and treatment of complications. Ask for the estimate in writing with the covered ICU days stated, because one complication can change the total considerably.</p>"
+          },
+          {
+            "q": "How much does HIPEC cost in the United States?",
+            "a": "<p>In the United States, cytoreductive surgery with HIPEC commonly bills between $70,000 and $150,000, and complex cases with long intensive care stays can pass $200,000. Insured patients often pay far less through their deductible and co-insurance, though out-of-network centres can leave large balances. HIPEC is performed at a limited number of specialist hospitals, so domestic travel and lodging may add to the total.</p>"
+          },
+          {
+            "q": "What does HIPEC cost in China?",
+            "a": "<p>HIPEC in China generally runs between $15,000 and $25,000 at major cancer centres, covering the surgery, the perfusion procedure, and roughly ten days of hospital care. Some centres also offer repeated intraperitoneal perfusion for malignant ascites at a lower per-session price. International patients should budget separately for visas, interpreters, and longer stays, as quoted rates for overseas patients can differ from local pricing.</p>"
+          },
+          {
+            "q": "Will my insurance pay for HIPEC?",
+            "a": "<p>Coverage depends on your insurer and your cancer type. HIPEC is often approved for appendiceal pseudomyxoma, colorectal peritoneal metastases, and peritoneal mesothelioma, and is more frequently declined for gastric or ovarian cancer, which some plans still class as investigational. Domestic insurers rarely reimburse treatment abroad unless you hold an international policy. Request a written pre-authorisation decision before you book anything.</p>"
+          },
+          {
+            "q": "Does a lower price abroad mean lower quality surgery?",
+            "a": "<p>Not necessarily, but results depend far more on the surgical team than on the price tag. HIPEC is a long, demanding operation, and centres that perform it regularly tend to report fewer complications. Ask how many cytoreductive procedures the surgeon does each year, their completeness-of-cytoreduction rates, and what intensive care backup exists.</p><p>CancerFax can help you compare accredited centres, though your treating oncology team should confirm you are a suitable candidate.</p>"
+          },
+          {
+            "q": "What hidden costs should I plan for if I travel for HIPEC?",
+            "a": "<p>Budget well beyond the surgical quote. Common extras include flights, four to eight weeks of accommodation, visas and medical clearance, an attendant's living costs, scans or biopsies repeated at the treating hospital, blood products, and any chemotherapy given afterwards. A complication such as a bowel leak can add weeks of intensive care. Many families set aside an extra 25 to 40 percent as a buffer.</p>"
+          },
+          {
+            "q": "How long do I need to stay in the country for HIPEC?",
+            "a": "<p>Plan for roughly three to six weeks in total. That usually covers pre-operative assessment, ten to fourteen days in hospital including intensive care, and a recovery period before your surgeon clears you to fly. Patients who develop complications may need considerably longer. Airlines often ask for a fitness-to-fly letter after major abdominal surgery, so keep your return ticket flexible.</p>"
+          },
+          {
+            "q": "How do I get an accurate HIPEC cost estimate for my own case?",
+            "a": "<p>Send recent imaging, your biopsy or histopathology report, and a summary of previous chemotherapy to each centre you are considering, then ask for a written estimate listing inclusions and exclusions. Peritoneal cancer index and expected operating time drive the price more than anything else.</p><p>CancerFax can forward your records to several centres for comparison, but final eligibility and pricing rest with the operating surgeon.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

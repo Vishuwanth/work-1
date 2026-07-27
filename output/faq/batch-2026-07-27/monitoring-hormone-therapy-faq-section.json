@@ -1,0 +1,59 @@
+{
+  "pillar": "Monitoring During Hormone Therapy: Bone Density, PSA, and What Tests Are Needed",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "monitoring-hormone-therapy",
+  "route": "/insights/monitoring-hormone-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How often should my PSA be checked during hormone therapy?",
+            "a": "<p>Most men have a PSA test every three to six months while on hormone therapy, and more often during the first year or if the number starts rising. Your team usually checks testosterone at the same time to confirm the drug is doing its job. A stable or falling PSA generally means treatment is holding. The exact interval depends on your stage, risk group, and early response, so ask for your own schedule.</p>"
+          },
+          {
+            "q": "What PSA level means the hormone therapy is working?",
+            "a": "<p>A clearly falling PSA is the main sign hormone therapy is working, and reaching a low level within about seven months of starting is linked to better outcomes. Doctors watch the trend rather than one reading, since day-to-day variation is normal. A rise across two consecutive tests may point to resistance and prompt a change in plan. Your oncologist should interpret the numbers alongside your scans and symptoms.</p>"
+          },
+          {
+            "q": "Do I need a bone density scan before starting hormone therapy?",
+            "a": "<p>A baseline DEXA scan is usually recommended before or shortly after starting long-term hormone therapy. Androgen deprivation in prostate cancer and aromatase inhibitors in breast cancer both speed up bone loss, and a starting measurement lets your team see how quickly things change later. If the baseline already shows thin bone, protective treatment may begin straight away. Timing can vary with local practice and your own fracture risk.</p>"
+          },
+          {
+            "q": "How often do I need a DEXA scan while on treatment?",
+            "a": "<p>Most people repeat a DEXA scan every one to two years during hormone therapy, or yearly if the first scan showed osteopenia or osteoporosis. The scan is quick, painless, and uses very little radiation. Your team reads it alongside fracture risk tools such as FRAX, your age, and any steroid use or smoking history. The gap may be stretched if two scans in a row show stable bone.</p>"
+          },
+          {
+            "q": "What blood tests do I need during hormone therapy?",
+            "a": "<p>Routine bloods usually cover PSA and testosterone in prostate cancer, plus liver function, kidney function, full blood count, blood sugar, and a cholesterol panel for anyone on long-term treatment. Vitamin D and calcium are often added because they affect bone health. Women on aromatase inhibitors typically have lipids checked too. Testing every three to six months is common, though your team may check more often at the start.</p>"
+          },
+          {
+            "q": "What monitoring do I need on tamoxifen or an aromatase inhibitor?",
+            "a": "<p>Breast cancer hormone therapy is monitored through regular clinical review, mammograms, bone density scans, and symptom checks rather than a blood marker like PSA. If you take tamoxifen, report any abnormal vaginal bleeding, since it can slightly raise the risk of uterine changes. On an aromatase inhibitor, bone and joint health need closer attention. Reviews are often every three to six months at first, then yearly.</p>"
+          },
+          {
+            "q": "Why does hormone therapy weaken my bones?",
+            "a": "<p>Hormone therapy lowers oestrogen or testosterone, and both hormones help keep bone building and breakdown in balance. Without them, bone is removed faster than it is replaced, so density can fall noticeably within the first year of treatment. Men on androgen deprivation and women on aromatase inhibitors carry the highest risk. Weight-bearing exercise, calcium, vitamin D, and bone-protecting drugs can slow that loss considerably.</p>"
+          },
+          {
+            "q": "What happens if my bone density drops during treatment?",
+            "a": "<p>If a scan shows meaningful bone loss, your team will often add a bone-protecting drug such as a bisphosphonate or denosumab, along with calcium and vitamin D. Hormone therapy is rarely stopped for this reason, because the cancer benefit usually outweighs the bone risk. You may also be referred for exercise advice and a falls check. Drug choice depends on your kidney function, dental health, and fracture history.</p>"
+          },
+          {
+            "q": "Should my heart and blood sugar be monitored too?",
+            "a": "<p>Yes. Long-term hormone therapy can push up cholesterol, blood sugar, and blood pressure, and androgen deprivation is linked to a higher risk of diabetes and heart problems. Most teams check weight, blood pressure, fasting glucose or HbA1c, and lipids at least once a year. If you already have heart disease, monitoring may be closer. Managing these risks matters as much as watching the cancer itself.</p>"
+          },
+          {
+            "q": "Can I have my monitoring done abroad or back home?",
+            "a": "<p>Monitoring can usually be shared between hospitals, since PSA tests, DEXA scans, and routine bloods are widely available in India, China, and most other countries. Ask for reference ranges and the scanner details with every report, because DEXA results are hard to compare across different machines. CancerFax can help you gather reports, arrange scans, and pass results between hospitals, though your treating oncologist should interpret them.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

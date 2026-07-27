@@ -1,0 +1,59 @@
+{
+  "pillar": "Immune Escape in Solid Tumors: Why Multi-Target Therapy Matters",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immune-escape-in-solid-tumors-and-mctl-therapy",
+  "route": "/insights/immune-escape-in-solid-tumors-and-mctl-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why do solid tumors escape my immune system?",
+            "a": "<p>Solid tumors escape the immune system by hiding the markers immune cells use to find them and by building a defensive shield around themselves. Tumor cells lower MHC molecules, release signals such as TGF-beta and IDO that switch off T cells, and pull suppressive cells into the surrounding tissue. Because several escape routes usually run at the same time, blocking only one of them often gives short-lived control.</p>"
+          },
+          {
+            "q": "What does multi-target therapy actually mean in cancer treatment?",
+            "a": "<p>Multi-target therapy means attacking the tumor through several different targets at once instead of relying on a single antigen or pathway. In cell therapy this can mean immune cells trained against a panel of tumor markers. In drug therapy it can mean pairing a checkpoint inhibitor with chemotherapy or an anti-angiogenic drug. The aim is to close off the escape routes a tumor would otherwise use.</p>"
+          },
+          {
+            "q": "Why does CAR-T work well in blood cancers but struggle in solid tumors?",
+            "a": "<p>CAR-T works well in blood cancers because targets like CD19 sit on almost every malignant cell, which solid tumors rarely offer. Solid tumors carry mixed cell populations with different markers, sit behind dense connective tissue, and live in an environment that exhausts T cells soon after they arrive. Getting enough cells into the tumor is also hard. Research groups in China and India are testing ways around each barrier.</p>"
+          },
+          {
+            "q": "What is MCTL therapy and how is it different from standard immunotherapy?",
+            "a": "<p>MCTL, or multi-target cytotoxic T lymphocyte therapy, trains a patient's own T cells to recognise several tumor antigens at once rather than a single one. The cells are expanded in a laboratory and returned by infusion. Standard checkpoint immunotherapy instead releases a brake on immune cells already present. Access to MCTL programs is limited and often runs through clinical trials, so eligibility depends on your diagnosis and prior treatment.</p>"
+          },
+          {
+            "q": "Can multi-target therapy stop my cancer from becoming resistant?",
+            "a": "<p>Multi-target therapy can slow resistance, but it cannot be relied on to prevent it. When treatment presses on several targets at once, a tumor needs more than one change to survive, which often takes longer. Tumors can still adapt by losing an antigen or producing new suppressive signals. Your oncologist can judge how likely resistance is from your tumor's genetic profile and how it responded to earlier treatment.</p>"
+          },
+          {
+            "q": "How do doctors know if my tumor is immunologically cold?",
+            "a": "<p>Doctors call a tumor cold when biopsy testing shows very few immune cells inside it. Pathologists look at tumor-infiltrating lymphocytes, PD-L1 expression, and markers such as microsatellite instability or tumor mutational burden. Cold tumors tend to respond poorly to checkpoint inhibitors alone, and are often the ones considered for combination or cell-based approaches. These tests need tumor tissue, so a fresh or stored biopsy sample is usually required.</p>"
+          },
+          {
+            "q": "Am I eligible for multi-target cell therapy abroad?",
+            "a": "<p>Eligibility usually depends on your cancer type, how much treatment you have already had, your general fitness, and whether your organs and blood counts can tolerate an infusion. Many programs in China and India accept patients whose standard options have run out. Centres review your records before offering a place, and CancerFax can help pass those records on, though the decision stays with the treating oncology team.</p>"
+          },
+          {
+            "q": "What side effects should I expect from multi-target immune cell therapy?",
+            "a": "<p>The most common side effects are fever, chills, low blood pressure, and fatigue in the days after infusion, caused by cytokine release. Severe cytokine release syndrome and neurological symptoms appear less often with multi-target T-cell products than with high-dose CAR-T, but they can still happen. Damage to healthy tissue that shares the same markers is also possible, so treatment is given under close inpatient monitoring.</p>"
+          },
+          {
+            "q": "How much does multi-target therapy cost in India or China?",
+            "a": "<p>Costs vary widely by centre and by whether the treatment is given inside a clinical trial. Trial participation may reduce or remove the cost of the cell product itself, while hospital stay, imaging, and supportive care are still charged separately. Commercial cell therapy programs run considerably higher. Ask each centre for a written estimate that separates product cost from hospital and follow-up costs before you travel.</p>"
+          },
+          {
+            "q": "Should I wait for multi-target therapy instead of starting standard treatment now?",
+            "a": "<p>In most cases no, because delaying proven treatment can let the tumor grow past the point where any therapy helps. Multi-target and cell-based approaches remain largely investigational for solid tumors, and access can take weeks to arrange. Many patients follow both paths, beginning standard treatment while their records are reviewed for a trial. Your treating oncologist is the right person to weigh that timing for you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

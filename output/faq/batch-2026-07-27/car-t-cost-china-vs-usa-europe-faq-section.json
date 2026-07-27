@@ -1,0 +1,59 @@
+{
+  "pillar": "CAR-T Costs in China vs USA and Europe: The Complete Cost Comparison",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-cost-china-vs-usa-europe",
+  "route": "/insights/car-t-cost-china-vs-usa-europe",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does CAR-T cost in China compared to the USA?",
+            "a": "<p>CAR-T therapy in China typically costs US$60,000 to US$150,000, while the drug alone in the United States lists at US$373,000 to US$530,000 before hospital charges. Chinese pricing reflects lower manufacturing and hospital costs, not a different technology. Treatment inside a sponsored trial can cost far less again. Final figures depend on your cancer type, the product used, and how much supportive care you end up needing.</p>"
+          },
+          {
+            "q": "Why is CAR-T so much cheaper in China?",
+            "a": "<p>Manufacturing, staffing, and hospital day rates are far lower in China, and dozens of domestic developers compete for the same patients. Chinese-made CD19 and BCMA products avoid the import duties and commercial pricing structures that inflate Western costs. Some patients are treated inside sponsored studies, where the cell product itself may be supplied free. Costs still vary by hospital and city, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "What does CAR-T cost in Europe?",
+            "a": "<p>Approved CAR-T products in Europe list at roughly €300,000 to €350,000, and total treatment often reaches €400,000 once hospitalisation and complication management are added. Patients inside national health systems may pay little or nothing if they meet strict eligibility rules. International self-paying patients are usually quoted the full commercial price. Access and pricing differ sharply between Germany, Spain, and the UK, so confirm quotes hospital by hospital.</p>"
+          },
+          {
+            "q": "Does the quoted price include everything, or are there extra charges?",
+            "a": "<p>Usually not. Most quotes cover the cell product and a standard hospital stay, but not intensive care for cytokine release syndrome, tocilizumab, extended neurological monitoring, or bridging chemotherapy before infusion. In the United States these extras commonly add US$100,000 or more. Ask any hospital for an itemised quote that spells out what happens if you need ICU care, since that single line drives most cost overruns.</p>"
+          },
+          {
+            "q": "What will the whole trip to China actually cost me?",
+            "a": "<p>Budget roughly US$90,000 to US$180,000 in total, covering the cell product, apheresis, lymphodepletion, hospital stay, and two to three months of accommodation for you and one caregiver. Flights, visas, translation, and follow-up scans sit on top of that. CancerFax can help you compare written quotes from Chinese centres, though your treating oncology team should confirm whether the plan suits your disease and current condition.</p>"
+          },
+          {
+            "q": "Is cheaper CAR-T in China lower quality?",
+            "a": "<p>A lower price does not mean lower quality. Leading Chinese centres use the same CD19 and BCMA targets, comparable manufacturing standards, and report response rates similar to Western trials in relapsed lymphoma and myeloma. The difference sits in labour, facility, and drug pricing, not in the science. Quality does vary between hospitals, so ask about CAR-T case volume, GMP certification, and published outcomes before committing.</p>"
+          },
+          {
+            "q": "Will my insurance pay for CAR-T if I get it abroad?",
+            "a": "<p>Most Western insurers will not reimburse CAR-T received in China, because the product is not licensed in their country. Some policies refund part of the hospital costs when treatment is judged medically necessary and unavailable at home, but written pre-approval is essential. Medicare, the NHS, and most European public systems cover only domestically approved products. Speak to your insurer before booking, as verbal assurances are rarely honoured.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial in China and pay almost nothing?",
+            "a": "<p>Sponsored trials in China often supply the cell product free, which can reduce your bill to hospital and monitoring charges of roughly US$15,000 to US$40,000. Entry is never guaranteed: trials set narrow criteria on cancer type, prior treatments, and organ function, and screening can take several weeks. Slots fill quickly. Your oncologist should judge whether a trial arm is clinically appropriate before cost becomes the deciding factor.</p>"
+          },
+          {
+            "q": "What costs do patients usually forget to budget for?",
+            "a": "<p>The most underestimated costs are bridging chemotherapy before infusion, ICU care for cytokine release syndrome, repeat PET or MRI scans, long-stay accommodation, and immunoglobulin replacement afterwards for B-cell aplasia. Together these can add 20 to 40 percent to the headline price in any country. A second infusion, if the first fails, is rarely discounted. Ask what the refund policy is if manufacturing fails, because that occasionally happens.</p>"
+          },
+          {
+            "q": "How long do I need to stay in China for treatment?",
+            "a": "<p>Plan on eight to twelve weeks. Apheresis, manufacturing, and lymphodepletion take about three to five weeks, infusion and inpatient monitoring another two to four, and doctors usually want you nearby for a further month in case of delayed neurotoxicity. Accommodation across that period is a real cost, not an afterthought. Your centre may extend the stay if complications arise, so build flexibility into visas and budgets.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

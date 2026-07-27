@@ -1,0 +1,59 @@
+{
+  "pillar": "PD-L1 Inhibitors: How PD-L1 Blockade Works, Who It Helps, and Where to Access It",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdl1-inhibitors",
+  "route": "/treatments/pdl1-inhibitors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly do PD-L1 inhibitors do inside the body?",
+            "a": "<p>PD-L1 inhibitors are drugs that stop cancer cells from switching off your immune system. Many tumours coat themselves in a protein called PD-L1, which presses a brake on the T cells that would otherwise attack them. The drug blocks that protein, so the brake is released and your own T cells can recognise and kill the cancer. Atezolizumab, durvalumab and avelumab all work this way.</p>"
+          },
+          {
+            "q": "Is a PD-L1 inhibitor the same as a PD-1 inhibitor like pembrolizumab?",
+            "a": "<p>No, they block opposite ends of the same switch. PD-1 inhibitors such as pembrolizumab and nivolumab block the receptor on your T cells, while PD-L1 inhibitors such as atezolizumab and durvalumab block the partner protein on the tumour. In practice the results are often similar, and the choice usually comes down to which drug is approved and best studied for your cancer type and stage.</p>"
+          },
+          {
+            "q": "My report says PD-L1 is high. Does that mean the treatment will work?",
+            "a": "<p>A high PD-L1 score improves your odds but does not guarantee a response. Patients with strong expression respond more often, yet some people with low or negative scores still benefit, and some with high scores do not. Tumour mutation burden, MSI status, previous treatment and overall fitness all shape the outcome. Your oncologist reads the PD-L1 score alongside these factors rather than on its own.</p>"
+          },
+          {
+            "q": "Which cancers are PD-L1 inhibitors actually used for?",
+            "a": "<p>PD-L1 inhibitors are most established in non-small cell and small cell lung cancer, bladder and urothelial cancer, triple-negative breast cancer, liver cancer, and Merkel cell carcinoma. Approvals differ by country and by line of treatment, so a drug used one way in the United States may be used differently in India or China. Ask your oncologist which approvals apply to your diagnosis and stage.</p>"
+          },
+          {
+            "q": "How is the drug given, and how long will I be on it?",
+            "a": "<p>PD-L1 inhibitors are given as a drip into a vein, usually over 30 to 60 minutes, every two, three or four weeks depending on the drug and dose. Most treatment plans run for up to two years if the cancer stays controlled and side effects stay manageable. Some people stop earlier because of side effects, and others continue longer under their oncologist's judgement.</p>"
+          },
+          {
+            "q": "What side effects should I watch out for?",
+            "a": "<p>Most people tolerate PD-L1 inhibitors better than chemotherapy, but the immune system can turn on healthy organs. Tiredness, rash, itching and diarrhoea are common. Less often, the thyroid, lungs, liver, bowel or adrenal glands become inflamed, which can be serious if ignored. Report new breathlessness, persistent diarrhoea, yellowing skin or unusual fatigue quickly to your treating team, because early steroid treatment usually settles these reactions.</p>"
+          },
+          {
+            "q": "Can a PD-L1 inhibitor be combined with chemotherapy?",
+            "a": "<p>Yes, combining a PD-L1 inhibitor with chemotherapy is now standard in several cancers, including advanced lung cancer and triple-negative breast cancer. Chemotherapy can expose tumour antigens and make the immune attack more effective, so response rates are often higher than with either treatment alone. The trade-off is more side effects. Whether a combination suits you depends on your cancer type, PD-L1 score, organ function and general condition.</p>"
+          },
+          {
+            "q": "What do PD-L1 inhibitors cost in India or China compared with home?",
+            "a": "<p>PD-L1 inhibitor treatment in India and China often costs a fraction of United States or European prices, largely because locally made and biosimilar checkpoint drugs are available there. A single cycle may range from a few hundred to a few thousand dollars, and the total depends on the drug, dose, number of cycles and hospital. Prices change often, so ask for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "How do I get my tumour tested for PD-L1?",
+            "a": "<p>PD-L1 testing is done on tumour tissue, usually the biopsy or surgical sample your hospital already has stored. A pathologist stains the slide and reports a score such as TPS, CPS or IC, depending on the cancer and the drug being considered. Results normally take a few days to two weeks. If no usable tissue remains, a fresh biopsy may be needed before treatment can be planned.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for PD-L1 treatment, and who can help me arrange it?",
+            "a": "<p>Travelling for PD-L1 treatment is possible, and many hospitals in India and China treat international patients, though eligibility has to be confirmed on your records first. Teams usually want your pathology report, PD-L1 score, recent scans and treatment history before they can quote a plan.</p><p>CancerFax can help you send those documents to treating centres and understand the options, while every clinical decision stays with the oncology team caring for you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

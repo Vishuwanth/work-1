@@ -1,0 +1,59 @@
+{
+  "pillar": "HER2-Positive Gastric Cancer Treatment: From Trastuzumab to T-DXd",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "her2-positive-gastric-cancer-treatment",
+  "route": "/insights/her2-positive-gastric-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does it mean if my gastric cancer is HER2-positive?",
+            "a": "<p>HER2-positive means your tumour makes too much of a protein called HER2, which pushes the cancer to grow faster. About 15 to 20 percent of stomach and gastro-oesophageal junction cancers test positive. This matters because it opens the door to HER2-targeted drugs such as trastuzumab and trastuzumab deruxtecan, which do not help HER2-negative tumours. Your pathology report should state the HER2 result clearly.</p>"
+          },
+          {
+            "q": "How do doctors test for HER2 in stomach cancer?",
+            "a": "<p>HER2 testing is done on your biopsy or surgical tissue, usually starting with an immunohistochemistry stain. A score of 3+ counts as positive. A borderline 2+ score is sent for ISH testing, which checks whether the HER2 gene is amplified. Gastric tumours often stain unevenly across the same specimen, so pathologists may need several tissue blocks. Ask your team which method and score were used.</p>"
+          },
+          {
+            "q": "What is the standard first treatment for HER2-positive gastric cancer?",
+            "a": "<p>The standard first-line treatment is chemotherapy combined with trastuzumab. The ToGA trial showed this combination extended median survival to about 13.8 months, compared with 11.1 months for chemotherapy alone. The chemotherapy is usually a fluoropyrimidine such as capecitabine or 5-FU, paired with a platinum drug. Many patients whose tumours also express PD-L1 now receive immunotherapy alongside this, depending on local approvals.</p>"
+          },
+          {
+            "q": "Should immunotherapy be added to trastuzumab and chemotherapy?",
+            "a": "<p>In many cases, yes. The KEYNOTE-811 trial added pembrolizumab to trastuzumab and chemotherapy and improved both response rates and survival, with the clearest benefit in patients whose tumours have a PD-L1 combined positive score of 1 or higher. Approval wording differs between countries, so eligibility depends on where you are treated and on your PD-L1 result. Your oncologist can confirm whether this regimen applies to you.</p>"
+          },
+          {
+            "q": "What is T-DXd, and how is it different from trastuzumab?",
+            "a": "<p>Trastuzumab deruxtecan, or T-DXd, is an antibody-drug conjugate: the trastuzumab antibody carries a chemotherapy payload directly to HER2-positive cells and releases it inside them. Plain trastuzumab only blocks HER2 signalling. T-DXd also kills neighbouring tumour cells that carry less HER2, an effect called bystander killing, which is one reason it can still work after trastuzumab stops controlling the disease.</p>"
+          },
+          {
+            "q": "How well does T-DXd work after trastuzumab stops working?",
+            "a": "<p>T-DXd shrinks tumours in roughly half of patients treated after trastuzumab. In the DESTINY-Gastric01 trial, tumours responded in 51 percent of patients on T-DXd versus 14 percent on chemotherapy, and median survival was 12.5 months versus 8.4 months. Results in the Western DESTINY-Gastric02 trial were broadly similar. Outcomes vary with how much disease you have and how well you are otherwise.</p>"
+          },
+          {
+            "q": "What side effects should I expect from T-DXd?",
+            "a": "<p>The common problems are nausea, tiredness, hair loss and low blood counts, and most are managed with anti-sickness medicine and dose adjustments. The serious one to know about is interstitial lung disease, an inflammation of the lungs that affects roughly one in ten patients and can be severe.</p><p>Report any new cough, breathlessness or fever the same day, because early steroid treatment often makes a real difference.</p>"
+          },
+          {
+            "q": "Do I need another biopsy before starting T-DXd?",
+            "a": "<p>Often, yes. HER2 can disappear from the tumour after treatment with trastuzumab, and studies have found HER2 loss in a sizeable share of patients who are re-tested at progression. A fresh biopsy of a growing site confirms whether HER2-targeted treatment still makes sense. Where a biopsy is not safe or not possible, your oncologist may weigh the original result against how your disease is behaving.</p>"
+          },
+          {
+            "q": "Can I get T-DXd in India or China?",
+            "a": "<p>In many cases, yes. Trastuzumab deruxtecan is approved for HER2-positive gastric cancer in both India and China, and is given at major cancer centres in cities such as Mumbai, Delhi, Beijing and Shanghai. Access still depends on drug supply, cost and whether you are fit enough for treatment. CancerFax can help you check which hospitals currently offer it, though your treating oncology team makes the final decision.</p>"
+          },
+          {
+            "q": "What options are left if T-DXd stops working?",
+            "a": "<p>Several paths may remain, including chemotherapy combinations such as paclitaxel with ramucirumab, immunotherapy if you have not already had it, and clinical trials of newer HER2 drugs like the bispecific antibody zanidatamab. Trial access depends on your previous treatments, organ function and the number of open slots, so it cannot be promised in advance. CancerFax can help you shortlist trials to discuss with your oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

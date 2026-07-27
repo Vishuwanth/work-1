@@ -1,0 +1,59 @@
+{
+  "pillar": "Immune Checkpoint Inhibitors: PD-1, PD-L1, and CTLA-4 Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immune-checkpoint-inhibitors-pd1-pdl1-ctla4",
+  "route": "/insights/immune-checkpoint-inhibitors-pd1-pdl1-ctla4",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What do immune checkpoint inhibitors actually do?",
+            "a": "<p>Immune checkpoint inhibitors are drugs that release the brakes on your immune system so your own T cells can find and kill cancer cells. Tumours often switch on proteins like PD-1, PD-L1 and CTLA-4 to hide from immune attack, and these drugs block that signal. They do not kill cancer directly, which is why responses can take weeks to appear and, in many cases, last well after treatment stops.</p>"
+          },
+          {
+            "q": "What's the difference between PD-1 and PD-L1 drugs?",
+            "a": "<p>PD-1 drugs such as pembrolizumab and nivolumab block the receptor on your T cells, while PD-L1 drugs such as atezolizumab and durvalumab block the matching protein on tumour cells. Both interrupt the same off switch, and in most cancers their results look broadly similar. The practical difference is usually which drug is approved and available for your specific cancer type and stage in the country where you are treated.</p>"
+          },
+          {
+            "q": "How is CTLA-4 therapy different from PD-1 treatment?",
+            "a": "<p>CTLA-4 drugs like ipilimumab act earlier, in the lymph nodes, where T cells are first trained to recognise cancer, rather than at the tumour itself. This broader effect can deepen responses, especially when combined with a PD-1 drug in melanoma, kidney and some lung cancers. It also causes more immune side effects, so doctors often reserve combinations for patients fit enough to manage them safely.</p>"
+          },
+          {
+            "q": "Will immunotherapy work for my type of cancer?",
+            "a": "<p>Checkpoint inhibitors work best in cancers with high PD-L1 levels, high tumour mutation burden, or mismatch repair deficiency, and they are standard in melanoma, lung, kidney, bladder, head and neck and some liver cancers. Roughly 20 to 40 percent of unselected patients respond, and more when biomarkers are favourable. Your oncologist will usually test the tumour first, because these markers, not the cancer's name alone, predict benefit.</p>"
+          },
+          {
+            "q": "What tests show if I'm eligible for checkpoint immunotherapy?",
+            "a": "<p>Three tests matter most: PD-L1 staining by immunohistochemistry, microsatellite instability or mismatch repair status, and tumour mutation burden from a genomic panel. Most can be run on the tumour tissue already stored from your biopsy, so a fresh procedure is often unnecessary. Results usually take one to three weeks. Eligibility still depends on your organ function, prior treatments and the approvals in place where you are treated.</p>"
+          },
+          {
+            "q": "What are the side effects of checkpoint inhibitors?",
+            "a": "<p>The main risk is the immune system attacking healthy organs, most often the skin, bowel, thyroid, liver or lungs. Rash, diarrhoea and fatigue are common; serious inflammation of the colon, lungs or hormone glands affects a smaller group and needs steroids quickly. Combination CTLA-4 and PD-1 treatment carries the highest rate. Report new symptoms early, because most immune reactions are reversible when treated promptly and monitored closely.</p>"
+          },
+          {
+            "q": "How long is the treatment and when will I know if it's working?",
+            "a": "<p>Most patients receive an infusion every two to six weeks, with the first scan around nine to twelve weeks. Treatment often continues for up to two years if the cancer is controlled and side effects stay manageable. Scans can be confusing early on, because inflammation may make a tumour look larger before it shrinks. Your team may repeat imaging rather than stopping a drug that is still working.</p>"
+          },
+          {
+            "q": "How much does checkpoint immunotherapy cost in India or China?",
+            "a": "<p>Checkpoint immunotherapy in India typically costs about 1,500 to 3,000 US dollars per cycle, and often less in China where several domestic PD-1 drugs are approved, against 8,000 to 12,000 dollars in the United States. Biosimilar and locally made versions lower this further. CancerFax can help you obtain written quotes from treating hospitals, though final pricing depends on the drug chosen, your weight and the number of cycles needed.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for immunotherapy?",
+            "a": "<p>Yes, both countries treat international patients with checkpoint inhibitors, and China also offers PD-1 drugs approved locally that are not sold elsewhere. You will normally need your pathology report, recent scans and biomarker results reviewed before travel, plus a medical visa. CancerFax can arrange that remote review with a treating oncologist, though acceptance, timelines and the drugs available always depend on the hospital and your individual case.</p>"
+          },
+          {
+            "q": "What happens if immunotherapy stops working?",
+            "a": "<p>If the cancer grows again, options include adding chemotherapy or a targeted drug, switching to a different checkpoint combination, or joining a trial of newer agents such as LAG-3, TIGIT or bispecific antibodies. Some patients who progress in only one spot can have that site treated with radiation while continuing the drug. Trial access depends on your prior treatments, so ask your oncologist early rather than after progression.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Inside China's AI-Native Hospitals: A New Era of Cancer Care Delivery",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-ai-native-hospitals-cancer-care",
+  "route": "/guides/china-ai-native-hospitals-cancer-care",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is an AI-native hospital?",
+            "a": "<p>An AI-native hospital is one built around artificial intelligence from the start, rather than bolting software onto older systems. In China that means AI reads scans and pathology slides first, drafts clinical notes, schedules treatment, and flags patients who are deteriorating. Doctors still review and sign every decision. The aim is faster turnaround and fewer missed findings, not replacing the oncology team caring for you.</p>"
+          },
+          {
+            "q": "Will artificial intelligence decide my cancer treatment?",
+            "a": "<p>No. AI systems in Chinese hospitals suggest options, they do not authorise treatment. A model may propose a chemotherapy protocol or highlight a mutation worth targeting, but a tumour board of oncologists, radiologists, and pathologists reviews that suggestion before anything is prescribed. Chinese regulations require a licensed physician to sign off. Ask your treating team directly how much weight they give the software in your case.</p>"
+          },
+          {
+            "q": "How much faster is diagnosis at an AI-native hospital in China?",
+            "a": "<p>Reporting that often takes a week at a conventional hospital can come back in one to three days. AI pre-reads CT, MRI, and pathology images overnight, so the radiologist starts with a marked-up study instead of a blank one. Actual timing depends on how busy the centre is, whether outside slides need re-cutting, and how many extra tests your case turns out to need.</p>"
+          },
+          {
+            "q": "Is AI-assisted cancer care in China as accurate as a human specialist?",
+            "a": "<p>In narrow tasks such as lung nodule detection and cervical cytology, published Chinese studies show AI matching or beating average human readers. Across a whole cancer case the picture is different, because staging, other illnesses, and patient preference still need clinical judgement. That is why these hospitals pair the model with a senior reviewer rather than letting it report alone. Accuracy varies by tumour type.</p>"
+          },
+          {
+            "q": "Which hospitals in China actually run this way?",
+            "a": "<p>The most advanced examples sit in Beijing, Shanghai, Guangzhou, and Hangzhou, where large cancer centres and technology firms have built AI into imaging, pathology, and patient flow. Some newer facilities were designed as AI-first from the ground up. Capability differs sharply between a flagship tertiary centre and a provincial hospital, so confirm what a specific hospital offers for your cancer type before making travel plans.</p>"
+          },
+          {
+            "q": "Does AI make cancer treatment in China cheaper?",
+            "a": "<p>Sometimes, but not dramatically. AI mainly cuts costs indirectly, by shortening hospital stays, reducing repeat imaging, and avoiding treatment a genomic model predicts will not work. Drug prices, surgery, and radiotherapy still dominate the bill. A few centres charge a separate fee for AI-assisted pathology or treatment planning. Final costs depend on the hospital, your protocol, the diagnostics ordered, and how long you stay.</p>"
+          },
+          {
+            "q": "Can AI help match me to a clinical trial in China?",
+            "a": "<p>Yes, trial matching is one of the clearer wins. These systems read your pathology, genomic report, and prior treatment history against open Chinese trial protocols and return a shortlist in minutes rather than weeks. A match is only a starting point. Final eligibility is decided by the trial investigator after screening, and enrolment can never be promised in advance. CancerFax can help you assemble the reports these systems need.</p>"
+          },
+          {
+            "q": "Will the language barrier be worse or better with AI systems?",
+            "a": "<p>Usually better. AI-native hospitals typically run real-time translation in consultations and can generate discharge summaries and reports in English on request, which removes much of the friction international patients used to face. Machine translation still slips on clinical nuance, so ask for a human interpreter during consent discussions and treatment decisions. Confirm before you travel which documents the hospital will issue in English.</p>"
+          },
+          {
+            "q": "What happens to my scans and medical records?",
+            "a": "<p>Your data is stored on Chinese hospital servers and, under China's data rules, generally has to stay inside the country. Images and reports may also be used to train hospital AI models, often in de-identified form. You can ask what consent you are signing, whether your data will be used for research, and how to obtain a full copy of your records to take home.</p>"
+          },
+          {
+            "q": "How do I work out whether an AI-native Chinese hospital suits my case?",
+            "a": "<p>Start with your diagnosis, not the technology. Ask whether the centre treats your specific cancer in volume, who the named oncologist would be, and where AI actually sits in that pathway. Request a written second opinion before booking flights. CancerFax can help organise your reports, identify relevant specialists, and estimate costs, though the final treatment decision stays with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

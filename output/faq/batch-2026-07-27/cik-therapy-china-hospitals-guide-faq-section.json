@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Therapy at Chinese Hospitals: A Guide for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-china-hospitals-guide",
+  "route": "/insights/cik-therapy-china-hospitals-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK therapy and how does it work?",
+            "a": "<p>CIK therapy uses your own immune cells, grown in a laboratory for two to three weeks and then infused back to help attack cancer cells. The cells are cytokine-induced killer cells, a mix of T cells and natural killer-like cells expanded with interferon-gamma, an anti-CD3 antibody, and interleukin-2. They recognise tumour cells without needing a tissue match, and are usually given as several infusions.</p>"
+          },
+          {
+            "q": "Does CIK therapy actually work, or is it still experimental?",
+            "a": "<p>CIK therapy is best described as supportive and still investigational, not a proven standalone cure. Chinese trials, mostly in liver, stomach, and lung cancer, suggest that adding CIK infusions after surgery or chemotherapy may lengthen the time before cancer returns in some patients. The studies are largely single-country and modest in size, and no regulator outside China has approved CIK as a standard treatment. Ask your oncologist how the evidence applies to your cancer type.</p>"
+          },
+          {
+            "q": "Which cancers do Chinese hospitals use CIK therapy for?",
+            "a": "<p>Chinese hospitals most often use CIK therapy alongside standard treatment for liver, stomach, colorectal, lung, and kidney cancer, and sometimes for lymphoma or after a stem cell transplant. It is generally offered as an add-on after surgery, chemotherapy, or radiotherapy rather than as a first treatment. Whether it may be suitable for you depends on your cancer type, stage, disease burden, and how well your immune system is working.</p>"
+          },
+          {
+            "q": "Is CIK therapy the same as CAR T-cell therapy?",
+            "a": "<p>No. CAR T-cell therapy genetically engineers your T cells to target one specific marker on cancer cells, while CIK therapy simply expands a mixed population of your immune cells without changing their genes. CAR T is far more powerful in certain blood cancers but carries serious risks such as cytokine release syndrome. CIK is gentler, broader, and much weaker, which is why it is usually combined with other treatment.</p>"
+          },
+          {
+            "q": "How is CIK therapy given, and how long does it take?",
+            "a": "<p>Blood is collected through a vein or by apheresis, the immune cells are grown in a laboratory for about two to three weeks, then returned by drip over one to two hours. A course is usually four to six infusions given over several weeks, and some hospitals repeat courses every few months. Most international patients should plan for four to eight weeks in China per course. Exact schedules vary by hospital and protocol.</p>"
+          },
+          {
+            "q": "What are the side effects of CIK therapy?",
+            "a": "<p>Most people get mild, short-lived effects: fever, chills, tiredness, headache, or aching muscles in the hours after an infusion, usually settling within a day or two. Because the cells come from your own body, rejection and graft-versus-host disease are not expected. Serious reactions are uncommon but possible, and the blood collection step carries its own small risks. Report any fever above 38 degrees Celsius to the hospital team promptly.</p>"
+          },
+          {
+            "q": "Can CIK therapy replace chemotherapy or surgery?",
+            "a": "<p>No. CIK therapy is used alongside standard treatment, never instead of it. The trials that showed benefit all gave CIK after surgery, chemotherapy, or radiotherapy, so the standard treatment was doing the main work. Choosing CIK in place of proven care can allow a treatable cancer to grow. If a hospital suggests CIK as a substitute for standard treatment, get a second opinion before agreeing.</p>"
+          },
+          {
+            "q": "Is CIK therapy approved and regulated in China?",
+            "a": "<p>CIK therapy is regulated in China as a medical technology, and since 2016 it has been restricted mainly to clinical research within approved hospitals rather than sold freely as a commercial service. Reputable centres run it under institutional ethics approval with documented cell processing standards. It is not approved by the FDA or EMA. Ask any hospital to show in writing which approval or trial protocol your treatment falls under.</p>"
+          },
+          {
+            "q": "How much does CIK therapy cost at Chinese hospitals?",
+            "a": "<p>A course of CIK therapy at Chinese hospitals commonly runs from roughly 8,000 to 25,000 US dollars, depending on the number of infusions and whether it is combined with dendritic cell therapy. That figure usually excludes scans, hospital stay, other treatment, and travel. Costs vary widely between centres and can change, so ask for an itemised written estimate covering the full course before you travel.</p>"
+          },
+          {
+            "q": "How do I arrange CIK therapy in China as an international patient?",
+            "a": "<p>Start by asking your own oncologist whether CIK would add anything to your current plan, then send your reports to a Chinese hospital for a written opinion before booking anything. You will usually need translated pathology, recent scans, and blood results, plus a medical visa. CancerFax can help organise records, obtain hospital opinions and cost estimates, and coordinate travel, though acceptance and suitability remain the treating team's decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

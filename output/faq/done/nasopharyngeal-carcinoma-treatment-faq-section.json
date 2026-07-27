@@ -1,0 +1,59 @@
+{
+  "pillar": "Nasopharyngeal Carcinoma: Treatment and International Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "nasopharyngeal-carcinoma-treatment",
+  "route": "/insights/nasopharyngeal-carcinoma-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What causes nasopharyngeal carcinoma?",
+            "a": "<p>Nasopharyngeal carcinoma is usually linked to Epstein-Barr virus infection, which is found in nearly all cases of the most common subtype. Genetics and diet also play a role, which is why rates are highest in southern China, Southeast Asia, North Africa and parts of northeast India. Smoking and heavy alcohol use may add to the risk. Having EBV does not mean you will develop the cancer.</p>"
+          },
+          {
+            "q": "What are the first signs of nasopharyngeal cancer?",
+            "a": "<p>The most common first sign is a painless lump in the neck, caused by the cancer spreading to nearby lymph nodes. Other early symptoms include blocked or ringing ears on one side, blood-tinged mucus when you clear your nose, nosebleeds, headaches and blurred or double vision. Because these look like ordinary sinus or ear problems, diagnosis is often delayed. Persistent one-sided symptoms lasting more than a few weeks should be checked.</p>"
+          },
+          {
+            "q": "Is nasopharyngeal carcinoma curable?",
+            "a": "<p>Yes, nasopharyngeal carcinoma is often curable, especially when found early. Five-year survival is roughly 80 to 90 percent for stage I and II disease treated with radiation, and around 60 to 70 percent for locally advanced stage III and IVA disease treated with chemotherapy and radiation together. Even cancer that has spread to lymph nodes can be cured. Your own outlook depends on stage, EBV DNA levels and how well you respond.</p>"
+          },
+          {
+            "q": "Why is radiation used instead of surgery for this cancer?",
+            "a": "<p>Radiation is the main treatment because the nasopharynx sits deep behind the nose, wrapped around critical nerves, arteries and the base of the skull, so it cannot be removed safely by surgery. Nasopharyngeal carcinoma is also very sensitive to radiation. Surgery is normally kept for removing neck lymph nodes that do not clear, or for small tumours that come back after radiation. Ask your team which role, if any, surgery has in your plan.</p>"
+          },
+          {
+            "q": "Do I need chemotherapy along with my radiation?",
+            "a": "<p>For stage II and above, chemotherapy given alongside radiation is standard, usually cisplatin every three weeks or weekly. Many patients also receive induction chemotherapy such as gemcitabine and cisplatin before radiation starts, which shrinks bulky tumours and lowers the risk of spread. Stage I disease is usually treated with radiation alone. Whether you need chemotherapy depends on your stage, kidney function and general fitness.</p>"
+          },
+          {
+            "q": "Is proton or carbon ion therapy better than normal radiation for me?",
+            "a": "<p>Proton and carbon ion therapy can spare more healthy tissue than standard IMRT, which may mean less dry mouth, hearing loss and damage to the brain stem. They are most often considered for young patients, tumours close to the optic nerves, or cancer that has come back in a previously irradiated area. Availability is limited and cost is higher. CancerFax can help you check which centres in India, China or Japan currently accept international patients.</p>"
+          },
+          {
+            "q": "Can immunotherapy help if the cancer has already spread?",
+            "a": "<p>Immunotherapy can help when nasopharyngeal carcinoma has spread or returned. PD-1 blockers such as toripalimab, tislelizumab and camrelizumab are approved in China and, in toripalimab's case, in the United States, and are usually combined with gemcitabine and cisplatin as first-line treatment for metastatic disease. Trials show longer time before the cancer grows again. Response varies between patients, so your oncologist will judge whether it suits your situation.</p>"
+          },
+          {
+            "q": "What happens if the cancer comes back after treatment?",
+            "a": "<p>If nasopharyngeal carcinoma returns, treatment depends on where and when. A tumour confined to the nasopharynx may be removed by endoscopic surgery through the nose, or treated with re-irradiation using IMRT, proton or carbon ion beams. Neck node recurrence is often handled with surgery. Cancer that has spread to bone, lung or liver is usually treated with chemotherapy plus immunotherapy. Cure is still possible in many localised recurrences.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for treatment, and what does it cost?",
+            "a": "<p>Yes, both India and China treat international patients for nasopharyngeal carcinoma, and both offer IMRT, proton therapy and PD-1 drugs. A full course of chemoradiation in India typically costs around 8,000 to 15,000 US dollars, with proton therapy higher. Teams such as CancerFax can help arrange records review and hospital estimates. Costs vary by hospital, stage and stay length, so confirm a written quote before travelling.</p>"
+          },
+          {
+            "q": "What long-term side effects should I expect after treatment?",
+            "a": "<p>Dry mouth is the most common long-term effect, along with hearing loss, difficulty swallowing, neck stiffness, dental problems and an underactive thyroid. Modern IMRT spares the salivary glands far better than older techniques, so severe dry mouth is much less frequent than it was. Regular dental care, swallowing exercises and thyroid blood tests help. Tell your team early about any new symptom, since most late effects are easier to manage when caught soon.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

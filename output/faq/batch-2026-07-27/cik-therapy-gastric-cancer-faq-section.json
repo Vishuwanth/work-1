@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Therapy for Gastric Cancer: Evidence, Combinations, and Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-gastric-cancer",
+  "route": "/insights/cik-therapy-gastric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Does CIK therapy actually work for gastric cancer?",
+            "a": "<p>The evidence suggests a modest survival benefit when CIK cells are added to standard treatment, not a cure on their own. Randomised trials and pooled analyses, mostly from China, Japan and South Korea, report longer disease-free and overall survival in gastric cancer patients who received CIK infusions alongside chemotherapy. Many of these studies are small and single-centre, so results may not apply to every patient.</p>"
+          },
+          {
+            "q": "What are CIK cells and how do they attack gastric tumours?",
+            "a": "<p>CIK cells are your own white blood cells, grown and activated in a laboratory over roughly two to three weeks, then infused back through a vein. They are a mixed population of T cells and natural killer-like cells that can recognise tumour cells without needing a matched antigen. In gastric cancer they are used mainly to clear residual disease that chemotherapy or surgery leaves behind.</p>"
+          },
+          {
+            "q": "Can I have CIK therapy after gastric cancer surgery?",
+            "a": "<p>Yes, adjuvant CIK therapy after gastric cancer surgery is one of the better-studied uses. Trials in patients who had a complete resection followed by chemotherapy report lower recurrence rates and longer disease-free survival when CIK infusions were added. Benefit appeared largest in patients with stage II or III disease. Whether it suits your case depends on your pathology, recovery, and review by your surgical and oncology team.</p>"
+          },
+          {
+            "q": "Is CIK plus chemotherapy better than chemotherapy alone for gastric cancer?",
+            "a": "<p>Pooled analyses point to better outcomes with the combination, though the difference is measured in months rather than years. Studies in advanced gastric cancer report higher response rates, longer progression-free survival and improved quality of life when CIK infusions were timed around chemotherapy cycles. Cell preparation methods differ widely between centres, which makes results hard to compare directly, so your own likely benefit needs specialist assessment.</p>"
+          },
+          {
+            "q": "Can CIK cells be combined with PD-1 immunotherapy drugs?",
+            "a": "<p>Yes, and this combination is an active area of research in gastric cancer. The idea is that checkpoint inhibitors such as nivolumab or pembrolizumab release the brakes on immune cells while CIK infusions supply extra activated cells to do the killing. Early trials report encouraging response rates, but the data are limited and mostly from single centres, so this remains investigational rather than standard care.</p>"
+          },
+          {
+            "q": "What are the side effects of CIK infusions?",
+            "a": "<p>Most patients get mild, short-lived reactions: fever, chills, fatigue and flu-like aches in the first day or two after infusion, which usually settle without treatment. Because the cells come from your own body, rejection is not a concern and severe cytokine release syndrome is rare compared with CAR T-cell therapy. Serious reactions can still happen, so infusions should be given under specialist supervision in a hospital setting.</p>"
+          },
+          {
+            "q": "Am I eligible for CIK therapy if my gastric cancer has spread?",
+            "a": "<p>You may be, but eligibility is decided case by case. Centres generally look for patients well enough to donate blood cells, with adequate liver, kidney and bone marrow function and no uncontrolled infection or severe autoimmune disease. High-dose steroids can suppress the infused cells and may rule you out. Very advanced disease with poor performance status often makes the treatment unsuitable, and final suitability rests with the treating oncology team.</p>"
+          },
+          {
+            "q": "Which countries offer CIK therapy for gastric cancer?",
+            "a": "<p>China, Japan and South Korea offer CIK therapy most widely, usually through hospital cell-therapy units, with some access in parts of Europe and India through research programmes. It is not an approved standard treatment in the United States or most of Western Europe, where it is generally available only inside clinical trials. Hospital acceptance, protocol and admission criteria vary, and no centre can guarantee admission in advance.</p>"
+          },
+          {
+            "q": "How much does CIK therapy for gastric cancer cost?",
+            "a": "<p>Costs are usually quoted per infusion cycle rather than as one package, and vary widely between hospitals and countries. Cell collection, laboratory processing, the infusions themselves, imaging and any hospital stay are typically billed separately from your chemotherapy. Estimated totals depend on how many cycles are prescribed and how long you stay. Ask for a written breakdown before travelling, and confirm what your insurance will cover.</p>"
+          },
+          {
+            "q": "How do I find out whether CIK therapy is an option for me?",
+            "a": "<p>Start by asking your treating oncologist whether cell therapy fits your current plan and whether any gastric cancer trial is open to you. Bring your pathology report, recent scans, HER2 and PD-L1 results and full treatment history to that conversation. CancerFax can help patients organise medical reports, identify relevant specialists or trials, estimate costs and coordinate travel, visa and follow-up support alongside the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

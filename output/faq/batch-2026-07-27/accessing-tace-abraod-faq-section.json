@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing TACE Through CancerFax: The Complete Patient Navigation Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "accessing-tace-abraod",
+  "route": "/insights/accessing-tace-abraod",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is TACE, and how does it work?",
+            "a": "<p>TACE, or transarterial chemoembolization, delivers chemotherapy straight into the artery feeding a liver tumour and then blocks that artery. The tumour receives a high drug dose while the rest of your liver is largely spared, and its blood supply is cut off at the same time. It is done through a small puncture in the groin or wrist, not open surgery, so most patients stay one or two nights.</p>"
+          },
+          {
+            "q": "Am I eligible for TACE?",
+            "a": "<p>TACE is usually offered when liver tumours cannot be removed by surgery but the cancer has not spread outside the liver. Your team checks liver function, portal vein blood flow, tumour size and number, and how well you manage daily activities. Severe cirrhosis, a blocked portal vein, or poor kidney function may rule it out. Eligibility depends on your scans and blood tests, so only the reviewing doctor can confirm it.</p>"
+          },
+          {
+            "q": "How much does TACE cost in India or China?",
+            "a": "<p>A single TACE session typically costs about USD 2,500 to 4,500 in India and USD 3,500 to 6,000 in China, including the admission and imaging. Drug-eluting bead TACE sits at the higher end, and most patients need more than one session. Ask for a quote covering the full planned course plus scans, stay, and follow-up. CancerFax can arrange itemised quotes from more than one centre before you decide.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need?",
+            "a": "<p>Most patients have two to four sessions, spaced roughly six to eight weeks apart. Your doctor repeats a scan about a month after each session and decides whether more treatment will help. If the tumour keeps responding, further sessions may be added; if it does not, the team often switches to another approach. The exact number depends on your tumour and liver function, so plan for a flexible schedule.</p>"
+          },
+          {
+            "q": "How will I feel afterwards, and what side effects are normal?",
+            "a": "<p>Expect fever, right-sided abdominal pain, nausea, and tiredness for three to seven days. This is called post-embolization syndrome, and it is common rather than a sign that something went wrong. Painkillers and anti-sickness medicine usually control it well. Less often, liver function drops or an infection develops. Tell your team straight away about high fever, worsening pain, or yellowing skin, because these need prompt review.</p>"
+          },
+          {
+            "q": "Is TACE better than surgery, ablation, or the newer immunotherapy drugs?",
+            "a": "<p>TACE is not better or worse; it fits a different situation. Surgery and ablation are preferred for small, single tumours in a healthy liver. TACE suits larger or multiple tumours still confined to the liver. Immunotherapy combinations are generally used once the cancer has spread beyond it, and many patients now receive TACE alongside systemic drugs. The right sequence depends on your staging and should be set by your oncology team.</p>"
+          },
+          {
+            "q": "Can TACE keep me eligible for a liver transplant?",
+            "a": "<p>Yes, TACE is often used as a bridge to transplant. It can hold tumour growth in check while you wait for a donor liver, and in some cases it shrinks tumours enough to bring you back inside transplant criteria, which doctors call downstaging. Not every patient responds this way, and transplant listing follows separate national rules, so bridging with TACE can help but never guarantees that a transplant will follow.</p>"
+          },
+          {
+            "q": "What reports do I need before travelling for TACE?",
+            "a": "<p>You will need a recent triphasic CT or MRI of the liver on disc, AFP and liver function blood results, a hepatitis screen, any biopsy report, and a summary from your current doctor. Scans older than about four weeks are often repeated on arrival. CancerFax can pass these records to interventional radiology teams in India or China for a written opinion before you book flights, though the treating team makes the final decision.</p>"
+          },
+          {
+            "q": "How long will I need to stay abroad for one session?",
+            "a": "<p>Plan on ten to fourteen days for a single TACE session. That covers a few days of consultation and pre-procedure tests, one or two nights in hospital, and about a week of recovery with a check-up scan or blood test before flying home. If a second session is scheduled weeks later, many patients travel home in between. Your stay may run longer if liver function needs time to settle.</p>"
+          },
+          {
+            "q": "Does TACE cure liver cancer, and what results can I expect?",
+            "a": "<p>TACE is not usually a cure. It is a way to control the tumour and extend good-quality life. Published series report that many patients see tumours shrink or stop growing, with survival often measured in years rather than months when liver function is well preserved. Results vary widely with tumour burden, cirrhosis, and response to the first session, so treat published figures as a guide rather than a promise.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

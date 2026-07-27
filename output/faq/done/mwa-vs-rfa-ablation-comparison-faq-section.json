@@ -1,0 +1,59 @@
+{
+  "pillar": "MWA vs RFA: Which Ablation Is Right for Your Tumour?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mwa-vs-rfa-ablation-comparison",
+  "route": "/insights/mwa-vs-rfa-ablation-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between microwave ablation and radiofrequency ablation?",
+            "a": "<p>Microwave ablation (MWA) and radiofrequency ablation (RFA) both destroy tumours with heat delivered through a needle, but they create that heat differently. RFA passes an electrical current through the tissue, while MWA uses electromagnetic waves that heat water molecules directly. MWA usually reaches higher temperatures faster and works better in tissue that conducts electricity poorly, such as lung. Your radiologist chooses based on tumour size, position and nearby structures.</p>"
+          },
+          {
+            "q": "Which one is better for my tumour, MWA or RFA?",
+            "a": "<p>Neither technique is better for every tumour; the right choice depends on where the tumour sits, how large it is and what surrounds it. MWA is often preferred for tumours above 3 cm, lesions touching large blood vessels, and targets in lung or bone. RFA remains well proven for small liver and kidney tumours and has longer published follow-up. An interventional radiologist can review your scans and advise which suits your case.</p>"
+          },
+          {
+            "q": "How big can a tumour be before ablation stops working?",
+            "a": "<p>Both techniques work most reliably for tumours up to about 3 cm, where complete destruction rates are highest. MWA can often cover lesions of 3 to 5 cm, sometimes using two or more needles together, because it produces a larger and more predictable kill zone. Above 5 cm, ablation alone may leave cancer behind, so doctors may add embolisation or recommend surgery instead. Suitability always depends on your imaging.</p>"
+          },
+          {
+            "q": "What is the heat-sink effect and why does it matter?",
+            "a": "<p>The heat-sink effect happens when blood flowing through a nearby vessel carries heat away, cooling the edge of the tumour and leaving live cancer cells behind. RFA is more vulnerable to this because it depends on electrical conduction through tissue. MWA heats tissue directly and reaches higher temperatures, so it is less affected near vessels of 3 mm or wider. This is a common reason teams choose MWA for tumours against major veins.</p>"
+          },
+          {
+            "q": "How long does recovery take after ablation?",
+            "a": "<p>Most people go home within 24 hours, and many ablations are done as day cases. The procedure is usually performed under sedation or general anaesthetic through a small skin puncture, so there is no large wound to heal. Expect some soreness, tiredness and occasionally a mild fever for a few days, known as post-ablation syndrome. Most patients return to normal activity within one to two weeks, depending on general health.</p>"
+          },
+          {
+            "q": "What are the success rates for MWA and RFA?",
+            "a": "<p>For liver tumours under 3 cm, both techniques destroy the target completely in roughly 90 percent of first treatments. MWA tends to show fewer incomplete ablations in larger tumours and near blood vessels, while RFA has the longer track record in published follow-up. Local recurrence over five years varies widely with tumour type, liver function and how much healthy margin was achieved. Your team can give figures that reflect your specific diagnosis.</p>"
+          },
+          {
+            "q": "What can go wrong during ablation?",
+            "a": "<p>Serious complications are uncommon, affecting fewer than five in a hundred patients at experienced centres. Reported problems include bleeding, infection or abscess, injury to the bile duct, bowel or diaphragm, and rarely tumour seeding along the needle track. The larger, hotter ablation zone of MWA can raise risk when a tumour lies close to bowel or bile ducts.</p><p>Protective steps such as injecting fluid between organs can often reduce that risk.</p>"
+          },
+          {
+            "q": "How much does ablation cost in India or China?",
+            "a": "<p>In India, microwave or radiofrequency ablation typically costs between about 3,000 and 6,000 US dollars including hospital stay and imaging, and Chinese centres often fall in a similar range. Prices vary with the number of tumours treated, the needles used and whether you need general anaesthetic. Quotes rarely include travel, accommodation or follow-up scans. CancerFax can help you request written estimates so your oncologist can compare options properly.</p>"
+          },
+          {
+            "q": "Can ablation be repeated or combined with other treatments?",
+            "a": "<p>Yes, both techniques can be repeated if new tumours appear or if a treated area shows residual disease on follow-up scans. Ablation removes far less healthy tissue than surgery, so several sessions are often possible over time. Doctors also combine ablation with TACE, radiotherapy or systemic drugs when tumours are larger or multiple. Whether repeat treatment suits you depends on your liver or kidney function and how the disease has behaved.</p>"
+          },
+          {
+            "q": "How do I find out which technique a hospital would use for me?",
+            "a": "<p>Send your recent CT or MRI scans, biopsy report and blood tests to an interventional radiology team, because the choice between MWA and RFA is made from imaging rather than from the diagnosis alone. Many centres in India and China will give a written opinion before you travel. CancerFax can pass your records to those teams, though the final treatment plan always rests with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

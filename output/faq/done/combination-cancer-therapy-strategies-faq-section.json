@@ -1,0 +1,59 @@
+{
+  "pillar": "Combination Cancer Therapy Strategies",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "combination-cancer-therapy-strategies",
+  "route": "/guides/combination-cancer-therapy-strategies",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does combination cancer therapy actually mean?",
+            "a": "<p>Combination cancer therapy means using two or more treatments together, such as chemotherapy with immunotherapy or radiation with a targeted drug, so the cancer is attacked in more than one way. The treatments may be given on the same day, within the same cycle, or in a planned order. Your oncologist decides the mix based on your tumour type, stage, and how well you are likely to tolerate it.</p>"
+          },
+          {
+            "q": "Why would my doctor combine treatments instead of using just one?",
+            "a": "<p>Cancer cells often survive a single drug by switching to a different growth pathway, so combining treatments closes more of those escape routes at once. A combination can also let each drug be used at a dose that is easier to tolerate. In many cancers this approach improves response rates and delays resistance, though the benefit varies by tumour type and by how advanced the disease is.</p>"
+          },
+          {
+            "q": "Will combination therapy give me worse side effects?",
+            "a": "<p>Combinations usually cause more side effects than a single treatment, but not always worse ones, because drugs are often paired so their toxicities do not overlap. Fatigue, low blood counts, nausea, and skin or thyroid problems are the common ones. Your team monitors you with regular blood tests and can lower doses or pause one drug if the burden becomes too much. Tell them early about any new symptom.</p>"
+          },
+          {
+            "q": "Is chemotherapy plus immunotherapy better than chemotherapy alone?",
+            "a": "<p>For several cancers, including many lung, stomach, and triple-negative breast cancers, adding immunotherapy to chemotherapy has improved survival compared with chemotherapy alone. Chemotherapy appears to release tumour antigens that help the immune drug work. The benefit is not universal, and it often depends on markers such as PD-L1 levels or mismatch repair status. Your oncologist will usually test your tumour before deciding whether the combination is likely to help you.</p>"
+          },
+          {
+            "q": "Can radiation be combined with immunotherapy or targeted drugs?",
+            "a": "<p>Yes, radiation is often combined with drug treatment, and in some cases the pairing works better than either alone. Radiation can make a tumour more visible to the immune system, which is why it is being studied alongside checkpoint inhibitors. Timing matters, though, and certain combinations raise the risk of lung or skin inflammation. Radiation oncologists and medical oncologists usually plan the schedule together to keep that risk manageable.</p>"
+          },
+          {
+            "q": "How do doctors decide which combination is right for me?",
+            "a": "<p>The choice starts with your tumour type and stage, then narrows using biopsy results, genomic testing, and biomarkers such as PD-L1, HER2, or EGFR mutations. Your age, organ function, and previous treatments matter just as much, since they decide what your body can safely handle. Published trial data and national guidelines then point to the standard combination. Ask your oncologist why a particular regimen was chosen over the alternatives.</p>"
+          },
+          {
+            "q": "Can I get the same combination treatments in India or China?",
+            "a": "<p>Most standard combinations used in Europe and the United States are available in leading Indian and Chinese cancer centres, often at a lower cost. Some newer drugs reach one country before the other, and a few remain approved only for specific indications. Availability can also change from month to month. CancerFax can help you check which regimens a particular hospital currently offers, but your treating oncology team should confirm what suits your case.</p>"
+          },
+          {
+            "q": "How much more does combination therapy cost than a single treatment?",
+            "a": "<p>Combination therapy usually costs more, mainly because immunotherapy and targeted drugs are far more expensive than standard chemotherapy. In India, a chemotherapy and immunotherapy cycle often runs several times the price of chemotherapy alone, and treatment may continue for many months. Costs depend on the drugs used, whether biosimilars are available, and the hospital. Ask for a written estimate covering the full planned course, not just one cycle.</p>"
+          },
+          {
+            "q": "Are there clinical trials testing new combinations I could join?",
+            "a": "<p>Many trials are testing new combinations, and a large share of oncology research now studies drug pairs rather than single agents. Whether you can join depends on your cancer type, prior treatments, organ function, and where the trial is running. Some trials in India and China accept international patients, but enrolment is never guaranteed. Ask your oncologist to review the eligibility criteria of any trial you are considering.</p>"
+          },
+          {
+            "q": "What happens if a combination stops working?",
+            "a": "<p>If scans show the cancer is growing again, your oncologist will usually re-stage the disease and consider a different combination, a new biopsy, or repeat genomic testing to look for resistance mutations. Sometimes one drug is swapped and the rest of the regimen continues. A second opinion at this point can be useful, and CancerFax can help arrange one, though the treatment decision stays with your own oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

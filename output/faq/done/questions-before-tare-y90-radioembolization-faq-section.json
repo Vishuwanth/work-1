@@ -1,0 +1,59 @@
+{
+  "pillar": "Questions to Ask Before TARE/Y-90 Treatment: The Complete Patient Checklist",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-before-tare-y90-radioembolization",
+  "route": "/insights/questions-before-tare-y90-radioembolization",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TARE or Y-90 treatment, in plain terms?",
+            "a": "<p>TARE, or Y-90 radioembolization, delivers millions of tiny radioactive beads straight into the artery feeding your liver tumour. The beads lodge in the tumour and release radiation over about two weeks, sparing most healthy liver tissue. It is done through a small puncture in the wrist or groin, with no surgical incision. Most patients go home the same day or the next morning, though timing depends on your centre's protocol.</p>"
+          },
+          {
+            "q": "What are the most important questions to ask before Y-90?",
+            "a": "<p>Ask what the goal of treatment is: shrinking the tumour before surgery or transplant, controlling it long term, or easing symptoms. Then ask about your liver function score, your bilirubin, how much healthy liver will be treated, and what happens if the tumour returns. Also ask how many Y-90 cases the interventional radiologist performs each year. Answers may differ between centres, so write them down and compare.</p>"
+          },
+          {
+            "q": "Am I eligible for TARE, or will they turn me away?",
+            "a": "<p>Eligibility usually depends on liver function, tumour spread, and blood flow through the liver rather than on age alone. Doctors often look for reasonably preserved liver function, no severe jaundice, and disease confined mainly to the liver. Portal vein involvement does not automatically rule you out, and in selected cases it can still be treated. Only your hepatology and interventional radiology team can confirm this after imaging and blood tests.</p>"
+          },
+          {
+            "q": "Why do I need a mapping angiogram before the actual treatment?",
+            "a": "<p>The mapping angiogram is a rehearsal that protects you. Your interventional radiologist maps the arteries feeding the tumour, blocks small vessels that could carry beads to the stomach or lungs, and injects a test particle to measure lung shunting. The result decides your radiation dose, and occasionally it shows that Y-90 would not be safe for you. Treatment usually follows one to two weeks later, depending on the centre.</p>"
+          },
+          {
+            "q": "How will I feel afterwards, and how long is recovery?",
+            "a": "<p>Most people feel tired, mildly nauseated, or achy under the right ribs for one to two weeks, a pattern doctors call post-embolization syndrome. Low-grade fever and reduced appetite are common and usually settle with rest and simple medication. Many patients return to light activity within a few days. Ask your team which symptoms mean you should call immediately, such as high fever, severe pain, or repeated vomiting.</p>"
+          },
+          {
+            "q": "What are the serious risks I should ask about?",
+            "a": "<p>The risks worth naming out loud are radiation damage to the liver, ulcers if beads reach the stomach or duodenum, lung injury from shunting, and worsening liver failure in people with limited reserve. These are uncommon when mapping is done carefully, but they are not zero. Ask your radiologist how they reduce each one in your case, and what the plan is if your liver function drops.</p>"
+          },
+          {
+            "q": "Will Y-90 cure my liver cancer?",
+            "a": "<p>Y-90 is usually a control treatment rather than a cure, although it can sometimes shrink a tumour enough to allow surgery or a transplant, which may be curative. For many patients the realistic goal is slowing the disease, protecting liver function, and keeping quality of life. Ask directly whether your treatment is intended to cure, downstage, or control, because that answer shapes every later decision.</p>"
+          },
+          {
+            "q": "What should I ask about cost if I am travelling to India or China?",
+            "a": "<p>Ask for a written estimate that separates the mapping angiogram, the Y-90 dose, hospital stay, imaging, and follow-up scans. The dose itself is often the largest single item, and a second session for the other liver lobe may not be included. If you are travelling, ask about visa letters and length of stay. CancerFax can help you gather comparable quotes, though final costs depend on your centre and your treatment plan.</p>"
+          },
+          {
+            "q": "Can I still have chemotherapy or immunotherapy after Y-90?",
+            "a": "<p>In many cases yes, and combinations are increasingly common, but timing matters. Some oncologists pause systemic therapy for a short window around the procedure to reduce the risk of liver injury, then restart once blood tests recover. Ask who is coordinating the two treatments, your oncologist or your interventional radiologist, and how often your liver function will be checked. Trial options may also exist, depending on your diagnosis and prior treatment.</p>"
+          },
+          {
+            "q": "How will we know whether the treatment worked?",
+            "a": "<p>Your team will usually repeat scans about one to three months later, because Y-90 works slowly and a tumour that has stopped growing may not shrink straight away. Radiologists look at whether the tumour still takes up contrast, not only at its size, so early images can look misleading. Ask which scan will be used, when it is scheduled, and what the next step would be if the response is partial.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

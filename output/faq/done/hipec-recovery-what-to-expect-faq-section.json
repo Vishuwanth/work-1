@@ -1,0 +1,59 @@
+{
+  "pillar": "Recovery After HIPEC: A Complete Patient and Family Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-recovery-what-to-expect",
+  "route": "/insights/hipec-recovery-what-to-expect",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long does it take to recover from HIPEC?",
+            "a": "<p>Most people need about six to twelve weeks before they feel close to normal after HIPEC. The first two weeks are usually the hardest, with fatigue, poor appetite and limited walking. Energy often returns gradually over the following months. Recovery time depends on how much surgery was done alongside the heated chemotherapy, your age, and your fitness before the operation, so your surgical team can give a more specific estimate.</p>"
+          },
+          {
+            "q": "How many days will I stay in hospital after HIPEC surgery?",
+            "a": "<p>A typical hospital stay after cytoreductive surgery with HIPEC is seven to fourteen days, often including one to three days in intensive care. The stay may be longer if the bowel is slow to restart, if a stoma was created, or if an infection develops. Discharge usually depends on eating without vomiting, passing wind or stool, and walking short distances safely rather than on a fixed date.</p>"
+          },
+          {
+            "q": "How much pain should I expect after HIPEC, and how is it controlled?",
+            "a": "<p>Expect moderate to strong abdominal pain for the first week, easing steadily after that. Most centres use an epidural or a patient-controlled pump for the first few days, then switch to tablets. Pain that worsens instead of settling, or comes with fever, should be reported the same day. Tell your nurses early when pain builds, because controlled pain lets you walk sooner, which itself speeds recovery.</p>"
+          },
+          {
+            "q": "When can I eat normally again after HIPEC?",
+            "a": "<p>Most patients start clear fluids within a few days and move to soft food over the following week, but normal-sized meals often take a month or more. The bowel can stay sluggish after handling during surgery, so small frequent meals are usually easier than three large ones. A dietitian may add high-protein supplements. Appetite frequently lags behind physical healing, and in many cases returns slowly over several weeks.</p>"
+          },
+          {
+            "q": "What complications are most common after HIPEC?",
+            "a": "<p>The most common problems are slow bowel function, wound infection, blood clots, and leaks where the bowel was rejoined. Low blood counts and kidney strain from the chemotherapy can also occur. Serious complications affect a minority of patients, more often those who needed extensive organ removal. Contact your team urgently for fever, worsening abdominal pain, vomiting, breathlessness, or fluid leaking from the wound rather than waiting for your next appointment.</p>"
+          },
+          {
+            "q": "When can I go back to work after HIPEC?",
+            "a": "<p>Desk-based work is often possible after eight to twelve weeks, while physically demanding jobs may need four to six months. Many people return part-time first, because fatigue tends to outlast the surgical healing. Lifting restrictions usually apply for at least six weeks to protect the abdominal wound. Your surgeon can advise on timing based on your operation and whether further chemotherapy is planned after recovery.</p>"
+          },
+          {
+            "q": "Is it normal to lose a lot of weight after HIPEC?",
+            "a": "<p>Yes, losing five to ten percent of body weight after HIPEC is common and usually expected. It comes from reduced intake, muscle loss during bed rest, and the body's healing demands. Most people stabilise within two to three months and regain weight slowly. Tell your team if weight keeps falling after the first month, since ongoing loss can signal a treatable problem such as a blockage or infection.</p>"
+          },
+          {
+            "q": "When is it safe to fly home if I had HIPEC treatment abroad?",
+            "a": "<p>Many surgeons advise waiting two to four weeks after discharge before a long flight, mainly because of blood clot risk and the chance of early complications. You may need blood-thinning injections, compression stockings, and a fitness-to-fly letter. Airlines can also have their own rules after major surgery.</p><p>CancerFax can help patients treated in India or China arrange follow-up documents, but the final clearance always rests with your treating surgeon.</p>"
+          },
+          {
+            "q": "What can my family do to help during recovery at home?",
+            "a": "<p>The most useful help is practical: preparing small frequent meals, prompting short walks several times a day, tracking medicines, and watching for warning signs such as fever or increasing pain. Keeping a simple daily log of temperature, weight, and bowel movements gives the medical team something concrete at follow-up. Emotional support matters just as much, since low mood is common in the first weeks and often improves with time.</p>"
+          },
+          {
+            "q": "When do follow-up scans and check-ups start after HIPEC?",
+            "a": "<p>The first surgical review is usually two to four weeks after discharge, with scans and tumour marker blood tests often beginning around three months. After that, many teams check every three to six months for the first two years. The exact schedule depends on your cancer type and what was found during surgery.</p><p>If you were treated overseas, CancerFax can help share your operative reports with a local oncologist so monitoring continues without gaps.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

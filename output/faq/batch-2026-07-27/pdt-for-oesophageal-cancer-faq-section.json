@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT for Oesophageal Cancer: What to Expect Before, During, and After Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-for-oesophageal-cancer",
+  "route": "/insights/pdt-for-oesophageal-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is photodynamic therapy for oesophageal cancer?",
+            "a": "<p>Photodynamic therapy, or PDT, uses a light-sensitive drug plus a laser to destroy cancer cells in the food pipe. You receive the drug through a vein, wait one to two days while it collects in tumour tissue, then a thin light fibre is passed down through an endoscope to activate it. The activated drug damages the tumour from within. It is most often used for very early cancers or to relieve blockage.</p>"
+          },
+          {
+            "q": "Am I a candidate for PDT, or is my cancer too advanced?",
+            "a": "<p>Eligibility depends on how deep the tumour has grown, not just its size. PDT works best for Barrett's oesophagus with high-grade dysplasia, very early cancers confined to the lining, and tumours blocking the oesophagus where the aim is easier swallowing. Light penetrates only about five to ten millimetres, so deeper cancer usually needs other treatment. Your staging scans decide this, and a second opinion, which CancerFax can help arrange, may clarify your options.</p>"
+          },
+          {
+            "q": "What actually happens on the day of treatment?",
+            "a": "<p>Treatment happens across two visits. At the first, a nurse injects the photosensitising drug into a vein; this takes a few minutes and you go home the same day. Between 24 and 96 hours later, depending on the drug used, you return for the light session. You are sedated, an endoscope is passed down your throat, and a laser fibre shines light directly on the tumour for several minutes.</p>"
+          },
+          {
+            "q": "Will PDT hurt?",
+            "a": "<p>The light session itself is painless because you are sedated, but soreness afterwards is common and expected. Most people have chest pain behind the breastbone, painful or difficult swallowing, and sometimes nausea for one to three weeks while the treated tissue sheds and heals. Your team will provide painkillers and may recommend soft or liquid food during this period. Tell them straight away if the pain suddenly worsens.</p>"
+          },
+          {
+            "q": "How long will I have to stay out of sunlight after PDT?",
+            "a": "<p>Your skin and eyes stay sensitive to bright light for up to six weeks with porfimer sodium, the drug used most often. During that time ordinary sunlight, and even light through a car window, can cause a burn that feels like severe sunburn. Cover up with long sleeves, gloves, a hat and sunglasses, and keep curtains drawn at first. Ordinary sunscreen does not protect you, because the reaction is not caused by ultraviolet light.</p>"
+          },
+          {
+            "q": "Can PDT cure my oesophageal cancer?",
+            "a": "<p>PDT can cure very early oesophageal cancer and high-grade dysplasia in many patients, but it is not a cure for advanced disease. When the cancer sits only in the lining, clearance rates are high and comparable with other endoscopic options. In advanced tumours the goal is different: reopening the oesophagus so you can swallow, which often helps for several months. Your stage determines which of these two aims applies to you.</p>"
+          },
+          {
+            "q": "How many PDT sessions will I need?",
+            "a": "<p>Most people need one light session per drug dose, and many are treated only once. If a follow-up endoscopy shows tumour still present, a second light treatment can sometimes be given two days after the first without another injection. For Barrett's dysplasia, repeat courses spaced weeks or months apart are common, because the abnormal lining can return. Your response at the first check-up decides how many rounds you may need.</p>"
+          },
+          {
+            "q": "When will I be able to eat and swallow normally again?",
+            "a": "<p>Expect liquids and soft food for roughly one to two weeks, then a gradual return to normal eating. Swallowing often feels worse before it feels better, because the treated area swells and then sheds dead tissue. Many patients notice clearer swallowing by the third or fourth week. A dietitian can help you hold your weight during this stretch. Contact your team if you cannot keep fluids down or food sticks completely.</p>"
+          },
+          {
+            "q": "What can go wrong after PDT?",
+            "a": "<p>The main serious risk is narrowing of the oesophagus, called a stricture, which affects a minority of patients and is treated by stretching it during endoscopy. Rarer problems include bleeding, a hole in the oesophageal wall, and fluid collecting near the lungs. Skin burns from light exposure are the most preventable complication. Ask your endoscopist for their own complication figures, since experience with this technique makes a real difference.</p>"
+          },
+          {
+            "q": "Where can I have PDT for oesophageal cancer, and what does it cost?",
+            "a": "<p>PDT is offered at selected specialist endoscopy centres, including several large cancer hospitals in India and China, and costs vary widely by country, drug used and number of sessions. Because the technique needs both the photosensitising drug and trained endoscopists, availability can be limited. CancerFax can help you check which centres currently offer it and what a realistic quote may look like, though your treating oncology team should confirm it suits your stage.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

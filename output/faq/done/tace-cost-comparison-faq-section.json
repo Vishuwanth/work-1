@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE Cost Comparison: China vs India vs Western Countries",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-cost-comparison",
+  "route": "/insights/tace-cost-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does TACE cost in India compared to the United States?",
+            "a": "<p>TACE typically costs about $2,500 to $4,500 per session in India, against roughly $15,000 to $30,000 in the United States. Indian quotes usually bundle the procedure suite, embolic agent, chemotherapy drug and a short hospital stay, while Western billing splits these into separate line items. Figures move with hospital tier, city and technique, so treat them as ranges rather than fixed prices.</p>"
+          },
+          {
+            "q": "Why is TACE so much cheaper in India and China?",
+            "a": "<p>The main drivers are lower staff salaries, lower hospital overheads and locally manufactured drugs and devices, not shortcuts in the procedure itself. Both countries also run high patient volumes through their liver centres, which spreads the cost of expensive angiography equipment across many cases. Price controls on some cancer drugs help further. The equipment and the technique are broadly the same ones used in Western hospitals.</p>"
+          },
+          {
+            "q": "What is usually included in a TACE package price?",
+            "a": "<p>A typical package covers pre-procedure scans, the interventional radiologist's fee, the angiography suite, the chemotherapy and embolic material, anaesthesia and two to three days in hospital. What is excluded matters more: follow-up imaging, repeat sessions, treatment of complications, and any liver function optimisation you may need first. Ask for the exclusion list in writing, because the gap between quoted and final cost usually sits there.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need, and how does that change the total cost?",
+            "a": "<p>Most patients need two to four TACE sessions, spaced roughly six to eight weeks apart, so budget for the whole course rather than a single procedure. Tumour number, tumour size, response on follow-up scans and liver function all influence how many sessions are advised. Some hospitals discount later sessions in the same course. The final number can only be decided by your treating oncology team as your scans come back.</p>"
+          },
+          {
+            "q": "Is TACE cheaper in China or in India?",
+            "a": "<p>India is generally the lower-cost option, with China often running 20 to 50 percent higher for a comparable session at a leading centre. China's advantage lies elsewhere: very high procedure volumes at major liver cancer hospitals, and easier access to combinations with newer systemic drugs. Visa costs, interpreter fees and longer stays can narrow the gap, so compare the full trip cost rather than the procedure line alone.</p>"
+          },
+          {
+            "q": "Does a lower price mean lower quality care?",
+            "a": "<p>Not usually, though it does mean you should check the centre rather than assume. Look at the interventional radiologist's annual TACE volume, whether the hospital holds JCI or NABH accreditation, the generation of imaging equipment, and how post-embolisation complications are handled. High-volume liver units in Delhi, Chennai, Beijing and Guangzhou use the same devices found in Europe. Quality varies far more between hospitals than between countries.</p>"
+          },
+          {
+            "q": "What costs should I budget for beyond the procedure itself?",
+            "a": "<p>Budget roughly 30 to 50 percent on top of the medical quote for travel, visas, accommodation, food and an attendant. A TACE trip often means two to three weeks in the country per session once you count pre-procedure workup, recovery and a follow-up scan. Medical visa fees, airport transfers, interpreter support and unplanned extra hospital days add up, so a contingency of a few thousand dollars is sensible.</p>"
+          },
+          {
+            "q": "Will my insurance pay for TACE done abroad?",
+            "a": "<p>Most domestic health policies do not cover elective treatment overseas, so plan on paying out of pocket unless your insurer confirms otherwise in writing. Some international and employer plans include a medical travel benefit, and a few reimburse part of the cost when the treatment is unavailable or heavily delayed at home. Ask for written pre-authorisation before you travel, because claims filed afterwards are often refused.</p>"
+          },
+          {
+            "q": "How does DEB-TACE cost compare with conventional TACE?",
+            "a": "<p>Drug-eluting bead TACE usually costs 30 to 60 percent more per session than conventional lipiodol-based TACE, mainly because the beads themselves are expensive. In India that can mean roughly $4,000 to $6,000 instead of $2,500 to $4,500. Evidence on survival difference between the two is mixed, and many centres choose based on tumour pattern and liver function rather than price. Your interventional radiologist should explain which suits your case.</p>"
+          },
+          {
+            "q": "How do I get an accurate TACE cost estimate for my own case?",
+            "a": "<p>Send your recent triphasic CT or MRI, liver function tests, AFP result and a summary of previous treatment to two or three hospitals, and ask each for an itemised quote. CancerFax can help pass those records to liver centres in India and China and return written estimates for you to compare. Any figure given before a centre reviews your imaging is an indication only and may change after assessment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

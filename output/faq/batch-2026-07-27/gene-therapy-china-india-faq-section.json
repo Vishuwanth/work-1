@@ -1,0 +1,59 @@
+{
+  "pillar": "Gene Therapy: Why China Leads and How India Complements It",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gene-therapy-china-india",
+  "route": "/guides/gene-therapy-china-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is gene therapy, in simple terms?",
+            "a": "<p>Gene therapy treats disease by changing the genetic instructions inside cells, either by adding a working copy of a faulty gene, switching a harmful gene off, or re-engineering immune cells to recognise cancer. In cancer care the most established form is CAR-T therapy, where your own T cells are modified to attack tumour cells. Whether a gene-based approach suits you depends on your cancer type, biomarker profile, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "Why is China ahead of other countries in gene therapy?",
+            "a": "<p>China leads on scale and speed rather than on any single breakthrough. It runs one of the world's largest pools of active cell and gene therapy trials, has streamlined regulatory pathways for these products, and manufactures most components domestically, which keeps prices well below Western equivalents. Hospital networks can also recruit and treat patients quickly. Access to any specific programme still depends on your diagnosis, treatment history, and centre review.</p>"
+          },
+          {
+            "q": "How does India complement what China offers?",
+            "a": "<p>India covers the care around gene therapy, which is often where treatment abroad succeeds or fails. Indian centres handle diagnostics, biopsy and biomarker testing, bridging chemotherapy, stem cell transplant, and long-term follow-up in English at comparatively low cost, and now have their own approved CAR-T products. Many families use India for workup and aftercare and China for a specific therapy or trial. The right split depends on your diagnosis and timeline.</p>"
+          },
+          {
+            "q": "Can gene therapy cure my cancer?",
+            "a": "<p>Gene therapy can produce long remissions in some cancers, but it is not a guaranteed cure. In relapsed lymphoma, leukaemia, and myeloma, CAR-T therapy sends a meaningful share of patients into remission that lasts years, and a smaller group appears disease-free long term. Results in solid tumours remain limited and largely experimental. Your likely benefit depends on cancer type, disease burden, prior lines of treatment, and specialist review.</p>"
+          },
+          {
+            "q": "Which conditions are actually treated with gene therapy in China right now?",
+            "a": "<p>Most gene and cell therapy treatment in China is for relapsed blood cancers, chiefly B-cell lymphoma, acute lymphoblastic leukaemia, and multiple myeloma treated with CAR-T. Outside oncology, gene therapy for thalassaemia, haemophilia, and inherited retinal disease has moved quickly toward approval. Solid tumour programmes in liver, gastric, and pancreatic cancer are mostly trial-stage. Availability shifts as trials open and close, so current status needs checking case by case.</p>"
+          },
+          {
+            "q": "How much does gene therapy cost in China compared to the West?",
+            "a": "<p>Approved CAR-T therapy in China is typically estimated at roughly US$60,000 to US$150,000, against US$400,000 or more in the United States, and trial participation can reduce the therapy cost substantially. Bridging chemotherapy, hospital stay, complication management, imaging, and travel sit on top of that figure.</p><p>These are estimates only. Final cost depends on the hospital, the product used, protocol, and length of stay, and should be confirmed in writing before travel.</p>"
+          },
+          {
+            "q": "Can I join a gene therapy trial in China as a foreign patient?",
+            "a": "<p>Foreign patients may be considered for many Chinese gene therapy trials, but acceptance is never automatic. Investigators screen for cancer type, antigen or biomarker expression, prior treatment, organ function, and whether you can stay in China for follow-up, and some trials are open only to residents. Records are usually reviewed before you travel. Eligibility is determined only after investigator review, and enrolment cannot be promised in advance.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of gene therapy?",
+            "a": "<p>The main risks appear in the first weeks after infusion. Cytokine release syndrome, causing high fever, low blood pressure, and breathing difficulty, affects most CAR-T patients and is usually manageable in an experienced centre. Neurological effects such as confusion occur less often. Low blood counts and raised infection risk can persist for months. Ask any centre how many cases it treats each year and what intensive care backup it has.</p>"
+          },
+          {
+            "q": "How long will I need to stay abroad for treatment?",
+            "a": "<p>Plan for roughly six to twelve weeks for a CAR-T or similar gene therapy. Screening and cell collection take one to two weeks, manufacturing the modified cells a further two to four, then infusion followed by close monitoring for cytokine release syndrome and neurological effects. Most centres ask you to remain nearby for at least a month afterwards. Timelines can extend if manufacturing fails or bridging treatment is needed.</p>"
+          },
+          {
+            "q": "How do I decide between China and India for my treatment?",
+            "a": "<p>Choose on what your treatment actually requires, not on country reputation. China often makes sense when you need a specific gene therapy or trial that is not open elsewhere; India often suits patients who need broader cancer care, English-speaking teams, and affordable long-term follow-up. Cost, visa timing, and how soon you must start all matter. CancerFax helps patients organise medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel and follow-up alongside the treating oncology team, which makes the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

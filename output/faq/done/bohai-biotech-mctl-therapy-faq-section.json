@@ -1,0 +1,59 @@
+{
+  "pillar": "Bohai Biotech MCTL: The Science and Target Library Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "bohai-biotech-mctl-therapy",
+  "route": "/insights/bohai-biotech-mctl-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Bohai Biotech's MCTL therapy?",
+            "a": "<p>MCTL stands for multi-target cytotoxic T lymphocyte therapy, a cell therapy that trains a patient's own T cells to recognise several tumour antigens at once instead of a single target. Blood is collected, the T cells are educated against selected antigens in the laboratory, expanded, and infused back. Bohai Biotech developed the approach in China for solid tumours. Whether it suits your cancer depends on your pathology and prior treatment.</p>"
+          },
+          {
+            "q": "What is the MCTL target library, and why does it matter?",
+            "a": "<p>The target library is the catalogue of tumour-associated antigens that MCTL cells can be trained against, and it typically features widely studied targets such as NY-ESO-1, MAGE-family antigens, survivin, WT1 and hTERT. A broader library gives the laboratory more chance of matching your tumour's own antigen profile. Which targets are chosen usually depends on immunohistochemistry, sequencing and HLA typing, so the combination differs from patient to patient.</p>"
+          },
+          {
+            "q": "How is MCTL different from CAR-T therapy?",
+            "a": "<p>CAR-T cells are genetically engineered to attack one surface target and work best in blood cancers; MCTL cells are not gene-edited and are instead stimulated to recognise several antigens found inside tumour cells. That wider recognition may lower the risk of the cancer escaping by losing a single antigen, though MCTL responses are generally slower and milder than CAR-T responses. Your oncologist can advise which mechanism suits your disease.</p>"
+          },
+          {
+            "q": "Is MCTL therapy approved, or is it still experimental?",
+            "a": "<p>MCTL is not an approved medicine in India, Europe or the United States. In China it is offered mainly through clinical studies and hospital-based cell therapy programmes under local rules, which means access depends on the centre and on your eligibility for a specific protocol. Ask for the protocol registration details, the regulatory basis and the consent documents in writing before you travel or pay any deposit.</p>"
+          },
+          {
+            "q": "Which cancers might MCTL be considered for?",
+            "a": "<p>MCTL has been studied mainly in solid tumours, including liver, lung, stomach, colorectal, pancreatic, breast and nasopharyngeal cancers, usually after standard treatment has stopped working. Suitability often depends on whether your tumour expresses antigens held in the target library, how well you are physically, and whether your blood can still supply enough healthy T cells. A pathology review is normally needed before any centre will comment.</p>"
+          },
+          {
+            "q": "What tests do I need before MCTL treatment?",
+            "a": "<p>Centres normally ask for a recent biopsy or archived tumour tissue, immunohistochemistry or sequencing showing which antigens your tumour carries, HLA typing, blood counts and imaging from the past four to six weeks. CancerFax can help collate these reports so a centre can respond without repeating tests, though the final decision on eligibility always rests with the treating oncology team. Missing antigen testing is a common reason files are returned.</p>"
+          },
+          {
+            "q": "What are the side effects of MCTL therapy?",
+            "a": "<p>Reported side effects are usually mild: low-grade fever, chills, fatigue and aching for a day or two after each infusion. Because the cells are not genetically engineered and heavy lymphodepleting chemotherapy is not normally given, severe cytokine release syndrome and neurological toxicity are far less common than with CAR-T. Serious reactions can still happen, so infusions should be given where inpatient monitoring is available and a doctor is on call.</p>"
+          },
+          {
+            "q": "How long does the whole MCTL process take?",
+            "a": "<p>Plan for roughly four to eight weeks. Collecting the blood cells takes about a day, training and expanding the T cells in the laboratory commonly needs two to four weeks, and the product is usually given as several infusions spaced days or weeks apart. Many patients spend three to five weeks abroad. Cell growth varies, so keep flight and visa dates flexible where you can.</p>"
+          },
+          {
+            "q": "What does MCTL therapy cost in China?",
+            "a": "<p>Published pricing is limited, but quotes for multi-antigen cell therapy in China commonly fall between about US$25,000 and US$60,000 for a full course, before flights, accommodation, imaging and any treatment given alongside it. The figure moves with the number of infusions, the antigens selected and the hospital. Ask each hospital for an itemised written estimate, since scans and supportive care often add a large amount the headline price hides.</p>"
+          },
+          {
+            "q": "How do I find out whether MCTL is a realistic option for me?",
+            "a": "<p>Start with a document-based opinion rather than a booking. Send your pathology report, recent scans, treatment history and current blood counts to a centre running the protocol, and ask directly whether the antigens in your tumour sit inside the target library. CancerFax can route those records to Chinese cell therapy units for review. Whatever comes back should still be discussed with your own oncologist before you commit.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

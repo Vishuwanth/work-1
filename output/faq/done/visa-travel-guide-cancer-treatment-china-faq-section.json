@@ -1,0 +1,59 @@
+{
+  "pillar": "Visa and Travel Guide for Cancer Treatment in China",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "visa-travel-guide-cancer-treatment-china",
+  "route": "/insights/visa-travel-guide-cancer-treatment-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Which visa do I need to go to China for cancer treatment?",
+            "a": "<p>Most international patients enter China on an M visa, which Chinese missions commonly issue for medical treatment, though some short consultations may be possible on an L tourist visa. The hospital's admission letter usually supports the application, and your treating oncologist's referral letter often helps as well. Requirements can differ by embassy, nationality and treatment length, so confirm the current category with the Chinese mission in your country before booking flights.</p>"
+          },
+          {
+            "q": "How long does it take to get the visa?",
+            "a": "<p>A standard Chinese visa application often takes about four to five working days once the consulate accepts your file, with express services in some countries cutting this to two or three days. Appointment slots, document collection and the hospital's invitation letter usually add one to three weeks. Urgent cases can sometimes be expedited on medical grounds, but no consulate guarantees a date, so start early.</p>"
+          },
+          {
+            "q": "Do I need an invitation letter from the hospital in China?",
+            "a": "<p>Yes, in most cases. Chinese hospitals treating international patients usually issue an admission or invitation letter after reviewing your reports, and consulates often ask to see it. CancerFax can help pass your records to the hospital's international department so the letter is prepared correctly, though the treating team decides whether your case is suitable. Final documentation requirements rest with the consulate handling your application and can change at short notice.</p>"
+          },
+          {
+            "q": "Can my husband or daughter travel with me as my caregiver?",
+            "a": "<p>Yes. One or two family members can usually apply alongside you, using the same hospital letter to show why they are travelling. Chinese hospitals generally expect a seriously ill patient to have an attendant, and many wards allow one person to stay overnight. Some missions also ask for proof of your relationship. Each companion files a separate application, and approval is decided individually, so book flights only after every visa is issued.</p>"
+          },
+          {
+            "q": "How long can I stay in China, and can I extend my visa?",
+            "a": "<p>Entry stamps for medical travel commonly allow 30 to 60 days, and some M visas permit 90 or 180 days per entry. If treatment runs longer, the hospital can supply a letter supporting an extension at the local Exit and Entry Administration, usually applied for at least seven days before your stay expires. Extensions are granted case by case, never automatically, and overstaying carries fines, so track your date carefully.</p>"
+          },
+          {
+            "q": "What medical records should I carry with me?",
+            "a": "<p>Carry your full pathology report, recent scans on disc or film, blood results, a treatment summary listing every drug and dose, and any molecular or genetic testing reports. English translations help, and Chinese hospitals often ask for the original biopsy blocks or slides so their own pathologists can re-check the diagnosis. Keep digital copies on your phone as well, because films can be delayed or damaged in transit.</p>"
+          },
+          {
+            "q": "Can I bring my cancer medicines into China?",
+            "a": "<p>Yes, for personal use. Bring medicines in their original labelled packaging with a doctor's prescription and a signed letter stating the diagnosis, drug names and quantities, ideally translated into Chinese. Carry them in hand luggage. Controlled drugs such as strong opioid painkillers face tighter rules and may be restricted or refused at the border, so check with the Chinese mission and your airline before you fly.</p>"
+          },
+          {
+            "q": "Am I well enough to fly for treatment?",
+            "a": "<p>Only your treating oncologist can say. Airlines generally ask patients to avoid flying within about two weeks of major surgery, and low haemoglobin or platelet counts, recent pneumothorax, or uncontrolled infection can make flying unsafe. Cabin pressure can also worsen breathlessness. Many patients fly comfortably between chemotherapy cycles. Ask for a fitness-to-fly letter, and tell the airline in advance if you need oxygen, a wheelchair or extra legroom.</p>"
+          },
+          {
+            "q": "Will my insurance pay for treatment in China?",
+            "a": "<p>Most home insurance policies do not cover planned treatment abroad, so international patients in China usually pay the hospital directly, often as an upfront deposit before admission. Travel insurance still matters for emergencies, flight changes and repatriation, though many policies exclude anything related to a pre-existing cancer. Read the exclusions carefully and ask your insurer in writing what is covered, because costs can rise if treatment is extended.</p>"
+          },
+          {
+            "q": "How will I manage the language barrier at a Chinese hospital?",
+            "a": "<p>Major cancer hospitals in Beijing, Shanghai, Guangzhou and Tianjin run international patient departments with English-speaking coordinators, and a medical interpreter is usually arranged for consultations and consent discussions. Outside the hospital, a translation app and a written Chinese address card help a great deal. CancerFax can help arrange interpreter support in some centres, but confirm what your hospital provides before you travel, and ask for key instructions in writing.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

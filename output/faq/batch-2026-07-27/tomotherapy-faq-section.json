@@ -1,0 +1,59 @@
+{
+  "pillar": "Tomotherapy: Helical IMRT for Complex Cancer Targets",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tomotherapy",
+  "route": "/treatments/tomotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is tomotherapy and how is it different from normal radiation?",
+            "a": "<p>Tomotherapy is a radiation machine that combines a CT scanner with a rotating IMRT delivery head, so the beam spirals around you while the couch moves through the ring. This lets the dose wrap tightly around irregular or long targets while sparing nearby organs. Because it images you before every session, small shifts in your position or tumour size can be corrected. Your radiation oncologist decides whether this design suits your tumour.</p>"
+          },
+          {
+            "q": "Which cancers is tomotherapy used for?",
+            "a": "<p>Tomotherapy is often used for tumours that are long, curved, or wrapped around critical structures. Common examples include head and neck cancers, prostate cancer, brain and spine tumours, some lung cancers, and total marrow irradiation before a stem cell transplant. It can also treat several tumour sites in one plan. Whether it suits your cancer depends on tumour position, size, and any radiation you have already had.</p>"
+          },
+          {
+            "q": "Is tomotherapy better than IMRT or VMAT for my cancer?",
+            "a": "<p>Not automatically. Tomotherapy, IMRT, and VMAT can all deliver highly shaped radiation doses, and for many common cancers the plans look similar. Tomotherapy often has an edge for very long targets, several tumours at once, or shapes that curve sharply around the spinal cord. VMAT is usually faster per session. The better machine is the one that gives your specific target the safest plan, which your team decides after planning scans.</p>"
+          },
+          {
+            "q": "How long does each tomotherapy session take?",
+            "a": "<p>Most tomotherapy sessions take about 15 to 30 minutes on the table, including the daily CT image taken before the beam switches on. The radiation itself often runs longer than standard IMRT because the dose is delivered slice by slice. A full course commonly runs five days a week for three to seven weeks, though shorter courses are used for some tumours. Your schedule depends on your cancer type and dose.</p>"
+          },
+          {
+            "q": "Does tomotherapy hurt, and what side effects should I expect?",
+            "a": "<p>The treatment itself is painless and you feel nothing while the machine rotates around you. Side effects come later and depend on the area treated: tiredness, skin redness, and irritation of nearby organs such as the throat, bowel, or bladder. Because tomotherapy shapes the dose tightly, healthy tissue often receives less radiation than with older techniques, which can reduce these effects. Most side effects build up slowly and settle after treatment ends.</p>"
+          },
+          {
+            "q": "How much does tomotherapy cost in India?",
+            "a": "<p>Tomotherapy in India typically costs around USD 5,000 to 9,000 for a full course, depending on the hospital, the number of sessions, and whether imaging, planning, and hospital stay are bundled into the quote. That is often a fraction of prices in the United States or Europe. Costs can change once the planning scan shows how many fractions you need, so treat any figure given before planning as an estimate.</p>"
+          },
+          {
+            "q": "Can I get tomotherapy in China as an international patient?",
+            "a": "<p>Yes. Tomotherapy units are installed in several large cancer centres in China, including hospitals in Beijing, Shanghai, and Guangzhou, and international patients are commonly accepted. You will usually need your pathology report, recent imaging, and previous radiation records reviewed before a slot is offered. Access also depends on visa timing and bed availability, so start the paperwork early. Confirm that the specific machine is working and available for your dates.</p>"
+          },
+          {
+            "q": "Can tomotherapy treat more than one tumour at the same time?",
+            "a": "<p>Yes, in many cases. Tomotherapy can treat several separate targets in a single continuous plan, which is why it is used for total marrow irradiation before transplant and for patients with more than one bone or brain metastasis. Treating them together avoids overlapping doses at the junctions between fields, a known weak point of older methods. Whether all your sites can be treated at once depends on their positions and total dose.</p>"
+          },
+          {
+            "q": "Can I have tomotherapy if I've already had radiation to that area?",
+            "a": "<p>Sometimes. The tight dose shaping and daily imaging make tomotherapy one of the options considered when a tumour returns in an area already irradiated. Your team adds the old dose to the planned new dose to see whether nearby organs such as the spinal cord can safely take more. Re-treatment carries a higher risk of tissue damage, so it is offered selectively. Bring your previous radiation plan records to the consultation.</p>"
+          },
+          {
+            "q": "How do I find out whether I am a candidate for tomotherapy?",
+            "a": "<p>Send your recent scans, pathology report, and details of any previous radiation to a radiation oncology team for review. They will check tumour size, position, and how close it sits to organs at risk before advising whether tomotherapy is suitable. Services such as CancerFax can help gather these records and arrange opinions from centres in India and China, but the final treatment decision rests with your treating oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

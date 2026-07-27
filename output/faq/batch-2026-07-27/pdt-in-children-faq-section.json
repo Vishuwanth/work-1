@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT in Children: Paediatric Applications and Special Considerations",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-in-children",
+  "route": "/insights/pdt-in-children",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can photodynamic therapy be used on children?",
+            "a": "<p>Yes, photodynamic therapy can be used in children, though it is far less common than in adults. It is used mainly for skin lesions, some head and neck problems, and a small number of internal tumours that an endoscope can reach. Paediatric experience is limited, so most children are treated at specialist centres or within clinical trials. Whether it suits your child depends on the tumour type, its location, and their general health.</p>"
+          },
+          {
+            "q": "What conditions in children is PDT actually used for?",
+            "a": "<p>In children, PDT is used most often for skin lesions, recurrent respiratory papillomatosis in the airway, and certain lesions in the mouth, throat, or oesophagus. A few centres also study it for brain tumours and some sarcomas alongside surgery. It works best on thin or surface lesions because the light only reaches a few millimetres deep. Deep or widespread disease usually needs other treatment, so your child's oncology team will decide what fits.</p>"
+          },
+          {
+            "q": "Is PDT gentler on my child than chemotherapy or radiation?",
+            "a": "<p>PDT is usually gentler because it acts only where the light is shone, so it spares bone marrow, growing bones, and healthy organs. Children often avoid the hair loss, nausea, and low blood counts that chemotherapy brings, and no radiation dose reaches developing tissue. The main trade-off is reach: PDT only treats what the light touches. Your child's team weighs that against how much disease is present.</p>"
+          },
+          {
+            "q": "How do doctors work out the drug dose for a small child?",
+            "a": "<p>The photosensitiser dose is calculated by body weight or body surface area, the same way most medicines for children are. The light dose is then set by the size and thickness of the lesion, not by age. Because published paediatric data are limited, many centres begin at the lower end of the adult range and adjust. Ask the team how many children they have treated and which protocol they follow.</p>"
+          },
+          {
+            "q": "Will my child be asleep during PDT?",
+            "a": "<p>Most young children have PDT under general anaesthesia or deep sedation, because they need to stay completely still while the light is delivered and the treatment can sting or burn. Older teenagers may manage skin treatment with local anaesthetic and cooling alone. Airway and internal treatments almost always need full anaesthesia. The anaesthetic plan depends on your child's age, the site being treated, and how long the session runs.</p>"
+          },
+          {
+            "q": "How long will my child have to stay out of the light afterwards?",
+            "a": "<p>It depends on the drug used. Creams applied to the skin, such as ALA or methyl-ALA, usually mean avoiding strong sunlight on the treated spot for about 48 hours. Injected photosensitisers such as porfimer sodium can make the whole body light-sensitive for four to six weeks, meaning dim indoor light, long sleeves, and no bright sun. Plan school and play around this, because ordinary daylight can cause real burns.</p>"
+          },
+          {
+            "q": "Are there long-term side effects, and will PDT affect my child's growth?",
+            "a": "<p>PDT does not carry the growth, fertility, or second-cancer risks linked to radiation and some chemotherapy drugs, because it does not damage DNA in the same way. The lasting effects are usually local: scarring, pale or dark patches on treated skin, and sometimes narrowing where an airway or oesophagus was treated. Long-term follow-up data in children are still limited, so regular review with the treating team matters.</p>"
+          },
+          {
+            "q": "Can PDT be repeated if the lesion comes back?",
+            "a": "<p>Yes, PDT can usually be repeated, which is one of its advantages over radiation, where there is a lifetime dose limit. Children with recurrent respiratory papillomatosis or Gorlin syndrome may have several sessions over a number of years. Each round still carries the same light-sensitivity precautions and anaesthetic risk. How often it can be repeated depends on healing, scarring, and how well the lesion responded the first time.</p>"
+          },
+          {
+            "q": "Can we get PDT for our child in India or China, and what does it cost?",
+            "a": "<p>Yes, paediatric PDT is available at some larger cancer centres and children's hospitals in India and China, usually through dermatology, ENT, or interventional endoscopy units. Costs vary widely with the drug used and the number of sessions, and are often a fraction of United States or European prices. CancerFax can help identify centres with paediatric experience and request written quotes. Final cost and eligibility depend on assessment by the treating team.</p>"
+          },
+          {
+            "q": "How do we find out whether our child is eligible?",
+            "a": "<p>Eligibility is decided by a paediatric oncologist after reviewing imaging, biopsy results, and the depth and location of the lesion, since PDT only works where light can reach. Age, earlier treatments, and light-sensitivity conditions such as porphyria also matter. Gathering recent scans and pathology reports before the consultation speeds this up. CancerFax can pass those records to paediatric teams for review, but only the treating doctors can confirm suitability.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

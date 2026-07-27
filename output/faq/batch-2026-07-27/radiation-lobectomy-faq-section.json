@@ -1,0 +1,59 @@
+{
+  "pillar": "Radiation Lobectomy: Using Y-90 TARE to Prepare for Liver Surgery",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "radiation-lobectomy",
+  "route": "/insights/radiation-lobectomy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is radiation lobectomy?",
+            "a": "<p>Radiation lobectomy is a technique where Y-90 radioembolization (TARE) is delivered to one lobe of the liver at a high dose, shrinking the tumour-bearing lobe while the healthy opposite lobe grows larger over several months. The aim is to grow enough healthy liver so that surgery to remove the diseased lobe becomes safe. Whether it suits your case depends on tumour position, liver function, and surgical review.</p>"
+          },
+          {
+            "q": "Why would my doctor use radiation before liver surgery instead of operating straight away?",
+            "a": "<p>Because your remaining liver may be too small to survive the operation. Surgeons need a future liver remnant of roughly 20 to 40 percent of total liver volume, depending on whether you have cirrhosis or prior chemotherapy. Radiation lobectomy treats the tumour and grows the healthy side at the same time, so waiting is not wasted time. The exact volume threshold is set by your surgical team.</p>"
+          },
+          {
+            "q": "How does Y-90 make the healthy side of my liver grow bigger?",
+            "a": "<p>Y-90 microspheres injected into the artery feeding the diseased lobe destroy tissue there, and the liver responds by enlarging the untreated lobe to compensate. This is called compensatory hypertrophy. Growth of around 25 to 45 percent in the healthy lobe is often reported over three to nine months. Response varies widely between patients, and some livers hypertrophy less than expected.</p>"
+          },
+          {
+            "q": "How long do I have to wait before surgery?",
+            "a": "<p>Most patients wait three to nine months between Y-90 treatment and surgery, with volume scans every two to three months to track growth. This is slower than portal vein embolization, which can produce growth in four to six weeks. The trade-off is that radiation lobectomy also controls the tumour during the wait. Your timeline depends on how your liver responds and how your disease behaves.</p>"
+          },
+          {
+            "q": "Is radiation lobectomy better than portal vein embolization?",
+            "a": "<p>Neither is better for everyone — they solve slightly different problems. Portal vein embolization grows the liver faster but does nothing to the tumour, so disease can progress while you wait. Radiation lobectomy is slower but treats the tumour at the same time, which can help when the cancer is aggressive or when a delay is risky.</p><p>Some teams combine both. The choice depends on tumour biology, liver reserve, and how urgently surgery is needed.</p>"
+          },
+          {
+            "q": "Which liver cancers can be treated this way?",
+            "a": "<p>Radiation lobectomy is used most often for hepatocellular carcinoma confined to one lobe, and in selected cases of intrahepatic cholangiocarcinoma or colorectal liver metastases. The tumour generally needs to be limited to the lobe being treated, with the opposite lobe free of disease. Eligibility also depends on liver function, portal vein status, and specialist review, so a scan-by-scan assessment is essential.</p>"
+          },
+          {
+            "q": "What are the side effects of Y-90 radiation lobectomy?",
+            "a": "<p>The most common effects are fatigue, mild abdominal pain, nausea, and low-grade fever in the days after treatment, together known as post-embolization syndrome. Less commonly, radiation can injure liver tissue, cause stomach or duodenal ulcers if microspheres travel to the wrong vessel, or worsen liver function. A mapping angiogram and lung shunt study are done beforehand to reduce these risks.</p>"
+          },
+          {
+            "q": "What happens if my liver does not grow enough?",
+            "a": "<p>Surgery may not go ahead, and your team will look at other options. Some patients are offered a second procedure such as portal vein embolization to add further growth, while others continue with Y-90 or systemic treatment as their main therapy. In selected cases, a good tumour response means the disease is controlled without surgery. Your surgeon will re-assess after each volume scan.</p>"
+          },
+          {
+            "q": "How much does Y-90 radioembolization cost in India or China?",
+            "a": "<p>Y-90 radioembolization typically costs in the range of USD 12,000 to 25,000 per treatment session in India, and often more in China, with the microspheres themselves making up much of the price. Surgery, imaging, hospital stay, and follow-up are billed separately. Final costs depend on the hospital, the device used, the number of sessions, and how long you stay, so ask for a written estimate.</p>"
+          },
+          {
+            "q": "How do I get a second opinion on whether I am a candidate?",
+            "a": "<p>Send your recent triphasic CT or MRI scans, liver function tests, and pathology report to a liver surgeon and an interventional radiologist together, since the decision needs both. CancerFax can help patients organize these reports, identify centres experienced in radiation lobectomy, estimate costs, and coordinate travel and follow-up alongside the treating oncology team. Final treatment decisions rest with your medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

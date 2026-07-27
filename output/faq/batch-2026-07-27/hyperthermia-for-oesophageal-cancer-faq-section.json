@@ -1,0 +1,59 @@
+{
+  "pillar": "Hyperthermia for Oesophageal Cancer: China's Unique Clinical Evidence",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hyperthermia-for-oesophageal-cancer",
+  "route": "/insights/hyperthermia-for-oesophageal-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is hyperthermia treatment for oesophageal cancer?",
+            "a": "<p>Hyperthermia heats the tumour and the tissue around it to roughly 40-45°C so cancer cells become more vulnerable to radiation and chemotherapy. For oesophageal cancer the heat is usually delivered from outside the body, using radiofrequency or microwave applicators aimed at the chest. It is almost never given on its own. Doctors combine it with chemoradiotherapy, because heat appears to slow the repair of damaged cancer cells.</p>"
+          },
+          {
+            "q": "Does hyperthermia really work for oesophageal cancer, or is it experimental?",
+            "a": "<p>Hyperthermia is a routine hospital treatment in China and Japan, but it is still considered investigational in most Western countries. Chinese randomised trials and large hospital series have reported higher tumour response rates when heat is added to chemoradiotherapy. Survival findings are less consistent across studies. In many cases hyperthermia can improve local tumour control, but it is not a cure on its own and should support standard treatment.</p>"
+          },
+          {
+            "q": "Why does most of the evidence for hyperthermia come from China?",
+            "a": "<p>China treats far more oesophageal cancer than any other country, so its hospitals can run hyperthermia studies at a scale Western centres cannot match. Chinese cancer centres also adopted regional hyperthermia equipment early and kept it in routine use, which built up decades of combined-treatment experience. Much of this data is published in Chinese journals, which is one reason the therapy remains less familiar to oncologists elsewhere.</p>"
+          },
+          {
+            "q": "Will hyperthermia replace my chemotherapy or radiotherapy?",
+            "a": "<p>No. Hyperthermia is added to chemotherapy or radiotherapy, not used instead of them. The heat works by making tumour cells more sensitive to the drugs and radiation you are already receiving, so removing those treatments would remove the benefit. Sessions are usually scheduled within an hour or two of radiotherapy to catch that sensitising window. Any change to your treatment plan should come from your treating oncologist.</p>"
+          },
+          {
+            "q": "What does a hyperthermia session actually feel like?",
+            "a": "<p>Most patients describe it as a deep, spreading warmth across the chest and back, similar to lying under a strong heat lamp. You stay awake, lie still on a couch between two applicators, and a nurse checks your temperature and comfort throughout. Some people sweat heavily or feel a hot spot on the skin, which staff can adjust. Sedation is not normally needed.</p>"
+          },
+          {
+            "q": "How many hyperthermia sessions will I need?",
+            "a": "<p>Most Chinese protocols use two sessions a week alongside chemoradiotherapy, giving a total of six to twelve treatments over the course. Each session runs about 40 to 60 minutes, plus setup time. The exact number depends on the size and position of your tumour, how well you tolerate the heat, and what your radiotherapy schedule allows. Your treating team may shorten or extend the course as they review your response.</p>"
+          },
+          {
+            "q": "What are the side effects of hyperthermia?",
+            "a": "<p>The most common problems are skin redness, small surface burns, blistering over bony areas, and fatigue after each session. Some patients feel dizzy or dehydrated from sweating. Serious complications are uncommon when the treatment is delivered by trained staff with temperature monitoring. Because hyperthermia is added to chemoradiotherapy, it can also make swallowing pain and tiredness from those treatments feel somewhat worse for a while.</p>"
+          },
+          {
+            "q": "Can hyperthermia help if my oesophageal cancer has spread or come back?",
+            "a": "<p>Hyperthermia can sometimes help in advanced or recurrent disease, mainly by improving local control and easing symptoms such as difficulty swallowing or chest pain. Chinese centres often combine it with chemotherapy, and occasionally with immunotherapy, for patients whose tumours have returned after radiotherapy. It is not expected to clear widespread metastases. Whether it suits your situation depends on where the disease has spread and how well you are currently coping.</p>"
+          },
+          {
+            "q": "How much does hyperthermia for oesophageal cancer cost in China?",
+            "a": "<p>A single hyperthermia session in a Chinese hospital typically costs between USD 150 and 400, so a full course added to chemoradiotherapy often lands between USD 2,000 and 5,000. That is usually a small share of the total bill compared with radiotherapy, chemotherapy and inpatient stay. Prices vary by city, hospital tier and equipment type, and CancerFax can help you request written quotations before you commit to travelling.</p>"
+          },
+          {
+            "q": "Am I eligible, and how do I arrange hyperthermia treatment in China?",
+            "a": "<p>Eligibility usually depends on where the tumour sits, how deep it lies, and whether you have a pacemaker or metal implants near the chest. Most centres ask for recent scans, a pathology report and your current treatment plan before they will comment. CancerFax can pass these records to Chinese hyperthermia centres for review, though the final decision rests with the hospital and with your own treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

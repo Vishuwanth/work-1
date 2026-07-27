@@ -1,0 +1,59 @@
+{
+  "pillar": "RFA for Colorectal Liver Metastases: The EORTC CLOCC Trial and What It Means",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-for-colorectal-liver-metastases",
+  "route": "/insights/rfa-for-colorectal-liver-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is radiofrequency ablation for cancer that has spread to my liver?",
+            "a": "<p>Radiofrequency ablation, or RFA, uses a needle-like probe to heat and destroy liver tumours from the inside. A doctor guides the probe through the skin using CT or ultrasound imaging, then passes radio waves through it until the tumour tissue dies. For colorectal cancer that has spread to the liver, RFA is usually combined with chemotherapy rather than used on its own. Whether it suits you depends on tumour size, number and location.</p>"
+          },
+          {
+            "q": "What did the EORTC CLOCC trial actually find?",
+            "a": "<p>The CLOCC trial tested chemotherapy alone against chemotherapy plus radiofrequency ablation in patients whose colorectal liver metastases could not be removed by surgery. Adding RFA improved long-term survival: at eight years, about 36 percent of the combined-treatment group were alive compared with roughly 9 percent on chemotherapy alone. The trial was small, around 119 patients, so oncologists treat it as strong supporting evidence rather than final proof.</p>"
+          },
+          {
+            "q": "Does adding RFA to chemotherapy help me live longer?",
+            "a": "<p>In the CLOCC trial it did. Median overall survival was about 45.6 months with chemotherapy plus ablation, compared with 40.5 months for chemotherapy alone, and the difference grew much larger by eight years. Progression-free survival also improved. These results come from one modest-sized trial in carefully selected patients, so the benefit in your case depends on your tumour burden, liver function and overall health.</p>"
+          },
+          {
+            "q": "Is ablation as good as surgery for liver metastases?",
+            "a": "<p>Surgery remains the first choice when the metastases can be safely removed, because it offers the best long-term control. RFA is mainly used when surgery is not possible, or alongside surgery to treat tumours the surgeon cannot reach. CLOCC did not compare the two directly. Many liver teams now use a combined approach, removing what they can and ablating the rest, though eligibility is decided case by case.</p>"
+          },
+          {
+            "q": "How many liver tumours can I have and still be offered RFA?",
+            "a": "<p>CLOCC enrolled patients with up to nine liver metastases and no cancer outside the liver, and that remains a common guide. Beyond that number, ablation is unlikely to control the disease and systemic treatment takes priority. Location matters as much as count: tumours close to large blood vessels, the bile duct or the bowel are harder to ablate safely. Your liver team will set the limit for your case.</p>"
+          },
+          {
+            "q": "Does the size of the tumour affect whether RFA will work?",
+            "a": "<p>Yes, size is the strongest predictor of success. Ablation works best on tumours under 3 cm, where the heat can destroy the whole tumour plus a margin of healthy tissue around it. Between 3 and 5 cm the risk of leaving cancer cells behind rises, and above 5 cm RFA alone is often not enough. Microwave ablation or a combination with surgery may be considered for larger lesions.</p>"
+          },
+          {
+            "q": "What is the procedure like, and how long will recovery take?",
+            "a": "<p>RFA is usually done through the skin under sedation or light general anaesthesia and takes one to two hours. The doctor places one or more probes into the tumour using imaging, then heats the tissue for several minutes per tumour. Most people stay in hospital overnight and return to normal activity within a week. Mild pain, tiredness and a low fever for a few days are common.</p>"
+          },
+          {
+            "q": "What can go wrong with liver ablation?",
+            "a": "<p>Serious complications are uncommon, affecting a small minority of patients. The main risks are bleeding, infection or abscess in the treated area, injury to the bile duct, and damage to nearby structures such as the bowel or diaphragm. A short-lived flu-like reaction called post-ablation syndrome is common and settles on its own. Risk rises when tumours sit near major vessels or the bile duct, so ask your team about your own scans.</p>"
+          },
+          {
+            "q": "Can the cancer come back in the same spot, and can RFA be repeated?",
+            "a": "<p>Local recurrence at the ablated site happens in a meaningful number of cases, more often with larger tumours or those next to big blood vessels, which carry heat away from the probe. RFA can usually be repeated, and new liver lesions can often be ablated again if the rest of the disease stays controlled. Follow-up scans every three months are standard so recurrence is caught early.</p>"
+          },
+          {
+            "q": "Can I get RFA for liver metastases in India or China, and what does it cost?",
+            "a": "<p>Yes, radiofrequency and microwave ablation are widely available at major cancer centres in both countries, often at a fraction of Western prices. Costs vary by hospital, number of tumours and whether chemotherapy or surgery is combined with the procedure, so ask for a written estimate before you travel. CancerFax can help you gather hospital opinions and quotes, but the treatment plan should be agreed with your own oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

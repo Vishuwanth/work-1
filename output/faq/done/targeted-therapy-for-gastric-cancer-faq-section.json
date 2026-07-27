@@ -1,0 +1,59 @@
+{
+  "pillar": "Targeted Therapy for Gastric Cancer: A Complete Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "targeted-therapy-for-gastric-cancer",
+  "route": "/insights/targeted-therapy-for-gastric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is targeted therapy for gastric cancer, in simple terms?",
+            "a": "<p>Targeted therapy uses drugs that attack specific proteins or genes driving your stomach cancer, rather than killing all fast-growing cells the way chemotherapy does. For gastric cancer the main targets are HER2, VEGF, Claudin 18.2 and PD-L1. Because these drugs only help when the matching target is present, your tumour tissue must be tested first. Which option fits you depends on your test results and previous treatment.</p>"
+          },
+          {
+            "q": "How do I know if targeted therapy will work for me?",
+            "a": "<p>Only a biomarker test on your tumour can tell. Pathologists check a biopsy or surgical sample for HER2 by immunohistochemistry, Claudin 18.2, PD-L1 combined positive score, and mismatch repair or MSI status. Some centres add next-generation sequencing to look for FGFR2b or rarer changes. Ask your oncologist which of these were done, because a missing test can mean a missed treatment option. Results usually take one to two weeks.</p>"
+          },
+          {
+            "q": "What does HER2-positive gastric cancer mean for my treatment?",
+            "a": "<p>HER2-positive means your tumour makes too much of a growth protein called HER2, and it can often be treated with trastuzumab added to chemotherapy. About 15 to 20 percent of stomach and gastro-oesophageal junction cancers are HER2-positive. In advanced disease, adding trastuzumab to chemotherapy has extended survival in trials, and pembrolizumab may be added when PD-L1 is also positive. Your oncologist will confirm eligibility from your pathology report.</p>"
+          },
+          {
+            "q": "My cancer stopped responding to trastuzumab. What comes next?",
+            "a": "<p>Trastuzumab deruxtecan is often the next option after trastuzumab stops working in HER2-positive gastric cancer. It links the HER2 antibody to a chemotherapy payload, delivering it directly into tumour cells. In the DESTINY-Gastric trials it shrank tumours in roughly four in ten patients who had progressed on earlier HER2 treatment. Lung inflammation is a known risk, so breathing changes need prompt reporting. Availability and reimbursement vary by country.</p>"
+          },
+          {
+            "q": "What is ramucirumab and when would I be given it?",
+            "a": "<p>Ramucirumab blocks VEGFR-2, a receptor tumours use to build new blood vessels, and it is mainly used in second-line treatment of advanced gastric cancer. It is usually combined with paclitaxel, which works better than either drug alone, though it can be given by itself if chemotherapy is not tolerated. Common problems include high blood pressure, protein in the urine and slower wound healing. It does not need a biomarker test.</p>"
+          },
+          {
+            "q": "Is there a targeted drug for Claudin 18.2 stomach cancer?",
+            "a": "<p>Zolbetuximab targets Claudin 18.2, a protein found on the surface of roughly one third of advanced gastric cancers. Added to first-line chemotherapy in HER2-negative disease, it delayed cancer growth and improved survival in the SPOTLIGHT and GLOW trials. Nausea and vomiting during the infusion are common and usually managed with anti-sickness medicine and slower dosing. A separate Claudin 18.2 test is needed, so ask whether your tumour was checked.</p>"
+          },
+          {
+            "q": "Will targeted therapy replace my chemotherapy?",
+            "a": "<p>Usually not. For gastric cancer, targeted drugs work best alongside chemotherapy rather than replacing it, because the combination attacks the tumour in two different ways. Trastuzumab, zolbetuximab and ramucirumab are all normally given with a chemotherapy backbone. Targeted therapy alone is generally reserved for later lines, or when chemotherapy is too hard on your body. Your oncologist decides the sequence based on your fitness, organ function and earlier treatment.</p>"
+          },
+          {
+            "q": "Are the side effects easier than with chemotherapy?",
+            "a": "<p>Often milder, but different rather than absent. Targeted drugs spare healthy dividing cells, so severe hair loss and low blood counts are less common. Instead you may see heart weakening with trastuzumab, high blood pressure and bleeding risk with ramucirumab, infusion nausea with zolbetuximab, or lung inflammation with trastuzumab deruxtecan. Most are manageable when caught early, which is why heart scans and blood tests are repeated during treatment. Report new breathlessness quickly.</p>"
+          },
+          {
+            "q": "How much does targeted therapy cost in India or China?",
+            "a": "<p>Costs vary widely, and treatment abroad is often chosen because the same drugs cost less. In India, biosimilar trastuzumab has brought monthly costs down substantially compared with the original brand, while some newer agents are available mainly through trials or named-patient routes. China approves several Claudin 18.2 and HER2 drugs of its own. CancerFax can help you compare what a specific hospital quotes, though final pricing depends on your regimen and duration.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial for a newer targeted drug?",
+            "a": "<p>Possibly, and it is worth asking early rather than after every standard option is exhausted. Trials in India and China are testing FGFR2b antibodies, next-generation HER2 drugs and Claudin 18.2 cell therapies. Entry usually depends on your biomarker results, prior treatments, organ function and how well you are moving around. CancerFax can help gather your records for review, but only the trial team and your oncologist can confirm whether you qualify.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

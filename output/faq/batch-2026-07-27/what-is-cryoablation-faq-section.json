@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is Cryoablation? A Complete Patient Introduction to Freeze Ablation",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-cryoablation",
+  "route": "/insights/what-is-cryoablation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoablation, in plain language?",
+            "a": "<p>Cryoablation destroys a tumour by freezing it with a thin needle-like probe cooled to around minus 40 degrees Celsius. The doctor guides the probe into the tumour using ultrasound, CT or MRI scans, then repeats cycles of freezing and thawing until ice crystals rupture the cancer cells. The body slowly clears the dead tissue over the following months. Most procedures are done through the skin, without a large surgical cut.</p>"
+          },
+          {
+            "q": "Which cancers can cryoablation treat?",
+            "a": "<p>Cryoablation is used most often for kidney, liver, lung, prostate, breast and bone tumours, and for some skin cancers. It works best on small, well-defined tumours that show clearly on imaging and can be reached safely with a probe. Doctors may also use it to shrink tumours that cause pain, even when cure is not the goal. Whether it suits your cancer depends on tumour size, location and your general health.</p>"
+          },
+          {
+            "q": "Will cryoablation hurt?",
+            "a": "<p>Most people feel little pain during cryoablation, because the skin is numbed and sedation or general anaesthesia is used. Freezing itself has a mild numbing effect on nerves. Afterwards you may have aching, bruising or swelling around the treated area for a few days, usually managed with simple painkillers. Pain that steadily worsens instead of settling should be reported to your team, since it can signal bleeding or infection.</p>"
+          },
+          {
+            "q": "How long does cryoablation take, and will I need to stay in hospital?",
+            "a": "<p>Most cryoablation procedures take one to three hours, depending on the size, number and position of the tumours. Many patients go home the same day, while others stay one night for observation. Treatment near the lung, bowel or a major blood vessel may need a longer stay. People often return to light activity within a few days, though full recovery can take two to three weeks.</p>"
+          },
+          {
+            "q": "Is cryoablation as good as surgery for my cancer?",
+            "a": "<p>For small, carefully selected tumours, cryoablation can achieve local control close to that of surgery. In kidney cancers under about four centimetres, reported five-year local control often exceeds ninety percent. Larger tumours, or those beside major blood vessels that carry heat away, are harder to freeze completely and may come back. Surgery also removes tissue for laboratory examination, which freezing does not, so the right choice depends on your tumour and fitness.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of cryoablation?",
+            "a": "<p>The most common problems are bleeding, bruising, pain and infection at the probe site. Depending on where the tumour sits, freezing can injure nearby nerves, the bowel or the urinary tract, or allow air to leak around the lung. A rare but serious reaction called cryoshock can affect blood pressure and clotting after large-volume freezing. Serious complications are uncommon in experienced centres, and your team will explain the risks specific to your tumour.</p>"
+          },
+          {
+            "q": "How much does cryoablation cost in India or China?",
+            "a": "<p>Cryoablation abroad usually costs far less than in Western countries, though prices vary widely by hospital, tumour site and how many sessions are needed. In India, a single session often falls in the range of 3,000 to 7,000 US dollars, with China broadly similar. Scans, hospital stay and follow-up may be billed separately.</p><p>CancerFax can help you request written quotes from treating centres, but the final figure always depends on your medical records.</p>"
+          },
+          {
+            "q": "Can cryoablation be repeated if the cancer comes back?",
+            "a": "<p>Yes, cryoablation can usually be repeated if the tumour returns or if part of it survived the first freeze. Because it removes very little healthy tissue, the same site can often be treated again, and it can be combined with surgery, radiation or drug treatment. Repeat treatment is more likely with larger tumours. Whether a second session is possible depends on your scans, your recovery and your oncologist's assessment.</p>"
+          },
+          {
+            "q": "How will my doctors know if the treatment worked?",
+            "a": "<p>Follow-up imaging, not symptoms, shows whether cryoablation worked. Most centres arrange a CT or MRI scan about one to three months after treatment, then every three to six months for the first two years. Radiologists look for a treated zone that does not take up contrast dye, which suggests the tissue is dead. Contrast returning at the edge of that zone can mean residual tumour that needs further treatment.</p>"
+          },
+          {
+            "q": "How do I find out if I am eligible for cryoablation?",
+            "a": "<p>Eligibility is decided from your recent scans, biopsy report and general health, not from the cancer type alone. An interventional radiologist checks whether the tumour is small enough, visible enough on imaging, and far enough from structures that freezing could damage. Many patients send records for a remote opinion before travelling, and CancerFax can pass them to centres in India and China. Acceptance for treatment always rests with the treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

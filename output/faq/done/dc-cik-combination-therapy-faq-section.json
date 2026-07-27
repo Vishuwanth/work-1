@@ -1,0 +1,59 @@
+{
+  "pillar": "DC-CIK Combination Therapy: The Enhanced Immune Approach to Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "dc-cik-combination-therapy",
+  "route": "/insights/dc-cik-combination-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is DC-CIK combination therapy?",
+            "a": "<p>DC-CIK therapy is a cell-based cancer treatment that combines dendritic cells, which teach the immune system what to attack, with cytokine-induced killer cells, which do the attacking. Both cell types are grown from your own blood in a laboratory, then infused back into you. The pairing is designed to produce a stronger, more targeted immune response than either cell type used alone. Treatment usually runs over several cycles.</p>"
+          },
+          {
+            "q": "How is DC-CIK different from CIK therapy on its own?",
+            "a": "<p>The difference is the dendritic cell component, which acts as a trainer for the immune cells. CIK cells alone kill tumour cells broadly but without specific instruction. Adding dendritic cells that have been exposed to tumour antigens can sharpen that response so the killer cells recognise cancer more precisely. Several studies report better response rates with the combination, though the evidence base is still small and mostly from single centres.</p>"
+          },
+          {
+            "q": "Which cancers is DC-CIK therapy used for?",
+            "a": "<p>DC-CIK has been studied most in liver, lung, gastric, colorectal, breast and kidney cancers, usually as an add-on after surgery, chemotherapy or radiotherapy rather than as a first treatment. It is also used in some blood cancers. Whether it suits your cancer depends on the type, stage, how much treatment you have already had, and your general health, so eligibility is decided case by case.</p>"
+          },
+          {
+            "q": "Can DC-CIK replace chemotherapy or radiotherapy?",
+            "a": "<p>No. DC-CIK is used alongside standard treatment, not instead of it. Most published protocols give the cells after surgery, chemotherapy or radiotherapy has reduced the tumour burden, because a smaller amount of disease is easier for the immune system to control. Stopping proven treatment in favour of cell therapy alone can allow the cancer to progress. Any change to your treatment plan should be agreed with your treating oncologist.</p>"
+          },
+          {
+            "q": "How is the treatment actually given?",
+            "a": "<p>It starts with a blood collection, usually by apheresis, which takes two to four hours. Your cells are then cultured in a laboratory for roughly one to three weeks. The finished dendritic cells are given as small injections under the skin and the CIK cells as an intravenous drip, often over several sessions. A full course is commonly two to four cycles, spaced weeks apart.</p>"
+          },
+          {
+            "q": "What are the side effects of DC-CIK therapy?",
+            "a": "<p>Side effects are usually mild compared with chemotherapy. The most common are a low-grade fever, chills, fatigue and soreness at the injection site, typically lasting a day or two after each infusion. Because the cells come from your own body, rejection is not a concern. Serious reactions are uncommon but possible, so infusions are given where staff can monitor you and treat any reaction quickly.</p>"
+          },
+          {
+            "q": "Does DC-CIK therapy actually work?",
+            "a": "<p>The honest answer is that results are promising but not conclusive. Trials, mostly from China and Japan, report longer progression-free survival and better quality of life when DC-CIK is added to standard care in some cancers, particularly liver and lung. Many of these studies are small and not blinded. It is best thought of as a supportive add-on that may help, not a proven cure.</p>"
+          },
+          {
+            "q": "Where can I get DC-CIK therapy, and is it approved?",
+            "a": "<p>DC-CIK is offered mainly in China, Japan and a few other Asian centres, often within hospital cell therapy programmes or clinical trials. It is not an approved standard treatment in the United States or Europe, where access is generally limited to research studies. CancerFax can help you check which hospitals currently accept international patients, but your own oncologist should confirm whether travelling for it makes sense.</p>"
+          },
+          {
+            "q": "How much does DC-CIK treatment cost?",
+            "a": "<p>Costs in China commonly fall between 10,000 and 30,000 US dollars for a full course, depending on the hospital, the number of cycles and how the cells are prepared. Travel, accommodation, scans and supportive care are usually extra. Insurance rarely covers it because it is not a standard approved therapy in most countries. Ask for a written, itemised quote before you commit, as prices vary widely between centres.</p>"
+          },
+          {
+            "q": "Who is not suitable for DC-CIK therapy?",
+            "a": "<p>People with active autoimmune disease, uncontrolled infection, organ transplants on immunosuppressants, or very advanced disease with poor performance status are often excluded, because the treatment relies on a working immune system and several weeks of preparation time. Very low white cell counts can also make cell collection difficult. A centre will normally review your scans, blood work and treatment history before saying whether you may qualify.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

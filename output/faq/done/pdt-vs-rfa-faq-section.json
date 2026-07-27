@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT vs Radiofrequency Ablation (RFA) for Barrett's Oesophagus: How to Choose",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-vs-rfa",
+  "route": "/insights/pdt-vs-rfa",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between PDT and RFA for Barrett's oesophagus?",
+            "a": "<p>RFA burns away the abnormal lining with controlled heat, while PDT uses a light-sensitive drug plus laser light to destroy those cells. Both aim to remove Barrett's tissue so healthy lining grows back. RFA treats the surface very evenly and predictably; PDT reaches slightly deeper, which can help in selected cases but also raises the chance of side effects. Your endoscopist chooses based on how much abnormal tissue you have.</p>"
+          },
+          {
+            "q": "Which treatment is better for me, PDT or RFA?",
+            "a": "<p>For most people with Barrett's oesophagus and dysplasia, RFA is now the first choice because it clears the abnormal lining reliably with fewer strictures. PDT may still be considered when RFA is unavailable, when the abnormal area is nodular, or when earlier treatment has failed. The right answer depends on your biopsy grade, the length of the Barrett's segment, and your general health, so ask your gastroenterologist to compare both for your case.</p>"
+          },
+          {
+            "q": "Is RFA safer than PDT?",
+            "a": "<p>RFA generally has a milder side-effect profile than PDT. Narrowing of the oesophagus, called a stricture, happens in about 5 to 6 percent of RFA patients compared with around a third of people treated with older PDT protocols. RFA also avoids the weeks of skin light sensitivity that PDT causes. Both are day-case endoscopic procedures with a low risk of bleeding or perforation, and your own risk depends on your anatomy and prior treatments.</p>"
+          },
+          {
+            "q": "How long will I be sensitive to sunlight after PDT?",
+            "a": "<p>After photodynamic therapy with porfimer sodium, most people must avoid direct sunlight and bright indoor light for four to six weeks. The drug stays in your skin and eyes during that time, so even a short walk outdoors can cause a burn-like reaction. You will need long sleeves, gloves, and dark glasses. Newer photosensitisers clear faster, but your team will tell you exactly how long your own precautions must last.</p>"
+          },
+          {
+            "q": "How many sessions of RFA will I need?",
+            "a": "<p>Most people need two to four RFA sessions, spaced about two to three months apart, before the Barrett's lining is fully cleared. The first session usually treats the whole segment; later sessions target small patches that remain. Longer segments often need more rounds. PDT is typically given as one or two sessions but may leave buried glands behind. Your endoscopist will biopsy between sessions to decide when treatment can stop.</p>"
+          },
+          {
+            "q": "I have high-grade dysplasia. Do I still need surgery?",
+            "a": "<p>In many cases, no. Endoscopic treatment has largely replaced oesophagectomy for high-grade dysplasia confined to the lining. Visible nodules are usually removed first by endoscopic resection, then the remaining flat Barrett's is ablated with RFA or, less often, PDT. Surgery is still considered if the cancer has invaded deeper layers or if endoscopic treatment fails. A specialist centre should review your biopsies and staging before any decision is made.</p>"
+          },
+          {
+            "q": "Can Barrett's oesophagus come back after PDT or RFA?",
+            "a": "<p>Yes, it can return, so treatment is never the end of your care. Roughly one in five patients sees some Barrett's tissue reappear within a few years, which is why surveillance endoscopy continues after successful ablation. Most recurrences are small and can be treated again with RFA. Staying on acid-suppressing medication and keeping every follow-up appointment lowers the risk, though no approach removes it completely.</p>"
+          },
+          {
+            "q": "Is PDT or RFA available in India and China?",
+            "a": "<p>Both are available at larger cancer and gastroenterology centres in India and China, though RFA is far more widely offered than PDT. Availability varies by city and by hospital, and some units perform only a handful of cases each year, which matters because experience affects results. CancerFax can help you check which centres currently run these procedures and share the details with your own doctor before you travel.</p>"
+          },
+          {
+            "q": "How much does RFA or PDT cost?",
+            "a": "<p>Costs vary widely by country and hospital, and most patients need more than one session, so ask for a per-session quote rather than a single figure. In India, endoscopic ablation is often a fraction of European or American prices, but the total depends on how many sessions, biopsies, and follow-up endoscopies you need. Insurance cover differs by policy, so confirm what is included in writing before you commit.</p>"
+          },
+          {
+            "q": "What happens if the first treatment doesn't clear my Barrett's?",
+            "a": "<p>Incomplete clearance is common and usually manageable. Your team will repeat ablation on the remaining patches, and many people reach full clearance after additional sessions. If RFA repeatedly fails, options include cryotherapy, endoscopic resection of stubborn areas, or PDT. Persistent disease sometimes reflects poorly controlled acid reflux, so your medication may be adjusted first. Surgery is reserved for the small number of cases where endoscopic options are exhausted.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

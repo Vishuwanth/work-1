@@ -1,0 +1,59 @@
+{
+  "pillar": "What to Expect on TARE Treatment Day: A Patient's Hour-by-Hour Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-treatment-patient-experience",
+  "route": "/insights/tare-treatment-patient-experience",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long does the actual TARE procedure take?",
+            "a": "<p>The TARE procedure itself usually takes 30 to 90 minutes, but plan on spending most of the day at the hospital. Admission, blood tests, and preparation take a few hours beforehand, and recovery with pressure on the groin or wrist site adds four to six hours afterwards. Timings vary between centres and depend on your anatomy and how many liver segments are treated. Ask your interventional radiology team for your centre's schedule.</p>"
+          },
+          {
+            "q": "Will I be asleep during TARE, or awake?",
+            "a": "<p>Most patients stay awake during TARE under conscious sedation rather than general anaesthesia. You receive medication through a drip that makes you drowsy and relaxed, and local anaesthetic numbs the small puncture site in your groin or wrist. Many people remember little of the procedure. Your anaesthetic plan depends on your general health, anxiety levels, and the practice of the treating centre, and can be discussed at your pre-treatment visit.</p>"
+          },
+          {
+            "q": "Do I need to fast before TARE treatment day?",
+            "a": "<p>Yes, most centres ask you to stop eating solid food six to eight hours before TARE and clear fluids two hours before. Fasting is needed because you will receive sedation. You may be told to take some regular medicines with a sip of water and to hold others, particularly blood thinners and certain diabetes drugs. Follow the written instructions your team gives you, as protocols differ.</p>"
+          },
+          {
+            "q": "Does TARE hurt?",
+            "a": "<p>TARE is not usually painful during the procedure, because the liver has no pain nerves inside it and the catheter site is numbed. Some people feel warmth, pressure, or a dull ache in the upper abdomen as the beads are delivered. Afterwards, mild right-sided discomfort and a heavy, tired feeling are common for a few days. Tell your nurse early if pain builds, as it can usually be controlled.</p>"
+          },
+          {
+            "q": "Will I be radioactive after TARE? Is it safe to be around my family?",
+            "a": "<p>You are safe to be around family after TARE, including children, in almost all cases. The yttrium-90 beads stay lodged in the liver tumours and emit radiation that travels only a few millimetres in tissue, so very little leaves your body. Most centres advise simple precautions for a few days, such as flushing the toilet twice and sleeping alone. Your team will give you written discharge advice.</p>"
+          },
+          {
+            "q": "Will I have to stay in hospital overnight after TARE?",
+            "a": "<p>Many patients go home the same evening, four to six hours after TARE, though some centres keep you in for one night. Whether you stay depends on your liver function, how much sedation you needed, whether bleeding at the puncture site has settled, and how far you live from the hospital. Patients travelling from another country are often kept overnight as a precaution. CancerFax can help you check a centre's usual discharge policy.</p>"
+          },
+          {
+            "q": "Why do I need a mapping angiogram before my TARE treatment day?",
+            "a": "<p>The mapping angiogram is a rehearsal that makes your actual TARE day safe and accurate. Usually done one to two weeks earlier, it maps the arteries feeding your tumour, blocks any vessels that could carry beads to the stomach or bowel, and measures how much passes through to your lungs. Those results set your radiation dose. Occasionally the mapping shows TARE is not suitable, and your team will discuss other options.</p>"
+          },
+          {
+            "q": "How will I feel the day after TARE?",
+            "a": "<p>Expect to feel tired, mildly feverish, and off your food for a few days after TARE. This cluster is called post-embolisation syndrome and affects many patients, usually settling within one to two weeks. Nausea and a dull ache under the right ribs are common. Contact your team promptly if you develop a high fever, severe pain, vomiting, or yellowing of the eyes, as these need assessment.</p>"
+          },
+          {
+            "q": "When will I know whether TARE worked?",
+            "a": "<p>The first scan usually comes about four to twelve weeks after TARE, because the radiation keeps working for weeks after treatment day. Doctors look at tumour shrinkage, blood flow inside the tumour, and tumour marker levels such as AFP rather than size alone. A tumour that looks unchanged on an early scan may still have responded. Your oncologist will explain what your particular scan shows.</p>"
+          },
+          {
+            "q": "I am travelling abroad for TARE. How soon can I fly home?",
+            "a": "<p>Most teams advise waiting seven to ten days after TARE before a long-haul flight, so that any post-embolisation symptoms and puncture-site healing can be checked first. Many centres schedule a review visit before you leave. If you are planning treatment abroad, CancerFax can help you understand a centre's typical stay length, though your treating interventional radiologist makes the final call on when it is safe to travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

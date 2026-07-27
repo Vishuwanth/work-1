@@ -1,0 +1,59 @@
+{
+  "pillar": "SRS vs WBRT: Understanding the Neurocognitive Trade-Off",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "srs-vs-whole-brain-radiation",
+  "route": "/insights/srs-vs-whole-brain-radiation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between SRS and whole brain radiation?",
+            "a": "<p>SRS aims a few high doses of tightly focused radiation at each visible tumour, while whole brain radiation therapy (WBRT) treats the entire brain at a lower dose over one to three weeks. SRS spares healthy brain tissue, so memory and thinking are usually less affected. WBRT covers microscopic disease the scans cannot see, which can matter when there are many lesions. The right choice depends on lesion number, size and your overall health.</p>"
+          },
+          {
+            "q": "Will whole brain radiation affect my memory?",
+            "a": "<p>Whole brain radiation can cause measurable memory and thinking problems, most often noticed three to six months after treatment. Trials have shown declines in verbal recall and processing speed in a substantial share of patients, though severity varies widely. Fatigue and hair loss tend to come earlier. Many people still function well day to day. Your age, baseline memory and the cancer itself all affect how much change you may notice.</p>"
+          },
+          {
+            "q": "Is SRS better than whole brain radiation for brain metastases?",
+            "a": "<p>For a limited number of brain metastases, SRS generally preserves memory and thinking better than WBRT while controlling the treated tumours just as well. Randomised trials found more cognitive decline after WBRT without any survival benefit. WBRT may still be preferred for widespread disease, leptomeningeal spread, or small-cell lung cancer. Neither approach is automatically better for everyone, so the decision depends on your scans and your neuro-oncology team's judgement.</p>"
+          },
+          {
+            "q": "How many brain metastases can be treated with SRS?",
+            "a": "<p>Many centres now treat up to four to ten brain metastases with SRS, and some experienced teams go beyond that. Total tumour volume often matters more than the raw count. Larger lesions, or tumours pressing on critical structures, may need surgery or fractionated treatment instead. Practice varies between hospitals and countries, so the number your own team is comfortable treating may differ from what you read online.</p>"
+          },
+          {
+            "q": "Can memantine or hippocampal avoidance protect my memory during WBRT?",
+            "a": "<p>Memantine and hippocampal-avoidance WBRT can reduce, but not eliminate, memory loss. The NRG-CC001 trial showed less cognitive decline when the hippocampus was spared and memantine was given, compared with standard whole brain radiation. These techniques need advanced planning and are not offered everywhere. If WBRT is recommended for you, it is reasonable to ask whether hippocampal avoidance and memantine are available at your centre and suitable for your pattern of disease.</p>"
+          },
+          {
+            "q": "How long do the side effects of whole brain radiation last?",
+            "a": "<p>Fatigue, hair loss and scalp irritation usually build during whole brain radiation and ease over one to three months afterwards. Hair may regrow thinner, or not at all. Memory and concentration changes tend to appear later, from around three months onward, and can last much longer. Steroids given alongside treatment carry their own effects. Recovery patterns differ a great deal between people, so your oncologist's estimate matters more than published averages.</p>"
+          },
+          {
+            "q": "Will I still need whole brain radiation after SRS?",
+            "a": "<p>Not always. Current practice often uses SRS alone and then watches closely with regular MRI scans, giving further SRS if new lesions appear. Adding WBRT after SRS lowers the chance of new brain tumours but has not improved survival, and it worsened cognition in trials. WBRT is usually reserved for many new lesions, leptomeningeal disease, or when repeat SRS is no longer practical. Your follow-up scan schedule becomes the key safeguard.</p>"
+          },
+          {
+            "q": "Can I get SRS in India or China, and what does it cost?",
+            "a": "<p>Gamma Knife, CyberKnife and linac-based SRS are all available at major cancer centres in India and China, often at a fraction of Western prices. Reported costs commonly range from roughly 3,000 to 8,000 US dollars per SRS course, with imaging, hospital stay and any surgery charged separately. Quotes depend on lesion number and the technology used. CancerFax can help you compare centres, though treatment decisions should stay with your oncology team.</p>"
+          },
+          {
+            "q": "What is radiation necrosis after SRS?",
+            "a": "<p>Radiation necrosis is scarred, inflamed tissue that can develop at a treated site months to years after SRS, affecting roughly 5 to 25 percent of treated lesions in reported series. It can resemble tumour regrowth on MRI, so advanced imaging or a biopsy is sometimes needed to tell them apart. Many cases cause no symptoms. When they do, steroids, bevacizumab or surgery may help. Risk rises with larger lesions and repeat treatment.</p>"
+          },
+          {
+            "q": "How do I decide between SRS and WBRT with my doctor?",
+            "a": "<p>Ask your team four things: how many lesions are visible, how large the biggest one is, what your primary cancer type is, and what your expected function and survival look like. Those answers usually point clearly toward SRS, WBRT, or a combination of both. Seeking a neuro-oncology or radiation oncology second opinion is reasonable. CancerFax can help arrange one, though your treating oncologists remain the people who make the decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

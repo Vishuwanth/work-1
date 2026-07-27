@@ -1,0 +1,59 @@
+{
+  "pillar": "Kymriah in India Through Immuneel: Who Should Choose It Over NexCAR19?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "kymriah-india-immuneel",
+  "route": "/insights/kymriah-india-immuneel",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is Kymriah actually available in India, or do I still have to fly abroad?",
+            "a": "<p>Kymriah (tisagenlecleucel), the Novartis CD19 CAR-T therapy, can in many cases be accessed within India through Immuneel Therapeutics in Bengaluru, so families may avoid travelling to the United States or Europe. Immuneel runs a cell therapy facility and works with partner hospitals to deliver approved CAR-T products.</p><p>Access depends on current supply agreements, manufacturing slots and regulatory clearances, so confirm live availability with the centre before booking travel.</p>"
+          },
+          {
+            "q": "What is the real difference between Kymriah and NexCAR19?",
+            "a": "<p>Both are CD19-directed CAR-T therapies, but Kymriah is a globally approved product with over a decade of trial and real-world follow-up, while NexCAR19 (actalycabtagene autoleucel) is India's own CAR-T from ImmunoACT, approved by the CDSCO in 2023.</p><p>Kymriah offers depth of long-term international evidence. NexCAR19 offers lower cost and Indian manufacturing capacity. Your haematologist will weigh which profile fits your disease.</p>"
+          },
+          {
+            "q": "Who should choose Kymriah over NexCAR19?",
+            "a": "<p>Kymriah may be the stronger choice for children and young adults up to 25 with relapsed or refractory B-cell acute lymphoblastic leukaemia, because that group has the most mature long-term Kymriah data anywhere in the world. It may also suit families who specifically want a product with years of international follow-up. Eligibility still depends on disease burden, organ function and prior treatments, and only your treating team can confirm it.</p>"
+          },
+          {
+            "q": "How much does Kymriah cost in India compared with NexCAR19?",
+            "a": "<p>Kymriah in India is expected to cost well below its roughly 475,000-dollar international list price, but it generally remains more expensive than NexCAR19, which has been quoted in the range of 30 to 42 lakh rupees.</p><p>Either figure covers only the cell product. Bridging chemotherapy, hospital stay, ICU cover and complication management add to it, so ask for a written package estimate.</p>"
+          },
+          {
+            "q": "Can adults get Kymriah, or is it only approved for children?",
+            "a": "<p>Adults can receive Kymriah. Internationally it is approved for relapsed or refractory B-cell acute lymphoblastic leukaemia in patients up to 25, and for adults with relapsed or refractory diffuse large B-cell lymphoma and follicular lymphoma. NexCAR19 is approved in India for B-cell lymphoma and leukaemia in patients aged 15 and above. Which label applies to you in India depends on the approvals in force when you are treated.</p>"
+          },
+          {
+            "q": "Does NexCAR19 work as well as Kymriah?",
+            "a": "<p>Published response rates for the two therapies are broadly in the same range, though they come from different trials in different populations and cannot be compared directly. Kymriah reported around 80 percent remission at three months in paediatric leukaemia and roughly half of lymphoma patients responding, while NexCAR19 reported overall responses near 70 percent. A cross-trial comparison can mislead, so ask your oncologist what the numbers mean for your specific disease.</p>"
+          },
+          {
+            "q": "How long does the whole CAR-T process take from cell collection to infusion?",
+            "a": "<p>Expect roughly three to six weeks from leukapheresis to infusion, plus two to four weeks of monitoring afterwards. Cells are collected, sent for engineering, expanded and quality-tested, and you may receive bridging chemotherapy during the wait. Manufacturing inside India can shorten turnaround compared with shipping cells overseas. Timelines often slip when cell yield or quality checks require a repeat collection, so plan for delay.</p>"
+          },
+          {
+            "q": "Which one has fewer side effects?",
+            "a": "<p>NexCAR19 trials reported lower rates of severe cytokine release syndrome and neurotoxicity than earlier global CAR-T products, which is one reason Indian centres cite it. Kymriah carries a well-documented risk of both, manageable with tocilizumab, steroids and intensive care.</p><p>Both therapies can also cause prolonged low blood counts and infection risk. Any comparison of safety depends heavily on how sick you are at infusion.</p>"
+          },
+          {
+            "q": "I live outside India. Can I come to Bengaluru for Kymriah?",
+            "a": "<p>International patients are treated in India regularly, and CAR-T is offered to overseas families at select centres. You will need a medical visa, a companion, an attendant caregiver and typically two to three months in country for treatment and monitoring. Organisations such as CancerFax can help you assemble records and reach the right unit, but acceptance always rests with the treating oncology team after reviewing your reports.</p>"
+          },
+          {
+            "q": "What are my options if I am not eligible for either therapy?",
+            "a": "<p>You may still have real options, including bispecific antibodies such as blinatumomab, antibody-drug conjugates, allogeneic stem cell transplant, or a clinical trial of a newer CAR-T construct. Ineligibility for one CAR-T product does not always mean ineligibility for another.</p><p>A second opinion is worth seeking, and CancerFax can help route your records for review, though the decision remains with your haematologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

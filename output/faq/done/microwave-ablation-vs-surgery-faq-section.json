@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation vs Surgery: When Ablation Is the Right Choice",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-vs-surgery",
+  "route": "/insights/microwave-ablation-vs-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is microwave ablation as effective as surgery for my tumour?",
+            "a": "<p>For small tumours, microwave ablation can match surgery on survival, but only in carefully selected patients. In liver cancers under about 3 cm, studies often show similar five-year outcomes with far less recovery time. For larger tumours, or those sitting close to major blood vessels, surgery usually still removes the disease more completely. Your surgeon and interventional radiologist will weigh tumour size, position and your general fitness before deciding.</p>"
+          },
+          {
+            "q": "When is ablation the right choice instead of surgery?",
+            "a": "<p>Ablation is often the better choice when the tumour is small, few in number and reachable with a needle, or when surgery carries too much risk. Patients with cirrhosis, poor lung function, heart disease or previous major operations frequently fall into this group. It may also suit someone who needs treatment quickly and cannot spend weeks recovering. Eligibility depends on your imaging and a multidisciplinary review.</p>"
+          },
+          {
+            "q": "How large can a tumour be for microwave ablation to work?",
+            "a": "<p>Microwave ablation works best on tumours up to about 3 cm, and can sometimes treat lesions up to 5 cm using overlapping probe placements. Above that size, the chance of leaving live tumour cells at the edge rises sharply, so surgery or combined treatment may be advised instead. Position matters as much as size: a 2 cm tumour beside the bile duct or bowel may still be unsuitable.</p>"
+          },
+          {
+            "q": "How long is recovery compared with open surgery?",
+            "a": "<p>Most people go home within 24 to 48 hours after microwave ablation, compared with five to ten days after open surgery. The needle passes through the skin, so there is no large wound and usually no intensive care stay. Many patients return to normal activity within a week. Recovery still varies with liver or lung function, age, and whether other treatments are given at the same time.</p>"
+          },
+          {
+            "q": "What does microwave ablation cost compared with surgery?",
+            "a": "<p>Microwave ablation is generally far cheaper than major cancer surgery, and prices in India and China are often a fraction of Western costs. A single session usually covers the procedure, imaging guidance and a short hospital stay, though quotes vary by hospital, by how many tumours are treated, and by whether repeat sessions are needed. CancerFax can help you compare written estimates from accredited centres before you travel.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of microwave ablation?",
+            "a": "<p>Serious complications are uncommon, affecting roughly two to five percent of patients. The usual problems are pain at the needle site, fever for a day or two, and a temporary rise in liver enzymes. Rarer risks include bleeding, infection, injury to the bile duct or bowel, and a collapsed lung when chest tumours are treated. Your team will explain the risks specific to your tumour's position.</p>"
+          },
+          {
+            "q": "Can the tumour come back after ablation?",
+            "a": "<p>Tumours can return after microwave ablation, most often at the treated edge or elsewhere in the same organ. Local recurrence rates are low for small, well-placed lesions but rise with larger or awkwardly positioned tumours. This is why follow-up scans every three to six months matter so much. If the disease does come back, ablation can often be repeated, or surgery and other treatments may then be considered.</p>"
+          },
+          {
+            "q": "How is microwave ablation different from radiofrequency ablation?",
+            "a": "<p>Microwave ablation heats tissue faster and to higher temperatures than radiofrequency ablation, so it usually destroys a larger area in less time. It is also less affected by nearby blood vessels, which can carry heat away and leave live tumour cells behind during radiofrequency treatment. Radiofrequency remains a reliable option and is more widely available. The choice often comes down to tumour position and what your hospital offers.</p>"
+          },
+          {
+            "q": "If ablation does not work, can I still have surgery later?",
+            "a": "<p>Surgery usually remains possible after microwave ablation, and this is one reason ablation is often tried first in borderline cases. The treated area becomes scar tissue, which surgeons can still remove if disease returns or the ablation proves incomplete. Ablation does not close off options the way extensive surgery sometimes can. Whether an operation is safe later depends on your liver reserve, remaining disease and overall fitness.</p>"
+          },
+          {
+            "q": "Should I get a second opinion before choosing between the two?",
+            "a": "<p>A second opinion is worth seeking whenever surgery and ablation are both on the table, because the recommendation can depend on which specialist you see first. An interventional radiologist and a surgical oncologist may read the same scan differently. Ask for a multidisciplinary tumour board review, where both views are heard together. CancerFax can help send your imaging and reports to such teams in India or China.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

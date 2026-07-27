@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU for Liver Cancer: HCC and Liver Metastases",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-liver-cancer-hcc-metastases",
+  "route": "/insights/hifu-liver-cancer-hcc-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can HIFU treat liver cancer without any surgery or cuts?",
+            "a": "<p>Yes. High-intensity focused ultrasound destroys liver tumours with sound waves aimed through the skin, so no incision, needle or radiation is involved. The beam heats a small target to around 60–90°C and kills that tissue in seconds, while the tissue it passes through stays largely unharmed. It is used mainly for hepatocellular carcinoma and some liver metastases. Whether HIFU suits your tumour depends on its size, position and how clearly it shows on imaging.</p>"
+          },
+          {
+            "q": "Am I eligible for HIFU if my liver tumour is large?",
+            "a": "<p>HIFU works best for tumours under about 5 cm that sit where the ultrasound beam can reach them. Larger tumours can sometimes be treated in overlapping sessions, but the chance of leaving live tumour behind rises with size. Cirrhosis, clotting problems and poor liver function also affect suitability. Only your treating team, after reviewing your scans and liver tests, can confirm whether you may be a candidate.</p>"
+          },
+          {
+            "q": "How is HIFU different from RFA or microwave ablation?",
+            "a": "<p>The main difference is that HIFU needs no needle. RFA and microwave ablation heat the tumour through a probe pushed into the liver, while HIFU focuses sound waves from outside the body. That removes the risk of bleeding and of tumour cells seeding along the needle track. RFA is better studied and often more precise for small deep tumours, so many centres still choose it first. The right option depends on tumour position and the team's experience.</p>"
+          },
+          {
+            "q": "Does HIFU work for liver metastases from other cancers?",
+            "a": "<p>Yes. HIFU can be used on liver metastases, most often from bowel, breast or stomach cancer, when there are only a few deposits and the rest of the disease is controlled. It is usually added to chemotherapy or targeted therapy rather than replacing them, and aims to destroy visible tumours or ease pain. Benefit varies widely between patients, so your oncologist will weigh it against surgery and other local treatments.</p>"
+          },
+          {
+            "q": "Can HIFU cure my liver cancer?",
+            "a": "<p>HIFU can completely destroy some small hepatocellular carcinomas, and those patients may stay free of that tumour for years, but it is not a general cure for liver cancer. Published series report complete ablation in roughly 60–90% of carefully selected small tumours, with new tumours still appearing elsewhere in a damaged liver. Regular scans afterwards are essential. Results depend heavily on tumour size, liver function and how experienced the centre is.</p>"
+          },
+          {
+            "q": "What are the side effects of HIFU on the liver?",
+            "a": "<p>Most side effects are mild and short-lived: skin redness or a small burn where the beam entered, pain over the ribs, low-grade fever and tiredness for a few days. Less often the treatment can injure the diaphragm, bile ducts, bowel or a rib, or cause fluid around the lung. Serious complications are uncommon in experienced hands. Your team should explain the specific risks for your tumour's position before you agree.</p>"
+          },
+          {
+            "q": "How long does HIFU take and will I need to stay in hospital?",
+            "a": "<p>A HIFU session usually takes one to three hours, depending on tumour size, and is given under sedation or general anaesthesia so you stay completely still. Many centres keep patients in for one or two nights to watch for pain and fever, though some treat it as a day case. Most people return to normal activity within a week. Recovery is generally quicker than after open liver surgery.</p>"
+          },
+          {
+            "q": "How much does HIFU for liver cancer cost in India or China?",
+            "a": "<p>HIFU for liver cancer usually costs about US$4,000 to US$9,000 per session in India and China, often far less than in Europe or the United States. The final figure depends on the number of tumours, anaesthesia, hospital stay and the scans needed before and after, and travel and accommodation add to it. CancerFax can help you request written quotes from treating hospitals, though only their doctors can confirm eligibility and final pricing.</p>"
+          },
+          {
+            "q": "Can HIFU be combined with TACE, chemotherapy or immunotherapy?",
+            "a": "<p>Yes. HIFU is often combined with other treatments rather than used alone. Many centres give transarterial chemoembolisation first to shrink the tumour and cut its blood supply, then use HIFU on what remains. It is also used alongside systemic drugs, including targeted therapy and immunotherapy, in advanced disease. Some evidence suggests the tissue destruction may stimulate an immune response, but this is not proven. Your oncologist decides the order and timing.</p>"
+          },
+          {
+            "q": "My tumour is behind the ribs and moves when I breathe. Can it still be treated?",
+            "a": "<p>Often yes, but this is the hardest part of liver HIFU. Ribs block and scatter the ultrasound beam, and the liver moves several centimetres with every breath. Centres manage this by treating under general anaesthesia with controlled breathing, by angling the beam between the ribs, or sometimes by injecting fluid to create a window. Tumours sitting high under the diaphragm or close to the bowel may still be judged unsuitable.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

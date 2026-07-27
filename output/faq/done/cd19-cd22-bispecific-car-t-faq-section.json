@@ -1,0 +1,59 @@
+{
+  "pillar": "CD19/CD22 Bispecific CAR-T: What Patients Need to Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cd19-cd22-bispecific-car-t",
+  "route": "/insights/cd19-cd22-bispecific-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CD19/CD22 bispecific CAR-T therapy?",
+            "a": "<p>CD19/CD22 bispecific CAR-T is a cell therapy engineered to recognise two targets on cancer cells at once instead of one. Your own T cells are collected, modified in a lab to carry receptors for both the CD19 and CD22 proteins, then infused back. Because most B-cell leukaemias and lymphomas carry both markers, hitting two targets can make it harder for the cancer to hide than with a single-target therapy.</p>"
+          },
+          {
+            "q": "Why would my doctor suggest a dual-target CAR-T instead of a standard CD19 CAR-T?",
+            "a": "<p>The main reason is antigen escape, where cancer cells survive a CD19-only CAR-T by losing the CD19 marker. Roughly a third of relapses after CD19 CAR-T happen this way. A therapy that also recognises CD22 gives the modified cells a second way to find the disease. Whether this is right for you depends on your diagnosis, prior treatments, and what your biopsy shows about both markers.</p>"
+          },
+          {
+            "q": "Can this work if I have already relapsed after CD19 CAR-T?",
+            "a": "<p>In many cases yes, and this is one of the settings where dual-target CAR-T is being studied most closely. Early trial results in children and adults with relapsed B-cell acute lymphoblastic leukaemia have shown remission rates above 90 percent in some studies, though follow-up is still short. Eligibility depends on whether your disease still expresses CD22, your organ function, and how fit you are for the conditioning chemotherapy.</p>"
+          },
+          {
+            "q": "Is CD19/CD22 bispecific CAR-T approved, or is it only available in clinical trials?",
+            "a": "<p>No bispecific CD19/CD22 CAR-T product has full regulatory approval anywhere yet, so access is almost always through a clinical trial or a hospital's investigational programme. Single-target CD19 and BCMA products are approved in the United States, Europe, India and China; the dual-target versions are a step behind. Trial slots are limited and enrolment is never guaranteed, so ask your oncologist to check open studies early.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>The two side effects that matter most are cytokine release syndrome and neurological toxicity, usually appearing in the first two weeks after infusion. Cytokine release syndrome brings fever, low blood pressure and breathlessness; neurotoxicity can cause confusion or trouble speaking. Both are managed with drugs such as tocilizumab and steroids and are reversible in most patients. You will also have low blood counts and a raised infection risk for weeks.</p>"
+          },
+          {
+            "q": "How long does the whole treatment take from start to finish?",
+            "a": "<p>Plan for roughly two to three months. Cell collection takes a day, manufacturing usually runs two to four weeks, and you receive three days of lymphodepleting chemotherapy before the infusion. Most centres keep you in hospital or close by for two to four weeks afterwards for monitoring. If you are travelling to India or China for treatment, teams often ask families to stay near the hospital for about three months in total.</p>"
+          },
+          {
+            "q": "Who is eligible for this therapy?",
+            "a": "<p>Most trials look for patients with B-cell acute lymphoblastic leukaemia or B-cell lymphoma that has come back or stopped responding after at least two earlier lines of treatment. Your tumour usually needs to express CD19, CD22 or both, and your heart, lung, liver and kidney function must be good enough to tolerate the process. Age limits vary by study, and each centre makes its own final decision.</p>"
+          },
+          {
+            "q": "What does CD19/CD22 bispecific CAR-T cost in India or China?",
+            "a": "<p>Costs vary widely, and trial participation can reduce or remove the cell therapy charge altogether. Outside trials, CAR-T in India has been priced at roughly 30 to 45 lakh rupees, and in China at roughly 350,000 to 1,000,000 RMB, before hospital stay, travel and complication care. CancerFax can help you request written quotes from centres running these programmes, though final pricing always comes from the treating hospital.</p>"
+          },
+          {
+            "q": "How well does it work compared with single-target CAR-T?",
+            "a": "<p>Early studies suggest similar initial remission rates but fewer relapses caused by loss of the CD19 marker. In several phase 1 and phase 2 trials of relapsed B-cell leukaemia, complete remission was reported in 80 to 99 percent of patients, with a meaningful share still in remission at one year. These are small studies without direct head-to-head comparison, so the advantage over CD19-only therapy is promising rather than proven.</p>"
+          },
+          {
+            "q": "What happens if the therapy does not work?",
+            "a": "<p>You still have options, and your team will usually plan the next step before the infusion. If the disease returns, common routes include a stem cell transplant, a bispecific antibody such as blinatumomab, an antibody-drug conjugate, or a different trial targeting another marker. A repeat CAR-T infusion is sometimes possible. Which of these suits you depends on how the cancer behaved and how well you recovered.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

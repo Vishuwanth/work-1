@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE Patient Selection: BCLC Staging and Child-Pugh Score Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-patient-selection",
+  "route": "/insights/tace-patient-selection",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Who is a good candidate for TACE?",
+            "a": "<p>TACE is generally offered to people whose liver cancer is confined to the liver, with preserved liver function and no spread outside it. The classic candidate is BCLC stage B: several tumours, Child-Pugh A or early B liver function, and near-normal daily activity. Doctors also weigh tumour size, number, and blood vessel involvement. Eligibility is decided case by case, so your hepatology team may reach a different conclusion.</p>"
+          },
+          {
+            "q": "What is BCLC staging and why do doctors use it for liver cancer?",
+            "a": "<p>BCLC staging sorts liver cancer into five stages, 0 through D, using tumour size and number, liver function, and how well you can carry out daily activities. Unlike staging systems that count only tumour spread, BCLC ties each stage to a recommended treatment. TACE is the standard recommendation for stage B, also called intermediate stage. Your stage can shift if liver function or tumour burden changes, so it is reassessed over time.</p>"
+          },
+          {
+            "q": "What does my Child-Pugh score actually measure?",
+            "a": "<p>The Child-Pugh score measures how well your liver still works, using five things: bilirubin, albumin, blood clotting time, fluid in the abdomen, and confusion caused by liver failure. Scores fall into class A (5 to 6 points), B (7 to 9), or C (10 to 15). Class A means good reserve and usually allows TACE. Class C means the liver may not survive the procedure. Your hepatologist reads the score alongside your scans.</p>"
+          },
+          {
+            "q": "Can I still have TACE if my Child-Pugh score is class C?",
+            "a": "<p>Child-Pugh C usually rules out TACE, because the procedure deliberately blocks blood flow to part of the liver and a severely damaged liver often cannot recover from that stress. The risk of liver failure, jaundice, and fluid build-up rises sharply. Teams in this situation often look at supportive care, treatment of the underlying cirrhosis, or transplant assessment. Some carefully selected Child-Pugh B patients may still be offered TACE, depending on their exact score.</p>"
+          },
+          {
+            "q": "Does a blood clot from the tumour in my portal vein mean I cannot have TACE?",
+            "a": "<p>Tumour invading the main portal vein normally rules out standard TACE, because that vein supplies most of the liver's blood and blocking the artery on top of it can cause liver failure. Invasion limited to a small branch may still be treatable in experienced centres, sometimes with selective or drug-eluting bead techniques. This depends on your scans and liver reserve, so ask your interventional radiologist what your imaging actually shows.</p>"
+          },
+          {
+            "q": "I am BCLC stage A but cannot have surgery. Is TACE an option?",
+            "a": "<p>Yes, TACE is often used for BCLC stage A patients who cannot have surgery or ablation. Reasons include tumour position near large vessels, poor lung or heart fitness, or too little healthy liver left to remove a section safely. In these cases TACE can control the tumour and sometimes keep people eligible for transplant. Whether it suits you depends on tumour location, size, liver function, and your centre's experience.</p>"
+          },
+          {
+            "q": "How many tumours or how much tumour is too much for TACE?",
+            "a": "<p>There is no fixed cut-off, but TACE works best when tumours sit in one part of the liver and the total tumour burden is limited. Many teams hesitate when tumours fill more than about half the liver, because treating that much tissue risks liver failure. Some centres treat large burdens in stages, one lobe at a time. Your team weighs tumour load against how much healthy liver remains.</p>"
+          },
+          {
+            "q": "What tests will I need before doctors decide if TACE is safe for me?",
+            "a": "<p>Before TACE you will usually have a triple-phase CT or MRI of the liver, blood tests for bilirubin, albumin, clotting, platelets and kidney function, an AFP tumour marker, and a check for hepatitis B or C. Doctors also assess your performance status and look for spread outside the liver. Results that fall outside safe limits may delay the procedure until your liver function is improved, rather than rule it out permanently.</p>"
+          },
+          {
+            "q": "How does my general fitness affect whether I can have TACE?",
+            "a": "<p>Performance status describes how much your illness limits daily life, scored 0 for fully active up to 4 for completely bedbound. TACE is normally offered at 0 and sometimes 1, because the procedure causes fever, pain and fatigue for several days and a frail body copes poorly. A score of 2 or worse usually points toward systemic therapy or supportive care instead. Scores can improve when symptoms are better controlled.</p>"
+          },
+          {
+            "q": "What are my options if I am told I am not eligible for TACE?",
+            "a": "<p>If TACE is not suitable, other options remain, including systemic immunotherapy and targeted drugs, radioembolisation, ablation, radiotherapy, transplant assessment, or a clinical trial. The right alternative depends on why TACE was ruled out: poor liver function, vessel invasion, or spread outside the liver each point in different directions. CancerFax can help you gather scans and reports for a second opinion, though your treating oncology team makes the final call.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

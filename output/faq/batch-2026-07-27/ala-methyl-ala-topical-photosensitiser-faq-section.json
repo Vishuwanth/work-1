@@ -1,0 +1,59 @@
+{
+  "pillar": "ALA and Methyl-ALA (MAL): Topical Photosensitisers for Skin Cancer PDT",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "ala-methyl-ala-topical-photosensitiser",
+  "route": "/insights/ala-methyl-ala-topical-photosensitiser",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are ALA and MAL, and what do they actually do to my skin cancer?",
+            "a": "<p>ALA and MAL are creams that make abnormal skin cells sensitive to light, so a special lamp can destroy them. Both are converted inside the cell into protoporphyrin IX, a compound that reacts when illuminated and kills that cell. Healthy skin absorbs far less, which is why photodynamic therapy can clear surface lesions while leaving the surrounding tissue largely intact. Treatment is usually done in a dermatology clinic.</p>"
+          },
+          {
+            "q": "What is the difference between ALA and MAL cream?",
+            "a": "<p>MAL is a modified version of ALA with a methyl group added, which helps it spread more evenly and gather more selectively in abnormal cells. In practice, MAL often needs a shorter application time and may cause slightly less stinging, while ALA is cheaper and more widely stocked. Your dermatologist chooses based on the lesion type, thickness and site, and on which product is licensed locally.</p>"
+          },
+          {
+            "q": "Which skin problems can be treated with ALA or MAL photodynamic therapy?",
+            "a": "<p>Topical PDT is mainly used for actinic keratoses, Bowen's disease and superficial basal cell carcinoma, which all sit in the upper layers of the skin. Thicker or nodular tumours, and melanoma, are generally not suitable, because neither the cream nor the light reaches deep enough. Your dermatologist may take a biopsy first to confirm the diagnosis and how deep the lesion goes before recommending PDT.</p>"
+          },
+          {
+            "q": "How long does the cream stay on before they shine the light?",
+            "a": "<p>Most protocols leave the cream on for about three hours under a light-proof dressing before the lamp is switched on. ALA is sometimes left longer, and some clinics use a shorter incubation on the face, where absorption tends to be faster. Daylight PDT, often used for widespread actinic keratosis, needs only about 30 minutes before you sit outdoors for two hours. Your clinic will confirm the exact timing.</p>"
+          },
+          {
+            "q": "Is photodynamic therapy painful?",
+            "a": "<p>Most people do feel burning, stinging or heat during the light exposure, usually strongest in the first few minutes. How much it hurts depends on the area treated, the size of the field and the lamp used, with the scalp and face often the most uncomfortable. Clinics can cool the skin with a fan or water spray, pause the light, or use local anaesthetic. Daylight PDT is usually far gentler.</p>"
+          },
+          {
+            "q": "How many PDT sessions will I need?",
+            "a": "<p>Superficial basal cell carcinoma and Bowen's disease usually need two sessions about a week apart, while actinic keratoses often settle after one, with a second if the skin is still rough. Your dermatologist normally reviews the area around three months later and may repeat treatment for anything that has not cleared. The number of sessions can change depending on lesion thickness, site and how your skin responds.</p>"
+          },
+          {
+            "q": "Will PDT leave a scar or change my skin colour?",
+            "a": "<p>Photodynamic therapy usually heals with a better cosmetic result than surgery, because it targets abnormal cells without cutting the skin. Expect redness, swelling, crusting and peeling for one to two weeks, after which the area often looks close to normal. Temporary lightening or darkening of the treated patch can happen, especially in darker skin tones, and usually fades over several months. Permanent scarring is uncommon but not impossible.</p>"
+          },
+          {
+            "q": "Is PDT as good as surgery for my skin cancer?",
+            "a": "<p>For thin, surface-level lesions, PDT clears a high proportion of cases, but surgery still gives higher long-term cure rates for basal cell carcinoma. Reported clearance for superficial BCC is often around 80 to 90 percent at one year, with more recurrences over five years than after excision. PDT is often preferred when lesions are numerous, broad, or on cosmetically sensitive areas such as the face and lower legs.</p>"
+          },
+          {
+            "q": "What do I need to avoid after the cream is put on?",
+            "a": "<p>Keep the treated area covered and away from sunlight and bright indoor light until the light session, and for roughly 48 hours afterwards. Your skin stays photosensitive during that window, so unprotected exposure can trigger a strong burning reaction. Use a wide-brimmed hat, clothing and shade rather than relying on sunscreen alone. Your clinic will tell you when it is safe to go back to normal sun exposure.</p>"
+          },
+          {
+            "q": "Can I get ALA or MAL photodynamic therapy in India or China?",
+            "a": "<p>Yes, topical PDT is offered at larger dermatology and oncology centres in both India and China, although the licensed product and lamp technology vary by hospital. Costs are often much lower than in Western countries, and treatment is usually outpatient across one or two visits. CancerFax can help you identify centres that provide PDT and share your records for review, with the treating dermatology team confirming whether you are suitable.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Enzalutamide vs Abiraterone vs Darolutamide: Comparing Next-Generation Prostate Cancer Hormonal Therapies",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "enzalutamide-vs-abiraterone-vs-darolutamide",
+  "route": "/insights/enzalutamide-vs-abiraterone-vs-darolutamide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the actual difference between enzalutamide, abiraterone and darolutamide?",
+            "a": "<p>Abiraterone stops your body from making testosterone, while enzalutamide and darolutamide block testosterone from reaching the cancer cell. All three are tablets taken alongside ongoing hormone injections. Abiraterone needs a daily steroid with it; the other two do not. Darolutamide has a chemical structure that limits how much of it reaches the brain, which is why it tends to cause fewer problems with tiredness and balance.</p>"
+          },
+          {
+            "q": "Which one is best for me?",
+            "a": "<p>The best choice usually depends on your disease stage, your other health problems, and which side effects would affect your daily life most. Darolutamide is often preferred for men with memory concerns, seizure risk or a history of falls. Abiraterone may suit men who need a lower-cost option, since generics are widely available. Your oncologist will weigh these against your heart, liver and blood pressure history before deciding.</p>"
+          },
+          {
+            "q": "Does one of them help you live longer than the others?",
+            "a": "<p>No trial has compared all three head to head, so none has been proven better than the others for survival. Each has shown a real survival benefit against placebo in its own studies, and the size of that benefit looks broadly similar. Because those trials enrolled different men at different disease stages, comparing across them can mislead. Doctors often weigh side effects and cost more heavily than small efficacy differences.</p>"
+          },
+          {
+            "q": "Which one has the fewest side effects?",
+            "a": "<p>Darolutamide generally caused the fewest side effects of the three in clinical trials. Its rates of fatigue, falls and fractures were close to placebo, and seizures were rare. Enzalutamide more often causes tiredness, dizziness and falls. Abiraterone can raise blood pressure, lower potassium and stress the liver, so it needs regular blood tests and a daily steroid. Individual experience varies, and any of the three can still cause problems.</p>"
+          },
+          {
+            "q": "Do I still need my hormone injections while taking these tablets?",
+            "a": "<p>Yes. All three drugs are designed to be taken alongside ongoing androgen deprivation therapy, not instead of it. Your injections or implants keep testosterone low, and these tablets block whatever testosterone remains. Stopping the injections can let hormone levels climb again and undo the benefit. The one exception is men who have had surgical removal of the testicles, which keeps testosterone permanently low without injections.</p>"
+          },
+          {
+            "q": "Why does abiraterone have to be taken with a steroid?",
+            "a": "<p>Abiraterone blocks an enzyme your adrenal glands also use to make cortisol, so a low-dose steroid replaces what your body stops producing. Without it, you can develop high blood pressure, swelling in the legs and low potassium. Prednisone 5 mg once or twice daily is the usual dose. Enzalutamide and darolutamide act further down the pathway and do not disturb cortisol, so they need no steroid.</p>"
+          },
+          {
+            "q": "How much do they cost, and are generic versions available?",
+            "a": "<p>Abiraterone is by far the cheapest, because generic versions are widely available in India at a fraction of the branded price. Enzalutamide now has generics in some markets, while darolutamide is generally still branded and the most expensive of the three. Prices change often and depend on dose and pharmacy. CancerFax can help you check current pricing and supply in India, though your treating oncologist decides which drug fits you.</p>"
+          },
+          {
+            "q": "If one stops working, can I switch to another?",
+            "a": "<p>Switching is possible, but the benefit is often limited. Enzalutamide and darolutamide work the same way, so cancer that has escaped one frequently resists the other. Moving between abiraterone and enzalutamide can help some men, though the response is usually shorter than with the first drug. After progression, doctors often consider chemotherapy, lutetium-177 PSMA therapy, or a PARP inhibitor if you carry a matching gene mutation.</p>"
+          },
+          {
+            "q": "Are there food or medicine restrictions with these drugs?",
+            "a": "<p>Yes, and the rules differ by drug. Abiraterone must be taken on an empty stomach, with no food for two hours before and one hour after, because food sharply raises how much is absorbed. Darolutamide is the opposite and should be taken with food. Enzalutamide can be taken either way. All three interact with common medicines, including some blood thinners and epilepsy drugs, so share your full medicine list.</p>"
+          },
+          {
+            "q": "Can I get these drugs if I travel to India or China for treatment?",
+            "a": "<p>In many cases yes, though it depends on your home country's import rules and on holding a valid prescription. Indian hospitals routinely prescribe all three, and generic abiraterone and enzalutamide are widely stocked there. Some patients arrange a supply during treatment and continue it at home, which may need documentation. CancerFax can help arrange hospital appointments and clarify what a centre stocks, but your oncology team decides the prescription.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

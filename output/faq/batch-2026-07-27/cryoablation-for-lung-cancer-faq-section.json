@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation for Lung Cancer and Pulmonary Lesions",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-for-lung-cancer",
+  "route": "/insights/cryoablation-for-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoablation for lung cancer?",
+            "a": "<p>Cryoablation freezes a lung tumour to death using a thin needle passed through the chest wall under CT guidance. Argon gas cools the needle tip to around minus 140 degrees Celsius, forming an ice ball that destroys the tumour cells inside it. The dead tissue is slowly absorbed by the body over several months. Because no lung is cut away, breathing capacity is largely preserved.</p>"
+          },
+          {
+            "q": "Am I eligible for cryoablation instead of lung surgery?",
+            "a": "<p>Cryoablation is usually offered when surgery is too risky — poor lung function, heart disease, advanced age, or a patient who declines an operation. It works best for tumours under about 3 cm sitting away from large airways and major blood vessels. Whether you qualify depends on lesion number, position, and overall fitness. CancerFax can arrange for your recent scans to be reviewed by a thoracic team.</p>"
+          },
+          {
+            "q": "Does cryoablation hurt, and will I be asleep?",
+            "a": "<p>Most lung cryoablation is done under conscious sedation with local anaesthetic, so you are drowsy but not fully asleep. Some centres use general anaesthesia instead. The freezing itself causes little pain because ice numbs the nerves around it. You may feel pressure as the needle passes and chest soreness for a few days afterwards. The procedure usually takes one to two hours.</p>"
+          },
+          {
+            "q": "How long does recovery take after lung cryoablation?",
+            "a": "<p>Most patients go home within one to two days and return to normal activity inside a week. A chest X-ray or CT is done afterwards to check for air leak, and a small chest tube is placed if the lung partly collapses. Tiredness and mild chest discomfort can linger for around two weeks. Recovery is generally faster than after open or keyhole lung surgery.</p>"
+          },
+          {
+            "q": "How well does cryoablation work for lung tumours?",
+            "a": "<p>Published series report local tumour control of roughly 80 to 90 percent at one year for small peripheral lung tumours, with results falling as tumour size rises above 3 cm. It is not a guaranteed cure, and surgery still gives the best long-term outcome in fit patients with early-stage disease. Your own likely benefit depends on tumour biology, size, position, and whether disease exists elsewhere.</p>"
+          },
+          {
+            "q": "Is cryoablation better than radiofrequency or microwave ablation?",
+            "a": "<p>No single ablation method is best for every lung tumour. Cryoablation creates a visible ice ball on CT, so the treated zone can be watched in real time, and it often causes less pain when the tumour sits near the chest wall. Heat-based methods such as microwave ablation work faster and may suit larger lesions. The choice usually depends on tumour location, size, and centre experience.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of lung cryoablation?",
+            "a": "<p>The most common complication is pneumothorax — air leaking around the lung — which affects a sizeable minority of patients and often needs a temporary chest drain. Coughing up small amounts of blood, fluid collecting around the lung, and short-lived fever can also occur. Serious complications are uncommon in experienced hands. Risk rises with tumour depth, the number of needles used, and pre-existing emphysema.</p>"
+          },
+          {
+            "q": "Can cryoablation be repeated if the tumour comes back?",
+            "a": "<p>Yes, cryoablation can usually be repeated, which is one of its practical advantages over surgery and radiotherapy. Because no lung tissue is removed, the same lesion or a new one can often be treated again without further loss of breathing capacity. Follow-up CT scans every three to six months help catch regrowth early. Repeat treatment still depends on your lung reserve and where the lesion sits.</p>"
+          },
+          {
+            "q": "Is cryoablation used for lung metastases from other cancers?",
+            "a": "<p>Yes. Cryoablation is often used for a small number of lung metastases from colorectal, kidney, sarcoma, or breast cancer, usually when the primary disease is under control. Treating a few spots can delay a change of chemotherapy and protect quality of life. It does not treat cancer elsewhere in the body, so it is nearly always combined with systemic drug therapy chosen by your oncologist.</p>"
+          },
+          {
+            "q": "How much does lung cryoablation cost abroad, and where is it available?",
+            "a": "<p>Costs vary widely by hospital and country. In India lung cryoablation often falls between USD 4,000 and 8,000, and several large Chinese cancer centres also offer it, usually bundled with imaging and a short admission. Quotes rarely include travel, extended stay, or follow-up scans. CancerFax can help you collect written estimates and second opinions, though your treating oncology team makes the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

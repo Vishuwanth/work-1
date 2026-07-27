@@ -1,0 +1,59 @@
+{
+  "pillar": "Stomach Cancer Immunotherapy: PD-1 Inhibitors, MSI Status, and Novel Approaches",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "stomach-cancer-immunotherapy",
+  "route": "/insights/stomach-cancer-immunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Does immunotherapy actually work for stomach cancer?",
+            "a": "<p>Immunotherapy works for some stomach cancers, and it works best when the tumour carries certain markers. PD-1 inhibitors such as nivolumab and pembrolizumab are now used alongside chemotherapy for advanced gastric and gastro-oesophageal junction cancer, and responses are strongest in tumours that are MSI-high or clearly PD-L1 positive. Your oncologist will test the tumour tissue first, because the likely benefit depends heavily on what those tests show.</p>"
+          },
+          {
+            "q": "What is MSI status and why does my doctor keep mentioning it?",
+            "a": "<p>MSI status tells your team how well the tumour repairs mistakes in its own DNA. A tumour reported as MSI-high or dMMR carries a very large number of mutations, which makes it easier for immune cells to recognise once a PD-1 inhibitor releases the brake. These tumours often respond well, and in some cases a PD-1 inhibitor may be used with little or no chemotherapy. Testing is done on a biopsy sample.</p>"
+          },
+          {
+            "q": "What does a PD-L1 CPS score of 5 mean for me?",
+            "a": "<p>CPS, the combined positive score, counts how many cells in and around the tumour carry the PD-L1 protein. A CPS of 5 signals moderate expression, and it is the cut-off many guidelines and approvals use when deciding whether to add a PD-1 inhibitor to chemotherapy. Higher scores generally predict greater benefit, though a lower score does not always rule the drug out. Your oncologist reads it together with MSI status and your general fitness.</p>"
+          },
+          {
+            "q": "Which PD-1 inhibitors are used for stomach cancer?",
+            "a": "<p>Nivolumab and pembrolizumab are the main PD-1 inhibitors used in advanced gastric and gastro-oesophageal junction cancer, usually combined with platinum and fluoropyrimidine chemotherapy in the first line. Pembrolizumab is also used for MSI-high tumours whatever their site. In China, tislelizumab, sintilimab and camrelizumab are approved for gastric or oesophageal disease. Which agent you can actually receive depends on your country, your tumour markers and what your hospital or insurer approves.</p>"
+          },
+          {
+            "q": "Can I have immunotherapy instead of chemotherapy?",
+            "a": "<p>In most advanced cases immunotherapy is given with chemotherapy rather than in place of it, because the combination shrinks tumours faster and more reliably. The main exception is an MSI-high or dMMR tumour, where a PD-1 inhibitor on its own may be considered and can work well.</p><p>Chemotherapy still has an important role before and after surgery in earlier-stage disease. The right sequence depends on your stage, markers and overall health.</p>"
+          },
+          {
+            "q": "How long before we know if the immunotherapy is working?",
+            "a": "<p>The first assessment scan usually comes after two or three cycles, roughly eight to twelve weeks in, and that is when most teams get their first reliable read. Immunotherapy can act more slowly than chemotherapy, and a small number of tumours briefly look larger before they shrink. Symptoms, weight and blood tests are followed in between. If the disease is clearly progressing, your oncologist will normally change treatment rather than wait longer.</p>"
+          },
+          {
+            "q": "What side effects should I watch for on a PD-1 inhibitor?",
+            "a": "<p>Most side effects come from the immune system turning on healthy tissue, so they can appear almost anywhere. Common ones are tiredness, rash, itching, loose stools and thyroid changes. Less often the lungs, liver, bowel, kidneys or adrenal glands become inflamed, and that needs steroid treatment quickly. Report new breathlessness, persistent diarrhoea, yellowing eyes or sudden severe fatigue the same day. Treated early, these reactions often settle and the drug can frequently be restarted.</p>"
+          },
+          {
+            "q": "Is stomach cancer immunotherapy available in India and China?",
+            "a": "<p>Yes, PD-1 inhibitors for gastric cancer are given routinely in major cancer centres in both countries, and cost is often why patients travel there. Indian hospitals use nivolumab and pembrolizumab, including lower-priced versions of some agents, while Chinese centres also offer domestically approved PD-1 drugs and a wider spread of trials.</p><p>CancerFax can help you send your reports to these centres for review, though eligibility is always decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "What newer options exist if PD-1 inhibitors stop working?",
+            "a": "<p>Several newer approaches are being studied for patients whose disease progresses on a PD-1 inhibitor. Zolbetuximab targets the CLDN18.2 protein and is approved in a number of countries for tumours that express it. CLDN18.2-directed CAR-T cell therapy, bispecific antibodies that recruit T cells, and HER2-plus-immunotherapy combinations remain largely within clinical trials, many of them running in China. Access depends on your markers, prior treatments and open trial slots, so enrolment can never be promised.</p>"
+          },
+          {
+            "q": "How much does immunotherapy for stomach cancer cost?",
+            "a": "<p>Costs vary widely by country and by how long treatment continues. In the United States a year of PD-1 therapy can exceed 100,000 dollars, while in India the same class of drug often costs a small fraction of that, and Chinese domestic PD-1 agents can be cheaper again. Chemotherapy, scans and hospital charges are added on top. CancerFax can obtain written estimates from named hospitals, though final pricing depends on your agreed treatment plan.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

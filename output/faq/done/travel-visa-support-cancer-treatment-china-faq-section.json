@@ -1,0 +1,59 @@
+{
+  "pillar": "Travel and Visa Support for Cancer Treatment in China: A Complete Patient Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "travel-visa-support-cancer-treatment-china",
+  "route": "/insights/travel-visa-support-cancer-treatment-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What type of Chinese visa do I need for cancer treatment?",
+            "a": "<p>Most international patients enter China for cancer treatment on an M visa, supported by an invitation letter from the treating hospital. Some consulates direct medical applicants to an F or L visa instead, so check the rules at the mission handling your file. Applications usually need a passport valid for six months or more, the hospital letter, proof of funds, and a completed form. Requirements can change, so confirm before booking flights.</p>"
+          },
+          {
+            "q": "How long does it take to get a Chinese visa for treatment?",
+            "a": "<p>Chinese visa processing usually takes four to five working days once your application is accepted, with express options at some missions cutting this to two or three days for an extra fee. Building the file takes longer than the visa itself, because the hospital invitation letter and medical records can take one to three weeks. Timelines vary by country and season, so start as early as your diagnosis allows.</p>"
+          },
+          {
+            "q": "Can my husband or daughter travel with me as a caregiver?",
+            "a": "<p>Yes, in most cases one or two family members can travel with you as caregivers, applying for their own visas under the same category with invitation letters that name them. Hospitals in China generally expect a seriously ill patient to have an adult companion, and many will state this in the invitation. Approval still rests with the consulate, so apply together and keep relationship documents ready.</p>"
+          },
+          {
+            "q": "What documents does the hospital need before it sends an invitation letter?",
+            "a": "<p>Chinese hospitals usually ask for a recent medical summary, your pathology or biopsy report, imaging such as CT or PET scans, recent blood results, and a copy of your passport before issuing an invitation letter. Reports in another language often need an English translation. CancerFax can help gather and forward these records to the hospital's international department, though the treating team decides whether your case is suitable.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for treatment?",
+            "a": "<p>Plan for four to eight weeks in China for most cancer treatment, though the real figure depends on what you are having. CAR-T cell therapy often means six to ten weeks, because the cells are manufactured while you wait, while proton therapy or surgery with recovery may run three to six weeks. Your hospital can give a firmer estimate once it reviews your reports.</p>"
+          },
+          {
+            "q": "What happens if my treatment takes longer than my visa allows?",
+            "a": "<p>You can apply to extend your stay inside China through the local Exit and Entry Administration of the Public Security Bureau, usually in the city where you are being treated. Apply at least seven days before your current permission expires, with a hospital letter explaining why treatment is continuing. Extensions are commonly granted for ongoing medical care, but each one is decided case by case and never automatic.</p>"
+          },
+          {
+            "q": "Do I need to speak Chinese, or will someone translate for me?",
+            "a": "<p>You will not need Chinese. Major hospitals treating international patients run dedicated international departments with English-speaking coordinators, and interpreters are usually provided for consultations, consent discussions, and ward rounds. Some centres also arrange Arabic, Russian, or Hindi support. Cover is thinner on night shifts and in general wards, so many families ask in advance how interpreting works outside clinic hours and whether it costs extra.</p>"
+          },
+          {
+            "q": "How much should I budget for travel and living costs, not treatment?",
+            "a": "<p>Beyond treatment fees, budget roughly 3,000 to 6,000 US dollars a month for two people, covering flights, accommodation near the hospital, food, local transport, and coordination or translation fees. Serviced apartments close to major cancer centres often cost 1,000 to 2,000 dollars a month. Costs vary widely between Beijing, Shanghai, and smaller cities, and delays can add weeks, so keep a contingency of at least 20 percent.</p>"
+          },
+          {
+            "q": "Am I well enough to fly for treatment?",
+            "a": "<p>Ask your oncologist for a fit-to-fly assessment before booking. Airlines may require a medical clearance form when you have low blood counts, recent surgery, breathlessness, or need cabin oxygen, and some restrict travel within ten days of major surgery. Low platelets, active infection, or uncontrolled pain can all delay departure. CancerFax can share your flight plan with the receiving hospital, but the decision rests with your own doctors.</p>"
+          },
+          {
+            "q": "What should I do if my visa application is refused?",
+            "a": "<p>A refusal is often fixable rather than final. Consulates most commonly decline medical applications for missing documents, an unclear invitation letter, or weak proof of funds, and a corrected reapplication can succeed. If travel stays blocked, ask the hospital about a remote second opinion, or whether a comparable protocol is available closer to home. Entry decisions and treatment access can never be guaranteed in advance.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

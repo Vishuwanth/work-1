@@ -1,0 +1,59 @@
+{
+  "pillar": "Gendicine for Lung Cancer: Clinical Evidence and Access in China",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gendicine-lung-cancer",
+  "route": "/guides/gendicine-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Gendicine and how does it work for lung cancer?",
+            "a": "<p>Gendicine is a gene therapy that delivers a working copy of the p53 tumour suppressor gene into cancer cells using a modified, non-replicating adenovirus. In lung cancer, many tumours carry a damaged p53 gene, so restoring it may push those cells toward normal death signals and make them more sensitive to chemotherapy or radiation.</p><p>Whether this applies to your tumour depends on its biology and specialist review.</p>"
+          },
+          {
+            "q": "Is Gendicine approved for lung cancer in China?",
+            "a": "<p>No. Gendicine's approval in China, granted in 2003, covers head and neck squamous cell carcinoma, not lung cancer. Its use in lung cancer is off-label or within clinical studies, most often as an addition to chemotherapy or as an injection into the chest cavity for malignant pleural effusion. Access in this setting depends on the treating hospital and specialist assessment.</p>"
+          },
+          {
+            "q": "What does the clinical evidence actually show for Gendicine in lung cancer?",
+            "a": "<p>The evidence is limited and mostly early-stage. Published Chinese studies and case series suggest Gendicine combined with chemotherapy may improve local tumour response and help control malignant pleural effusion compared with chemotherapy alone. Most of these trials were small, single-centre, and not blinded, and large randomised trials in lung cancer have not been published. Results should be interpreted cautiously with your oncology team.</p>"
+          },
+          {
+            "q": "How is Gendicine given to a lung cancer patient?",
+            "a": "<p>Gendicine is usually given by direct injection rather than a standard intravenous drip. For lung tumours, doctors may inject it into the tumour under CT or bronchoscopic guidance, or infuse it into the pleural cavity through a drainage catheter when fluid has built up around the lung. Treatment is typically repeated weekly over several sessions, with the exact schedule set by the treating centre.</p>"
+          },
+          {
+            "q": "Can Gendicine be combined with chemotherapy or immunotherapy?",
+            "a": "<p>Yes, Gendicine is almost always given alongside another treatment rather than by itself. It is most often paired with platinum-based chemotherapy, and some Chinese centres have studied it with radiotherapy or checkpoint inhibitors. The intent is to make tumour cells more responsive to the main treatment. Whether a combination is safe and appropriate for you depends on your prior therapy, organ function, and specialist review.</p>"
+          },
+          {
+            "q": "What are the side effects of Gendicine?",
+            "a": "<p>The most common side effect is a self-limiting fever, usually appearing a few hours after the injection and settling within a day. Patients may also feel chills, fatigue, muscle aches, or pain at the injection site. Serious adverse events have been uncommon in reported studies. Side effects can differ when Gendicine is combined with chemotherapy, so monitoring by the treating team is essential.</p>"
+          },
+          {
+            "q": "Who is eligible for Gendicine treatment for lung cancer?",
+            "a": "<p>Eligibility is decided case by case, not by a fixed rule. Chinese centres generally consider patients with confirmed lung cancer, adequate organ function, a reasonable performance status, and a tumour or pleural effusion that can be safely reached for injection. Active severe infection, poor clotting, or advanced organ failure may rule it out. Final eligibility depends on imaging, pathology, and assessment by the treating oncology team.</p>"
+          },
+          {
+            "q": "How much does Gendicine cost in China?",
+            "a": "<p>Reported prices for a single Gendicine vial in China have generally fallen in the range of roughly USD 300 to USD 600, with a full course of several injections often quoted in the low thousands of dollars. These are estimates only. Actual costs depend on the hospital, the number of cycles, imaging guidance, hospital stay, and the chemotherapy given alongside it, and should be confirmed in writing before travel.</p>"
+          },
+          {
+            "q": "How do I access Gendicine in China as an international patient?",
+            "a": "<p>Access starts with a Chinese hospital reviewing your pathology report, recent imaging, and treatment history to decide whether Gendicine is clinically reasonable for your case. If accepted, the hospital issues an invitation letter used for a medical visa, and treatment is arranged on-site. CancerFax can help organise medical records, identify centres offering this therapy, request cost estimates, and coordinate travel alongside your treating oncology team. Acceptance and visa approval are never guaranteed.</p>"
+          },
+          {
+            "q": "Is Gendicine available outside China?",
+            "a": "<p>No. Gendicine remains approved and marketed only in China and has not been authorised by the FDA, EMA, or India's CDSCO. Patients outside China cannot obtain it through normal prescription channels, and importing it privately is generally not permitted. Anyone considering this therapy would need to travel to a licensed Chinese centre, and that decision should be weighed against approved options with your own oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

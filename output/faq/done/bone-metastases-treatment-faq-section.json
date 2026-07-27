@@ -1,0 +1,59 @@
+{
+  "pillar": "Bone Metastases Treatment: Pain Management and Options",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "bone-metastases-treatment",
+  "route": "/insights/bone-metastases-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly are bone metastases?",
+            "a": "<p>Bone metastases are cancer cells that have spread to the bone from a tumour elsewhere in the body, most often the breast, prostate, lung, kidney or thyroid. They are still that original cancer, not bone cancer, which is why treatment follows the primary tumour type. They usually appear in the spine, pelvis, ribs, upper arm and thigh bones. Pain, fractures and high blood calcium are the common problems they cause.</p>"
+          },
+          {
+            "q": "What is the fastest way to relieve bone metastasis pain?",
+            "a": "<p>A single dose of external beam radiation to the painful spot is usually the fastest reliable option, easing pain in about 60 to 80 percent of people within one to four weeks. Painkillers, including opioids, work sooner and are used alongside it. Steroids can settle a sudden flare. Your radiation oncologist may choose one treatment or a short course, depending on the site and how much bone is involved.</p>"
+          },
+          {
+            "q": "How many radiation sessions will I need for bone pain?",
+            "a": "<p>Most people need between one and ten sessions. A single treatment works about as well as ten for straightforward pain, and it means fewer hospital visits, which matters if you have travelled for care. Longer courses are often chosen when the bone is at risk of breaking or the spinal cord is threatened. Retreatment of the same site is possible later if pain returns. Your team decides based on imaging.</p>"
+          },
+          {
+            "q": "Do I need bone-strengthening injections like zoledronic acid or denosumab?",
+            "a": "<p>Most people with bone metastases are offered one of these drugs, because they cut the risk of fractures, spinal cord compression and the need for bone radiation by roughly a third. Zoledronic acid is given by drip every four to twelve weeks, and denosumab is an injection under the skin. Both need a dental check first, since jaw problems are a rare side effect. Your oncologist will confirm whether they suit you.</p>"
+          },
+          {
+            "q": "Can bone metastases be cured?",
+            "a": "<p>Bone metastases are usually treated as a long-term condition rather than something that can be cured, but many people live for years with good pain control and mobility. In hormone-sensitive breast and prostate cancer, survival is often measured in years. Where only one or two bone spots exist, targeted radiation aimed at cure is sometimes tried. Outcomes depend on the primary cancer, its biology and how well it responds to drug treatment.</p>"
+          },
+          {
+            "q": "What are the warning signs that my bone metastasis needs urgent treatment?",
+            "a": "<p>Get urgent help for new weakness or numbness in the legs, difficulty passing urine, or band-like back pain that worsens when lying flat, as these can mean the spinal cord is being pressed. Sudden severe pain in a thigh or arm may signal a fracture. Confusion, thirst and vomiting can point to high blood calcium. All three are emergencies that respond much better when treated within hours, not days.</p>"
+          },
+          {
+            "q": "What are radioactive treatments like Radium-223 and Lutetium-177 PSMA?",
+            "a": "<p>These are injections that carry radiation directly to bone metastases through the bloodstream, treating many sites at once instead of one painful spot. Radium-223 is used for prostate cancer that has spread only to bone, while Lutetium-177 PSMA is used for PSMA-positive prostate cancer after other treatments. Both are given every four to six weeks for four to six doses. Eligibility depends on scans, blood counts and prior therapy.</p>"
+          },
+          {
+            "q": "Are there options besides radiation and surgery for a painful bone lesion?",
+            "a": "<p>Yes. Interventional procedures can treat a single stubborn lesion without open surgery. Radiofrequency or cryoablation destroys the tumour with heat or cold through a needle, and cement injected into a collapsed spinal bone can stabilise it within a day or two. MR-guided focused ultrasound is offered at some centres. These often suit people whose pain persists after radiation, and CancerFax can check which overseas centres offer them.</p>"
+          },
+          {
+            "q": "How much does bone metastasis treatment cost in India or China?",
+            "a": "<p>Costs vary widely by hospital and by what you need, but palliative radiation courses in India typically run from a few hundred to a couple of thousand US dollars, while radiopharmaceuticals such as Lutetium-177 PSMA cost several thousand per dose. China prices sit higher for newer agents. CancerFax can help you request written estimates from treating centres before you travel, though final costs depend on your scans and treatment plan.</p>"
+          },
+          {
+            "q": "How will I know if the treatment is working?",
+            "a": "<p>Pain levels and painkiller use are the most practical signs, and they often improve before scans change. Blood markers such as PSA or CA 15-3 and imaging every two to three months track the disease itself. Bone scans can look worse early even when treatment is working, an effect called flare, so one scan alone rarely decides anything. Ask your oncology team to explain each result in plain terms.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

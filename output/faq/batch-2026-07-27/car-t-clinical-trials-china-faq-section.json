@@ -1,0 +1,59 @@
+{
+  "pillar": "How International Patients Access CAR-T Trials in China",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-clinical-trials-china",
+  "route": "/insights/car-t-clinical-trials-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can international patients actually join CAR-T clinical trials in China?",
+            "a": "<p>Yes, many CAR-T trials in China do accept international patients, though acceptance is decided case by case. Chinese hospitals in Beijing, Shanghai, Guangzhou and Tianjin run hundreds of registered cell therapy studies, and several openly review overseas applicants. Your records are screened against the protocol first, and a slot may still be limited by trial capacity, cell manufacturing schedules, or your ability to travel and stay for treatment.</p>"
+          },
+          {
+            "q": "Which cancers are Chinese CAR-T trials recruiting for?",
+            "a": "<p>Most Chinese CAR-T trials recruit for blood cancers: B-cell acute lymphoblastic leukaemia, non-Hodgkin lymphoma, and multiple myeloma. Common targets are CD19, BCMA, CD20, CD22 and CD7, often in dual-target designs that are less available elsewhere. A smaller number of studies test CAR-T in solid tumours such as liver, gastric and pancreatic cancer, but these are early-phase and results so far are mixed. Eligibility depends on your exact diagnosis and prior treatments.</p>"
+          },
+          {
+            "q": "How much does a CAR-T trial in China cost if I come from abroad?",
+            "a": "<p>In many Chinese trials the CAR-T cells themselves are provided free, so your main costs are hospital care, tests, travel and accommodation. Families often budget roughly US$30,000 to US$60,000 for the full stay, though some sponsors ask patients to contribute more toward manufacturing. Commercial CAR-T outside a trial costs far more. Ask for a written cost estimate before you fly, because charges vary widely between hospitals and protocols.</p>"
+          },
+          {
+            "q": "What medical records do I need to send before applying?",
+            "a": "<p>Send a recent pathology or biopsy report, bone marrow or flow cytometry results, PET-CT or CT scans from the last few weeks, a summary of every treatment you have had, and current blood counts, kidney and liver function. Reports usually need English translation. Services such as CancerFax can help collect and forward these files to Chinese trial teams, but your own oncologist should confirm the records are complete and current.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for CAR-T?",
+            "a": "<p>Plan for about two to three months in China. Screening and cell collection take one to two weeks, manufacturing the CAR-T cells usually takes two to four weeks, and the infusion is followed by two to four weeks of close hospital monitoring. Doctors often ask patients to remain nearby for a further month for follow-up scans and blood tests. Delays in manufacturing can extend this timeline.</p>"
+          },
+          {
+            "q": "What visa do I need to travel to China for treatment?",
+            "a": "<p>Most patients travel on a Chinese medical visa, usually an M or Q category, issued after the hospital sends a formal invitation or admission letter. You will normally need your passport, the hospital letter, proof of funds and a completed application. Processing can take one to four weeks. A caregiver can often apply alongside you, though approval rests with the Chinese embassy and is never guaranteed.</p>"
+          },
+          {
+            "q": "Can I still qualify if CAR-T already failed for me once?",
+            "a": "<p>Yes, in many cases. China runs a large number of trials designed for patients who relapsed after an earlier CAR-T infusion, including dual-target CD19/CD22 and CD19/BCMA products and humanised constructs meant to work after antigen loss. Eligibility depends on whether the tumour still expresses a suitable target, your organ function, and how recently you were treated. A fresh biopsy is often requested to confirm this.</p>"
+          },
+          {
+            "q": "Are CAR-T trials in China properly regulated and safe?",
+            "a": "<p>Registered trials in China are reviewed by hospital ethics committees and, for company-sponsored studies, by the National Medical Products Administration. Look for a registration number on ClinicalTrials.gov or the Chinese Clinical Trial Registry, and ask which regulator approved the protocol. Standards vary between centres, so quality is highest at large academic hospitals. Be cautious of any clinic offering CAR-T without a registered protocol or written consent documents.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the infusion?",
+            "a": "<p>The two main risks are cytokine release syndrome and neurotoxicity. Cytokine release syndrome brings high fever, low blood pressure and breathlessness, usually in the first week, and is treated with tocilizumab and steroids. Neurotoxicity can cause confusion, tremor or difficulty speaking, and is usually reversible. Low blood counts and infection risk can last weeks to months. Chinese CAR-T centres monitor patients in hospital through this period.</p>"
+          },
+          {
+            "q": "How do I actually start the application from my home country?",
+            "a": "<p>Start by asking your oncologist whether a trial abroad is reasonable for your stage of disease. Then gather your translated records and send them to the trial coordinator at the Chinese hospital, or through a referral service such as CancerFax, which forwards case files for screening. Most centres reply within one to two weeks with an eligibility opinion. Nothing is confirmed until the hospital completes on-site testing.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

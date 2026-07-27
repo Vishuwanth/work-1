@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing Hormone Therapy Abroad Through CancerFax: The Navigation Process",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "accessing-hormone-therapy-abroad",
+  "route": "/insights/accessing-hormone-therapy-abroad",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is hormone therapy for cancer?",
+            "a": "<p>Hormone therapy is cancer treatment that blocks or lowers the hormones certain tumours need to grow. It is not the same as hormone replacement therapy. Doctors give it as tablets, injections, or implants, often for months or years rather than weeks, and usually alongside surgery, radiotherapy, or other drugs. Whether it suits your case depends on tests showing your tumour is hormone-sensitive, so your oncologist makes that call.</p>"
+          },
+          {
+            "q": "Which cancers can hormone therapy treat?",
+            "a": "<p>Hormone therapy is used most often for breast cancer and prostate cancer, and in some cases for womb, ovarian, and certain thyroid or adrenal cancers. For breast cancer it depends on whether the tumour tests positive for oestrogen or progesterone receptors. For prostate cancer, it lowers testosterone. Your pathology report decides this, not the cancer type alone, so ask your oncologist what your receptor results show.</p>"
+          },
+          {
+            "q": "Why would I travel abroad for hormone therapy?",
+            "a": "<p>Most people travel because the drug they need is not approved or stocked at home, because waiting times are long, or because the same treatment costs far less in India or China. Some travel to combine hormone therapy with surgery, radiotherapy, or a trial in one trip. Travel is not always necessary, and many hormone drugs are widely available, so confirm with your own oncologist first.</p>"
+          },
+          {
+            "q": "How does arranging hormone therapy abroad actually start?",
+            "a": "<p>It starts with your medical records, not with a flight booking. You send your pathology report, imaging, and current prescriptions, and a hospital abroad reviews them and replies with a proposed plan and cost estimate. CancerFax passes these records to the treating oncology teams and returns their written opinion to you. Nothing is confirmed until a doctor abroad has seen your reports, and plans may change after in-person assessment.</p>"
+          },
+          {
+            "q": "What documents do I need to send before doctors abroad can advise me?",
+            "a": "<p>Send your biopsy or pathology report, receptor or hormone-status results, recent scans as files or on CD, blood test results, a summary of treatments you have already had, and your current medicine list. A copy of your passport is needed later for the visa invitation letter. Reports older than three months may need repeating, and missing receptor results are the most common reason an opinion gets delayed.</p>"
+          },
+          {
+            "q": "How long before I can actually start treatment?",
+            "a": "<p>In many cases a written opinion and cost estimate come back within three to five working days once your records are complete. A medical visa often takes one to three weeks, depending on your country, so most families are ready to travel in three to six weeks. CancerFax can flag which papers are still missing, though timelines depend on embassies and hospital schedules and can slip.</p>"
+          },
+          {
+            "q": "How much does hormone therapy cost in India or China?",
+            "a": "<p>Common hormone drugs such as tamoxifen, letrozole, or bicalutamide often cost a few thousand rupees a month in India, far below prices in Western countries. Newer agents like abiraterone or enzalutamide cost more, though generic versions cut the price sharply. Add consultations, scans, travel, and stay. Costs vary by hospital, drug brand, and how long you need treatment, so ask for a written estimate before you commit.</p>"
+          },
+          {
+            "q": "Do I have to stay abroad for the whole course of treatment?",
+            "a": "<p>Usually not. Hormone therapy often runs for five to ten years, and no one expects you to live abroad for that. Many patients stay two to four weeks for assessment, the first cycle, and any surgery or radiotherapy, then continue tablets or injections at home under a local doctor. Follow-up scans can be reviewed remotely in many cases, but some plans need you to return periodically.</p>"
+          },
+          {
+            "q": "What side effects should I expect from hormone therapy?",
+            "a": "<p>The most common effects are hot flushes, tiredness, joint or muscle aches, mood changes, and reduced sex drive. Men on prostate hormone therapy may notice weight gain and bone thinning; women may have menopause-like symptoms. Most effects build slowly and can be managed with dose changes or supportive medicines. Tell the team abroad and your doctor at home about anything new, since some effects need monitoring blood tests.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial abroad for hormone therapy?",
+            "a": "<p>Sometimes. Hospitals in India and China run trials combining hormone therapy with newer targeted or immune drugs, and some accept international patients. Entry depends on strict rules about your cancer stage, prior treatments, organ function, and residency, and places are limited. No one can promise enrolment. Ask the treating team whether a trial exists for your exact situation, and what happens to your care if you are not eligible.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

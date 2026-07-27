@@ -1,0 +1,59 @@
+{
+  "pillar": "Gastroesophageal Junction Cancer: Diagnosis and Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gastroesophageal-junction-cancer",
+  "route": "/insights/gastroesophageal-junction-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is gastroesophageal junction cancer?",
+            "a": "<p>Gastroesophageal junction cancer starts where the food pipe meets the stomach. Most cases are adenocarcinomas, which grow from gland cells in the lining. Doctors describe the tumour using the Siewert system: type I sits just above the junction, type II straddles it, and type III sits just below. That classification matters because it often decides whether the surgery is planned as an oesophageal or a stomach operation.</p>"
+          },
+          {
+            "q": "What are the early symptoms I should not ignore?",
+            "a": "<p>Trouble swallowing solid food is the most common first sign, and it often starts with bread or meat sticking. Other warning signs include persistent heartburn that changes in character, food coming back up, pain behind the breastbone, unexplained weight loss, vomiting blood, and black stools. Any of these lasting more than two weeks deserves an endoscopy rather than another course of acid-reducing tablets, especially if you are over 50 or have long-standing reflux.</p>"
+          },
+          {
+            "q": "How will doctors confirm that I have this cancer?",
+            "a": "<p>Diagnosis starts with an upper endoscopy, where a thin camera passes down the throat and the doctor takes small tissue samples from the tumour. A pathologist confirms cancer and checks the biopsy for HER2, PD-L1, Claudin 18.2 and mismatch repair status, because these results guide drug choices. Endoscopy is usually done under sedation and takes about fifteen minutes. Results typically take several days, depending on the laboratory.</p>"
+          },
+          {
+            "q": "Which scans do I need to know how far it has spread?",
+            "a": "<p>A CT scan of the chest, abdomen and pelvis plus a PET-CT show whether the cancer has spread beyond the junction. Endoscopic ultrasound measures how deep the tumour goes into the wall and checks nearby lymph nodes. Many teams add a laparoscopy, a keyhole look inside the abdomen, to find tiny deposits scans miss. Staging can change after surgery, so the initial stage is a working estimate.</p>"
+          },
+          {
+            "q": "Will I need surgery, and what does the operation involve?",
+            "a": "<p>Surgery offers the best chance of long-term control when the cancer has not spread, and it usually means removing the lower oesophagus, the top of the stomach and the surrounding lymph nodes. The remaining stomach is then pulled up and joined to the food pipe. Minimally invasive and robotic approaches are widely available. Whether you are fit for this operation depends on your heart, lungs, nutrition and response to earlier treatment.</p>"
+          },
+          {
+            "q": "Why do doctors want to give chemotherapy before my surgery?",
+            "a": "<p>Treatment given before surgery shrinks the tumour, treats cancer cells that have already left the junction, and makes a clean removal more likely. Two standard approaches exist: perioperative chemotherapy with the FLOT regimen, given before and after the operation, or chemoradiation before surgery using the CROSS protocol. Your team picks between them based on tumour type, location and how well you tolerate treatment. Neither approach guarantees the cancer will not return.</p>"
+          },
+          {
+            "q": "Can immunotherapy or targeted drugs work for my tumour?",
+            "a": "<p>They can, but only if your tumour carries the right marker. Trastuzumab is added when the cancer is HER2-positive, nivolumab or pembrolizumab may be combined with chemotherapy when PD-L1 is expressed, and zolbetuximab is an option for Claudin 18.2-positive tumours. Tumours with high microsatellite instability often respond particularly well to immunotherapy. Testing the biopsy first is essential, since these drugs offer little benefit without the matching marker.</p>"
+          },
+          {
+            "q": "What are the survival rates for junction cancer?",
+            "a": "<p>Survival depends mainly on stage at diagnosis. Cancers found early and removed with surgery can have five-year survival above 45 percent, while cancers that have spread to distant organs are generally treated to control the disease rather than cure it. Response to pre-surgery treatment also matters: patients whose tumours shrink significantly tend to do better. These figures are averages from large groups and cannot predict any one person's outcome.</p>"
+          },
+          {
+            "q": "Can I get treatment in India or China, and is it cheaper?",
+            "a": "<p>Yes, and many families travel for it. Large centres in India and China perform minimally invasive and robotic junction surgery, and treatment costs are often a fraction of Western prices, though the total depends on your stage and how many chemotherapy cycles you need. CancerFax can help you send your scans and biopsy report to these hospitals for an opinion, but the treating oncology team decides what is appropriate for you.</p>"
+          },
+          {
+            "q": "I am struggling to swallow and losing weight. What can be done now?",
+            "a": "<p>Tell your team early, because swallowing problems can usually be eased. A stent placed during endoscopy can reopen a blocked junction within a day, and a short course of radiotherapy can relieve obstruction and bleeding. A feeding tube may be placed to protect your weight during chemotherapy. A dietitian should be part of your care from the start, since staying nourished often affects whether you can complete treatment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

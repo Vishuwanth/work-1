@@ -1,0 +1,59 @@
+{
+  "pillar": "Hyperthermia for Cervical Cancer: The van der Zee Trial and Outcomes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hyperthermia-for-cervical-cancer",
+  "route": "/insights/hyperthermia-for-cervical-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is hyperthermia treatment for cervical cancer?",
+            "a": "<p>Hyperthermia heats the tumour to about 40 to 43 degrees Celsius during radiotherapy, making cancer cells more likely to die from the same radiation dose. Applicators placed around the pelvis deliver radio waves that warm the tissue for roughly an hour. It is not a standalone cancer treatment. It is added to radiotherapy, usually once a week, and works best when tumour temperature can be measured and controlled throughout each session.</p>"
+          },
+          {
+            "q": "What did the van der Zee trial actually find?",
+            "a": "<p>In the Dutch Deep Hyperthermia Trial, published in The Lancet in 2000, women with cervical cancer given radiotherapy plus hyperthermia had a complete response rate of 83 percent compared with 57 percent for radiotherapy alone. Three-year survival was 51 percent versus 27 percent. The cervical group included 114 women, so the results are striking but come from a modest sample, and outcomes in any individual case may differ.</p>"
+          },
+          {
+            "q": "Did the survival benefit last beyond three years?",
+            "a": "<p>Yes. Long-term follow-up of the same Dutch patients, reported roughly twelve years after treatment, showed the survival advantage in the cervical cancer group held up rather than fading away. Local control also stayed better in the hyperthermia arm. Long-term analyses rest on smaller surviving numbers, so the exact figures carry more uncertainty than the original report, and your radiation oncologist can explain what they mean for your stage.</p>"
+          },
+          {
+            "q": "Why would I be offered hyperthermia instead of chemotherapy with my radiotherapy?",
+            "a": "<p>Hyperthermia is usually considered when cisplatin chemotherapy is unsuitable, for example because of reduced kidney function, older age, or poor general fitness. The van der Zee trial ran before chemoradiation became the standard, so it compared hyperthermia against radiotherapy alone. Many centres now use hyperthermia as an alternative radiosensitiser for patients who cannot tolerate chemotherapy, though the choice depends on your kidney function, blood counts, and overall health.</p>"
+          },
+          {
+            "q": "What does a hyperthermia session feel like?",
+            "a": "<p>Most women describe a deep, spreading warmth rather than pain, similar to sitting in a very hot bath. You lie still inside a ring of applicators for around 60 to 90 minutes while probes track the temperature inside the pelvis. Sweating, restlessness, and aching from lying flat are common. If one spot becomes too hot, the operator lowers the power straight away, so speak up as soon as you feel it.</p>"
+          },
+          {
+            "q": "What are the side effects of adding hyperthermia?",
+            "a": "<p>The most common problems are surface burns or blisters on the skin and fat of the abdomen, discomfort from lying still, and a temporary drop in blood pressure. In the Dutch trial, adding hyperthermia did not increase serious late radiation damage to the bowel or bladder. Side effects still vary with body shape, tumour depth, and the equipment used, so ask your centre about its own complication rates.</p>"
+          },
+          {
+            "q": "How many hyperthermia sessions will I need?",
+            "a": "<p>Most protocols give four to five sessions, one per week, alongside a standard five-week course of pelvic radiotherapy. Each session is timed within an hour or so of a radiotherapy fraction, because the sensitising effect fades quickly. Some centres add a session or adjust the timing depending on how well the tumour heats. Your final schedule depends on your treatment plan and the machine availability at the centre.</p>"
+          },
+          {
+            "q": "Am I likely to be eligible for pelvic hyperthermia?",
+            "a": "<p>Deep pelvic hyperthermia is generally offered to women with locally advanced cervical cancer, often stage IIB to IVA, who are receiving radiotherapy with curative intent. Metal implants in the pelvis, a cardiac pacemaker, or being unable to lie flat for an hour can rule it out. A larger body size can make adequate heating harder. Only the treating radiation oncology team can confirm suitability after reviewing your scans.</p>"
+          },
+          {
+            "q": "Can I get hyperthermia for cervical cancer in India or China?",
+            "a": "<p>Yes, a number of large cancer centres in India and China offer deep regional hyperthermia, though machines are limited and waiting times vary by city. Equipment and temperature-monitoring practice differ between hospitals, which matters because the benefit depends on reaching and holding the target temperature. CancerFax can help you identify centres running deep hyperthermia for gynaecological cancers, while the treating oncology team decides whether it fits your plan.</p>"
+          },
+          {
+            "q": "How much does hyperthermia cost on top of radiotherapy?",
+            "a": "<p>Hyperthermia is usually billed per session in addition to radiotherapy, and in India a full course often runs into the low thousands of US dollars rather than tens of thousands. Prices in China vary more widely between hospitals. Insurance cover is inconsistent because hyperthermia is not standard everywhere. Ask for a written estimate covering all sessions, temperature monitoring, and any extra imaging before you travel, since quoted figures can change.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

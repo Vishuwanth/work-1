@@ -1,0 +1,59 @@
+{
+  "pillar": "How Long Should I Take Hormone Therapy? Duration Decisions in Breast and Prostate Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hormone-therapy-duration",
+  "route": "/insights/hormone-therapy-duration",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long do I need to take hormone therapy for breast cancer?",
+            "a": "<p>Most people with hormone receptor-positive breast cancer take hormone therapy for at least five years, and many are advised to continue for seven to ten. The recommended length depends on tumour size, node involvement, grade, menopausal status, and how well you tolerate the drug. Longer treatment often lowers the chance of the cancer returning, but the benefit is not the same for everyone, so your oncologist may adjust the plan.</p>"
+          },
+          {
+            "q": "Can I stop tamoxifen at five years, or should I keep going to ten?",
+            "a": "<p>You can often stop at five years, but extending tamoxifen to ten may further reduce the risk of recurrence for some women. Trials suggest the extra benefit is largest when the original cancer was larger or had spread to lymph nodes. Side effects, bone health, and your own preferences matter too. Discuss the trade-off with your oncologist rather than stopping on your own, since an unplanned break can reduce protection.</p>"
+          },
+          {
+            "q": "How long does hormone therapy last for prostate cancer?",
+            "a": "<p>Hormone therapy given alongside radiation usually lasts four to six months in intermediate-risk prostate cancer and eighteen months to three years in high-risk disease. If the cancer has spread beyond the prostate, treatment is often continued long term, sometimes with newer drugs added. Your PSA response, Gleason score, imaging, and general health all shape the duration, and your team may shorten or extend the course as results come in.</p>"
+          },
+          {
+            "q": "What happens if I stop hormone therapy early?",
+            "a": "<p>Stopping early can raise the chance the cancer comes back, because the protection builds up across the full course. In breast cancer, women who stop tamoxifen or an aromatase inhibitor within the first two years tend to have poorer outcomes than those who complete treatment. In prostate cancer, cutting the planned duration short may shorten the time before PSA rises again. Speak to your team before stopping anything.</p>"
+          },
+          {
+            "q": "Is it safe to take a break from hormone therapy?",
+            "a": "<p>Planned breaks are an accepted option in some prostate cancer situations, where intermittent androgen deprivation can ease side effects without clearly shortening survival in men whose PSA rises after local treatment. In breast cancer, breaks are not routine, although short supervised pauses have been studied for women hoping to conceive. Any break should be planned with your oncologist, because unsupervised gaps may reduce how well the treatment works.</p>"
+          },
+          {
+            "q": "Do the side effects get easier the longer I stay on it?",
+            "a": "<p>Some side effects settle after the first few months, while others persist or build slowly. Hot flushes and mood changes often ease as your body adjusts. Joint stiffness on aromatase inhibitors and bone thinning on long-term androgen deprivation usually need active management, including exercise, calcium, vitamin D, and sometimes bone-protecting drugs. Report new symptoms early, because switching drugs or adding support often makes a longer course possible.</p>"
+          },
+          {
+            "q": "How does my doctor decide between five and ten years?",
+            "a": "<p>The decision rests mainly on your risk of late recurrence. Doctors weigh tumour size, lymph node status, grade, hormone receptor strength, and age, and some use genomic tests such as the Breast Cancer Index to estimate whether extra years would help. Bone density, heart health, and how well you tolerated the first five years also count. Two people with similar scans can reasonably be given different advice.</p>"
+          },
+          {
+            "q": "Does staying on hormone therapy longer help me live longer?",
+            "a": "<p>Longer treatment mainly reduces recurrence, and the effect on survival is smaller but real in higher-risk disease. In breast cancer, ten years of tamoxifen reduced breast cancer deaths compared with five years in large trials. In prostate cancer, longer androgen deprivation combined with radiation improved survival in high-risk disease. The size of the gain depends on your own risk, so ask your oncologist for numbers that fit your case.</p>"
+          },
+          {
+            "q": "Can I switch from tamoxifen to an aromatase inhibitor partway through?",
+            "a": "<p>Yes, switching partway is common and is a planned strategy rather than a setback. Many women take tamoxifen for two to three years and then move to an aromatase inhibitor after menopause, or switch because of side effects. Aromatase inhibitors only work once the ovaries have stopped producing oestrogen, so your menopausal status is confirmed first. Your oncologist may also switch you back if joint pain becomes limiting.</p>"
+          },
+          {
+            "q": "Can I keep taking hormone therapy if I travel abroad for treatment?",
+            "a": "<p>Hormone therapy is usually continued without interruption while you travel, because the tablets and injections are widely available in India, China, and most other countries. Carry your prescription, recent reports, and the exact generic drug name, since brand names differ between countries. CancerFax can help you share records with hospitals abroad and arrange a second opinion, though your prescribing oncologist should approve any change to your schedule.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

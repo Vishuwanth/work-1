@@ -1,0 +1,59 @@
+{
+  "pillar": "Head and Neck Cancer Treatment in China",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "head-and-neck-cancer-treatment-in-china",
+  "route": "/guides/head-and-neck-cancer-treatment-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does head and neck cancer treatment cost in China?",
+            "a": "<p>Head and neck cancer treatment in China typically costs USD 15,000 to 40,000 for a full course, depending on stage and modality. Surgery with reconstruction sits at the lower end, combined chemoradiation runs mid-range, and proton or carbon ion therapy and immunotherapy push costs higher. Quotes usually cover hospital stay, imaging and doctor fees, but not flights, visas or long-term follow-up. Final cost depends on your pathology report and the hospital's assessment.</p>"
+          },
+          {
+            "q": "Why do patients travel to China for head and neck cancer treatment?",
+            "a": "<p>Patients choose China mainly for access to particle therapy, proton and carbon ion, plus advanced immunotherapy and gene therapy options that may not be approved at home. China also has unusually deep experience with nasopharyngeal cancer, which is common there. Waiting times are often short, and total costs can be well below United States or European prices. Whether China suits your case depends on your tumour type and stage.</p>"
+          },
+          {
+            "q": "Which treatments for head and neck cancer are available in Chinese hospitals?",
+            "a": "<p>Chinese cancer centres offer the full standard pathway: surgery with microvascular reconstruction, intensity-modulated radiotherapy, chemotherapy, targeted drugs like cetuximab, and PD-1 immunotherapy. Beyond that, several hospitals run proton and carbon ion therapy, robotic transoral surgery, and gene therapy products such as Gendicine that are licensed only in China. Which combination fits you is decided by a tumour board after reviewing your scans, biopsy and prior treatment history.</p>"
+          },
+          {
+            "q": "Is proton or carbon ion therapy in China better for head and neck tumours?",
+            "a": "<p>Particle therapy can be a better option when a head and neck tumour sits close to the eye, spinal cord, or brainstem, because the dose stops sharply and spares nearby tissue. Shanghai and Wuwei centres treat recurrent nasopharyngeal and skull base tumours this way. It is not better for every case, and eligibility depends on tumour size, location and whether you have had radiotherapy before.</p>"
+          },
+          {
+            "q": "Can immunotherapy help if my head and neck cancer has come back?",
+            "a": "<p>Yes, PD-1 immunotherapy is often used for recurrent or metastatic head and neck cancer, and China has several approved domestic drugs including toripalimab, tislelizumab and camrelizumab. These are usually far cheaper than imported equivalents and are frequently combined with chemotherapy. Response varies, and your oncologist will likely test PD-L1 expression first. Immunotherapy may control disease for many months but does not work in every patient.</p>"
+          },
+          {
+            "q": "How long do I need to stay in China for treatment?",
+            "a": "<p>Plan for six to eight weeks if radiotherapy or chemoradiation is part of your treatment, since a standard course runs about 30 to 35 daily sessions. Surgery alone usually needs three to four weeks including recovery and wound review. Proton or carbon ion courses can be shorter, sometimes two to four weeks. Your final schedule depends on the treatment plan and how well you recover between cycles.</p>"
+          },
+          {
+            "q": "Are Chinese hospitals good at treating nasopharyngeal cancer?",
+            "a": "<p>Chinese centres are among the most experienced in the world with nasopharyngeal cancer, because the disease is far more common in southern China than in the West. High-volume hospitals in Guangzhou and Shanghai treat thousands of cases a year and helped set the international protocols now used elsewhere. That experience often shows in radiotherapy planning precision, though outcomes still depend on your stage at diagnosis.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial in China for head and neck cancer?",
+            "a": "<p>International patients can sometimes join Chinese trials, but enrolment is never guaranteed and many studies accept only residents. Head and neck trials in China commonly test new PD-1 combinations, bispecific antibodies and cell therapies. Eligibility usually turns on prior treatment, organ function and available biopsy tissue. CancerFax can help you check which trials are open and share your records with the site team, though the trial investigator makes the final decision.</p>"
+          },
+          {
+            "q": "Will the language barrier be a problem at a Chinese hospital?",
+            "a": "<p>Most large Chinese cancer hospitals have international patient departments with English-speaking coordinators and interpreters for consultations and consent discussions. Day to day ward staff may speak limited English, so an interpreter for rounds is worth arranging in advance. Reports and discharge summaries are usually translated on request. Confirm before you travel which translation services the hospital provides at no cost and which you need to organise yourself.</p>"
+          },
+          {
+            "q": "What should I send to get a treatment plan and quote from China?",
+            "a": "<p>Send your biopsy or pathology report, recent PET-CT or MRI images, a summary of treatments already given, and current blood test results. Chinese tumour boards need the pathology subtype and staging before they can propose a plan or price. Reports in another language usually need translation. CancerFax can compile these records and route them to the right hospital, but the treating oncology team decides what treatment is appropriate.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

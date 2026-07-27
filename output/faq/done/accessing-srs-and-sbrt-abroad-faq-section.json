@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing SRS and SBRT in China or India through CancerFax",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "accessing-srs-and-sbrt-abroad",
+  "route": "/insights/accessing-srs-and-sbrt-abroad",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What's the difference between SRS and SBRT?",
+            "a": "<p>SRS treats tumours inside the brain, while SBRT treats tumours in the body, such as the lung, liver, spine, or pancreas. Both deliver a very high radiation dose to a small target in one to five sessions, sparing nearby healthy tissue. The machines and planning software often overlap, so the same centre usually offers both. Which one suits you depends on where the tumour sits and how large it is.</p>"
+          },
+          {
+            "q": "How much do SRS and SBRT cost in India and China?",
+            "a": "<p>A full course of SRS or SBRT in India typically runs about USD 4,000 to 8,000, and in China roughly USD 6,000 to 12,000, depending on the machine, the number of sessions, and how many tumours are treated. Imaging, planning scans, and follow-up visits are usually billed separately. Quoted prices can change once the radiation oncologist reviews your scans, so treat any early estimate as approximate.</p>"
+          },
+          {
+            "q": "How long will I need to stay abroad for this treatment?",
+            "a": "<p>Most patients spend two to three weeks abroad for a course of SRS or SBRT. Planning scans and simulation take a few days, treatment itself runs one to five sessions over one to two weeks, and doctors usually want a short review before you fly home. Single-session SRS can be quicker. Your stay may be longer if you also need a biopsy, systemic therapy, or recovery time.</p>"
+          },
+          {
+            "q": "Can I have SRS if the cancer has already spread to several places in my brain?",
+            "a": "<p>Yes, in many cases. Modern SRS routinely treats up to about ten brain metastases in a single session, and some centres go further when the lesions are small and the rest of the disease is controlled. Very large tumours, widespread leptomeningeal disease, or significant swelling may call for whole-brain radiation or surgery instead. Only a radiation oncologist reading your recent MRI can confirm whether you qualify.</p>"
+          },
+          {
+            "q": "Is Gamma Knife better than CyberKnife?",
+            "a": "<p>Neither is better overall; they suit different targets. Gamma Knife is built for the brain and is very precise for small, well-defined lesions. CyberKnife uses a robotic arm that tracks movement, so it can handle lung, liver, spine, and prostate tumours as well as brain lesions. Modern linac-based systems do both jobs well. Ask which machines a centre has and why they recommend one for your tumour.</p>"
+          },
+          {
+            "q": "How do I find out if I'm suitable before spending money on travel?",
+            "a": "<p>Send your recent scans, pathology report, and treatment history for a remote review before booking anything. Radiation oncologists in India and China can usually say within a few days whether SRS or SBRT is appropriate, and give an indicative plan and cost. CancerFax can pass those records to the treating team and return their opinion in writing. Any final plan still depends on scans repeated after you arrive.</p>"
+          },
+          {
+            "q": "How many sessions will I need?",
+            "a": "<p>SRS for the brain is often a single session, while SBRT for the body usually takes three to five sessions spread over one to two weeks. The number depends on the tumour's size, how close it sits to the spinal cord, bowel, or airway, and how much radiation you have had before. Your team fixes the schedule after the planning scan, so it may change from the first estimate.</p>"
+          },
+          {
+            "q": "Does SRS or SBRT hurt?",
+            "a": "<p>No, the treatment itself is painless. You lie still on a couch while the machine moves around you, and each session lasts roughly 15 to 60 minutes. Some brain SRS systems use a light head frame fixed with pins under local anaesthetic, which can feel uncomfortable for a short time. Fatigue, mild nausea, or skin soreness may follow over the next few days and usually settles.</p>"
+          },
+          {
+            "q": "Can I have SBRT again if the tumour comes back?",
+            "a": "<p>Re-treatment is often possible, but it depends on how much radiation the surrounding organs already absorbed and how long ago you were treated. Doctors recalculate the cumulative dose to the spinal cord, lung, or bowel before agreeing. Sometimes a lower dose, a different technique, or surgery is safer. Bring your earlier radiation records, including the dose plan, because a team abroad cannot judge this without them.</p>"
+          },
+          {
+            "q": "What do I need to arrange before flying for treatment?",
+            "a": "<p>You need a medical visa, an invitation or appointment letter from the hospital, your scans on disc or in digital form, pathology reports, and a record of previous treatment. Most centres ask for a deposit before admission. A companion visa is worth arranging if you will need help travelling. CancerFax can help assemble these documents, though visa decisions and hospital admission remain with the authorities and the hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

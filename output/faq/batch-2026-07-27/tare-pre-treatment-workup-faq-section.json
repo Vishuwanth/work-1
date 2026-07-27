@@ -1,0 +1,59 @@
+{
+  "pillar": "The TARE Pre-Treatment Workup: Mapping Angiogram and MAA Scan Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-pre-treatment-workup",
+  "route": "/insights/tare-pre-treatment-workup",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the mapping angiogram before TARE?",
+            "a": "<p>The mapping angiogram is a planning procedure done a week or two before TARE, in which an interventional radiologist threads a thin catheter from the groin or wrist into the arteries feeding your liver tumour. It creates a detailed road map of your liver blood supply so the radioactive beads can be delivered precisely. It also lets the team block off small vessels that could carry beads to the stomach or bowel.</p>"
+          },
+          {
+            "q": "Why do I need an MAA scan before radioembolisation?",
+            "a": "<p>The MAA scan measures how much of the injected material escapes from your liver into your lungs, which is the single biggest safety factor in TARE planning. Technetium-99m labelled albumin particles are injected during the mapping session and imaged with SPECT or SPECT/CT. The result gives the lung shunt fraction, and it also shows how well the particles reach the tumour compared with healthy liver tissue.</p>"
+          },
+          {
+            "q": "What is a lung shunt fraction and why does it matter?",
+            "a": "<p>The lung shunt fraction is the percentage of injected particles that travel through the tumour and lodge in your lungs instead of staying in the liver. Tumours often have abnormal connections between arteries and veins, which lets particles slip through. A high shunt raises the risk of radiation pneumonitis, so the treating team may reduce the planned dose or, in some cases, decide TARE is not safe for you.</p>"
+          },
+          {
+            "q": "How long does the mapping angiogram take?",
+            "a": "<p>The mapping angiogram itself usually takes about 60 to 90 minutes, with the MAA scan following shortly after on the same day. Most patients spend several hours in hospital overall, including preparation, sedation recovery, and a few hours lying flat if the groin artery was used. Many centres treat it as a day case, though your team may keep you overnight depending on your health and the access site used.</p>"
+          },
+          {
+            "q": "Is the mapping procedure painful?",
+            "a": "<p>Most patients feel pressure rather than pain, because the artery puncture site is numbed with local anaesthetic and light sedation is usually given. You may notice a warm flush when contrast dye is injected, and some soreness or bruising at the groin or wrist afterwards. Discomfort typically settles within a day or two, and the team can adjust sedation if you are anxious about the procedure.</p>"
+          },
+          {
+            "q": "What happens if the mapping shows my anatomy is unsuitable?",
+            "a": "<p>If the mapping reveals a very high lung shunt, uncorrectable flow into the stomach or bowel, or vessels the catheter cannot safely reach, the team may cancel or delay TARE. This is not a wasted step — it is exactly what the workup exists to find. Your oncology team may then discuss alternatives such as TACE, ablation, systemic therapy, or external beam radiotherapy, depending on your liver function and tumour pattern.</p>"
+          },
+          {
+            "q": "How long is the gap between the mapping angiogram and the actual TARE treatment?",
+            "a": "<p>Most centres schedule the treatment session one to three weeks after mapping. The gap allows time to calculate your personalised dose from the MAA scan, order the yttrium-90 beads, and confirm insurance or funding. Because Y-90 decays quickly, the beads are made to order for a specific delivery date, so the timing is fixed and rescheduling can mean waiting for a fresh batch.</p>"
+          },
+          {
+            "q": "Do I need to stop any medicines before the mapping angiogram?",
+            "a": "<p>Blood thinners are the main concern, and your team will usually ask you to pause anticoagulants or antiplatelet drugs for a set number of days before the procedure. Certain diabetes medicines, particularly metformin, may also be held around contrast dye exposure. Never stop a medicine on your own — the safe interval depends on your clot risk, kidney function, and the specific drug, so follow written instructions from the treating team.</p>"
+          },
+          {
+            "q": "Is the MAA scan radioactive, and is it safe for my family?",
+            "a": "<p>The MAA scan uses a small, short-lived dose of technetium-99m that poses no meaningful risk to people around you. The tracer decays with a half-life of about six hours and is largely gone within a day. Standard advice is simply to drink fluids and empty your bladder often afterwards. Your nuclear medicine team will tell you if any brief precautions apply in your particular case.</p>"
+          },
+          {
+            "q": "How do I arrange a TARE workup at a hospital abroad?",
+            "a": "<p>Start by having your current scans, liver function tests, and pathology reports reviewed by an interventional radiology team that performs TARE regularly, since the mapping and MAA results drive the whole decision. CancerFax can help patients organise these medical reports, identify centres experienced in radioembolisation, estimate costs, and coordinate travel and follow-up alongside the treating oncology team. Acceptance and final eligibility always depend on that team's own assessment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

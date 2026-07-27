@@ -1,0 +1,59 @@
+{
+  "pillar": "BCMA+CD38 and BCMA+GPRC5D Dual CAR-T for Myeloma: China's Next Frontier",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "dual-car-t-for-multiple-myeloma-in-china",
+  "route": "/insights/dual-car-t-for-multiple-myeloma-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is dual-target CAR-T therapy for multiple myeloma?",
+            "a": "<p>Dual-target CAR-T uses one infusion of engineered T cells trained to recognise two myeloma markers instead of one, usually BCMA together with CD38 or GPRC5D. Myeloma often survives single-target therapy by shedding or losing the one marker being attacked. Hitting two markers makes that escape route much harder to use. Nearly all of this work sits in early-phase Chinese trials, so availability and eligibility vary by centre.</p>"
+          },
+          {
+            "q": "Why add CD38 or GPRC5D to a BCMA CAR-T?",
+            "a": "<p>CD38 and GPRC5D are added because they usually stay on myeloma cells even when BCMA disappears. BCMA loss is one of the main reasons relapse happens after a single-target CAR-T, and both partner markers sit on most myeloma cells independently of BCMA. Early Chinese data suggest deeper and longer responses with the dual design, though these are small studies and results may change as larger trials report.</p>"
+          },
+          {
+            "q": "Is dual CAR-T better than approved single-target CAR-T like cilta-cel?",
+            "a": "<p>Not proven yet. Approved single-target products such as cilta-cel and ide-cel have large randomised trials behind them, while dual CAR-T has small early-phase Chinese studies with encouraging response rates but short follow-up. The dual design may matter most for patients whose disease has already escaped BCMA. Your myeloma specialist can weigh whether an approved therapy or a trial slot fits your situation better.</p>"
+          },
+          {
+            "q": "Can I get BCMA+GPRC5D CAR-T in China right now?",
+            "a": "<p>Possibly, but only through a clinical trial. BCMA+GPRC5D and BCMA+CD38 CAR-T are not commercially approved anywhere, including China, so access runs through hospital-sponsored studies in cities such as Shanghai, Xi'an, Nanjing and Suzhou. Slots are limited and each trial sets its own entry rules. CancerFax can help send your records to Chinese centres for review, though enrolment is always decided by the trial team.</p>"
+          },
+          {
+            "q": "How much does dual CAR-T cost in China?",
+            "a": "<p>Trial participation in China often covers the cell product itself, so families usually pay for the hospital stay, workup, complication management, travel and accommodation rather than the therapy. Reported out-of-pocket totals commonly fall between USD 60,000 and 150,000, but this varies widely by centre and by how smoothly recovery goes. Ask for a written estimate before you travel, since costs can change.</p>"
+          },
+          {
+            "q": "Am I eligible if a BCMA CAR-T has already stopped working for me?",
+            "a": "<p>Often yes, and this is exactly the group these trials were designed for. Many Chinese dual-target studies specifically enrol patients who relapsed after a prior BCMA-directed CAR-T or bispecific antibody, because the second target may still be present. The trial team will usually want a fresh biopsy to confirm target expression. Prior therapy does not rule you out automatically, but each protocol sets its own limits.</p>"
+          },
+          {
+            "q": "What are the side effects of dual-target CAR-T?",
+            "a": "<p>The main risks are cytokine release syndrome, neurological toxicity and low blood counts, the same pattern seen with single-target CAR-T. In reported Chinese dual-target series most cytokine release syndrome has been mild to moderate and manageable with tocilizumab and steroids, while severe neurotoxicity has been uncommon. Infection risk stays high for months afterwards because normal plasma cells are destroyed too. Severity varies between individuals and between products.</p>"
+          },
+          {
+            "q": "Does targeting GPRC5D cause different side effects than CD38?",
+            "a": "<p>Yes. GPRC5D also sits on skin, nail and tongue tissue, so patients may develop rash, dry mouth, altered taste, nail changes or difficulty swallowing. These effects are usually reversible but can be uncomfortable for several weeks. CD38 targeting instead adds a risk of deeper blood count suppression and interference with blood typing tests. Most patients manage both patterns with supportive care, and your team will monitor closely.</p>"
+          },
+          {
+            "q": "How long does the whole process in China take?",
+            "a": "<p>Plan for roughly two to three months in China. Screening and record review take a few weeks before travel, manufacturing runs about two to four weeks after cell collection, then lymphodepletion chemotherapy, infusion and a hospital stay of two to four weeks follow. Most centres ask patients to stay nearby for another month of monitoring. Delays are common, so build extra time into visa and travel plans.</p>"
+          },
+          {
+            "q": "How do I start the process from outside China?",
+            "a": "<p>Start by having your medical records translated and reviewed. Centres typically want recent bone marrow results, imaging, cytogenetics, a full treatment history and evidence of BCMA or GPRC5D expression before they will consider you. CancerFax can help package and route these documents to Chinese trial centres, though acceptance remains the trial team's decision. Beginning early matters, since visa and funding steps often take longer than the medical review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

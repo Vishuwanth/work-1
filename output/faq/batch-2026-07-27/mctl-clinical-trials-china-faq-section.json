@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Clinical Trials Currently Enrolling in China",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-clinical-trials-china",
+  "route": "/insights/mctl-clinical-trials-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MCTL therapy, in plain language?",
+            "a": "<p>MCTL is a cell therapy that uses lymphocytes trained to recognise several tumour markers at once, instead of a single target like CD19. Your own immune cells are collected, expanded and primed in a laboratory, then infused back into you. Because it aims at multiple antigens, researchers hope it may help in solid tumours where single-target CAR-T has struggled. It remains investigational, and results in China are still being gathered.</p>"
+          },
+          {
+            "q": "Which MCTL clinical trials are currently enrolling in China?",
+            "a": "<p>Several early-phase MCTL trials are open at hospitals in Beijing, Shanghai, Guangzhou and Tianjin, often run with biotech partners such as Bohai Biotech. Enrolment lists change month to month as cohorts fill, so a specific trial may already be closed by the time you apply. Ask the trial coordinator for the current cohort status in writing before booking travel, and confirm the protocol number matches your diagnosis.</p>"
+          },
+          {
+            "q": "Can I join an MCTL trial in China if I live overseas?",
+            "a": "<p>Many Chinese centres do accept international patients, but acceptance is never automatic. Each site reviews your pathology report, imaging and recent blood work before offering a slot, and some protocols are limited to residents or to patients treated locally first. You will usually need an invitation letter from the hospital for a medical visa.</p><p>CancerFax can pass your records to enrolling centres for review, though the treating oncology team makes the final decision.</p>"
+          },
+          {
+            "q": "Which cancers are MCTL trials in China testing?",
+            "a": "<p>Most open MCTL protocols focus on advanced solid tumours — liver, lung, gastric, pancreatic, colorectal and some head and neck cancers — usually after standard chemotherapy or immunotherapy has stopped working. A smaller number include blood cancers. Whether your subtype and stage fit depends on the protocol wording, your prior treatments and your organ function, so eligibility can differ between two people with the same diagnosis.</p>"
+          },
+          {
+            "q": "How much does MCTL treatment in China cost?",
+            "a": "<p>Costs vary widely. In a fully sponsored trial the cell product itself may be free, and you pay for travel, accommodation, screening scans and hospital care — often US$8,000 to US$25,000. In self-paid or expanded-access programmes, the total can reach US$40,000 or more. Quotes usually exclude complications and extended stays, so ask for an itemised estimate and a written policy on what happens if costs rise.</p>"
+          },
+          {
+            "q": "How do I find out whether I am eligible?",
+            "a": "<p>Send the centre a recent pathology report, a scan from the last four to six weeks, a treatment summary and current blood counts, including liver and kidney function. A trial doctor screens these against the protocol, often within one to two weeks. How well you are day to day matters as much as the diagnosis; very weak patients are frequently declined. Initial approval is preliminary and can change after on-site testing.</p>"
+          },
+          {
+            "q": "What side effects should we expect after the infusion?",
+            "a": "<p>The most common problems are fever, chills, fatigue and short-lived drops in blood counts during the first two weeks after infusion. Cytokine release syndrome can occur and is usually managed in hospital with fluids, steroids or tocilizumab. Because MCTL is still investigational, rarer effects may not yet be described, which is why trials keep patients close to the centre for monitoring. Ask what emergency cover the hospital provides.</p>"
+          },
+          {
+            "q": "How long will we need to stay in China?",
+            "a": "<p>Plan for six to ten weeks in most programmes. Screening and cell collection take about a week, laboratory manufacturing usually two to four weeks, then infusion followed by two to four weeks of monitoring before you are cleared to fly. Delays happen if manufacturing fails or your blood counts recover slowly. Flexible tickets and extendable accommodation often save money, because the timeline can shift by a week or two.</p>"
+          },
+          {
+            "q": "Does MCTL actually work? What results have been published?",
+            "a": "<p>Published MCTL data is early and limited, mostly small phase I and phase II cohorts reporting disease control in a minority of heavily treated patients, with occasional longer-lasting responses. There are no large randomised trials comparing MCTL with standard care, so it cannot yet be called an established treatment. Ask each centre for its own response and survival figures in your tumour type, and treat verbal claims cautiously.</p>"
+          },
+          {
+            "q": "What should we ask before agreeing to an MCTL trial?",
+            "a": "<p>Ask for the protocol number and ethics approval, the trial phase, how many patients have already been treated, what the cell product targets, who pays if complications arise, and what happens if manufacturing fails. Request the consent form in a language you read before you travel.</p><p>Having your home oncologist review these documents, with help from CancerFax if useful, often reveals gaps that are worth clarifying early.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT for Oral Cancer and Oral Leucoplakia: India's Experience at Tata Memorial and AIIMS",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-for-oral-cancer",
+  "route": "/insights/pdt-for-oral-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is photodynamic therapy (PDT) for oral cancer?",
+            "a": "<p>Photodynamic therapy destroys abnormal cells in the mouth using a light-sensitive drug and a laser tuned to a specific wavelength. The drug collects in diseased tissue, and the light activates it, producing oxygen molecules that kill those cells while largely sparing the healthy lining around them. In India it is used mainly for early, thin lesions and for oral leucoplakia, rather than for large or deeply invasive tumours.</p>"
+          },
+          {
+            "q": "Can PDT treat oral leucoplakia, or is it only for cancer?",
+            "a": "<p>PDT is used most often for oral leucoplakia and other precancerous patches, where it can clear visible disease and may reduce the chance of it turning malignant. Response reported from Indian centres tends to be better for thin, well-defined patches and lower for thick or speckled ones. Recurrence can still happen, so long-term follow-up is needed. Your oral oncologist decides suitability after a biopsy.</p>"
+          },
+          {
+            "q": "Is PDT available at Tata Memorial and AIIMS?",
+            "a": "<p>Tata Memorial Centre in Mumbai and AIIMS in New Delhi both have experience with photodynamic therapy for oral lesions, largely through their head and neck units and research protocols rather than as a routine walk-in service. Availability can change with equipment, drug supply, and ongoing studies. Access often depends on referral and on whether your lesion fits the criteria the centre is using at that time.</p>"
+          },
+          {
+            "q": "How is a PDT session done, and does it hurt?",
+            "a": "<p>You receive the photosensitiser first, either applied directly to the lesion or given into a vein, then wait a set time before light is delivered through a fibre-optic probe placed in the mouth. The light exposure itself takes minutes and is usually done under local anaesthesia or short general anaesthesia. Pain and swelling in the days afterwards are common and are managed with medication.</p>"
+          },
+          {
+            "q": "How long does recovery take after oral PDT?",
+            "a": "<p>Most people have soreness, swelling, and a white slough over the treated area for one to three weeks, with healing usually complete by four to six weeks. Soft, cool foods and careful mouth hygiene help during this time. Because PDT does not cut tissue, scarring and loss of function are often less than after surgery, which matters when the lesion sits on the tongue or inner cheek.</p>"
+          },
+          {
+            "q": "Can PDT let me avoid surgery for my oral cancer?",
+            "a": "<p>PDT can be an alternative to surgery for very early, thin, surface lesions, but it does not replace surgery when a tumour is thick, invades muscle or bone, or involves neck lymph nodes. For those, removal with or without radiation remains standard. Depth is the deciding factor, because the light penetrates only a few millimetres. Biopsy and imaging determine which route applies in your case.</p>"
+          },
+          {
+            "q": "What are the side effects and risks of oral PDT?",
+            "a": "<p>Common effects are mouth pain, swelling, ulceration, and temporary difficulty eating or speaking for a few weeks. Photosensitisers given into a vein can leave your skin and eyes sensitive to bright light for a period, so you may be asked to stay out of strong sunlight.</p><p>Serious problems are uncommon but can include airway swelling when large areas are treated, so ask how your specific plan manages this.</p>"
+          },
+          {
+            "q": "How much does PDT for oral lesions cost in India?",
+            "a": "<p>Costs in India are usually well below those in Western countries, though the figure depends on the photosensitiser used, the number of sessions, anaesthesia, and whether the hospital is government-run or private. Public institutions may subsidise heavily for eligible patients. Widespread leucoplakia often needs repeated sessions, which raises the total. Ask for a written estimate covering sessions, biopsy, and follow-up before you travel.</p>"
+          },
+          {
+            "q": "Can I travel from abroad to India for PDT?",
+            "a": "<p>International patients do travel to India for head and neck care, and PDT may form part of the plan when the lesion suits it. Practical steps include sending biopsy slides and clinical photographs for review, obtaining a medical visa, and allowing several weeks in the country if repeat sessions are needed. CancerFax can help route your records to Indian centres, but the treating oncology team decides eligibility.</p>"
+          },
+          {
+            "q": "Will the leucoplakia or cancer come back after PDT?",
+            "a": "<p>Recurrence is possible, and reported rates vary with lesion thickness, continued tobacco or areca nut use, and how much of the at-risk lining was treated. Stopping tobacco and betel quid gives the largest reduction in risk. Examination every few months for at least two years is standard practice, with repeat biopsy if a patch returns. PDT can often be repeated if disease comes back.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

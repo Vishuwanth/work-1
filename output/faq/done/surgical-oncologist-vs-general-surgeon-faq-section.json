@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is the Difference Between a Surgical Oncologist and a General Surgeon?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "surgical-oncologist-vs-general-surgeon",
+  "route": "/insights/surgical-oncologist-vs-general-surgeon",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between a surgical oncologist and a general surgeon?",
+            "a": "<p>A surgical oncologist is a surgeon with extra fellowship training devoted entirely to cancer operations, while a general surgeon covers a wide range of abdominal and soft-tissue procedures, only some of which involve tumours. Both may remove a cancer, but the surgical oncologist plans the operation around staging, margins, lymph node mapping, and how surgery fits with chemotherapy or radiation. For complex or advanced tumours, that focus often matters.</p>"
+          },
+          {
+            "q": "Do I need a surgical oncologist, or can a general surgeon remove my tumour?",
+            "a": "<p>Not every cancer needs a surgical oncologist, but complex ones usually do. Small skin lesions and some early, straightforward tumours are often handled well by an experienced general surgeon. Operations on the pancreas, oesophagus, rectum, or a sarcoma, and anything needing extensive lymph node clearance, are usually safer in the hands of a surgical oncologist. Ask your oncology team which category your case falls into.</p>"
+          },
+          {
+            "q": "How much extra training does a surgical oncologist have?",
+            "a": "<p>A surgical oncologist first completes a full general surgery residency, then adds two to three years of fellowship training focused only on cancer surgery. That is typically eight to ten years of surgical training after medical school. In India this is often an MCh in surgical oncology; in China and the West it is usually a dedicated oncology surgical fellowship. Titles and pathways vary by country, so credentials are worth checking.</p>"
+          },
+          {
+            "q": "Does it change my survival chances if a general surgeon does my cancer operation?",
+            "a": "<p>It can, for complex cancers. Studies consistently show that patients operated on by high-volume, cancer-trained surgeons at high-volume centres tend to have cleaner margins, more complete lymph node sampling, and lower rates of serious complications. For simpler tumours the difference is often small. Because outcomes depend on the surgeon, the hospital, and your own stage and health, ask about your surgeon's annual volume for your specific operation.</p>"
+          },
+          {
+            "q": "Which cancers should always be operated on by a surgical oncologist?",
+            "a": "<p>Pancreatic, oesophageal, gastric, liver, rectal, ovarian, head and neck, and soft tissue sarcomas are the operations most often reserved for surgical oncologists. These involve difficult anatomy, wide margins, and detailed lymph node dissection, and results tend to be better in specialist hands. Breast and colon cancer surgery is done well by both, depending on the surgeon's experience. Your multidisciplinary tumour board can advise which surgeon suits your case.</p>"
+          },
+          {
+            "q": "Can a general surgeon do my biopsy?",
+            "a": "<p>Yes, a general surgeon can perform most biopsies, and many do so competently. What matters is where the incision is placed, because a poorly sited biopsy can compromise the later cancer operation, especially for sarcomas and head and neck tumours. For suspected cancer, it is often better to have the biopsy done by, or at least discussed with, the surgeon who would perform the definitive surgery. Ask before the biopsy is scheduled.</p>"
+          },
+          {
+            "q": "Will a surgical oncologist cost more than a general surgeon?",
+            "a": "<p>Usually a little more, but the gap is often smaller than patients expect. Surgical oncologists tend to work at specialist cancer centres, where the surgeon's fee, imaging, pathology, and intensive care support can raise the total bill. In India a major cancer operation commonly runs from around 6,000 to 15,000 US dollars, less than in most Western countries. Costs vary by hospital, stage, and insurance, so always ask for a written estimate.</p>"
+          },
+          {
+            "q": "How do I check whether my surgeon is actually a surgical oncologist?",
+            "a": "<p>Ask directly for the surgeon's fellowship qualification and the number of your specific operation they perform each year. In India, look for MCh or DNB in surgical oncology; in China, look for a named oncology surgery department rather than general surgery. Hospital profiles and medical council registries can confirm this. Teams such as CancerFax can help you request a surgeon's credentials and case volume before you commit, alongside your own oncologist's advice.</p>"
+          },
+          {
+            "q": "Who decides my treatment plan, the surgical oncologist or the medical oncologist?",
+            "a": "<p>Your treatment plan is decided by the whole team, not one doctor. In most cancer centres a tumour board of medical, surgical, and radiation oncologists, radiologists, and pathologists reviews your scans and biopsy together and agrees the sequence of treatment. The surgical oncologist advises on whether and when to operate; the medical oncologist leads drug therapy. If your hospital does not hold tumour board reviews, that is worth asking about.</p>"
+          },
+          {
+            "q": "If I travel to India or China for surgery, will a surgical oncologist operate on me?",
+            "a": "<p>At major cancer hospitals in India and China, cancer operations are normally performed by fellowship-trained surgical oncologists rather than general surgeons. Smaller or general hospitals may not follow that pattern, so confirm the named surgeon and their department before you travel. CancerFax can share the surgeon's profile and expected costs with you in advance. Final decisions on whether you are fit for surgery rest with the treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

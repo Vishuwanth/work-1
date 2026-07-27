@@ -1,0 +1,59 @@
+{
+  "pillar": "PET-CT Guided Treatment in Cancer Care",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pet-ct-guided-treatment",
+  "route": "/treatments/pet-ct-guided-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does PET-CT guided treatment actually mean?",
+            "a": "<p>PET-CT guided treatment means your cancer care is planned and adjusted using PET-CT images, which show both where a tumour sits and how active it is. The PET part detects cells taking up a sugar tracer quickly, while the CT part maps the exact location. Doctors use the combined picture to stage the disease, aim radiation, plan surgical margins, and check whether a drug is working.</p>"
+          },
+          {
+            "q": "How is a PET-CT scan different from an ordinary CT scan?",
+            "a": "<p>An ordinary CT scan shows structure only: size, shape and position. A PET-CT scan adds metabolic activity, so it can often tell an active tumour from scar tissue or swelling that looks similar on CT alone. That difference matters most when doctors need to know whether a lump left after treatment is still live cancer. Many centres now book PET-CT rather than CT when staging aggressive cancers.</p>"
+          },
+          {
+            "q": "Can a PET-CT scan change the treatment my doctor has already planned?",
+            "a": "<p>Yes, PET-CT often changes the plan, because it can find spread that CT or MRI missed. Studies in lymphoma, lung and head-and-neck cancer report the plan changing in roughly one in four patients after PET-CT staging. That may mean moving from surgery to systemic therapy, widening a radiation field, or avoiding an operation unlikely to help. Your oncology team decides based on the full clinical picture.</p>"
+          },
+          {
+            "q": "Is the radiation from a PET-CT scan harmful?",
+            "a": "<p>The radiation dose from a whole-body PET-CT is real but small, usually around 15 to 25 millisieverts, similar to a few years of natural background exposure. For someone being treated for cancer, the benefit of accurate staging almost always outweighs that risk. The injected tracer clears from your body within about a day. Tell your team if you are pregnant or breastfeeding, since the scan may be delayed or changed.</p>"
+          },
+          {
+            "q": "How do I prepare for a PET-CT scan?",
+            "a": "<p>You will usually fast for four to six hours beforehand, drink plain water only, and avoid hard exercise the day before. Diabetic patients need specific instructions on insulin and blood sugar, so tell the centre in advance. After the tracer injection you rest quietly for about an hour, then the scan itself takes 20 to 30 minutes. Preparation rules can vary between hospitals, so follow the instructions you are given.</p>"
+          },
+          {
+            "q": "Does PET-CT help with planning my radiation therapy?",
+            "a": "<p>Yes. PET-CT is widely used to draw the radiation target, because metabolically active tumour often extends beyond what CT shows. Planning on fused PET-CT images can shrink the treated volume in some patients and enlarge it in others, and it may help spare healthy lung, bowel or salivary glands. Some centres also use it to deliver a higher boost dose to the most active part of a tumour.</p>"
+          },
+          {
+            "q": "How often will I need PET-CT scans during my treatment?",
+            "a": "<p>Most patients have one PET-CT before treatment for staging and another after it finishes to judge response. Some cancers, lymphoma in particular, use an interim scan partway through chemotherapy to decide whether to change drugs. Routine repeat scanning every few months is generally not recommended once you are in remission, since it rarely improves outcomes. Your oncologist sets the schedule based on your cancer type and risk.</p>"
+          },
+          {
+            "q": "My report mentions a hot spot. Does that always mean cancer?",
+            "a": "<p>No. A hot spot means tissue is taking up the tracer quickly, and infection, inflammation, recent surgery, healing fractures and even brown fat can all light up. Radiologists grade uptake using an SUV number and read it alongside the CT images and your history. When a finding is unclear, the usual next step is a biopsy or a repeat scan a few weeks later.</p>"
+          },
+          {
+            "q": "What does PET-CT guided treatment cost in India or China?",
+            "a": "<p>A PET-CT scan in India typically costs around 15,000 to 30,000 rupees, roughly 180 to 360 US dollars, and Chinese hospital prices often sit in a similar range, well below what many Western countries charge. The cost of the treatment guided by that scan varies far more widely. CancerFax can help you compare quotes from accredited centres, though final pricing always depends on the hospital and your case.</p>"
+          },
+          {
+            "q": "Can I have the scan abroad and continue treatment with my doctor at home?",
+            "a": "<p>In many cases, yes. Ask the centre for your images on a disc or secure download in DICOM format, not just the printed report, because your home oncologist will want the raw data. Some doctors prefer to repeat the scan on their own equipment if the images are old or incomplete. CancerFax can help arrange the records transfer, but your treating team makes the final call.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

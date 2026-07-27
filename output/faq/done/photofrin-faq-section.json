@@ -1,0 +1,59 @@
+{
+  "pillar": "Photofrin (Porfimer Sodium): The Most Widely Approved Photosensitiser Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "photofrin",
+  "route": "/insights/photofrin",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Photofrin and how does it work?",
+            "a": "<p>Photofrin (porfimer sodium) is a light-activated drug used in photodynamic therapy, or PDT. It is injected into a vein, collects in tumour tissue over roughly two days, then is switched on by red laser light aimed directly at the tumour. The activated drug creates reactive oxygen that damages cancer cells from the inside and shuts down the small blood vessels feeding them.</p>"
+          },
+          {
+            "q": "Which cancers is Photofrin approved to treat?",
+            "a": "<p>Photofrin is approved for oesophageal cancer that is blocking the food pipe, non-small cell lung cancer growing inside the airway, and high-grade dysplasia in Barrett's oesophagus. Approvals differ by country, and some regulators also permit use in early gastric or cervical cancer. Whether it suits your specific tumour depends on where the growth sits and whether light can physically reach it.</p>"
+          },
+          {
+            "q": "How is the treatment actually given?",
+            "a": "<p>Treatment happens across two visits. First, a nurse injects Photofrin into a vein over several minutes, usually at 2 mg per kilogram of body weight. About 40 to 50 hours later, a doctor passes a thin endoscope down to the tumour and shines red light on it for roughly ten minutes. A second light session two days after the first is sometimes added.</p>"
+          },
+          {
+            "q": "Why is there a two-day gap between the injection and the light?",
+            "a": "<p>The gap lets Photofrin clear out of healthy tissue while staying behind in the tumour. Cancer tissue holds the drug longer than normal cells do, so waiting 40 to 50 hours widens the difference between the two and makes the light treatment more selective. Shining the light too early can damage more of the surrounding healthy tissue than the plan intends.</p>"
+          },
+          {
+            "q": "How long will my skin stay sensitive to light after Photofrin?",
+            "a": "<p>Expect at least 30 days of light sensitivity, and often closer to 90 days. Photofrin lingers in the skin long after treatment, so ordinary sunlight, and even bright indoor or examination lamps, can cause redness, swelling or a burning feeling within minutes.</p><p>Your team will usually give you a step-by-step schedule for testing a small patch of skin before you return to normal outdoor light.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>The most common problems are skin reactions to light, chest pain, difficulty swallowing, nausea, constipation and fever. Because the treated area swells as it heals, the food pipe or airway can narrow and may need stretching later. Coughing up small amounts of blood can happen after airway treatment. Most effects settle over several weeks, though the timeline varies with the site treated.</p>"
+          },
+          {
+            "q": "Is Photofrin better than the newer photosensitisers?",
+            "a": "<p>Photofrin is the most widely approved photosensitiser, but not the newest or the gentlest. Later drugs such as temoporfin and 5-ALA clear from the skin far faster, so light sensitivity may last days rather than weeks. Photofrin's advantage is a long safety record and approval in many countries. The better choice depends on your tumour site, what your hospital stocks and your oncologist's judgment.</p>"
+          },
+          {
+            "q": "Can Photofrin cure my cancer?",
+            "a": "<p>Photofrin can clear very early tumours completely, particularly high-grade dysplasia in Barrett's oesophagus and small airway cancers, where long-term control is often achieved. In advanced disease it is more often used to reopen a blocked food pipe or airway and ease symptoms rather than to cure. No photosensitiser guarantees a cure, and results depend heavily on tumour depth, since light reaches only about a centimetre.</p>"
+          },
+          {
+            "q": "Can I get Photofrin treatment in India or China?",
+            "a": "<p>Photodynamic therapy is offered at selected large cancer centres in both countries, though the photosensitiser stocked varies and may not be Photofrin itself. China has its own approved porfimer-type and newer agents, while Indian centres often arrange imported supply case by case. CancerFax can help you check which centres currently run PDT programmes, but eligibility is always decided by the treating oncology team.</p>"
+          },
+          {
+            "q": "How much does Photofrin PDT cost, and will insurance cover it?",
+            "a": "<p>Costs vary widely because the drug, the endoscopy, the laser session and any later stretching of the food pipe are usually billed separately. Treatment in India and China is often considerably cheaper than in the United States or Europe, but the photosensitiser remains the largest single item. Cover depends on the approved indication in your country, so ask for a written itemised estimate before you travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

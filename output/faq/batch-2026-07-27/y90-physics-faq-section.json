@@ -1,0 +1,59 @@
+{
+  "pillar": "Y-90 Physics: Beta Radiation, Half-Life, and Microsphere Safety Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "y90-physics",
+  "route": "/insights/y90-physics",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What kind of radiation does Y-90 actually give off?",
+            "a": "<p>Yttrium-90 emits beta radiation, which is a stream of high-energy electrons rather than penetrating gamma rays. Those electrons travel only a few millimetres before they stop, so the energy is deposited inside the tumour the beads are lodged in. Very little radiation reaches healthy liver, and almost none leaves your body, which is why Y-90 can usually be given as a day-case procedure without a shielded room.</p>"
+          },
+          {
+            "q": "How far does the radiation from the beads travel inside my liver?",
+            "a": "<p>About 2.5 millimetres on average, and no more than roughly 11 millimetres at maximum. Because millions of beads sit packed inside the tumour's own small vessels, the dose adds up where they are dense and falls away sharply a short distance beyond. That steep drop-off is what allows Y-90 to deliver a far higher tumour dose than external beam radiotherapy without destroying the surrounding liver.</p>"
+          },
+          {
+            "q": "How long does Y-90 stay radioactive inside my body?",
+            "a": "<p>Yttrium-90 has a half-life of about 64 hours, just under three days. Half the total radiation is delivered in those first 64 hours, roughly 94 percent within the first two weeks, and after about a month almost none is left. The beads themselves stay in your liver permanently, but by that point they are inert specks of glass or resin and no longer emit anything.</p>"
+          },
+          {
+            "q": "Am I radioactive afterwards, and is it safe to be around my family?",
+            "a": "<p>For most patients yes, and normal family contact is usually allowed within days. Because beta particles stop within millimetres of tissue, very little radiation escapes your body, and most people go home the same day without isolation. Centres still give short-term precautions, often about close contact with young children or anyone pregnant. Follow the written instructions from your nuclear medicine team, since rules vary by country and by dose.</p>"
+          },
+          {
+            "q": "Why use beta radiation instead of gamma rays for liver tumours?",
+            "a": "<p>Beta particles give up all their energy within a few millimetres, so the dose can be aimed precisely. Gamma rays travel through the body, irradiating healthy organs on the way out and requiring shielded rooms and longer hospital stays. Beta emission lets doctors concentrate a very high dose inside liver tumours while the rest of your body, your family, and hospital staff receive very little.</p>"
+          },
+          {
+            "q": "What are the microspheres made of, and do they dissolve?",
+            "a": "<p>They are tiny beads of glass or resin, roughly 20 to 60 microns wide, which is thinner than a human hair. The yttrium-90 is either fused into the glass or bound to the resin surface, so it cannot leak out into your bloodstream. The beads do not dissolve or move once they wedge into small tumour vessels, and they stay in the liver permanently after treatment.</p>"
+          },
+          {
+            "q": "What is the difference between glass and resin microspheres?",
+            "a": "<p>Both types deliver the same beta radiation, but they differ in how much activity each bead carries. Glass spheres are far more radioactive individually, so fewer are injected and blood flow is blocked less. Resin spheres carry less activity each, so many more are needed, which adds a stronger embolic effect. Which one suits you depends on tumour type, blood supply, and your interventional radiologist's assessment.</p>"
+          },
+          {
+            "q": "If beta radiation cannot be seen on a scan, how do doctors check where the beads went?",
+            "a": "<p>Doctors image the faint by-products of the decay. Y-90 produces a weak bremsstrahlung X-ray signal that a SPECT gamma camera can detect, and a very small share of decays release positrons that PET scanners can map with sharper detail. A scan within about a day of treatment confirms the beads landed in the tumour rather than elsewhere. Ask which imaging your centre uses and when you will see it.</p>"
+          },
+          {
+            "q": "What is a lung shunt fraction and why does it change my dose?",
+            "a": "<p>Some blood passing through a liver tumour bypasses the liver and reaches the lungs. Before treatment, a test injection of a tracer measures how much, and that figure is called the lung shunt fraction. Beta radiation would irradiate lung tissue as well, so a high shunt usually means a reduced dose or, occasionally, that Y-90 is not safe for you. Thresholds differ between centres and are decided by your treating team.</p>"
+          },
+          {
+            "q": "How is the Y-90 dose measured, and how does it compare with normal radiotherapy?",
+            "a": "<p>Y-90 dose is measured in gray, the same unit as external beam radiotherapy, but the numbers are not comparable. External beam might deliver 30 to 50 gray to part of the liver over several weeks, while Y-90 often delivers well over 100 gray to the tumour, released continuously across about two weeks. If you are comparing centres, CancerFax can help you obtain the dosimetry details in writing alongside your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

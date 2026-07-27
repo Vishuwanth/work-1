@@ -1,0 +1,59 @@
+{
+  "pillar": "Ovarian Cancer Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "ovarian-cancer-treatment-in-india",
+  "route": "/guides/ovarian-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does ovarian cancer treatment in India cost for an international patient?",
+            "a": "<p>Ovarian cancer treatment in India usually costs between USD 6,000 and USD 20,000, depending on stage and plan. Surgery alone often falls near the lower end, while six cycles of chemotherapy, HIPEC, or targeted drugs push the total higher. Quoted packages may exclude scans, extended ICU stays, and repeat cycles. Ask for a written estimate that lists what is and what is not covered, because final costs depend on how your disease responds.</p>"
+          },
+          {
+            "q": "Why do so many patients travel to India for ovarian cancer treatment?",
+            "a": "<p>International patients choose India for ovarian cancer treatment because the same surgery and drugs cost far less than in the US, UK, or Gulf countries, with no long waiting list. Major cancer centres run high-volume gynaecologic oncology units, and most staff speak English. Treatment quality still depends on the individual surgeon and hospital, so ask about the team's annual case volume for advanced ovarian cancer before you commit.</p>"
+          },
+          {
+            "q": "Will I need surgery first, or chemotherapy first?",
+            "a": "<p>It depends on how far the disease has spread and how well you are. Early-stage disease usually goes straight to surgery, followed by chemotherapy. Widespread stage III or IV disease is often treated with three cycles of chemotherapy first, then interval debulking surgery, then more chemotherapy. Your team decides using scans, CA-125 levels, and sometimes a laparoscopy. Ask why the recommended order was chosen for your case.</p>"
+          },
+          {
+            "q": "Do Indian hospitals offer HIPEC for ovarian cancer, and would I qualify?",
+            "a": "<p>Yes, several Indian cancer centres offer HIPEC, which washes heated chemotherapy through the abdomen right after cytoreductive surgery. It is mainly considered for stage III disease when the surgeon can remove all visible tumour, often after chemotherapy has shrunk it. HIPEC adds operating time, ICU time, and cost. Whether it suits you depends on your imaging, fitness, and how completely the tumour can be cleared, so treat eligibility as case by case.</p>"
+          },
+          {
+            "q": "Are PARP inhibitors like olaparib available in India?",
+            "a": "<p>Yes, olaparib, niraparib, and bevacizumab are available in India, often as lower-cost generic or biosimilar versions. Maintenance with a PARP inhibitor is usually offered after chemotherapy if you have a BRCA mutation or homologous recombination deficiency, so genetic testing comes first. Monthly costs can be a fraction of Western prices. Access, dosing, and how long you continue depend on your test results and your oncologist's judgement.</p>"
+          },
+          {
+            "q": "How long will I have to stay in India?",
+            "a": "<p>Most international patients stay four to six weeks for surgery plus the first chemotherapy cycles, though plans vary. Surgery needs roughly one week in hospital and two to three weeks of recovery before travel is comfortable. If your team gives all six chemotherapy cycles in India, budget four to five months. Many patients complete the first cycles here and finish the rest at home, if their local oncologist agrees.</p>"
+          },
+          {
+            "q": "What visa do I need to come to India for treatment?",
+            "a": "<p>You will usually need an Indian medical visa, which requires a treatment invitation letter from the hospital, your passport, and proof of funds. A companion can apply for a medical attendant visa; up to two attendants are normally allowed. Processing often takes a few working days, and e-medical visas are available to many nationalities. Rules change, so confirm current requirements with the Indian mission covering your country before booking flights.</p>"
+          },
+          {
+            "q": "Can I get an opinion from an Indian doctor before I travel?",
+            "a": "<p>Yes. You can send your scans, biopsy slides or blocks, and pathology reports to an Indian gynaecologic oncologist and get a written opinion before you travel. CancerFax can help route those records to a treating team and return a plan with an estimated cost. Reviews often change the plan, since ovarian tumour subtype matters. Any final decision should rest with the oncology team that examines you in person.</p>"
+          },
+          {
+            "q": "Can I still have children after ovarian cancer treatment?",
+            "a": "<p>Sometimes. If you have early-stage disease limited to one ovary and a favourable tumour type, a surgeon may remove only that ovary and the tube, keeping your uterus and the other ovary. This option is discussed most often for younger women with stage I disease. Advanced disease usually needs both ovaries removed. Ask about egg or embryo freezing before treatment starts, since eligibility depends on your stage and pathology.</p>"
+          },
+          {
+            "q": "What follow-up will I need once I go home?",
+            "a": "<p>Plan for a scan and CA-125 blood test every three months for the first two years, then less often. Your Indian team should give you a discharge summary, operative notes, pathology report, and drug list so your local doctor can continue care. Share any new bloating, pain, or weight change quickly. Most recurrences are picked up on routine follow-up, and follow-up intervals may differ based on your risk.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

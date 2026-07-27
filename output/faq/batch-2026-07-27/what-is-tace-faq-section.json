@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is TACE? A Patient Introduction to Liver Cancer Embolisation",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-tace",
+  "route": "/insights/what-is-tace",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TACE, in plain language?",
+            "a": "<p>TACE, or transarterial chemoembolisation, delivers chemotherapy directly into the artery feeding a liver tumour and then blocks that artery. The drug stays concentrated in the tumour while the blockage starves it of blood and oxygen. It is done through a thin tube threaded from the groin or wrist, so no surgical cut is needed. Most people stay in hospital one to two nights afterwards.</p>"
+          },
+          {
+            "q": "Am I a candidate for TACE?",
+            "a": "<p>TACE is most often offered when liver cancer is confined to the liver but too large or too spread within it for surgery or ablation, and liver function is still reasonably preserved. Your team will check tumour size and number, portal vein blood flow, bilirubin, and overall fitness. A blocked main portal vein, poor liver function, or cancer outside the liver may rule it out. Eligibility depends on your individual scans and blood results.</p>"
+          },
+          {
+            "q": "Does TACE cure liver cancer?",
+            "a": "<p>TACE is usually not a cure; it is used to control tumours, shrink them, and buy time. In many cases it slows growth for months or longer, and it can keep a tumour small enough for a transplant while you wait. Some very small tumours respond completely, but the cancer often returns elsewhere in the liver. Your oncologist can explain what result is realistic for your stage.</p>"
+          },
+          {
+            "q": "What does the procedure actually feel like on the day?",
+            "a": "<p>You are usually awake but sedated, so you feel pressure rather than pain. The radiologist numbs the groin or wrist, threads a fine catheter to the liver artery under X-ray guidance, and releases the drug and embolic material. The procedure itself takes about one to two hours. You lie flat for a few hours afterwards to protect the puncture site, and nurses monitor you overnight.</p>"
+          },
+          {
+            "q": "What are the side effects after TACE?",
+            "a": "<p>Most people develop post-embolisation syndrome: fever, nausea, tiredness, and pain under the right ribs. It starts within a day and usually eases over three to seven days. Liver enzymes often rise for a week or two.</p><p>Less common problems include infection, gallbladder inflammation, and a temporary drop in liver function. Tell your team quickly about high fever, severe pain, or confusion, because these may need treatment.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need?",
+            "a": "<p>Most patients have two to four sessions, spaced roughly six to eight weeks apart, with a scan before each one. Treatment continues while the tumour keeps responding and your liver tolerates it. If a scan shows the tumour is growing despite two sessions, your team will usually switch to another approach rather than repeat it. The exact number depends on tumour response, liver function, and how you recover.</p>"
+          },
+          {
+            "q": "What is the difference between conventional TACE and DEB-TACE?",
+            "a": "<p>Conventional TACE mixes chemotherapy with an oily contrast called lipiodol before injecting embolic material, while DEB-TACE uses tiny beads pre-loaded with the drug that release it slowly. Survival results look broadly similar in most studies. DEB-TACE often causes less nausea and fewer liver enzyme spikes, so some centres prefer it for larger tumours or weaker livers. Availability and cost differ between hospitals, so ask which your centre uses and why.</p>"
+          },
+          {
+            "q": "How much does TACE cost in India or China?",
+            "a": "<p>TACE in India often costs roughly USD 4,000 to 7,000 per session at major private hospitals, and Chinese centres fall in a similar range, though prices vary widely by city, hospital, and whether drug-eluting beads are used. Quotes usually cover the procedure, the hospital stay, and immediate scans, but not repeat sessions or later treatment. CancerFax can help you compare written estimates from accredited centres. Final costs depend on your case.</p>"
+          },
+          {
+            "q": "Can TACE be combined with immunotherapy or other treatments?",
+            "a": "<p>Yes, TACE is increasingly combined with immunotherapy and targeted drugs such as atezolizumab with bevacizumab or lenvatinib, and trials suggest the combination may improve tumour control in selected patients. It is also used before surgery or transplant to shrink tumours, and alongside ablation for tumours in awkward positions. Whether a combination suits you depends on your liver function and trial availability at your hospital.</p>"
+          },
+          {
+            "q": "How will I know if the TACE worked?",
+            "a": "<p>A CT or MRI scan about four to six weeks after treatment shows whether the tumour has died. Doctors look for loss of blood supply inside the tumour rather than shrinkage alone, because a treated tumour can stay the same size yet be inactive. Blood tests such as AFP are checked alongside the scan. Your team will then decide whether to repeat TACE, watch, or move to another treatment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Multi-Antenna MWA: Treating Large Tumours Simultaneously",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "multi-antenna-microwave-ablation",
+  "route": "/insights/multi-antenna-microwave-ablation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is multi-antenna microwave ablation?",
+            "a": "<p>Multi-antenna microwave ablation uses two or more thin needle-like antennas placed into a tumour at the same time, so their heating zones overlap and destroy a larger volume of tissue in one session. A single antenna usually kills a zone about 3 cm across. Running three or four together can widen that zone considerably, which is why the technique is reserved for tumours too big for one probe.</p>"
+          },
+          {
+            "q": "Why can't one antenna treat a large tumour?",
+            "a": "<p>One antenna produces a roughly egg-shaped heat zone about 3 to 4 cm at its widest, and tumour tissue at the edge often survives because heat falls away quickly with distance. Treating a 5 cm mass with a single probe usually means repositioning it several times, which lengthens the procedure and can leave untreated gaps. Overlapping antennas heat the whole target more evenly.</p>"
+          },
+          {
+            "q": "How big a tumour can multi-antenna MWA treat?",
+            "a": "<p>Multi-antenna microwave ablation is generally used for tumours between 3 and 5 cm, and in selected cases up to about 7 cm. Beyond that size, complete destruction is harder to confirm and recurrence at the margin becomes more likely. Shape, blood supply and how close the tumour sits to bowel, bile ducts or major vessels matter as much as diameter, so limits depend on your scans.</p>"
+          },
+          {
+            "q": "Is it better than treating the tumour with one antenna?",
+            "a": "<p>For tumours above roughly 3 cm, multiple antennas usually give more complete ablation than one antenna repositioned repeatedly, because the overlapping fields avoid cold gaps at the margin. Reported complete-ablation rates are higher and treatment times shorter. For small tumours under 2 cm the added benefit is limited, and a single antenna often does the job with fewer punctures and less bleeding risk.</p>"
+          },
+          {
+            "q": "Can more than one tumour be ablated in the same session?",
+            "a": "<p>Yes, several tumours can often be ablated in one session, and this is a common reason for choosing microwave ablation when the liver or lung holds a few separate lesions. The practical limits are total anaesthetic time, how much healthy tissue must be preserved, and where each lesion sits. Your interventional radiologist decides how many can safely be treated at once.</p>"
+          },
+          {
+            "q": "Which cancers is multi-antenna microwave ablation used for?",
+            "a": "<p>It is used most often for liver tumours, including hepatocellular carcinoma and colorectal liver metastases, and also for lung, kidney and bone tumours. It may suit patients who cannot have surgery because of poor liver function, other illnesses, or the position of the tumour. Whether it fits your case depends on tumour size, number, and how well your organ function would tolerate the treated volume.</p>"
+          },
+          {
+            "q": "What are the risks and side effects?",
+            "a": "<p>Most people have pain at the puncture sites, a low-grade fever and tiredness for a few days, a cluster known as post-ablation syndrome. Less common problems include bleeding, infection or abscess, injury to the bile duct or bowel, and a collapsed lung when the chest is treated. Using several antennas means more punctures, so bleeding risk can be slightly higher than with one probe.</p>"
+          },
+          {
+            "q": "How long does the procedure take and how soon can I go home?",
+            "a": "<p>A multi-antenna ablation usually takes one to two hours, with the actual heating lasting only five to ten minutes per cycle. Most patients stay in hospital one or two nights and return to normal activity within a week. Recovery is far quicker than open surgery, though it can take longer if several tumours were treated or if you have other medical conditions.</p>"
+          },
+          {
+            "q": "How do doctors decide where to put the antennas?",
+            "a": "<p>Placement is planned on CT or ultrasound images before and during the procedure, with antennas usually spaced about 1.5 to 2 cm apart so their heating zones overlap without leaving cold spots. Some centres use 3D planning software or fusion imaging to model the combined ablation zone. The plan is checked again during treatment, because breathing and needle position can shift the tumour slightly.</p>"
+          },
+          {
+            "q": "Where can I have this done abroad, and what does it cost?",
+            "a": "<p>Multi-antenna microwave ablation is available at large cancer centres in India and China, and costs there are often a fraction of Western prices, though quotes vary widely with the hospital, the imaging used, and length of stay. CancerFax can help you send your scans and reports to centres that perform the procedure. Any final plan should be agreed with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

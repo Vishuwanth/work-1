@@ -1,0 +1,59 @@
+{
+  "pillar": "HIPEC for Gastric Cancer Peritoneal Disease: China's Largest Asian Programme",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-for-gastric-cancer",
+  "route": "/insights/hipec-for-gastric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can HIPEC help if my gastric cancer has spread to the peritoneum?",
+            "a": "<p>HIPEC may help selected patients whose gastric cancer has spread only to the lining of the abdomen, and it is usually combined with surgery to remove visible tumour first. It works best when the peritoneal disease is limited and the rest of the body is clear. Whether it suits you depends on your scans, your fitness, and review by a specialist surgical team experienced in peritoneal disease.</p>"
+          },
+          {
+            "q": "Why do people travel to China for HIPEC for stomach cancer?",
+            "a": "<p>China runs Asia's largest programme for gastric cancer with peritoneal spread, so its surgical teams see this specific problem far more often than most centres elsewhere. Gastric cancer is common there, several hospitals have dedicated peritoneal surface units, and trials in this group are ongoing. High case volume often tracks with better outcomes, though quality still varies between individual hospitals, so judge each centre on its own numbers.</p>"
+          },
+          {
+            "q": "What actually happens during HIPEC for gastric cancer?",
+            "a": "<p>The surgeon first removes all visible tumour from the abdomen, then circulates chemotherapy heated to about 42–43°C through the abdominal cavity for 30 to 90 minutes before closing. The heat helps the drug reach microscopic deposits that surgery cannot see. For gastric cancer this often includes removing part or all of the stomach, and the whole operation can take eight to twelve hours, depending on how much disease is found.</p>"
+          },
+          {
+            "q": "Am I eligible, or is my peritoneal disease too advanced?",
+            "a": "<p>Eligibility usually depends on whether the surgeon believes every visible deposit can be removed, judged by a peritoneal cancer index score from imaging and often a diagnostic laparoscopy. Patients generally need reasonable fitness, good organ function, and no spread to the liver, lungs, or bones. Many Chinese centres review scans and pathology remotely before you travel, and some patients are found unsuitable at that stage.</p>"
+          },
+          {
+            "q": "Does HIPEC actually help people live longer with peritoneal gastric cancer?",
+            "a": "<p>Reported survival is longer in selected patients who have complete tumour removal plus HIPEC than with chemotherapy alone, but the benefit is not guaranteed and depends heavily on how much disease was present. Patients with limited peritoneal spread and a complete cytoreduction do best. Trial results in gastric cancer remain mixed, so ask your team what the published figures mean for your particular stage and disease burden.</p>"
+          },
+          {
+            "q": "Can HIPEC be used to stop the cancer spreading to the peritoneum in the first place?",
+            "a": "<p>Yes, some Chinese centres offer HIPEC at the time of gastrectomy for patients at high risk of later peritoneal spread, such as those with serosal invasion or positive peritoneal washings. This preventive use is still being studied, and it is not standard everywhere. Whether it is offered to you may depend on your pathology, the hospital's protocol, and whether a suitable trial is open at that centre.</p>"
+          },
+          {
+            "q": "How much does HIPEC for gastric cancer cost in China?",
+            "a": "<p>International patients are typically quoted around US$25,000 to US$45,000 for cytoreductive surgery with HIPEC in China, covering the operation, intensive care, and the inpatient stay. The final figure depends on how extensive the surgery is, which drugs are used, and whether complications extend recovery. Ask each hospital for a written estimate stating exactly what is included, and budget separately for flights, accommodation, and a companion.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of HIPEC?",
+            "a": "<p>Serious complications occur in roughly 20 to 30 percent of patients even at experienced centres, because this is major surgery combined with chemotherapy. The commonest problems are leaks where the bowel or stomach is rejoined, infection, bleeding, kidney strain, and low blood counts. Deaths within 30 days are uncommon at high-volume hospitals. Your own risk reflects your age, fitness, and how extensive the operation needs to be.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China, and what is recovery like?",
+            "a": "<p>Plan for four to six weeks in China altogether. Expect three to five days of tests before surgery, ten to fourteen days in hospital afterwards including intensive care, and around two more weeks nearby before your team clears you to fly. Eating returns slowly if part of the stomach was removed, and complications can extend the stay, so keep travel dates flexible and most hospitals ask a family member to stay with you.</p>"
+          },
+          {
+            "q": "How do I get my case reviewed by a Chinese HIPEC centre?",
+            "a": "<p>Send your recent CT scans, pathology report, tumour markers, and a summary of treatment so far, and the centre will give a written opinion on suitability before you book anything. Most hospitals also need this for the invitation letter that supports a medical visa, so allow several weeks. CancerFax can help gather and forward these records, though the treating surgeon makes the final decision on whether surgery goes ahead.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

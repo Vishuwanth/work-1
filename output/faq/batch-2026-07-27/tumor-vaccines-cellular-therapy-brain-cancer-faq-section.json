@@ -1,0 +1,59 @@
+{
+  "pillar": "Tumour Vaccines and Cellular Therapy for Brain Cancer: Current Evidence and Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tumor-vaccines-cellular-therapy-brain-cancer",
+  "route": "/insights/tumor-vaccines-cellular-therapy-brain-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Do tumour vaccines actually work for brain cancer?",
+            "a": "<p>Tumour vaccines can slow brain cancer in some patients, but none has yet become a standard cure. Trials of DCVax-L and peptide vaccines like rindopepimut have shown modest survival gains in selected glioblastoma groups, while other studies found no benefit. Response often depends on tumour markers, prior treatment, and immune status. Whether a vaccine may help you depends on your pathology report and your treating oncology team's assessment.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy available for brain tumours?",
+            "a": "<p>CAR-T for brain tumours is still experimental and available mainly through clinical trials, not routine care. Approved CAR-T products treat blood cancers; brain-directed versions target markers such as EGFRvIII, IL13Ra2, HER2, and GD2. Early trials, including delivery straight into the tumour cavity or spinal fluid, have shown some tumour shrinkage. Access depends on trial openings, your tumour's marker profile, and eligibility rules that can change month to month.</p>"
+          },
+          {
+            "q": "What is the difference between a tumour vaccine and CAR-T therapy?",
+            "a": "<p>A tumour vaccine trains your own immune system to recognise cancer, while CAR-T re-engineers your T cells outside the body and returns them ready to attack. Vaccines are usually given as repeated injections and are gentler.</p><p>CAR-T is a one-time infusion, more powerful, and carries risks like cytokine release syndrome and brain swelling. Which approach suits you depends on tumour type, marker testing, and overall fitness.</p>"
+          },
+          {
+            "q": "Can I get a brain tumour vaccine in India or China?",
+            "a": "<p>Yes, but only in limited settings, mostly through clinical trials and a few specialist centres rather than routine hospital treatment. Chinese centres run several early-phase cell therapy and neoantigen vaccine studies for glioma, and Indian tertiary hospitals participate in dendritic cell trials. Entry usually requires recent tissue or blood samples, imaging, and a pathology review. CancerFax can help you check which centres are currently enrolling, though your oncologist should confirm suitability.</p>"
+          },
+          {
+            "q": "How much does cellular therapy for brain cancer cost?",
+            "a": "<p>Costs vary widely. Trial-based cellular therapy is often free or heavily subsidised, since the sponsor supplies the product; you may still pay for travel, scans, hospital stay, and supportive care. Outside trials, commercial cell therapy in China can run from roughly US$40,000 to US$150,000, and dendritic cell vaccines somewhat less. Quotes change often and depend on your tumour, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "Does the blood-brain barrier stop these treatments from working?",
+            "a": "<p>The blood-brain barrier limits how many immune cells reach a brain tumour, and it is one reason results have lagged behind blood cancers. Researchers work around it by injecting cells directly into the tumour cavity or the fluid around the brain, which raises local doses. Surgery and radiation also loosen the barrier temporarily. These delivery routes are still under study and may not suit every patient.</p>"
+          },
+          {
+            "q": "What are the side effects of cellular therapy for brain tumours?",
+            "a": "<p>The main risks are fever and low blood pressure from cytokine release syndrome, confusion or seizures from neurotoxicity, and swelling around the tumour that can worsen symptoms for a few days. Because the treated area is the brain, even mild swelling matters and patients are usually monitored in hospital for two to four weeks. Steroids and interleukin-6 blockers can control most reactions when caught early.</p>"
+          },
+          {
+            "q": "Am I eligible if my glioblastoma has already come back?",
+            "a": "<p>Recurrent glioblastoma is the setting most trials recruit for, so returning disease often helps rather than hurts eligibility. Common requirements include measurable tumour on MRI, a performance score showing you can manage daily activities, adequate blood counts, and a steroid dose below a set limit. High steroid use is a frequent reason for exclusion. Eligibility is decided case by case after your records are reviewed.</p>"
+          },
+          {
+            "q": "Should I stop standard treatment to try a vaccine or cell therapy?",
+            "a": "<p>No. Surgery, radiation, and temozolomide remain the backbone of brain tumour care, and vaccines or cell therapies are usually added on top or offered after standard options are used. Most trials in fact require that you complete initial radiation first. Leaving proven treatment early can shrink your options and may make you ineligible for the very trial you want. Discuss timing with your neuro-oncologist before changing anything.</p>"
+          },
+          {
+            "q": "How do I find a trial, and how long does it take to start?",
+            "a": "<p>Start by asking your neuro-oncologist for your pathology report, molecular marker results, recent MRI, and treatment history, since no centre can screen you without them. Registries such as ClinicalTrials.gov and the Indian and Chinese trial registries list open studies. From first enquiry to first infusion, expect roughly four to ten weeks. CancerFax can forward your records to centres for review, though acceptance always rests with the trial team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

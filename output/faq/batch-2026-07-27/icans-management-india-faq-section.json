@@ -1,0 +1,59 @@
+{
+  "pillar": "ICANS Management at Indian CAR-T Centres: Dexamethasone and Neurology Support",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "icans-management-india",
+  "route": "/insights/icans-management-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is ICANS after CAR-T therapy?",
+            "a": "<p>ICANS stands for immune effector cell-associated neurotoxicity syndrome. It is a temporary brain-related side effect that can follow CAR-T cell therapy, usually within the first one to three weeks. Early signs include confusion, trouble finding words, shaky handwriting, tremor, and unusual sleepiness. Severe cases can involve seizures or swelling in the brain. In most patients the symptoms are mild and reverse completely once treatment begins.</p>"
+          },
+          {
+            "q": "How soon after my CAR-T infusion can ICANS start?",
+            "a": "<p>ICANS most often begins four to ten days after the CAR-T infusion, though it can start later in some patients. It frequently follows cytokine release syndrome by a few days, which is why Indian CAR-T centres keep patients admitted for at least two weeks. Late symptoms may appear up to a month after infusion, so families are asked to watch for changes even after discharge.</p>"
+          },
+          {
+            "q": "What are the first warning signs my family should watch for?",
+            "a": "<p>The earliest signs are usually small changes in speech and handwriting rather than dramatic symptoms. A patient may pause mid-sentence, use the wrong word, answer more slowly, or write shakily. Confusion about the date, the place, or familiar names often follows. Tremor, headache, and unusual drowsiness also count. Report any of these to the transplant nurse immediately, because early treatment can often keep ICANS from worsening.</p>"
+          },
+          {
+            "q": "How is ICANS graded at Indian CAR-T centres?",
+            "a": "<p>Indian centres use ASTCT consensus grading, the same scale used in the United States and Europe. Nurses run the ICE score, a ten-point bedside test of orientation, naming, following commands, writing, and attention, usually two or three times a day. Grades run from 1 to 4 based on the ICE score, level of consciousness, seizures, motor weakness, and brain swelling on imaging. The grade decides the treatment.</p>"
+          },
+          {
+            "q": "Why is dexamethasone used for ICANS instead of tocilizumab?",
+            "a": "<p>Dexamethasone is preferred because it reaches the brain, while tocilizumab does not and may raise cytokine levels there. Steroids are therefore the backbone of ICANS treatment at Indian CAR-T centres. Tocilizumab is still given when cytokine release syndrome is happening at the same time, since it treats the fever and low blood pressure side of the reaction. Your team decides the combination based on which syndrome is driving symptoms.</p>"
+          },
+          {
+            "q": "What dose of dexamethasone will I get if I develop ICANS?",
+            "a": "<p>Common practice starts dexamethasone at 10 mg intravenously every six to twelve hours for grade 2 ICANS, with higher or more frequent dosing for grade 3. Grade 4 usually moves to high-dose methylprednisolone. Steroids are then tapered over several days once symptoms settle. Exact doses depend on your grade, the CAR-T product used, and your centre's protocol, so treat these figures as typical rather than fixed.</p>"
+          },
+          {
+            "q": "Will steroids stop my CAR-T cells from working?",
+            "a": "<p>Short steroid courses for ICANS do not appear to reduce CAR-T effectiveness in most published experience, which is why teams treat neurotoxicity promptly rather than waiting. Prolonged or very high-dose steroid use may blunt CAR-T cell expansion, so oncologists taper as soon as symptoms allow. In nearly all cases the risk from untreated brain swelling is judged far greater than any possible loss of response.</p>"
+          },
+          {
+            "q": "Do Indian CAR-T centres have neurologists available around the clock?",
+            "a": "<p>Yes. CAR-T programmes in India are expected to have neurology and critical care support available at all hours before they treat patients. Neurologists review anyone with grade 2 or higher ICANS, arrange EEG when seizures are suspected, and interpret MRI scans if brain swelling is a concern. Anti-seizure medicine such as levetiracetam is often started as prevention from the day of infusion.</p>"
+          },
+          {
+            "q": "Which hospitals in India can manage severe ICANS?",
+            "a": "<p>Centres running CAR-T programmes in India, including Tata Memorial in Mumbai, CMC Vellore, and several large private hospitals in Delhi and Bengaluru, maintain intensive care beds, EEG, urgent MRI, and neurology cover for ICANS. Capability varies between sites and changes as new programmes open. CancerFax can help you check what neurology and ICU support a specific centre offers before you commit to travelling.</p>"
+          },
+          {
+            "q": "Does ICANS cause permanent brain damage?",
+            "a": "<p>In most patients ICANS resolves completely within one to three weeks and leaves no lasting damage. Some people describe mild difficulty with memory or concentration for a few months afterwards, which usually improves with time. Deaths from severe brain swelling are rare but do occur, which is why centres monitor so closely. Your own risk depends on your disease burden, the CAR-T product, and how quickly symptoms are treated.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

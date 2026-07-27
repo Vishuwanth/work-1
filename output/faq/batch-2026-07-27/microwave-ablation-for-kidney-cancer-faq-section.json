@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation for Kidney Cancer (RCC)",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-for-kidney-cancer",
+  "route": "/insights/microwave-ablation-for-kidney-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation for kidney cancer?",
+            "a": "<p>Microwave ablation destroys a kidney tumour with heat, using a thin needle guided into the tumour by CT or ultrasound. The needle emits microwaves that heat the tissue to roughly 60-100°C, killing cancer cells within minutes. The kidney itself stays in place. It is done through a small puncture in the skin, usually under sedation or general anaesthetic, so no open operation is needed.</p>"
+          },
+          {
+            "q": "Am I a suitable candidate for microwave ablation instead of surgery?",
+            "a": "<p>You may be suitable if your kidney tumour is small — often under 4 cm — still confined to the kidney, and sitting where a needle can reach it safely. Doctors often lean towards ablation for older patients, people with a single working kidney, reduced kidney function, or other illnesses that make surgery risky. Suitability depends on your imaging, biopsy and general health, so only your treating team can confirm it.</p>"
+          },
+          {
+            "q": "How successful is microwave ablation for small kidney cancers?",
+            "a": "<p>For tumours under 3 cm, reported local control after a single session is often around 90-95%, close to what surgery achieves for tumours of the same size. Results are less consistent for larger or awkwardly placed tumours, where a second ablation may be needed. Long-term follow-up data is shorter than for surgery, so your oncologist may weigh your age and overall outlook when comparing the options.</p>"
+          },
+          {
+            "q": "What is recovery like after the procedure?",
+            "a": "<p>Most people go home the same day or after one night in hospital. Expect mild pain, tiredness, and sometimes a low fever or flu-like feeling for a few days, which is a normal reaction to the treated tissue. Ordinary activity usually resumes within a week, compared with several weeks after open or keyhole surgery. Heavy lifting is generally avoided for a short period afterwards.</p>"
+          },
+          {
+            "q": "What can go wrong with microwave ablation?",
+            "a": "<p>Serious complications are uncommon and affect only a small minority of patients. Possible problems include bleeding around the kidney, injury to the ureter, bowel or nearby nerves, infection, and urine leaking from the kidney into surrounding tissue. Rarely, cancer cells can seed along the needle track. Risk rises when the tumour lies close to the ureter or bowel, so your radiologist studies the scans carefully beforehand.</p>"
+          },
+          {
+            "q": "How does microwave ablation compare with radiofrequency ablation or cryoablation?",
+            "a": "<p>Microwave ablation heats tissue faster and reaches higher temperatures than radiofrequency ablation, so it is less affected by blood flow cooling the tumour edge. Cryoablation freezes rather than heats, and is often chosen for tumours near the collecting system because the ice ball is visible on scans. Published outcomes for small kidney tumours are broadly similar across all three, and the centre's experience often matters more than the technique.</p>"
+          },
+          {
+            "q": "Is there a tumour size limit for this treatment?",
+            "a": "<p>Ablation works best for tumours up to about 4 cm, with the strongest results below 3 cm. Larger tumours are harder to heat evenly right to the edge, which raises the chance of leftover cancer cells and a repeat procedure. Some centres treat tumours up to 5 cm in selected patients using overlapping needle positions. Your team will judge this from the tumour's size, shape and exact position.</p>"
+          },
+          {
+            "q": "Will microwave ablation damage my kidney function?",
+            "a": "<p>Kidney function usually stays close to what it was before, because the treatment destroys only the tumour and a small rim of tissue around it. This matters most if you have one kidney, diabetes, or existing chronic kidney disease, where preserving working tissue can delay or avoid dialysis. Blood tests before and after treatment track any change. Partial nephrectomy removes more tissue, though the difference is often small.</p>"
+          },
+          {
+            "q": "Can I get microwave ablation in India or China, and what does it cost?",
+            "a": "<p>Microwave ablation for kidney cancer is available at major cancer centres in India and China, often at a fraction of prices in the United States or Europe. Quotes vary with the hospital, imaging used, anaesthetic and length of stay, and travel plus follow-up scans add to the total.</p><p>CancerFax can help you gather written estimates and interventional radiology opinions from these centres before you commit to travelling.</p>"
+          },
+          {
+            "q": "What happens if the cancer comes back after ablation?",
+            "a": "<p>Ablation can usually be repeated if follow-up scans show residual or recurrent tumour, and surgery generally remains possible afterwards. You will typically have CT or MRI scans at set intervals for several years, since enhancement in the treated area is the main sign of remaining disease. Catching a recurrence early often keeps the simpler options open, so keeping to the scan schedule your team sets matters.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

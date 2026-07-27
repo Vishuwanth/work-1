@@ -1,0 +1,59 @@
+{
+  "pillar": "GPRC5D CAR-T for Multiple Myeloma — What Patients Need to Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gprc5d-car-t-for-multiple-myeloma",
+  "route": "/insights/gprc5d-car-t-for-multiple-myeloma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is GPRC5D CAR-T therapy for multiple myeloma?",
+            "a": "<p>GPRC5D CAR-T is a treatment that reprograms your own T cells to attack myeloma cells carrying a protein called GPRC5D. Your T cells are collected, engineered in a laboratory, then returned to you as a single infusion. GPRC5D appears on myeloma cells but on very little healthy tissue, which makes it a useful target. It is generally used after several earlier myeloma treatments have stopped working.</p>"
+          },
+          {
+            "q": "How is GPRC5D CAR-T different from BCMA CAR-T?",
+            "a": "<p>The difference is the target protein. BCMA CAR-T cells hunt myeloma cells carrying BCMA, while GPRC5D CAR-T cells hunt a separate protein called GPRC5D. Because the targets are independent, myeloma that has escaped BCMA treatment can often still be recognised by GPRC5D cells. Side effects differ too: GPRC5D products are more associated with nail, skin and taste changes than BCMA products are.</p>"
+          },
+          {
+            "q": "Can I still have GPRC5D CAR-T if BCMA CAR-T has already failed?",
+            "a": "<p>In many cases, yes. Trials have deliberately enrolled patients whose myeloma returned after BCMA CAR-T or BCMA bispecific antibodies, and meaningful responses were still seen. The two treatments aim at different proteins, so losing BCMA does not mean losing GPRC5D. Your chances depend on prior therapy, bone marrow function and how fast the disease is moving, so eligibility has to be judged case by case.</p>"
+          },
+          {
+            "q": "Is GPRC5D CAR-T approved, or is it only available in clinical trials?",
+            "a": "<p>Access is still mostly through clinical trials and early-access programmes rather than routine approval. China has been the most active setting for GPRC5D CAR-T studies, with further trials running in the United States, Europe and India. Availability shifts as new data appear and regulators respond. CancerFax can help you check which centres are currently enrolling, but any decision on suitability rests with your treating oncology team.</p>"
+          },
+          {
+            "q": "What side effects should I expect from GPRC5D CAR-T?",
+            "a": "<p>Expect cytokine release syndrome, low blood counts and infection risk, plus effects specific to this target: nail changes, dry or peeling skin, rash, and altered or reduced taste. Nerve-related effects such as confusion can occur and are watched closely during the hospital stay. Most cytokine release syndrome is mild to moderate and treatable with drugs like tocilizumab, but severity varies from person to person.</p>"
+          },
+          {
+            "q": "Why does GPRC5D CAR-T affect my nails, skin and sense of taste?",
+            "a": "<p>Because GPRC5D is not found only on myeloma cells. Small amounts sit in keratin-rich tissue such as nails, hair and parts of the tongue, so the engineered cells sometimes attack there too. That produces brittle or lifting nails, dry skin, and food tasting flat or wrong. These effects are usually reversible and improve over weeks to months, though eating well during that period can be genuinely hard.</p>"
+          },
+          {
+            "q": "How well does GPRC5D CAR-T actually work?",
+            "a": "<p>Early trials have reported overall response rates of roughly 70 to 90 percent in heavily pretreated myeloma, including patients who had already received BCMA-directed therapy. Many of those responses were deep, with no myeloma detectable by sensitive testing. Follow-up is still short, so how long remissions last is not yet settled. These are trial figures in selected patients and may not match any individual result.</p>"
+          },
+          {
+            "q": "How long does the whole GPRC5D CAR-T process take?",
+            "a": "<p>Plan on roughly six to ten weeks from first assessment to discharge. Cell collection takes a day, manufacturing usually runs two to five weeks, and you then receive about three days of low-dose chemotherapy before the infusion. Most centres keep you in hospital for two to three weeks afterwards and ask you to stay nearby for a further month. Timelines stretch if you need bridging treatment.</p>"
+          },
+          {
+            "q": "What does GPRC5D CAR-T cost, especially if I travel to India or China?",
+            "a": "<p>Costs vary widely, and firm quotes only come from the treating centre. Trial participation can cover the cell product itself, leaving you to fund travel, accommodation, hospital stay and management of complications. Commercial CAR-T in India has generally been priced well below United States levels, and Chinese trial pathways can be lower again. Ask any centre for a written estimate that separates the product from hospital costs.</p>"
+          },
+          {
+            "q": "Am I likely to be eligible for GPRC5D CAR-T?",
+            "a": "<p>Most studies look for relapsed or refractory myeloma after at least three prior lines of treatment, adequate heart, lung, kidney and liver function, no uncontrolled infection, and disease that can be measured. Being well enough to wait through manufacturing matters too. Every protocol sets its own limits, so a no from one trial does not rule out another. CancerFax can help you gather records before you approach a centre.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

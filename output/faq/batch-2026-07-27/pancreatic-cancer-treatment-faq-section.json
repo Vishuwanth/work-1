@@ -1,0 +1,59 @@
+{
+  "pillar": "Pancreatic Cancer Treatment Pathways",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pancreatic-cancer-treatment",
+  "route": "/insights/pancreatic-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can pancreatic cancer be cured?",
+            "a": "<p>Pancreatic cancer can be cured in some patients, but only when the tumour is found early enough to be removed by surgery. Around one in five patients are candidates for an operation at diagnosis. For everyone else, treatment aims to control the disease, extend life, and ease symptoms. Outcomes depend on stage, tumour location, and how well you respond to chemotherapy, so your oncology team should explain your realistic goal.</p>"
+          },
+          {
+            "q": "How do doctors decide whether my tumour can be removed?",
+            "a": "<p>Surgeons decide by looking at how closely the tumour touches the major blood vessels behind the pancreas on a specialised CT scan. Tumours clear of those vessels are called resectable; those wrapped around them are locally advanced and usually not operable upfront. Anything in between is borderline resectable. The scan is read by a surgical team, so a second review at a high-volume centre can change the plan.</p>"
+          },
+          {
+            "q": "What does borderline resectable mean for my treatment?",
+            "a": "<p>Borderline resectable means the tumour touches a major blood vessel but surgery may still be possible after treatment shrinks it. Most patients in this group receive chemotherapy first, sometimes with radiation, and are then rescanned to see whether an operation has become safe. Roughly half go on to surgery. Whether you become operable depends on how the tumour responds, your fitness, and the surgical team's assessment.</p>"
+          },
+          {
+            "q": "Why would I have chemotherapy before surgery instead of after?",
+            "a": "<p>Chemotherapy before surgery shrinks the tumour and treats cancer cells that have already spread but are too small to see on scans. It also shows how your cancer behaves; if it grows during treatment, an operation was unlikely to help. Many centres now use this approach for borderline and even resectable tumours. The order of treatment depends on your stage, fitness, and the team reviewing your case.</p>"
+          },
+          {
+            "q": "What is the Whipple operation and how long is recovery?",
+            "a": "<p>The Whipple operation removes the head of the pancreas along with part of the small intestine, the bile duct, and the gallbladder, then reconnects what remains. It usually takes five to eight hours, with about one to two weeks in hospital and two to three months before you feel close to normal. Complication rates are lower at hospitals that perform the operation often, so centre choice matters.</p>"
+          },
+          {
+            "q": "What chemotherapy is used if surgery is not an option?",
+            "a": "<p>Two combinations are standard: FOLFIRINOX, and gemcitabine with nab-paclitaxel. FOLFIRINOX is stronger and generally offered to patients who are fit and active, while the gemcitabine pair is gentler and often chosen for those who are frailer or older. Your oncologist picks between them based on performance status, liver function, and side-effect tolerance. Doses are frequently adjusted during treatment, and switching to the other regimen later is common.</p>"
+          },
+          {
+            "q": "Should I have genetic and biomarker testing?",
+            "a": "<p>Yes, everyone diagnosed with pancreatic cancer should be offered germline and tumour testing. Around one in ten carry a BRCA or PALB2 mutation, which can make platinum chemotherapy more effective and open the door to olaparib maintenance. Rarer findings such as MSI-high, NTRK fusions, or KRAS G12C point to targeted drugs or trials. Testing takes two to four weeks, and results may change what your team recommends.</p>"
+          },
+          {
+            "q": "Is radiotherapy used for pancreatic cancer?",
+            "a": "<p>Radiotherapy is used selectively, not routinely. Its main role is in locally advanced disease that has not spread, where stereotactic body radiotherapy delivered over about five sessions can tighten local control after several months of chemotherapy. It is also used to relieve pain from tumours pressing on nerves or the spine. Whether radiation helps you depends on where the tumour sits and how it has responded so far.</p>"
+          },
+          {
+            "q": "Can I get pancreatic cancer treatment in India or China, and what does it cost?",
+            "a": "<p>Yes, major centres in India and China offer Whipple surgery, full chemotherapy regimens, SBRT, and trials of newer agents. A Whipple procedure in India often falls between 8,000 and 15,000 US dollars, with chemotherapy cycles costing far less than in Western countries. CancerFax can send your scans and reports to these hospitals for review before you travel. Final costs and acceptance depend on the hospital, your stage, and visa timelines.</p>"
+          },
+          {
+            "q": "What can be done about jaundice, pain, and weight loss?",
+            "a": "<p>A lot, and supportive care should start at diagnosis rather than at the end. Jaundice is relieved with a stent placed in the bile duct during endoscopy. Pain that resists tablets often responds to a nerve block. Weight loss is usually treated with pancreatic enzyme capsules taken with every meal, which many patients are never offered. Ask your team about each of these early, alongside your cancer treatment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

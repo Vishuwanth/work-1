@@ -1,0 +1,59 @@
+{
+  "pillar": "Recurrent Cancer After Radiation: Options When Standard Treatment Has Failed",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "recurrent-cancer-after-radiation",
+  "route": "/insights/recurrent-cancer-after-radiation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does it mean if my cancer came back after radiation?",
+            "a": "<p>Cancer that returns after radiation is called a recurrence, and it means some cancer cells survived the original treatment and started growing again. It can appear in the same place that was irradiated, in nearby tissue, or in a distant organ. Where it comes back matters more than the fact that it came back, because location largely decides which treatments are still open to you.</p>"
+          },
+          {
+            "q": "Can I have radiation again in the same area?",
+            "a": "<p>Yes, re-irradiation is possible in many cases, but it depends on how much dose the surrounding healthy tissue already absorbed and how much time has passed. Doctors often wait six months or longer and use highly focused techniques such as SBRT, proton therapy, or brachytherapy to spare tissue that has already been treated. A radiation oncologist must review your original dose maps before this can be considered.</p>"
+          },
+          {
+            "q": "What treatment options are left when radiation has failed?",
+            "a": "<p>Salvage surgery, re-irradiation with focused techniques, systemic therapy, and clinical trials are the main options after radiation fails. Which of these applies depends on the cancer type, whether the recurrence is local or has spread, your organ function, and how well you tolerated the first course. Many patients are offered a combination rather than a single treatment, and eligibility is decided only after fresh imaging and specialist review.</p>"
+          },
+          {
+            "q": "Is surgery still possible after I have had radiation?",
+            "a": "<p>Salvage surgery is often possible, though radiated tissue heals more slowly and carries a higher risk of wound complications. Surgeons look at whether the recurrence is confined to one area, whether clear margins can be achieved, and whether nearby structures were damaged by the earlier treatment. In experienced centres these operations can still offer long-term control for selected patients, but suitability must be assessed case by case.</p>"
+          },
+          {
+            "q": "Why did the radiation not work the first time?",
+            "a": "<p>Radiation usually fails because a small group of cancer cells was resistant to it, often due to low oxygen inside the tumour, specific genetic changes, or microscopic disease that sat outside the treated field. This is not a sign that anything was done wrong. Repeat biopsy and molecular testing of the recurrence can reveal why it survived and may point toward a drug that targets the resistant cells.</p>"
+          },
+          {
+            "q": "Should I get a new biopsy and genetic testing?",
+            "a": "<p>Yes, a fresh biopsy of the recurrence is strongly recommended whenever it is safe to obtain. Tumours change over time, and the recurrence may carry different mutations or protein markers than the original cancer did. Next-generation sequencing on that new sample can uncover targeted therapy or immunotherapy options that were not available at diagnosis, and it is also the gateway to most clinical trials.</p>"
+          },
+          {
+            "q": "Can immunotherapy help after radiation has failed?",
+            "a": "<p>Immunotherapy may help in selected recurrences, particularly where the tumour shows high PD-L1 expression, high tumour mutational burden, or mismatch repair deficiency. Prior radiation sometimes makes tumours more visible to the immune system, which is why some centres combine focused radiation with checkpoint inhibitors. Whether it suits you depends on your biomarker results, cancer type, and prior treatment history, and needs specialist review.</p>"
+          },
+          {
+            "q": "How do I find a clinical trial for recurrent cancer?",
+            "a": "<p>Start by asking your oncologist which trials your centre runs, then search public registries such as ClinicalTrials.gov and the CTRI in India using your cancer type and the word recurrent. Trials for recurrent disease are common because standard options are limited. CancerFax can help organise your medical reports and identify relevant trials or specialists alongside your treating oncology team, though enrolment is always decided by the trial investigator.</p>"
+          },
+          {
+            "q": "Is it worth travelling abroad for treatment of a recurrence?",
+            "a": "<p>Travelling abroad can be worthwhile when a specific technology is unavailable at home, such as proton therapy, carbon ion therapy, CAR T-cell therapy, or a particular trial. India and China offer several of these at lower cost than Western centres. Weigh this against your fitness to travel and the need for local follow-up, and send your records for a remote opinion before committing to anything.</p>"
+          },
+          {
+            "q": "How quickly do I need to decide on next steps?",
+            "a": "<p>Most recurrences allow two to four weeks for restaging, a second opinion, and molecular testing, which is time well spent rather than time lost. The exceptions are recurrences causing spinal cord compression, airway obstruction, or rapid organ failure, which need attention within days. Ask your oncologist directly how urgent your situation is, and use whatever window you have to gather information properly.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

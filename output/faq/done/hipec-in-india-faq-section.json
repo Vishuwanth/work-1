@@ -1,0 +1,59 @@
+{
+  "pillar": "HIPEC in India: Cost, Eligibility and Hospitals for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-in-india",
+  "route": "/guides/hipec-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIPEC and how is it different from normal chemotherapy?",
+            "a": "<p>HIPEC is heated chemotherapy delivered directly into the abdominal cavity during surgery, instead of through a vein. After the surgeon removes visible tumour deposits, a warmed drug solution is circulated inside the abdomen for about 60 to 90 minutes to reach microscopic cancer cells left behind. Because the drug stays largely inside the abdomen, the rest of the body absorbs much less than with standard intravenous chemotherapy.</p>"
+          },
+          {
+            "q": "How much does HIPEC cost in India for an international patient?",
+            "a": "<p>HIPEC with cytoreductive surgery in India usually costs between USD 12,000 and USD 25,000 for most international patients. The final figure depends on the hospital, the length and complexity of the cytoreductive surgery, which chemotherapy drug is used, ICU days, and total hospital stay. Pre-treatment scans, biopsies, and follow-up chemotherapy are normally billed separately, so ask for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "Am I eligible for HIPEC?",
+            "a": "<p>HIPEC may be considered when cancer has spread to the lining of the abdomen but has not spread to the lungs, bones, or other distant organs. Suitability depends on cancer type, how widespread the deposits are, your fitness for a long operation, kidney and heart function, and prior treatment. Eligibility is confirmed only after imaging review and assessment by a surgical oncology team.</p>"
+          },
+          {
+            "q": "Which cancers is HIPEC used for?",
+            "a": "<p>HIPEC is used most often for pseudomyxoma peritonei, peritoneal mesothelioma, and peritoneal spread from colorectal, appendiceal, ovarian, and stomach cancers. The evidence is strongest in appendiceal and colorectal disease, and more selective in gastric cancer, where outcomes depend heavily on how much disease can be removed first. Your treating oncology team will judge whether your specific tumour type and pattern of spread fit.</p>"
+          },
+          {
+            "q": "How long is the surgery and the hospital stay?",
+            "a": "<p>Expect 8 to 14 hours in the operating room and about 10 to 14 days in hospital, including 2 to 4 days in intensive care. The operation time depends on how many organs and surfaces need clearing. Most international patients are advised to plan 4 to 6 weeks in India in total, covering pre-operative tests, surgery, recovery, and the first follow-up review before flying home.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of HIPEC?",
+            "a": "<p>The main risks come from the long cytoreductive surgery rather than the heated chemotherapy itself, and can include bleeding, infection, bowel leaks, blood clots, and temporary kidney or bone marrow effects. Serious complications occur in roughly 20 to 30 percent of cases in reported series. Risk is lower in high-volume centres with experienced teams, but your own risk profile should be discussed in detail with your surgeon before consenting.</p>"
+          },
+          {
+            "q": "Which hospitals in India do HIPEC?",
+            "a": "<p>HIPEC is offered at high-volume centres in Delhi NCR, Mumbai, Chennai, Bengaluru, and Hyderabad, including large private hospital groups and major government cancer institutes. What matters more than the city is the surgeon's annual cytoreductive surgery volume and the hospital's ICU support, since outcomes improve with experience. Ask any centre how many HIPEC procedures it performs each year before choosing.</p>"
+          },
+          {
+            "q": "How do I arrange HIPEC treatment in India from abroad?",
+            "a": "<p>Start by sending recent CT or PET scans, biopsy and histopathology reports, and a surgical history to the hospital for a written opinion and cost estimate, then apply for a medical visa using that hospital's invitation letter. CancerFax can help patients organise these reports, identify experienced peritoneal surgery centres, estimate costs, and coordinate travel and follow-up alongside the treating oncology team. Visa approval and hospital acceptance are never guaranteed.</p>"
+          },
+          {
+            "q": "Will I need chemotherapy after HIPEC?",
+            "a": "<p>Many patients do receive further intravenous chemotherapy after HIPEC, but not all. The decision depends on your tumour type, how completely the disease was removed, the final pathology report, and how well you recover from surgery. Systemic chemotherapy usually starts around 6 to 8 weeks after the operation, once wounds have healed, and can often be given in your home country with reports shared between teams.</p>"
+          },
+          {
+            "q": "Does HIPEC cure peritoneal cancer?",
+            "a": "<p>HIPEC is not a guaranteed cure, but in selected patients it can significantly extend survival and, in slow-growing diseases like pseudomyxoma peritonei, may give long disease-free periods. Results depend mainly on how completely the surgeon can remove visible disease, the tumour biology, and your response to earlier treatment. Realistic expectations for your specific case should come from the surgical oncology team reviewing your scans.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

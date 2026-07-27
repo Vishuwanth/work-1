@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is Microwave Ablation? A Patient Introduction",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-microwave-ablation-patient-guide",
+  "route": "/insights/what-is-microwave-ablation-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation, in plain language?",
+            "a": "<p>Microwave ablation is a treatment that uses heat to destroy a tumour without removing it surgically. A doctor guides a thin needle-like probe into the tumour using a CT or ultrasound scan, then sends microwave energy through the tip. The energy heats the tissue above 60°C and kills the cancer cells in minutes. The dead tissue is left in place and slowly shrinks over months.</p>"
+          },
+          {
+            "q": "Which cancers can microwave ablation treat?",
+            "a": "<p>Microwave ablation is used most often for liver, lung, and kidney tumours, and for some bone and thyroid tumours. It works best when the cancer is a small, well-defined lump that the doctor can see clearly on a scan. It can treat a primary tumour or a small number of spots that have spread. Whether it suits your cancer depends on the tumour's size, position, and your overall health.</p>"
+          },
+          {
+            "q": "How is microwave ablation different from radiofrequency ablation?",
+            "a": "<p>Both use heat, but microwave ablation heats faster and reaches a higher temperature, so it can often treat a slightly larger tumour in less time. Microwave energy also works better near blood vessels, where flowing blood can cool and weaken radiofrequency treatment. Radiofrequency ablation has been used for longer and is more widely available. Your radiologist will choose based on where your tumour sits and what their centre offers.</p>"
+          },
+          {
+            "q": "Is microwave ablation surgery? Will I be put to sleep?",
+            "a": "<p>No, it is not open surgery. Microwave ablation is done through a small puncture in the skin, usually no bigger than a few millimetres, so there is no large cut and no stitches. Most patients have sedation with local anaesthetic, though general anaesthesia may be used for lung tumours or when several tumours are treated at once. Your anaesthetist decides based on the tumour site and your health.</p>"
+          },
+          {
+            "q": "How long does it take, and how soon can I go home?",
+            "a": "<p>The ablation itself usually takes 10 to 30 minutes per tumour, and the whole hospital visit runs about two to four hours. Many patients go home the same day; others stay one night for observation, particularly after lung or larger liver treatments. Most people return to light daily activity within two to three days. Recovery time can vary with the tumour's size and position and your general fitness.</p>"
+          },
+          {
+            "q": "Does microwave ablation hurt?",
+            "a": "<p>You should not feel pain during the procedure because you will be sedated or asleep. Afterwards, most patients describe a dull ache or soreness over the treated area for a few days, controlled with simple painkillers. Some people get a mild fever and tiredness in the first week, which doctors call post-ablation syndrome. Tell your team about pain that worsens rather than settles, as it may need checking.</p>"
+          },
+          {
+            "q": "What can go wrong during microwave ablation?",
+            "a": "<p>Serious complications are uncommon, affecting only a small percentage of patients in most published series. The main risks are bleeding, infection, and injury to nearby structures such as the bile ducts, bowel, or nerves. In lung treatment, air can leak into the chest and may need a drain. Your radiologist should explain the specific risks for your tumour's position, since these vary a lot between organs.</p>"
+          },
+          {
+            "q": "How big can my tumour be for microwave ablation to work?",
+            "a": "<p>Microwave ablation works best for tumours up to about 3 centimetres, and results are strongest below 2 centimetres. Larger tumours up to 5 centimetres can sometimes be treated using several probes together or by combining ablation with another treatment, but the chance of cancer coming back at the edge rises with size. Position matters as much as size, so your team will judge both on your scans.</p>"
+          },
+          {
+            "q": "Can microwave ablation actually cure my cancer?",
+            "a": "<p>For small liver, lung, or kidney tumours, microwave ablation can destroy the whole tumour and give survival results close to surgery in carefully selected patients. It is often described as a curative-intent treatment rather than a guaranteed cure, because cancer can return in the same organ elsewhere. You will need follow-up scans, usually at one month and then every three to six months, to confirm the tumour stays dead.</p>"
+          },
+          {
+            "q": "Can I get microwave ablation in India or China, and what does it cost?",
+            "a": "<p>Microwave ablation is widely available in India and China, and many hospitals there treat international patients, often at a fraction of Western prices. You will normally need to send recent scans and blood tests so a radiologist can confirm the tumour is suitable before you travel. CancerFax can help patients gather these records and reach centres offering the procedure, though the final decision always rests with the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

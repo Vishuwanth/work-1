@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation for Kidney Cancer (RCC): Evidence and Outcomes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-kidney-cancer-rcc",
+  "route": "/insights/cryoablation-kidney-cancer-rcc",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoablation for kidney cancer?",
+            "a": "<p>Cryoablation destroys a kidney tumour by freezing it with thin needles passed through the skin under CT or ultrasound guidance. Argon gas cools the needle tips to roughly minus 40 degrees Celsius or lower, forming an ice ball that kills the tumour inside it. The dead tissue shrinks and scars over months. Healthy kidney around the tumour is largely spared, so most patients keep both kidneys working.</p>"
+          },
+          {
+            "q": "Am I eligible for cryoablation instead of kidney surgery?",
+            "a": "<p>Cryoablation is usually considered for small renal masses under about 4 cm, especially in patients who are older, have one kidney, reduced kidney function, or medical problems that make surgery risky. It may also suit inherited syndromes such as von Hippel-Lindau, where repeated tumours are expected. Whether you qualify depends on tumour size, position, biopsy result, and specialist review. CancerFax can arrange for your scans to be reviewed by an interventional team.</p>"
+          },
+          {
+            "q": "How well does cryoablation work compared with surgery?",
+            "a": "<p>For tumours under 3 cm, published series report local control of roughly 90 to 95 percent after cryoablation, with cancer-specific survival close to that of partial nephrectomy in selected patients. Surgery still shows lower local recurrence for larger or more central tumours. It is not a guaranteed cure, and evidence comes mainly from single-centre series rather than randomised trials, so your likely benefit depends on tumour size, grade, and overall health.</p>"
+          },
+          {
+            "q": "How is kidney cryoablation done, and will I be awake?",
+            "a": "<p>Most kidney cryoablation is done through the skin under sedation or light general anaesthesia, guided by CT, ultrasound, or MRI. The radiologist places one to several needles into the tumour, then runs two freeze cycles separated by a thaw, watching the ice ball grow on the scan. The whole procedure usually takes one to two hours. Some centres instead perform it laparoscopically when the tumour sits near the bowel.</p>"
+          },
+          {
+            "q": "How long does recovery take after kidney cryoablation?",
+            "a": "<p>Most patients go home the next day and are back to normal activity within one to two weeks. Expect some flank soreness, tiredness, and often a little blood in the urine for a few days. Heavy lifting is usually avoided for two weeks. Recovery is generally quicker than after partial nephrectomy, though your exact timeline depends on your overall health and any complications. A follow-up scan is done at about three months.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of kidney cryoablation?",
+            "a": "<p>Serious complications are uncommon, affecting fewer than one in twenty patients in most large series. Bleeding around the kidney is the most frequent problem and occasionally needs a transfusion or embolisation. Other risks include injury to the urine collecting system, temporary numbness or pain over the needle track, infection, and rarely damage to nearby bowel or nerves. Risk rises with tumour size and central position.</p>"
+          },
+          {
+            "q": "Will cryoablation damage my kidney function?",
+            "a": "<p>Cryoablation usually preserves kidney function well because only the tumour and a small rim of tissue are frozen. Studies show average drops in estimated GFR of only a few points, smaller than after removing the whole kidney and comparable to partial nephrectomy. This matters most if you already have chronic kidney disease, a single kidney, or diabetes. Your nephrologist and urologist should review your baseline function first.</p>"
+          },
+          {
+            "q": "Is cryoablation better than radiofrequency ablation for kidney tumours?",
+            "a": "<p>Neither is best for every kidney tumour. Cryoablation has the practical advantage that the ice ball is visible on CT or MRI during treatment, so the treated zone can be judged in real time, and it is often preferred for tumours near the collecting system. Radiofrequency ablation is faster and cheaper in some centres. Local control rates are broadly similar for small tumours, so operator experience often decides.</p>"
+          },
+          {
+            "q": "Can cryoablation be repeated if the tumour comes back?",
+            "a": "<p>Yes. If imaging shows residual or recurrent tumour, cryoablation can usually be repeated, and salvage surgery remains possible afterwards in most cases. Around 5 to 10 percent of small renal masses need a second session, most often when the first ice ball did not fully cover the tumour margin. Follow-up CT or MRI at three, six, and twelve months, then yearly, is standard. Repeat treatment depends on specialist review.</p>"
+          },
+          {
+            "q": "How much does kidney cryoablation cost abroad, and where is it available?",
+            "a": "<p>Costs vary widely by hospital and country. In India percutaneous kidney cryoablation often falls between USD 4,000 and 7,000, while several large Chinese cancer centres offer it at broadly similar levels, usually including imaging and a short admission. Quotes rarely cover travel, extended stay, or follow-up scans. CancerFax can help you gather written estimates and specialist opinions, though your treating oncology team makes the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

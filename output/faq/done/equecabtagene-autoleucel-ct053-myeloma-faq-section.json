@@ -1,0 +1,59 @@
+{
+  "pillar": "Equecabtagene Autoleucel (CT053): China's Domestically Approved Myeloma CAR-T",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "equecabtagene-autoleucel-ct053-myeloma",
+  "route": "/insights/equecabtagene-autoleucel-ct053-myeloma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is equecabtagene autoleucel (CT053)?",
+            "a": "<p>Equecabtagene autoleucel, also called CT053 or Fucaso, is a CAR-T cell therapy approved in China for adults with relapsed or refractory multiple myeloma. It targets BCMA, a protein found on myeloma cells. Your own T cells are collected, genetically modified in a laboratory to recognise BCMA, then infused back to attack the cancer. It was developed by IASO Bio and approved by China's regulator in 2023.</p>"
+          },
+          {
+            "q": "How well does CT053 work for relapsed myeloma?",
+            "a": "<p>In the FUMANBA-1 trial, close to 96% of patients responded and roughly 74% reached a complete response or better. Most patients had already tried three or more previous treatments. Responses often lasted well beyond a year. These are trial numbers, so your own result may differ depending on how many prior therapies you have had, your disease burden, and your general health. Your haematologist can estimate what is realistic for you.</p>"
+          },
+          {
+            "q": "Am I eligible for CT053 treatment?",
+            "a": "<p>CT053 is generally for adults whose multiple myeloma has come back or stopped responding after at least three prior lines of treatment, including a proteasome inhibitor and an immunomodulatory drug. Doctors also check heart, lung, liver, and kidney function, and whether you have enough healthy T cells to collect. Eligibility depends on the treating centre's assessment, and some patients who look suitable on paper may still not qualify.</p>"
+          },
+          {
+            "q": "What side effects should I expect from CT053?",
+            "a": "<p>The most common serious side effect is cytokine release syndrome, which causes fever, low blood pressure, and breathing difficulty. In trials it was usually mild or moderate and manageable with standard drugs. Low blood counts are very common and can last weeks, raising infection risk. Nerve-related side effects were uncommon with CT053 compared with some other CAR-T products. Your team will monitor you closely in hospital during the first weeks.</p>"
+          },
+          {
+            "q": "How long does the whole CT053 process take?",
+            "a": "<p>Plan for roughly two to three months from first consultation to discharge. T cell collection takes a few hours, manufacturing typically runs two to four weeks, and you then receive a short course of chemotherapy before the infusion. Hospital monitoring after infusion usually lasts two to four weeks. Timelines can stretch if manufacturing needs repeating or your disease requires bridging treatment while you wait.</p>"
+          },
+          {
+            "q": "Can international patients get CT053 in China?",
+            "a": "<p>Access for international patients is possible at some Chinese centres but is not routine, and each hospital sets its own policy on treating foreign nationals. You will usually need a records review before travel, a medical visa, and a caregiver who can stay for the full treatment period. CancerFax can help you send your reports to Chinese CAR-T centres for an eligibility opinion, though the final decision always rests with the treating team.</p>"
+          },
+          {
+            "q": "How much does CT053 cost in China?",
+            "a": "<p>The list price in China has been reported at around 1.16 million RMB, which is roughly 160,000 US dollars for the product alone. International patients should budget more once hospital stay, pre-treatment chemotherapy, complication management, travel, and accommodation are added. Prices change and vary by hospital, so ask for a written quotation that states exactly what is and is not included before you commit.</p>"
+          },
+          {
+            "q": "Is CT053 better than other BCMA CAR-T therapies?",
+            "a": "<p>No single BCMA CAR-T therapy is proven best for every patient. CT053 uses a fully human antibody design, which may lower the chance your immune system rejects the cells, and its trials showed low rates of nerve-related side effects. Cilta-cel and ide-cel have longer international track records. The right choice depends on where you can be treated, how quickly you need therapy, and your specific disease features.</p>"
+          },
+          {
+            "q": "What happens if CT053 stops working?",
+            "a": "<p>Options remain if myeloma returns after CAR-T. Doctors may consider bispecific antibodies that also target BCMA or GPRC5D, newer drug combinations, or a clinical trial. Some patients are considered for a second CAR-T infusion, though this is less common. Your response to CT053 and how long it lasted will guide the next step, so keep all treatment records and discuss a backup plan with your haematologist early.</p>"
+          },
+          {
+            "q": "Is CT053 available in India or approved elsewhere?",
+            "a": "<p>CT053 is approved in China only and is not licensed in India, the United States, or Europe. India has its own approved BCMA CAR-T therapy for myeloma, and some centres run trials of other products. CancerFax can outline which BCMA options are currently reachable in India and China based on your reports. Approval status changes, so confirm current availability with a treating centre before making travel plans.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

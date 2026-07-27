@@ -1,0 +1,59 @@
+{
+  "pillar": "RFA for Kidney Cancer: Percutaneous Treatment for Small Renal Masses",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-for-kidney-cancer",
+  "route": "/insights/rfa-for-kidney-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is radiofrequency ablation for kidney cancer?",
+            "a": "<p>RFA uses heat from a needle-like probe to destroy a small kidney tumour without removing it. A radiologist guides the probe through the skin using CT or ultrasound, then passes radio waves through the tip to heat the tumour to around 60–100°C. The dead tissue is left in place and shrinks slowly over the following months. It is usually done under sedation or light general anaesthesia.</p>"
+          },
+          {
+            "q": "Am I a candidate for RFA, or do I need surgery?",
+            "a": "<p>RFA suits small renal masses, usually 3 cm or less, that sit away from the collecting system and large blood vessels. It is often chosen for older patients, people with one kidney, reduced kidney function, or medical problems that make surgery risky. Partial nephrectomy is still standard for larger or more central tumours. Your urologist and interventional radiologist decide together after reviewing your scans.</p>"
+          },
+          {
+            "q": "How successful is RFA for a small kidney tumour?",
+            "a": "<p>For tumours under 3 cm, RFA controls the cancer in roughly 85–95% of cases after one or two sessions, and reported five-year cancer-specific survival is comparable to surgery. Success rates fall as tumours get larger or sit near the renal sinus. About 5–10% of patients need a repeat ablation for residual tumour seen on follow-up imaging. Results vary by centre and by individual tumour.</p>"
+          },
+          {
+            "q": "Is RFA better than cryoablation for kidney cancer?",
+            "a": "<p>Neither is clearly better; both destroy small renal masses with similar cancer control and similar preservation of kidney function. RFA uses heat and tends to be quicker, while cryoablation uses freezing, shows the ice ball clearly on imaging, and is often preferred for tumours near the collecting system or above 3 cm. The choice usually depends on tumour position and what your centre performs most often.</p>"
+          },
+          {
+            "q": "Will I still have normal kidney function afterwards?",
+            "a": "<p>Most patients keep close to their baseline kidney function, because RFA destroys only the tumour and a thin rim of tissue around it. Studies typically show a small drop in eGFR, often under 10%, which matters most if you already have chronic kidney disease or a single kidney. This kidney-sparing effect is a main reason RFA is chosen over removing part of the kidney.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of RFA?",
+            "a": "<p>Serious complications are uncommon, affecting roughly 3–6% of patients. Most people have some pain at the probe site, tiredness, and low-grade fever for a few days, sometimes called post-ablation syndrome. Less often there is bleeding around the kidney, injury to the ureter or bowel, or irritation of nearby nerves causing numbness on the skin. Most patients go home the same day or after one night.</p>"
+          },
+          {
+            "q": "How long does recovery take, and when can I go home?",
+            "a": "<p>Most people go home within 24 hours and return to light activity in two to three days. The procedure itself usually takes one to two hours. You may feel sore over the flank for about a week and tired for up to two weeks. Because there is no large incision, recovery is usually faster than after partial nephrectomy. Heavy lifting is normally discouraged for the first fortnight.</p>"
+          },
+          {
+            "q": "What follow-up scans will I need after ablation?",
+            "a": "<p>You will usually have a contrast CT or MRI at one, three, six, and twelve months, then yearly for at least five years. The scans look for enhancement at the edge of the treated zone, which suggests tumour tissue that survived the heat. The ablated area does not disappear; it remains as a scar that slowly shrinks. Finding residual tumour early means a second ablation can often still work.</p>"
+          },
+          {
+            "q": "How much does RFA for kidney cancer cost in India or China?",
+            "a": "<p>In India, percutaneous RFA for a small renal mass typically costs around USD 3,000–5,000, covering imaging, the ablation, and a short hospital stay; Chinese centres are broadly similar. Prices depend on the hospital, the number of tumours, and whether general anaesthesia is used.</p><p>CancerFax can help you compare written quotations from accredited hospitals, though the final plan and price must come from the treating team after they review your scans.</p>"
+          },
+          {
+            "q": "Can RFA be repeated if the cancer comes back?",
+            "a": "<p>Yes, RFA can usually be repeated in the same kidney if imaging shows residual or new tumour, and a second ablation often achieves control without surgery. Because no tissue is removed, the kidney is not scarred the way it would be after an operation, which helps keep later options open. If the tumour has grown or lies close to vital structures, surgery or cryoablation may be advised instead.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

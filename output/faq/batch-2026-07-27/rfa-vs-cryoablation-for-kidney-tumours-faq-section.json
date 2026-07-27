@@ -1,0 +1,59 @@
+{
+  "pillar": "RFA vs Cryoablation for Kidney Tumours: How to Choose",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-vs-cryoablation-for-kidney-tumours",
+  "route": "/insights/rfa-vs-cryoablation-for-kidney-tumours",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between RFA and cryoablation for a kidney tumour?",
+            "a": "<p>Both destroy the tumour with extreme temperature, but in opposite directions: RFA heats the tissue to roughly 60–100°C using electrical current, while cryoablation freezes it to around minus 40°C using argon gas. Both are usually done through the skin with a needle guided by CT or ultrasound, in a single session. The real differences lie in tumour size, position and bleeding risk rather than in how well each kills tissue.</p>"
+          },
+          {
+            "q": "Which one is better for my kidney tumour, RFA or cryoablation?",
+            "a": "<p>Neither is better overall; the choice depends on your tumour's size, shape and position. Cryoablation is often preferred for tumours above 3 cm or those near the collecting system, because the ice ball is visible on scans during treatment. RFA can suit smaller tumours that bulge outward from the kidney. CancerFax can arrange a second reading of your scans, though the decision rests with your treating urologist and interventional radiologist.</p>"
+          },
+          {
+            "q": "How large can a kidney tumour be before ablation stops working?",
+            "a": "<p>Ablation works best for tumours under 3 cm, where local control often exceeds 90 percent. Between 3 and 4 cm the results are still good but recurrence risk rises, and cryoablation is usually favoured. Above 4 cm, most teams recommend partial nephrectomy instead, unless surgery is too risky for you. Size alone does not decide it — closeness to the ureter, bowel or large vessels also counts.</p>"
+          },
+          {
+            "q": "Is ablation as effective as surgery for small kidney cancers?",
+            "a": "<p>For T1a tumours under 3 cm, cancer-specific survival after ablation is comparable to partial nephrectomy in most published series. Local recurrence is somewhat higher after ablation, but repeat treatment is usually possible. Surgery still provides a full pathology specimen and remains the standard for younger, fitter patients with a long life expectancy. Ablation is often chosen when kidney function, age or other illnesses make an operation risky.</p>"
+          },
+          {
+            "q": "Which procedure hurts more, and what anaesthetic will I need?",
+            "a": "<p>Cryoablation is generally less painful, because freezing numbs the nerves as it works, and it can often be done under sedation with local anaesthetic. RFA heating tends to cause more discomfort during treatment, so many centres use general anaesthesia. Either way, most people go home within 24 hours and describe the soreness afterwards as manageable with simple painkillers. Your anaesthetic plan depends on tumour position and your general health.</p>"
+          },
+          {
+            "q": "What can go wrong during kidney tumour ablation?",
+            "a": "<p>Serious complications happen in roughly 3 to 6 percent of cases. Bleeding is the most common, and is reported slightly more often after cryoablation because several probes are used at once. RFA carries a somewhat higher risk of heat injury to the ureter or nearby bowel. Rarer problems include infection, collapsed lung and a temporary drop in kidney function. Most complications are managed without further surgery.</p>"
+          },
+          {
+            "q": "Will ablation damage the kidney function I have left?",
+            "a": "<p>Ablation preserves kidney function better than surgery in most patients, because only the tumour and a thin rim of surrounding tissue are destroyed. Studies typically show an eGFR drop of only a few points, even in people with a single kidney or existing chronic kidney disease. Needing dialysis afterwards is rare. If your kidney function is already borderline, your team may adjust the contrast dye used for imaging.</p>"
+          },
+          {
+            "q": "How long is the recovery, and when can I go back to work?",
+            "a": "<p>Most patients go home the day after ablation and return to normal activity within one to two weeks. There is no surgical incision to heal, only small puncture sites. Tiredness, flank ache and a little blood in the urine for a few days are common and usually settle on their own. Recovery after partial nephrectomy, by comparison, often takes four to six weeks.</p>"
+          },
+          {
+            "q": "What happens if the tumour comes back after ablation?",
+            "a": "<p>Residual or recurrent tumour is found in roughly 5 to 12 percent of cases, usually on the earliest follow-up scans. Because ablation leaves the kidney largely intact, a second ablation session is often possible and works well. Surgery remains an option if repeat ablation is unsuitable. This is why contrast CT or MRI at three, six and twelve months, then yearly, matters so much.</p>"
+          },
+          {
+            "q": "What does kidney ablation cost if I travel to India or China?",
+            "a": "<p>Percutaneous kidney ablation in India typically costs between USD 3,000 and 6,000, with Chinese centres broadly similar, well below prices in the US or Europe. The figure depends on the number of probes, the imaging used and the length of hospital stay. CancerFax can help you compare centres experienced in renal ablation and obtain written quotes. Final costs can only be confirmed once a hospital has reviewed your scans.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

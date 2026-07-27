@@ -1,0 +1,59 @@
+{
+  "pillar": "How CancerFax Facilitates Second Opinions: From First Contact to Delivery",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancerfax-second-opinion-process",
+  "route": "/guides/cancerfax-second-opinion-process",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How do I get a second opinion on my cancer diagnosis?",
+            "a": "<p>Ask for a review of your existing records by a specialist who treats your exact cancer type. The process usually begins with a short intake conversation, then collection of your pathology report and scans, then matching to a suitable oncologist. CancerFax coordinates that first contact and the record gathering, often within a day or two, though timelines depend on how quickly your current hospital releases files.</p>"
+          },
+          {
+            "q": "What medical records do I need to send?",
+            "a": "<p>Send your pathology or biopsy report, recent imaging such as CT, PET, or MRI with the original scan files, recent blood work, and a summary of treatment you have already received. Molecular or genetic testing reports help a great deal if you have them.</p><p>Missing documents do not stop the review, but they can slow it, and the specialist may ask for more before giving a firm opinion.</p>"
+          },
+          {
+            "q": "How long does a second opinion take?",
+            "a": "<p>Most written second opinions are delivered within five to seven working days after your complete records arrive. The clock starts when the last missing report comes in, not when you first make contact, so sending everything together saves time. Urgent cases can often be moved faster if you flag the deadline early. Cases needing slide review or extra molecular testing may take longer, depending on the laboratory.</p>"
+          },
+          {
+            "q": "How much does a second opinion cost?",
+            "a": "<p>Prices vary by hospital and country, and a written international second opinion often costs a few hundred US dollars. A video consultation with the specialist usually costs more. Some coordinators charge nothing extra and pass on only what the hospital bills, so ask for the full breakdown in writing before you pay. Quoted figures can change once the specialist sees how complex your case is.</p>"
+          },
+          {
+            "q": "Will getting a second opinion delay my treatment?",
+            "a": "<p>In most cases a few days of review will not change your outcome, and your treating oncologist can tell you whether your situation allows that pause. Fast growing cancers and emergencies are the exception. If surgery or your first chemotherapy cycle is already scheduled, say so at the start so the review can be prioritised. Never stop or postpone treatment on your own while waiting.</p>"
+          },
+          {
+            "q": "Do I have to travel abroad to get a second opinion?",
+            "a": "<p>No. Most international second opinions are done remotely from your records, with no travel at all. You upload scans and reports, and the specialist returns a written opinion, sometimes followed by a video call.</p><p>Travel only matters if you later decide to be treated at that hospital, and even then many centres will confirm the plan and estimate remotely before you book flights or visas.</p>"
+          },
+          {
+            "q": "What if the second opinion disagrees with my current doctor?",
+            "a": "<p>Disagreement is common and usually useful. Second opinions more often differ on staging, on the order of treatments, or on whether a trial is worth considering than on the diagnosis itself. Take the written report back to your treating oncologist and go through it point by point. The final decision stays with you and the team who will actually deliver your care, so bring both plans to that conversation.</p>"
+          },
+          {
+            "q": "Can a second opinion tell me if I qualify for a clinical trial?",
+            "a": "<p>A second opinion can point to trials that may fit your cancer type, stage, and molecular markers, but it cannot confirm that you will be enrolled. Eligibility depends on strict criteria, your prior treatments, current lab values, and whether the trial is still recruiting at a site you can reach. The reviewing specialist can flag likely matches so your own oncologist can approach the trial team.</p>"
+          },
+          {
+            "q": "Are my medical records kept private?",
+            "a": "<p>Yes. Your file is shared only with the reviewing specialist and the small team coordinating your case, and a reputable service will tell you in writing exactly who sees it. You can ask for your data to be deleted once the opinion is delivered. If a hospital in another country is involved, ask which privacy rules apply there, because protections differ from one country to the next.</p>"
+          },
+          {
+            "q": "How will the second opinion report be explained to me?",
+            "a": "<p>Most written opinions arrive with a plain language summary next to the clinical report meant for your doctor. If anything is unclear, you can usually book a short video call with the reviewing specialist or ask the coordinating team to talk you through it. CancerFax includes that summary at delivery, though any change to your treatment should be decided with your own oncology team, as they know your full history.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

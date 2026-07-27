@@ -1,0 +1,59 @@
+{
+  "pillar": "Advanced Gastric Cancer Treatment in China: Options and Access for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "advanced-gastric-cancer-treatment-in-china",
+  "route": "/insights/advanced-gastric-cancer-treatment-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What treatments are available in China for advanced gastric cancer?",
+            "a": "<p>Advanced gastric cancer in China is usually treated with chemotherapy combined with immunotherapy, plus targeted drugs when the tumour carries a matching marker such as HER2 or Claudin 18.2. Surgery, radiotherapy and intraperitoneal chemotherapy may be added in selected cases, and larger centres also run cell therapy and antibody-drug conjugate trials. The right combination depends on your pathology, staging scans and general fitness, so your oncology team decides.</p>"
+          },
+          {
+            "q": "Is treatment in China cheaper than in the US or Europe?",
+            "a": "<p>In most cases yes, and many patients pay a fraction of US prices for the same chemotherapy, immunotherapy and surgery. Chinese-made PD-1 antibodies and locally produced chemotherapy drugs account for much of the saving. Costs still vary widely by hospital, city, length of stay and whether you enter a trial. Ask for a written estimate before you travel, because quoted figures can change once staging is confirmed.</p>"
+          },
+          {
+            "q": "Can I get CAR-T or other cell therapy for stomach cancer in China?",
+            "a": "<p>Cell therapies for gastric cancer in China are available mainly through clinical trials, not as routine care. The most studied approach targets Claudin 18.2, a protein found on some stomach tumours. Eligibility usually requires a positive biomarker test, previous treatment lines and adequate organ function. Places are limited and enrolment is never guaranteed. Your treating oncologist and the trial centre must review your records before any offer is made.</p>"
+          },
+          {
+            "q": "How do I know if I qualify for Claudin 18.2 treatment?",
+            "a": "<p>A laboratory test on your tumour tissue decides it. Pathologists stain a biopsy sample and report what percentage of cancer cells carry Claudin 18.2. Roughly a third to a half of gastric cancers test positive, though the cut-off differs between drugs and trials.</p><p>Chinese hospitals often re-test tissue sent from abroad. If no stored biopsy block exists, a fresh sample may be needed, which can add several weeks.</p>"
+          },
+          {
+            "q": "Which tests should I have before I contact a hospital in China?",
+            "a": "<p>Bring a confirmed pathology report, HER2 status, PD-L1 expression, microsatellite instability or mismatch repair results, and recent CT or PET scans. Claudin 18.2 testing helps if it is available where you live. Blood counts, liver and kidney function from the last month are also expected. CancerFax can help gather these documents and pass them to hospital tumour boards, though the treating team makes the final assessment.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for treatment?",
+            "a": "<p>Plan for at least three to four weeks for a first assessment and an initial cycle, and two to three months if you are receiving several cycles of chemotherapy or immunotherapy. Surgery adds recovery time on top of that. Some patients return home between cycles and fly back, which often suits people with stable disease. Your actual stay depends on the regimen, how you tolerate it, and visa validity.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial in China as a foreign patient?",
+            "a": "<p>Foreign patients can join some Chinese trials, but not all. Many protocols restrict enrolment to residents, or require a local contact, translated records and in-person screening. Gastric cancer trials often test Claudin 18.2 drugs, antibody-drug conjugates and new immunotherapy combinations. Screening can take two to four weeks and may still end in rejection, so enrolment is never promised. Keep a standard treatment plan available as a backup.</p>"
+          },
+          {
+            "q": "Is HIPEC available in China if my cancer has spread to the abdomen?",
+            "a": "<p>Yes, several Chinese centres offer heated intraperitoneal chemotherapy, often combined with cytoreductive surgery, for gastric cancer that has spread to the peritoneum. It is also used to control ascites, the fluid build-up that causes swelling and breathlessness. Benefit depends on how much disease is present, your fitness, and whether the primary tumour can be removed. Surgeons usually assess this with laparoscopy first, and not everyone is suitable.</p>"
+          },
+          {
+            "q": "What visa and paperwork do I need to travel for treatment?",
+            "a": "<p>Most patients travel on a medical visa, which usually needs an invitation letter from the treating hospital, a passport valid for at least six months, and proof of funds. An attendant can normally apply alongside you. Translated medical records speed up the invitation. Processing times differ by embassy and can take several weeks, so start early and confirm current requirements with the Chinese mission in your country.</p>"
+          },
+          {
+            "q": "Can my oncologist at home continue the treatment I start in China?",
+            "a": "<p>Often yes, if the drugs are approved and available where you live. Standard chemotherapy and many immunotherapy agents can be continued locally, while newer Chinese-approved drugs and trial medicines usually cannot, which may mean returning for further cycles. Ask the Chinese team for a full discharge summary with drug names, doses and scan images. CancerFax can help share these records with your home oncologist so care continues without gaps.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Dendritic Cell Therapy: Dendritic Cell Vaccines, Neoantigen Vaccines, and Personalized Cancer Immunotherapy",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "dendritic-cell-therapy",
+  "route": "/treatments/dendritic-cell-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is dendritic cell therapy, in plain terms?",
+            "a": "<p>Dendritic cell therapy is a personalised cancer vaccine made from your own immune cells. Doctors collect dendritic cells from your blood, expose them in a laboratory to proteins from your tumour, then infuse them back into your body. The trained cells instruct your T cells to find and attack cancer cells carrying those proteins. It is active immunotherapy, and the strength of the response varies between patients and cancer types.</p>"
+          },
+          {
+            "q": "How is a dendritic cell vaccine actually made?",
+            "a": "<p>Your blood passes through an apheresis machine that separates out immune cells called monocytes and returns the rest to you. In the laboratory these cells are matured into dendritic cells over roughly seven to ten days and loaded with tumour antigens, taken either from your own tumour tissue or from synthetic peptides. The finished doses are frozen and given as injections. Manufacturing time depends on the centre and the antigen source.</p>"
+          },
+          {
+            "q": "What is a neoantigen vaccine, and how is it different?",
+            "a": "<p>A neoantigen vaccine targets mutations that exist only in your tumour, not in your healthy tissue. Sequencing your tumour and normal DNA identifies these mutated proteins, and the strongest candidates are loaded onto your dendritic cells or delivered as peptides or mRNA. Because the targets are unique to your cancer, the immune response can be sharper and healthy cells are less likely to be harmed. Availability is still mostly through trials.</p>"
+          },
+          {
+            "q": "Which cancers is dendritic cell therapy used for?",
+            "a": "<p>Dendritic cell therapy is studied most in prostate cancer, glioblastoma, melanoma, kidney cancer, pancreatic cancer, and some liver and ovarian cancers. Only one product, sipuleucel-T for advanced prostate cancer, holds full approval in the United States. Everything else is offered inside clinical trials or under country-specific regulatory routes. Whether your particular cancer and stage qualify depends on your pathology report, your tumour burden, and what treatment you have already had.</p>"
+          },
+          {
+            "q": "Does dendritic cell therapy actually shrink tumours?",
+            "a": "<p>Dendritic cell therapy rarely shrinks tumours quickly; its benefit usually shows up as slower progression and longer survival. In the sipuleucel-T prostate cancer trial, median survival improved by about four months with little change in PSA levels or scan measurements. Immune responses can take weeks or months to build. For this reason, doctors often judge benefit by how you are doing overall rather than by imaging alone.</p>"
+          },
+          {
+            "q": "Is dendritic cell therapy approved, or is it still experimental?",
+            "a": "<p>It is mostly experimental. Sipuleucel-T is approved in the United States for advanced prostate cancer, and a small number of dendritic cell products carry conditional or regional approval in Japan, South Korea, and parts of Europe. In India and China, most dendritic cell and neoantigen vaccines are given within clinical trials or hospital research programmes. Regulatory status changes often, so ask the centre which approval or trial covers your treatment.</p>"
+          },
+          {
+            "q": "What are the side effects of a dendritic cell vaccine?",
+            "a": "<p>Side effects are usually mild compared with chemotherapy. Most patients get flu-like symptoms for a day or two: fever, chills, tiredness, headache, muscle aches, and soreness or swelling at the injection site. Serious reactions are uncommon, and hair loss and severely low blood counts are not typical. People with autoimmune disease may need extra caution, because stimulating the immune system can worsen an existing autoimmune condition.</p>"
+          },
+          {
+            "q": "How many doses will I need, and how long does treatment take?",
+            "a": "<p>Most schedules give three to six injections over several weeks, often followed by booster doses every few months. Sipuleucel-T uses three infusions given two weeks apart. Neoantigen vaccine protocols commonly run priming doses weekly or fortnightly, then boosters for up to a year. Add roughly three to six weeks at the start for cell collection and manufacturing. Your exact schedule depends on the protocol your centre follows.</p>"
+          },
+          {
+            "q": "How much does dendritic cell therapy cost in India or China?",
+            "a": "<p>Costs vary widely. Dendritic cell vaccine programmes in India often quote USD 15,000 to 35,000 for a full course, while Chinese centres commonly quote USD 20,000 to 50,000, depending on whether tumour sequencing for neoantigens is included. Enrolling in a trial may reduce or remove part of this cost. CancerFax can help you request written quotations, though your treating oncologist should confirm whether this therapy suits your case.</p>"
+          },
+          {
+            "q": "Can I have dendritic cell therapy alongside chemotherapy or immunotherapy?",
+            "a": "<p>Often yes, and combinations are the main direction of current research. Low-dose chemotherapy before vaccination can reduce the regulatory T cells that blunt the immune response, and checkpoint inhibitors such as pembrolizumab or nivolumab are frequently paired with dendritic cell vaccines. High-dose steroids are usually avoided, since they suppress the very reaction you are trying to build. Your oncologist will need to sequence these treatments around your current regimen.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

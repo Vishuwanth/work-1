@@ -1,0 +1,59 @@
+{
+  "pillar": "Bevacizumab for Recurrent Glioblastoma",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "bevacizumab-recurrent-glioblastoma",
+  "route": "/insights/bevacizumab-recurrent-glioblastoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Does bevacizumab cure recurrent glioblastoma?",
+            "a": "<p>Bevacizumab does not cure recurrent glioblastoma. It is an antibody that blocks VEGF, a signal the tumour uses to grow new blood vessels, which reduces brain swelling and can shrink the visible tumour on MRI.</p><p>Studies show it often improves progression-free survival and quality of life for several months, but it has not been shown to extend overall survival. Your neuro-oncology team can explain what benefit may be realistic for you.</p>"
+          },
+          {
+            "q": "How quickly does bevacizumab start working?",
+            "a": "<p>Many patients feel a difference within one to two weeks of the first infusion, usually as headaches ease and swelling-related weakness improves. Bevacizumab acts on tumour blood vessels quickly, so MRI scans often show a reduction in contrast enhancement after only one or two doses. This early change does not always mean the tumour itself has shrunk, so your doctors will judge response on symptoms and imaging together over time.</p>"
+          },
+          {
+            "q": "What are the most common side effects of bevacizumab?",
+            "a": "<p>High blood pressure, protein in the urine, tiredness, nosebleeds and slow wound healing are the side effects seen most often. These are usually manageable with monitoring, blood pressure medicines and dose adjustments.</p><p>Less commonly, bevacizumab can cause bleeding inside the tumour, blood clots, or a hole in the bowel wall. Your team will check blood pressure and urine before each dose and will pause treatment if a serious problem appears.</p>"
+          },
+          {
+            "q": "How is bevacizumab given, and how long does treatment last?",
+            "a": "<p>Bevacizumab is given as an intravenous infusion every two or three weeks in a day-care unit. The first infusion usually takes about 90 minutes; later ones can often be shortened to 30 minutes if you tolerate them well.</p><p>Treatment normally continues as long as it helps and side effects stay acceptable, which for many patients means several months. There is no fixed number of cycles for recurrent glioblastoma.</p>"
+          },
+          {
+            "q": "Will bevacizumab let me reduce my dexamethasone dose?",
+            "a": "<p>In many cases, yes. Bevacizumab reduces the leaky blood vessels that cause brain swelling, so a large share of patients can cut their steroid dose or stop it altogether within a few weeks. That often means less weight gain, better sleep, steadier blood sugar and stronger leg muscles. Steroids must always be tapered slowly under medical supervision, and your doctor will decide the pace based on your symptoms.</p>"
+          },
+          {
+            "q": "Is bevacizumab better on its own or combined with chemotherapy such as lomustine?",
+            "a": "<p>For most patients with recurrent glioblastoma, bevacizumab alone gives similar overall survival to bevacizumab plus lomustine, while the combination adds more blood-count side effects. The EORTC 26101 trial found longer progression-free survival with the combination but no overall survival gain.</p><p>Choice often depends on your age, performance status, MGMT status and how many treatments you have already had, so this decision belongs with your neuro-oncologist.</p>"
+          },
+          {
+            "q": "Why do my scans look better but I still feel unwell?",
+            "a": "<p>This is called pseudoresponse. Bevacizumab tightens leaky tumour blood vessels, so contrast dye stops leaking and the tumour looks smaller on MRI even when tumour cells are still active. Radiologists therefore also look at FLAIR sequences and diffusion imaging rather than contrast alone. Tell your team about any new weakness, seizures or confusion, because how you feel can matter more than the scan picture during bevacizumab treatment.</p>"
+          },
+          {
+            "q": "Is bevacizumab approved for recurrent glioblastoma in India and China?",
+            "a": "<p>Bevacizumab is registered in both countries, though the exact wording of the approved indication differs and use in recurrent glioblastoma is common in practice. The United States approved it for this setting in 2009, while European regulators did not.</p><p>Availability, reimbursement and hospital policy can vary between centres, so confirm the current position with the treating hospital before you travel or plan a full course of treatment.</p>"
+          },
+          {
+            "q": "How much does bevacizumab treatment cost in India or China?",
+            "a": "<p>Biosimilar bevacizumab has made this one of the more affordable targeted therapies, and a single 400 mg vial in India often costs a fraction of the originator price in Western countries. Total cost depends on your weight, the dosing interval and how many cycles you receive.</p><p>CancerFax can help you obtain written cost estimates from treating hospitals, though final pricing is always set by the hospital after review.</p>"
+          },
+          {
+            "q": "What are my options if bevacizumab stops working?",
+            "a": "<p>Options may include re-irradiation, a different chemotherapy such as lomustine or temozolomide rechallenge, tumour treating fields, repeat surgery for a resectable lesion, or a clinical trial of an immunotherapy or targeted drug matched to your tumour's molecular profile.</p><p>CancerFax can help you identify trials and centres that accept international patients, but eligibility is decided by the trial team, and supportive care alone remains a valid choice for some patients.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

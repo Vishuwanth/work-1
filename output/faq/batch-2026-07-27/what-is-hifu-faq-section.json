@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is HIFU? Non-Invasive Focused Ultrasound Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-hifu",
+  "route": "/insights/what-is-hifu",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIFU, in plain language?",
+            "a": "<p>HIFU stands for high-intensity focused ultrasound. It is a non-invasive treatment that aims sound waves at a tumour from outside the body, focusing them on one small point so the tissue there heats to around 60–90°C and dies. Nothing is cut and no radiation is used. Surrounding tissue that the beam passes through stays largely unharmed because the energy only concentrates at the focal point.</p>"
+          },
+          {
+            "q": "Is HIFU surgery? Will I have a cut or a scar?",
+            "a": "<p>No. HIFU involves no incision, so there is no surgical wound and no scar. For prostate cancer the probe is placed in the rectum; for liver, kidney or pancreatic tumours the energy is delivered through the skin, sometimes guided by MRI. Most people go home the same day or after one night. You will still need anaesthesia or sedation, because you must stay completely still.</p>"
+          },
+          {
+            "q": "Which cancers is HIFU actually used for?",
+            "a": "<p>Prostate cancer is the main use, particularly localised disease confined to one side of the gland. HIFU is also used for uterine fibroids, and in some centres for liver, kidney, pancreatic, breast and bone tumours, often to control pain rather than to cure. Availability varies widely by country and hospital. Whether HIFU suits your tumour type, size and location is a decision only your treating oncologist can make.</p>"
+          },
+          {
+            "q": "How long does a HIFU treatment take, and how quickly do I recover?",
+            "a": "<p>Most HIFU sessions take one to four hours, depending on tumour size and location. Recovery is usually quick: many patients return to light activity within a few days, far sooner than after open surgery. Prostate patients normally go home with a urinary catheter for one to two weeks. Your exact timeline depends on the organ treated, your general health and how much tissue was targeted.</p>"
+          },
+          {
+            "q": "What are the side effects of HIFU?",
+            "a": "<p>The common side effects after prostate HIFU are temporary difficulty passing urine, urinary infection, blood in the urine or semen, and erection problems in some men. Urinary incontinence happens far less often than after radical surgery. Treatment through the skin can cause skin burns or pain over the treated area. Side effects vary with the organ treated, so ask your team what to expect in your case.</p>"
+          },
+          {
+            "q": "Is HIFU as effective as surgery or radiotherapy for prostate cancer?",
+            "a": "<p>For carefully selected men with low or intermediate-risk prostate cancer, focal HIFU can control the disease in the treated area in roughly 80–90% of cases at five years, with fewer urinary and sexual side effects than radical surgery. Long-term survival data compared directly against surgery and radiotherapy is still limited. That is why HIFU is often offered within trials or to men who meet strict criteria.</p>"
+          },
+          {
+            "q": "If the cancer comes back, can I have HIFU again or still have surgery?",
+            "a": "<p>Yes, in most cases. One of the main attractions of HIFU is that it does not close off your other options. HIFU can often be repeated on the same or the opposite side, and surgery or radiotherapy usually remains possible afterwards, though scarring can make later surgery more demanding. Around one in five men treated focally may need further treatment within five years, so ongoing PSA monitoring is essential.</p>"
+          },
+          {
+            "q": "Who is not suitable for HIFU?",
+            "a": "<p>HIFU is generally not offered when the cancer has spread beyond the treated organ, when the tumour is too large or too close to the bowel, or when bone or gas blocks the sound waves from reaching it. Men who have had certain rectal surgery may also be unsuitable. Eligibility is decided case by case using MRI, biopsy and staging scans, so only your specialist can confirm it.</p>"
+          },
+          {
+            "q": "How much does HIFU cost, and is it available in India or China?",
+            "a": "<p>HIFU typically costs far less in India and China than in Europe or the United States, though quoted prices vary widely between hospitals and rarely include scans, hospital stay or follow-up. Several large centres in both countries offer it. CancerFax can help you gather written cost estimates and treatment plans from these hospitals, but any final figure and any decision to travel should be confirmed with your oncology team.</p>"
+          },
+          {
+            "q": "What should I ask before agreeing to HIFU?",
+            "a": "<p>Ask how many HIFU procedures the centre performs each year, what their five-year control rates are for your stage, whether you are being offered whole-gland or focal treatment, and what happens if the cancer returns. Ask for the total cost in writing. If you are considering treatment abroad, CancerFax can arrange a second opinion, though what is possible will depend on your reports and stage.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

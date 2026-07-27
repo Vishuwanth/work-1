@@ -1,0 +1,59 @@
+{
+  "pillar": "Sentinel Lymph Node Biopsy: Procedure, Results, and What They Mean",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "sentinel-lymph-node-biopsy",
+  "route": "/insights/sentinel-lymph-node-biopsy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is a sentinel lymph node biopsy, and why does my surgeon want one?",
+            "a": "<p>A sentinel lymph node biopsy removes the first one to three lymph nodes that drain fluid away from your tumour, so a pathologist can check whether cancer has started to spread. Your surgeon wants it because those nodes are the most likely first stop for cancer cells. The result guides staging and decisions about chemotherapy, radiotherapy or further surgery, and it spares you from having healthy nodes removed unnecessarily.</p>"
+          },
+          {
+            "q": "How does the surgeon know which lymph node is the sentinel node?",
+            "a": "<p>The surgeon injects a radioactive tracer, a blue dye, or both near the tumour, then follows the path that fluid takes into the lymph system. The first node that signals on a handheld probe or turns blue is the sentinel node. Some centres now use a magnetic tracer or a fluorescent dye instead. Mapping usually takes only a few minutes, done under anaesthesia or shortly before you go to theatre.</p>"
+          },
+          {
+            "q": "Does a negative sentinel node mean I am cancer-free?",
+            "a": "<p>A negative sentinel node means no cancer cells were found in the nodes most likely to be affected, which is reassuring but not the same as being cancer-free. It tells your team the cancer has probably not travelled through the lymph system, so you can often avoid a full node clearance. You will still need treatment for the primary tumour and regular follow-up checks.</p>"
+          },
+          {
+            "q": "What happens if cancer is found in my sentinel node?",
+            "a": "<p>A positive sentinel node means cancer cells have reached the lymph system, which raises your stage and usually changes the treatment plan. Depending on how many nodes are involved and how much cancer is in them, your team may add radiotherapy to the armpit or groin, chemotherapy, hormone therapy, or targeted drugs. Many people with one or two positive nodes still do well with treatment.</p>"
+          },
+          {
+            "q": "Will all my lymph nodes be removed if the sentinel node is positive?",
+            "a": "<p>Not always. Large breast cancer trials showed that many women with one or two positive sentinel nodes do just as well with radiotherapy to the armpit instead of a full node clearance. Melanoma practice has shifted the same way, often favouring close ultrasound monitoring.</p><p>Your surgeon weighs tumour size, how much cancer is in the nodes, and your planned drug treatment. Whether this applies to you depends on your pathology report.</p>"
+          },
+          {
+            "q": "How long do I have to wait for the biopsy results?",
+            "a": "<p>Final pathology results usually take three to seven working days, because the nodes are sliced thinly, stained, and sometimes tested for hidden cancer cells using special immunostains. Some hospitals also run a rapid test during surgery, giving an answer in roughly thirty minutes so extra nodes can be taken in the same operation. Ask your surgeon which approach your hospital uses, as waiting times vary between centres.</p>"
+          },
+          {
+            "q": "How painful is the procedure, and how quickly will I recover?",
+            "a": "<p>Most people describe mild soreness rather than severe pain, and many go home the same day. The tracer injection can sting for a minute or two. You may have a small scar in the armpit or groin, some bruising, and stiffness that eases over one to two weeks. Light activity is usually fine within days, though your surgeon may ask you to delay heavy lifting or driving.</p>"
+          },
+          {
+            "q": "Will a sentinel node biopsy give me lymphoedema?",
+            "a": "<p>The risk is much lower than with full lymph node removal, generally around five percent compared with twenty percent or more. Taking only a few nodes leaves most drainage pathways intact. Risk rises if you also have radiotherapy to the same area, carry extra weight, or develop an infection in the limb. Report any lasting swelling, heaviness or tightness early, because treatment often works best when started promptly.</p>"
+          },
+          {
+            "q": "Can the biopsy miss cancer that is actually there?",
+            "a": "<p>Yes, though it is uncommon. False negative rates are usually reported between five and ten percent, meaning the sentinel node looks clear while cancer sits in another node. Causes can include blocked lymph channels, unusual drainage patterns, or very small deposits. This is why your team keeps examining the area at follow-up visits, and why you should report any new lump near the scar promptly.</p>"
+          },
+          {
+            "q": "Can I have a sentinel lymph node biopsy if I travel to India or China for treatment?",
+            "a": "<p>Yes, in most cases. Major cancer centres in India and China perform sentinel node biopsy routinely for breast cancer and melanoma, often using the same dual tracer technique used in Europe. Availability of specific tracers and rapid in-theatre testing can vary between hospitals, so confirm before you travel. CancerFax can help you share your reports with an oncology team abroad, though your final plan rests with those surgeons.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

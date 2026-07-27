@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU for Bone Metastases: Non-Invasive Pain Palliation",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-for-bone-metastases",
+  "route": "/insights/hifu-for-bone-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can HIFU relieve my bone metastasis pain without surgery?",
+            "a": "<p>Yes. MR-guided high-intensity focused ultrasound can ease bone metastasis pain with no incision, no needle and no radiation. Focused sound waves pass through skin and muscle, then heat a small target on the bone surface, destroying the nerve endings that carry the pain signal. In published trials, around two thirds of treated patients reported meaningful relief. Whether it suits your lesion depends on where it sits and what your scans show.</p>"
+          },
+          {
+            "q": "How quickly does the pain relief start?",
+            "a": "<p>Many patients feel less pain within three days, and most who respond do so inside two weeks. That is often faster than external beam radiotherapy, where relief can take two to four weeks. Mild soreness or warmth at the treated site is common in the first few days and usually settles with simple painkillers.</p><p>How fast you respond may depend on lesion size, its location, and how much pain medicine you already take.</p>"
+          },
+          {
+            "q": "Is HIFU better than radiotherapy for bone pain?",
+            "a": "<p>Neither is simply better; they suit different situations. Radiotherapy remains the standard first treatment for painful bone metastases and is far more widely available. HIFU is usually considered when radiotherapy has already been given to that site, when pain returns afterwards, or when a patient needs to avoid further radiation dose. Some centres offer both. Your radiation oncologist can advise which order makes more sense in your case.</p>"
+          },
+          {
+            "q": "Can I still have HIFU if radiotherapy did not work?",
+            "a": "<p>Yes, and this is the most common reason HIFU is used. Because it delivers heat rather than radiation, it can often be applied to a site that has already reached its safe radiation limit. Studies in patients whose pain persisted or returned after radiotherapy showed useful relief in many cases. Eligibility still depends on your imaging, bone stability, and how close the lesion lies to nerves.</p>"
+          },
+          {
+            "q": "Which bones can actually be treated with HIFU?",
+            "a": "<p>HIFU works best on bone the ultrasound beam can reach without passing through lung, bowel, or brain. The pelvis, sacrum, ribs, shoulder blade, upper arm and thigh bones, and parts of the spine away from the spinal cord are the usual targets. Skull lesions, vertebrae close to the cord, and deposits hidden behind bowel gas are generally unsuitable. A planning MRI decides this, not the bone name alone.</p>"
+          },
+          {
+            "q": "Does HIFU cure the cancer or only control the pain?",
+            "a": "<p>HIFU for bone metastases is a palliative treatment aimed at pain, not a cure. It destroys tissue in the treated spot, which can shrink that single deposit, but it does nothing to cancer elsewhere in the body. Systemic treatment such as hormone therapy, chemotherapy, targeted drugs, or bone-strengthening injections still does the main work. HIFU is best seen as one part of a wider plan your oncology team directs.</p>"
+          },
+          {
+            "q": "What actually happens during the treatment session?",
+            "a": "<p>You lie on an MRI table above a small ultrasound transducer, usually under sedation or light anaesthesia so you stay completely still. The team maps the painful bone surface, then delivers a series of short sonications, each a few seconds of focused heat, while the scanner measures temperature in real time. The appointment typically lasts one to three hours, and most patients go home the same day.</p>"
+          },
+          {
+            "q": "What are the risks and side effects?",
+            "a": "<p>Most side effects are mild and short lived: soreness at the treated site, temporary skin redness, and a brief flare of pain in the first day or two. Less commonly, HIFU can cause skin burns, nerve irritation with numbness or weakness, or muscle inflammation near the target. Fracture of already weakened bone is rare but recognised. Your team will check your scans for these risks before agreeing to treat.</p>"
+          },
+          {
+            "q": "Is HIFU for bone metastases available in India or China, and what does it cost?",
+            "a": "<p>MR-guided HIFU is offered at a limited number of large hospitals and research centres in India and China rather than routinely everywhere, so availability often shapes the plan more than price does. Costs vary widely by city, hospital, and whether the session forms part of a study. CancerFax can help you check which centres currently run a bone-metastasis HIFU programme, though quotations and acceptance always come from the hospital itself.</p>"
+          },
+          {
+            "q": "How do I find out whether I am suitable for HIFU?",
+            "a": "<p>Suitability is judged from your recent CT or MRI scans, your pain pattern, any radiotherapy you have already had, and whether the bone is at risk of fracture. Bring these records to a radiation oncologist or interventional radiologist at a centre that performs bone HIFU. CancerFax can help gather and forward those records for review. The final decision on eligibility rests with the treating team performing the procedure.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

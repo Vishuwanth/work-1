@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is Hormone Therapy for Cancer and How Does It Work?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-hormone-therapy-cancer",
+  "route": "/insights/what-is-hormone-therapy-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is hormone therapy for cancer?",
+            "a": "<p>Hormone therapy is a cancer treatment that blocks or lowers the hormones some tumours need to grow. It works on hormone-sensitive cancers, most often breast and prostate cancer, and sometimes cancers of the womb lining. Doctors give it as tablets, injections, or by surgery to remove the ovaries or testicles. Your oncologist may combine it with surgery, radiotherapy, or chemotherapy, depending on your cancer type and stage.</p>"
+          },
+          {
+            "q": "How does hormone therapy actually work inside the body?",
+            "a": "<p>Hormone therapy works by cutting off the hormone signal that fuels tumour growth. Some drugs stop the body making oestrogen or testosterone; others sit on the cancer cell's hormone receptor so the hormone cannot attach. Without that signal, hormone-sensitive cancer cells often slow down, shrink, or stop dividing. This is why the treatment only helps tumours that test positive for hormone receptors, and why your biopsy is tested first.</p>"
+          },
+          {
+            "q": "Which cancers does hormone therapy treat?",
+            "a": "<p>Hormone therapy is used mainly for hormone receptor-positive breast cancer and for prostate cancer, which nearly always depends on testosterone. It can also help some womb (endometrial) cancers, ovarian cancers, and certain thyroid or adrenal tumours. It does not work on cancers that lack hormone receptors, such as triple-negative breast cancer. Your pathology report decides this, so ask your oncologist what your receptor status shows before assuming hormone therapy is an option.</p>"
+          },
+          {
+            "q": "How long will I need to be on hormone therapy?",
+            "a": "<p>Most people take hormone therapy for years, not weeks. After breast cancer surgery, five years is common, and some women continue for seven to ten years if their risk of the cancer returning is higher. In prostate cancer, hormone therapy may run for six months alongside radiotherapy, or continue long term in advanced disease. The exact length depends on your stage, how well you tolerate it, and how your cancer responds.</p>"
+          },
+          {
+            "q": "What are the side effects of hormone therapy?",
+            "a": "<p>The most common side effects come from low hormone levels: hot flushes, night sweats, tiredness, mood changes, and reduced sex drive. Women may get vaginal dryness and joint stiffness; men often report breast tenderness, weight gain, and loss of muscle. Longer use can thin the bones, so your team may check bone density and add calcium, vitamin D, or bone-protecting drugs. Report new symptoms early, because most effects can be managed.</p>"
+          },
+          {
+            "q": "Does hormone therapy cure cancer, or just control it?",
+            "a": "<p>Hormone therapy is usually given to lower the chance of cancer returning or to control advanced disease, rather than to cure it on its own. In early breast and prostate cancer it is added after surgery or radiotherapy and can meaningfully reduce recurrence. In advanced cancer it often holds the disease steady for months or years. What it can achieve depends on your stage, receptor status, and overall health.</p>"
+          },
+          {
+            "q": "What happens if hormone therapy stops working?",
+            "a": "<p>If the cancer starts growing again, it has usually become resistant to that particular drug, and your team will change the plan rather than stop treatment altogether. Options may include switching to a different hormone drug, adding a targeted drug such as a CDK4/6 inhibitor, or moving to chemotherapy. Regular scans and blood tests, like PSA in prostate cancer, are how resistance is spotted early. Which options remain depends on what you have already received.</p>"
+          },
+          {
+            "q": "How much does hormone therapy cost in India or China?",
+            "a": "<p>Hormone therapy is among the cheaper cancer treatments, because most of the older tablets are off patent. Generic tamoxifen or letrozole in India often costs only a few dollars a month, while newer prostate drugs such as abiraterone or enzalutamide cost considerably more. CancerFax can help you compare hospitals and current estimates, though final costs depend on the hospital, the drug chosen, monitoring tests, and how long you stay on treatment.</p>"
+          },
+          {
+            "q": "Do I have to travel abroad, or can I take the tablets at home?",
+            "a": "<p>Most hormone therapy is taken at home as a daily tablet or a monthly to three-monthly injection, so repeated travel is rarely needed. Patients who go abroad usually travel once for surgery, radiotherapy, or a specialist opinion, then continue the hormone drugs with a local doctor. You will still need regular follow-up, blood tests, and prescriptions where you live. Confirm before travelling that your drug is available and licensed at home.</p>"
+          },
+          {
+            "q": "What should I ask my oncologist before starting hormone therapy?",
+            "a": "<p>Ask four things: is my tumour hormone receptor-positive, which drug do you recommend and why, how long will I take it, and which side effects should I report straight away. Also ask about bone health, fertility if that matters to you, and whether your other medicines interact. Bring your pathology report to the appointment. A second opinion is reasonable, and CancerFax can help organise your reports for one alongside your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

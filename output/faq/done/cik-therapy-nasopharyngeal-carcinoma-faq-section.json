@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Therapy for Nasopharyngeal Carcinoma: Evidence and Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-nasopharyngeal-carcinoma",
+  "route": "/insights/cik-therapy-nasopharyngeal-carcinoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK therapy for nasopharyngeal carcinoma?",
+            "a": "<p>CIK therapy uses your own immune cells, grown and activated in a laboratory, then infused back to attack nasopharyngeal cancer. Blood is collected, the cells are cultured with cytokines for about two weeks, and returned as several infusions. It is nearly always given alongside chemotherapy or radiotherapy, not instead of them. Most clinical experience comes from centres in China, where nasopharyngeal carcinoma is most common.</p>"
+          },
+          {
+            "q": "Does CIK therapy actually work for nasopharyngeal cancer?",
+            "a": "<p>Early trial evidence suggests CIK cells added to standard chemotherapy may improve progression-free survival and quality of life, but the proof is not yet definitive. Most studies come from Chinese centres, involve small numbers of patients, and use different cell preparation methods, which makes results hard to compare. No large international phase III trial has confirmed a survival benefit. Discuss with your oncology team whether the current evidence justifies the cost and time.</p>"
+          },
+          {
+            "q": "Is CIK therapy an approved treatment anywhere?",
+            "a": "<p>CIK therapy is not an approved standard treatment for nasopharyngeal carcinoma in any country. In China it is offered by some hospitals as a supplementary cell therapy, usually within clinical research or under local hospital rules, and regulation there has tightened in recent years. It carries no FDA or EMA approval as a licensed product. Access often depends on the individual hospital, your disease stage, and current national policy.</p>"
+          },
+          {
+            "q": "Can CIK therapy replace my chemotherapy or radiotherapy?",
+            "a": "<p>No. CIK therapy should be added to standard treatment, never used in place of it. Radiotherapy, often with cisplatin chemotherapy, remains the backbone of curative treatment for nasopharyngeal carcinoma, and for recurrent or spread disease, chemotherapy combined with a PD-1 antibody is now standard practice. Delaying proven treatment to pursue cell therapy can allow the cancer to grow. Any CIK plan should be agreed with your treating oncology team.</p>"
+          },
+          {
+            "q": "How is CIK therapy given, and how long does it take?",
+            "a": "<p>Treatment starts with apheresis, where blood is drawn and white cells are separated, usually over two to four hours. The cells are then expanded in a laboratory for roughly ten to fourteen days. They are returned through a drip, commonly as four to six infusions spread across one to two weeks. A full course often takes three to four weeks, and some centres repeat courses between chemotherapy cycles.</p>"
+          },
+          {
+            "q": "What are the side effects of CIK therapy?",
+            "a": "<p>Side effects are usually mild. The most common are fever and chills in the hours after an infusion, along with tiredness, mild muscle aches, or a short-lived rash. These typically settle within a day and respond to simple fever medicine. Because the cells come from your own body, rejection and graft-versus-host disease are not expected. Severe reactions such as the cytokine release syndrome seen with CAR-T are rare with CIK therapy.</p>"
+          },
+          {
+            "q": "Can I have CIK therapy if my nasopharyngeal cancer has spread?",
+            "a": "<p>Spread of the cancer does not automatically rule you out, and much of the CIK research has involved advanced or recurrent disease. Centres generally look for adequate organ function, a reasonable level of daily activity, controlled infection, and enough healthy white cells to collect. Very heavy prior chemotherapy can make the cells harder to grow in the laboratory. Eligibility is decided case by case after specialist review of recent scans and blood results.</p>"
+          },
+          {
+            "q": "How much does CIK therapy cost in China?",
+            "a": "<p>A CIK course in China commonly runs between roughly 12,000 and 30,000 US dollars, depending on the hospital, the number of infusions, and whether cell collection and hospital stay are bundled in. This sits on top of chemotherapy, radiotherapy, scans, travel, and accommodation. Costs are rarely covered by insurance because the therapy is not an approved standard treatment. Final figures depend on the hospital, protocol, diagnostics, and length of stay.</p>"
+          },
+          {
+            "q": "Which countries offer CIK therapy, and is it available in India?",
+            "a": "<p>CIK therapy is offered mainly in China, with limited availability in Japan, South Korea, and a few private clinics elsewhere. Indian hospitals rarely offer CIK for nasopharyngeal carcinoma, though several run other cell therapy and immunotherapy programmes. CancerFax helps patients organise medical reports, identify relevant specialists or trials, estimate costs, and coordinate travel and visa support alongside the treating oncology team. No centre can guarantee acceptance, visa approval, or admission.</p>"
+          },
+          {
+            "q": "What should I ask a hospital before agreeing to CIK therapy?",
+            "a": "<p>Ask how many nasopharyngeal carcinoma patients they have treated with CIK, what published results they rely on, and whether your treatment sits inside a registered clinical trial. Request the total cost in writing, the number of infusions, and what happens if the cells fail to grow.</p><p>Also ask who manages side effects and how records will be shared with your home oncologist. CancerFax can help you prepare these questions and gather your reports beforehand.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

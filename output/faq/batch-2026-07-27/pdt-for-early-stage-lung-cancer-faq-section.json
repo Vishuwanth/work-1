@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT for Early Stage Lung Cancer: Endobronchial Treatment and Airway Recanalization",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-for-early-stage-lung-cancer",
+  "route": "/insights/pdt-for-early-stage-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is photodynamic therapy for early stage lung cancer?",
+            "a": "<p>Photodynamic therapy, or PDT, uses a light-sensitive drug plus a laser to destroy cancer cells inside the airway. The drug is given by injection and collects in tumour tissue. Two days later a bronchoscope carries red laser light to the tumour, activating the drug and killing the cells. For small, early tumours in the airway lining, PDT can remove visible disease while sparing healthy lung.</p>"
+          },
+          {
+            "q": "Can PDT cure my early stage lung cancer?",
+            "a": "<p>PDT can achieve a complete response in many early central lung cancers, particularly tumours under one centimetre that sit on the airway surface. Reported complete response rates often exceed 80 percent in carefully selected patients. It is not a guaranteed cure, and cancer can come back, so repeat bronchoscopies are scheduled for years afterwards. Your pulmonologist will judge whether your tumour depth makes cure a realistic goal.</p>"
+          },
+          {
+            "q": "I am not fit for surgery — is PDT an option for me?",
+            "a": "<p>Yes, PDT is often chosen exactly for patients who cannot tolerate lung surgery. Poor lung function, heart disease, age, or a previous lung resection can all rule out an operation, and PDT removes no healthy lung tissue at all. Eligibility still depends on where the tumour sits and how deep it goes, since the laser light reaches only about one centimetre. A bronchoscopy and imaging decide this.</p>"
+          },
+          {
+            "q": "How does PDT open a blocked airway?",
+            "a": "<p>PDT shrinks tumour blocking the windpipe or a main bronchus, and the dead tissue is then cleared out by bronchoscope, reopening the passage. This is called recanalization. Most patients notice easier breathing, less coughing, and less bleeding within a week or two of the clean-out. Relief may not be immediate, because the tumour needs a few days to die before it can be safely removed.</p>"
+          },
+          {
+            "q": "What actually happens during PDT treatment?",
+            "a": "<p>Treatment takes two visits. On day one you receive the photosensitising drug, usually porfimer sodium, through a vein, and then go home. Two to three days later you return for bronchoscopy under sedation, and a thin fibre delivers laser light to the tumour for several minutes. A second bronchoscopy two days after that clears away dead tissue. Most people go home the same day or the next morning.</p>"
+          },
+          {
+            "q": "Why must I stay out of sunlight after PDT?",
+            "a": "<p>The photosensitising drug stays in your skin and eyes for weeks, so ordinary sunlight can cause a severe burn. With porfimer sodium you must avoid direct sun and bright indoor light for about four to six weeks, covering skin and wearing dark glasses outdoors. Soft indoor lamps are fine and actually help clear the drug faster. Your team will test a small patch of skin before you return to normal light.</p>"
+          },
+          {
+            "q": "What are the side effects of endobronchial PDT?",
+            "a": "<p>The most common problems are skin sensitivity to light, cough, breathlessness, and a build-up of dead tissue that can temporarily narrow the airway again. Coughing up small amounts of blood happens in some patients. Serious bleeding and airway holes are rare but possible, especially when the tumour lies next to a large blood vessel. Follow-up bronchoscopy to clear debris is a routine part of safe treatment.</p>"
+          },
+          {
+            "q": "How many PDT sessions will I need?",
+            "a": "<p>Most patients need one or two PDT sessions, and a second course can be given about a month after the first if tumour remains. Doctors decide by looking directly at the airway rather than by a fixed schedule. Unlike radiation, PDT has no lifetime dose limit, so it can be repeated if the cancer returns in the same spot. How many you need depends on tumour size and response.</p>"
+          },
+          {
+            "q": "Can PDT be combined with chemotherapy or radiation?",
+            "a": "<p>Yes, PDT is often combined with chemotherapy, radiation, or stenting rather than used alone. It is commonly used first to open a blocked airway so that a patient becomes well enough for systemic treatment. Because PDT does not use radiation, it can also be given to airways that have already been irradiated to their limit. Your oncology team will sequence these treatments around your overall plan.</p>"
+          },
+          {
+            "q": "Where can I get PDT for lung cancer, and what does it cost?",
+            "a": "<p>PDT is offered at specialist interventional pulmonology centres, including several hospitals in India and China, and cost varies widely with the drug, the number of sessions, and the hospital. Not every centre has the laser and trained team required, so travel is common. CancerFax can help you identify centres that perform endobronchial PDT and share indicative costs, though final eligibility and pricing rest with the treating hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

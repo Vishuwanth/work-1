@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Treatment Costs in China for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-treatment-costs-in-china",
+  "route": "/guides/cancer-treatment-costs-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does cancer treatment in China cost compared to the United States?",
+            "a": "<p>Cancer treatment in China typically costs 40 to 70 percent less than the same care in the United States, and often 30 to 50 percent less than in Western Europe. A course of chemotherapy that runs 30,000 US dollars at home may cost 8,000 to 15,000 dollars at a major Chinese cancer centre. Your actual price depends on the cancer type, stage, hospital, and how many cycles your oncologist recommends.</p>"
+          },
+          {
+            "q": "What does a course of chemotherapy cost in China?",
+            "a": "<p>A single chemotherapy cycle at a large Chinese cancer hospital usually costs between 600 and 2,500 US dollars, so a six-cycle course often lands between 4,000 and 15,000 dollars. Newer targeted drugs and immunotherapy raise that figure sharply, sometimes to 3,000 or 6,000 dollars per infusion. Prices vary by drug, by whether a generic or biosimilar version is available locally, and by the hospital tier you choose.</p>"
+          },
+          {
+            "q": "How much does CAR-T cell therapy cost in China?",
+            "a": "<p>Approved CAR-T cell therapy in China generally costs 60,000 to 150,000 US dollars for the infusion alone, well below the 400,000-plus dollar price in the United States. Hospital stay, bridging chemotherapy, and management of side effects such as cytokine release syndrome add roughly 15,000 to 40,000 dollars. Some patients reach CAR-T through clinical trials at far lower cost, though enrolment depends on strict eligibility criteria and available slots.</p>"
+          },
+          {
+            "q": "Is proton or heavy ion therapy in China cheaper than in Japan or Europe?",
+            "a": "<p>Proton and carbon ion therapy in China usually runs 30,000 to 60,000 US dollars for a full course, compared with 90,000 to 150,000 dollars in the United States and Japan. Shanghai and Wuwei run the best known centres. The gap reflects lower operating and staffing costs, not lower equipment standards. Whether particle therapy suits your tumour is a separate question, and only your radiation oncologist can answer it.</p>"
+          },
+          {
+            "q": "Does the quoted hospital price include travel, hotel, and food?",
+            "a": "<p>No. Hospital quotes cover medical care only, so budget separately for flights, accommodation, meals, local transport, and an interpreter. For a family of two staying six to eight weeks near a Beijing or Shanghai cancer centre, that commonly adds 3,000 to 7,000 US dollars. Many hospitals have partner guesthouses at lower nightly rates. Ask for a written itemised estimate before you travel so the total is clear.</p>"
+          },
+          {
+            "q": "Will my health insurance pay for cancer treatment in China?",
+            "a": "<p>Most domestic insurance plans do not pay for planned treatment abroad, though some international and expatriate policies do. Check whether your policy covers overseas care, requires pre-authorisation, and pays the hospital directly or reimburses you later. Chinese hospitals usually expect payment at the time of service regardless of your coverage. Ask your insurer for written confirmation before booking, because verbal assurances rarely hold up at the billing desk.</p>"
+          },
+          {
+            "q": "How much do I have to deposit before treatment starts?",
+            "a": "<p>Chinese hospitals normally ask international patients for an upfront deposit, commonly 5,000 to 20,000 US dollars depending on the planned treatment. The hospital draws down that balance as costs accrue and asks you to top it up. Unused funds are refunded at discharge, though the refund can take several weeks. Start bank transfers early, as international payments to Chinese accounts may take a number of days to clear.</p>"
+          },
+          {
+            "q": "Are clinical trials in China free for foreign patients?",
+            "a": "<p>Trial sponsors often cover the study drug and trial-related tests, which can cut costs sharply, but they rarely cover standard care, hospital stay, travel, or accommodation. Foreign patients can join some Chinese trials, though many are limited to residents or require a local caregiver and address. Eligibility depends on your diagnosis, prior treatments, and lab results, so enrolment can never be promised in advance.</p>"
+          },
+          {
+            "q": "How do I know a price quote from a Chinese hospital is real?",
+            "a": "<p>Ask for an itemised written quote on hospital letterhead that lists drugs, imaging, hospital days, and doctor fees separately, with a stated validity period. Compare quotes from two or three centres for the same protocol. Be careful with any figure given only over chat or without a treatment plan attached. CancerFax can help you request and compare documented estimates, though the treatment decision stays with your oncology team.</p>"
+          },
+          {
+            "q": "What costs surprise international patients the most?",
+            "a": "<p>Repeat diagnostics are the usual shock. Chinese hospitals often re-run pathology, imaging, and blood work rather than accept outside reports, which can add 1,500 to 4,000 US dollars in the first week. Medical visa paperwork, document translation, interpreter fees, and unplanned extra treatment cycles also add up. Setting aside a contingency of about 20 percent above the quoted total may help you avoid a mid-treatment funding gap.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

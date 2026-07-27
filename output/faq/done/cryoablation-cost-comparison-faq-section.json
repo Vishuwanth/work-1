@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation Cost Comparison: China, India, and Western Countries",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-cost-comparison",
+  "route": "/insights/cryoablation-cost-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does cryoablation cost in India compared to the US?",
+            "a": "<p>Cryoablation in India often costs roughly 3,000 to 6,000 US dollars per session, compared with 15,000 to 40,000 dollars in the United States. The gap comes mainly from lower hospital overheads, staff costs and imaging charges, not from cheaper probes or gases. Quoted prices vary widely by tumour site, number of probes and hospital tier, so treat any figure you read online as a starting point rather than a final bill.</p>"
+          },
+          {
+            "q": "What does cryoablation cost in China?",
+            "a": "<p>Cryoablation in China commonly ranges from about 5,000 to 12,000 US dollars per session at major cancer centres in Beijing, Shanghai and Guangzhou. Prices often sit above India's but well below Western levels, and they usually bundle imaging guidance and a short hospital stay. Costs can rise if several probes are needed or if the tumour sits near critical structures, so ask for a written, itemised quote before you travel.</p>"
+          },
+          {
+            "q": "Does a cheaper price mean lower quality treatment?",
+            "a": "<p>A lower price does not automatically mean lower quality. Indian and Chinese centres use the same argon-helium and nitrogen cryoablation systems sold worldwide, and many interventional radiologists there trained in Europe or North America. The savings come from lower salaries, land and administrative costs. What can differ is case volume and after-hours support, so ask how many cryoablation procedures the specific operator performs each year before you decide.</p>"
+          },
+          {
+            "q": "What is actually included in the price they quote me?",
+            "a": "<p>A typical package price should cover the procedure itself, probes, anaesthesia, imaging guidance, the interventional radiologist's fee and one to two nights in hospital. It usually does not cover pre-treatment scans, biopsy, follow-up imaging, medicines after discharge, or the management of complications. Ask for the exclusions in writing, because an attractive headline figure can grow by thirty per cent or more once these items are added.</p>"
+          },
+          {
+            "q": "What will the whole trip cost, not just the procedure?",
+            "a": "<p>Budget roughly 30 to 50 per cent above the procedure quote once travel is included. Flights, medical visas, an attendant's ticket, accommodation for two to three weeks, local transport, interpreter fees and repeat scans all add up. Many patients also need follow-up imaging at one and three months, which may be done at home. Building in a contingency for an extended stay is sensible, as recovery timelines can shift.</p>"
+          },
+          {
+            "q": "Will my insurance pay for cryoablation done abroad?",
+            "a": "<p>Most insurers will not reimburse cryoablation performed overseas unless the policy specifically includes international or elective treatment abroad. Some plans cover it at home when cryoablation is an approved indication, such as kidney or prostate tumours, but decline when it is used off-label. Request written pre-authorisation before booking and keep every invoice and discharge summary, since reimbursement claims are often refused on documentation grounds alone.</p>"
+          },
+          {
+            "q": "Is cryoablation cheaper than surgery or radiotherapy?",
+            "a": "<p>Cryoablation is usually cheaper than open surgery and often comparable to or less than a full course of stereotactic radiotherapy. The saving comes mainly from a shorter hospital stay, no operating theatre time and faster recovery, which means fewer days away from work. Cost alone should not drive the choice, though, because suitability depends on tumour size, location and number, and your oncology team may still recommend surgery.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and does that change the price?",
+            "a": "<p>Many patients need only one cryoablation session, but some require a second if imaging shows residual or recurrent tumour, and each session is usually billed separately. Larger tumours may also need more probes in a single sitting, which raises the price. Ask the centre what a repeat procedure would cost and whether any discount applies, so a second session does not become an unplanned financial shock.</p>"
+          },
+          {
+            "q": "How do I compare quotes from different hospitals fairly?",
+            "a": "<p>Compare quotes line by line rather than by the headline total. Ask each hospital for the number of probes included, the imaging method used, the expected length of stay, and what happens if a complication extends admission. CancerFax can help gather written, itemised estimates from centres in India and China so you can place them side by side, though the final treatment decision rests with your treating oncology team.</p>"
+          },
+          {
+            "q": "Can I get a firm price before I travel?",
+            "a": "<p>In most cases, yes. Indian and Chinese centres will usually issue a provisional written estimate once they have your recent scans, biopsy report and current medication list, often within a few days. The estimate stays provisional because probe count and length of stay can change on the day. CancerFax can pass your records to the relevant interventional radiology teams, but any quote remains subject to their assessment of your case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

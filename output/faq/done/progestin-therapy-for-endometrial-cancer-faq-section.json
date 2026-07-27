@@ -1,0 +1,59 @@
+{
+  "pillar": "Progestin Therapy for Endometrial Cancer: Who Is Eligible and What to Expect",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "progestin-therapy-for-endometrial-cancer",
+  "route": "/insights/progestin-therapy-for-endometrial-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is progestin therapy for endometrial cancer?",
+            "a": "<p>Progestin therapy uses a synthetic form of progesterone to slow or reverse endometrial cancer growth. Tumours that carry progesterone receptors often respond, with the uterine lining thinning and abnormal cells shrinking. It is given as tablets or through a hormone-releasing intrauterine device. Doctors use it mainly to preserve the uterus in early, low-grade disease, or to control advanced cancer when surgery or chemotherapy is not suitable.</p>"
+          },
+          {
+            "q": "Am I eligible for progestin therapy instead of a hysterectomy?",
+            "a": "<p>You may be eligible if you have grade 1 endometrioid endometrial cancer that appears confined to the lining, with no sign of spread into the muscle wall or beyond the uterus on MRI. Your tumour must test positive for hormone receptors. Most candidates want to keep their fertility or cannot safely undergo surgery. Eligibility depends on your pathology, imaging and overall health, so your gynaecologic oncologist makes the final call.</p>"
+          },
+          {
+            "q": "How likely is it that progestin therapy will actually work?",
+            "a": "<p>In carefully selected women with grade 1 disease, roughly 70 to 80 percent see the cancer disappear on repeat biopsy, most within six to twelve months. Complete response is not the same as cure; around a third of these women see the cancer return later, often within two to three years. Response rates are much lower in higher-grade or receptor-negative tumours, so your own odds depend on your pathology.</p>"
+          },
+          {
+            "q": "Which progestin drugs are used, and how are they given?",
+            "a": "<p>The two most common oral options are megestrol acetate, usually 160 milligrams daily, and medroxyprogesterone acetate at 200 to 500 milligrams daily. Many centres now prefer a levonorgestrel-releasing intrauterine device, which delivers the hormone straight to the uterine lining with fewer whole-body side effects. Some teams combine the device with an oral progestin or with metformin. Your team chooses based on your weight, clotting risk and how well you tolerate tablets.</p>"
+          },
+          {
+            "q": "How long before we know if the treatment is working?",
+            "a": "<p>Most teams repeat an endometrial biopsy at three months and again at six months to check whether the abnormal cells have cleared. A complete response by six to twelve months is the goal. If disease persists at six months, many oncologists continue for a further three months before changing course; if it persists at twelve months, surgery is usually recommended. Timelines can vary with the drug and your response.</p>"
+          },
+          {
+            "q": "What side effects should I expect on progestin therapy?",
+            "a": "<p>The most common effects are weight gain, bloating, breast tenderness, mood changes, headaches and irregular vaginal bleeding, especially in the first few months. Oral progestins carry a small but real risk of blood clots in the legs or lungs, which matters more if you are obese, immobile or have clotted before. The intrauterine device causes fewer whole-body effects but can cause cramping or spotting. Report leg swelling or breathlessness immediately.</p>"
+          },
+          {
+            "q": "Can I still have a baby after progestin therapy?",
+            "a": "<p>Yes, pregnancy is possible, and many women conceive after the cancer clears. Live birth rates of roughly 30 to 40 percent are reported, and they are higher in women who use assisted reproduction rather than trying naturally. Most teams advise starting fertility treatment soon after a complete response, because the risk of recurrence rises with time. Your fertility specialist and oncologist should plan this together before you begin progestins.</p>"
+          },
+          {
+            "q": "What happens if the cancer comes back or never responds?",
+            "a": "<p>Hysterectomy is the standard next step, and outcomes remain good because most of these cancers are low grade and slow growing. Some women who have not yet completed their family choose a second course of progestins after a recurrence, and responses do happen, though the chance of lasting control falls. Ongoing surveillance with biopsies every three to six months is what makes early detection of a relapse possible.</p>"
+          },
+          {
+            "q": "Does progestin therapy help advanced or recurrent endometrial cancer?",
+            "a": "<p>It can, particularly when the tumour is low grade and strongly positive for oestrogen and progesterone receptors. Response rates in advanced disease are lower, often around 15 to 25 percent, but responses can last many months with far fewer side effects than chemotherapy. Newer combinations pairing hormonal drugs with targeted agents such as everolimus are also used. Whether it suits your situation depends on receptor testing and how fast the cancer is moving.</p>"
+          },
+          {
+            "q": "Can I get progestin therapy in India or China, and what does it cost?",
+            "a": "<p>Yes. Megestrol, medroxyprogesterone and levonorgestrel devices are widely available in both countries, and generic versions make the drug cost modest, often a few hundred dollars for a full course. The bigger expense is the specialist care around it: MRI, repeat biopsies and expert pathology review. CancerFax can help you identify gynaecologic oncology centres experienced in fertility-sparing management, though your treating team should confirm that this approach fits your diagnosis.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

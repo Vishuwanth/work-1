@@ -1,0 +1,59 @@
+{
+  "pillar": "mRECIST Response Assessment for TACE: How Response Is Measured",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mrecist-response-assessment-tace",
+  "route": "/insights/mrecist-response-assessment-tace",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is mRECIST and why is it used after TACE?",
+            "a": "<p>mRECIST measures how much living, blood-supplied tumour is left after TACE, rather than the total size of the mass. TACE works by cutting off blood flow and killing tumour tissue from the inside, so a treated tumour can stay the same size while most of it is dead. Radiologists therefore measure only the part that still takes up contrast on your scan.</p>"
+          },
+          {
+            "q": "How is mRECIST different from ordinary RECIST 1.1?",
+            "a": "<p>RECIST 1.1 measures the whole tumour; mRECIST measures only the enhancing, still-living portion. That difference matters after TACE, because a tumour that has been completely killed often shrinks very little in the first months. Judged by RECIST alone, a successful treatment can look like a failure. For liver cancer treated with TACE, most centres now report mRECIST as the primary response measure.</p>"
+          },
+          {
+            "q": "What do complete response, partial response, stable disease and progressive disease actually mean?",
+            "a": "<p>Complete response means no enhancing tumour tissue remains anywhere. Partial response means the enhancing tumour has shrunk by at least 30 percent. Progressive disease means it has grown by at least 20 percent, or a new tumour has appeared. Stable disease covers everything in between. These are radiology categories, not verdicts on your prognosis, and your oncologist reads them alongside your liver function and symptoms.</p>"
+          },
+          {
+            "q": "When will I have my first scan after TACE?",
+            "a": "<p>The first response scan is usually done about four to six weeks after the procedure. Scanning much earlier can be misleading, because inflammation and swelling around the treated area may mimic living tumour. After that, scans are often repeated every two to three months. The exact timing depends on your centre's protocol, your liver function, and whether further TACE sessions are planned.</p>"
+          },
+          {
+            "q": "Will I have a CT scan or an MRI?",
+            "a": "<p>Either can be used, as long as contrast dye is given and images are taken in the arterial phase, when living tumour lights up. MRI is often preferred because the iodised oil left behind by TACE can obscure findings on CT. Many teams keep you on the same scan type each time so results can be compared fairly. Your radiologist decides based on your kidney function and local availability.</p>"
+          },
+          {
+            "q": "My tumour is the same size as before. Did the treatment fail?",
+            "a": "<p>Not necessarily. Under mRECIST, unchanged size with no contrast uptake counts as a complete response, because the tumour tissue is dead even though the mass has not yet shrunk. Dead tumour can take many months to be reabsorbed by the body, and some scarring may never disappear. Ask your team specifically whether any enhancing tissue remains, as that is the number that guides what happens next.</p>"
+          },
+          {
+            "q": "What does \"viable tumour\" mean on my report?",
+            "a": "<p>Viable tumour means tissue that still has a blood supply and is presumed to be alive. On the scan it appears bright during the arterial phase because contrast dye reaches it. Areas that stay dark are treated as necrotic, or dead. Reports may give this as a percentage or a measurement in millimetres. If the wording on your report is unclear, ask your radiologist to explain which areas they measured.</p>"
+          },
+          {
+            "q": "What happens if my scan shows progressive disease?",
+            "a": "<p>Progressive disease usually prompts a change in plan rather than an end to treatment. Options can include repeating TACE at a different site, switching to radioembolisation or ablation, or moving to systemic therapy such as immunotherapy combinations. The right choice depends on your liver function, how many tumours there are, and your general fitness. CancerFax can help you gather records for a second opinion, though your treating oncology team makes the decision.</p>"
+          },
+          {
+            "q": "Does my mRECIST response predict how long I will live?",
+            "a": "<p>Response by mRECIST is linked to survival in many published studies, and patients who achieve a complete or partial response tend to do better on average than those with progressive disease. But it is one factor among several, alongside liver function, tumour number, blood vessel involvement and overall health. It describes a group trend, not an individual forecast, so treat any single scan result with caution.</p>"
+          },
+          {
+            "q": "Does my response affect whether I can get a transplant or a clinical trial?",
+            "a": "<p>It often does. Many transplant programmes use response to TACE to decide whether a tumour has been brought within transplant criteria, and trials frequently set response-based entry requirements. Documented mRECIST results, with the actual images, are usually needed. If you are exploring treatment in India or China, CancerFax can help assemble those records, though eligibility is always decided by the receiving centre.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

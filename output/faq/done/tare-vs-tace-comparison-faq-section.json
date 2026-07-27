@@ -1,0 +1,59 @@
+{
+  "pillar": "TARE vs TACE: Which Liver-Directed Therapy Is Right for You?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-vs-tace-comparison",
+  "route": "/insights/tare-vs-tace-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between TARE and TACE?",
+            "a": "<p>TACE delivers chemotherapy directly into the artery feeding a liver tumour and then blocks that artery, while TARE delivers tiny radioactive yttrium-90 beads that irradiate the tumour from the inside without deliberately cutting off its blood supply. Both are catheter procedures done through a small puncture in the groin or wrist, and both target tumours fed by the liver artery. Which one suits you depends on tumour size, liver function, and specialist review.</p>"
+          },
+          {
+            "q": "Which is better for my liver cancer, TARE or TACE?",
+            "a": "<p>Neither is better for everyone, and the right choice depends on your tumour pattern, liver function, portal vein status, and treatment goal. TACE is often chosen for smaller, well-defined tumours in patients whose liver still works well. TARE may be preferred for larger tumours, multiple tumours, or when the portal vein is involved. Your interventional radiologist and oncologist should decide together after reviewing your imaging and blood tests.</p>"
+          },
+          {
+            "q": "How does Y-90 radioembolization actually work?",
+            "a": "<p>TARE works by injecting millions of microscopic glass or resin beads loaded with yttrium-90 into the artery feeding your liver tumour, where they lodge and release radiation over roughly two weeks. Because that radiation travels only a few millimetres, most of the dose stays inside the tumour and healthy liver is largely spared. A planning scan is always done first to check that beads will not reach your lungs or stomach.</p>"
+          },
+          {
+            "q": "How will I feel after each treatment?",
+            "a": "<p>Most people feel tired, nauseated, and sore under the right ribs for a few days afterwards, a pattern doctors call post-embolisation syndrome. It tends to be milder and shorter after TARE than after TACE, and many TARE patients go home the same day or the next morning, while TACE often needs an overnight stay. Recovery varies with tumour burden and liver function, so ask your team what to expect.</p>"
+          },
+          {
+            "q": "Can I still have TARE if I have portal vein thrombosis?",
+            "a": "<p>Yes, in many cases TARE can still be given when a tumour has invaded the portal vein, and this is one of its main advantages over TACE. Because TARE does not depend on completely blocking blood flow, it carries a lower risk of starving healthy liver tissue in this situation, whereas TACE is usually avoided. Eligibility still depends on liver function, bilirubin level, general fitness, and the treating team's assessment.</p>"
+          },
+          {
+            "q": "How many sessions of TACE or TARE will I need?",
+            "a": "<p>TACE is usually repeated, often two to four sessions spaced roughly four to eight weeks apart, and continued as long as scans keep showing benefit. TARE is more often a single session per treated side of the liver, sometimes repeated once for the other side. The final number depends on how much the tumour responds, how well your liver tolerates each session, and your specialist's review of follow-up imaging.</p>"
+          },
+          {
+            "q": "How much do TARE and TACE cost?",
+            "a": "<p>TACE is usually the less expensive of the two, often costing a fraction of what TARE costs, because the yttrium-90 microspheres and the mapping scan add substantially to the price of TARE. Published estimates vary widely between countries and hospitals, so treat any figure you read online as indicative only. Final cost depends on the hospital, diagnostics, number of sessions, and length of stay, so ask for a written quotation first.</p>"
+          },
+          {
+            "q": "Can TARE or TACE shrink my tumour enough for surgery or a transplant?",
+            "a": "<p>Yes, both are used with this goal in mind. TACE is widely used to keep tumours controlled while a patient waits for a liver transplant, and TARE can sometimes shrink a tumour enough to bring a patient back within transplant criteria or make surgery possible. TARE may also help the healthy side of the liver grow before a planned resection. Whether this applies to you depends on staging and transplant-centre review.</p>"
+          },
+          {
+            "q": "What are the risks and side effects?",
+            "a": "<p>The most common problems are fatigue, nausea, abdominal pain, fever, and a temporary worsening of liver blood tests. TACE can occasionally cause a liver abscess or gallbladder inflammation, while TARE carries a small risk of radiation reaching the stomach, lungs, or healthy liver, which the pre-treatment mapping scan is designed to prevent. Serious complications are uncommon but real, and the risk rises if liver function is already poor.</p>"
+          },
+          {
+            "q": "How do I arrange TARE or TACE at a hospital abroad?",
+            "a": "<p>Start by having your current scans, liver function tests, and biopsy report reviewed by an interventional radiology team at the hospital you are considering, because they decide which procedure suits you before any travel is booked. CancerFax can help organise those reports, identify centres offering TARE or TACE, obtain cost estimates, and coordinate visa and travel support alongside your treating oncology team. Acceptance and timing are never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

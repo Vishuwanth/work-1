@@ -1,0 +1,59 @@
+{
+  "pillar": "PD-L1 Inhibitors: Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pd-l1-inhibitors",
+  "route": "/treatments/pd-l1-inhibitors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are PD-L1 inhibitors and how do they actually work?",
+            "a": "<p>PD-L1 inhibitors are immunotherapy drugs that block a protein cancer cells use to hide from your immune system. Tumours display PD-L1 on their surface to switch off T cells that would otherwise attack them. The drug covers PD-L1, so those T cells stay active and can recognise the cancer again. Common examples include atezolizumab, durvalumab and avelumab. They are given by infusion, not as tablets.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with PD-L1 inhibitors?",
+            "a": "<p>PD-L1 inhibitors are approved for lung cancer, bladder and urinary tract cancers, liver cancer, triple-negative breast cancer, Merkel cell skin cancer and several others, and the list keeps growing. Approvals differ by country, so a drug available in China or India may not carry the same licence at home. Whether your specific cancer qualifies depends on stage, prior treatment and PD-L1 test results, which your oncologist will review.</p>"
+          },
+          {
+            "q": "Do I need a PD-L1 test before starting treatment?",
+            "a": "<p>Usually yes. Your care team sends a sample of the tumour, often from an earlier biopsy, to a lab that stains it for PD-L1 and reports the percentage of cells that carry the protein. That number helps predict how likely the drug is to help you. Some approvals require a minimum score, others do not. If no tissue is left, a fresh biopsy may be needed.</p>"
+          },
+          {
+            "q": "My report says my PD-L1 score is high. What does that mean for me?",
+            "a": "<p>A high PD-L1 score means more of your tumour cells carry the protein the drug targets, so immunotherapy is more likely to work. Scores are often reported as under 1 percent, 1 to 49 percent, or 50 percent and above. Higher is generally better, but the score is a guide rather than a guarantee. Some low-scoring tumours respond well, and some high-scoring ones do not.</p>"
+          },
+          {
+            "q": "How are these drugs given, and how long will I be on them?",
+            "a": "<p>PD-L1 inhibitors are given as a drip into a vein, usually every two, three or four weeks depending on the drug and dose. Each infusion takes about 30 to 60 minutes, and most people go home the same day. Treatment often continues for up to two years if the cancer stays controlled and side effects remain manageable. Your oncologist may stop earlier if the disease progresses.</p>"
+          },
+          {
+            "q": "What side effects should I watch out for?",
+            "a": "<p>Most people tolerate PD-L1 inhibitors better than chemotherapy, with tiredness, itchy rash, joint aches and mild nausea being the usual complaints. The important risks come from an over-active immune system attacking healthy organs, which can inflame the bowel, lungs, liver, thyroid or skin. Tell your team quickly about new diarrhoea, breathlessness, cough or yellowing skin. Caught early, these reactions can usually be controlled with steroids.</p>"
+          },
+          {
+            "q": "How soon will we know if the treatment is working?",
+            "a": "<p>Scans usually tell the story by the second or third check, roughly 9 to 12 weeks after the first infusion. Immunotherapy can work more slowly than chemotherapy, and a tumour may look slightly larger before it shrinks, so doctors repeat imaging rather than stopping early. When PD-L1 inhibitors do help, the benefit often lasts a long time, sometimes well after treatment ends. Your team will also track symptoms and blood tests between scans.</p>"
+          },
+          {
+            "q": "What is the difference between PD-1 and PD-L1 inhibitors?",
+            "a": "<p>They block the same handshake from opposite sides. PD-1 drugs such as pembrolizumab and nivolumab sit on the immune cell, while PD-L1 drugs such as atezolizumab and durvalumab sit on the tumour. In practice, response rates are broadly similar, and the choice usually comes down to which drug is approved for your cancer, which trials exist, and what your hospital can supply. Side effect profiles also overlap closely.</p>"
+          },
+          {
+            "q": "Can I get PD-L1 inhibitor treatment in India or China, and is it cheaper there?",
+            "a": "<p>Yes, in many cases. Large hospitals in India and China routinely give PD-L1 inhibitors, and Chinese-made versions such as sugemalimab and adebrelimab can cost far less than the original brands, though prices vary widely by drug, dose and hospital. CancerFax can help you send your reports to treating centres abroad for an opinion, but eligibility and final costs are decided by the oncology team that reviews your case.</p>"
+          },
+          {
+            "q": "Can PD-L1 inhibitors be combined with chemotherapy or radiation?",
+            "a": "<p>Often yes. PD-L1 inhibitors are frequently paired with chemotherapy for advanced lung, breast and stomach cancers, and durvalumab is commonly given after chemoradiation for stage 3 lung cancer. Combinations with targeted drugs and radiotherapy are also used or under study. Adding drugs can raise the response rate but also the side effects, so the right combination depends on your cancer type, fitness and previous treatment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "How to Prepare Medical Reports for Cancer Treatment Abroad",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "medical-reports-abroad",
+  "route": "/insights/medical-reports-abroad",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What medical reports do I need to send to get a treatment opinion abroad?",
+            "a": "<p>Send your histopathology (biopsy) report, the most recent scan reports with their images, blood test results, a discharge summary from any surgery, and a written summary from your current oncologist. If you have had chemotherapy, radiation, or targeted therapy, include the drug names, doses, and dates. Molecular or genetic testing reports matter a great deal in lung, breast, and colon cancer. Missing pieces often delay the opinion by several days.</p>"
+          },
+          {
+            "q": "How recent do my scans and reports need to be?",
+            "a": "<p>Most hospitals abroad want scans from the last four to six weeks. Cancer can change quickly, and a three-month-old PET-CT may no longer show where the disease actually is. Biopsy and pathology reports do not expire in the same way, so older ones are usually acceptable. If your imaging is older, the treating team may still review it and then repeat the scans after you arrive.</p>"
+          },
+          {
+            "q": "Can I just send photos of my reports, or do they need the original files?",
+            "a": "<p>Phone photos are fine for text reports, but scans need the actual DICOM image files rather than pictures of the film. Radiologists abroad have to scroll through every slice to measure the tumour and check the lymph nodes. Ask your imaging centre for a CD or a download link, then share the whole folder. For text reports, a clear, flat, well-lit photo of each page is normally accepted.</p>"
+          },
+          {
+            "q": "What is a pathology block, and why do hospitals abroad ask for it?",
+            "a": "<p>A paraffin block is the small wax cube holding the tissue taken during your biopsy, and hospitals abroad ask for it so their own pathologists can re-test the sample. Re-testing can change the diagnosis or reveal markers such as HER2, PD-L1, or EGFR that were never checked at home. Your original hospital is normally expected to release the block or unstained slides when you request them in writing.</p>"
+          },
+          {
+            "q": "Do my reports have to be translated into English?",
+            "a": "<p>Yes. Hospitals in India and China generally need English versions of every report before they can give an opinion. The scan images themselves need no translation, but the radiology narrative, pathology report, and discharge summaries do. A plain, accurate translation is usually enough at this stage. Notarised translation is rarely asked for during the opinion, though it may be required later for visa or insurance paperwork.</p>"
+          },
+          {
+            "q": "My hospital is refusing to give me my records. What can I do?",
+            "a": "<p>Put the request in writing and address it to the medical records department rather than to your doctor. In India and in most countries, patients have a legal right to a copy of their own records, often within seventy-two hours of a written request. Keep a copy of what you submitted. If slides or the paraffin block are being held, ask for them specifically by biopsy number and date.</p>"
+          },
+          {
+            "q": "How long does it take to get a treatment plan and cost estimate back?",
+            "a": "<p>Most hospitals return an opinion and an approximate cost estimate within two to five working days of receiving a complete file. Incomplete files are the usual reason for delay, most often missing pathology or missing scan images. CancerFax can help you check your file against what a particular hospital asks for before you send it. Final costs may change once the treating oncologist examines you in person.</p>"
+          },
+          {
+            "q": "Will they repeat my biopsy and scans after I arrive?",
+            "a": "<p>Often, yes. Many hospitals abroad repeat imaging and re-examine the tissue before starting treatment, because the plan depends on exactly where the disease sits on the day treatment begins. This is not a sign that your original reports were wrong. Allow a few extra days and some additional cost for this baseline workup. Your treating team will tell you which tests they can accept from home.</p>"
+          },
+          {
+            "q": "Do I need my medical reports for the medical visa application?",
+            "a": "<p>Yes. A medical visa normally requires a treatment invitation letter from the hospital abroad, and the hospital issues that letter only after reviewing your reports. Embassies may also ask for a note from your current doctor stating the diagnosis and why treatment is being sought overseas. Requirements differ by country and can change, so confirm the current list with the embassy before you book travel.</p>"
+          },
+          {
+            "q": "How should I organise the files before I send them?",
+            "a": "<p>Put everything in one folder, ordered by date, using file names that say what each document is, such as 2026-05-12-PET-CT-report. Keep scan image folders separate from text reports so nothing gets mixed up. Add a one-page summary at the front listing your diagnosis, treatment dates, drugs received, and current medicines. Reviewers move faster through a clear file, and a clear file is far less likely to come back with questions.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

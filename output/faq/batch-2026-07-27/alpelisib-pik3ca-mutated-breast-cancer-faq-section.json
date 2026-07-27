@@ -1,0 +1,59 @@
+{
+  "pillar": "Alpelisib (Piqray) for PIK3CA-Mutated Breast Cancer: Eligibility and Blood Sugar Management",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "alpelisib-pik3ca-mutated-breast-cancer",
+  "route": "/insights/alpelisib-pik3ca-mutated-breast-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How do I know if I am eligible for alpelisib (Piqray)?",
+            "a": "<p>Alpelisib is approved for adults with hormone receptor-positive, HER2-negative advanced or metastatic breast cancer that carries a PIK3CA mutation and has progressed on endocrine therapy. Eligibility depends on a validated PIK3CA test from tumour tissue or blood, your organ function, and your blood sugar control. Your oncologist will weigh any diabetes history carefully, since uncontrolled high blood sugar may make treatment unsafe. Final eligibility always depends on your treating team's assessment.</p>"
+          },
+          {
+            "q": "What is a PIK3CA mutation and why does it matter for my treatment?",
+            "a": "<p>PIK3CA is a gene that helps control how breast cancer cells grow, and a mutation in it keeps that growth signal switched on. About 40 percent of hormone receptor-positive, HER2-negative breast cancers carry one. It matters because alpelisib blocks that specific pathway, so it is prescribed only when the mutation is confirmed by testing. Without the mutation, the drug is unlikely to help.</p>"
+          },
+          {
+            "q": "Do I need a new biopsy, or can a blood test find the PIK3CA mutation?",
+            "a": "<p>Both can work, and many teams start with a blood test. A liquid biopsy looks for tumour DNA in your bloodstream and can find PIK3CA mutations without a needle procedure. If that result is negative, guidelines advise testing tumour tissue too, because blood tests can miss the mutation. CancerFax can help you find out which test a hospital uses, though your oncologist decides what your case needs.</p>"
+          },
+          {
+            "q": "Why does alpelisib raise my blood sugar?",
+            "a": "<p>Alpelisib blocks PI3K-alpha, the same signalling protein your body uses to respond to insulin, so blood sugar can rise soon after treatment starts. This effect is expected rather than a sign of harm, and it often appears within the first two weeks. High blood sugar is the most common serious side effect, and it is usually manageable with metformin, diet changes, and close monitoring.</p>"
+          },
+          {
+            "q": "What should I do before starting alpelisib to protect my blood sugar?",
+            "a": "<p>Your team should check your fasting blood glucose and HbA1c before your first dose, since both need to be within an acceptable range to start safely. Many oncologists also ask you to cut back on sugary drinks and refined carbohydrates in advance, and some start metformin preventively in higher-risk patients. If you have prediabetes or diabetes, a diabetes specialist may be brought in before treatment begins.</p>"
+          },
+          {
+            "q": "How often will my blood sugar be checked while I take Piqray?",
+            "a": "<p>Expect fasting glucose checks at least weekly for the first two weeks, then every two weeks for the next month, and roughly monthly after that if readings stay stable. Many teams also ask you to test at home with a glucose meter and keep a simple log. Checks become more frequent again if your levels rise, if your dose changes, or if you start steroids.</p>"
+          },
+          {
+            "q": "Can I take alpelisib if I already have type 2 diabetes?",
+            "a": "<p>In many cases yes, but only if your diabetes is well controlled before you start. Patients with type 1 diabetes or poorly controlled type 2 diabetes were excluded from the main trial, so there is little safety evidence for them. If your HbA1c is at target and you are already on treatment such as metformin, your oncologist and diabetes doctor may agree to proceed with closer monitoring.</p>"
+          },
+          {
+            "q": "What are the warning signs of high blood sugar I should watch for?",
+            "a": "<p>Call your team if you feel unusually thirsty, are passing urine far more often, feel very tired or confused, have blurred vision, or notice a dry mouth with nausea. These can signal that your blood sugar has climbed too high. Do not wait for your next scheduled visit, because severe high blood sugar can develop within days and may need the drug paused or the dose reduced.</p>"
+          },
+          {
+            "q": "What other side effects should I expect besides high blood sugar?",
+            "a": "<p>Rash, diarrhoea, mouth sores, nausea, and loss of appetite are the most common problems after high blood sugar. Rash often appears in the first few weeks, and taking a non-sedating antihistamine from day one can reduce how bad it gets. Mouth sores respond to an alcohol-free steroid mouthwash. Most of these are managed with supportive medicines and dose adjustments rather than stopping treatment altogether.</p>"
+          },
+          {
+            "q": "How much does alpelisib cost, and can I get it in India or China?",
+            "a": "<p>Prices vary widely by country and by whether a generic version is available, so monthly costs can differ several times over between markets. India and China both have treatment centres that prescribe alpelisib, and costs there are often lower than in the United States or Europe. CancerFax can share current hospital and pricing information, but availability, import rules, and eligibility depend on your own situation.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

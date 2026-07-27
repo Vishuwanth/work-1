@@ -1,0 +1,59 @@
+{
+  "pillar": "Prostate Cancer Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "prostate-cancer-treatment-in-india",
+  "route": "/guides/prostate-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does prostate cancer treatment in India cost for an international patient?",
+            "a": "<p>Most international patients spend roughly USD 5,000 to 12,000 on prostate cancer treatment in India, depending on the approach chosen. Robotic prostate removal sits near the upper end, while external radiation and hormone therapy usually cost less. Newer options such as Lu-177 PSMA therapy are priced per cycle. Your final bill depends on stage, hospital, room category and length of stay, so ask for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "Is cancer care in India as good as in the US or Europe?",
+            "a": "<p>Leading Indian cancer centres follow the same international protocols used in the US and Europe, and many of their surgeons trained abroad. Robotic surgery, IMRT, brachytherapy and PSMA PET scanning are available in the major cities. For standard prostate cancer, results at high-volume hospitals are broadly comparable.</p><p>Quality does vary between hospitals, so choose a centre that treats prostate cancer in large numbers every year.</p>"
+          },
+          {
+            "q": "Should I choose surgery or radiation for my prostate cancer?",
+            "a": "<p>For cancer still confined to the gland, surgery and radiation offer similar cure rates, so the decision usually turns on side effects and your general health. Surgery removes the prostate in one operation but carries a higher early risk of urinary leakage. Radiation avoids an operation but runs over several weeks and can irritate the bowel. Your urologist and radiation oncologist should make this choice with you, not for you.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for treatment?",
+            "a": "<p>Plan on three to four weeks for robotic or open prostate surgery, covering tests, the operation, recovery and a follow-up review before you fly home. External beam radiation takes longer, often six to eight weeks of daily sessions. Hormone injections can sometimes be continued by a doctor in your own country. Your actual stay depends on your stage, your fitness and how recovery goes.</p>"
+          },
+          {
+            "q": "How do I get a medical visa for treatment in India?",
+            "a": "<p>You apply for an Indian medical visa online, supported by a letter from the treating hospital stating your diagnosis and planned treatment. Most nationalities may bring one or two relatives on medical attendant visas. The visa is generally issued for several months and can often be extended inside India if treatment continues. Document rules and processing times differ by country, so start the application well before your appointment.</p>"
+          },
+          {
+            "q": "Is robotic prostate surgery available in India?",
+            "a": "<p>Yes. Da Vinci robotic surgery is offered at many hospitals in Delhi, Mumbai, Chennai, Bengaluru and Hyderabad. Robotic removal of the prostate usually means less blood loss, a shorter hospital stay and a quicker return to normal activity than open surgery, with broadly similar cancer control. Whether it suits you depends on your tumour, your previous operations and your surgeon's assessment after examining you.</p>"
+          },
+          {
+            "q": "Will treatment leave me incontinent or unable to have erections?",
+            "a": "<p>Some urinary leakage is common in the first weeks after prostate surgery, and most men regain control within three to twelve months with pelvic floor exercises. Erection problems vary more, and depend on your age, your function before treatment and whether the nerves beside the prostate can be spared. Radiation tends to affect erections gradually, over a year or two. Ask your surgeon for their own outcome figures.</p>"
+          },
+          {
+            "q": "Can I get Lu-177 PSMA therapy in India for advanced prostate cancer?",
+            "a": "<p>Yes. Lu-177 PSMA radioligand therapy is given at several Indian nuclear medicine departments to men whose prostate cancer has spread and is no longer responding to hormone treatment. It is usually delivered as four to six infusions, spaced about six weeks apart, after a PSMA PET scan confirms the cancer takes up the tracer. Eligibility depends on that scan, your kidney function and your blood counts.</p>"
+          },
+          {
+            "q": "Can I get an opinion from an Indian hospital before I travel?",
+            "a": "<p>Yes. Most Indian cancer centres will review your scans, biopsy report and PSA history remotely, then send back a written treatment plan with a cost estimate, often within a few working days. CancerFax can pass your reports to prostate cancer teams at more than one hospital so you can compare plans before committing. Any remote opinion still needs confirmation by the doctors who examine you in person.</p>"
+          },
+          {
+            "q": "My prostate cancer has already spread to the bones. Is it still worth coming to India?",
+            "a": "<p>Metastatic prostate cancer remains treatable, and many men live well for years on hormone therapy combined with drugs such as abiraterone or enzalutamide, which cost far less in India than in most Western countries. Radiotherapy can ease bone pain, and chemotherapy or Lu-177 PSMA may be added later. Whether travelling makes sense depends on how fit you are to fly, so discuss that with your own doctor first.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

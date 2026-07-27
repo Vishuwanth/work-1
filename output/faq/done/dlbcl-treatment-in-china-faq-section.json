@@ -1,0 +1,59 @@
+{
+  "pillar": "DLBCL Treatment in China — First and Second Line Options",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "dlbcl-treatment-in-china",
+  "route": "/guides/dlbcl-treatment-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the first-line treatment for DLBCL in China?",
+            "a": "<p>Newly diagnosed DLBCL in China is treated with six cycles of R-CHOP: rituximab plus cyclophosphamide, doxorubicin, vincristine and prednisone. This is the same standard used in the United States and Europe, and it cures roughly 60 percent of patients. Higher-risk cases may receive polatuzumab vedotin added to the backbone, or a more intensive schedule. The number of cycles depends on your stage, IPI score and interim PET response.</p>"
+          },
+          {
+            "q": "Is R-CHOP in China the same quality as in the West?",
+            "a": "<p>Yes, at the major centres. Hospitals in Beijing, Shanghai and Guangzhou follow CSCO guidelines that track closely with NCCN, and the drugs are the same molecules. Many centres use domestic rituximab biosimilars approved by China's NMPA, which showed comparable response rates in registration trials. Supportive care and antiemetics are standard. Quality does vary between provincial hospitals, so where you are treated often matters more than which country you choose.</p>"
+          },
+          {
+            "q": "What happens if my lymphoma comes back after R-CHOP?",
+            "a": "<p>Relapsed DLBCL is treated as a fresh decision, not a repeat of the same drugs. If you are fit enough, doctors give salvage chemotherapy such as R-DHAP or R-ICE, and patients who respond may go on to an autologous stem cell transplant. If the lymphoma returns within twelve months, many Chinese centres now move straight to CAR T-cell therapy. Eligibility depends on organ function, age and prior treatment.</p>"
+          },
+          {
+            "q": "Can I get CAR T-cell therapy for DLBCL in China?",
+            "a": "<p>Yes. China has several approved CD19 CAR T-cell products for relapsed or refractory DLBCL, including axicabtagene ciloleucel and relmacabtagene autoleucel, and it runs one of the world's largest CAR-T trial pipelines. Commercial treatment is expensive, while trial slots can be free but carry strict entry criteria.</p><p>CancerFax can send your pathology and treatment history to Chinese centres for an eligibility opinion, which your own oncologist should review before you decide.</p>"
+          },
+          {
+            "q": "How much does DLBCL treatment in China cost?",
+            "a": "<p>A full six-cycle course of R-CHOP commonly costs international patients about 8,000 to 20,000 US dollars, depending on the hospital and whether biosimilar rituximab is used. Commercial CAR T-cell therapy is far higher, often 60,000 to 120,000 dollars once the hospital stay and complication care are counted. These figures are indicative only. Ask for a written estimate before you travel, since staging scans and complications can change the total.</p>"
+          },
+          {
+            "q": "How long will the whole treatment take?",
+            "a": "<p>Plan for roughly five months of first-line treatment. R-CHOP is given every 21 days for six cycles, about eighteen weeks, plus two to three weeks beforehand for staging scans, a bone marrow test and a heart function check. Second-line treatment with a transplant usually adds three to four months. CAR T-cell therapy takes around six to eight weeks from cell collection to discharge, longer if complications develop.</p>"
+          },
+          {
+            "q": "Do I have to be transplant-eligible to get second-line treatment?",
+            "a": "<p>No. Autologous stem cell transplant needs adequate heart, kidney and lung function, and it is usually offered to patients under about 70 who responded to salvage chemotherapy. If you are not transplant-eligible, Chinese centres may offer CAR T-cell therapy, polatuzumab-based combinations or a clinical trial instead. Age alone does not rule you out; overall fitness matters more. The transplant team makes this call after its own assessment.</p>"
+          },
+          {
+            "q": "Will Chinese doctors repeat the tests I already had at home?",
+            "a": "<p>Expect most of them to be repeated. Chinese hospitals almost always re-read the original biopsy slides in their own pathology department, and many request fresh immunohistochemistry or FISH testing for MYC, BCL2 and BCL6 rearrangements. A PET-CT, blood counts, hepatitis B screening and an echocardiogram are also standard before chemotherapy starts. Bring your slides and paraffin blocks, not only the written report, or the review may be delayed.</p>"
+          },
+          {
+            "q": "Are bispecific antibodies like glofitamab available in China?",
+            "a": "<p>Yes, though access is narrower than for CAR-T. Glofitamab and similar bispecific antibodies have become available for relapsed DLBCL through approvals, clinical trials and Hainan's Boao pilot zone. They are given as repeated infusions and need no cell manufacturing, which can suit patients who cannot wait several weeks. Availability changes quickly and varies by hospital, so confirm current supply and eligibility with the centre before making travel plans.</p>"
+          },
+          {
+            "q": "Can foreign patients be treated for DLBCL in China?",
+            "a": "<p>Yes. Major Chinese cancer hospitals have international patient offices that arrange English-speaking coordinators, medical visa invitation letters and appointment scheduling. You will normally need a medical visa, translated records and an upfront deposit, and treatment often cannot begin until the hospital's own pathology review is complete.</p><p>CancerFax can pass your records to these centres and return a written plan, which is best discussed with your treating oncologist first.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

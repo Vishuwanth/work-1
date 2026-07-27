@@ -1,0 +1,59 @@
+{
+  "pillar": "Medical Visa and Travel Guide for Cancer Treatment in India",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "medical-visa-and-travel-guide-for-cancer-treatment-in-india",
+  "route": "/guides/medical-visa-and-travel-guide-for-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What visa do I need to travel to India for cancer treatment?",
+            "a": "<p>You need an Indian Medical Visa (MED visa), not a tourist visa. It is issued for treatment at a recognised Indian hospital and usually requires a letter or invitation from that hospital stating your diagnosis and proposed treatment. Tourist visas do not permit admission for treatment, and hospitals often ask to see the correct visa category at registration. Requirements can change, so confirm the current rules with the Indian mission in your country before booking travel.</p>"
+          },
+          {
+            "q": "Can my husband or wife come with me on the same visa?",
+            "a": "<p>No, but they can apply for a Medical Attendant visa (MED X), which is designed exactly for this. India normally allows up to two attendants, most often a spouse, parent, adult child, or sibling, and their visa validity is usually tied to yours. Each attendant files a separate application and is linked to the patient's case.</p><p>Because the permitted number and relationship rules may differ by country, check with the Indian embassy or consulate handling your application.</p>"
+          },
+          {
+            "q": "How long does an Indian medical visa take to come through?",
+            "a": "<p>Most medical visas are processed within one to two weeks, and e-Medical visas are often faster, sometimes within a few working days. Processing time depends on your nationality, the mission handling your file, and whether your documents are complete. Urgent oncology cases can sometimes be expedited when the hospital letter states that treatment is time-sensitive. Timelines are not guaranteed, so apply as early as your diagnosis and treatment plan allow.</p>"
+          },
+          {
+            "q": "What documents does the hospital need to send me before I apply?",
+            "a": "<p>You need an invitation or treatment letter from the Indian hospital on its letterhead, naming you, your diagnosis, the proposed treatment, and the expected length of stay. Most missions also want your recent medical reports, a passport valid for at least six months, proof of funds, and return travel details. CancerFax can help you request this letter and share your reports with the hospital, though your treating oncology team decides what the plan will be.</p>"
+          },
+          {
+            "q": "How long can I stay in India on a medical visa?",
+            "a": "<p>A medical visa is usually granted for up to 60 days per visit, with triple entry, and longer validity may be given for treatments that need extended care. Cancer treatment often runs longer than the initial grant, so extensions are possible through the Foreigners Regional Registration Office when your hospital certifies that further treatment is needed. Extension approval depends on your medical documentation and the authorities' decision, so plan with your hospital's international patient desk early.</p>"
+          },
+          {
+            "q": "Do I have to register with the police after I arrive?",
+            "a": "<p>Yes, in most cases. Medical visa holders staying beyond 180 days, and nationals of certain countries regardless of stay length, must register with the Foreigners Regional Registration Office, often within 14 days of arrival. Your hospital's international patient department usually handles this for you and knows the local process. Rules vary by nationality and visa type, so ask the hospital to confirm your specific obligation before you travel.</p>"
+          },
+          {
+            "q": "What should I bring with me for my treatment in India?",
+            "a": "<p>Bring your original scans and slides, not just reports, because Indian oncologists routinely review outside pathology and imaging themselves. Also carry your full medication list with generic names, prior treatment summaries, blood reports, and any prior biopsy blocks if your home hospital will release them.</p><p>Pack enough of your current medicines for the first two weeks, since brand availability differs and substitutions need your new oncologist's approval.</p>"
+          },
+          {
+            "q": "Is it safe for me to fly during chemotherapy?",
+            "a": "<p>Flying is often possible between chemotherapy cycles, but only your treating oncologist can clear you. The main concerns are low blood counts raising infection and bleeding risk, dehydration on long flights, and clot risk during extended sitting. Many teams prefer you fly when your counts have recovered, typically a week or more after a cycle. Get written fitness-to-fly clearance and carry it with your medical file, since airlines may ask for it.</p>"
+          },
+          {
+            "q": "Where will I stay while I get treatment, and is it expensive?",
+            "a": "<p>Most major Indian cancer hospitals sit within a short distance of guest houses, serviced apartments, and budget hotels used by international patients, with typical rates well below comparable Western cities. Many hospitals maintain their own guest accommodation or a list of vetted nearby options for patients on long protocols.</p><p>Ask the international patient desk to book this alongside your treatment dates, because costs and availability shift with season and city.</p>"
+          },
+          {
+            "q": "What happens if my treatment takes longer than planned and my visa runs out?",
+            "a": "<p>Do not let the visa lapse. Ask your hospital to issue a certificate stating that continued treatment is medically necessary, then apply for an extension through the Foreigners Regional Registration Office before your current visa expires. Extensions for ongoing cancer care are commonly granted when the medical need is documented. CancerFax can help you coordinate the paperwork with the hospital, though approval rests with the Indian authorities and timelines may vary.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

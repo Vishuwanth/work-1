@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL + Toripalimab: Why the Combination Works",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-toripalimab-combination-therapy",
+  "route": "/insights/mctl-toripalimab-combination-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MCTL therapy in simple terms?",
+            "a": "<p>MCTL therapy is a cell treatment that trains your own immune cells to recognise several cancer markers at once, instead of just one. Doctors collect white blood cells from your blood, expose them in a laboratory to multiple tumour antigens, grow them into large numbers of killer T cells, and infuse them back. The aim is a broader attack that tumours find harder to escape.</p>"
+          },
+          {
+            "q": "What does toripalimab actually do?",
+            "a": "<p>Toripalimab is a PD-1 checkpoint inhibitor, a drug that removes a brake tumours use to switch off immune cells. Cancer cells display a protein called PD-L1 that tells approaching T cells to stand down. Toripalimab blocks that signal, so T cells can stay active inside the tumour. It is approved in China for several cancers, including nasopharyngeal carcinoma, and is given as an intravenous infusion.</p>"
+          },
+          {
+            "q": "Why combine MCTL with toripalimab instead of using one alone?",
+            "a": "<p>The two treatments solve different problems, so together they can work better than either alone. MCTL supplies large numbers of trained tumour-killing T cells, while toripalimab keeps those cells switched on once they reach the tumour. Infused cells often become exhausted within days when the PD-1 brake is left in place. Blocking that brake may extend how long the transferred cells stay active, though responses still vary between patients.</p>"
+          },
+          {
+            "q": "Which cancers is this combination being used for?",
+            "a": "<p>Chinese centres have used MCTL with toripalimab mainly in solid tumours that respond poorly to checkpoint therapy alone, including liver, lung, gastric, oesophageal, and nasopharyngeal cancers. Whether it suits any individual case depends on tumour type, prior treatment, PD-L1 status, and whether the centre runs a trial or a hospital programme for that indication. Your treating oncology team decides if the combination is a reasonable option.</p>"
+          },
+          {
+            "q": "Is this combination approved, or is it still experimental?",
+            "a": "<p>Toripalimab is a fully approved drug in China, but the MCTL component is usually delivered inside clinical trials or hospital-based cell therapy programmes rather than as routine approved care. That means eligibility checks and documentation are stricter than for standard chemotherapy. Approval status also differs by country, so a combination offered at a Chinese hospital may not be licensed where you live. Confirm current status before making travel plans.</p>"
+          },
+          {
+            "q": "How is the treatment actually given?",
+            "a": "<p>Treatment usually starts with leukapheresis, a two-to-four hour procedure that collects immune cells from your blood. The laboratory then takes roughly two to four weeks to expand them. MCTL is typically infused across several sessions, with toripalimab given every two or three weeks alongside it. Exact schedules differ between hospitals and protocols, so your treating team will confirm the timetable that applies to your case.</p>"
+          },
+          {
+            "q": "What side effects should we expect?",
+            "a": "<p>The most common problems are fever, chills, fatigue, and flu-like symptoms in the days after a cell infusion. Toripalimab adds a separate risk of immune-related inflammation affecting the thyroid, skin, bowel, liver, or lungs, which can appear weeks after a dose. Most cases are manageable when caught early, but combining the two can raise the chance of overlapping reactions, so report new symptoms quickly.</p>"
+          },
+          {
+            "q": "How soon will we know whether it is working?",
+            "a": "<p>Most teams schedule the first response scan six to twelve weeks after starting, because immune treatments take time to show measurable change. Tumours can even look slightly larger at first while immune cells flood in, an effect called pseudoprogression. Doctors read scans alongside symptoms and blood markers before deciding whether to continue or stop. A single early scan rarely settles the question on its own.</p>"
+          },
+          {
+            "q": "How much does the combination cost in China?",
+            "a": "<p>Costs vary widely, and hospitals quote only after reviewing your medical records. The cell therapy component is usually the larger share, because each batch is manufactured for one patient, while toripalimab is priced per infusion and depends on how many cycles you need. Travel, accommodation, scans, and hospital stay sit on top. Ask for a written itemised estimate, and confirm what happens financially if treatment stops early.</p>"
+          },
+          {
+            "q": "How do we find out whether my family member is eligible?",
+            "a": "<p>Eligibility is decided from medical records, not from a phone conversation, so gather recent scans, pathology and biomarker reports, and a treatment summary first. Centres typically review organ function, performance status, previous immunotherapy, and any autoimmune history. CancerFax can help send these documents to Chinese centres running MCTL programmes for assessment, but the treating oncology team makes the final decision on whether the combination is suitable.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

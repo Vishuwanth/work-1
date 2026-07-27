@@ -1,0 +1,59 @@
+{
+  "pillar": "Glioblastoma (GBM) Treatment in China: Complete Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "glioblastoma-treatment-china-complete-guide",
+  "route": "/insights/glioblastoma-treatment-china-complete-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is glioblastoma treatment in China any better than what I can get at home?",
+            "a": "<p>China follows the same proven backbone as most countries — surgery, then radiation with temozolomide — so the core treatment is not different. What China often adds is faster access to trials of CAR T-cell therapy, tumour-treating fields, oncolytic virus therapy, and neoantigen vaccines that may still be years away elsewhere. Whether any of these suits your case depends on tumour location, molecular markers, and prior treatment.</p>"
+          },
+          {
+            "q": "How much does glioblastoma treatment in China cost?",
+            "a": "<p>Expect roughly USD 25,000 to 60,000 for surgery, radiotherapy, and the first months of temozolomide at a major Chinese centre, which is often well below United States pricing. Advanced options such as proton therapy or cell therapy can push the total higher. Final cost depends on the hospital, the extent of surgery, imaging and pathology tests, and how long you stay, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "Which hospitals in China treat glioblastoma?",
+            "a": "<p>Beijing Tiantan Hospital, Huashan Hospital in Shanghai, Sun Yat-sen University Cancer Center, and Tianjin Medical University Cancer Institute are among the centres with dedicated neuro-oncology and brain tumour surgery programmes. Several run awake craniotomy, intraoperative MRI, and fluorescence-guided resection. Acceptance is never automatic — each hospital reviews your scans and pathology first and may decline cases it feels are better managed closer to home.</p>"
+          },
+          {
+            "q": "Can I get CAR T-cell therapy for glioblastoma in China?",
+            "a": "<p>Only inside a clinical trial. There is no approved CAR T-cell product for glioblastoma anywhere in the world, but Chinese centres run early-phase trials targeting EGFRvIII, IL13Ra2, B7-H3, and GD2, sometimes delivered directly into the tumour cavity or ventricles. Eligibility depends on antigen expression, tumour size, steroid dose, and performance status, and enrolment is decided only after the trial investigator reviews your records.</p>"
+          },
+          {
+            "q": "How long does the whole treatment take if I travel to China?",
+            "a": "<p>Plan for about three months on the ground for the main phase. Roughly one to two weeks covers arrival, repeat scans, and surgical review; surgery and recovery take another two to three weeks; then six weeks of daily radiation with temozolomide follows. Maintenance chemotherapy afterwards can often be continued at home. Delays from visa processing, bed availability, or slow wound healing are common, so build in extra time.</p>"
+          },
+          {
+            "q": "Do my MGMT and IDH results matter for treatment in China?",
+            "a": "<p>Yes, and Chinese neuro-oncology teams will usually repeat them. MGMT methylation predicts how well temozolomide is likely to work, while IDH status now separates true glioblastoma from IDH-mutant astrocytoma, which behaves differently. Many trials also screen for EGFR amplification or specific target antigens. Bring your original pathology blocks or slides if you can, because re-testing on fresh material speeds up both planning and trial screening.</p>"
+          },
+          {
+            "q": "What are the risks of having brain surgery so far from home?",
+            "a": "<p>The surgical risks are the same anywhere — bleeding, infection, seizures, swelling, and new weakness or speech problems depending on where the tumour sits. Distance adds its own problems: long flights soon after craniotomy raise clot and pressure risks, and complications appearing after you fly home must be managed by a team that did not perform the operation. Agree a written handover plan with both hospitals before you leave.</p>"
+          },
+          {
+            "q": "Is proton or heavy ion therapy used for glioblastoma in China?",
+            "a": "<p>Rarely, and it is not standard care. Shanghai Proton and Heavy Ion Center and a handful of other facilities offer particle therapy, but glioblastoma spreads microscopically through surrounding brain tissue, so the sharper dose edge of protons gives less benefit than it does for skull base or paediatric tumours. It may be considered in selected re-irradiation cases, which your radiation oncologist would need to assess individually.</p>"
+          },
+          {
+            "q": "What can be done if my glioblastoma comes back after treatment in China?",
+            "a": "<p>Options at recurrence include repeat surgery, re-irradiation, bevacizumab for swelling and symptoms, lomustine, tumour-treating fields, or an early-phase trial. Chinese centres tend to have more trial slots open at this stage than many Western hospitals. Which route fits depends on how long the tumour stayed controlled, where it recurred, and how well you are functioning day to day, so a fresh neuro-oncology review is essential.</p>"
+          },
+          {
+            "q": "How do I start the process of arranging treatment in China?",
+            "a": "<p>Begin by gathering your MRI images on disc, the full pathology report with MGMT and IDH results, operative notes, and a current medication list, because no Chinese hospital will quote or accept a case without them. CancerFax can help families organise these records, approach neuro-oncology teams in China, and understand likely costs alongside your treating oncologist. Hospital acceptance, trial enrolment, and visa approval can never be guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

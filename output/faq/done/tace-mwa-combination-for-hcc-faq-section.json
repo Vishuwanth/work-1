@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE + MWA Combination for HCC 3–7 cm",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-mwa-combination-for-hcc",
+  "route": "/insights/tace-mwa-combination-for-hcc",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TACE plus MWA for liver cancer?",
+            "a": "<p>TACE plus MWA is a two-step treatment that first blocks a liver tumour's blood supply, then destroys it with heat. TACE, or transarterial chemoembolisation, delivers chemotherapy straight into the artery feeding the tumour and plugs that artery. MWA, or microwave ablation, uses a needle-like probe to heat and kill the remaining tumour tissue. The combination is used most often for hepatocellular carcinoma measuring 3 to 7 cm.</p>"
+          },
+          {
+            "q": "Why combine TACE and MWA instead of using just one?",
+            "a": "<p>Combining them covers a weakness in each treatment. TACE alone often leaves living tumour cells at the edges of tumours larger than 3 cm. MWA alone can struggle to burn a complete margin, because flowing blood carries heat away from the tumour. Doing TACE first shrinks the tumour and slows that blood flow, so the ablation zone becomes larger and more complete. Response rates are often higher than with either treatment alone.</p>"
+          },
+          {
+            "q": "Is my tumour the right size for this combination?",
+            "a": "<p>Tumours between 3 and 7 cm are the usual target for this approach. Below 3 cm, microwave ablation on its own often destroys the tumour completely, so adding TACE may add little. Above 7 cm, a single ablation rarely covers the whole tumour, and other options may be discussed. Size is only part of the decision, and eligibility also depends on your liver function, tumour number, and whether major vessels are involved.</p>"
+          },
+          {
+            "q": "How long does the whole treatment take?",
+            "a": "<p>Most patients complete both steps within two to four weeks. TACE is done first and usually needs a one to three day hospital stay, followed by one to two weeks of recovery. Microwave ablation is then performed as a shorter procedure, often with a single overnight stay. Some centres do both in one session. Your exact schedule depends on how quickly your liver function recovers after TACE.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>The most common problem is post-embolisation syndrome after TACE: fever, nausea, tiredness, and pain under the right ribs, usually settling within three to seven days. Microwave ablation can cause soreness at the probe site and a short-lived fever. Serious complications such as liver abscess, bile duct injury, or bleeding are uncommon. Tell your team quickly about high fever or worsening pain, because early treatment usually resolves these.</p>"
+          },
+          {
+            "q": "What are the survival numbers with this combination?",
+            "a": "<p>Published studies report three-year overall survival of roughly 50 to 70 percent for HCC in the 3 to 7 cm range treated with TACE plus MWA, compared with about 30 to 45 percent for TACE alone. Results vary widely with liver function, tumour number, and hepatitis status.</p><p>These figures come from selected trial populations, so the estimate your own oncologist gives for your situation may be different.</p>"
+          },
+          {
+            "q": "Will I need chemotherapy or immunotherapy as well?",
+            "a": "<p>Not always, though many patients are now offered systemic treatment alongside local therapy. If your tumour shows vessel invasion, multiple nodules, or returns quickly, your oncologist may add a targeted drug such as lenvatinib or an immunotherapy combination. For a single tumour under 7 cm with good liver function, TACE plus MWA on its own is often enough. The decision depends on your staging and remaining liver reserve.</p>"
+          },
+          {
+            "q": "Can this treatment be repeated if the cancer comes back?",
+            "a": "<p>Yes, in many cases it can. Both TACE and microwave ablation may be repeated, and recurrence inside the liver is common after any local treatment. Whether repeating is safe depends on your remaining liver function, how many sessions you have already had, and where the new tumour sits. Scans every three months help catch recurrence while it is still small enough to treat the same way.</p>"
+          },
+          {
+            "q": "How much does TACE plus MWA cost in India or China?",
+            "a": "<p>Combined TACE and MWA typically costs around 4,500 to 9,000 US dollars in India and 6,000 to 12,000 US dollars in China, covering both procedures, hospital stay, and imaging. Prices vary with the hospital, the number of tumours, and whether drug-eluting beads are used.</p><p>Quotes rarely include travel, visas, or follow-up scans. CancerFax can help you gather written estimates from treating centres, though your oncologist decides what you actually need.</p>"
+          },
+          {
+            "q": "Am I still a candidate if I have cirrhosis?",
+            "a": "<p>Many patients with cirrhosis can still have this treatment, provided liver function is reasonably preserved. Doctors usually look for Child-Pugh class A or well-compensated class B function, no large build-up of fluid in the abdomen, and adequate platelet counts. Advanced cirrhosis raises the risk of liver failure after TACE. If you are not eligible, ablation alone, radiotherapy, or a transplant assessment may be discussed instead.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

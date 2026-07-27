@@ -1,0 +1,59 @@
+{
+  "pillar": "p53 Tumour Suppressor: Why It Matters in Cancer and Gene Therapy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "p53-tumour-suppressor-in-cancer",
+  "route": "/insights/p53-tumour-suppressor-in-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the p53 gene and why do doctors call it a tumour suppressor?",
+            "a": "<p>p53 is a gene that tells damaged cells to stop dividing or to die, which stops faulty cells becoming cancer. Doctors call it a tumour suppressor because that is its job, acting as a brake on abnormal growth. It is sometimes nicknamed the guardian of the genome. When p53 works normally, cells with damaged DNA are repaired or removed before they can multiply into a tumour.</p>"
+          },
+          {
+            "q": "What happens in my body when p53 stops working?",
+            "a": "<p>When p53 stops working, cells with damaged DNA keep dividing instead of being repaired or destroyed. Over time those cells collect more faults, grow faster, and can spread. Loss of p53 also makes some tumours less sensitive to chemotherapy and radiation, because both treatments partly rely on p53 to push damaged cancer cells into cell death. The effect varies by cancer type and by the exact mutation involved.</p>"
+          },
+          {
+            "q": "Did I inherit my p53 mutation, or did it happen later in life?",
+            "a": "<p>Most p53 mutations are acquired during life rather than inherited. They appear in the tumour itself and are not passed to children. A small number of people carry an inherited p53 fault from birth, which causes Li-Fraumeni syndrome. Genetic testing can tell the two apart by comparing your tumour tissue with a blood or saliva sample. Your oncology team can advise whether that testing is appropriate for you.</p>"
+          },
+          {
+            "q": "Which cancers most often have p53 mutations?",
+            "a": "<p>p53 is the most commonly mutated gene in human cancer, and it is altered in roughly half of all tumours. It is found especially often in ovarian, oesophageal, colorectal, head and neck, lung, and pancreatic cancers, and in high-grade serous ovarian cancer it is present in almost every case. Rates are lower in cancers such as prostate and some blood cancers, where other genes drive growth.</p>"
+          },
+          {
+            "q": "What is Li-Fraumeni syndrome, and should my family be tested?",
+            "a": "<p>Li-Fraumeni syndrome is a rare inherited condition caused by a faulty p53 gene that raises the lifetime risk of several cancers, including sarcoma, breast cancer, brain tumours, and adrenal tumours. Relatives of someone diagnosed may be offered genetic counselling and testing, often followed by yearly MRI surveillance. Whether testing is offered depends on your family history and on the genetics services available where you live.</p>"
+          },
+          {
+            "q": "Does a p53 mutation mean my cancer is harder to treat?",
+            "a": "<p>A p53 mutation often signals a more aggressive cancer, but it does not decide your outcome on its own. In many cancers it is linked to faster growth and a weaker response to some chemotherapy drugs. Stage, tumour type, your general health, and the other mutations present matter just as much. Ask your oncologist what your specific p53 result means for the treatment plan being considered.</p>"
+          },
+          {
+            "q": "What is p53 gene therapy?",
+            "a": "<p>p53 gene therapy delivers a working copy of the p53 gene into tumour cells, usually inside a modified virus, so the cells can restart their own self-destruct program. China approved the first such product, Gendicine, in 2003 for head and neck cancer, where it is injected into the tumour alongside radiotherapy or chemotherapy. It is not approved in the United States or Europe, and results vary between patients.</p>"
+          },
+          {
+            "q": "Can I get p53 gene therapy in China or India?",
+            "a": "<p>p53 gene therapy is available in China, where Gendicine has been licensed for many years and is given in selected hospitals, usually combined with radiotherapy or chemotherapy. It is not licensed in India, so access there would normally be through a clinical trial. Eligibility depends on your cancer type, stage, and prior treatment. CancerFax can help you share your records with treating centres so your own oncology team can review whether it fits.</p>"
+          },
+          {
+            "q": "How do I find out if my tumour has a p53 mutation?",
+            "a": "<p>A p53 mutation is found by testing tumour tissue, usually through next-generation sequencing on a biopsy or surgical sample. Many hospitals include p53 in a wider gene panel rather than testing it alone, and some can also detect it in a blood-based liquid biopsy. Results normally take one to three weeks. Ask your oncologist whether the testing is available at your hospital and what it will cost.</p>"
+          },
+          {
+            "q": "Are there new drugs being developed to fix faulty p53?",
+            "a": "<p>Yes, several drugs aimed at faulty p53 are in clinical trials, though none is standard treatment yet. They include molecules that reshape a specific mutant p53 protein so it works again, drugs that block MDM2 in tumours where p53 itself is normal, and vaccines that train the immune system against mutant p53. Most are early-phase studies, so enrolment depends on your mutation, location, and prior therapy.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

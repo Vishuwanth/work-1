@@ -1,0 +1,59 @@
+{
+  "pillar": "RFA Costs in China and India: Detailed Comparison with Western Pricing",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-cost-china-india-comparison",
+  "route": "/insights/rfa-cost-china-india-comparison",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does radiofrequency ablation cost in India?",
+            "a": "<p>RFA in India usually costs about USD 2,000 to 4,500 for a single-session liver, lung or kidney ablation, covering imaging guidance, day-care admission and the disposable electrode. The figure moves with the number of lesions treated, whether CT or ultrasound guidance is used, and the tier of hospital you choose. Large private cancer centres in Delhi, Mumbai and Chennai often sit at the upper end, and your final cost may change once pre-treatment scans are reviewed.</p>"
+          },
+          {
+            "q": "What does RFA cost in China?",
+            "a": "<p>RFA in China generally costs USD 3,000 to 6,000 per session at major hospitals in Beijing, Shanghai and Guangzhou. That normally covers the ablation itself, a short inpatient stay and routine post-procedure imaging. Costs rise when several lesions are treated in one sitting, when microwave or cryoablation equipment is used instead, or when an international patient department manages your admission. Prices quoted to overseas patients can differ from domestic rates, so ask for the figure in writing.</p>"
+          },
+          {
+            "q": "Why is RFA so much cheaper in India and China than in the US or Europe?",
+            "a": "<p>Lower staff salaries, lower hospital overheads and government-capped pricing on many procedures make RFA far cheaper in India and China. Both countries also treat high patient volumes, which spreads the cost of expensive ablation equipment across many cases. The generators and electrodes are often the same brands used in Western hospitals. In most cases the saving comes from the system around the procedure, not from cutting the technology itself.</p>"
+          },
+          {
+            "q": "Does the quoted price include everything, or are there extras I should expect?",
+            "a": "<p>Most Indian and Chinese quotes are package prices, but they can exclude pre-treatment PET-CT or MRI, biopsy, repeat sessions, and treatment of any complication that extends your stay. Always ask for an itemised written estimate that names what is included and what is billed separately. CancerFax can help you request itemised estimates from hospitals, though what your case actually needs should be confirmed by your treating oncology team.</p>"
+          },
+          {
+            "q": "How much would the same RFA procedure cost in the US or UK?",
+            "a": "<p>RFA in the United States commonly runs USD 15,000 to 30,000 per session once hospital, interventional radiology and anaesthesia fees are billed separately. Private care in the UK typically falls between GBP 8,000 and 15,000, with much of continental Europe sitting in between. Insured patients in these countries may pay far less out of pocket. Self-pay quotes vary widely by hospital and region, so treat these figures as a broad guide only.</p>"
+          },
+          {
+            "q": "Will my health insurance pay for RFA if I travel to India or China?",
+            "a": "<p>Most domestic health insurance policies do not pay for elective treatment abroad, so many patients travelling for RFA fund it themselves. Some international and employer-sponsored plans do include overseas care, often with pre-authorisation and a written medical justification required before you fly. Ask your insurer for a coverage decision in writing before booking anything. Whether your specific policy reimburses any part of the cost depends entirely on its terms.</p>"
+          },
+          {
+            "q": "What will the whole trip cost once flights and accommodation are added?",
+            "a": "<p>Budget roughly USD 1,500 to 4,000 on top of the medical bill for a two-week trip, covering return flights, accommodation near the hospital, local transport, visas and food for one companion. India is usually the cheaper destination for living costs. Even with travel added, the total often stays well below Western self-pay pricing. Your actual spend depends on your home country, travel dates and how long recovery keeps you there.</p>"
+          },
+          {
+            "q": "Is cheaper RFA in Asia lower quality than treatment at home?",
+            "a": "<p>Price does not reliably indicate quality here. Leading centres in India and China use the same ablation platforms, imaging guidance and technique standards found in Western hospitals, and many of their interventional radiologists trained abroad. What varies is the volume of ablations a specific unit performs each year and how closely follow-up is tracked. Ask for the department's annual case numbers and the operator's experience with your particular tumour type.</p>"
+          },
+          {
+            "q": "Do I have to pay the full amount upfront?",
+            "a": "<p>Most hospitals in India and China ask for a deposit before admission, often 50 to 100 percent of the package price, with the balance settled at discharge. Payment is typically by international bank transfer or card, and foreign cash may be limited by local rules. Get a receipt for every payment and keep the itemised bill for any insurance claim later. Deposit rules differ by hospital, so confirm them before you travel.</p>"
+          },
+          {
+            "q": "How do I get an accurate quote for my own case?",
+            "a": "<p>Send hospitals your recent imaging, biopsy report and a current medical summary, because an accurate RFA quote depends on tumour size, number of lesions and their position. A quote given without these documents is only a starting estimate. CancerFax can pass your records to ablation centres in India and China and return written estimates for comparison. Any final treatment decision should rest with your own oncologist and the interventional radiologist reviewing your scans.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

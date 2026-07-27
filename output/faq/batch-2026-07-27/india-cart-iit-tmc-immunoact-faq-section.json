@@ -1,0 +1,59 @@
+{
+  "pillar": "IIT Bombay, Tata Memorial Centre, and ImmunoACT: How India Built Its Own CAR-T",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "india-cart-iit-tmc-immunoact",
+  "route": "/insights/india-cart-iit-tmc-immunoact",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is NexCAR19, India's own CAR-T therapy?",
+            "a": "<p>NexCAR19 is India's first indigenously developed CAR-T cell therapy, approved by the Central Drugs Standard Control Organisation in October 2023. It was created by ImmunoACT, a company spun out of research at IIT Bombay and Tata Memorial Centre. The therapy targets CD19, a protein found on certain blood cancer cells, and is given as a single infusion after your own T-cells are re-engineered in a laboratory.</p>"
+          },
+          {
+            "q": "How much does CAR-T therapy cost in India compared to the US?",
+            "a": "<p>CAR-T therapy in India costs roughly 30 to 40 lakh rupees, about 40,000 to 50,000 US dollars, compared with 300,000 to 500,000 dollars for approved CAR-T products in the United States. The lower price comes from local manufacturing and a much shorter supply chain.</p><p>Your final cost depends on the hospital, your length of stay, and any complications, so ask for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "Who actually built India's CAR-T therapy?",
+            "a": "<p>NexCAR19 came from a decade-long collaboration between IIT Bombay's bioscience and bioengineering laboratories, clinicians at Tata Memorial Centre in Mumbai, and ImmunoACT, the company founded to manufacture the product at scale. The laboratory science and the early clinical trials ran side by side, which is unusual and is part of why the cost stayed low. National biopharma funding and philanthropic grants carried the programme through its trial phases.</p>"
+          },
+          {
+            "q": "Which cancers can NexCAR19 treat?",
+            "a": "<p>NexCAR19 is approved for relapsed or refractory B-cell lymphomas and B-cell acute lymphoblastic leukaemia in patients aged 15 and above. In plain terms, it is for people whose blood cancer has come back or has stopped responding after earlier lines of treatment. It does not treat solid tumours such as breast, lung, or colon cancer. Your haematologist confirms whether your specific diagnosis fits the approved indication.</p>"
+          },
+          {
+            "q": "Am I eligible for CAR-T therapy in India?",
+            "a": "<p>Eligibility depends on your diagnosis, how many treatments you have already had, your organ function, and whether your disease is stable enough to wait for cell manufacturing. Most centres require adequate heart, lung, liver, and kidney function, with no active uncontrolled infection. Only the cell therapy team at the treating hospital can confirm eligibility, and they will need your pathology reports and recent scans before they can say yes or no.</p>"
+          },
+          {
+            "q": "How well does NexCAR19 actually work?",
+            "a": "<p>In the Indian trials, roughly two-thirds of patients responded and about half reached a complete response, meaning no detectable cancer on assessment. These figures are broadly in line with established CAR-T products, though the trial numbers were smaller.</p><p>Responses can last a long time for some patients and be temporary for others. Ask your oncologist for figures that match your disease type, tumour burden, and prior treatment history.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T treatment?",
+            "a": "<p>The two main risks are cytokine release syndrome, a whole-body inflammatory reaction causing fever and low blood pressure, and neurological effects such as confusion or trouble speaking. Indian trial data reported lower rates of severe cytokine release syndrome and neurotoxicity with NexCAR19 than with some older CAR-T products. Low blood counts and raised infection risk can persist for weeks, so you stay under close hospital monitoring through the riskiest period.</p>"
+          },
+          {
+            "q": "Can I travel to India from another country for CAR-T?",
+            "a": "<p>Yes, Indian cell therapy centres do treat international patients, with many referrals arriving from South Asia, Africa, and the Middle East. You will need a medical visa, complete pathology and treatment records, and written confirmation of eligibility before you fly. CancerFax can help assemble records and arrange a review by an Indian centre, though every treatment decision rests with the treating oncology team. Acceptance is never guaranteed in advance.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for the whole process?",
+            "a": "<p>Plan for roughly six to ten weeks. Cell collection takes about a day, manufacturing usually runs one to two weeks, and you may receive bridging chemotherapy while you wait. Admission for lymphodepleting chemotherapy and the infusion itself covers around two to three weeks, followed by close outpatient monitoring nearby. Delays can happen if manufacturing fails or your disease progresses, so build extra time into your travel plans.</p>"
+          },
+          {
+            "q": "Which hospitals in India offer NexCAR19?",
+            "a": "<p>Tata Memorial Centre in Mumbai ran the original trials and remains a principal centre. NexCAR19 has since been rolled out to a growing network of accredited cell therapy units in cities including Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, and Ahmedabad. The list of certified sites keeps expanding, so confirm current centres, capacity, and waiting times directly before you commit to travel or treatment dates.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

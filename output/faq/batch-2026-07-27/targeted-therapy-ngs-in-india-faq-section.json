@@ -1,0 +1,59 @@
+{
+  "pillar": "Targeted Therapy and NGS Testing in India for International Cancer Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "targeted-therapy-ngs-in-india",
+  "route": "/guides/targeted-therapy-ngs-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is NGS testing and why does my oncologist want it before targeted therapy?",
+            "a": "<p>NGS, or next-generation sequencing, reads hundreds of cancer-related genes from your tumour in a single test to find the mutation driving its growth. That result tells your oncologist whether a targeted drug is likely to help you rather than standard chemotherapy. Most large Indian cancer centres run these panels on biopsy tissue or a blood sample. Which panel suits your case depends on your cancer type and how much tissue is available.</p>"
+          },
+          {
+            "q": "How much does NGS testing cost in India?",
+            "a": "<p>A comprehensive NGS panel in India usually costs between ₹50,000 and ₹2,50,000 (roughly $600 to $3,000), depending on how many genes the panel covers. Small hotspot panels of 15 to 50 genes sit at the lower end; whole-exome and 500-gene panels sit at the top. Prices are often a fraction of what the same test costs in the United States or Europe. Ask the lab for a written quote, since costs vary between centres.</p>"
+          },
+          {
+            "q": "How long will I wait for my NGS report in India?",
+            "a": "<p>Most Indian laboratories return a comprehensive NGS report in 10 to 14 working days from the day they receive your sample. Smaller targeted panels and single-gene tests can come back in three to seven days. Delays usually happen when the biopsy block is too small or the tumour content is low, and a repeat sample may be needed. If treatment is urgent, tell the lab, as some centres offer faster processing.</p>"
+          },
+          {
+            "q": "Can I send my biopsy sample to India instead of travelling there myself?",
+            "a": "<p>Yes, in many cases you can ship your paraffin-embedded biopsy block or unstained slides to an Indian laboratory without travelling yourself. The lab needs the block, your pathology report, and an import declaration; courier companies that handle biological samples manage the paperwork. CancerFax can help coordinate sample shipment and connect the report to an Indian oncologist for review. Whether shipping is permitted depends on your country's rules on exporting human tissue.</p>"
+          },
+          {
+            "q": "What happens if my report shows no targetable mutation?",
+            "a": "<p>A report with no targetable mutation is common and does not mean you are out of options. Roughly half of solid tumours show no actionable change on a broad panel, and your oncologist will then plan chemotherapy, immunotherapy, or a clinical trial instead. Some findings also become useful later, as new drugs get approved. Ask whether re-testing after progression may reveal a new mutation that current treatment has not yet covered.</p>"
+          },
+          {
+            "q": "Are the targeted therapy drugs in India the same ones used in the US or Europe?",
+            "a": "<p>Indian hospitals use the same targeted molecules as Western centres, including osimertinib, alectinib, trastuzumab, and lenvatinib. Many are supplied as licensed generics or biosimilars made in India, which is why the price is lower; the active drug is the same and is approved by India's drug regulator. Ask your treating team for the brand and manufacturer. Availability of the newest drugs may lag Europe or the United States by a year or two.</p>"
+          },
+          {
+            "q": "How much cheaper is targeted therapy in India?",
+            "a": "<p>Targeted therapy in India often costs 60 to 80 percent less than in the United States or Europe, largely because Indian-made generics of drugs like imatinib, erlotinib, and sunitinib cost a few hundred dollars a month rather than several thousand. Newer patented agents remain expensive everywhere. Your total also includes scans, consultations, and monitoring blood tests, so ask for a monthly estimate covering the full cycle before you commit.</p>"
+          },
+          {
+            "q": "Can I have a blood test instead of another biopsy?",
+            "a": "<p>A liquid biopsy tests tumour DNA circulating in your blood and is useful when tissue is unavailable, the tumour is hard to reach, or you need a fast repeat test. It is widely available in Indian labs. Tissue remains the preferred first choice, because blood testing can miss mutations when the tumour sheds little DNA. A negative liquid biopsy often needs confirmation on tissue before a targeted drug is ruled out.</p>"
+          },
+          {
+            "q": "Will an Indian oncologist accept the NGS report I already had done at home?",
+            "a": "<p>In most cases yes, if the report comes from an accredited laboratory and names the panel, the genes covered, and the variant details. Bring the full PDF report, not just the summary page, along with your pathology block or slides. Indian oncologists may still ask for repeat or additional testing when the panel was narrow, the sample is more than a year old, or your disease has progressed since.</p>"
+          },
+          {
+            "q": "Can I keep taking the targeted drug after I go back to my own country?",
+            "a": "<p>Many patients start targeted therapy in India and continue it at home, since most of these drugs are oral tablets taken daily. Your Indian team can provide a discharge summary, prescription, and monitoring schedule for your local doctor. Carry only the quantity your country's customs rules allow, and check whether the same drug is licensed there. Some patients arrange refills through India, though import rules for personal medicine vary widely.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

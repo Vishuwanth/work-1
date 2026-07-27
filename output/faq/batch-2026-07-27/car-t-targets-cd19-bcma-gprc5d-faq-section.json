@@ -1,0 +1,59 @@
+{
+  "pillar": "CD19 vs BCMA vs GPRC5D: What These CAR-T Targets Mean",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-targets-cd19-bcma-gprc5d",
+  "route": "/insights/car-t-targets-cd19-bcma-gprc5d",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does the \"target\" in CAR-T therapy actually mean?",
+            "a": "<p>The target is the protein on a cancer cell's surface that the engineered T cells are built to recognise. CD19, BCMA and GPRC5D are three of these proteins. Your CAR-T cells carry a receptor shaped to lock onto one of them, then destroy the cell carrying it. Because each protein appears on a different kind of blood cancer cell, the target largely decides which disease the therapy can treat.</p>"
+          },
+          {
+            "q": "Which cancers does CD19 CAR-T treat?",
+            "a": "<p>CD19 CAR-T is used for B-cell cancers, including diffuse large B-cell lymphoma, follicular lymphoma, mantle cell lymphoma and B-cell acute lymphoblastic leukaemia. CD19 sits on almost every B cell from an early stage, healthy or malignant, which makes it a reliable handle. It is the oldest and most widely approved CAR-T target, so most long-term survival data comes from it. Eligibility still depends on your disease stage and prior treatments.</p>"
+          },
+          {
+            "q": "What is BCMA, and why is it used for myeloma?",
+            "a": "<p>BCMA (B-cell maturation antigen) is a protein found almost only on plasma cells, the cells that turn cancerous in multiple myeloma. That narrow distribution makes it a good target, because healthy tissue elsewhere is largely spared. Approved BCMA CAR-T products have produced deep responses in patients whose myeloma returned after several earlier lines of treatment, though responses can fade over time and relapse remains common for many patients.</p>"
+          },
+          {
+            "q": "What is GPRC5D, and how is it different from BCMA?",
+            "a": "<p>GPRC5D is a newer myeloma target that sits on malignant plasma cells but is largely absent from normal B cells and most healthy organs. It matters most for patients whose myeloma has already come back after BCMA CAR-T, because the cancer can lose BCMA but keep GPRC5D. Trials show meaningful responses, though GPRC5D also appears in skin and nail tissue, which can cause rash, nail changes and taste problems.</p>"
+          },
+          {
+            "q": "Can I switch to a different CAR-T target if the first one stops working?",
+            "a": "<p>Often yes. If myeloma returns after BCMA CAR-T, a GPRC5D-directed therapy may still work, because the two targets are independent. The same logic applies less often to CD19, where the main alternatives are bispecific antibodies rather than a second CAR-T target. Whether a switch is possible depends on your organ function, blood counts, prior toxicity and trial availability, so your haematology team must confirm it.</p>"
+          },
+          {
+            "q": "Why did my CAR-T stop working, and did the cancer lose the target?",
+            "a": "<p>Target loss is one common reason. Cancer cells can stop displaying CD19, BCMA or GPRC5D, so the CAR-T cells no longer recognise them. Relapse can also happen because the CAR-T cells themselves become exhausted or disappear from the blood too early. Doctors usually check a fresh biopsy to see whether the target is still present, since that answer shapes which treatment can sensibly come next.</p>"
+          },
+          {
+            "q": "Are BCMA and GPRC5D CAR-T available in India and China?",
+            "a": "<p>Both countries offer BCMA CAR-T, with approved and trial-stage products at major centres in India and a large number of academic and commercial programmes in China. GPRC5D CAR-T is mostly still in clinical trials in both places. Access depends on your diagnosis, prior therapies and whether a trial is open when you apply. CancerFax can help you check which programmes are currently recruiting.</p>"
+          },
+          {
+            "q": "Do side effects differ between CD19, BCMA and GPRC5D CAR-T?",
+            "a": "<p>The core risks are shared, as cytokine release syndrome and neurological effects can occur with all three. The differences come from what healthy tissue also carries the target. CD19 CAR-T wipes out normal B cells, raising infection risk. BCMA CAR-T lowers antibody levels and has been linked to delayed neurological problems. GPRC5D CAR-T more often causes skin, nail and taste changes. Your team monitors for each pattern.</p>"
+          },
+          {
+            "q": "Is one target better than the others?",
+            "a": "<p>No single target is better overall, because each is matched to a different disease. CD19 is the standard for B-cell lymphomas and leukaemias. BCMA is the established choice for multiple myeloma. GPRC5D is generally reserved for myeloma that has already progressed after BCMA treatment. The right question is not which target is strongest, but which one your specific cancer actually carries.</p>"
+          },
+          {
+            "q": "What tests show whether my cancer carries these targets?",
+            "a": "<p>A biopsy or bone marrow sample tested by flow cytometry or immunohistochemistry shows which proteins your cancer cells display. For myeloma, doctors look at plasma cells for BCMA and GPRC5D; for lymphoma and leukaemia, they check B cells for CD19. Testing after relapse matters as much as testing at diagnosis, because the picture can change. CancerFax can help arrange review of these reports by treating centres abroad.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

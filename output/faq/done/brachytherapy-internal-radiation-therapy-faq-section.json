@@ -1,0 +1,59 @@
+{
+  "pillar": "Brachytherapy: Internal Radiation Therapy — Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "brachytherapy-internal-radiation-therapy",
+  "route": "/treatments/brachytherapy-internal-radiation-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is brachytherapy?",
+            "a": "<p>Brachytherapy is radiation therapy delivered from inside the body, using a small sealed radioactive source placed in or right beside the tumour.</p><p>Because the source sits so close to the cancer, it delivers a very high dose to the tumour while the dose falls away sharply in nearby healthy tissue. Doctors use it alone or alongside external beam radiation, surgery, or chemotherapy, depending on the cancer type and stage.</p>"
+          },
+          {
+            "q": "How is brachytherapy different from external beam radiation?",
+            "a": "<p>The difference is where the radiation comes from: brachytherapy works from inside you, while external beam radiation is aimed at you from a machine outside the body.</p><p>That closeness lets brachytherapy give a higher dose in fewer sessions and spares more surrounding tissue, which can mean fewer long-term side effects. External beam treatment is usually spread over several weeks. Many patients receive both, and your radiation oncologist decides which combination fits your tumour.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with brachytherapy?",
+            "a": "<p>Brachytherapy is used most often for prostate, cervical, uterine, breast, skin, and head and neck cancers, and sometimes for oesophageal, lung, rectal, and eye tumours.</p><p>It works best when the tumour is well defined and a source can be placed safely in or next to it. Widespread or scattered disease is usually treated another way. Whether it suits your case depends on tumour size, location, stage, and your general health.</p>"
+          },
+          {
+            "q": "Does brachytherapy hurt?",
+            "a": "<p>The radiation itself causes no pain, and the placement procedure is done under anaesthesia or sedation, so you should not feel it happening.</p><p>Afterwards you may have soreness, cramping, or a bruised feeling in the treated area for a few days, and applicators left in place can feel uncomfortable. Painkillers usually control this well. Tell your nurse early if the discomfort builds, because it is easier to manage before it becomes severe.</p>"
+          },
+          {
+            "q": "Will I be radioactive around my family and children?",
+            "a": "<p>With high dose rate brachytherapy you are not radioactive at all once the session ends, because the source is removed before you leave the room.</p><p>With permanent seed implants, usually for prostate cancer, a small amount of radiation stays inside you and fades over weeks. Teams often ask you to limit close, prolonged contact with pregnant women and young children for a short period. Your hospital will give you exact timings.</p>"
+          },
+          {
+            "q": "How many brachytherapy sessions will I need?",
+            "a": "<p>Most brachytherapy courses run between one and five sessions, spread over a few days to a few weeks, and each session usually takes under an hour of actual radiation time.</p><p>A permanent seed implant is a single day procedure. Cervical cancer schedules often use three to five insertions after external beam radiation. Your exact number depends on the cancer type, the dose your team is aiming for, and how you tolerate treatment.</p>"
+          },
+          {
+            "q": "What side effects should I expect after brachytherapy?",
+            "a": "<p>Side effects are usually limited to the treated area and include swelling, soreness, fatigue, and irritation of nearby organs such as the bladder or bowel.</p><p>Prostate patients may have urinary urgency or burning; cervical and uterine patients may have vaginal dryness, narrowing, or discharge. Most of this settles within weeks, though some changes, including effects on fertility and sexual function, can be lasting. Ask your team what to expect for your specific site.</p>"
+          },
+          {
+            "q": "Is high dose rate or low dose rate brachytherapy better?",
+            "a": "<p>Neither is better overall; high dose rate and low dose rate brachytherapy simply suit different situations, and outcomes are broadly similar when each is used appropriately.</p><p>High dose rate uses a strong source for minutes at a time and leaves nothing behind, so there are no restrictions afterwards. Low dose rate uses permanent seeds or a longer implant stay. Your team will choose based on the tumour site, your anatomy, and what the centre offers.</p>"
+          },
+          {
+            "q": "How much does brachytherapy cost in India or China?",
+            "a": "<p>Brachytherapy in India often costs a fraction of prices in the United States or Europe, and Chinese centres are similarly priced, though quotes vary widely by hospital, cancer type, and number of insertions.</p><p>Costs usually cover imaging, anaesthesia, applicators, and follow-up, so compare full packages rather than single figures. CancerFax can help you request itemised estimates from accredited centres, but your treating oncologist should confirm that brachytherapy is right for you.</p>"
+          },
+          {
+            "q": "How do I find out if I am eligible for brachytherapy abroad?",
+            "a": "<p>Eligibility is decided by a radiation oncologist after reviewing your scans, biopsy report, and treatment history, so the first step is sending recent records for review.</p><p>Tumour size, location, previous radiation, and your fitness for anaesthesia all matter. If you are considering treatment in India or China, CancerFax can arrange a written opinion from a brachytherapy centre before you travel. No centre can promise acceptance until that review is complete.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

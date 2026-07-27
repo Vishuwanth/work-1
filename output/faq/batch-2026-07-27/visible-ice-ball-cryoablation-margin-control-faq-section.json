@@ -1,0 +1,59 @@
+{
+  "pillar": "The Visible Ice Ball: Cryoablation's Most Important Clinical Advantage",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "visible-ice-ball-cryoablation-margin-control",
+  "route": "/insights/visible-ice-ball-cryoablation-margin-control",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the ice ball in cryoablation?",
+            "a": "<p>The ice ball is the zone of frozen tissue that forms around the cryoablation needle and destroys the tumour inside it. Argon gas cools the needle tip to roughly minus 150°C, and the freeze spreads outward in a predictable oval shape. Because ice is denser than the tissue around it, it appears as a sharply outlined area on the scan while the doctor works in real time.</p>"
+          },
+          {
+            "q": "Why is being able to see the ice ball such a big advantage?",
+            "a": "<p>Seeing the ice ball lets your doctor confirm the tumour is fully covered before the procedure ends, instead of estimating. On CT, MRI or ultrasound the frozen zone shows up as a sharp-edged area, so a needle can be repositioned or another probe added if coverage looks short. This live feedback is a main reason cryoablation is chosen for tumours sitting close to nerves, bowel or the ureter.</p>"
+          },
+          {
+            "q": "How does this compare with heat-based ablation like RFA or microwave?",
+            "a": "<p>Heat-based ablation usually cannot be seen clearly while it is happening, so the doctor works from probe settings and timing rather than a visible boundary. Steam and charring blur the picture on ultrasound and CT. Cryoablation shows the treated zone directly, which can make margin control more precise. Heat still has advantages, including shorter procedure times and less bleeding, so the choice depends on the tumour and its location.</p>"
+          },
+          {
+            "q": "How much healthy tissue beyond the tumour do doctors try to freeze?",
+            "a": "<p>Most interventional radiologists aim for the ice ball to extend about 5 to 10 millimetres past the visible tumour edge in every direction. That buffer covers microscopic disease scans cannot show and allows for the warmer outer rim of the ice. Larger or irregular tumours often need several probes placed together to build one continuous ice ball. The exact target margin depends on the organ and the tumour type.</p>"
+          },
+          {
+            "q": "Does everything inside the ice ball die?",
+            "a": "<p>No — the outer edge of the ice ball is only around 0°C, which does not reliably kill cancer cells. Tissue generally has to reach roughly minus 20 to minus 40°C, and that lethal zone sits several millimetres inside the visible ice edge. This is why doctors deliberately overshoot the tumour boundary. The visible ice ball is a dependable guide, but it marks the freeze, not the kill zone itself.</p>"
+          },
+          {
+            "q": "Which scan is used to watch the ice ball during treatment?",
+            "a": "<p>CT is the most common choice, because the frozen zone appears as a clearly defined low-density area and the scanner can reach deep organs such as the kidney and lung. MRI gives the sharpest ice-ball edge and is often used for prostate and soft-tissue tumours. Ultrasound is quick and radiation-free, but it only shows the near surface of the ice, which limits its use for margin checking.</p>"
+          },
+          {
+            "q": "Which cancers is cryoablation most often used for?",
+            "a": "<p>Cryoablation is used most often for small kidney tumours, prostate cancer, lung tumours, painful bone metastases, and selected liver and breast lesions. It generally suits tumours under about 4 centimetres that a needle can reach safely. Whether it fits your situation depends on tumour size, position, and how close it sits to major blood vessels. Your oncology team and an interventional radiologist decide this together.</p>"
+          },
+          {
+            "q": "Is cryoablation painful, and how long is recovery?",
+            "a": "<p>Cryoablation is often less painful than heat-based ablation, because the freezing numbs nerves as it works. Most people have it under sedation or light general anaesthesia and go home the same day or after one night. Soreness at the needle site for a few days is common. Recovery is usually faster than surgery, though it can vary with the organ treated and the number of probes used.</p>"
+          },
+          {
+            "q": "What can go wrong during cryoablation?",
+            "a": "<p>The main risks are bleeding, injury to nearby structures such as bowel or nerves, and incomplete treatment that leaves tumour behind. Freezing a large volume can occasionally trigger a whole-body reaction with fever and low blood pressure. Serious complications are uncommon in experienced hands. Follow-up scans at three to six months are standard, because disease left at the margin can often be re-treated if it is found early.</p>"
+          },
+          {
+            "q": "Can I get cryoablation in India or China, and what does it cost?",
+            "a": "<p>Cryoablation is available at several large cancer centres in India and China, and costs there are often a fraction of prices in Western countries. Quoted figures vary widely with the organ treated, the number of probes and the hospital stay, so treat any single number with caution. CancerFax can help you compare centres and send scans for review, but eligibility is always decided by the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

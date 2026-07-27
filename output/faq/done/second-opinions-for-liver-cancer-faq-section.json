@@ -1,0 +1,59 @@
+{
+  "pillar": "Second Opinions for Liver Cancer and HCC",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "second-opinions-for-liver-cancer",
+  "route": "/guides/second-opinions-for-liver-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Should I get a second opinion for liver cancer?",
+            "a": "<p>Yes — a second opinion is worth getting for almost any liver cancer diagnosis, especially hepatocellular carcinoma. Liver cancer treatment depends on tumour size, number, blood vessel involvement, and how well the rest of your liver works. Two experienced teams can read the same scan and reach different plans. A review often confirms the original plan, and confirmation itself is useful. Ask for it before starting treatment where possible.</p>"
+          },
+          {
+            "q": "How long does a second opinion for HCC usually take?",
+            "a": "<p>Most written second opinions for hepatocellular carcinoma come back within three to seven working days once your scans and pathology have been received. The clock usually starts when the records are complete, not when you first ask. If your case is urgent — bleeding, rapid decline, or a transplant deadline — say so upfront, because many centres can move faster when the reason is clinical. Timelines still vary by centre.</p>"
+          },
+          {
+            "q": "What records do I need to send for a liver cancer second opinion?",
+            "a": "<p>Send your CT or MRI images on disc or by upload, the radiology reports, any biopsy or pathology slides, and recent blood work including AFP, liver function tests, and hepatitis B or C status. Add a summary of treatments already given and their dates. Raw images matter more than the written report, because the reviewing radiologist will want to measure the tumour themselves rather than rely on someone else's reading.</p>"
+          },
+          {
+            "q": "Can a second opinion change my liver cancer stage?",
+            "a": "<p>Yes, restaging happens fairly often in hepatocellular carcinoma. A reviewing team may count a different number of lesions, reassess whether a vein is invaded, or recalculate your liver function score. Any of these can move you between BCLC stages, and stage drives whether surgery, ablation, embolisation, or systemic therapy is offered. Because stage changes the whole plan, this is one of the strongest reasons to have the imaging re-read.</p>"
+          },
+          {
+            "q": "Will asking for a second opinion offend my current doctor?",
+            "a": "<p>It should not, and most liver cancer specialists expect it. Second opinions are routine in oncology, and many tumour boards seek outside input themselves on difficult cases. You can say plainly that you want another read before committing to treatment. If a doctor reacts badly to the request, that reaction is itself information about how they will handle your questions later. Bring the second report back to them rather than switching quietly.</p>"
+          },
+          {
+            "q": "Can a second opinion tell me if I qualify for a liver transplant?",
+            "a": "<p>A second opinion can tell you whether your case is likely to meet transplant criteria, but only a transplant centre can decide. Reviewers look at tumour size and number against Milan or expanded criteria, vascular invasion, spread outside the liver, and your general fitness. Some patients who fall outside the limits may still become eligible after downstaging treatment. Listing rules and waiting times differ sharply between countries and programmes.</p>"
+          },
+          {
+            "q": "How much does a liver cancer second opinion cost?",
+            "a": "<p>Costs vary widely. Many Indian and Chinese hospitals review international cases for a modest fee, and some waive it entirely for a first remote review. Fees in the United States and Europe are usually higher. CancerFax can help arrange a remote review with liver cancer specialists and explain what any fee covers before you commit. Confirm the price, the turnaround, and what the report includes in writing.</p>"
+          },
+          {
+            "q": "Do I have to travel abroad to get a second opinion?",
+            "a": "<p>No. Most second opinions for liver cancer are done remotely from uploaded scans, reports, and pathology, so you can stay home during the review. Travel usually only becomes relevant if you decide to have treatment at the reviewing hospital. Some centres ask for the original biopsy blocks to be shipped for retesting. If you are too unwell to travel, say so early so the plan fits your situation.</p>"
+          },
+          {
+            "q": "Can a second opinion help me find a clinical trial for HCC?",
+            "a": "<p>Often, yes. Large liver cancer centres run or feed into trials of immunotherapy combinations, targeted drugs, and newer radiation approaches, and a reviewer may flag studies your local team does not have access to. Being told about a trial is not the same as being accepted onto one — enrolment depends on your prior treatments, liver function, and the trial's open slots at that moment. Ask what a trial would cost before counting on it.</p>"
+          },
+          {
+            "q": "What should I do if the second opinion disagrees with my first?",
+            "a": "<p>Take both reports back to your treating team and ask them to explain the difference in plain terms. Disagreement usually comes from one specific point — how a scan was read, whether a vein is involved, or how much liver reserve you have. Ask which single fact would settle it, since a repeat scan or slide review often resolves the question. A third opinion is reasonable when the two plans differ sharply.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

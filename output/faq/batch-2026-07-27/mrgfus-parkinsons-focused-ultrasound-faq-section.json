@@ -1,0 +1,59 @@
+{
+  "pillar": "MRgFUS for Parkinson's Disease: Magnetic Resonance-Guided Focused Ultrasound",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mrgfus-parkinsons-focused-ultrasound",
+  "route": "/treatments/mrgfus-parkinsons-focused-ultrasound",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MRgFUS for Parkinson's disease?",
+            "a": "<p>MRgFUS is a scalpel-free brain treatment that uses focused sound waves, guided by real-time MRI, to destroy a tiny target deep in the brain that drives tremor. Around 1,000 ultrasound beams pass harmlessly through the skull and converge on one spot a few millimetres wide, heating it until it stops sending faulty signals. There is no incision, no implant, and no hole drilled in the skull.</p>"
+          },
+          {
+            "q": "Will focused ultrasound stop my Parkinson's tremor?",
+            "a": "<p>In many patients, MRgFUS reduces hand tremor substantially on the treated side, and the improvement is often visible on the treatment table the same day. Published trials report meaningful tremor reduction in roughly 60 to 70 percent of carefully selected patients, with benefit lasting years in most. Results vary with your tremor type and targeting accuracy, so your neurologist should set expectations for your own case.</p>"
+          },
+          {
+            "q": "Does MRgFUS cure Parkinson's disease or just the tremor?",
+            "a": "<p>MRgFUS treats symptoms, mainly tremor and in some cases dyskinesia, but it does not cure Parkinson's disease or slow its progression. The underlying loss of dopamine-producing cells continues, so you will usually stay on medication and other symptoms such as stiffness, slowness, and balance problems may still advance. Think of it as symptom relief that can meaningfully improve daily function, not a disease-modifying treatment.</p>"
+          },
+          {
+            "q": "Am I a candidate for focused ultrasound?",
+            "a": "<p>MRgFUS may suit you if your tremor is disabling, has not responded well to medication, and you are healthy enough for a two-to-four-hour MRI scan while awake. Doctors also check your skull density ratio on CT, because some skulls do not transmit ultrasound efficiently enough to reach a treatment temperature.</p><p>Significant cognitive impairment, unstable balance, or certain brain changes can rule it out. Only a full assessment by a movement disorder specialist can confirm eligibility.</p>"
+          },
+          {
+            "q": "How is MRgFUS different from deep brain stimulation?",
+            "a": "<p>MRgFUS makes a small permanent lesion without surgery, while deep brain stimulation implants electrodes and a pacemaker-like device that can be adjusted or switched off. MRgFUS means no anaesthesia, no hardware, no infection risk, and a same-day discharge, but it cannot be tuned later or reversed. DBS is adjustable and can treat both sides, though it requires brain surgery and battery replacements. Your specialist will weigh which fits your symptoms better.</p>"
+          },
+          {
+            "q": "Can both sides of my brain be treated?",
+            "a": "<p>Yes, staged treatment of both sides is now possible, but it is done cautiously and usually months apart. Bilateral MRgFUS carries a higher risk of speech, swallowing, and balance side effects than one-sided treatment, so many centres treat the more affected hand first and reassess. Some programmes still only offer unilateral treatment. Whether a second side is appropriate depends on how you tolerated the first and on your centre's protocol.</p>"
+          },
+          {
+            "q": "What are the risks and side effects?",
+            "a": "<p>Most side effects are mild and temporary, including tingling or numbness in the lips or fingers, unsteadiness, headache during treatment, and mild speech or gait changes. These usually settle within weeks. A smaller number of patients have lasting numbness or imbalance, because the lesion is permanent.</p><p>Serious complications such as bleeding are rare. Ask your treating team for their own complication figures, as experience varies between centres.</p>"
+          },
+          {
+            "q": "How long does the procedure take and when can I go home?",
+            "a": "<p>You are typically in the MRI scanner for two to four hours and can usually go home the same day or after one night. Your head is shaved and a frame is fitted, then the team delivers low-energy test sonications while you hold a drawing tablet, checking your tremor and any side effects after each one before increasing power. You stay awake and talking throughout so targeting can be refined in real time.</p>"
+          },
+          {
+            "q": "How much does MRgFUS cost in India or China, and is it available there?",
+            "a": "<p>MRgFUS is available at a small number of specialised centres in India and China, and costs there are often a fraction of United States or European prices, though the exact figure depends on the hospital, imaging, and length of stay. Because centre availability, waiting times, and quoted packages change, ask for a written quote covering assessment, treatment, and follow-up. CancerFax can help you identify centres offering the procedure and share what current pricing looks like before you commit to travel.</p>"
+          },
+          {
+            "q": "Will insurance cover it, or do I have to join a clinical trial?",
+            "a": "<p>Coverage varies widely by country and insurer. MRgFUS is approved for Parkinson's tremor and dyskinesia in several countries including the United States, and some public and private plans reimburse it, while others still treat it as investigational and decline. Clinical trials are not usually required for approved indications, though trials may offer access for newer targets. Confirm coverage in writing with your insurer before scheduling, as approval is never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

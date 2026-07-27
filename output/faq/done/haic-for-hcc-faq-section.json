@@ -1,0 +1,59 @@
+{
+  "pillar": "HAIC (Hepatic Arterial Infusion Chemotherapy) for Advanced HCC: Evidence and Patient Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "haic-for-hcc",
+  "route": "/insights/haic-for-hcc",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HAIC and how does it treat liver cancer?",
+            "a": "<p>HAIC delivers chemotherapy directly into the artery feeding a liver tumour through a thin catheter, so the drug reaches the cancer at high concentration while sparing the rest of the body. Most centres use a FOLFOX regimen infused slowly over about 24 to 48 hours. Unlike TACE, the artery is not blocked. It is used mainly for large or advanced hepatocellular carcinoma that is not suitable for surgery.</p>"
+          },
+          {
+            "q": "How is HAIC different from TACE?",
+            "a": "<p>The difference is blockage: TACE injects chemotherapy and then plugs the tumour's blood supply, while HAIC infuses chemotherapy slowly and leaves the vessel open. That makes HAIC gentler on liver function, so it can often be used in larger tumours or when a main portal vein is invaded. Chinese studies suggest higher response rates than TACE in bulky disease, though results depend on tumour size, liver reserve, and specialist review.</p>"
+          },
+          {
+            "q": "Can I have HAIC if my tumour has grown into the portal vein?",
+            "a": "<p>Often yes. Portal vein tumour thrombus usually rules out TACE because blocking the artery risks liver failure, but HAIC does not block anything, so it may still be considered. Trials in China have reported longer survival with HAIC than sorafenib alone in this group. Whether it suits you depends on how much liver is working, your bilirubin, performance status, and the judgement of the treating hepatology and interventional team.</p>"
+          },
+          {
+            "q": "What actually happens during a HAIC session?",
+            "a": "<p>A thin catheter is passed from an artery in your groin or wrist up to the artery feeding the tumour, using local anaesthetic and X-ray guidance. Chemotherapy is then infused over roughly one to two days while you stay in hospital. You are awake for the placement and it is not usually painful. Most people go home a day after the infusion ends, though this varies by hospital.</p>"
+          },
+          {
+            "q": "How many HAIC cycles will I need?",
+            "a": "<p>Most protocols give four to six cycles, repeated every three to four weeks, with scans after every two cycles to check the tumour is shrinking. Treatment may stop earlier if the cancer responds enough for surgery or ablation, or if the liver cannot tolerate more. The exact number depends on how you respond, your liver function, and what your oncology team decides at each review.</p>"
+          },
+          {
+            "q": "What are the side effects of HAIC?",
+            "a": "<p>Abdominal pain during the infusion, nausea, tiredness, and a temporary rise in liver enzymes are the most common problems. Low blood counts and nerve tingling in the hands and feet can occur because oxaliplatin is used. Serious complications such as catheter displacement, bleeding, or liver injury are uncommon but possible. Many patients find HAIC easier to tolerate than TACE, which often causes several days of fever and pain.</p>"
+          },
+          {
+            "q": "Is HAIC better combined with targeted drugs or immunotherapy?",
+            "a": "<p>Combining HAIC with a targeted drug such as lenvatinib and a PD-1 antibody appears to shrink tumours more often than HAIC alone, and this triple approach is now common in Chinese liver cancer centres. Reported response rates in these studies are high, but most evidence comes from Asian patients with hepatitis B related disease. Whether the combination is right for you depends on liver function, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "Which countries offer HAIC for liver cancer?",
+            "a": "<p>China offers HAIC most widely, and it appears in Chinese national liver cancer guidelines; Japan and South Korea also have long experience with it. A few large Indian centres perform it, but availability is limited. In Europe and the United States it is mostly confined to trials or specialist units. Access, waiting times, and hospital acceptance vary, so confirm with the specific centre before making travel plans.</p>"
+          },
+          {
+            "q": "How much does HAIC cost abroad?",
+            "a": "<p>Costs are usually quoted per cycle, and a full course of four to six cycles is the figure worth asking about. In China and India, HAIC generally costs less per cycle than in Western hospitals, but adding lenvatinib or a PD-1 antibody raises the total considerably. Final costs depend on the hospital, the drugs used, scans, and length of stay, so ask for a written estimate covering the whole course.</p>"
+          },
+          {
+            "q": "How do I arrange HAIC treatment overseas?",
+            "a": "<p>Start by having your scans, liver function tests, and pathology report reviewed by a centre that performs HAIC, since eligibility is decided on those documents rather than on a phone call. CancerFax can help you organise reports, reach relevant liver cancer centres in China or India, estimate costs, and coordinate visa and travel alongside your own oncology team. The treating hospital makes the final decision on whether HAIC is suitable.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

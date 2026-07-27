@@ -1,0 +1,59 @@
+{
+  "pillar": "Glioblastoma Clinical Trials in China",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "glioblastoma-clinical-trials-china",
+  "route": "/insights/glioblastoma-clinical-trials-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What glioblastoma clinical trials are running in China right now?",
+            "a": "<p>China runs glioblastoma trials in several broad categories: CAR-T and TCR-T cell therapies aimed at EGFRvIII, IL13Ra2 and B7-H3, oncolytic virus injections, tumour vaccines, and newer targeted drugs combined with standard radiotherapy and temozolomide. Most are early phase, which means they are testing safety and dosing rather than proven survival benefit. Trial lists change every few months, so the studies open when you enquire may differ from what you read today.</p>"
+          },
+          {
+            "q": "Can international patients join glioblastoma clinical trials in China?",
+            "a": "<p>Some Chinese glioblastoma trials do accept international patients, but many do not. Hospital-sponsored academic studies are often limited to local residents, while cell therapy trials at private and joint-venture centres more often open to overseas applicants. Acceptance depends on your pathology report, molecular markers, prior treatment and current performance status. You will also need a valid medical visa and a local contact. Nothing is confirmed until the trial team reviews your file.</p>"
+          },
+          {
+            "q": "Do I have to fail standard treatment before I can enrol?",
+            "a": "<p>In most cases, yes. Chinese glioblastoma trials usually recruit patients who have already had surgery, radiotherapy and temozolomide, and whose tumour has recurred or continued to grow. A smaller number of first-line studies accept newly diagnosed patients, generally alongside standard care rather than instead of it. Your MRI dates, steroid dose and time since last treatment all affect eligibility, so send the complete treatment history when you apply.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy for glioblastoma available in China?",
+            "a": "<p>CAR-T for glioblastoma is available in China only inside clinical trials, not as an approved treatment. Studies use cells targeted at EGFRvIII, IL13Ra2, B7-H3 or GD2, sometimes delivered into the tumour cavity or the ventricles rather than through a vein. Early results suggest the approach is feasible and some tumours shrink, but lasting responses remain uncommon. Any centre promising a guaranteed CAR-T cure is overstating what the current data supports.</p>"
+          },
+          {
+            "q": "Which hospitals in China run glioblastoma trials?",
+            "a": "<p>Most glioblastoma trials sit with large neurosurgery and cancer centres such as Beijing Tiantan Hospital, Huashan Hospital in Shanghai, Sun Yat-sen University Cancer Center and West China Hospital in Chengdu, plus a handful of biotech-linked cell therapy units. Each centre runs its own protocols, so the same patient may qualify at one and not another. CancerFax can forward your records to more than one centre, though the treating team makes the final decision.</p>"
+          },
+          {
+            "q": "What does it cost to join a glioblastoma trial in China?",
+            "a": "<p>The experimental drug or cell product is often supplied free, but you still pay for everything around it. Screening scans, biopsy or tissue processing, hospital stays, supportive medicines, travel, visas and accommodation usually fall to the patient, and some cell therapy trials charge a manufacturing fee. Families commonly budget somewhere between USD 20,000 and 60,000. Costs vary widely by hospital and protocol, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "What are the risks of joining an experimental glioblastoma trial?",
+            "a": "<p>Experimental treatments can cause side effects that standard therapy does not. Cell therapies may trigger cytokine release syndrome, fever, confusion or brain swelling that needs steroids and intensive care. Oncolytic virus injections carry surgical and infection risks. You may also receive a dose that turns out too low to help you. The trial team must explain each risk in a consent document before you agree, and you can withdraw at any point.</p>"
+          },
+          {
+            "q": "How long does it take to hear whether I have been accepted?",
+            "a": "<p>A first response usually arrives within one to three weeks once the centre has your MRI images, pathology slides, molecular testing and recent blood work. If the team is interested, you then travel to China for in-person screening, which can take another two to four weeks before treatment begins. Glioblastoma moves quickly, so start gathering documents early. Delays most often come from missing tissue blocks or untranslated reports rather than the hospital.</p>"
+          },
+          {
+            "q": "Are results from Chinese glioblastoma trials better than treatment at home?",
+            "a": "<p>There is no reliable evidence that trials in China produce better glioblastoma survival than good care elsewhere. What China often offers is access: more early phase cell therapy and oncolytic virus studies, and shorter waiting lists. Published results so far report modest tumour responses in small groups of patients. Treat any centre quoting high response rates without peer-reviewed data with caution, and ask your own neuro-oncologist to review the protocol.</p>"
+          },
+          {
+            "q": "What medical records do I need to send before applying?",
+            "a": "<p>Send the operative note, the full pathology report including IDH status, MGMT methylation and any next-generation sequencing, all MRI scans on disc rather than printed images, a summary of radiotherapy and chemotherapy dates, and recent blood counts with liver and kidney results. English translations speed things up. CancerFax can review this package and flag gaps before it reaches a trial team, but eligibility remains a decision for the treating oncologists.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

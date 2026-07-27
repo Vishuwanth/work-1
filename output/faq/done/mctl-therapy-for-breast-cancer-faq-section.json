@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Therapy for Breast Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-therapy-for-breast-cancer",
+  "route": "/insights/mctl-therapy-for-breast-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MCTL therapy for breast cancer?",
+            "a": "<p>MCTL therapy is a personalised cellular immunotherapy that uses your own immune cells, grown in a laboratory and trained to recognise several breast cancer markers at once, then returned to you by infusion. It is offered mainly at specialist centres in China, as an addition to standard treatment rather than a replacement for it. Availability, eligibility and results vary, so any decision should be made with your treating oncology team.</p>"
+          },
+          {
+            "q": "How does MCTL therapy work against breast cancer cells?",
+            "a": "<p>MCTL therapy works by teaching your immune cells to recognise multiple tumour markers instead of only one. Blood is collected, the cells are cultured and multiplied over about two to four weeks, then infused back so they can seek out breast cancer cells carrying those markers. Targeting several markers may reduce the chance that cancer cells escape by losing a single target, though responses differ from patient to patient.</p>"
+          },
+          {
+            "q": "Am I eligible if my breast cancer has already spread?",
+            "a": "<p>Many patients with metastatic breast cancer are considered, but eligibility depends on your organ function, blood counts, general fitness and how much treatment you have already had. Centres usually need you well enough to travel and to give blood cells for culture, and some test your tumour for the markers being targeted. Only the treating centre can confirm whether you qualify, after reviewing your full medical records and recent scans.</p>"
+          },
+          {
+            "q": "Does MCTL therapy help triple-negative breast cancer?",
+            "a": "<p>MCTL therapy may be offered for triple-negative breast cancer, which is often why patients look at it, since hormone therapy and HER2 drugs do not work for this subtype. Reported outcomes so far come from small patient series rather than large randomised trials, so benefit is not established. It is generally given alongside or after chemotherapy, and the realistic expected benefit should be discussed openly with your oncologist.</p>"
+          },
+          {
+            "q": "Where can I get MCTL therapy, and is it available outside China?",
+            "a": "<p>MCTL therapy is offered mainly at cell therapy centres in China, where hospital-based programmes allow this type of treatment. It is not routinely available in India, Europe, the UK or the United States outside clinical trials. CancerFax can help you send your reports to centres running these programmes for an eligibility opinion, though acceptance, scheduling and travel approval can never be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How much does MCTL therapy for breast cancer cost?",
+            "a": "<p>A full course in China commonly falls somewhere between US$25,000 and US$50,000, depending on the number of infusions, length of hospital stay and any chemotherapy given alongside it. Scans, biopsies, accommodation, interpreters and flights are usually charged separately. Insurance rarely covers cell therapy received in another country. Ask each centre for a written, itemised quotation before you travel, as quoted prices can change.</p>"
+          },
+          {
+            "q": "How long does the whole treatment take from start to finish?",
+            "a": "<p>Plan for roughly four to six weeks in total. The first visit involves tests and a blood collection, your cells are then grown in the laboratory for about two to four weeks, and the expanded cells are given back over several infusions spaced a few days apart. Most centres ask you to stay nearby for monitoring afterwards. Timelines can shift if the cells grow more slowly than expected.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the infusions?",
+            "a": "<p>Side effects are usually mild compared with chemotherapy. Fever, chills, fatigue, headache and a short flu-like reaction in the first day or two after infusion are the most common. Low blood pressure or allergic-type reactions can occur and are managed in hospital. Severe immune reactions are uncommon with this type of therapy, but close monitoring is important, particularly after your first infusion.</p>"
+          },
+          {
+            "q": "Can I have MCTL therapy along with chemotherapy or radiation?",
+            "a": "<p>MCTL therapy is normally given alongside standard treatment rather than instead of it, and many centres deliberately combine it with chemotherapy, radiotherapy or checkpoint immunotherapy. Timing matters, because heavy chemotherapy shortly before the blood collection can reduce the quality of the cells harvested. Share your full treatment history and current medication list with both teams so the schedule can be planned safely.</p>"
+          },
+          {
+            "q": "Is MCTL therapy approved, or is it still experimental?",
+            "a": "<p>MCTL therapy is not an approved standard treatment for breast cancer in any country. It is delivered as an investigational or hospital-based programme, mainly in China. The evidence comes from small studies and single-centre experience rather than large randomised trials, so it is best viewed as an addition to proven treatment, not a substitute. CancerFax can share the published data so you and your oncologist can weigh it realistically.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

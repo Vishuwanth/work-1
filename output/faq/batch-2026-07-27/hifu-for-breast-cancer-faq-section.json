@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU for Breast Cancer and Thyroid Nodules",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-for-breast-cancer",
+  "route": "/insights/hifu-for-breast-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIFU and how does it treat breast cancer and thyroid nodules?",
+            "a": "<p>HIFU uses focused ultrasound waves to heat and destroy a tumour from outside the body, without cutting the skin. The beams pass harmlessly through tissue and converge at one point, where the temperature rises high enough to kill the targeted cells. Imaging guides the beam in real time. For benign thyroid nodules it is widely used; for breast cancer it is still mostly used in trials and selected cases.</p>"
+          },
+          {
+            "q": "Can HIFU replace surgery for a benign thyroid nodule?",
+            "a": "<p>For many benign thyroid nodules, HIFU can replace surgery and avoid a neck scar. A single session usually shrinks the nodule by roughly 50 to 70 percent over six to twelve months, which often relieves pressure, swelling and cosmetic concerns. It also spares healthy thyroid tissue, so most people do not need lifelong hormone tablets afterwards. Suitability depends on nodule size, position and a biopsy confirming it is benign.</p>"
+          },
+          {
+            "q": "Can HIFU treat breast cancer instead of a lumpectomy?",
+            "a": "<p>HIFU is not yet a standard replacement for lumpectomy in breast cancer. Most experience comes from clinical trials in small, early-stage, single-focus tumours, usually under two centimetres, where results look promising but long-term survival data are still limited. Some centres in China and India offer it within research protocols. Your oncology team should weigh it against proven surgery, and access may depend on trial openings.</p>"
+          },
+          {
+            "q": "Does HIFU hurt, and will I be asleep?",
+            "a": "<p>Most HIFU treatments are done awake with local anaesthetic and light sedation, so you feel warmth or a dull ache rather than sharp pain. Thyroid sessions typically last 30 to 60 minutes while you lie still with your neck extended. Breast treatments can take longer. You can tell the doctor to pause if discomfort builds. Pain control is adjusted to you, and general anaesthesia is occasionally used.</p>"
+          },
+          {
+            "q": "How soon can I go home and get back to normal life?",
+            "a": "<p>HIFU is usually a day-case procedure, so most people go home within a few hours and return to desk work in one to three days. There is no wound to heal and no stitches. Mild neck or breast swelling, redness and tenderness can last a week. Heavy lifting and strenuous exercise are often postponed briefly. Recovery still varies with the size and site of the area treated.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of HIFU?",
+            "a": "<p>The common side effects are mild: skin redness, swelling, bruising and tenderness over the treated area for a few days. Around the thyroid, temporary hoarseness can occur if the nerve to the voice box is irritated, and this usually settles within weeks. Skin burns are uncommon. In the breast, a firm lump of dead tissue may be felt for months. Risks depend on tumour position and operator experience.</p>"
+          },
+          {
+            "q": "Who is not suitable for HIFU?",
+            "a": "<p>HIFU is generally unsuitable if the target sits very close to the skin, the windpipe or the nerve to the voice box, or if it cannot be seen clearly on ultrasound. Large nodules above five centimetres, multiple tumours, extensive calcification and confirmed thyroid cancer with spread usually call for surgery instead. Breast implants and prior radiotherapy can also rule it out. Only a scan and specialist review can confirm eligibility.</p>"
+          },
+          {
+            "q": "Will the nodule or lump come back after HIFU?",
+            "a": "<p>Regrowth can happen, because HIFU shrinks tissue rather than removing it. Around one in ten benign thyroid nodules grows again over several years, and a second session is usually possible if it does. Follow-up ultrasound at three, six and twelve months tracks the change. In breast cancer, any residual disease is the bigger concern, which is why close imaging and sometimes biopsy follow-up are essential.</p>"
+          },
+          {
+            "q": "How much does HIFU cost in India or China?",
+            "a": "<p>HIFU for a thyroid nodule typically costs about 2,000 to 4,500 US dollars in India and a broadly similar range in China, while breast HIFU within a trial or research programme can differ substantially. The quote usually covers imaging, the session itself and early follow-up, but travel, stay and repeat scans are extra. CancerFax can help you compare written quotes from centres, though final pricing always depends on the hospital.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for HIFU?",
+            "a": "<p>Yes, international patients can be treated in selected hospitals in India and China, and most centres will review your scans and reports before you book flights. Plan for roughly seven to ten days abroad to allow assessment, treatment and one early follow-up. CancerFax can arrange a remote opinion so you know whether you qualify first. Acceptance, medical visas and trial places are never guaranteed and depend on your case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Managing Post-PDT Stricture After Oesophageal Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "post-pdt-stricture",
+  "route": "/insights/post-pdt-stricture",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is an oesophageal stricture after PDT?",
+            "a": "<p>A stricture is a narrowing of the food pipe that forms as PDT-treated tissue heals and scars. It usually appears four to eight weeks after treatment and causes food to stick, slow swallowing, or a feeling of pressure in the chest. Strictures are among the most common side effects of oesophageal PDT, and in most cases they respond well to stretching procedures called dilation.</p>"
+          },
+          {
+            "q": "How soon after PDT does a stricture usually show up?",
+            "a": "<p>Most post-PDT strictures develop between two and eight weeks after treatment, with the peak around four to six weeks. Early signs are subtle: bread, meat or tablets start feeling slow to go down. Your team will often schedule an endoscopy in this window to look for narrowing before symptoms become severe. Timing can vary depending on how much of the oesophagus was treated and how deep the treatment went.</p>"
+          },
+          {
+            "q": "What are the first symptoms I should watch for?",
+            "a": "<p>The first symptom is usually food sticking, starting with dry solids like bread, rice or meat. You may find yourself chewing longer, drinking more water with meals, or feeling a lump behind the breastbone. Later signs include bringing food back up, chest discomfort while eating, and unintended weight loss. Tell your team promptly, because a narrowing caught early is often easier and safer to stretch.</p>"
+          },
+          {
+            "q": "How is a post-PDT stricture treated?",
+            "a": "<p>Endoscopic dilation is the standard treatment, using a balloon or a tapered bougie dilator to gently widen the narrowed segment. It is usually done under sedation as a day procedure and takes fifteen to twenty minutes. Many patients need more than one session, spaced a week or two apart, because scar tissue tends to contract again. Most people swallow noticeably better within a day or two of the first dilation.</p>"
+          },
+          {
+            "q": "How many dilation sessions will I need?",
+            "a": "<p>Most patients need one to three dilations, though strictures that are long, tight or heavily scarred can need more. Your endoscopist will widen the narrowing gradually rather than all at once, because forcing it in one session raises the risk of tearing. Sessions are usually spaced one to three weeks apart and stop once you can eat a soft normal diet comfortably. How many you need depends on your own healing.</p>"
+          },
+          {
+            "q": "Is dilation painful or risky?",
+            "a": "<p>Dilation is done under sedation, so you should not feel the procedure itself, though a sore throat or mild chest ache for a day afterwards is common. The main risk is a tear in the oesophageal wall, reported in roughly one to two percent of procedures and less likely when widening is done gradually. Your team will explain the risks that apply to your own anatomy beforehand.</p>"
+          },
+          {
+            "q": "What should I eat while my swallowing is narrowed?",
+            "a": "<p>Move to soft, moist foods, take small bites, chew thoroughly, and sip fluid between mouthfuls. Minced meat, eggs, yoghurt, soups, dal and well-cooked vegetables usually pass easily, while bread, dry rice, tough meat and fibrous fruit tend to stick. Ask about crushing or switching tablets that may lodge in the narrowed segment. A dietitian can help you hold your weight and protein intake until dilation restores normal swallowing.</p>"
+          },
+          {
+            "q": "Can a post-PDT stricture be prevented?",
+            "a": "<p>There is no guaranteed way to prevent a stricture, but the risk can often be lowered. Treating shorter segments in each session, avoiding overlapping light fields, and controlling acid reflux with proton pump inhibitors all appear to reduce scarring. Some centres also schedule early endoscopy or pre-emptive dilation for patients treated over long or circumferential segments. Ask your team which of these applies to the extent of PDT you received.</p>"
+          },
+          {
+            "q": "Could the narrowing mean my cancer has come back?",
+            "a": "<p>Not usually, but it does need checking. Most narrowing after PDT is benign scar tissue, yet residual or recurrent cancer can cause the same symptoms, so your endoscopist will inspect the area carefully and often take biopsies during dilation. Imaging may be added if the appearance is unclear. Getting this answered early matters, because treatment for scarring and treatment for recurrence are two completely different paths.</p>"
+          },
+          {
+            "q": "Who manages my stricture if I had PDT abroad?",
+            "a": "<p>Any gastroenterology or endoscopy unit can perform dilation, so you usually do not need to travel back to the treating centre for routine follow-up. Before you leave, ask for your PDT records, including the light dose, the treated length and all endoscopy reports. CancerFax can help you pass these records to a local gastroenterologist, though decisions about timing and technique rest with the doctors treating you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "China's Breakthroughs in mRNA Cancer Vaccines: What Global Patients Should Know",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mrna-cancer-vaccines-in-china",
+  "route": "/guides/mrna-cancer-vaccines-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is an mRNA cancer vaccine?",
+            "a": "<p>An mRNA cancer vaccine is a treatment that teaches your immune system to recognise and attack cancer cells. It delivers genetic instructions that tell your cells to display specific tumour markers, so immune cells learn what to hunt. Unlike a flu shot, it does not prevent cancer in healthy people. It is given to patients who already have cancer, usually alongside other treatment.</p>"
+          },
+          {
+            "q": "Why is China moving so fast on mRNA cancer vaccines?",
+            "a": "<p>China has combined large patient populations, state-backed biotech funding, and faster regulatory pathways for early-phase oncology trials. This lets developers move from lab design to first-in-human testing more quickly than in many other countries. Several Chinese centres also run mRNA manufacturing and sequencing in-house, shortening turnaround. Timelines still depend on trial approvals and can shift without notice.</p>"
+          },
+          {
+            "q": "Are mRNA cancer vaccines approved in China, or still experimental?",
+            "a": "<p>They remain investigational. No mRNA cancer vaccine has full marketing approval in China for routine use, so access is almost always through a registered clinical trial or a hospital-supervised research protocol. Some centres offer them within combination studies alongside immunotherapy. Approval status changes as trial data matures, so confirm the current position with the treating hospital before travelling.</p>"
+          },
+          {
+            "q": "Which cancers are being treated with mRNA vaccines in Chinese trials?",
+            "a": "<p>Chinese trials most often focus on lung, liver, gastric, colorectal, pancreatic, and melanoma cancers, plus some head and neck tumours. Selection usually favours cancers with clear tumour mutations that a personalised vaccine can target. Trial lists change often as new studies open and others close. Which studies are recruiting for your specific cancer type and stage depends on the centre and the month you apply.</p>"
+          },
+          {
+            "q": "How is a personalised mRNA cancer vaccine actually made for me?",
+            "a": "<p>Doctors sequence your tumour tissue and healthy blood, compare them, and identify mutations unique to your cancer. Software then selects the strongest targets, and a laboratory builds an mRNA vaccine encoding those targets. Production typically takes several weeks from biopsy to first dose. The timeline depends on tissue quality, sequencing workload, and manufacturing slots, so delays are common.</p>"
+          },
+          {
+            "q": "Can I join a Chinese mRNA vaccine trial as an international patient?",
+            "a": "<p>Some Chinese trials do accept international patients, but many are restricted to residents or to specific hospital networks. Eligibility depends on cancer type, stage, biomarker profile, prior treatment, organ function, and investigator review. You will usually need translated medical records, recent scans, and available tumour tissue before screening. Enrolment can never be guaranteed, and acceptance is confirmed only after the trial team reviews your case.</p>"
+          },
+          {
+            "q": "What are the side effects of mRNA cancer vaccines?",
+            "a": "<p>The most common side effects are mild and short-lived: injection-site soreness, fever, chills, fatigue, and muscle aches for a day or two. More serious immune-related reactions are uncommon but possible, especially when the vaccine is combined with checkpoint immunotherapy. Because these vaccines are still experimental, the full long-term safety picture is not yet established and is monitored closely during trials.</p>"
+          },
+          {
+            "q": "How much does mRNA cancer vaccine treatment cost in China?",
+            "a": "<p>Costs vary widely. Within a clinical trial, the vaccine itself is often supplied free, leaving you to cover screening, scans, hospital stay, travel, and accommodation. Outside a trial, personalised manufacturing can push costs into the tens of thousands of US dollars. Final figures depend on the hospital, sequencing needs, the number of doses, combination drugs, and length of stay.</p>"
+          },
+          {
+            "q": "Do mRNA vaccines replace chemotherapy or immunotherapy?",
+            "a": "<p>No. In current trials, mRNA cancer vaccines are added to standard care rather than replacing it. They are usually combined with checkpoint inhibitors, and often follow surgery, chemotherapy, or radiotherapy that has already reduced the tumour burden. The aim is to lower the chance of relapse or improve response to existing drugs. Your treating oncology team should decide how any vaccine fits your overall plan.</p>"
+          },
+          {
+            "q": "How do I find out whether a Chinese mRNA vaccine trial is a realistic option for me?",
+            "a": "<p>Start by having your current oncologist confirm your diagnosis, stage, biomarker results, and whether preserved tumour tissue is available, since these determine most trial eligibility. CancerFax can help patients organise medical reports, identify centres running relevant mRNA vaccine studies, estimate costs, and coordinate travel and follow-up support alongside the treating oncology team. Final eligibility is decided only after the trial investigators review your records.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

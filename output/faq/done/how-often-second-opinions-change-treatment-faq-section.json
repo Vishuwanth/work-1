@@ -1,0 +1,59 @@
+{
+  "pillar": "How Often Do Second Opinions Change Cancer Diagnosis or Treatment Plan?",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-often-second-opinions-change-treatment",
+  "route": "/guides/how-often-second-opinions-change-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How often does a second opinion actually change my cancer diagnosis?",
+            "a": "<p>A second opinion changes the cancer diagnosis itself in roughly 5% to 15% of cases, depending on the cancer. Changes are most common in complex tumours such as lymphoma, sarcoma, and rare brain or gynaecologic cancers, where subspecialist pathology review matters most. Smaller corrections to tumour grade or stage are far more frequent than a completely different disease. Your own likelihood depends on the cancer type and how the first diagnosis was reached.</p>"
+          },
+          {
+            "q": "How often does the treatment plan change after a second opinion?",
+            "a": "<p>Treatment plans change more often than diagnoses. Studies report a revised plan in about 10% to 30% of second opinions. The change is usually a refinement rather than a reversal: a different drug sequence, adding chemotherapy before surgery, or switching to a clinical trial. Full reversals, such as cancelling a planned operation, are less common but do happen. The rate varies by cancer type and by how specialised the first centre was.</p>"
+          },
+          {
+            "q": "Will getting a second opinion delay my treatment?",
+            "a": "<p>In most cases, no. A second opinion typically takes one to two weeks, and for the great majority of cancers that pause does not affect the outcome. Ask your oncologist directly whether your situation is time-critical; acute leukaemia, spinal cord compression, and airway obstruction are genuine emergencies where treatment should start first. For solid tumours already scheduled for surgery, a short review is usually safe, but confirm that with your treating team.</p>"
+          },
+          {
+            "q": "Which cancers are most likely to be reclassified on review?",
+            "a": "<p>Rare and hard-to-classify cancers see the biggest changes. Sarcoma, lymphoma, brain tumours, neuroendocrine tumours, and rare gynaecologic cancers are frequently reclassified when a subspecialist pathologist reviews the slides. Common cancers diagnosed at a high-volume centre change less often. If your biopsy was read at a general hospital laboratory rather than a cancer centre, a slide review can be worth requesting. Your oncologist can advise whether it is likely to change anything.</p>"
+          },
+          {
+            "q": "Will my oncologist be offended if I ask for a second opinion?",
+            "a": "<p>Almost never. Second opinions are a routine part of cancer care, and most oncologists expect them for a new diagnosis or a major treatment decision. Many will help by referring you and releasing your records quickly. If a doctor reacts badly to a reasonable request for review, that itself tells you something useful. You do not need permission to seek one, though asking openly usually makes the process faster.</p>"
+          },
+          {
+            "q": "Do I have to travel, or can a second opinion be done remotely?",
+            "a": "<p>Most second opinions can be done remotely. Specialists review scans, pathology slides or blocks, and your medical summary, then give a written opinion without you travelling. CancerFax arranges these remote reviews with oncology teams in India and China, and the reviewing doctor works alongside your existing team rather than replacing it. Travel usually becomes necessary only if you decide to receive treatment abroad, and access depends on visas and hospital acceptance.</p>"
+          },
+          {
+            "q": "What records do I need to send for a useful second opinion?",
+            "a": "<p>You need the pathology report and, ideally, the original slides or tissue blocks, plus the actual imaging files on CD or a digital link rather than only the radiology report. Add a discharge or consultation summary, the list of drugs already given with dates and doses, and recent blood work. Missing slides are the most common reason a review stalls, so request them from the laboratory early.</p>"
+          },
+          {
+            "q": "How long does a second opinion take?",
+            "a": "<p>A remote second opinion usually takes three to ten working days once your complete records arrive. Pathology re-review adds time if slides must be couriered and recut, and molecular or genomic testing can extend it to two or three weeks. In-person consultations depend on appointment availability at the centre. Timelines vary by hospital and by how complete your file is, so send everything at once where possible.</p>"
+          },
+          {
+            "q": "Is a second opinion still worth it if it just agrees with my doctor?",
+            "a": "<p>Yes. An opinion that confirms your plan is a real result, not a wasted trip. It removes the doubt that makes patients hesitate mid-treatment, and it often adds practical detail: what side effects to expect, what the follow-up schedule should be, and which trials might open later. Confirmation from an independent specialist also helps families agree on the path forward, which matters when treatment runs for months.</p>"
+          },
+          {
+            "q": "Does a second opinion from India or China change the plan more often?",
+            "a": "<p>Sometimes, because the available options differ. A centre in India or China may offer CAR T-cell therapy, proton or carbon ion radiotherapy, or a trial drug that is not licensed where you live, so the recommendation can widen rather than contradict the first plan. CancerFax can route your records to such centres for review. Whether you are eligible depends on your disease status, organ function, and each hospital's acceptance criteria.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

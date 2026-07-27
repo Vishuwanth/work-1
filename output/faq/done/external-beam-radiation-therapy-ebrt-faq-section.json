@@ -1,0 +1,59 @@
+{
+  "pillar": "External Beam Radiation Therapy (EBRT): Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "external-beam-radiation-therapy-ebrt",
+  "route": "/treatments/external-beam-radiation-therapy-ebrt",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is external beam radiation therapy?",
+            "a": "<p>External beam radiation therapy delivers high-energy X-ray or particle beams at your tumour from a machine that never touches you. A linear accelerator rotates around the treatment couch and shapes each beam to the tumour's outline, so nearby healthy tissue receives a lower dose. Sessions are usually given once a day, and most people lie still for 10 to 20 minutes and feel nothing during the beam itself.</p>"
+          },
+          {
+            "q": "Does radiation treatment hurt?",
+            "a": "<p>No, the treatment itself is painless, and you will not feel the beam any more than you feel a chest X-ray. What can become uncomfortable is the build-up after two or three weeks, when skin in the treated area may redden or peel and the tissue underneath can feel sore. Holding one position on the couch is often the hardest part, and your team can adjust the supports.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long does the whole course take?",
+            "a": "<p>Most curative courses run five days a week for three to seven weeks, though shorter hypofractionated schedules now finish many breast and prostate treatments in one to four weeks. Palliative courses for painful bone metastases may be a single session or five. Your radiation oncologist sets the number after reviewing your tumour type, its stage, and how much healthy tissue sits in the path of the beam.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>Side effects are mostly limited to the part of the body being treated, plus tiredness that builds over the course. Chest treatment can cause a sore throat or cough, pelvic treatment can cause loose stools or urinary urgency, and head and neck treatment often affects taste and saliva. Most settle within a few weeks of the last session, though some late effects can appear months afterwards.</p>"
+          },
+          {
+            "q": "Will I be radioactive or unsafe around my children afterwards?",
+            "a": "<p>No. With external beam radiation the beam passes through you and stops the moment the machine switches off, so you carry nothing home. You can hug your children, share a bed, and cook for your family from the first day of treatment. This is different from brachytherapy or radioactive iodine, where a source sits inside the body and short-term contact precautions may apply.</p>"
+          },
+          {
+            "q": "Is proton therapy better than standard EBRT for me?",
+            "a": "<p>Protons are not automatically better; they simply deposit their dose differently, stopping at the tumour instead of continuing through it. That advantage matters most for children, for tumours sitting beside the spinal cord, brain, or eye, and for people who need re-treatment of an earlier site. For many common cancers, modern photon techniques give comparable tumour control at a fraction of the cost, so ask your radiation oncologist about your specific case.</p>"
+          },
+          {
+            "q": "What do IMRT, VMAT, and IGRT actually mean?",
+            "a": "<p>They are refinements of the same external beam treatment. IMRT varies beam intensity across the field so the dose wraps around irregular tumours; VMAT does this while the machine rotates, cutting each session to a few minutes; IGRT adds imaging immediately before treatment to confirm the target has not shifted. Together these can lower the dose reaching healthy organs, which in many cases means fewer side effects.</p>"
+          },
+          {
+            "q": "Can I keep working and driving during treatment?",
+            "a": "<p>Many people continue working through EBRT, especially with early-morning or late-evening appointments, and driving yourself is usually fine because no sedation is involved. Fatigue tends to build from the second or third week, so reduced hours often work better than stopping altogether. If your treatment covers the pelvis, abdomen, or head and neck, plan for more rest, as symptoms there can be demanding.</p>"
+          },
+          {
+            "q": "What does EBRT cost if I travel to India or China?",
+            "a": "<p>A full course of image-guided IMRT in India commonly falls between US$3,000 and US$7,000, with proton therapy considerably higher; Chinese centres price photon treatment similarly and offer carbon ion therapy at selected hospitals. Quotes depend on the number of sessions, the imaging used, and whether chemotherapy runs alongside.</p><p>CancerFax can help you gather written estimates from accredited centres, though your treating oncology team should confirm the treatment plan itself.</p>"
+          },
+          {
+            "q": "Can external beam radiation actually cure my cancer, or only control it?",
+            "a": "<p>EBRT can be curative on its own for cancers such as early prostate, some lung, cervical, and head and neck tumours, and it often contributes to cure when combined with surgery or chemotherapy. In advanced disease it is used instead to shrink tumours, relieve pain, and protect function. Which goal applies depends on the stage, tumour type, and your overall health, so ask your oncologist to state the intent plainly.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

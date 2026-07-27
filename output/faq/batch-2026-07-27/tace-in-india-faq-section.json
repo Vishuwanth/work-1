@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE in India: Top Centres, Costs, and Access for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-in-india",
+  "route": "/insights/tace-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TACE and how does it treat liver cancer?",
+            "a": "<p>TACE, or transarterial chemoembolisation, delivers chemotherapy straight into the artery feeding a liver tumour and then blocks that artery, so the drug stays trapped and the tumour loses its blood supply. It is done through a small puncture in the groin or wrist by an interventional radiologist, not by open surgery. Most patients go home within one to two days. It is used mainly for liver cancers that cannot be removed surgically.</p>"
+          },
+          {
+            "q": "How much does TACE cost in India?",
+            "a": "<p>TACE in India usually costs between USD 3,000 and USD 6,000 per session, depending on the hospital, the city, and whether conventional TACE or drug-eluting bead TACE is used. Bead-based procedures sit at the higher end because the beads themselves are expensive. Quotes often exclude scans, hospital stay, and follow-up imaging, so ask for a written itemised estimate before you travel. Prices can change without notice.</p>"
+          },
+          {
+            "q": "Which hospitals in India do TACE well?",
+            "a": "<p>TACE is offered at most large Indian cancer and liver centres, including Tata Memorial Centre in Mumbai, AIIMS and Apollo in Delhi, Medanta in Gurugram, Fortis, BLK-Max, Amrita in Kochi, and HCG. What matters more than the brand name is a dedicated interventional radiology suite and a liver tumour board that reviews each case. CancerFax can help you compare centres, but your treating oncology team should confirm the final choice.</p>"
+          },
+          {
+            "q": "Am I eligible for TACE?",
+            "a": "<p>Whether TACE suits you depends on how well your liver is working, how many tumours you have, and whether the cancer has spread outside the liver. It is generally offered when disease is confined to the liver, the main portal vein is open, and liver function is preserved. Patients with severe liver failure or widespread spread are usually not candidates. Only a liver tumour board can confirm eligibility after reviewing your scans.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need?",
+            "a": "<p>Most patients need two to four TACE sessions, spaced roughly six to eight weeks apart, though some need only one and others need more. Your team repeats a scan about four to six weeks after each session to see whether the tumour still has live tissue that needs treating. Sessions stop when the tumour is controlled or when the liver can no longer tolerate more. Plans vary by person.</p>"
+          },
+          {
+            "q": "What are the side effects of TACE, and how bad are they?",
+            "a": "<p>Most people get post-embolisation syndrome in the first few days: fever, nausea, tiredness, and pain over the liver. This usually settles within three to seven days with painkillers, fluids, and anti-sickness medicine. Less common problems include worsening liver function, gallbladder inflammation, or infection. Serious complications are uncommon in experienced hands, but the risk rises if liver function is already poor. Report fever or severe pain to your team quickly.</p>"
+          },
+          {
+            "q": "How long do I need to stay in India for TACE?",
+            "a": "<p>Plan for about two to three weeks in India for a single TACE session. That covers arrival scans and blood tests, the procedure itself, one to two nights in hospital, and a follow-up review before you fly. If more than one session is planned, many patients return home in between rather than waiting six to eight weeks on the ground. Your team will confirm timing once your scans are reviewed.</p>"
+          },
+          {
+            "q": "What is the difference between conventional TACE and DEB-TACE?",
+            "a": "<p>Conventional TACE mixes chemotherapy with an oily contrast agent and then blocks the artery with small particles, while DEB-TACE uses beads pre-loaded with the drug that release it slowly and steadily. Survival results between the two look broadly similar in most studies, but DEB-TACE often causes less nausea and fewer post-procedure symptoms. It also costs more. Your interventional radiologist will choose based on your tumour and liver function.</p>"
+          },
+          {
+            "q": "Can TACE cure my liver cancer, or how long can it give me?",
+            "a": "<p>TACE is not a cure. It is used to shrink liver tumours, slow the disease, control symptoms, and in some cases keep a patient eligible for a transplant or surgery later. Studies in carefully selected patients show median survival often measured in years rather than months when the liver is working well. Results depend heavily on tumour size, tumour number, and liver function, so individual outcomes vary widely.</p>"
+          },
+          {
+            "q": "What visa and paperwork do I need as an international patient?",
+            "a": "<p>You will need an Indian medical visa, which usually requires an invitation letter from the treating hospital, your passport, recent scans and pathology reports, and proof of funds. Most medical visas also allow an attendant visa for one or two relatives. Start early, as processing times vary by country and approval is never guaranteed. CancerFax can help you assemble the reports hospitals ask for before they issue that invitation letter.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

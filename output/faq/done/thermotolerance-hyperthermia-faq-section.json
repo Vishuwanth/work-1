@@ -1,0 +1,59 @@
+{
+  "pillar": "Thermotolerance: Why Hyperthermia Sessions Must Be Spaced 72 Hours Apart",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "thermotolerance-hyperthermia",
+  "route": "/insights/thermotolerance-hyperthermia",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why do hyperthermia sessions have to be 72 hours apart?",
+            "a": "<p>Hyperthermia sessions are usually spaced about 72 hours apart because heated tumour cells become temporarily heat-resistant, a state called thermotolerance. This resistance builds within hours of treatment and then fades over roughly two to three days. Treating again too soon means the second session heats cells that can already survive it, so the spacing is designed to let that protection wear off before the next dose.</p>"
+          },
+          {
+            "q": "What is thermotolerance in simple terms?",
+            "a": "<p>Thermotolerance is a short-lived state in which cells that have already been heated can survive a second heating that would normally damage them. The heat stress switches on protective heat shock proteins inside the cell, which repair and stabilise damaged proteins. The effect is temporary, not permanent, and it decays over about 48 to 72 hours in most cell types.</p>"
+          },
+          {
+            "q": "Does this mean hyperthermia stops working after the first session?",
+            "a": "<p>No. Hyperthermia continues to work across a full course of treatment, provided the sessions are spaced correctly. The heat resistance from one session is temporary, so once it decays the tumour responds to heat again. What can reduce benefit is stacking sessions too close together, which is why most protocols use two sessions per week rather than daily heating.</p>"
+          },
+          {
+            "q": "How many hyperthermia sessions will I need?",
+            "a": "<p>Most courses involve roughly six to twelve sessions, usually given once or twice a week alongside radiotherapy or chemotherapy. The exact number depends on your cancer type, tumour site, the treatment it is being combined with, and how well you tolerate each session. Your radiation oncology or hyperthermia team sets the final schedule after reviewing your imaging and overall condition.</p>"
+          },
+          {
+            "q": "Can hyperthermia be given on the same day as radiation or chemotherapy?",
+            "a": "<p>Yes, and it often is. Hyperthermia is usually delivered within one to two hours of a radiotherapy fraction or a chemotherapy infusion, because heat makes tumour cells more sensitive to both. The 72-hour rule applies to the gap between hyperthermia sessions themselves, not to the gap between hyperthermia and the treatment it is paired with.</p>"
+          },
+          {
+            "q": "What happens if a session is given too early?",
+            "a": "<p>Heating a tumour again before thermotolerance decays generally wastes the session rather than causing harm. The tumour cells are still protected by heat shock proteins, so the same temperature produces less cell killing. You still carry the usual risks of the session, such as skin discomfort or local burns, without the expected benefit. This is why centres track session dates carefully.</p>"
+          },
+          {
+            "q": "Do heat shock proteins make my cancer harder to treat long term?",
+            "a": "<p>In standard clinical hyperthermia, the heat shock protein response is temporary and is not thought to make cancer permanently harder to treat. Levels rise after heating and return towards baseline within a few days. Some research suggests these proteins may also help the immune system recognise tumour cells, though how much this matters for individual patients is still being studied.</p>"
+          },
+          {
+            "q": "Can the 72-hour gap ever be shortened?",
+            "a": "<p>Sometimes, but only on a doctor's judgement. Some protocols use gaps of 48 hours, and a few research settings test different intervals or use lower-temperature, longer-duration heating where thermotolerance behaves differently. Any change depends on your tumour type, treatment goal, and the equipment used, and should be decided by the treating hyperthermia and oncology team rather than requested by the patient.</p>"
+          },
+          {
+            "q": "Will a longer gap between sessions delay my radiotherapy schedule?",
+            "a": "<p>Usually not. Radiotherapy normally runs daily on weekdays, while hyperthermia is added once or twice a week on selected days, so the 72-hour spacing fits inside the existing radiotherapy course. Scheduling can still be affected by machine availability, travel, and how you tolerate treatment, so confirm the combined calendar with your radiation oncology team before booking travel.</p>"
+          },
+          {
+            "q": "How do I find a centre that follows proper hyperthermia spacing?",
+            "a": "<p>Ask any prospective centre directly how many sessions they plan, what interval they use between them, and how they measure or estimate tumour temperature. Centres following recognised protocols will answer these plainly. CancerFax can help patients organise medical reports, identify centres offering hyperthermia in India, China, and elsewhere, estimate costs, and coordinate travel and follow-up alongside the treating oncology team.</p><p>Availability, eligibility, and cost vary by hospital and cannot be confirmed until your records are reviewed by the treating specialists.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

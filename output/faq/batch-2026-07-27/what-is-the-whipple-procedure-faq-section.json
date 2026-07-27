@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is the Whipple Procedure, and What Is Recovery Like?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-the-whipple-procedure",
+  "route": "/insights/what-is-the-whipple-procedure",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the Whipple procedure?",
+            "a": "<p>The Whipple procedure removes the head of the pancreas, the first part of the small intestine, the gallbladder, the bile duct, and sometimes part of the stomach, then reconnects the remaining organs so you can digest food again. Surgeons use it for tumours in the head of the pancreas, the bile duct, or the duodenum. It is one of the few treatments that may offer a cure.</p>"
+          },
+          {
+            "q": "How long does the Whipple surgery itself take?",
+            "a": "<p>Most Whipple operations take four to eight hours in the operating theatre, followed by one or two days in intensive care. The wide range reflects how close the tumour sits to major blood vessels and whether the surgeon needs to rebuild any of them. Minimally invasive and robotic versions can take longer in theatre but may shorten your hospital stay. Your surgical team can give a more exact estimate after scans.</p>"
+          },
+          {
+            "q": "How long does recovery from a Whipple take?",
+            "a": "<p>Expect one to two weeks in hospital and two to three months before you feel close to normal at home. Full recovery, including getting your weight and energy back, often takes six months to a year. Most people walk short distances within days, return to light activity at four to six weeks, and rebuild stamina slowly after that. Recovery speed depends on your age, fitness, and whether complications occur.</p>"
+          },
+          {
+            "q": "Will I be able to eat normally after a Whipple?",
+            "a": "<p>Most people eat normally again, but it takes time and the pattern changes. For the first few months you will likely eat six small meals a day instead of three large ones, avoid very fatty food, and take pancreatic enzyme capsules with everything you eat. Nausea and early fullness are common at first and usually settle. A dietitian on your surgical team should guide portion sizes and enzyme doses.</p>"
+          },
+          {
+            "q": "What are the most common complications after a Whipple?",
+            "a": "<p>The most common problems are delayed gastric emptying, where the stomach is slow to move food along, and a pancreatic leak at the join between the pancreas and the intestine. Infection, bleeding, and blood clots also occur. Roughly a third to half of patients have some complication, but most are managed with drains, antibiotics, or feeding support rather than a second operation. Death rates are usually under five percent at high-volume centres.</p>"
+          },
+          {
+            "q": "Will I become diabetic after the surgery?",
+            "a": "<p>About one in five people develop diabetes after a Whipple, because the surgery removes part of the insulin-producing pancreas. Many others see blood sugar rise temporarily and then settle. Your risk is higher if your blood sugar was already borderline before surgery, or if a large amount of pancreas has to be removed. Your team will check blood sugar regularly for the first year and treat with tablets or insulin if needed.</p>"
+          },
+          {
+            "q": "Will I need chemotherapy after the Whipple?",
+            "a": "<p>In most cases yes. Six months of chemotherapy after surgery is standard for pancreatic cancer, because it lowers the chance of the cancer returning even when the surgeon removed everything visible. Treatment usually starts six to twelve weeks after the operation, once you have recovered enough to tolerate it. Some patients receive chemotherapy before surgery instead, or both. Your oncologist decides based on the pathology report and your recovery.</p>"
+          },
+          {
+            "q": "Can I still have a Whipple if my tumour touches a blood vessel?",
+            "a": "<p>Possibly. Tumours that touch or wrap around nearby veins are often called borderline resectable, and many centres now give chemotherapy first to shrink them before attempting surgery. If the tumour involves major arteries or has spread to the liver or lungs, surgery is usually not offered. Eligibility depends on fresh scans, your fitness for a long operation, and the experience of the surgical team reviewing your case.</p>"
+          },
+          {
+            "q": "What are the survival odds after a Whipple for pancreatic cancer?",
+            "a": "<p>Around 20 to 25 percent of people who have a successful Whipple for pancreatic cancer are alive five years later, and that figure rises when the tumour is small, the margins are clear, and no lymph nodes are involved. Survival is considerably better for bile duct and duodenal tumours. These are averages across large groups, not a prediction for you, and your pathology report matters most.</p>"
+          },
+          {
+            "q": "Does the hospital I choose really change my odds?",
+            "a": "<p>Yes, more than almost any other factor you control. Centres performing high numbers of Whipple operations each year report lower death rates and fewer serious complications than centres doing only a handful. Volume matters because complications are caught and managed early, not because the surgery is done differently. CancerFax can help you compare Whipple volumes at hospitals in India and China, though your own oncology team should confirm any referral.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

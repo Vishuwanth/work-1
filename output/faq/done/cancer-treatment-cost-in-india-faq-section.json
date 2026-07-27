@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Treatment Cost in India for Foreign Patients: Complete Guide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-treatment-cost-in-india",
+  "route": "/guides/cancer-treatment-cost-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does cancer treatment cost in India for foreign patients?",
+            "a": "<p>Most foreign patients spend between US$5,000 and US$25,000 for a full course of cancer treatment in India, depending on the cancer type and stage. Surgery for early breast or colon cancer often falls near the lower end, while combined surgery, chemotherapy and radiation can reach the higher end. Advanced options such as CAR T-cell therapy or transplant cost more. Final costs depend on your diagnosis and the hospital you choose.</p>"
+          },
+          {
+            "q": "Why is cancer treatment so much cheaper in India than in the US or Europe?",
+            "a": "<p>India's lower costs come from lower salaries, lower hospital overheads, locally manufactured generic drugs, and government price caps on many cancer medicines. The same imported machines and international protocols are used, so the saving usually reflects economics rather than shortcuts in care. Many leading Indian oncologists trained or practised abroad. Quality still varies between hospitals, so compare accreditation and case volumes before you commit to any centre.</p>"
+          },
+          {
+            "q": "What does the quoted hospital package actually include?",
+            "a": "<p>A typical Indian hospital package covers the specific procedure, surgeon and anaesthetist fees, room charges for a set number of days, routine investigations, and standard medicines during admission. It usually excludes flights, visas, accommodation for family, follow-up scans after discharge, and any complication that extends your stay. Ask for the exclusion list in writing before travelling. Packages can be revised if your stage or treatment plan changes after arrival.</p>"
+          },
+          {
+            "q": "How much should I budget beyond the hospital bill?",
+            "a": "<p>Plan for roughly US$1,500 to US$4,000 per person on top of the hospital bill for a one-month stay. This covers return flights, a medical visa, serviced accommodation near the hospital, food, local travel, and an attendant's expenses. Longer treatments such as bone marrow transplant need three to six months of living costs. Add a contingency of about twenty percent, because recovery timelines can extend without warning.</p>"
+          },
+          {
+            "q": "How much does chemotherapy cost per cycle in India?",
+            "a": "<p>One chemotherapy cycle in India usually costs between US$400 and US$1,500, and most regimens run for six to eight cycles. Standard generic drugs sit at the lower end. Targeted therapies and immunotherapy such as pembrolizumab cost far more, often US$2,000 to US$4,000 per dose even at Indian prices. Your oncologist decides the regimen after biopsy and staging, so a firm per-cycle figure is only possible once those reports are ready.</p>"
+          },
+          {
+            "q": "Do I have to pay the whole amount before treatment starts?",
+            "a": "<p>No. Indian hospitals normally ask for an advance deposit covering the first phase of treatment, then bill the rest in stages as care progresses. The deposit is often thirty to fifty percent of the estimate. Payment is usually by wire transfer or card in Indian rupees. Some hospitals accept international insurance or embassy guarantees, but approval depends on your insurer and can take several weeks, so start that paperwork early.</p>"
+          },
+          {
+            "q": "How do I get an accurate cost estimate before I travel?",
+            "a": "<p>Send your biopsy report, recent scans, and a summary of any treatment already given to the hospital's international patient desk. Most centres return a written estimate within two to four working days at no charge. Services such as CancerFax can route the same records to several hospitals so you can compare, though the final plan and price always rest with the treating oncology team after they examine you.</p>"
+          },
+          {
+            "q": "What does a bone marrow transplant cost in India?",
+            "a": "<p>An autologous bone marrow transplant in India typically costs US$18,000 to US$25,000, while an allogeneic transplant from a matched donor runs US$28,000 to US$45,000. Haploidentical transplants sit at the top of that range. The figures cover conditioning chemotherapy, the transplant, and the isolation stay. Infections or graft-versus-host disease can add significantly, so most centres ask families to hold a reserve fund beyond the quoted package.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial in India to lower my costs?",
+            "a": "<p>Sometimes. Indian trials often provide the study drug and related scans free, which can cut costs sharply, but foreign patients face extra hurdles. Many protocols require residency, local follow-up for months, and registration with Indian ethics committees. Eligibility depends on your exact cancer subtype, prior treatments, and organ function. Ask your oncologist to check the Clinical Trials Registry of India, and treat any promise of guaranteed enrolment with caution.</p>"
+          },
+          {
+            "q": "Is treatment in India worth it if my cancer is advanced?",
+            "a": "<p>It can be, but the answer is personal. For advanced disease the goal is often longer, more comfortable life rather than cure, and India offers that care at a fraction of Western prices. Travel itself carries risk if you are frail or need frequent transfusions. Ask your home oncologist whether you are fit to fly, and ask the Indian team what realistic benefit they expect before you spend savings.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

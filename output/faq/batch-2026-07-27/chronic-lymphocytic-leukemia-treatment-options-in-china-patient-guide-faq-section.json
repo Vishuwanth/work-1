@@ -1,0 +1,59 @@
+{
+  "pillar": "Chronic Lymphocytic Leukaemia (CLL) Treatment Options in China",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "chronic-lymphocytic-leukemia-treatment-options-in-china-patient-guide",
+  "route": "/guides/chronic-lymphocytic-leukemia-treatment-options-in-china-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What treatment options are available for CLL in China?",
+            "a": "<p>China offers the full modern range of CLL treatment: BTK inhibitors such as zanubrutinib and orelabrutinib, the BCL-2 inhibitor venetoclax, anti-CD20 antibodies like rituximab and obinutuzumab, and CAR-T or transplant for difficult cases. Chemotherapy is now used less often. Which option suits you depends on your genetic markers, age, other health conditions, and how far the disease has progressed, so your haematologist may recommend a different order.</p>"
+          },
+          {
+            "q": "Do I need to start treatment as soon as I am diagnosed with CLL?",
+            "a": "<p>Often no. Many people with early-stage CLL are watched rather than treated, because starting drugs early has not been shown to help them live longer. Treatment usually begins when you develop symptoms such as heavy night sweats, weight loss, very low blood counts, or rapidly growing lymph nodes. Chinese haematologists follow the same international criteria, so your care team may recommend monitoring first even after you travel.</p>"
+          },
+          {
+            "q": "Are BTK inhibitors made in China as good as the ones I would get at home?",
+            "a": "<p>Zanubrutinib was developed in China and is now approved in the United States, Europe, and many other countries, so it is the same medicine wherever you take it. In head-to-head trials it worked better than ibrutinib for CLL and caused fewer heart rhythm problems. Orelabrutinib is a second Chinese BTK inhibitor with a similar profile. Your response still depends on your own disease genetics and prior treatment.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy available for CLL in China?",
+            "a": "<p>Yes, CAR-T therapy for CLL is available in China, mainly through clinical trials at major blood cancer centres rather than as routine approved care. China runs one of the world's largest CAR-T trial programmes, including CD19 and dual-target products. Eligibility usually requires that your CLL has returned or stopped responding to BTK and BCL-2 inhibitors, and acceptance into any trial is never guaranteed.</p>"
+          },
+          {
+            "q": "How much does CLL treatment in China cost?",
+            "a": "<p>Cost depends on the drug you need, but China is usually cheaper than the United States or Europe. Locally made BTK inhibitors such as zanubrutinib often run a few hundred to about 1,500 US dollars a month, and a full diagnostic workup with flow cytometry and FISH testing typically costs 1,500 to 3,000 dollars. Trial-based CAR-T may cover the drug itself. Quotes vary by hospital and can change.</p>"
+          },
+          {
+            "q": "What tests do I need before travelling to China for CLL treatment?",
+            "a": "<p>You will need a confirmed CLL diagnosis by flow cytometry, plus FISH testing for del(17p) and del(11q), TP53 mutation testing, and IGHV mutation status. These results decide whether a BTK inhibitor, venetoclax combination, or trial is right for you. Recent blood counts, a CT scan, and hepatitis B screening are also usually requested. Hospitals may repeat some tests on arrival at your own cost before treatment starts.</p>"
+          },
+          {
+            "q": "How do I join a CLL clinical trial in China as a foreign patient?",
+            "a": "<p>Start by having your full records reviewed against the trial's entry rules before you book any travel. Most Chinese CLL trials require recent bone marrow results, FISH and IGHV testing, and a clear record of which drugs you have already had. CancerFax can pass these records to the trial site so eligibility is checked in advance, but the trial investigator makes the final decision and enrolment is never assured.</p>"
+          },
+          {
+            "q": "Which hospitals in China treat CLL?",
+            "a": "<p>CLL care in China is concentrated in a handful of large haematology centres. The Institute of Hematology and Blood Diseases Hospital in Tianjin, Ruijin Hospital and Zhongshan Hospital in Shanghai, Peking University People's Hospital in Beijing, and the First Affiliated Hospital of Zhejiang University treat the highest volumes and run most CLL trials. International patient offices at these hospitals can arrange English-speaking coordination, though availability varies.</p>"
+          },
+          {
+            "q": "How long will I have to stay in China for CLL treatment?",
+            "a": "<p>It depends on the treatment. If you are starting a BTK inhibitor, two to three weeks is often enough to complete testing, begin the drug, and check early side effects before continuing at home. Venetoclax ramp-up usually needs four to six weeks of close monitoring. CAR-T or transplant can mean three months or longer. CancerFax can help you plan the length of stay with the hospital and your own oncology team.</p>"
+          },
+          {
+            "q": "Should I choose China or India for CLL treatment?",
+            "a": "<p>Both are strong options, and the better choice depends on what you need. China leads on CAR-T and other cell therapy trials and on locally made BTK inhibitors. India is often faster to arrange, cheaper for transplant, and easier for English-speaking patients and visas. If you need a standard BTK inhibitor, either works. If you need an experimental cell therapy, China usually has more open trials.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

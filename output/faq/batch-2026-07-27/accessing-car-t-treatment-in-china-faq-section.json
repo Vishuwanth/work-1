@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing CAR-T Treatment in China Through CancerFax",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "accessing-car-t-treatment-in-china",
+  "route": "/insights/accessing-car-t-treatment-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can international patients actually get CAR-T therapy in China?",
+            "a": "<p>Yes, international patients can receive CAR-T therapy in China, through either approved commercial products or hospital clinical trials in Beijing, Shanghai, Guangzhou and Tianjin. Acceptance depends on your cancer type, previous treatments, organ function and how active the disease is now. Chinese centres review your medical records before issuing an invitation letter. Eligibility is always decided case by case by the treating haematology team, so no centre can promise acceptance in advance.</p>"
+          },
+          {
+            "q": "How much does CAR-T treatment in China cost?",
+            "a": "<p>CAR-T therapy in China typically costs between about USD 60,000 and USD 150,000, depending on the product, the hospital, and whether treatment is commercial or trial-based. A clinical trial place can bring the cost of the cell product close to zero, though you still pay for the hospital stay, tests and any complications. All quotes are estimates, and the final bill can rise if you need intensive care or extra inpatient days.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with CAR-T in China?",
+            "a": "<p>CAR-T in China is used mainly for relapsed or refractory blood cancers: B-cell acute lymphoblastic leukaemia, diffuse large B-cell lymphoma, follicular lymphoma, mantle cell lymphoma and multiple myeloma. Chinese trials also test CAR-T in T-cell lymphoma, acute myeloid leukaemia and some solid tumours, including liver, gastric and pancreatic cancer. Solid tumour CAR-T remains experimental, and access to those studies depends on which trials are open when you apply.</p>"
+          },
+          {
+            "q": "How long does the whole process take from first enquiry to infusion?",
+            "a": "<p>Most patients reach infusion roughly six to ten weeks after first contact. Record review and hospital acceptance take one to two weeks, visa and travel another two to four, then cell collection, manufacturing and bridging chemotherapy take about three to four weeks inside China. Manufacturing delays, infection or fast disease progression can stretch this, so any timeline given at the start should be treated as an estimate, not a fixed date.</p>"
+          },
+          {
+            "q": "Do I have to join a clinical trial to get CAR-T in China?",
+            "a": "<p>No. China has several fully approved commercial CAR-T products, so you do not have to enter a trial to be treated. Trials remain attractive because they may cover the cost of the cell product and can offer newer targets, such as dual CD19/CD22 or BCMA constructs. Trial places are limited and carry strict entry criteria, so enrolment can never be guaranteed before the hospital has reviewed your full file.</p>"
+          },
+          {
+            "q": "What medical records do I need to send before a Chinese hospital will review my case?",
+            "a": "<p>Send a recent pathology or biopsy report, bone marrow results, flow cytometry or immunohistochemistry showing the target antigen, recent PET-CT or CT scans, a summary of every treatment you have had, and current blood counts with kidney and liver function. CancerFax passes this package to Chinese cell therapy units for review. Missing antigen testing is the most common reason a file is delayed or sent back for more information.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy dangerous? What side effects should I expect?",
+            "a": "<p>The main risks are cytokine release syndrome and neurotoxicity, which usually appear in the first two weeks after infusion. Most cases are mild to moderate and are managed with tocilizumab, steroids and intensive care support. Low blood counts and raised infection risk can last for months afterwards. Chinese cell therapy units treat high patient volumes and are experienced with these reactions, but severe complications and treatment-related deaths are still possible.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China?",
+            "a": "<p>Plan for roughly two to three months in China. You are usually admitted a few days before cell collection, stay near the hospital while the cells are manufactured, spend two to four weeks as an inpatient around the infusion, then remain close by for about another four weeks of monitoring. Patients who develop cytokine release syndrome or infection may need longer, so book flexible rather than fixed return travel.</p>"
+          },
+          {
+            "q": "I relapsed after a transplant or after CAR-T elsewhere. Can China still help?",
+            "a": "<p>Often yes. Relapse after a stem cell transplant, or after an earlier CD19 CAR-T, does not automatically rule you out. Chinese centres may offer a different target such as CD22 or BCMA, or a dual-target construct designed for patients whose cancer has lost the original antigen. Acceptance depends on fresh antigen testing, organ function and disease burden, and some patients are found unsuitable once that review is done.</p>"
+          },
+          {
+            "q": "How do I start the process if I want CAR-T in China?",
+            "a": "<p>Start by gathering your recent medical records and sending them for review, because no Chinese hospital will quote a treatment plan or price without them. CancerFax forwards the file to Chinese cell therapy units, returns their written opinions and cost estimates, and assists with the invitation letter, medical visa and admission. Your own oncologist should confirm the plan is reasonable for your situation before you commit to travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

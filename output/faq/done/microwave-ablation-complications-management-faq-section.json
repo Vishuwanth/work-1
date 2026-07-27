@@ -1,0 +1,59 @@
+{
+  "pillar": "Complications of Microwave Ablation: Risk and Management",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-complications-management",
+  "route": "/insights/microwave-ablation-complications-management",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What complications can happen after microwave ablation?",
+            "a": "<p>Most microwave ablation complications are mild and settle within a week. The common ones are pain at the needle site, low-grade fever, nausea and tiredness, together called post-ablation syndrome. Serious problems are uncommon and include bleeding, infection or abscess, injury to the bile ducts, bowel or diaphragm, and a collapsed lung when the tumour sits in the chest. Your risk depends on tumour size, location and general health.</p>"
+          },
+          {
+            "q": "How often do serious complications actually occur?",
+            "a": "<p>Major complications occur in roughly 2 to 5 percent of microwave ablation procedures, and death caused directly by the procedure is rare, usually reported under 1 percent in large liver and lung series. Minor effects such as pain and fever are far more common and affect most patients. Rates vary with the centre's experience, tumour size and position, so ask your team for their own published figures.</p>"
+          },
+          {
+            "q": "What is post-ablation syndrome and how long does it last?",
+            "a": "<p>Post-ablation syndrome is a flu-like reaction to the destroyed tumour tissue, with low-grade fever, aching, tiredness and mild nausea starting a day or two after treatment. It affects up to a third of patients and often fades within three to seven days, though tiredness can linger for two weeks after larger ablations. Rest, fluids and simple painkillers are usually enough. Fever beyond a week should be reported.</p>"
+          },
+          {
+            "q": "How much pain will I have, and how is it managed?",
+            "a": "<p>Pain after microwave ablation is usually mild to moderate and controlled with simple painkillers, with a short course of stronger medication for the first few days if needed. Discomfort is felt at the needle site, in the shoulder tip when the top of the liver is treated, or in the chest after lung ablation. Tell your team if pain worsens instead of easing, as that can signal bleeding or infection.</p>"
+          },
+          {
+            "q": "Can the heat damage organs next to the tumour?",
+            "a": "<p>Yes, heat can spread beyond the tumour and injure nearby structures, which is why the needle is guided by ultrasound or CT throughout. Bile ducts, gallbladder, bowel, stomach, diaphragm and large blood vessels are the usual concerns. Radiologists reduce this risk with hydrodissection, injecting fluid to push organs away, and by adjusting power and timing. Tumours within about a centimetre of these structures may need a different approach.</p>"
+          },
+          {
+            "q": "What warning signs mean I should call my doctor?",
+            "a": "<p>Ring your team urgently for fever above 38.5°C lasting more than 48 hours, severe or worsening pain, breathlessness, dizziness or fainting, repeated vomiting, yellowing of the eyes or skin, or dark urine with pale stools. These can point to infection, bleeding, a collapsed lung or bile duct injury. Most people have none of them, but early treatment matters, so it is better to call than to wait.</p>"
+          },
+          {
+            "q": "Is a collapsed lung common after lung microwave ablation?",
+            "a": "<p>Pneumothorax, air leaking around the lung, is the most common complication of lung microwave ablation and appears on scans in roughly 10 to 30 percent of cases. Most are small and need only observation, while around one in ten patients needs a chest drain for a few days. Risk rises with emphysema, deeper tumours and multiple needle passes. It is usually picked up before you leave hospital.</p>"
+          },
+          {
+            "q": "What are the specific risks when the liver is treated?",
+            "a": "<p>Liver microwave ablation carries small risks of bleeding into the abdomen, infection or abscess in the treated area, narrowing of a bile duct, and injury to the gallbladder or bowel. People with cirrhosis may also see liver function dip temporarily. Serious events affect a few percent of patients. Blood thinners are normally paused beforehand, and clotting tests, liver function and tumour position all guide whether ablation is suitable.</p>"
+          },
+          {
+            "q": "Can cancer spread along the needle track?",
+            "a": "<p>Tumour seeding along the needle track is rare, reported in well under 1 percent of microwave ablation procedures. It is more likely with tumours close to the liver surface, aggressive tumour types, and when many needle passes are needed. Radiologists lower the risk by heating the track as the needle is withdrawn. Follow-up scans look for it, and isolated seeding can often be treated when found early.</p>"
+          },
+          {
+            "q": "How can I lower my own risk of complications?",
+            "a": "<p>Choosing an experienced interventional radiology team matters most, as complication rates tend to fall at centres performing high numbers of ablations each year. Beyond that, share your full medication list so blood thinners can be paused safely, treat any active infection first, and follow fasting and follow-up scan instructions closely. CancerFax can help you compare centres and gather records, though the final plan rests with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

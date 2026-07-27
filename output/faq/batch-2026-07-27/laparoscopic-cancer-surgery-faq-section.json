@@ -1,0 +1,59 @@
+{
+  "pillar": "Laparoscopic Cancer Surgery: Minimally Invasive and Robotic-Assisted Cancer Surgery in China and India",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "laparoscopic-cancer-surgery",
+  "route": "/treatments/laparoscopic-cancer-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is laparoscopic cancer surgery?",
+            "a": "<p>Laparoscopic cancer surgery removes a tumour through several small cuts instead of one long incision. The surgeon passes a thin camera and fine instruments through ports about 5 to 12 millimetres wide and works from a magnified view on a screen. The tumour, surrounding tissue and nearby lymph nodes come out through one slightly widened port. Most patients lose less blood and leave hospital sooner than after open surgery.</p>"
+          },
+          {
+            "q": "Is keyhole surgery as good as open surgery at removing all the cancer?",
+            "a": "<p>For many common cancers it appears equally effective, with large trials in colon, stomach, uterine and early lung cancer showing similar survival and recurrence rates. What matters is a clear margin around the tumour and an adequate lymph node harvest, and experienced laparoscopic teams achieve both. Results can differ by tumour type, stage and how many such cases the surgeon performs each year, so ask about their own outcomes.</p>"
+          },
+          {
+            "q": "What is the difference between laparoscopic and robotic-assisted surgery?",
+            "a": "<p>Both use the same small ports; the difference is who holds the instruments. In laparoscopy the surgeon moves long rigid tools by hand. In robotic surgery the surgeon sits at a console and controls wristed instruments that bend like a hand, with 3D vision and tremor filtering. Robotic systems help most in tight spaces such as the pelvis. They usually cost more, and a survival advantage over standard laparoscopy is not established.</p>"
+          },
+          {
+            "q": "Which cancers are commonly operated on this way in China and India?",
+            "a": "<p>Colon, rectal, stomach, oesophageal, liver, kidney, prostate, uterine, cervical, ovarian and early lung cancers are routinely removed laparoscopically or robotically at high-volume centres in both countries. Chinese hospitals carry particularly deep experience in gastric and oesophageal cancer, while Indian centres handle very high numbers of colorectal, gynaecological and urological cases. Whether your tumour suits a minimally invasive approach depends on its size, position, stage and specialist review.</p>"
+          },
+          {
+            "q": "How much does laparoscopic or robotic cancer surgery cost in India?",
+            "a": "<p>Estimated costs in India often run about US$4,000 to US$8,000 for laparoscopic cancer surgery and roughly US$7,000 to US$12,000 for robotic-assisted procedures, covering surgeon fees and a standard hospital stay. Final costs depend on the organ involved, diagnostics, intensive care needs, length of stay and whether chemotherapy or radiotherapy follows. Quotes vary between hospitals and cities, so ask for a written estimate listing what is excluded.</p>"
+          },
+          {
+            "q": "What does minimally invasive cancer surgery cost in China?",
+            "a": "<p>Chinese hospitals commonly quote an estimated US$8,000 to US$18,000 for minimally invasive or robotic cancer surgery, somewhat above Indian pricing but well below United States and European levels. Gastric and oesophageal operations, where Chinese centres have the deepest experience, usually sit in the middle of that band. Prices move with hospital tier, city, protocol and complications, and international-patient packages may add translation, visa support and accommodation costs.</p>"
+          },
+          {
+            "q": "How long does it take to recover from keyhole cancer surgery?",
+            "a": "<p>Most patients are out of bed within a day and home in three to six days, compared with seven to ten after equivalent open surgery. Light activity often resumes in about two weeks and normal routines in four to six. Bowel and stomach operations may need food reintroduced slowly. Recovery can take longer for older patients, those with heart or lung disease, or when chemotherapy is planned soon afterwards.</p>"
+          },
+          {
+            "q": "What are the risks of laparoscopic cancer surgery?",
+            "a": "<p>The main risks are bleeding, infection, injury to nearby organs, blood clots and, after bowel or stomach surgery, leakage where the two ends are joined. Roughly 10 to 20 percent of operations are converted to open surgery partway through when the view is poor or bleeding occurs, which is a safety decision rather than a failure. Serious complication rates are generally lower than with open surgery in experienced hands.</p>"
+          },
+          {
+            "q": "Can I still have keyhole surgery if my tumour is large or I have had previous operations?",
+            "a": "<p>Often yes, though heavy scar tissue from earlier abdominal surgery or a very bulky tumour can make the keyhole approach unsafe. Invasion into major blood vessels, severe obesity and poor heart or lung function also push surgeons towards an open operation. Some centres shrink the tumour with chemotherapy first, then reassess. Suitability depends on your scans, stage and specialist review, and a team may start laparoscopically while accepting conversion.</p>"
+          },
+          {
+            "q": "How do I arrange minimally invasive cancer surgery abroad?",
+            "a": "<p>Start by sending recent scans, biopsy reports and a treatment summary to the hospital's international patient office, which usually returns a surgical opinion and an estimated cost within a week or two. A medical visa, a companion visa and roughly two to four weeks in the country are typical. CancerFax can help patients organise medical reports, identify relevant specialists, estimate costs and coordinate travel and follow-up alongside the treating oncology team. Hospital acceptance and visa approval are never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "The RFA Procedure: What to Expect Before, During, and After Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "rfa-procedure-patient-guide",
+  "route": "/insights/rfa-procedure-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What actually happens during an RFA procedure?",
+            "a": "<p>A thin needle electrode is guided into the tumour using ultrasound or CT imaging, and radiofrequency current passing through its tip heats the tissue to roughly 60 to 100°C, destroying the tumour cells. The doctor may reposition the needle to cover the whole tumour plus a small safety margin. Most ablations are done through the skin, with no surgical cut. Technique and timing depend on where the tumour sits.</p>"
+          },
+          {
+            "q": "How long does RFA take?",
+            "a": "<p>The ablation itself usually takes 30 to 90 minutes, though the full hospital visit often runs four to six hours once preparation, imaging, and recovery are counted. One small tumour may be finished in under an hour. Several lesions, or a tumour close to the diaphragm or a large blood vessel, can take longer because the needle has to be repositioned. Your team can estimate this after reviewing your scans.</p>"
+          },
+          {
+            "q": "Will I be awake during RFA?",
+            "a": "<p>That depends on the tumour and your hospital's protocol. Many liver and kidney ablations are done under conscious sedation with local anaesthetic, so you are drowsy and comfortable but breathing on your own. General anaesthesia is often chosen for lung tumours, larger lesions, or when several areas are treated in one session. Either way, you should not feel the heating itself.</p>"
+          },
+          {
+            "q": "What do I need to do before the procedure?",
+            "a": "<p>Expect blood tests, clotting checks, and a recent CT or MRI so the team can map the tumour precisely. You will usually fast for six to eight hours beforehand. Blood thinners such as warfarin, aspirin, or clopidogrel are often paused for several days, but only on your doctor's instruction and never on your own.</p><p>Tell the team about any pacemaker, metal implant, allergy, or medicine you take, including supplements.</p>"
+          },
+          {
+            "q": "Does RFA hurt?",
+            "a": "<p>You should not feel pain during the ablation, because sedation or general anaesthesia covers it. Afterwards, most patients describe a dull ache or soreness at the needle site, and sometimes shoulder or back discomfort, which usually settles within a few days on simple painkillers. Pain that is severe, getting worse, or comes with fever or breathlessness should be reported to your team the same day.</p>"
+          },
+          {
+            "q": "Is it normal to feel feverish and tired after RFA?",
+            "a": "<p>Yes, a low-grade fever with tiredness, nausea, and mild aching in the first three to seven days is common enough to have a name: post-ablation syndrome. It reflects your body clearing the destroyed tumour tissue rather than an infection, and it usually settles on its own. A fever above 38.5°C, shaking chills, or symptoms that begin after the first week may signal infection and need urgent review.</p>"
+          },
+          {
+            "q": "How long is the recovery after RFA?",
+            "a": "<p>Most people go home the same day or after one night in hospital, and return to light daily activity within two to four days. Heavy lifting, driving, and exercise are usually restricted for about a week, longer after general anaesthesia or a large ablation. Recovery is generally quicker than open surgery because there is no incision, though your own timeline depends on your organ function and overall health.</p>"
+          },
+          {
+            "q": "How will I know whether the RFA worked?",
+            "a": "<p>A contrast CT or MRI about four to six weeks after treatment is the usual first check. Doctors look for a dead zone with no blood flow covering the original tumour and a margin around it; enhancement at the edge can mean some tumour survived, and repeat ablation is often possible in that situation. Scans then continue every three to six months, frequently alongside tumour marker blood tests.</p>"
+          },
+          {
+            "q": "What can go wrong with RFA?",
+            "a": "<p>Serious complications are uncommon but real. They include bleeding, infection or abscess at the treated site, injury to nearby structures such as the bile duct or bowel, and, in lung ablation, a collapsed lung that may need a chest drain. Risk rises when the tumour lies close to major blood vessels or other organs. Ask your interventional radiologist how your particular tumour location changes these odds.</p>"
+          },
+          {
+            "q": "What should I plan for if I travel abroad for RFA?",
+            "a": "<p>Allow roughly seven to ten days in the destination country. That covers pre-procedure scans and blood work, the ablation itself, and a few days of observation before flying, since flying too soon after lung ablation can be risky without written clearance.</p><p>CancerFax can help you send your scans and reports to hospitals in India or China for review, though eligibility and final cost are always decided by the treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

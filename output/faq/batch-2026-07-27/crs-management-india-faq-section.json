@@ -1,0 +1,59 @@
+{
+  "pillar": "CRS Management at Indian CAR-T Centres: Tocilizumab Biosimilar Protocols",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "crs-management-india",
+  "route": "/insights/crs-management-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cytokine release syndrome after CAR-T therapy?",
+            "a": "<p>Cytokine release syndrome is a fever-driven inflammatory reaction that happens when CAR-T cells activate and attack cancer cells. It is the most common side effect of CAR-T therapy. Most patients develop fever, low blood pressure, or low oxygen within the first week. Grading runs from mild (grade 1) to life-threatening (grade 4), and most cases in Indian centres are mild to moderate and reversible with prompt treatment.</p>"
+          },
+          {
+            "q": "How soon after my CAR-T infusion will CRS start?",
+            "a": "<p>CRS usually begins two to seven days after the CAR-T infusion, though it can start within hours with some products. Fever is almost always the first sign, which is why teams check temperature every few hours during the early admission. Symptoms typically peak within the first week and settle over one to two weeks. Timing varies by product, disease burden, and the individual patient, so your team will set its own monitoring window.</p>"
+          },
+          {
+            "q": "What is tocilizumab and why is it the main drug for CRS?",
+            "a": "<p>Tocilizumab is an antibody drug that blocks interleukin-6, the signalling molecule that drives most CRS symptoms. It is the first-line treatment for moderate and severe CRS worldwide, including at Indian CAR-T centres. Fever and low blood pressure often improve within hours of the first dose. Doses can be repeated if symptoms return, and steroids may be added when the response is incomplete. Your treating team decides the timing based on CRS grade.</p>"
+          },
+          {
+            "q": "Are the tocilizumab biosimilars used in India as good as the original drug?",
+            "a": "<p>Tocilizumab biosimilars approved in India are expected to work like the original brand, because regulators require them to match it in structure, potency, and clinical effect before approval. Indian CAR-T centres have used these biosimilars routinely for CRS, and published centre experience reports similar fever control. Formal head-to-head trials in CRS are limited, so the evidence is largely practical rather than randomised. Ask your centre which brand it stocks and what its own outcomes look like.</p>"
+          },
+          {
+            "q": "How much does tocilizumab add to the cost of CAR-T in India?",
+            "a": "<p>Biosimilar tocilizumab in India often costs a fraction of the imported originator, which is one reason Indian CAR-T programmes can budget for CRS rescue doses. Actual cost depends on the vial size, the number of doses needed, and the hospital's pricing. Most CAR-T packages quoted by Indian centres include some CRS management, but the limits vary. CancerFax can help you ask a centre for a written breakdown before you travel.</p>"
+          },
+          {
+            "q": "Do Indian CAR-T centres keep tocilizumab ready before the infusion?",
+            "a": "<p>Yes. CAR-T centres are expected to keep tocilizumab reserved on site before any infusion, usually at least two doses per patient. This is checked as part of the centre's readiness protocol along with ICU access and a trained CRS response team. If you are choosing a centre, it is fair to ask how many doses are held and how quickly the ICU can take a patient after hours.</p>"
+          },
+          {
+            "q": "When do doctors add steroids on top of tocilizumab?",
+            "a": "<p>Steroids are added when CRS does not settle after tocilizumab, when the reaction is severe from the start, or when neurological symptoms appear alongside it. Dexamethasone is the usual choice, given for the shortest useful period. Doctors keep steroid exposure limited because prolonged use may blunt CAR-T cell activity, though short courses have not clearly reduced response in practice. The decision depends on your grade, your organ function, and the treating team's protocol.</p>"
+          },
+          {
+            "q": "Will tocilizumab stop my CAR-T cells from working?",
+            "a": "<p>Current evidence suggests tocilizumab does not reduce how well CAR-T cells kill cancer. It blocks interleukin-6, a signal made mainly by other immune cells, not a signal the CAR-T cells need to expand. Response rates in patients treated with tocilizumab have looked similar to those in patients who were not. This is why teams treat CRS early rather than waiting, though your oncologist will judge each situation on its own merits.</p>"
+          },
+          {
+            "q": "Can CRS actually kill you?",
+            "a": "<p>Severe CRS can be life-threatening, but deaths are uncommon at centres that monitor closely and treat early. Most reported CRS in Indian CAR-T programmes has been grade 1 or 2, managed with fluids, oxygen, paracetamol, and tocilizumab. Severe cases needing intensive care are a minority. Risk is higher with heavy disease burden, active infection, or delayed treatment, so admission and daily review during the first two weeks matter more than any single drug.</p>"
+          },
+          {
+            "q": "How long do I need to stay near the hospital after CAR-T?",
+            "a": "<p>Plan to stay near the CAR-T centre for about four weeks after infusion. The first one to two weeks are usually inpatient, covering the window when CRS and neurological side effects are most likely. After discharge you stay close by for outpatient review, often two or three visits a week. International patients should budget extra time for visa validity and a fitness-to-fly clearance, which depends on how recovery goes.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

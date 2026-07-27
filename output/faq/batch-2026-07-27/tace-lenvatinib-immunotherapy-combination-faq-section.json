@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE + Lenvatinib and TACE + Immunotherapy Combinations for HCC",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-lenvatinib-immunotherapy-combination",
+  "route": "/insights/tace-lenvatinib-immunotherapy-combination",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TACE with lenvatinib, and why are they given together?",
+            "a": "<p>TACE plus lenvatinib combines a procedure that blocks the artery feeding the tumour with a daily tablet that starves it of new blood vessels. TACE alone leaves behind low-oxygen tissue that signals the tumour to regrow its blood supply, and lenvatinib blunts that signal. The pairing is used mainly for intermediate-stage hepatocellular carcinoma with several tumours. Whether it suits you depends on liver function, tumour spread, and your oncologist's assessment.</p>"
+          },
+          {
+            "q": "Does adding lenvatinib to TACE actually work better than TACE alone?",
+            "a": "<p>In several studies, yes: adding lenvatinib to TACE has improved survival compared with either treatment used alone. The LAUNCH trial reported longer overall survival and higher response rates for the combination, and other reports show better tumour control than TACE by itself. The advantage looks largest when tumours are bulky or numerous but liver function is still good. Individual benefit varies with tumour burden, liver reserve, and previous treatments, so ask your oncologist.</p>"
+          },
+          {
+            "q": "What does TACE plus immunotherapy mean for liver cancer?",
+            "a": "<p>TACE plus immunotherapy pairs chemoembolisation with drugs that release the brakes on your immune system, such as PD-1 or PD-L1 antibodies, often alongside an anti-VEGF drug. Killing tumour cells with TACE spills tumour proteins into the bloodstream, which may help immune cells recognise the cancer. The EMERALD-1 trial showed longer progression-free survival with this approach. Availability and approval differ by country, so access depends on where you are treated.</p>"
+          },
+          {
+            "q": "Am I eligible for TACE with lenvatinib or immunotherapy?",
+            "a": "<p>Most candidates have intermediate-stage liver cancer that cannot be removed surgically, preserved liver function, usually Child-Pugh A or good B, and tumours still fed by the hepatic artery. Doctors also check blood counts, blood pressure, thyroid function, and whether the portal vein is blocked. Autoimmune disease or a transplant history can rule out immunotherapy. Eligibility is decided case by case, so bring recent scans and blood work to your consultation.</p>"
+          },
+          {
+            "q": "What side effects should I expect from these combinations?",
+            "a": "<p>Expect the side effects of both treatments together. TACE commonly causes post-embolisation syndrome: fever, nausea, and right-sided abdominal pain for a few days. Lenvatinib often raises blood pressure and can cause fatigue, diarrhoea, hand-foot skin reactions, appetite loss, and thyroid changes. Doses are frequently paused around each TACE session and restarted once you recover. Most effects are manageable when blood pressure and liver tests are checked regularly.</p>"
+          },
+          {
+            "q": "How much does TACE with lenvatinib or immunotherapy cost in India or China?",
+            "a": "<p>Costs vary widely, but India is usually the lower-priced option. A single TACE session there often runs about USD 2,000 to 3,500, with generic lenvatinib adding a few hundred dollars a month, while immunotherapy cycles cost more. Chinese hospitals price similarly or somewhat higher, and the total depends on how many sessions you need. Quotes change with hospital, drug brand, and complications, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need if I am also on lenvatinib or immunotherapy?",
+            "a": "<p>Most patients receive two to four TACE sessions, spaced roughly six to eight weeks apart, with scans between them. The tablet or immunotherapy usually continues throughout. If a scan shows the tumour is no longer responding after two or three sessions, doctors often stop repeating TACE rather than risk liver damage. The exact number depends on tumour response, liver function, and how well you tolerate each round.</p>"
+          },
+          {
+            "q": "Can these combinations shrink my tumour enough for surgery or a transplant?",
+            "a": "<p>Sometimes, yes. Combination therapy can shrink tumours enough for surgery, ablation, or transplant in a minority of patients, a process called downstaging. Reported conversion rates with TACE plus lenvatinib and an immunotherapy drug range from roughly 10 to 40 percent in selected groups. Success depends on tumour size, number, and vein involvement. CancerFax can help you share scans with liver surgeons abroad, but the decision rests with your treating team.</p>"
+          },
+          {
+            "q": "When do the drugs start compared with the TACE procedure itself?",
+            "a": "<p>Lenvatinib is often started one to two weeks before the first TACE session, paused for a few days around the procedure, then restarted once fever and pain settle. Immunotherapy is usually given within a week or two after TACE, while the immune system is still reacting to the dying tumour cells. Schedules differ between hospitals and trials, so follow the exact timing your oncology team gives you.</p>"
+          },
+          {
+            "q": "Should I choose TACE with lenvatinib or TACE with immunotherapy?",
+            "a": "<p>There is no single right answer, and the choice usually turns on your liver function, cost, and whether you can safely take immunotherapy. TACE plus lenvatinib is cheaper and well studied, especially in Asia. TACE plus immunotherapy may give deeper responses but needs infusions and careful monitoring for immune side effects. CancerFax can arrange a second opinion from a liver cancer specialist, though your treating oncologist should make the final call.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

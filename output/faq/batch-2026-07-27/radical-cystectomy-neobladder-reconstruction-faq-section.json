@@ -1,0 +1,59 @@
+{
+  "pillar": "Radical Cystectomy and Neobladder Reconstruction: Understanding Urinary Diversion",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "radical-cystectomy-neobladder-reconstruction",
+  "route": "/insights/radical-cystectomy-neobladder-reconstruction",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is a radical cystectomy?",
+            "a": "<p>A radical cystectomy removes the entire bladder along with nearby lymph nodes, and usually the prostate in men or the uterus, ovaries and part of the vagina in women. It is the standard operation for muscle-invasive bladder cancer, and for high-risk non-muscle-invasive disease that has not responded to BCG. Because the bladder is gone, your surgeon must also build a new route for urine to leave your body.</p>"
+          },
+          {
+            "q": "What are my choices for urinary diversion after my bladder is removed?",
+            "a": "<p>There are three main options. An ileal conduit drains urine continuously into a bag worn on the abdomen. A continent cutaneous pouch is emptied several times a day with a catheter through a small stoma. An orthotopic neobladder is a pouch built from your own bowel and joined to the urethra, so you pass urine the usual way. Your surgeon recommends one based on your tumour, kidney function and daily life.</p>"
+          },
+          {
+            "q": "Will I be able to pass urine normally with a neobladder?",
+            "a": "<p>Mostly yes, but the mechanics change. A neobladder has no muscle to squeeze it empty and no nerve to signal fullness, so you void by relaxing your pelvic floor and pressing gently on your abdomen, on a clock rather than on urge. Emptying every two to three hours is typical at first. Many people reach good daytime control within six to twelve months of steady pelvic floor training.</p>"
+          },
+          {
+            "q": "Am I a candidate for a neobladder?",
+            "a": "<p>A neobladder may suit you if the cancer does not involve your urethra or bladder neck, your kidney and liver function are adequate, and you can manage timed emptying and self-catheterisation if it becomes necessary. Previous pelvic radiation, inflammatory bowel disease, limited hand dexterity or significant frailty often push the decision toward an ileal conduit instead. Eligibility is confirmed by your surgical team after imaging and final pathology.</p>"
+          },
+          {
+            "q": "How long does recovery take?",
+            "a": "<p>Expect roughly five to ten days in hospital and six to twelve weeks before everyday activity feels close to normal, with heavy lifting held back for about three months. Neobladder continence follows a slower curve, improving over six to twelve months during the day and later still at night. Recovery time depends on your age, fitness before surgery and whether you received chemotherapy first.</p>"
+          },
+          {
+            "q": "Will I leak urine at night with a neobladder?",
+            "a": "<p>Night-time leakage is common early after surgery and can persist to some degree long term. The pouch keeps filling while you sleep and gives you no sensation to wake you, so most surgeons advise setting an alarm once or twice overnight to empty it.</p><p>Leakage often improves as the neobladder stretches and holds more volume. Using absorbent pads at night is a normal part of the first year for many patients.</p>"
+          },
+          {
+            "q": "Is a neobladder better than an ileal conduit?",
+            "a": "<p>Neither option is medically better. Studies show similar cancer outcomes and similar quality-of-life scores between the two. A neobladder avoids an external bag and lets you void through the urethra, but it demands timed emptying, possible self-catheterisation and a longer learning curve for continence. An ileal conduit is simpler, takes less operating time and needs fewer reoperations. The right choice depends on your anatomy and how you want to live.</p>"
+          },
+          {
+            "q": "Will this surgery affect my sex life?",
+            "a": "<p>It often does. In men, removing the prostate can damage the nerves that control erections, though nerve-sparing technique helps selected patients recover function over one to two years. In women, removing the uterus and part of the vaginal wall can shorten the vagina and cause dryness. Ask your surgeon before the operation whether nerve-sparing or vagina-sparing surgery is possible in your case, and what rehabilitation is available afterwards.</p>"
+          },
+          {
+            "q": "What does radical cystectomy with neobladder reconstruction cost in India?",
+            "a": "<p>Open or robotic radical cystectomy with neobladder reconstruction in India commonly falls between USD 8,000 and 15,000, covering surgery and the inpatient stay. The final figure depends on the hospital, the surgical approach, length of stay and whether complications occur. CancerFax can help you compare centres and request written estimates, though your treating oncology team should confirm the surgical plan and the costs before you commit to travel.</p>"
+          },
+          {
+            "q": "What complications should I watch for after surgery?",
+            "a": "<p>Contact your team promptly for fever, flank pain, cloudy or foul-smelling urine, a sudden drop in urine output, repeated vomiting, or a swollen tender abdomen. Urinary infection, dehydration, bowel obstruction and a build-up of acid in the blood are the usual problems after diversion surgery, and most respond well when caught early. Lifelong follow-up matters here, because kidney function and vitamin B12 levels need regular monitoring.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "India vs China for CAR-T: How to Decide Which Country Is Right for You",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "india-vs-china-for-car-t",
+  "route": "/insights/india-vs-china-for-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Should I go to India or China for CAR-T therapy?",
+            "a": "<p>Neither country is better for everyone. The right choice depends on your cancer type, your budget, and whether you need an approved commercial product or a clinical trial slot. China runs the largest number of CAR-T trials in the world, including many for myeloma and rarer targets. India offers approved commercial CAR-T at lower cost, with English-speaking care. Your treating haematologist should weigh your disease status before you commit to either country.</p>"
+          },
+          {
+            "q": "How much does CAR-T cost in India compared with China?",
+            "a": "<p>India's approved CAR-T therapies are usually the cheapest in the world, often quoted around 30 to 45 lakh rupees, roughly 35,000 to 55,000 US dollars. Chinese commercial CAR-T often lands higher, while trial-based treatment in China can be far cheaper because the product itself may be supplied free. Costs vary by hospital, and neither figure includes travel, visas, or the long hospital stay that CAR-T often needs.</p>"
+          },
+          {
+            "q": "Which country has more CAR-T clinical trials I could join?",
+            "a": "<p>China has far more, by a wide margin. It accounts for roughly half of all registered CAR-T trials worldwide, covering CD19, BCMA, and many experimental targets in solid tumours. India's trial landscape is smaller but growing at centres such as Tata Memorial and CMC Vellore. Enrolment is never guaranteed in either country, because each trial sets strict criteria on prior treatment, organ function, and disease status.</p>"
+          },
+          {
+            "q": "Can foreign patients actually get CAR-T in China?",
+            "a": "<p>Yes, international patients are treated at several Chinese centres, but access to trials is more restricted than access to commercial products. Some trials enrol only residents or require a local guarantor, while others accept overseas patients who travel in. You will usually need a medical visa, translated records, and an accepted pre-screening before you fly. Confirm in writing that a slot exists for you, since availability can change quickly.</p>"
+          },
+          {
+            "q": "Is Indian CAR-T as good as Chinese CAR-T?",
+            "a": "<p>Early results from India's approved CD19 product report response rates broadly in line with international CAR-T, though follow-up is shorter and patient numbers are smaller. Chinese products have longer published follow-up and more data in myeloma. Comparing across countries is difficult because trials enrol different patients. Ask each centre for its own outcome data in your specific disease rather than relying on headline numbers from elsewhere.</p>"
+          },
+          {
+            "q": "How long will I have to stay in the country?",
+            "a": "<p>Plan for two to three months in either country. Screening, cell collection, and manufacturing usually take three to six weeks, followed by chemotherapy, the infusion itself, and two to four weeks of close monitoring for cytokine release syndrome and neurological side effects. Most centres then want you nearby for another month. Delays in manufacturing are common, so book flexible travel and budget for a longer stay.</p>"
+          },
+          {
+            "q": "Which country is easier if I only speak English?",
+            "a": "<p>India is generally easier for English speakers. Doctors, nurses, and administrative staff at major Indian cancer centres work in English, and consent documents are usually available in English. In China, senior doctors often speak English but ward staff frequently do not, so most international patients hire a full-time medical interpreter. Budget for a dedicated interpreter in China, because misunderstanding side-effect instructions in the weeks after CAR-T can be dangerous.</p>"
+          },
+          {
+            "q": "What happens if I have problems after I go home?",
+            "a": "<p>Aftercare is the weakest point of treatment abroad, so arrange it before you travel. CAR-T can cause low blood counts, infections, and B-cell loss that need monitoring for months. Ask the overseas centre for a written discharge summary, the exact product details, and a named contact for your local haematologist. CancerFax can help pass records between the treating team abroad and your doctor at home.</p>"
+          },
+          {
+            "q": "Which country is better for multiple myeloma CAR-T?",
+            "a": "<p>China currently has the deeper option list for myeloma. It runs many BCMA and dual-target trials, and several Chinese-developed products have strong published results in heavily pre-treated patients. India has approved and trial BCMA programmes too, but fewer slots so far. Your prior therapies, especially previous BCMA treatment, often decide which trials will accept you, so a screening review should come before you book flights or accommodation.</p>"
+          },
+          {
+            "q": "How do I decide between the two without wasting months?",
+            "a": "<p>Start by sending your full medical records to two or three centres in each country and compare what comes back. Look at whether you are offered a commercial product or a trial, the quoted total cost, the waiting time for a manufacturing slot, and the aftercare plan. CancerFax can arrange these parallel reviews. Take every response to your own oncologist before you decide, since eligibility can change with your disease.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

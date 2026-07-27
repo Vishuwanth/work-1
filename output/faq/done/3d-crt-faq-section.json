@@ -1,0 +1,59 @@
+{
+  "pillar": "3D-CRT: Three-Dimensional Conformal Radiation Therapy — Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "3d-crt",
+  "route": "/treatments/3d-crt",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is 3D-CRT, and how is it different from older radiation treatment?",
+            "a": "<p>3D-CRT shapes the radiation beams to match the three-dimensional outline of your tumour, so more dose lands on the cancer and less on nearby healthy tissue. Planning starts from a CT scan of your body in the treatment position. Older two-dimensional radiation used simple rectangular fields based on X-ray landmarks. The conformal approach often allows a higher, more accurate dose with fewer side effects for many patients.</p>"
+          },
+          {
+            "q": "How long does a full course of 3D-CRT take?",
+            "a": "<p>Most courses run five days a week for four to seven weeks, though shorter schedules of one to three weeks are used in some situations. Each daily visit takes about fifteen to thirty minutes, and only a few minutes of that is the beam itself. The exact number of sessions depends on your cancer type, stage, and whether radiation is given to cure the disease or to relieve symptoms.</p>"
+          },
+          {
+            "q": "Does 3D-CRT hurt while it is being given?",
+            "a": "<p>No, the treatment itself is painless. You feel nothing while the beam is on, much as you feel nothing during an X-ray. The hardest part for most people is lying still in one position for ten to twenty minutes. Any discomfort tends to build up over the weeks as skin and nearby tissue react to the dose. Tell your radiation team early, because most of it can be managed.</p>"
+          },
+          {
+            "q": "Which cancers is 3D-CRT commonly used for?",
+            "a": "<p>3D-CRT is used across a wide range of solid tumours, including prostate, lung, breast, head and neck, oesophageal, rectal, and brain cancers, and for painful bone secondaries. It works well when the target is a fairly simple shape sitting away from delicate organs. Whether it suits your case depends on tumour location, any previous radiation, and what your imaging shows, so your radiation oncologist makes that call.</p>"
+          },
+          {
+            "q": "Is IMRT better than 3D-CRT for my cancer?",
+            "a": "<p>Not always. IMRT bends the dose around curved targets and can spare organs such as the parotid glands or the rectum, which matters in head and neck or prostate cancer. For simpler targets, 3D-CRT can give similar tumour control with shorter planning time and lower cost. The better choice depends on where your tumour sits and which healthy structures are close, so ask your oncologist to compare both plans.</p>"
+          },
+          {
+            "q": "What side effects should I expect from 3D-CRT?",
+            "a": "<p>Side effects are mostly limited to the area being treated. Tiredness is common, along with skin redness, dryness, or itching over the treated site. Chest treatment may cause a cough or pain on swallowing, and pelvic treatment may cause loose stools or urinary urgency. Most of these settle within a few weeks of finishing. A smaller number of late effects can appear months later, which is why follow-up visits matter.</p>"
+          },
+          {
+            "q": "How much does 3D-CRT cost in India or China?",
+            "a": "<p>A full course of 3D-CRT in India often falls between USD 2,000 and USD 5,000, and Chinese hospitals sit in a broadly similar band, well below typical Western prices. The final figure depends on the number of sessions, imaging, hospital tier, and any chemotherapy given alongside. CancerFax can help you request written cost estimates from treating centres, though only the hospital can confirm a price for your case.</p>"
+          },
+          {
+            "q": "What happens at the CT simulation before treatment starts?",
+            "a": "<p>Simulation is a planning appointment, not a treatment. You lie on a flat couch in the exact position you will hold each day, sometimes with a moulded headrest or body cushion, and a CT scan is taken. The team marks your skin with tiny permanent dots or a temporary ink line so the beams line up every time. It usually takes thirty to sixty minutes, and no treatment dose is delivered.</p>"
+          },
+          {
+            "q": "Can I keep working or travel home during a course of 3D-CRT?",
+            "a": "<p>Many patients continue light work and normal home life through treatment, especially in the early weeks. Daily attendance is the main constraint, so patients travelling from abroad usually stay near the hospital for the whole course rather than flying back and forth. Fatigue tends to build in the later weeks, so plan lighter days towards the end. CancerFax can help arrange accommodation close to the treating centre.</p>"
+          },
+          {
+            "q": "Am I radioactive after 3D-CRT? Is it safe to be near my children?",
+            "a": "<p>You are not radioactive after 3D-CRT, and it is safe to hug your children, share a bed, and eat together. External beam radiation passes through the body and leaves nothing behind once the machine switches off. This is different from brachytherapy or radioactive iodine, where a source is placed inside the body and short-term precautions may apply. Ask your team which type of radiation you are receiving.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

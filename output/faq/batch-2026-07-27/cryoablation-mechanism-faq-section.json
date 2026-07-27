@@ -1,0 +1,59 @@
+{
+  "pillar": "How Cryoablation Kills Tumour Cells: Ice Crystals, Cell Death, and Immune Activation",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-mechanism",
+  "route": "/insights/cryoablation-mechanism",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How does freezing actually kill my tumour?",
+            "a": "<p>Cryoablation kills tumour cells by freezing them to around minus 40°C, which destroys them both physically and chemically. A thin needle placed into the tumour creates a ball of ice that shreds cell membranes with ice crystals, dries the cells out, and cuts off their blood supply. Cells at the coldest core die within minutes, while cells nearer the edge often die more slowly over the following days.</p>"
+          },
+          {
+            "q": "What do the ice crystals do to cancer cells?",
+            "a": "<p>Ice crystals tear cancer cells apart from both inside and outside. Fast freezing forms crystals within the cell that rupture the membrane and the mitochondria, so the cell cannot recover. Slower freezing pulls water out of the cell first, leaving it shrunken and poisoned by concentrated salts. Both routes end in cell death, which is why the speed of freezing and the temperature reached both matter.</p>"
+          },
+          {
+            "q": "Why do doctors freeze the tumour twice instead of once?",
+            "a": "<p>A second freeze kills more tumour cells than a single freeze, because the first thaw leaves the tissue easier to freeze. Melting ice floods the damaged cells with water and blocks small blood vessels, so the next cycle pushes colder temperatures further and faster. Most protocols use two freeze-thaw cycles of roughly ten minutes each, though the exact timing depends on the size and site of the tumour.</p>"
+          },
+          {
+            "q": "Does the tumour die straight away, or does it take time?",
+            "a": "<p>Part of the tumour dies within minutes and the rest dies over the following days. Cells in the coldest centre of the ice ball are destroyed immediately by crystal damage. Cells in the outer zone survive the freeze itself, then die from blocked blood supply, swelling, and programmed cell death in the days afterwards. Scans usually reassess the treated area about one to three months later.</p>"
+          },
+          {
+            "q": "Can cryoablation make my immune system attack cancer elsewhere?",
+            "a": "<p>Cryoablation can wake up the immune system, though it does not do so reliably. Freezing leaves the dead tumour in place instead of removing it, so the body is exposed to intact tumour proteins that immune cells may learn to recognise. This can produce a response against cancer outside the treated area. It is uncommon on its own, so doctors often pair cryoablation with immunotherapy.</p>"
+          },
+          {
+            "q": "What is the abscopal effect, and can freezing cause it?",
+            "a": "<p>The abscopal effect is when treating one tumour causes untreated tumours elsewhere in the body to shrink. Cryoablation is one of the treatments reported to trigger it, because the frozen tumour can act like a natural vaccine that trains immune cells. The effect remains rare and unpredictable, and no one can promise it will happen. Trials combining cryoablation with checkpoint inhibitors are testing how to make it more common.</p>"
+          },
+          {
+            "q": "Why can cancer come back at the edge of the treated area?",
+            "a": "<p>Cancer can return at the edge because the outer rim of the ice ball may never get cold enough to kill every cell. Temperature rises steeply from the centre outward, and blood flowing through nearby vessels warms the surrounding tissue. Doctors counter this by extending the ice ball about a centimetre past the visible tumour. Recurrence risk still depends on tumour size, type, and position.</p>"
+          },
+          {
+            "q": "Does cryoablation hurt less than heat-based ablation?",
+            "a": "<p>Cryoablation is often less painful than heat-based ablation, because cold numbs the nerves as it works. Many patients need only sedation and local anaesthetic rather than general anaesthesia, and discomfort afterwards tends to be milder. The ice ball also shows up clearly on CT and MRI, so the doctor can watch its edges in real time. Comfort still varies with the tumour site and your general health.</p>"
+          },
+          {
+            "q": "Is cryoablation better than radiofrequency ablation for my cancer?",
+            "a": "<p>Neither is better overall, and the right choice depends on where the tumour sits and what lies next to it. Cryoablation is often preferred near nerves, skin, or the chest wall, because the ice ball stays visible during the procedure and causes less pain. Heat-based ablation may suit small liver tumours and can seal bleeding as it treats. Your interventional radiologist and oncologist should weigh this together.</p>"
+          },
+          {
+            "q": "How do I find out whether cryoablation is an option for me?",
+            "a": "<p>Ask an interventional radiologist to review your scans, since eligibility depends on tumour size, tumour number, and how close the tumour lies to bowel, nerves, or major blood vessels. Tumours under roughly three to four centimetres are often the best candidates. Services such as CancerFax can help you gather scans and reports for review by centres in India and China, but your treating oncology team makes the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

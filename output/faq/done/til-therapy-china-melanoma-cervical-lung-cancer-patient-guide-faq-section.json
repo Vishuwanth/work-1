@@ -1,0 +1,59 @@
+{
+  "pillar": "TIL Therapy in China for Melanoma, Cervical and Lung Cancer: A Patient Guide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "til-therapy-china-melanoma-cervical-lung-cancer-patient-guide",
+  "route": "/guides/til-therapy-china-melanoma-cervical-lung-cancer-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TIL therapy, in plain terms?",
+            "a": "<p>TIL therapy uses your own tumour-fighting immune cells, grown into the billions in a lab, then infused back to attack the cancer. Surgeons remove a small piece of your tumour, technicians isolate the tumour-infiltrating lymphocytes already inside it, and expand them over roughly three to five weeks. You then receive chemotherapy to make room for the cells, followed by the single infusion and a short course of interleukin-2.</p>"
+          },
+          {
+            "q": "Is TIL therapy actually available in China, or only in trials?",
+            "a": "<p>TIL therapy in China is mainly available through clinical trials at large cancer centres, though the first domestic products are moving toward approval. Hospitals in Beijing, Shanghai, Guangzhou and Hangzhou run TIL studies in melanoma, cervical and lung cancer. Access depends on open trial slots, your tumour type and your prior treatments, so availability can change month to month and needs checking directly with the centre.</p>"
+          },
+          {
+            "q": "Does TIL therapy work for melanoma?",
+            "a": "<p>Melanoma is where TIL therapy has the strongest evidence. Across international studies, roughly a third to half of patients whose disease progressed on immunotherapy see their tumours shrink, and a smaller group stays in remission for years. Chinese trials report broadly similar early response rates. Results depend on how much disease you carry, your organ function, and whether enough live cells can be grown from your tumour sample.</p>"
+          },
+          {
+            "q": "Can TIL therapy help advanced cervical cancer?",
+            "a": "<p>Yes, cervical cancer is one of the tumour types where TIL therapy has shown real activity, particularly HPV-driven disease that has returned after chemotherapy and checkpoint drugs. Reported response rates in early trials sit around a quarter to a third of treated patients, with some remissions lasting well over a year. These numbers come from small studies, so your own likely benefit can only be judged by the treating oncology team.</p>"
+          },
+          {
+            "q": "What about lung cancer — is TIL therapy an option for me?",
+            "a": "<p>For non-small cell lung cancer, TIL therapy is still investigational, and it is usually considered only after targeted therapy and checkpoint inhibitors stop working. Chinese centres are testing TIL alone and combined with PD-1 antibodies, with early trials showing tumour shrinkage in a minority of patients. Eligibility often needs a tumour lesion that can be safely removed for cell harvesting, which rules some patients out.</p>"
+          },
+          {
+            "q": "How much does TIL therapy cost in China?",
+            "a": "<p>Expect roughly US$60,000 to US$150,000 for TIL therapy in China when it is delivered outside a trial, covering tumour surgery, cell manufacturing, lymphodepleting chemotherapy, the infusion and inpatient care. Joining a trial can reduce or remove the cell-production cost. Quotes vary widely between hospitals and can rise if you need intensive care, so ask for an itemised written estimate before you travel.</p>"
+          },
+          {
+            "q": "Who is eligible for TIL therapy?",
+            "a": "<p>Most TIL programmes look for patients with advanced solid tumours who have already tried standard treatment, have a lesion that can be surgically removed, reasonable heart, lung, liver and kidney function, and the strength to tolerate chemotherapy and interleukin-2. Active brain metastases or severe autoimmune disease often exclude you. Final eligibility is decided by the hospital team after reviewing your scans, pathology and blood work.</p>"
+          },
+          {
+            "q": "What side effects should I prepare for?",
+            "a": "<p>The hardest side effects usually come from the chemotherapy and interleukin-2 rather than the cells themselves: low blood counts, infection risk, fever, chills, low blood pressure, fluid retention, and short-lived kidney or breathing problems. Most patients spend two to four weeks in hospital under close monitoring, sometimes in intensive care. Serious events can occur, and recovery time differs a great deal from person to person.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for the whole treatment?",
+            "a": "<p>Plan for eight to twelve weeks in China for a full TIL course. Assessment and tumour surgery take one to two weeks, cell manufacturing another three to five, then admission for chemotherapy, infusion and recovery adds three to four more. Delays happen if the cells grow slowly or your blood counts recover late. CancerFax can help you map the timeline and visa needs with the hospital beforehand.</p>"
+          },
+          {
+            "q": "How do I start, and can I get an opinion before I travel?",
+            "a": "<p>Send your recent scans, pathology report and full treatment history to the centre you are considering, and ask specifically whether a TIL trial is open for your tumour type. A remote review usually takes a few days. CancerFax can route those records to Chinese centres for comparison, but the final decision should rest with your own oncologist, who knows your case in full.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

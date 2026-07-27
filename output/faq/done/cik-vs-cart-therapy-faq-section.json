@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK vs CAR-T: Understanding the Differences for Cancer Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-vs-cart-therapy",
+  "route": "/insights/cik-vs-cart-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What's the main difference between CIK therapy and CAR-T therapy?",
+            "a": "<p>CIK therapy uses your own immune cells expanded in a laboratory without any genetic change, while CAR-T therapy genetically reprograms your T cells to recognise one specific target on cancer cells. That makes CAR-T far more targeted and, for certain blood cancers, far more powerful. CIK acts more broadly but is generally milder. Which one may suit you depends on your cancer type, prior treatment, and specialist review.</p>"
+          },
+          {
+            "q": "What is CIK cell therapy?",
+            "a": "<p>CIK stands for cytokine-induced killer cells — immune cells taken from your blood, grown and activated in a laboratory over roughly two to three weeks, then infused back. They can attack tumour cells without needing to match one specific antigen, so they have been tried across several cancer types. Evidence is strongest for CIK as a supportive therapy alongside surgery, chemotherapy, or radiotherapy rather than as a treatment used on its own.</p>"
+          },
+          {
+            "q": "How does CAR-T therapy work?",
+            "a": "<p>CAR-T therapy collects your T cells, adds a chimeric antigen receptor gene in a laboratory so the cells can lock onto a marker such as CD19 or BCMA, then infuses millions of them back after a short course of preparatory chemotherapy. The engineered cells multiply inside the body and can keep working for months. The full process usually takes about three to six weeks from cell collection to infusion.</p>"
+          },
+          {
+            "q": "Which is better for my cancer, CIK or CAR-T?",
+            "a": "<p>For relapsed B-cell lymphoma, B-cell leukaemia, and multiple myeloma, approved CAR-T therapies have produced much higher and more durable response rates than CIK. For solid tumours neither is standard care, and CIK is more often used as an add-on to conventional treatment. The right choice depends on your diagnosis, antigen expression, previous therapy, and organ function, and should be decided with your treating oncology team.</p>"
+          },
+          {
+            "q": "Does CIK therapy work for solid tumours like liver or lung cancer?",
+            "a": "<p>CIK cells have been studied most in solid tumours, particularly liver, gastric, and lung cancer, usually given after surgery or chemotherapy to lower the chance of recurrence. Some trials report modest gains in disease-free survival, but results vary and CIK is not approved as a primary treatment in most countries. Any benefit depends on tumour type, stage, and how much disease remains after standard therapy.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T compared with CIK therapy?",
+            "a": "<p>CAR-T carries a real risk of cytokine release syndrome and neurological side effects, which can be severe and need care in a hospital equipped to manage them. CIK therapy is usually much milder, with fever, chills, and fatigue being the common complaints. Both need close monitoring, and your personal risk depends on disease burden, the product used, and your general health before treatment starts.</p>"
+          },
+          {
+            "q": "How much do CIK and CAR-T therapy cost in India and China?",
+            "a": "<p>CIK therapy is far cheaper, often quoted at a few thousand US dollars per treatment course, while CAR-T in India and China is typically estimated between roughly 30,000 and 100,000 US dollars depending on the product and centre. These figures are estimates only. Final cost depends on the hospital, diagnostics, length of stay, and how any side effects have to be managed.</p>"
+          },
+          {
+            "q": "Which countries offer CIK and CAR-T therapy?",
+            "a": "<p>China offers both widely, with CIK available in many hospitals and a large number of approved and trial CAR-T products. India now has approved CAR-T therapies at several major centres, alongside academic trials. Japan, South Korea, and parts of Europe also run programmes. CancerFax can help you identify centres and trials that match your diagnosis, though acceptance is always decided by the treating hospital.</p>"
+          },
+          {
+            "q": "Can I have CAR-T if CIK therapy didn't work?",
+            "a": "<p>In many cases yes — previous CIK therapy does not usually rule out CAR-T, because CIK uses unmodified cells and rarely damages the T cells needed to manufacture a CAR-T product. What matters more is how much chemotherapy you have already had, your lymphocyte count, and your organ function. Eligibility can only be confirmed after a cellular therapy specialist reviews your full medical reports.</p>"
+          },
+          {
+            "q": "How do I decide between CIK and CAR-T therapy?",
+            "a": "<p>Start by confirming whether your cancer carries a validated CAR-T target, because that single fact usually settles the question — if it does, CAR-T is generally the stronger option; if it does not, CIK may be considered as supportive therapy. Gather your pathology, biomarker, and treatment history first. CancerFax can help organise these reports and shortlist relevant specialists alongside your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

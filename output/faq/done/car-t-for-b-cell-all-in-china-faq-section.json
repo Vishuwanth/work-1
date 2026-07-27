@@ -1,0 +1,59 @@
+{
+  "pillar": "CAR-T for Relapsed/Refractory B-Cell ALL in China: Eligibility, Outcomes, and Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-for-b-cell-all-in-china",
+  "route": "/insights/car-t-for-b-cell-all-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can I get CAR-T in China if my B-cell ALL has already relapsed?",
+            "a": "<p>Yes. China runs one of the largest CAR-T programmes in the world for relapsed or refractory B-cell ALL, through both approved commercial products and hospital-run clinical trials. Most centres accept international patients who have relapsed after chemotherapy, relapsed after a transplant, or never responded at all. Eligibility depends on your disease burden, organ function, and CD19 status, so the treating haematology team makes the final call after reviewing your records.</p>"
+          },
+          {
+            "q": "What are the chances CAR-T will put my leukaemia into remission?",
+            "a": "<p>Around 80–90% of patients with relapsed or refractory B-cell ALL reach complete remission within a month of CD19 CAR-T infusion, and Chinese centres report figures in that range. Remission is not the same as cure: roughly half of responders relapse within one to two years, which is why many teams plan a stem cell transplant afterwards. Your own odds depend on prior treatments and tumour burden.</p>"
+          },
+          {
+            "q": "How much does CAR-T cost in China?",
+            "a": "<p>CD19 CAR-T in China typically costs between US$60,000 and US$150,000 for the cell product, with commercially approved products at the higher end and trial-based therapy sometimes free or heavily subsidised. Budget separately for the hospital stay, bridging chemotherapy, intensive care cover for side effects, and several weeks of accommodation. Quotes vary by hospital and by how your case goes, so treat any figure as an estimate.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for the whole treatment?",
+            "a": "<p>Plan for two to three months in China. Expect around two weeks of assessment and cell collection, two to four weeks while your cells are manufactured, then lymphodepleting chemotherapy and the infusion, followed by two to four weeks of close hospital monitoring. Most teams ask patients to stay nearby for a few weeks after discharge, so build in extra time before booking return flights.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the infusion?",
+            "a": "<p>The two main risks are cytokine release syndrome and neurotoxicity, and both usually appear within the first two weeks. Cytokine release syndrome brings high fever, low blood pressure, and breathlessness; neurotoxicity can cause confusion, tremor, or difficulty speaking. Most cases are mild to moderate and reverse with tocilizumab and steroids, but severe episodes need intensive care. Low blood counts and infection risk can persist for weeks afterwards.</p>"
+          },
+          {
+            "q": "Will I still need a stem cell transplant after CAR-T?",
+            "a": "<p>Often yes, especially in China, where many centres treat CD19 CAR-T as a bridge to allogeneic transplant rather than a final treatment. Consolidating with a transplant while you are in deep remission can lower the chance of relapse, particularly in adults and in patients who lose their CAR-T cells early. The decision depends on your age, donor availability, and how deep the remission is on residual disease testing.</p>"
+          },
+          {
+            "q": "What happens if my leukaemia comes back after CAR-T?",
+            "a": "<p>Relapse after CD19 CAR-T is usually treated in one of three ways: a second CAR-T infusion, a different target such as CD22, or a dual CD19/CD22 product. Chinese centres run many CD22 and dual-target trials, which is one reason patients travel there after failing CD19 therapy elsewhere. Whether you qualify depends on which antigen your leukaemia still carries, so a fresh biopsy is usually required.</p>"
+          },
+          {
+            "q": "Is my child eligible, or is this only for adults?",
+            "a": "<p>Both children and adults with relapsed or refractory B-cell ALL are treated with CAR-T in China, and paediatric outcomes are generally the strongest in the field. Children often reach complete remission at rates above 90% and tolerate the infusion well. Weight-based cell dosing means very young children can be treated, though each hospital sets its own minimum age and weight, so check directly with the centre you are considering.</p>"
+          },
+          {
+            "q": "How do I get my records reviewed by a Chinese hospital before I travel?",
+            "a": "<p>Most Chinese CAR-T centres review a written case summary before offering a slot, typically bone marrow reports, flow cytometry showing CD19 and CD22 status, cytogenetics, recent blood counts, and a summary of every prior treatment. Reviews usually take one to two weeks. Services such as CancerFax help families assemble and forward these records, but the hospital's haematology team decides eligibility, and your current oncologist should stay involved throughout.</p>"
+          },
+          {
+            "q": "Is CAR-T in China safe and properly regulated?",
+            "a": "<p>China's National Medical Products Administration has approved several CD19 CAR-T products, and treatment at approved centres follows manufacturing and safety standards comparable to those in Europe and the United States. Many patients are instead treated on registered clinical trials, which carry ethics approval but less predictable oversight. Ask any hospital whether your treatment is a licensed product or a trial, and get the answer in writing.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

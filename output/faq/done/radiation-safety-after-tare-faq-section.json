@@ -1,0 +1,59 @@
+{
+  "pillar": "Radiation Safety After TARE: What Patients and Families Need to Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "radiation-safety-after-tare",
+  "route": "/insights/radiation-safety-after-tare",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Am I radioactive after TARE, and is anyone around me at risk?",
+            "a": "<p>You carry a small amount of radiation after TARE, but the risk to people around you is very low. The yttrium-90 microspheres lodge permanently in the liver tumour and emit beta radiation that travels only a few millimetres through tissue, so almost none escapes your body. Most centres allow normal contact straight away, though your team may set short precautions for the first few days.</p>"
+          },
+          {
+            "q": "How long does the radiation last in my body?",
+            "a": "<p>Most of the radiation is gone within about two weeks. Yttrium-90 has a half-life of roughly 64 hours, so it loses half its activity every two and a half days and around 94 percent within eleven days. The microspheres themselves stay in the liver permanently, but they become inert once the yttrium has decayed. Your team can tell you the exact date your precautions end.</p>"
+          },
+          {
+            "q": "Can I hug my children or grandchildren after treatment?",
+            "a": "<p>Yes, hugging and holding children is generally safe after TARE. Because the radiation travels only a few millimetres, ordinary contact delivers a negligible dose. Many centres still suggest keeping young children and babies off your lap for prolonged periods during the first few days, mainly as a precaution. Ask your interventional radiologist for the exact advice at your hospital, as guidance varies between countries and treatment centres.</p>"
+          },
+          {
+            "q": "Can I sleep in the same bed as my partner?",
+            "a": "<p>Sharing a bed is usually allowed after the first night or two. Some centres advise sleeping separately for two to seven days as a conservative measure, especially if your partner is pregnant. Sexual activity is often restricted for about a week, and condoms may be recommended. These rules differ by hospital and by the dose you received, so follow the written discharge instructions you were given.</p>"
+          },
+          {
+            "q": "Do I need to use a separate toilet or take special care in the bathroom?",
+            "a": "<p>You do not usually need a separate toilet, but simple hygiene helps for the first week. Very little yttrium-90 leaves the body, though small amounts can appear in urine and stool soon after treatment. Sit down to urinate, flush twice, wash your hands well, and clean any spills. Wash soiled clothing or linen separately for a few days, and follow any extra instructions your centre gives.</p>"
+          },
+          {
+            "q": "When can I go back to work after TARE?",
+            "a": "<p>Most people return to work within one to two weeks, limited by fatigue rather than by radiation. Post-embolisation symptoms such as tiredness, mild fever, nausea and right-sided abdominal ache often last several days. You pose no meaningful radiation risk to colleagues. If you work closely with pregnant women or young children, mention it to your oncology team, as they may suggest a short delay.</p>"
+          },
+          {
+            "q": "Will I set off radiation detectors at airports or borders?",
+            "a": "<p>You can trigger sensitive radiation detectors for several weeks after TARE, even when you feel completely normal. Airport, seaport and government-building monitors are far more sensitive than any safety threshold. Ask your treating hospital for a signed treatment card stating the isotope, the dose and the date, and carry it with your passport. CancerFax can help patients travelling home after treatment abroad request this documentation before discharge.</p>"
+          },
+          {
+            "q": "Is it safe to share meals, dishes and laundry with my family?",
+            "a": "<p>Yes, you can eat with your family and use the same crockery and cutlery. Yttrium-90 microspheres stay inside your liver and are not passed on through saliva, sweat or shared utensils. Washing dishes and clothes normally is enough for most patients. Some centres ask you to wash bedding and underwear separately for the first few days, which is a precaution rather than a sign of real risk.</p>"
+          },
+          {
+            "q": "What precautions apply around pregnant women, babies and pets?",
+            "a": "<p>Keep close, prolonged contact with pregnant women and infants to a minimum for the first week. Brief contact such as talking, a short hug or passing something over carries no meaningful risk, but foetal tissue is more radiation-sensitive, so caution costs nothing. Pets need no special handling. If you live with a pregnant partner or are breastfeeding, tell your medical team before treatment so they can plan safely.</p>"
+          },
+          {
+            "q": "What symptoms after TARE should make me call my doctor?",
+            "a": "<p>Call your team urgently for a fever above 38°C, severe or worsening abdominal pain, persistent vomiting, black stools, or yellowing of the eyes and skin. These can signal infection, ulceration or liver stress rather than a radiation problem. Mild fatigue, low-grade fever and appetite loss for a week or two are expected.</p><p>Patients treated abroad can ask CancerFax to relay reports back to the treating centre if symptoms appear after they return home.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

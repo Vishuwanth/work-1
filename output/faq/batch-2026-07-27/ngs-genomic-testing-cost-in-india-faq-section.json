@@ -1,0 +1,59 @@
+{
+  "pillar": "NGS and Genomic Testing Cost in India for International Cancer Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "ngs-genomic-testing-cost-in-india",
+  "route": "/guides/ngs-genomic-testing-cost-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does NGS testing cost in India?",
+            "a": "<p>A comprehensive NGS cancer panel in India usually costs between USD 600 and USD 1,500, while smaller hotspot panels can start near USD 250. Whole exome sequencing often runs USD 900 to USD 2,000. The price depends on the lab, the number of genes covered, and whether tissue or blood is tested. Quotes vary, so ask the hospital for a written estimate before you book.</p>"
+          },
+          {
+            "q": "Why is genomic testing so much cheaper in India than at home?",
+            "a": "<p>Indian labs charge less mainly because sequencing is run locally at high volume, and staffing, facility, and reporting costs are far lower than in the US, UK, or Gulf countries. The platforms and chemistry are often the same ones used worldwide. The saving is commonly 60 to 80 percent, though the exact gap depends on the panel you choose and the country you compare against.</p>"
+          },
+          {
+            "q": "What is the difference between a small panel and a large NGS panel?",
+            "a": "<p>A small panel reads a handful of genes tied to one cancer type, while a large panel reads 300 to 500 genes and may flag targets across many cancers. Small panels cost less and report faster, often within a week. Large panels cost more but can reveal drug options or trial matches a narrow test would miss. Your oncologist can advise which size suits your diagnosis and stage.</p>"
+          },
+          {
+            "q": "How long does it take to get my NGS report in India?",
+            "a": "<p>Most Indian labs release NGS reports 7 to 14 working days after the sample reaches them. Focused hotspot panels can come back in 4 to 6 days, while whole exome or RNA fusion studies may take up to three weeks. Shipping a block from abroad adds time and customs paperwork. Ask the lab to confirm turnaround in writing, since poor tissue quality often causes delays.</p>"
+          },
+          {
+            "q": "Can I send my tumour block from my home country to an Indian lab?",
+            "a": "<p>Yes, most Indian genomic labs accept formalin-fixed paraffin blocks or unstained slides shipped from abroad, and many help arrange courier and customs documents. The block should usually be less than three years old and hold enough tumour tissue for extraction. Some countries restrict export of human samples, so check local rules first. If the block fails quality checks, a repeat biopsy may be needed.</p>"
+          },
+          {
+            "q": "Does the price include a doctor explaining my report?",
+            "a": "<p>Often it does not. Many Indian labs quote only the sequencing and the written report, while the molecular tumour board discussion and oncologist consultation are billed separately, commonly USD 40 to USD 100 per visit. Ask whether interpretation is bundled before you pay. CancerFax can help you collect quotes and pass the report to the treating hospital, but all treatment decisions stay with your oncology team.</p>"
+          },
+          {
+            "q": "Will genomic testing find a targeted drug for my cancer?",
+            "a": "<p>Not for everyone. Across solid tumours, roughly 30 to 50 percent of patients tested show a change that matches an approved or investigational drug, and the rate is often higher in lung, breast, colorectal, and some blood cancers. A report with no actionable finding still helps by ruling out drugs unlikely to work. Access to any matched drug depends on approvals and supply in your country.</p>"
+          },
+          {
+            "q": "Is liquid biopsy cheaper than tissue NGS in India?",
+            "a": "<p>Liquid biopsy usually costs a little more, around USD 700 to USD 1,800, because circulating tumour DNA is present in tiny amounts and needs deeper sequencing. It is generally chosen when tissue cannot be safely biopsied or the block is exhausted, not to save money. Sensitivity can be lower in early-stage disease, so a negative result may need confirmation with tissue testing where possible.</p>"
+          },
+          {
+            "q": "Do I need to travel to India for the test?",
+            "a": "<p>No. Sequencing can be done on a shipped tissue block or blood sample while you stay home, and the report can be emailed for review with your local oncologist. Travel becomes relevant only if you decide to have treatment in India or need a fresh biopsy. Many patients test first, then decide about travel once results and the cost of matched treatment are clear.</p>"
+          },
+          {
+            "q": "How do I know the Indian lab I choose is reliable?",
+            "a": "<p>Look for NABL accreditation and, ideally, CAP certification, plus a published list of genes covered and the sequencing depth used. Ask how many cases of your cancer type the lab reports each year, and whether a molecular tumour board reviews findings. Reports written to international guidelines are easier for your home oncologist to act on. A hospital referral is often safer than choosing a lab from an advertisement.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

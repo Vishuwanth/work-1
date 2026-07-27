@@ -1,0 +1,59 @@
+{
+  "pillar": "Personalized multi-targeted AI driven TCR-T Cell therapy to treat solid tumours",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "ai-driven-tcr-t-cell-therapy",
+  "route": "/insights/ai-driven-tcr-t-cell-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is personalised multi-targeted TCR-T cell therapy in plain language?",
+            "a": "<p>It re-engineers your own T cells to recognise several tumour targets at once, with AI choosing which targets to aim at. Your tumour is sequenced, algorithms rank the abnormal proteins your immune system can realistically see, and matching T-cell receptors are engineered into your cells. The cells are multiplied in a lab and infused back. Access is limited and depends on your tumour's genetic profile and the treating centre.</p>"
+          },
+          {
+            "q": "How is TCR-T therapy different from CAR-T for solid tumours?",
+            "a": "<p>TCR-T cells can see targets hidden inside the cancer cell, while CAR-T cells only recognise proteins on the surface. That difference matters in solid tumours, where useful surface markers are rare. TCR-T reads fragments presented by HLA molecules, so it reaches a much wider set of targets. The trade-off is that your HLA type must match the receptor being used, which narrows who can be treated.</p>"
+          },
+          {
+            "q": "What does the AI actually do in this treatment?",
+            "a": "<p>AI is used to choose the targets, not to treat you. Software scans the mutations found in your tumour, predicts which mutated fragments your particular HLA type will display on the cell surface, and ranks them by how strongly a T cell may respond. Human specialists review that shortlist before anything is manufactured. The approach can shorten target selection considerably, but the final treatment decision always rests with your oncology team.</p>"
+          },
+          {
+            "q": "Why does hitting several targets matter for a solid tumour?",
+            "a": "<p>Targeting several tumour antigens at once makes it harder for the cancer to escape. Solid tumours are mixed populations of cells, and hitting a single target often leaves behind the cells that never carried it, which then regrow. A multi-targeted product carries receptors against two or more antigens in the same infusion. Evidence in solid tumours is still early, so response rates vary widely between patients and tumour types.</p>"
+          },
+          {
+            "q": "Which cancers is TCR-T cell therapy being used for?",
+            "a": "<p>Trials so far have focused on lung, liver, cervical, head and neck, oesophageal, pancreatic and ovarian cancers, synovial sarcoma and melanoma. These tumours tend to carry the viral or mutated proteins that current receptors recognise. Whether your specific cancer qualifies depends on the antigens found in your biopsy, not on the organ alone. A centre will usually test the tumour tissue before saying if the therapy may apply to you.</p>"
+          },
+          {
+            "q": "Would I even qualify for TCR-T cell therapy?",
+            "a": "<p>Eligibility usually needs three things: a tumour carrying a target antigen, an HLA type matching the receptor, and organ function strong enough for lymphodepleting chemotherapy. Most programmes accept patients whose cancer has progressed after standard treatment. Fresh or archived tumour tissue and a blood sample are normally requested first, and services such as CancerFax can forward those records to a centre for review alongside your own oncologist. Screening still rules many people out.</p>"
+          },
+          {
+            "q": "How long does the whole process take from tests to infusion?",
+            "a": "<p>Expect roughly four to ten weeks from tissue submission to infusion. Sequencing and AI target selection take one to two weeks, receptor design and cell manufacturing take another three to six, and quality testing adds more time. You then have a few days of lymphodepleting chemotherapy before the cells go in, followed by two to four weeks of close monitoring. Timelines can slip if manufacturing has to be repeated.</p>"
+          },
+          {
+            "q": "What side effects should I expect from TCR-T cell therapy?",
+            "a": "<p>The main risks are cytokine release syndrome, low blood counts after lymphodepletion, and damage to healthy tissue that shares the target protein. Cytokine release usually appears within the first week as fever, low blood pressure or breathlessness, and is treated with tocilizumab and steroids. Nerve-related confusion is less common with TCR-T than CAR-T. Off-target injury to the heart or skin has occurred in trials, which is why target selection is reviewed so carefully.</p>"
+          },
+          {
+            "q": "Is this therapy approved, or is it only available in trials?",
+            "a": "<p>Most personalised multi-targeted TCR-T therapies are still investigational and are given inside clinical trials or hospital-approved compassionate-use programmes. One TCR-T product, afamitresgene autoleucel for synovial sarcoma, is approved in the United States, but AI-designed multi-target versions are not routine care anywhere yet. Trial slots are limited and can close without notice, so ask any centre, or a coordinator such as CancerFax, in writing whether your treatment is a registered trial or expanded access.</p>"
+          },
+          {
+            "q": "How much does personalised TCR-T cell therapy cost?",
+            "a": "<p>Costs commonly run from about US$60,000 to US$150,000 in China and India, and considerably higher in the United States or Europe. The figure usually covers sequencing, manufacturing, the infusion and inpatient monitoring, but scans, extended hospital stays and complication management are often billed separately. Trial participation may reduce or remove the manufacturing cost. Ask for a written estimate before travelling, as quoted prices change with the number of targets used.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

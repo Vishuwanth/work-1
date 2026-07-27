@@ -1,0 +1,59 @@
+{
+  "pillar": "Tumor Treating Fields (TTFields) Therapy",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tumor-treating-fields-therapy",
+  "route": "/treatments/tumor-treating-fields-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Tumor Treating Fields (TTFields) therapy?",
+            "a": "<p>TTFields therapy uses low-intensity alternating electric fields, delivered through adhesive patches worn on the skin, to disrupt cancer cells while they are dividing. The fields interfere with the structures a cell needs to split, so tumour growth may slow and some cells die. It is a device-based treatment rather than a drug, and it is worn at home instead of given as hospital infusions.</p>"
+          },
+          {
+            "q": "Which cancers is TTFields approved for?",
+            "a": "<p>TTFields is approved for newly diagnosed and recurrent glioblastoma, for malignant pleural mesothelioma, and more recently for some advanced non-small cell lung cancers. Approvals differ by country, so a therapy licensed in the United States or Europe may not yet be registered where you live. Your oncology team can confirm what is approved, available, and reimbursable locally before you plan treatment or travel.</p>"
+          },
+          {
+            "q": "How much does TTFields improve survival in glioblastoma?",
+            "a": "<p>In the main glioblastoma trial, adding TTFields to standard chemotherapy raised median survival from about 16 months to roughly 21 months, and five-year survival from 5% to 13%. These are averages across a trial population, not a promise for any one patient. Benefit depended heavily on how many hours a day the device was actually worn, and individual results can vary widely.</p>"
+          },
+          {
+            "q": "How many hours a day do I have to wear the device?",
+            "a": "<p>Aim for at least 18 hours a day, which works out to about 75% of the time. Trial data showed that patients who wore the device longer often lived longer, so consistency matters more than almost anything else in this treatment. You can unplug briefly to shower or change patches, and the portable battery lets you move around, sleep, and travel while treatment continues.</p>"
+          },
+          {
+            "q": "Do I have to shave my head for TTFields?",
+            "a": "<p>Yes. If you are being treated for a brain tumour, the scalp must stay shaved so the patches can make proper contact with the skin. Most people shave every three to four days, usually when the patch set is changed, which is roughly twice a week. A caregiver can do this at home. For chest treatment, only trimming of body hair is needed.</p>"
+          },
+          {
+            "q": "What are the side effects of TTFields?",
+            "a": "<p>The most common side effect is skin irritation under the patches: redness, itching, and sometimes small sores or infection. This affects a large share of users but can usually be managed with careful patch rotation, prescribed creams, and short breaks agreed with your team. Because the fields act locally, TTFields does not add the nausea, blood count drops, or body-wide hair loss that chemotherapy causes.</p>"
+          },
+          {
+            "q": "Can I use TTFields along with chemotherapy or radiation?",
+            "a": "<p>Yes. TTFields is designed to be added to standard treatment rather than replace it, and in glioblastoma it is usually started after radiation finishes, alongside temozolomide chemotherapy. Because it does not circulate through the body, it generally does not worsen chemotherapy side effects. Your oncology team decides the exact sequencing based on your surgery, radiation schedule, and how well you have recovered.</p>"
+          },
+          {
+            "q": "Can I work, sleep, and travel while wearing it?",
+            "a": "<p>Most people continue working, driving, sleeping, and travelling while on TTFields. The device weighs a little over a kilogram and is carried in a shoulder bag or backpack, running on swappable batteries or mains power. Airport security and long flights are usually manageable with a letter from your doctor. For many patients, the visible patches and shaved head are the harder adjustment.</p>"
+          },
+          {
+            "q": "How much does TTFields cost and can I get it in India or China?",
+            "a": "<p>TTFields is expensive, usually billed as a monthly rental running into thousands of dollars, and coverage varies enormously between insurers and countries. Availability outside the United States, Europe, Japan, and China is patchy, and the device is not widely distributed in India. CancerFax can help you check where the therapy is currently offered and what a realistic monthly cost may look like, though pricing and access can change.</p>"
+          },
+          {
+            "q": "Who is not eligible for TTFields therapy?",
+            "a": "<p>TTFields is generally not used if you have an implanted electronic device such as a pacemaker or programmable shunt, a skull defect, or an active scalp infection. Eligibility also depends on your tumour type, how well you are functioning day to day, and whether you can manage the device at home. Ask your treating oncologist to review your scans and implants before assuming you can start.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

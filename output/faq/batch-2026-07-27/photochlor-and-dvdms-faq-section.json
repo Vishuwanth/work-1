@@ -1,0 +1,59 @@
+{
+  "pillar": "Photochlor and DVDMS: China's Domestically Developed Photosensitisers",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "photochlor-and-dvdms",
+  "route": "/insights/photochlor-and-dvdms",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are Photochlor and DVDMS, and how do they work?",
+            "a": "<p>Photochlor (HPPH) and DVDMS (sinoporphyrin sodium) are photosensitising drugs used in photodynamic therapy. You receive the drug, it gathers in tumour tissue, and a doctor then shines a specific wavelength of laser light on the tumour. The drug reacts to that light and produces reactive oxygen that kills cancer cells nearby. DVDMS was developed in China; Photochlor has been advanced through both Chinese and American research groups.</p>"
+          },
+          {
+            "q": "Is DVDMS better than older photosensitisers like Photofrin?",
+            "a": "<p>DVDMS may offer real advantages, but it has not replaced older drugs in routine care. Early clinical and laboratory work suggests it absorbs light strongly, leaves the body faster than first-generation agents such as Photofrin, and can be activated at more than one wavelength. Faster clearance can mean a shorter period of skin light sensitivity. Head-to-head trials in patients remain limited, so any comparison depends on your specific cancer.</p>"
+          },
+          {
+            "q": "Which cancers can these photosensitisers actually treat?",
+            "a": "<p>Photodynamic therapy suits cancers a light source can physically reach: oesophageal, lung airway, bladder, head and neck, skin, and bile duct tumours. Photochlor has been studied most in early oesophageal cancer, Barrett's oesophagus with dysplasia, and head and neck lesions. DVDMS is still largely investigational across several tumour types. Whether either fits your case depends on the tumour's depth, location, and stage, which a specialist must assess.</p>"
+          },
+          {
+            "q": "Are these drugs approved, or can I only get them in a trial?",
+            "a": "<p>Neither is a widely approved, off-the-shelf treatment you can simply request. Photochlor remains an investigational drug studied mainly in clinical trials, and DVDMS is in early-phase testing in China following its domestic development. Access usually means enrolling in a study or being treated at a hospital with an active photodynamic therapy research programme. Availability can change quickly and depends on the country, the centre, and the eligibility criteria.</p>"
+          },
+          {
+            "q": "Will I have to stay out of sunlight after treatment?",
+            "a": "<p>Yes, for a period after the drug is given, because the photosensitiser also collects in your skin and eyes. With first-generation agents that meant four to six weeks of strict light precautions. Newer agents such as Photochlor and DVDMS clear faster, so the precaution window is often shorter, commonly days to about two weeks. Your team will give you an exact timeframe based on the drug and dose used.</p>"
+          },
+          {
+            "q": "Can DVDMS be switched on by ultrasound instead of light?",
+            "a": "<p>That possibility is a large part of why DVDMS attracts research interest. It can also act as a sonosensitiser, meaning focused ultrasound rather than laser light may activate it. Ultrasound travels deeper into the body than light, so in principle this could reach tumours a laser fibre cannot touch. Most of this work is still laboratory and animal research with only early human data, so it is not yet standard care.</p>"
+          },
+          {
+            "q": "Can I travel to China to have photodynamic therapy with DVDMS?",
+            "a": "<p>It may be possible, but usually only through a hospital running an approved study or a licensed photodynamic therapy programme. Centres in Xi'an, Shanghai, and Beijing have been most active in this field. Any centre will want your pathology report, recent imaging, and treatment summary before confirming suitability. CancerFax can help forward those records for review, though the decision always rests with the treating oncology team.</p>"
+          },
+          {
+            "q": "How does this compare with surgery or radiotherapy for my cancer?",
+            "a": "<p>Photodynamic therapy is generally an addition or an option for specific situations, not a replacement for surgery or radiotherapy in most cancers. Its strengths are that it spares surrounding tissue, can often be repeated, and may relieve blockage in the airway or oesophagus. Its main limit is depth, since light penetrates only about five to ten millimetres. For larger or deeper tumours, standard treatments usually remain the stronger choice.</p>"
+          },
+          {
+            "q": "What side effects should I expect afterwards?",
+            "a": "<p>The most common problems are skin sensitivity to light, pain or swelling in the treated area, and temporary inflammation as the tumour tissue breaks down. If the treated site is the oesophagus or airway, swelling can cause short-term trouble swallowing or breathing, and narrowing from scarring may follow later. Mild fever and nausea also occur. Most effects settle within days to weeks, but report any new symptom promptly.</p>"
+          },
+          {
+            "q": "How do I find out if I am eligible, and what might it cost?",
+            "a": "<p>Eligibility is decided by a specialist who reviews your tumour type, its depth and location, your earlier treatments, and your general fitness. Cost varies widely between countries and hospitals, and trial participation may cover the study drug while travel, scans, and hospital stay remain your expense. CancerFax can help you assemble the reports centres ask for, though only the treating team can confirm eligibility and final pricing.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

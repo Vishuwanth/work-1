@@ -1,0 +1,59 @@
+{
+  "pillar": "TARE for Cholangiocarcinoma and Neuroendocrine Tumour Liver Metastases",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-for-cholangiocarcinoma",
+  "route": "/insights/tare-for-cholangiocarcinoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TARE and how does it treat liver tumours?",
+            "a": "<p>TARE, or transarterial radioembolisation, delivers millions of radioactive yttrium-90 microspheres directly into the artery feeding your liver tumour. Because liver tumours draw most of their blood from that artery, the radiation concentrates inside the tumour and largely spares healthy liver tissue. It is performed through a small catheter inserted in the groin or wrist, with no open surgery and usually only one overnight stay in hospital.</p>"
+          },
+          {
+            "q": "Can TARE cure my cholangiocarcinoma?",
+            "a": "<p>TARE is not usually a cure for cholangiocarcinoma, but it can shrink tumours, slow growth and relieve symptoms when surgery is not possible. In intrahepatic disease confined to the liver, published series report median survival of roughly 12 to 15 months, and longer when TARE is combined with chemotherapy. A small number of patients respond well enough to become candidates for surgery. Your results depend on liver function, tumour size and prior treatments.</p>"
+          },
+          {
+            "q": "Does TARE help neuroendocrine tumours that have spread to the liver?",
+            "a": "<p>Yes, TARE often controls neuroendocrine liver metastases well, with reported tumour response rates of around 50 to 70 percent and symptom relief in many patients with carcinoid syndrome. Neuroendocrine metastases are highly vascular, which makes them good targets for radioactive microspheres. Doctors usually consider TARE after somatostatin analogues stop controlling the disease, or alongside them. Response varies with tumour grade, how much of the liver is involved and your overall liver health.</p>"
+          },
+          {
+            "q": "Am I eligible for TARE?",
+            "a": "<p>You may be eligible if your cancer is mainly in the liver, your liver is still working reasonably well and you are well enough to lie still for about an hour. Doctors first do a mapping angiogram and a nuclear scan to check how much radiation would reach your lungs or stomach. Severe jaundice, poor liver reserve or heavy lung shunting can rule it out. Only your interventional radiology team can confirm eligibility.</p>"
+          },
+          {
+            "q": "What are the side effects of TARE, and how bad are they?",
+            "a": "<p>Most people get post-embolisation syndrome: tiredness, mild abdominal pain, nausea and sometimes a low fever for one to two weeks. These usually settle with simple medicines. Less common problems include stomach or duodenal ulcers if microspheres travel where they should not, and radiation damage to the liver months later. Serious complications are uncommon in experienced centres, but risk rises if your liver is already damaged by cirrhosis or previous treatment.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long does recovery take?",
+            "a": "<p>Most patients need one or two TARE sessions, plus a separate mapping procedure one to two weeks before the first treatment. If both lobes of the liver are involved, doctors often treat one lobe at a time, four to six weeks apart, to protect liver function. The procedure itself takes about one to two hours. Many people return to normal activity within one to two weeks, though tiredness can linger longer.</p>"
+          },
+          {
+            "q": "Is TARE better than TACE for my liver tumours?",
+            "a": "<p>Neither is simply better; they suit different situations. TARE delivers radiation with minimal blockage of blood flow, so it is often preferred when the portal vein is involved or when a whole lobe needs treating. TACE delivers chemotherapy and blocks blood supply, and can work well for smaller, focal tumours. TARE usually causes less severe post-procedure illness. Your hepatobiliary team will choose based on tumour spread, liver function and available equipment.</p>"
+          },
+          {
+            "q": "Can TARE shrink my tumour enough for surgery or a transplant?",
+            "a": "<p>Sometimes, yes. TARE can shrink tumours enough for surgery in a minority of patients, and radiation lobectomy can also make the healthy side of the liver grow larger over two to three months, which makes an operation safer. This is more often achieved in intrahepatic cholangiocarcinoma than in widespread neuroendocrine disease. Downstaging is never guaranteed, and any decision about surgery or transplant rests with a specialist liver team.</p>"
+          },
+          {
+            "q": "How much does TARE cost in India or China, and is it available there?",
+            "a": "<p>TARE is available at major liver centres in India and China, and cost is usually far lower than in Western countries, though quoted prices vary widely by hospital, number of sessions and the microsphere brand used. Costs also depend on the mapping scan, hospital stay and follow-up imaging. CancerFax can help you gather written quotes and treatment timelines from accredited centres, but the final plan and price must come from the treating hospital.</p>"
+          },
+          {
+            "q": "How soon will I know whether TARE worked?",
+            "a": "<p>Your first scan usually comes about three months after treatment, because Y-90 keeps working for weeks and tumours often stop growing before they visibly shrink. Doctors look at changes in tumour blood supply on MRI or CT, not size alone, and may track tumour markers such as CA 19-9 or chromogranin A. Some patients need a second session. Follow-up schedules differ between centres, so ask your team what to expect.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

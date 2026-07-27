@@ -1,0 +1,59 @@
+{
+  "pillar": "Pediatric Cancer Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pediatric-cancer-treatment-in-india",
+  "route": "/guides/pediatric-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much will my child's cancer treatment cost in India?",
+            "a": "<p>Pediatric cancer treatment in India typically costs USD 15,000 to 45,000 for a full protocol, roughly 60-80% less than in the US or UK. Leukaemia chemotherapy sits at the lower end, while bone marrow transplant runs USD 30,000 to 55,000. The final figure depends on the cancer type, your child's risk group, and how many complications arise. Ask for a written estimate before you travel, as costs can change.</p>"
+          },
+          {
+            "q": "Which hospitals in India are best for children with cancer?",
+            "a": "<p>India's main pediatric cancer centres include Tata Memorial Hospital in Mumbai, AIIMS Delhi, Apollo Cancer Centres in Chennai and Delhi, Rainbow Children's Hospital, and Amrita Institute in Kochi. Several hold JCI or NABH accreditation and run dedicated children's oncology wards with separate transplant units. The right choice depends on your child's diagnosis, since some centres are stronger in solid tumours and others in leukaemia or transplant. Bed availability may vary.</p>"
+          },
+          {
+            "q": "Are survival rates for childhood cancer in India as good as in the US or UK?",
+            "a": "<p>Survival for childhood cancer at India's leading centres is close to Western figures for many diagnoses. Acute lymphoblastic leukaemia, the most common childhood cancer, often reaches 70-85% five-year survival at high-volume hospitals, and Wilms tumour and Hodgkin lymphoma can exceed 85%. Outcomes depend heavily on the stage at diagnosis, the child's risk group, and whether the family completes the full protocol without treatment gaps. No centre can promise a specific result.</p>"
+          },
+          {
+            "q": "How do we get a medical visa to bring our child to India?",
+            "a": "<p>Apply for an Indian medical visa (MED) for your child and medical attendant visas (MED-X) for up to three accompanying family members. You will need the hospital's invitation letter with the proposed treatment plan, your child's passport, medical reports, and proof of funds. Most applications are processed online in three to ten working days. Approval and processing times rest with the Indian mission and may differ by country.</p>"
+          },
+          {
+            "q": "Can my child have a bone marrow transplant in India?",
+            "a": "<p>Yes. Allogeneic and autologous bone marrow transplants for children are performed at Tata Memorial, CMC Vellore, Apollo, and several other Indian centres, including haploidentical transplants when no matched sibling donor exists. Costs generally run USD 30,000 to 55,000, and the child usually stays three to six months for the transplant and early recovery. Eligibility depends on disease status, organ function, and donor availability, so the transplant team decides case by case.</p>"
+          },
+          {
+            "q": "Is CAR T-cell therapy available for children in India?",
+            "a": "<p>CAR T-cell therapy for relapsed B-cell acute lymphoblastic leukaemia is available in India through the indigenous NexCAR19 product and a small number of clinical trials. Indian CAR T pricing is far below Western levels, often USD 40,000 to 60,000 against USD 400,000 abroad. Age, weight, prior treatments, and disease burden all affect eligibility, and slots are limited. Only the treating pediatric oncology team can confirm whether your child qualifies.</p>"
+          },
+          {
+            "q": "How long will we have to stay in India?",
+            "a": "<p>Plan for three to nine months in India, depending on the treatment. A Wilms tumour or lymphoma protocol may take three to six months, while acute lymphoblastic leukaemia needs intensive treatment in India for six to nine months, with maintenance chemotherapy often continued at home. Bone marrow transplant families usually stay three to six months. Your child's response and any infections can extend this, so keep your plans flexible.</p>"
+          },
+          {
+            "q": "Can my child get proton therapy in India?",
+            "a": "<p>Yes. India has proton therapy at the Apollo Proton Cancer Centre in Chennai, which treats a high share of pediatric patients, and newer centres are opening. Protons spare healthy growing tissue and can lower the risk of second cancers and growth problems in children with brain tumours, sarcomas, or eye tumours. Treatment costs roughly USD 25,000 to 35,000. Whether protons suit your child depends on tumour type and location.</p>"
+          },
+          {
+            "q": "Can we get an opinion from an Indian doctor before we travel?",
+            "a": "<p>Send your child's biopsy report, scans, blood counts, and any treatment already given to an Indian pediatric oncology team before you book flights. Most centres return a written opinion and cost estimate within three to seven working days, at no charge or for a small fee. CancerFax can help route these records to the right pediatric specialists. The final treatment plan is always set by the oncologists who examine your child.</p>"
+          },
+          {
+            "q": "Where will our family stay, and will anyone speak our language?",
+            "a": "<p>Most Indian cancer hospitals have international patient desks that arrange airport pickup, interpreters for Arabic, French, Russian, Swahili, and Bangla, and long-stay guest houses or serviced flats near the hospital. Monthly accommodation and food commonly cost USD 400 to 900 for a family of three. Many centres also run play therapy and hospital schooling for children. Ask what a specific hospital provides, since services differ from one centre to another.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

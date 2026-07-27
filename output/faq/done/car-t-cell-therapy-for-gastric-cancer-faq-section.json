@@ -1,0 +1,59 @@
+{
+  "pillar": "CAR T-Cell Therapy for Gastric Cancer: Satri-Cel & CLDN18.2 Guide | CancerFax",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-cell-therapy-for-gastric-cancer",
+  "route": "/treatments/car-t-cell-therapy-for-gastric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is satri-cel and how is it different from other CAR T-cell therapies?",
+            "a": "<p>Satri-cel (satricabtagene autoleucel, also called CT041) is a CAR T-cell therapy built to attack Claudin 18.2, a protein found on many stomach and pancreatic tumours. Most approved CAR-T products target blood cancer markers such as CD19 or BCMA, so satri-cel is one of the first designed for a solid tumour. Your own T cells are collected, re-engineered in a laboratory, and returned to you by a single infusion.</p>"
+          },
+          {
+            "q": "Does CAR T-cell therapy work for stomach cancer, or only for blood cancers?",
+            "a": "<p>CAR T-cell therapy can now work in stomach cancer, though the evidence is much younger than in blood cancers. In a Chinese phase 2 trial, satri-cel shrank tumours in roughly 4 in 10 patients whose gastric cancer had already progressed on two or more treatment lines, compared with almost none on standard care. Responses often last months rather than years, and not everyone who is treated benefits.</p>"
+          },
+          {
+            "q": "What is Claudin 18.2 and how do I know if my tumour has it?",
+            "a": "<p>Claudin 18.2 is a protein that seals healthy stomach lining cells together and stays switched on in about one third to one half of gastric cancers. A pathologist tests a biopsy sample by immunohistochemistry and reports the percentage of cancer cells that stain positive; satri-cel requires a positive result. CancerFax can help arrange this testing on stored tissue, though the treating oncology team confirms whether the result qualifies you.</p>"
+          },
+          {
+            "q": "How much extra time does satri-cel give compared with standard treatment?",
+            "a": "<p>In the phase 2 trial, patients given satri-cel lived a median of about 8 months versus 5.5 months on the doctor's choice of standard treatment, and went a median 3.3 months before the cancer grew again versus 1.8 months. These are averages from one trial in Chinese patients; some people did considerably better, others saw no benefit at all. Your own outlook depends on tumour burden, fitness and prior treatment.</p>"
+          },
+          {
+            "q": "Who is eligible for satri-cel?",
+            "a": "<p>Eligibility usually means advanced gastric or gastro-oesophageal junction cancer that has progressed after at least two lines of treatment, a Claudin 18.2-positive biopsy, adequate liver, kidney, heart and marrow function, and enough fitness to sit through cell collection and recovery. Brain metastases, active infection and severe organ damage often rule people out. Only the treating centre can confirm eligibility after reviewing your full records and scans.</p>"
+          },
+          {
+            "q": "Is satri-cel approved, or can I only get it in a clinical trial?",
+            "a": "<p>China is the only country where satri-cel has been approved, for Claudin 18.2-positive advanced gastric cancer after previous treatment; it is not licensed in the United States, Europe or India. Elsewhere, access means a clinical trial, and CLDN18.2 CAR-T studies are running in China and a small number of other centres. Supply is limited and enrolment or acceptance for treatment is never guaranteed. Confirm current approval status with the treating hospital before you travel.</p>"
+          },
+          {
+            "q": "What are the side effects of CLDN18.2 CAR T-cell therapy?",
+            "a": "<p>The most common problems are cytokine release syndrome, which brings fever, low blood pressure and breathlessness, plus low blood counts after the chemotherapy that prepares you for the infusion. In trials most cytokine reactions were mild to moderate and manageable, and serious nerve side effects were uncommon. Because Claudin 18.2 also sits on normal stomach lining, nausea, vomiting and stomach pain can occur. Patients are monitored closely in hospital for the first few weeks.</p>"
+          },
+          {
+            "q": "How long does the whole satri-cel process take?",
+            "a": "<p>Plan on roughly six to ten weeks from first assessment to discharge. Screening and biomarker testing take one to three weeks, cell collection is a single day, manufacturing the CAR T cells usually takes about two weeks, and short chemotherapy is given before the infusion. Most patients stay in or near the hospital for two to four weeks afterwards for monitoring, then need follow-up visits. Bridging treatment is sometimes needed while cells are made.</p>"
+          },
+          {
+            "q": "How much does CAR T-cell therapy for gastric cancer cost in China?",
+            "a": "<p>Expect a total in the region of 150,000 to 250,000 US dollars for the cell product, hospital care and monitoring, based on what approved CAR-T therapies cost in China. Trial participation can cut the drug cost sharply, sometimes to zero, while travel, accommodation, scans and any complications add to it. Final figures depend on the hospital, protocol and length of stay, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "How do I get assessed for satri-cel if I live outside China?",
+            "a": "<p>Start by gathering your pathology report, Claudin 18.2 result if available, recent CT or PET scans, a treatment history and current blood tests, then send them to a centre that offers CLDN18.2 CAR-T for tumour board review. CancerFax can help organise these records, identify relevant hospitals or trials, estimate costs and coordinate travel and visa support alongside your treating oncology team. Acceptance is never guaranteed.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

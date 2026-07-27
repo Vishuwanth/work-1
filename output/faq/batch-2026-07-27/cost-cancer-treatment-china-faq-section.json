@@ -1,0 +1,59 @@
+{
+  "pillar": "Cost of Cancer Treatment in China for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cost-cancer-treatment-china",
+  "route": "/insights/cost-cancer-treatment-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does cancer treatment in China cost for an international patient?",
+            "a": "<p>Most international patients spend roughly US$10,000 to US$60,000 for a complete course of cancer treatment in China, depending on the cancer type, stage and method chosen. Standard surgery or chemotherapy sits at the lower end, while cell therapy and particle radiotherapy sit far higher. Hospital tier, city and length of stay also move the figure. Costs depend on your final treatment plan, so treat any published range as an estimate only.</p>"
+          },
+          {
+            "q": "Is cancer treatment in China cheaper than in the US?",
+            "a": "<p>Yes, in most cases treatment in China costs a fraction of the same care in the United States, often 40 to 70 percent less for comparable procedures. CAR T-cell therapy is the clearest example, priced in the tens of thousands rather than hundreds of thousands of dollars. Savings vary by hospital and by how much supportive care you need, so compare full package quotes rather than single line items.</p>"
+          },
+          {
+            "q": "How much does CAR T-cell therapy cost in China?",
+            "a": "<p>CAR T-cell therapy in China typically costs US$40,000 to US$100,000, compared with US$400,000 or more in the United States. Clinical trial slots can bring the drug cost close to zero, though you still pay for hospital stay, tests and complication management. Prices differ between approved commercial products and trial-stage therapies. Eligibility is decided by the treating haematology team after they review your records, so a quote is never a guarantee of access.</p>"
+          },
+          {
+            "q": "What will proton or carbon ion therapy in China cost me?",
+            "a": "<p>Proton and carbon ion therapy in China usually costs US$30,000 to US$50,000 for a full course, well below the US$120,000 often quoted in Japan or the United States. The price covers planning scans, immobilisation and the treatment sessions themselves. Centres in Shanghai, Wuwei and Lanzhou take international referrals. Not every tumour suits particle therapy, and acceptance depends on tumour site, size and prior radiation, so a medical review comes before any firm price.</p>"
+          },
+          {
+            "q": "What is included in the price the hospital quotes me?",
+            "a": "<p>A hospital quote usually covers diagnostics, doctor fees, the treatment itself, medicines and the inpatient bed, but not travel, visa fees, hotels for family, or interpreters. Ask for a written itemised estimate that names what is excluded. Many patients budget an extra US$2,000 to US$5,000 per month for living costs and follow-up scans. Final billing can move if you need extra imaging or treatment for side effects, so keep a contingency.</p>"
+          },
+          {
+            "q": "Do I have to pay the whole amount before treatment starts?",
+            "a": "<p>Yes, most Chinese hospitals ask international patients for an advance deposit before admission, commonly 30 to 100 percent of the estimated bill. The deposit sits in your hospital account and is drawn down as services are used, with the balance refunded at discharge. Payment is usually by international wire transfer, and banks may need several days to clear it. Deposit rules differ by hospital and can change, so confirm the amount in writing.</p>"
+          },
+          {
+            "q": "Will my health insurance cover treatment in China?",
+            "a": "<p>Most private health policies do not pay Chinese hospitals directly, so patients usually settle the bill themselves and claim later. Some international and expatriate plans do offer cashless cover at selected Chinese hospitals, and a few employer schemes reimburse overseas care. Ask your insurer in writing whether the specific hospital, treatment and country are covered before you travel. Coverage depends on your policy wording, and pre-approval can take several weeks.</p>"
+          },
+          {
+            "q": "Can joining a clinical trial in China make treatment cheaper?",
+            "a": "<p>Clinical trials in China often supply the investigational drug or cell product free, which removes the largest single cost. You still pay for screening tests, hospital stay and care for side effects, so budget several thousand dollars. Entry rules are strict, covering cancer type, prior treatments and organ function. CancerFax can pass your records to trial teams for review, but only the investigators decide who enrols, and slots may close quickly.</p>"
+          },
+          {
+            "q": "What hidden costs should I plan for?",
+            "a": "<p>The most common bill surprises are repeat diagnostics, longer hospital stays and treatment for side effects such as infection or cytokine release syndrome. Intensive care days are the single biggest risk to a budget. Repeat scans are often required because overseas reports are not accepted without local confirmation. Ask the hospital what an unplanned complication would add, and keep 20 to 30 percent above the quote as reserve where possible.</p>"
+          },
+          {
+            "q": "How do I get an accurate cost estimate before I fly to China?",
+            "a": "<p>Send your recent pathology report, scans and treatment history to the hospital, and ask for a written estimate tied to a specific plan rather than a general price list. Quotes based on a diagnosis alone are usually inaccurate. CancerFax can route your records to Chinese cancer centres and return their estimates for comparison. Final costs are confirmed only after the treating doctors examine you in person, so expect some movement.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

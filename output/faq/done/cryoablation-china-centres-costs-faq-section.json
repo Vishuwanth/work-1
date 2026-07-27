@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation in China: Centres, Costs, and Clinical Outcomes",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-china-centres-costs",
+  "route": "/insights/cryoablation-china-centres-costs",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoablation, and how does it kill a tumour?",
+            "a": "<p>Cryoablation destroys tumour tissue by freezing it. A doctor guides thin needles, called cryoprobes, into the tumour using CT or ultrasound, then runs freeze and thaw cycles that cool the tissue below minus 40 degrees Celsius and rupture cancer cells. The needles pass through a small skin puncture, so no large incision is needed and most patients avoid general anaesthesia.</p>"
+          },
+          {
+            "q": "Which cancers do Chinese centres treat with cryoablation?",
+            "a": "<p>Chinese centres most often use cryoablation for kidney, liver, lung, prostate, bone, and pancreatic tumours, and for painful metastases. It suits small, well-defined tumours that a needle can reach safely. Some hospitals also offer it when surgery is too risky because of age, poor lung function, or other illness. Whether it fits your case depends on tumour size, position, and your overall health.</p>"
+          },
+          {
+            "q": "Which hospitals in China are known for cryoablation?",
+            "a": "<p>Fuda Cancer Hospital in Guangzhou is the centre most associated with cryoablation and has treated large numbers of international patients. Major academic hospitals also offer it, including Sun Yat-sen University Cancer Center, Fudan University Shanghai Cancer Center, and several tertiary hospitals in Beijing and Tianjin. Experience varies widely between centres, so ask how many cases a specific team performs each year.</p>"
+          },
+          {
+            "q": "How much does cryoablation cost in China?",
+            "a": "<p>Cryoablation in China commonly costs between 8,000 and 20,000 US dollars for a single session, depending on tumour number, size, and the hospital. That figure usually covers imaging, the probes, anaesthesia, and a short inpatient stay. Extra scans, repeat sessions, or combined treatments raise the total. Quotes differ between centres and can change, so ask for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "What results can I expect from cryoablation?",
+            "a": "<p>For small kidney and liver tumours, cryoablation can achieve local control at the treated site that is broadly similar to surgery, often above 85 percent. Results are weaker for tumours larger than three to four centimetres and for those sitting close to major blood vessels, where freezing may be incomplete. Cryoablation only treats what is frozen, so it does not address disease elsewhere in the body.</p>"
+          },
+          {
+            "q": "Is cryoablation better than surgery for my tumour?",
+            "a": "<p>Cryoablation is not automatically better than surgery; it is gentler but less definitive. It avoids a large incision, causes less blood loss, and allows faster recovery, which can matter if you are frail or have limited lung or kidney function. Surgery still removes tissue that can be examined under a microscope and remains standard for many operable cancers. Your surgical and oncology team should compare both for your case.</p>"
+          },
+          {
+            "q": "How long does the procedure take, and how fast is recovery?",
+            "a": "<p>A single cryoablation session usually takes one to three hours, and most patients stay in hospital for one to three nights. Pain at the needle site is common for a few days and is normally controlled with simple painkillers. Many people return to light activity within a week. A follow-up scan is typically done at one to three months to check whether the tumour was fully treated.</p>"
+          },
+          {
+            "q": "What can go wrong with cryoablation?",
+            "a": "<p>The main risks are bleeding, injury to nearby organs, and freezing damage to healthy tissue beside the tumour. Lung treatments can cause a collapsed lung, and kidney or liver treatments can bruise surrounding structures. A few patients develop cryoshock, a rare reaction with fever, low blood pressure, and clotting problems. Serious complications are uncommon in experienced hands, but risk rises with tumour size and awkward locations.</p>"
+          },
+          {
+            "q": "Can I travel to China for cryoablation as an international patient?",
+            "a": "<p>Yes, several Chinese hospitals accept international patients for cryoablation and run English-speaking international departments. You will usually need a medical visa, recent scans, pathology reports, and a written treatment plan from the hospital before you fly. CancerFax can help you send those records to centres for review and compare what they say. Acceptance is never guaranteed and depends on each hospital's assessment of your case.</p>"
+          },
+          {
+            "q": "Is cryoablation combined with immunotherapy in China?",
+            "a": "<p>Some Chinese centres combine cryoablation with immunotherapy or cell therapy, on the theory that freezing releases tumour antigens that may prime an immune response. Early studies look interesting but are small, and this effect is not reliable. Outside approved indications, such combinations are often offered inside trials or as paid add-ons. Ask what evidence supports the specific combination and whether it is approved treatment or research.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

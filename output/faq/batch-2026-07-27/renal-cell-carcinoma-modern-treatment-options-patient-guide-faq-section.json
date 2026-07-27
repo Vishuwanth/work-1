@@ -1,0 +1,59 @@
+{
+  "pillar": "Renal Cell Carcinoma: Modern Treatment Options",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "renal-cell-carcinoma-modern-treatment-options-patient-guide",
+  "route": "/insights/renal-cell-carcinoma-modern-treatment-options-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the main treatment options for renal cell carcinoma today?",
+            "a": "<p>Renal cell carcinoma is treated with surgery when the tumour is confined to the kidney, and with immunotherapy plus targeted therapy when it has spread. Small tumours may be removed with partial nephrectomy or destroyed with ablation. Advanced disease often responds to checkpoint inhibitor combinations. Radiation and chemotherapy play limited roles. The right plan depends on stage, tumour subtype, kidney function and your overall health.</p>"
+          },
+          {
+            "q": "Can I keep part of my kidney instead of losing the whole thing?",
+            "a": "<p>Yes, in many cases surgeons can remove only the tumour and leave the rest of the kidney working. This is called partial nephrectomy, and it is the preferred option for most tumours under 7 cm. It protects long-term kidney function, which matters if you have diabetes, high blood pressure or only one kidney. Whether it is possible depends on where the tumour sits and how experienced the surgical team is.</p>"
+          },
+          {
+            "q": "What is immunotherapy for kidney cancer and how well does it work?",
+            "a": "<p>Immunotherapy uses drugs called checkpoint inhibitors to help your own immune system attack kidney cancer cells. Combinations such as nivolumab with ipilimumab, or pembrolizumab with axitinib, are now standard first treatment for advanced renal cell carcinoma. In trials, roughly half of patients saw their tumours shrink, and some responses lasted years. Results vary by risk group, and not everyone benefits, so your oncologist will match the combination to your situation.</p>"
+          },
+          {
+            "q": "Why doesn't chemotherapy work for renal cell carcinoma?",
+            "a": "<p>Kidney cancer cells carry pumps and repair pathways that push out or neutralise standard chemotherapy drugs, so response rates stay below 10 percent. This is why chemotherapy is not used for the common clear cell type. It still has a role in rare aggressive subtypes such as collecting duct and renal medullary carcinoma. For everyone else, immunotherapy and targeted drugs replaced chemotherapy more than fifteen years ago.</p>"
+          },
+          {
+            "q": "Is there a treatment if surgery isn't safe for me?",
+            "a": "<p>Yes. Small kidney tumours can be destroyed without open surgery using cryoablation, which freezes the tumour, or radiofrequency ablation, which heats it. Both are done through a needle guided by scan images, often as a day procedure. Stereotactic body radiotherapy is another option for patients who cannot have anaesthesia. These approaches suit tumours under about 4 cm, and suitability depends on tumour position and your general fitness.</p>"
+          },
+          {
+            "q": "What does active surveillance mean, and is it safe to just watch a kidney tumour?",
+            "a": "<p>Active surveillance means monitoring a small kidney tumour with scans every three to six months instead of treating it straight away. It is an accepted option for tumours under 2 cm, which often grow very slowly, and for older patients with other health problems. Treatment starts if the tumour grows or changes. Studies show the risk of spread during careful surveillance is low, but it is not zero.</p>"
+          },
+          {
+            "q": "My cancer has spread. Can treatment still help?",
+            "a": "<p>Yes. Metastatic renal cell carcinoma is often treated for years rather than cured, and modern immunotherapy combinations have pushed median survival past four years in many trials. Some patients with a small number of secondary tumours also benefit from surgery or targeted radiation to those spots. Removing the primary kidney tumour may still help in selected cases. Your oncology team will weigh your risk score, symptoms and fitness before choosing.</p>"
+          },
+          {
+            "q": "What are targeted drugs like sunitinib and cabozantinib, and when are they used?",
+            "a": "<p>Targeted drugs block the blood vessel signals that kidney tumours use to grow, starving them of supply. Sunitinib, pazopanib, cabozantinib, lenvatinib and axitinib are the ones used most, taken as daily tablets at home. They are now usually paired with immunotherapy as first treatment, or given alone if immunotherapy is unsuitable. Side effects such as fatigue, hand and foot soreness and high blood pressure can often be managed with dose changes.</p>"
+          },
+          {
+            "q": "How much does kidney cancer treatment cost in India, and is it worth travelling?",
+            "a": "<p>Kidney cancer treatment in India typically costs a fraction of United States or European prices, with robotic partial nephrectomy often quoted between 6,000 and 9,000 US dollars. Immunotherapy drug costs vary widely by brand and number of cycles. Quoted prices usually exclude complications and extended stays. CancerFax can help you compare written estimates from accredited hospitals, though the final plan and cost must come from the treating oncology team.</p>"
+          },
+          {
+            "q": "Are there clinical trials or newer treatments I should ask about?",
+            "a": "<p>Yes. Belzutifan, a HIF-2 alpha inhibitor, is approved in some countries for advanced kidney cancer after immunotherapy, and trials of cancer vaccines, CAR-T and new drug combinations are open in India, China, Europe and the United States. Eligibility depends on your prior treatments, tumour subtype and organ function. CancerFax can point you toward trials that may fit, but enrolment is never guaranteed and is decided by the trial team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

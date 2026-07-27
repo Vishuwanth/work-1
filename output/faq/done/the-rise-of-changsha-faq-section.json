@@ -1,0 +1,59 @@
+{
+  "pillar": "The Rise of Changsha",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "the-rise-of-changsha",
+  "route": "/guides/the-rise-of-changsha",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why is Changsha suddenly being mentioned for cancer treatment?",
+            "a": "<p>Changsha has become a major Chinese hub for cell and gene therapy, largely through the Xiangya hospital system and a dense cluster of biotech companies in the Hunan capital. The city runs a high volume of CAR-T and gene-based clinical trials, and treats patients from across China and abroad. Whether the city suits your case depends on your diagnosis, stage, and what your own oncology team advises.</p>"
+          },
+          {
+            "q": "Which hospitals in Changsha treat international cancer patients?",
+            "a": "<p>Xiangya Hospital of Central South University and its affiliated Second and Third Xiangya hospitals handle most international cancer referrals in Changsha, alongside the Hunan Cancer Hospital. These centres offer surgery, radiotherapy, targeted therapy, immunotherapy and cell therapy under one system. Access for overseas patients often depends on the specific department, bed availability and whether an international patient office is involved, so confirm before you travel.</p>"
+          },
+          {
+            "q": "Can I get CAR-T therapy in Changsha?",
+            "a": "<p>CAR-T therapy is available in Changsha, both as approved commercial products and through clinical trials at the Xiangya hospitals and partner biotech centres. Most treated cases are relapsed or refractory blood cancers such as leukaemia, lymphoma and myeloma. Eligibility depends on your disease type, prior treatments, organ function and adequate T-cell collection. Teams like CancerFax can help forward your records for review, but the treating haematologist makes the final call.</p>"
+          },
+          {
+            "q": "How much does cancer treatment in Changsha cost compared with the US or Europe?",
+            "a": "<p>Cancer treatment in Changsha usually costs far less than in the United States or Western Europe, often 40 to 70 percent lower for surgery, radiotherapy and drug regimens. Cell therapies such as CAR-T are commonly quoted in the range of 60,000 to 130,000 US dollars, against several hundred thousand in the West. Final costs depend on your protocol, hospital stay and complications, so treat any early quote as an estimate.</p>"
+          },
+          {
+            "q": "Is Changsha better than Beijing or Shanghai for my cancer?",
+            "a": "<p>Changsha is not automatically better than Beijing or Shanghai, but it is competitive in specific areas, particularly cell and gene therapy, where its trial pipeline and biotech links are unusually deep. Beijing and Shanghai carry more overall volume and more subspecialists for rare solid tumours. The right city depends on your cancer type rather than city reputation, and your oncologist should weigh that against travel and cost.</p>"
+          },
+          {
+            "q": "Do the doctors in Changsha speak English?",
+            "a": "<p>Senior oncologists at the major Changsha hospitals usually read and speak enough English to discuss your case, and many trained or published abroad. Nurses, pharmacy staff and administrative departments often do not. Most international patients use a hospital interpreter or a dedicated medical coordinator for daily ward communication and consent documents. Confirm interpreter arrangements in writing before you arrive, because availability can vary by department and by day.</p>"
+          },
+          {
+            "q": "What kind of clinical trials are running in Changsha right now?",
+            "a": "<p>Changsha runs a large number of oncology trials, weighted towards CAR-T and other cell therapies, gene therapy for blood disorders, and bispecific antibodies. Many are open only to patients whose earlier treatment has failed, and some accept international applicants while others are restricted to residents. Enrolment is never guaranteed and depends on screening results, slot availability and the sponsor's rules, so apply to several trials rather than one.</p>"
+          },
+          {
+            "q": "How long would I need to stay in Changsha for treatment?",
+            "a": "<p>Plan for roughly four to eight weeks in Changsha for cell therapy, covering evaluation, cell collection, manufacturing, infusion and the monitoring period afterwards. Chemotherapy or radiotherapy courses may need two to seven weeks, sometimes with breaks at home between cycles. Surgery alone is often shorter, around two to three weeks. Your actual stay can extend if side effects, infection or a change in protocol delay discharge.</p>"
+          },
+          {
+            "q": "What visa and paperwork do I need before flying to Changsha?",
+            "a": "<p>You will normally need a Chinese medical or visitor visa supported by an invitation or admission letter from the treating hospital in Changsha. Hospitals usually ask for recent pathology reports, imaging discs, treatment history and blood work, translated into Chinese or English. Deposits are often required before admission. Visa rules and hospital requirements change, so check the current position with the consulate and the hospital shortly before booking flights.</p>"
+          },
+          {
+            "q": "Can I get an opinion from a Changsha hospital before I travel?",
+            "a": "<p>Yes, you can usually get a written opinion from a Changsha oncologist before travelling, based on your pathology, scans and treatment history sent in advance. This tells you whether a useful option exists and roughly what it may cost. CancerFax can pass records to hospitals in Changsha for that review. Any remote opinion is preliminary and may change once doctors examine you and repeat tests locally.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

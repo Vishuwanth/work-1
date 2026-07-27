@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT Combined with Immunotherapy: The Science and China's Clinical Trial Programme",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-immunotherapy-combination-china-trials",
+  "route": "/insights/pdt-immunotherapy-combination-china-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What happens when photodynamic therapy is combined with immunotherapy?",
+            "a": "<p>Combining photodynamic therapy with immunotherapy aims to turn a light-activated tumour kill into an immune signal the body can act on. PDT uses a photosensitiser drug and laser light to destroy tumour cells in a way that releases tumour proteins and danger signals. Immunotherapy, usually a PD-1 or PD-L1 antibody, then helps T cells recognise those signals. In many cases this may improve responses, though the evidence is still early.</p>"
+          },
+          {
+            "q": "Why would a light-based treatment make immunotherapy work better?",
+            "a": "<p>PDT can make a quiet or cold tumour visible to the immune system. The treatment causes a form of cell death that spills tumour antigens, heat-shock proteins and inflammatory signals into the surrounding tissue, drawing dendritic cells and T cells into the tumour. Checkpoint drugs then help keep those T cells switched on. Researchers call this in-situ vaccination, but how reliably it happens in patients is still being tested.</p>"
+          },
+          {
+            "q": "Is PDT plus immunotherapy available in China right now?",
+            "a": "<p>PDT and immunotherapy are each approved in China, but the combination is generally offered inside clinical trials rather than as a licensed regimen. Several Chinese centres run investigator-initiated studies pairing PDT with PD-1 inhibitors. Access depends on your cancer type, stage, prior treatment and open slots at the time you apply. Your oncologist can advise whether the pairing suits your case, and CancerFax can help identify which centres are recruiting.</p>"
+          },
+          {
+            "q": "Which cancers are being tested in China's PDT and immunotherapy trials?",
+            "a": "<p>Chinese trials focus on cancers where light can physically reach the tumour: oesophageal, lung airway, bile duct, bladder, head and neck, skin, and some chest-wall or peritoneal disease. Advanced oesophageal and non-small cell lung cancers appear most often in published protocols. Deep-seated tumours are harder to treat, because the light must be delivered through an endoscope or a needle fibre. Eligibility depends heavily on tumour location and accessibility.</p>"
+          },
+          {
+            "q": "What is the abscopal effect, and can PDT trigger it?",
+            "a": "<p>The abscopal effect is when treating one tumour causes untreated tumours elsewhere in the body to shrink, because the immune system has been activated. PDT can produce this in laboratory models, and scattered case reports describe it in patients given PDT with checkpoint inhibitors. It remains uncommon and unpredictable. Adding immunotherapy is one way researchers hope to make it happen more often, but no one can promise it.</p>"
+          },
+          {
+            "q": "In what order are the two treatments given?",
+            "a": "<p>Most protocols give PDT first, then start or continue the checkpoint antibody within days to a few weeks, so the immunotherapy arrives while the immune response is still building. The photosensitiser is infused or applied hours before light delivery, and the laser is aimed through an endoscope, bronchoscope or surface applicator. Timing varies between trials and remains an open research question, so your team will follow their own schedule.</p>"
+          },
+          {
+            "q": "What side effects should I expect from the combination?",
+            "a": "<p>Expect the side effects of each treatment rather than a wholly new set. PDT commonly causes pain, swelling and skin sensitivity to light that can last for weeks, plus local problems such as bleeding or narrowing at the treated site. Immunotherapy can inflame the thyroid, bowel, lungs, liver or skin.</p><p>Combined inflammation may be stronger in some patients, so trials monitor closely. Report new symptoms early rather than waiting.</p>"
+          },
+          {
+            "q": "Can I join a PDT and immunotherapy trial in China if I live abroad?",
+            "a": "<p>International patients can often be considered, but sites differ in whether their protocol permits overseas enrolment, and some require translated records, a local contact, or an in-person visit before screening. You will usually need pathology reports, recent imaging and a full treatment history. CancerFax can help assemble and forward these documents to centres, though acceptance always rests with the trial team and your own treating oncologist.</p>"
+          },
+          {
+            "q": "How much does PDT combined with immunotherapy cost in China?",
+            "a": "<p>Costs vary widely and no single figure applies. Where a trial supplies the study drug, you may pay mainly for hospital stay, endoscopy, imaging and supportive care; where it does not, PD-1 antibodies in China are usually far cheaper than in Western markets. Travel, accommodation and interpreting add to the total. Ask each centre for a written estimate before travelling, as quotes can change with your treatment plan.</p>"
+          },
+          {
+            "q": "Is this combination better than immunotherapy alone?",
+            "a": "<p>There is no proven answer yet. Early-phase Chinese and international studies report encouraging response rates when PDT is added to a PD-1 inhibitor, particularly in tumours that had stopped responding to immunotherapy alone. These studies are small and mostly lack a comparison group, and randomised trials are still running. Until those report, the combination is best viewed as promising rather than established standard care.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

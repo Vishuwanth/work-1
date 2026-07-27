@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing PDT Treatment in China or India Through CancerFax",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "photodynamic-therapy-china-india",
+  "route": "/insights/photodynamic-therapy-china-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can I actually get photodynamic therapy in China or India?",
+            "a": "<p>Yes, photodynamic therapy is available at selected cancer centres in both countries. China has the larger programme, with several approved photosensitisers used routinely for oesophageal, lung and skin tumours. India offers PDT at a smaller number of hospitals, usually within dermatology or interventional pulmonology units. Whether a centre will accept you depends on your tumour type, its depth and your general health, so this should be confirmed before travel.</p>"
+          },
+          {
+            "q": "Which cancers does PDT work best for?",
+            "a": "<p>PDT works best for thin, surface-level tumours that light can physically reach. That means early skin cancers, actinic keratosis, Barrett's oesophagus with high-grade dysplasia, early oesophageal and lung cancers reachable by endoscope, and some bladder and head and neck lesions. It can also relieve blockage in advanced oesophageal or airway tumours. Deep or widely spread cancers are generally not suitable, because light cannot penetrate more than about a centimetre of tissue.</p>"
+          },
+          {
+            "q": "How much does photodynamic therapy cost in China or India?",
+            "a": "<p>PDT abroad typically runs from a few thousand US dollars per treatment cycle, with India usually the lower-cost option and China somewhat higher. The final figure depends on the photosensitiser used, how many light sessions you need, whether endoscopy or anaesthesia is involved, and the hospital's tier. Costs quoted before you arrive can change once the treating team reviews your scans, so ask for a written estimate.</p>"
+          },
+          {
+            "q": "How long will I have to stay abroad for treatment?",
+            "a": "<p>Most patients plan for two to four weeks. The drug is given first, then a waiting period of hours to days allows it to concentrate in the tumour, then light is delivered. Many protocols involve a second light session and a follow-up endoscopy or skin review before you fly home. Skin sensitivity to light also lasts for weeks afterwards, which may affect when your team clears you to travel.</p>"
+          },
+          {
+            "q": "Is PDT better than surgery or radiotherapy for my cancer?",
+            "a": "<p>PDT is not automatically better, it is different. Its advantage is that it spares healthy tissue and can often be repeated, which matters for lesions on the face, in the food pipe or in the airway where surgery would be disfiguring or risky. Surgery and radiotherapy remain more definitive for most tumours. For many patients PDT is used alongside standard care rather than instead of it, and your oncologist should make that call.</p>"
+          },
+          {
+            "q": "What actually happens during a PDT session?",
+            "a": "<p>You receive a light-sensitive drug, either as a cream on the skin or through a vein, and then wait while it collects in the tumour cells. At the scheduled time, a doctor shines a specific wavelength of laser or LED light directly on the lesion, sometimes through an endoscope. The light activates the drug, which produces oxygen molecules that destroy the treated cells. The light exposure itself usually takes only minutes.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>The most common effects are pain, burning or stinging during and after light exposure, plus swelling, redness and crusting at the treated area. Oesophageal or lung PDT can cause chest discomfort, difficulty swallowing, cough or temporary narrowing that may need a follow-up procedure. Sensitivity to bright light is near universal with intravenous drugs. Most effects settle within days to weeks, but tell your team about any breathing or swallowing difficulty immediately.</p>"
+          },
+          {
+            "q": "Why do I have to avoid sunlight after treatment?",
+            "a": "<p>Because the drug stays in your skin and eyes long after the tumour has been treated, and ordinary daylight can activate it and cause a severe burn. With intravenous photosensitisers, strict light precautions often last four to six weeks. That means covered clothing, no direct sun, and caution near bright indoor lamps and car windows. Skin creams used for surface lesions clear much faster, usually within a day or two.</p>"
+          },
+          {
+            "q": "Can PDT be combined with chemotherapy or immunotherapy?",
+            "a": "<p>In many cases yes, and combining them is an active area of research. PDT can shrink or debulk a tumour before systemic treatment, and some evidence suggests the cell death it causes may help the immune system recognise cancer. Trials in China are testing PDT alongside immunotherapy for oesophageal and lung cancers. Access to such combinations depends on trial openings and your prior treatment history, so eligibility cannot be assumed in advance.</p>"
+          },
+          {
+            "q": "How do I start the process of arranging PDT abroad?",
+            "a": "<p>Start by gathering your recent pathology report, imaging on disc, and a summary of treatment already received, because no overseas centre will assess you without them. CancerFax can help route those records to hospitals in China and India that run active PDT programmes and return their written opinions. Any plan that comes back should be reviewed with your own oncologist before you book travel, since suitability and timing can change.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

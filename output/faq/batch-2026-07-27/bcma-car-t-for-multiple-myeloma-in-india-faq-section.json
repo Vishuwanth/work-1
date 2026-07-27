@@ -1,0 +1,59 @@
+{
+  "pillar": "BCMA CAR-T for Multiple Myeloma in India: Current Status and Pipeline",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "bcma-car-t-for-multiple-myeloma-in-india",
+  "route": "/insights/bcma-car-t-for-multiple-myeloma-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is BCMA CAR-T therapy available in India right now?",
+            "a": "<p>BCMA CAR-T in India is currently available mainly through clinical trials and limited early-access programmes, not as a routine approved treatment. India's first approved CAR-T product, NexCAR19, targets CD19 for leukaemia and lymphoma, not myeloma. Several Indian BCMA programmes are in early trial stages at major academic centres. Availability can change quickly, so your haematologist should confirm what is actually open when you are ready to treat.</p>"
+          },
+          {
+            "q": "What does BCMA CAR-T cost in India?",
+            "a": "<p>Indian BCMA CAR-T is expected to cost far less than in the United States, where approved products run roughly 400,000 to 500,000 US dollars. Indian CD19 CAR-T has been priced near 30 to 40 lakh rupees, and BCMA products may fall in a similar band.</p><p>Trial participation can remove the cell-product cost entirely. Hospital stay, workup and complication care are extra, and final pricing depends on the programme.</p>"
+          },
+          {
+            "q": "Which hospitals in India are working on BCMA CAR-T?",
+            "a": "<p>Tata Memorial Centre and ACTREC in Mumbai, CMC Vellore, AIIMS Delhi and several large private transplant centres in Bengaluru, Chennai and Delhi run or support CAR-T programmes. BCMA-specific work is concentrated where academic trials and Indian cell-therapy companies operate together. Site lists shift as trials open and close, so ask your treating team to verify which centres are enrolling before you plan any travel.</p>"
+          },
+          {
+            "q": "Am I eligible for BCMA CAR-T in India?",
+            "a": "<p>Most BCMA CAR-T programmes accept relapsed or refractory myeloma after three or more prior lines, usually including a proteasome inhibitor, an immunomodulatory drug and an anti-CD38 antibody. You generally need adequate heart, lung, kidney and liver function, controlled infection and reasonable fitness. Trials add their own limits around prior CAR-T, plasma cell leukaemia and brain involvement. Eligibility is decided case by case after the centre reviews your records.</p>"
+          },
+          {
+            "q": "Should I wait for India or go to China for BCMA CAR-T?",
+            "a": "<p>China has more mature BCMA CAR-T access, with approved products and many open trials, so waiting time is often shorter there. India can cost less once travel and stay are counted, and follow-up is easier for South Asian patients. The right choice depends on how fast your disease is moving and what is enrolling now. CancerFax can help compare open programmes in both countries alongside your oncologist's advice.</p>"
+          },
+          {
+            "q": "What are the main side effects of BCMA CAR-T?",
+            "a": "<p>Cytokine release syndrome and neurological effects are the two main early risks, usually appearing within the first two weeks and managed with tocilizumab and steroids. Low blood counts, infections and low immunoglobulin levels can persist for months, so many patients need preventive antibiotics and immunoglobulin replacement. A small number develop delayed movement or nerve problems. Most events are reversible when treated at a centre experienced in cell therapy.</p>"
+          },
+          {
+            "q": "How long does the whole BCMA CAR-T process take?",
+            "a": "<p>Plan for roughly two to three months from first consultation to discharge. Screening and eligibility review take one to three weeks, cell collection by apheresis takes a day, and manufacturing usually runs three to five weeks. Short lymphodepleting chemotherapy comes next, then the infusion, followed by two to four weeks near the hospital for monitoring. Manufacturing delays or infection can extend this timeline.</p>"
+          },
+          {
+            "q": "Can BCMA CAR-T cure my multiple myeloma?",
+            "a": "<p>BCMA CAR-T is not considered a cure for myeloma today. In trials, most heavily pretreated patients respond and many reach deep remission, but relapse remains common after one to three years, while a minority stay in remission much longer. The therapy can buy meaningful treatment-free time and better quality of life. Your myeloma specialist can explain what these response figures may mean for your specific disease.</p>"
+          },
+          {
+            "q": "What Indian BCMA CAR-T products are in the pipeline?",
+            "a": "<p>Indian developers including ImmunoACT and Immuneel, along with academic groups at Tata Memorial Centre and CMC Vellore, are advancing BCMA-directed constructs, with early-phase trials underway or being prepared. Some programmes are also exploring dual-target and off-the-shelf designs. An approved Indian BCMA product is widely expected within the next few years, though cell-therapy timelines often shift. Ask each centre directly about the current status of its programme.</p>"
+          },
+          {
+            "q": "Can international patients travel to India for BCMA CAR-T?",
+            "a": "<p>Yes, Indian centres treat international patients, but access to BCMA CAR-T depends on whether the programme is a trial or a paid commercial treatment, and many trials restrict enrolment to residents. You will need a medical visa, a caregiver and around three months of accommodation near the hospital. CancerFax can assist with records review and centre coordination, with all treatment decisions left to the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

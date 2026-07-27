@@ -1,0 +1,59 @@
+{
+  "pillar": "Total Body Irradiation (TBI): Transplant Conditioning Radiation Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "total-body-irradiation-tbi-transplant",
+  "route": "/treatments/total-body-irradiation-tbi-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is total body irradiation and why do I need it before a stem cell transplant?",
+            "a": "<p>Total body irradiation is radiation delivered to your entire body as part of the conditioning you receive before a stem cell transplant. It does two things: it kills cancer cells hiding anywhere in the body, and it suppresses your immune system so the donor cells are not rejected. TBI is almost always combined with chemotherapy. Whether your team recommends it depends on your diagnosis, your age, and the type of donor available.</p>"
+          },
+          {
+            "q": "How many TBI sessions will I need, and how long does each one take?",
+            "a": "<p>Most full-dose TBI is given as six to eight short treatments over three or four days, usually twice a day with at least six hours between them. Each session takes roughly 15 to 40 minutes, and much of that is positioning rather than radiation. Reduced-intensity regimens may use a single treatment. Your exact schedule depends on the dose your transplant team chooses and the machine your hospital uses.</p>"
+          },
+          {
+            "q": "Does total body irradiation hurt?",
+            "a": "<p>No, the radiation itself is painless, and you feel nothing while the beam is on. What is uncomfortable is holding still, sometimes standing or lying in a fixed position for 20 to 30 minutes at a time. Nausea often starts within a few hours of the first session, and anti-sickness medicine is given before treatment to blunt it. Tell your nurse early if the nausea is not controlled.</p>"
+          },
+          {
+            "q": "What side effects should I expect in the first few weeks after TBI?",
+            "a": "<p>Expect nausea, vomiting, diarrhoea, mouth sores, fatigue, hair loss, and swollen salivary glands in the first days. Blood counts fall sharply, so you will be at high risk of infection and bleeding until the donor cells engraft, often two to four weeks later. Some patients develop a dry cough or breathlessness from lung irritation. Most of these effects are managed on the transplant unit and improve as counts recover.</p>"
+          },
+          {
+            "q": "Will TBI make me infertile?",
+            "a": "<p>Full-dose TBI causes permanent infertility in most adults and many children, because the doses used damage the ovaries and testes directly. This is why fertility preservation, sperm banking, egg or embryo freezing, or ovarian tissue storage, should be discussed before conditioning starts, not after. Reduced-intensity regimens carry a lower but still real risk. Ask for a fertility referral as soon as transplant is mentioned, since the window is short.</p>"
+          },
+          {
+            "q": "Is TBI better than a chemotherapy-only conditioning regimen?",
+            "a": "<p>Neither is better for everyone. In children and young adults with acute lymphoblastic leukaemia, TBI-based conditioning has shown lower relapse and better survival than busulfan-based chemotherapy alone in randomised trials. For acute myeloid leukaemia and for older patients, chemotherapy-only regimens are often preferred because they spare the lungs, eyes, and thyroid. Your team weighs your diagnosis, age, organ function, and prior radiation before choosing. CancerFax can help you compare regimens offered at different transplant centres.</p>"
+          },
+          {
+            "q": "Can I have TBI in India or China, and what will it cost?",
+            "a": "<p>Yes. Major transplant centres in India and China deliver TBI routinely, and the radiation component is usually a small part of the total transplant bill. In India, an allogeneic transplant including conditioning commonly runs between USD 25,000 and 45,000, and Chinese centres are broadly similar. CancerFax can request written estimates on your behalf, though final costs depend on donor type, complications, and length of stay.</p>"
+          },
+          {
+            "q": "What is the difference between full-dose and low-dose TBI?",
+            "a": "<p>Full-dose, or myeloablative, TBI usually means 12 to 13.2 Gray split into several fractions, enough to wipe out your bone marrow completely. Low-dose, or reduced-intensity, TBI is often 2 to 4 Gray and works mainly by suppressing the immune system so donor cells can take hold. Full-dose regimens control the cancer harder but carry more toxicity, so they are generally reserved for younger, fitter patients.</p>"
+          },
+          {
+            "q": "What are the long-term risks of total body irradiation?",
+            "a": "<p>The main late risks are cataracts, hypothyroidism, reduced lung function, kidney impairment, and a raised chance of a second cancer years later. Children may also have slowed growth and hormone problems. Cataracts are common but treatable with surgery. Because these effects appear five to twenty years out, survivors need lifelong follow-up including eye, thyroid, and lung checks. Your transplant centre should give you a written survivorship plan before discharge.</p>"
+          },
+          {
+            "q": "What happens during a TBI session, and how do I prepare?",
+            "a": "<p>You will have a planning session first, where the team measures your body and makes shields for your lungs. On treatment days you either lie on a couch or stand against a frame a few metres from the machine, and staff watch you on camera throughout. Anti-sickness medicine is given beforehand. Eat lightly, wear comfortable clothes, and bring someone with you, since you may feel drained afterwards.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

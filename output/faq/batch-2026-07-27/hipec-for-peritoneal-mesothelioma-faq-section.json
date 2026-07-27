@@ -1,0 +1,59 @@
+{
+  "pillar": "HIPEC for Peritoneal Mesothelioma: A Curative-Intent Approach",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-for-peritoneal-mesothelioma",
+  "route": "/insights/hipec-for-peritoneal-mesothelioma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIPEC, and why is it used for peritoneal mesothelioma?",
+            "a": "<p>HIPEC is heated chemotherapy washed through your abdomen during surgery, right after the surgeon removes all visible tumour. Because peritoneal mesothelioma spreads across the abdominal lining rather than through the bloodstream, this delivers a very high drug dose exactly where the disease sits.</p><p>Heat helps the drug penetrate tissue and can kill microscopic deposits the surgeon cannot see. It is given once, in the operating room.</p>"
+          },
+          {
+            "q": "Can peritoneal mesothelioma actually be cured with HIPEC?",
+            "a": "<p>HIPEC is offered with curative intent, which means the goal is long-term disease control rather than a guaranteed cure. In selected patients whose tumour can be removed completely, published series report median survival of roughly three and a half to five years, and some people remain free of disease well beyond a decade.</p><p>Outcomes depend heavily on tumour subtype, how much disease is present, and whether complete removal is achieved.</p>"
+          },
+          {
+            "q": "Am I eligible for cytoreductive surgery and HIPEC?",
+            "a": "<p>Eligibility usually depends on three things: disease confined to the abdomen, enough of it being removable to leave no visible tumour, and you being fit enough for a long operation. Epithelioid mesothelioma responds best; sarcomatoid and biphasic types often do less well.</p><p>Patients ruled out locally are sometimes reassessed at high-volume peritoneal units, and CancerFax can help arrange that review. Your treating team makes the final call.</p>"
+          },
+          {
+            "q": "How long does the HIPEC operation take?",
+            "a": "<p>Expect eight to twelve hours in theatre in most cases. The bulk of that time is the cytoreductive surgery itself — stripping tumour from the peritoneum, diaphragm and bowel surface, and sometimes removing the omentum, spleen or sections of bowel. The heated chemotherapy circulates for only 60 to 90 minutes at around 42°C.</p><p>Longer operations are common when disease is widespread, and your surgeon will explain the expected extent beforehand.</p>"
+          },
+          {
+            "q": "What is recovery like after CRS and HIPEC?",
+            "a": "<p>Most people spend one to two days in intensive care and seven to fourteen days in hospital overall. Eating returns slowly because the bowel takes time to wake up, and fatigue commonly lasts two to three months.</p><p>Getting back to normal activity often takes three to six months. Your surgical team will advise when you are safe to travel home, which matters if you have had treatment in another country.</p>"
+          },
+          {
+            "q": "How long do people live after HIPEC for peritoneal mesothelioma?",
+            "a": "<p>Median survival after complete cytoreduction with HIPEC is commonly reported between 40 and 60 months, compared with roughly 12 months using chemotherapy alone. A quarter to a third of carefully selected patients are still alive at ten years.</p><p>These figures come from high-volume centres treating epithelioid disease with low tumour burden, so your own outlook may differ. Ask your oncologist what the numbers look like for your specific situation.</p>"
+          },
+          {
+            "q": "What is the peritoneal cancer index, and why does my surgeon keep mentioning it?",
+            "a": "<p>The peritoneal cancer index scores how much tumour is spread across thirteen regions of your abdomen, on a scale from 0 to 39. It is the strongest single predictor of whether the surgeon can remove everything, and therefore of how well HIPEC is likely to work.</p><p>A lower score generally means a better chance of complete cytoreduction. The final score is often confirmed only once the surgeon can see the abdomen directly.</p>"
+          },
+          {
+            "q": "How much does cytoreductive surgery with HIPEC cost in India?",
+            "a": "<p>In India, cytoreductive surgery with HIPEC typically costs between USD 12,000 and 25,000, against roughly USD 80,000 to 150,000 in the United States. The range depends on operating time, how much bowel work is needed, and days spent in intensive care.</p><p>CancerFax can help you compare quotes from accredited peritoneal surgery centres, though final pricing is confirmed by the hospital only after it reviews your scans and reports.</p>"
+          },
+          {
+            "q": "Will I still need chemotherapy after HIPEC?",
+            "a": "<p>Sometimes, but not always. Many centres give systemic chemotherapy before surgery to see how the disease behaves, and some add further cycles afterwards, particularly when the tumour could not be removed completely or the subtype is aggressive.</p><p>For low-burden epithelioid disease that was fully removed, surveillance scans alone may be enough. That decision rests with your medical oncologist and depends on your pathology report and how you recover.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of HIPEC?",
+            "a": "<p>Serious complications occur in roughly 20 to 40 percent of patients, and operative mortality at experienced centres is about 1 to 3 percent. The most common problems are bowel leaks, infection, blood clots, kidney strain from the chemotherapy, and low blood counts.</p><p>Risk rises with the extent of the surgery. Choosing a centre that performs these operations regularly is one of the few factors that measurably lowers it.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

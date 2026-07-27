@@ -1,0 +1,59 @@
+{
+  "pillar": "Complications of TARE: Radiation-Induced Liver Disease and Management",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-complications",
+  "route": "/insights/tare-complications",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is radiation-induced liver disease after TARE?",
+            "a": "<p>Radiation-induced liver disease, often called REILD, is liver injury that develops weeks after radiation reaches healthy liver tissue during TARE. It shows up as jaundice, fluid in the abdomen, and rising bilirubin, usually without any blockage of the bile ducts. It is uncommon after modern selective treatment, but it matters because the healthy liver you keep determines how much treatment you can safely have.</p>"
+          },
+          {
+            "q": "How common is liver damage after TARE?",
+            "a": "<p>Serious radiation-induced liver disease is uncommon, reported in roughly 0 to 4 percent of patients after selective TARE, and higher when both lobes are treated in one session. Milder changes in liver blood tests are far more frequent and often settle on their own. Your own risk depends on your cirrhosis stage, tumour burden, and the planned dose, so ask your team for a personal estimate.</p>"
+          },
+          {
+            "q": "When would liver problems start after my Y-90 treatment?",
+            "a": "<p>REILD typically appears four to eight weeks after TARE, not in the first few days. The tiredness, mild fever, and belly discomfort many people feel in the first week are usually post-embolisation syndrome, which settles within days. Later swelling of the abdomen, yellowing of the eyes, or new confusion needs same-week review. Keep your follow-up blood tests, because bilirubin often rises before you feel anything.</p>"
+          },
+          {
+            "q": "What symptoms should make me call my doctor after TARE?",
+            "a": "<p>Call your team the same day if your abdomen swells quickly, your eyes or skin turn yellow, you pass black stools or vomit blood, or you become drowsy and confused. Fever above 38 degrees, severe pain that painkillers do not touch, or persistent vomiting also needs urgent review. Mild tiredness, nausea, and a dull ache for a few days after treatment are expected and usually improve.</p>"
+          },
+          {
+            "q": "Who is most likely to get liver problems from TARE?",
+            "a": "<p>Risk is highest in people with advanced cirrhosis, low albumin, raised bilirubin before treatment, tumours spread through both lobes, or only a small volume of healthy liver left. Previous chemotherapy, whole-liver treatment in one sitting, and portal vein involvement can also add risk. Many of these are managed by treating one segment at a time, so a higher-risk profile does not automatically rule TARE out for you.</p>"
+          },
+          {
+            "q": "How is radiation-induced liver disease treated?",
+            "a": "<p>Treatment is supportive and aimed at protecting liver function while the injury settles. Doctors often use diuretics and salt restriction for fluid buildup, steroids in selected cases, and sometimes anticoagulation when the small liver veins are blocked. Nutrition support and stopping medicines that stress the liver matter just as much. Most mild cases improve over weeks to months, though severe REILD can be serious and needs specialist hepatology care.</p>"
+          },
+          {
+            "q": "Can the radioactive beads travel outside my liver?",
+            "a": "<p>Yes, a small amount can reach the stomach, bowel, or lungs if blood vessels are shared, which is why a mapping angiogram is done first. Stray beads can cause stomach ulcers, inflammation of the gallbladder, or in rare cases lung injury. Your team blocks risky vessels beforehand and measures lung shunting to limit this. Tell them early about persistent stomach pain or new breathlessness after treatment.</p>"
+          },
+          {
+            "q": "What is done before TARE to lower the risk of complications?",
+            "a": "<p>A planning angiogram maps your liver blood supply and blocks vessels feeding the stomach or bowel, while a test injection measures how much radiation would reach your lungs. Your team then calculates the dose for the tumour and the healthy liver separately. Treating one lobe or segment at a time, rather than the whole liver, is the single biggest safety step. Ask which of these applies to your scans.</p>"
+          },
+          {
+            "q": "Can I have TARE again if my cancer comes back?",
+            "a": "<p>Repeat TARE is often possible, and many patients have a second or third treatment to the same or a different part of the liver. The decision depends on how well your liver recovered, your bilirubin and albumin, and how much healthy tissue received radiation the first time. Each round adds cumulative dose, so your team may space treatments months apart or switch to another option.</p>"
+          },
+          {
+            "q": "Should I get a second opinion about complications after TARE?",
+            "a": "<p>A second opinion is reasonable if your bilirubin keeps rising, if you are being told no further treatment is possible, or if you are considering treatment in another country. Bring your pre- and post-treatment scans, the dosimetry report, and your blood test trends. CancerFax can help arrange review of these records by liver cancer specialists in India and China, though any plan should be agreed with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

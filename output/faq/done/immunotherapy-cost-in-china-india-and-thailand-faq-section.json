@@ -1,0 +1,59 @@
+{
+  "pillar": "Immunotherapy Costs: China vs India vs Thailand",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immunotherapy-cost-in-china-india-and-thailand",
+  "route": "/guides/immunotherapy-cost-in-china-india-and-thailand",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does immunotherapy cost in China, India, and Thailand?",
+            "a": "<p>A single immunotherapy cycle typically costs about $1,000–$2,500 in China, $2,000–$4,000 in India, and $4,000–$6,500 in Thailand. China is usually cheapest because its own PD-1 drugs, such as sintilimab and toripalimab, compete on price. India sits close behind on biosimilars. Thailand costs more but often books faster. Actual prices depend on the drug, your weight, and how many cycles your oncologist plans.</p>"
+          },
+          {
+            "q": "Why is immunotherapy so much cheaper in China than in the West?",
+            "a": "<p>China has approved more than a dozen homegrown PD-1 and PD-L1 drugs, and that competition has pushed prices far below Western levels. Its national insurance scheme also negotiates hard on price each year, which drags the private market down with it. A cycle that costs $10,000 in the United States may cost under $2,000 in Shanghai. Prices for international patients can differ from local rates, so confirm quotes in writing.</p>"
+          },
+          {
+            "q": "Which country is cheapest overall once I add travel and stay?",
+            "a": "<p>For most patients, India works out cheapest once flights, hotel, food, and visa costs are added. Living costs are low, English is widely spoken in hospitals, and a month of treatment plus stay can land near $8,000–$12,000. China's drug prices are lower, but interpreter fees and longer visa timelines narrow the gap. Thailand is the priciest of the three, though travel is easy for many passport holders.</p>"
+          },
+          {
+            "q": "What does the quoted price actually include?",
+            "a": "<p>Most quotes cover the drug itself, the infusion suite, nursing time, and the day's basic monitoring. They usually exclude scans, biopsies, biomarker tests such as PD-L1 or tumour mutational burden, doctor consultations, and any hospital stay for side effects. Those extras can add 20–40 percent to the total. Ask each hospital for a written line-item estimate covering the full course, not a single cycle, before you book flights.</p>"
+          },
+          {
+            "q": "Are the cheaper Chinese PD-1 drugs as good as Keytruda?",
+            "a": "<p>Chinese PD-1 drugs such as sintilimab, camrelizumab, and tislelizumab have shown results broadly comparable to Keytruda in several cancers, though most trials were run in Chinese patients. They are approved in China and, in tislelizumab's case, in Europe and the United States too. Response often depends more on your tumour type and PD-L1 score than on the brand. Your oncologist should decide which agent fits your case.</p>"
+          },
+          {
+            "q": "How many cycles will I need, and how does that change the bill?",
+            "a": "<p>Most immunotherapy plans run 4 to 8 cycles before a first assessment, then continue up to two years if the cancer responds. Budget for the full course, not the first few infusions: at Indian prices, a two-year plan can pass $40,000 even with biosimilars. Ask for the cost per cycle and the expected number of cycles together. Plans often change after the first scan, so treat any total as an estimate.</p>"
+          },
+          {
+            "q": "Can I get immunotherapy free through a clinical trial in China or India?",
+            "a": "<p>Clinical trials often supply the drug free and cover trial-related scans, which can remove most of the cost. China runs the largest number of oncology trials outside the United States, and India's trial network is growing. Entry depends on strict criteria: cancer type, stage, prior treatments, organ function, and sometimes residency. CancerFax can help you check which trials are open, but enrolment is never guaranteed and remains the trial team's decision.</p>"
+          },
+          {
+            "q": "Will my home insurance pay for immunotherapy abroad?",
+            "a": "<p>Most domestic policies do not pay for planned treatment overseas, though some employer and international plans include a medical-travel benefit. Ask your insurer in writing whether they reimburse foreign hospital bills, which documents they need, and whether pre-approval is required before you fly. Many patients abroad end up paying cash and claiming later, if at all. Coverage varies by policy and country, so confirm the details before committing.</p>"
+          },
+          {
+            "q": "Is cheaper treatment lower quality?",
+            "a": "<p>Lower price mostly reflects lower drug pricing, staff salaries, and hospital overheads, not weaker care. Leading centres in all three countries hold JCI or NABH accreditation and treat large international caseloads. Quality varies far more between individual hospitals than between the three countries. Check the specific centre's accreditation, its volume for your cancer type, and whether the treating oncologist has published or trained in your tumour area.</p>"
+          },
+          {
+            "q": "How do I compare quotes from hospitals in all three countries?",
+            "a": "<p>Ask every hospital for the same thing: drug name and dose, cost per cycle, number of cycles planned, and a separate list of scans, tests, and consultation fees. Convert all quotes to one currency and add flights, visa, and roughly $50–$120 a day for accommodation. CancerFax can collate quotes from centres in China, India, and Thailand for comparison. Final pricing depends on your reports and the hospital's own assessment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Intraoperative Radiation Therapy (IORT): Radiation During Surgery",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "iort",
+  "route": "/treatments/iort",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is intraoperative radiation therapy (IORT)?",
+            "a": "<p>IORT is a single, concentrated dose of radiation delivered directly to the tumour bed while you are still on the operating table, immediately after the surgeon removes the cancer. Because the tissue is exposed, the radiation goes straight where it is needed and nearby organs can be shielded or moved aside. The treatment usually takes 20 to 50 minutes under the same anaesthetic.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with IORT?",
+            "a": "<p>IORT is used most often in early-stage breast cancer, and also in pancreatic, colorectal, gynaecological and soft tissue sarcoma cases, including some recurrent tumours. It suits situations where the surgeon can see exactly where the cancer was and where the surgical margin may be thin. Whether it fits your case depends on tumour size, grade, location and pathology, so your surgical and radiation oncology teams decide together.</p>"
+          },
+          {
+            "q": "Does IORT mean I can skip weeks of daily radiation?",
+            "a": "<p>In selected early breast cancer patients, a single IORT dose can replace the entire three to six week course of external beam radiation. This applies mainly to older women with small, hormone-receptor-positive, node-negative tumours. If the final pathology report shows unfavourable features, your team may still recommend external radiation afterwards. Nothing is confirmed until that report is reviewed, usually about a week after surgery.</p>"
+          },
+          {
+            "q": "How much longer will my surgery take if I have IORT?",
+            "a": "<p>IORT typically adds 30 to 60 minutes to your operation, covering the time to position the applicator, deliver the dose and remove the equipment. You stay asleep under the same anaesthetic, so there is no extra hospital visit and no second recovery period. Most patients go home on the usual schedule for their surgery. Operating room time can vary with the technique and machine your hospital uses.</p>"
+          },
+          {
+            "q": "What are the side effects of IORT?",
+            "a": "<p>The most common side effects are local: swelling, fluid collecting at the surgical site, tenderness, slower wound healing and firmness of the treated tissue over time. Many patients avoid the fatigue and widespread skin changes that come with weeks of external radiation. Rarely, deeper tissue or nearby organs can be affected, depending on the site treated. Your surgeon can explain which risks matter most for your operation.</p>"
+          },
+          {
+            "q": "Is IORT available in India and China?",
+            "a": "<p>Yes, several large cancer centres in India and China offer IORT, mostly for breast cancer and in some hospitals for pancreatic and recurrent tumours. Availability is uneven, because the equipment and a trained radiation team must be in the same operating room on the same day. Scheduling often has to be arranged before you travel. CancerFax can help you check which hospitals currently run an active IORT programme.</p>"
+          },
+          {
+            "q": "How much does IORT cost if I travel for treatment?",
+            "a": "<p>IORT is usually billed inside the surgical package rather than as a separate item, and in India that package commonly costs far less than the same treatment in Western Europe or the United States. The final figure depends on the hospital, the cancer type, the length of your stay and whether other treatment follows. Ask for a written estimate that states clearly what is and is not included.</p>"
+          },
+          {
+            "q": "Am I a good candidate for IORT?",
+            "a": "<p>You may be a candidate if your tumour is small, clearly localised, and being removed through an operation where the radiation team can reach the tumour bed directly. Age, tumour biology, any previous radiation to the same area and your fitness for a slightly longer anaesthetic all count. Eligibility is decided case by case, usually in a joint discussion between your surgeon and radiation oncologist before surgery.</p>"
+          },
+          {
+            "q": "Is IORT as effective as standard radiation after surgery?",
+            "a": "<p>For carefully selected early breast cancer patients, long-term trial data show local recurrence rates slightly higher than whole breast radiation but still low, with no difference in overall survival. The word selected matters here, because results are much less favourable when IORT is given outside those criteria. For other cancers the evidence is more limited, and IORT is often combined with external radiation rather than replacing it.</p>"
+          },
+          {
+            "q": "Can I still have radiation later if the cancer comes back?",
+            "a": "<p>Often yes. Because IORT treats a small, defined volume, much of the surrounding tissue receives little or no radiation, which can leave options open for external beam treatment later. The decision depends on the dose already delivered, the area involved and how much time has passed. Bring your full radiation records to any new consultation, as your next team will need the exact dose and field details.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

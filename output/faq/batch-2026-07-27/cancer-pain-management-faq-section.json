@@ -1,0 +1,59 @@
+{
+  "pillar": "Cancer Pain Management: A Complete Patient Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cancer-pain-management",
+  "route": "/insights/cancer-pain-management",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why is my cancer pain still not under control?",
+            "a": "<p>Uncontrolled cancer pain usually means the dose, the drug type, or the dosing schedule needs adjusting, not that nothing more can be done. Most cancer pain can be managed well when the plan is reviewed regularly. Pain that burns or shoots often needs nerve-pain medicines rather than stronger opioids. Tell your oncology team the pain is breaking through, and ask whether a palliative care or pain specialist review may help.</p>"
+          },
+          {
+            "q": "What is the WHO pain ladder and how does it work?",
+            "a": "<p>The WHO pain ladder is a step-by-step guide doctors use to match pain medicine to pain severity. Step one uses paracetamol or anti-inflammatories for mild pain. Step two adds a weak opioid such as tramadol. Step three uses strong opioids such as morphine for moderate to severe pain. Doctors may start at any step, and often add nerve-pain drugs or steroids alongside, depending on what is causing the pain.</p>"
+          },
+          {
+            "q": "Will I become addicted if I take morphine for cancer pain?",
+            "a": "<p>Addiction is uncommon when opioids are taken as prescribed for genuine cancer pain. Your body can become physically dependent, which means the dose should be reduced slowly rather than stopped suddenly, but that is not the same as addiction. Fear of morphine often leads patients to suffer needlessly. If you have a history of substance use, tell your doctor so the plan can be adjusted safely.</p>"
+          },
+          {
+            "q": "What should I do about breakthrough pain between doses?",
+            "a": "<p>Breakthrough pain is treated with a fast-acting rescue dose taken in addition to your regular around-the-clock medicine. The rescue dose is often about one-tenth to one-sixth of the total daily dose, decided by your doctor. If you need rescue doses more than three or four times a day, your background dose may need increasing. Keep a simple diary of when the pain breaks through so the schedule can be adjusted.</p>"
+          },
+          {
+            "q": "Can radiotherapy help pain from cancer that has spread to my bones?",
+            "a": "<p>Radiotherapy relieves bone pain in most patients treated for it, often after a single session. Relief usually begins within one to four weeks and can last several months. It works well for painful spine, hip, and rib deposits, and may also lower the risk of fracture. Bone-strengthening drugs such as bisphosphonates or denosumab are often given alongside, depending on your cancer type and kidney function.</p>"
+          },
+          {
+            "q": "What is a nerve block, and would it help me?",
+            "a": "<p>A nerve block is an injection that interrupts pain signals from a specific nerve or nerve bundle, and it can sharply reduce pain that medicines alone do not control. A coeliac plexus block, for example, often helps pancreatic and upper abdominal pain. Blocks are performed by pain specialists using imaging guidance. Whether you are suitable depends on where the pain comes from, your clotting results, and local expertise.</p>"
+          },
+          {
+            "q": "Can I get strong pain medicine as an international patient in India or China?",
+            "a": "<p>Yes, major cancer hospitals in India and China can prescribe strong opioids to international patients during treatment, though the rules are strict. Opioids are usually dispensed in limited quantities and often cannot be carried across borders without documentation. Ask the hospital before you travel what pain medicines it can supply and for how long.</p><p>CancerFax can help you raise these questions with the hospital in advance, but supply and prescribing remain decisions for the treating medical team.</p>"
+          },
+          {
+            "q": "Are there non-drug ways to reduce cancer pain?",
+            "a": "<p>Yes, several non-drug approaches can meaningfully lower pain when used alongside medicines. Heat, gentle movement, physiotherapy, and positioning aids help musculoskeletal pain. Relaxation, breathing exercises, and counselling reduce the anxiety that amplifies pain. Acupuncture and massage help some patients. None of these replace proper pain medicine for moderate or severe cancer pain, but they may allow lower doses and fewer side effects.</p>"
+          },
+          {
+            "q": "How do I describe my pain so my doctor takes it seriously?",
+            "a": "<p>Describe your pain with a number, a location, and a description of how it feels. Rate it from zero to ten at its worst and at its best. Say whether it burns, aches, stabs, or throbs, what makes it better or worse, and what it stops you doing. Bring a few days of notes. Specific detail changes prescriptions far more reliably than saying the pain is bad.</p>"
+          },
+          {
+            "q": "Does needing strong painkillers mean my cancer is getting worse?",
+            "a": "<p>Not necessarily. Needing stronger pain medicine often reflects the position of a tumour, nerve involvement, treatment side effects, or tolerance, rather than the cancer progressing. Doctors judge progression from scans and blood tests, not from your opioid dose. That said, new or rapidly worsening pain should always be reported promptly, because it can occasionally signal a fracture, spinal cord compression, or another change that needs urgent imaging.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

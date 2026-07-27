@@ -1,0 +1,59 @@
+{
+  "pillar": "How China Uses Big Data to Predict Cancer Progression and Treatment Response",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-china-uses-big-data",
+  "route": "/guides/how-china-uses-big-data",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How does big data predict the way my cancer will progress?",
+            "a": "<p>Chinese cancer centres pool your scans, pathology slides, genomic reports and blood results, then compare them against millions of anonymised past cases to find patients whose disease behaved like yours. The model returns a probability, showing how likely the tumour is to grow, spread or respond, rather than a verdict. Your oncologist reads that alongside your clinical picture, and the estimate can change as new test results arrive.</p>"
+          },
+          {
+            "q": "Can I trust an AI prediction enough to change my treatment?",
+            "a": "<p>A big data prediction is strong enough to inform a treatment plan, but not to decide it on its own. Chinese centres report that risk scores track real outcomes closely for common cancers such as lung, liver, gastric and colorectal, where training data is large. Accuracy often falls for rare tumours. The final call depends on your oncologist weighing the score against your scans, biopsy and overall health.</p>"
+          },
+          {
+            "q": "What information do Chinese hospitals need to run this analysis?",
+            "a": "<p>Most centres ask for your pathology report, recent CT, MRI or PET images, blood work, any genomic or biomarker testing, and a summary of treatments you have already had. Raw DICOM image files matter more than printed reports, because the models read the images directly. If some tests are missing, the hospital may repeat them on arrival, and that can add time and cost to your visit.</p>"
+          },
+          {
+            "q": "Can big data tell me whether immunotherapy will work for me?",
+            "a": "<p>It can estimate the chance that immunotherapy helps you, not confirm it. Models combine PD-L1 levels, tumour mutation burden, gene expression patterns and how similar patients responded, producing a likelihood score that helps rank your options. Many Chinese centres use this to choose between immunotherapy alone and a combination with chemotherapy. Response still varies between people, so your team will confirm with imaging after the first cycles.</p>"
+          },
+          {
+            "q": "Do I have to fly to China, or can my records be reviewed from home?",
+            "a": "<p>Most Chinese centres will review your records remotely before you travel, so you can get an opinion on likely progression and treatment response first. You send scans, pathology and reports, and a tumour board responds in writing, often within one to two weeks. Services such as CancerFax help organise and translate that paperwork. Any plan agreed remotely still needs confirmation in person and discussion with your own oncologist.</p>"
+          },
+          {
+            "q": "How much does this kind of analysis cost?",
+            "a": "<p>Big data and AI analysis is usually bundled into the cost of consultation and diagnostic work-up rather than billed separately, and in China that work-up commonly runs between about 1,500 and 4,000 US dollars. Genomic sequencing, if it is needed, adds roughly 1,000 to 3,000 dollars. Prices vary by hospital and by how many tests you already have, so ask for a written estimate.</p>"
+          },
+          {
+            "q": "Is my medical data safe if a Chinese hospital analyses it?",
+            "a": "<p>Chinese hospitals treating international patients must store health data under national data-security and personal-information laws, and records used for model training are normally stripped of identifying details. You can ask, in writing, whether your data will be used for research and whether you may refuse. The rules differ from those in Europe or the United States, so read the consent form carefully before signing.</p>"
+          },
+          {
+            "q": "What if the Chinese prediction disagrees with my own oncologist?",
+            "a": "<p>Disagreement is common and often useful, because the two teams may be weighing different evidence rather than one being wrong. Ask each side which data drove the conclusion: staging, genomic findings, performance status, or the comparison group the model used. A joint call between your home oncologist and the Chinese team often resolves it. Your treating doctor, who examines you, remains responsible for the final plan.</p>"
+          },
+          {
+            "q": "Does big data help find a clinical trial I could join?",
+            "a": "<p>Yes, trial matching is one of its most practical uses. The same profile that predicts your response, including mutations, prior treatments and organ function, is checked against open Chinese studies in CAR-T, bispecific antibodies and targeted drugs, shortening a search that can take weeks. CancerFax can pass your file to centres running relevant trials. Meeting the criteria on paper does not guarantee a place, since enrolment depends on site capacity.</p>"
+          },
+          {
+            "q": "How often should these predictions be repeated during treatment?",
+            "a": "<p>Most Chinese centres rerun the analysis at each response assessment, typically every two to three cycles of drug treatment or every eight to twelve weeks. New imaging, tumour markers and circulating tumour DNA all shift the estimate, sometimes flagging resistance before a scan shows clear growth. Ask your team when the next reassessment is due and what result would prompt a change of drug.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

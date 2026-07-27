@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is Radiofrequency Ablation (RFA) and How Does It Destroy Tumours?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-radiofrequency-ablation",
+  "route": "/insights/what-is-radiofrequency-ablation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is radiofrequency ablation (RFA) for cancer?",
+            "a": "<p>Radiofrequency ablation is a minimally invasive treatment that destroys tumours with heat instead of surgery. A thin needle-like probe is placed into the tumour, usually through the skin under CT or ultrasound guidance, and a high-frequency electrical current passes through its tip. The current agitates molecules in the surrounding tissue, generating temperatures of roughly 60 to 100 degrees Celsius that kill the tumour cells directly.</p>"
+          },
+          {
+            "q": "How exactly does the heat destroy tumour cells?",
+            "a": "<p>The heat causes coagulative necrosis, meaning tumour cell proteins denature and the cells die within seconds. The probe does not burn tissue in the way a flame would; the alternating current makes ions in the tissue vibrate, and that friction produces heat around the electrode tip. Doctors deliberately treat a margin of healthy tissue beyond the tumour edge, because leaving even a small rim of live cells is a common cause of recurrence.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with RFA?",
+            "a": "<p>RFA is used most often for liver tumours, including hepatocellular carcinoma and liver metastases from bowel cancer, and it is also established for kidney, lung, bone and thyroid tumours. Small, well-defined tumours respond best, typically those under three centimetres. Whether it suits a particular person depends on tumour size, number, location near major blood vessels or bile ducts, and overall organ function, so eligibility is always decided case by case.</p>"
+          },
+          {
+            "q": "Is RFA as good as surgery for my tumour?",
+            "a": "<p>For small liver and kidney tumours, RFA can give survival results comparable to surgery while avoiding a major operation. The advantage narrows as tumours grow larger, and surgery often remains the stronger choice above three centimetres or when the tumour sits against a large blood vessel that carries heat away. Many teams also use RFA when a patient is not fit enough for an operation, so the comparison depends heavily on individual circumstances.</p>"
+          },
+          {
+            "q": "What actually happens on the day of the procedure?",
+            "a": "<p>Most RFA procedures take 30 minutes to two hours and are done under sedation or general anaesthetic, depending on the tumour site. An interventional radiologist uses ultrasound, CT or MRI to guide the probe precisely into the tumour, delivers the energy in one or more cycles, then often heats the needle track on withdrawal to reduce the chance of cells seeding along it.</p><p>Many patients go home the same day or after one night in hospital.</p>"
+          },
+          {
+            "q": "How much does RFA hurt and how long is recovery?",
+            "a": "<p>Pain during RFA is controlled by sedation or anaesthetic, and afterwards most people describe a dull ache or soreness at the puncture site for a few days. Normal activity usually resumes within about a week, far quicker than the six weeks or more common after open surgery. Some people develop post-ablation syndrome, with mild fever, tiredness and aching for several days, which typically settles on its own.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of RFA?",
+            "a": "<p>Serious complications are uncommon, occurring in roughly two to three percent of procedures, but they are real. Reported risks include bleeding, infection or abscess, injury to nearby structures such as the bowel, bile ducts or diaphragm, and collapsed lung when treating lung tumours. Tumour position drives much of this risk, which is why the pre-procedure imaging review matters so much and why some tumours are ruled out.</p>"
+          },
+          {
+            "q": "Can the tumour come back after ablation?",
+            "a": "<p>Yes, tumours can recur, either at the treated site or elsewhere in the organ. Local recurrence is more likely with larger tumours, unclear margins, or tumours near big blood vessels where flowing blood cools the tissue and leaves cells alive. Follow-up scans, usually CT or MRI at intervals over the first year and beyond, are standard, and a recurrence at the same site can often be treated with a second ablation.</p>"
+          },
+          {
+            "q": "Can RFA be combined with chemotherapy or other treatments?",
+            "a": "<p>Yes, RFA is often part of a wider plan rather than a standalone treatment. It may be combined with chemotherapy, targeted drugs, immunotherapy, TACE for liver tumours, or radiotherapy, and it can be used before or after surgery in some cases. Sequencing matters and depends on cancer type, stage and how the tumour has responded so far, so the oncology team decides the order for each patient.</p>"
+          },
+          {
+            "q": "How do I find out whether RFA is available for me abroad?",
+            "a": "<p>Start by asking your oncologist for recent imaging and a written summary, since any centre will need these to judge suitability. RFA is widely offered at major cancer hospitals in India and China, often at lower cost than in Western countries, though quoted prices vary with organ, tumour number and hospital.</p><p>CancerFax can help arrange a review of your reports by centres abroad, but the final decision on whether ablation is appropriate rests with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

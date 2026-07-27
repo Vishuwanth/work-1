@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Therapy vs Checkpoint Inhibitors: A Comparison for Cancer Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-vs-checkpoint-inhibitors",
+  "route": "/insights/cik-therapy-vs-checkpoint-inhibitors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between CIK therapy and checkpoint inhibitors?",
+            "a": "<p>CIK therapy adds immune cells to your body, while checkpoint inhibitors release the brakes on the immune cells you already have. CIK (cytokine-induced killer) treatment takes your own white blood cells, grows them in a lab, and infuses them back. Checkpoint inhibitors are drugs that block proteins like PD-1 or CTLA-4 so your T cells can recognise tumour cells again. Both aim at the same goal by different routes.</p>"
+          },
+          {
+            "q": "Which one works better for my cancer?",
+            "a": "<p>Which works better depends on your cancer type, its stage and your biomarker results, so there is no single winner. Checkpoint inhibitors have the stronger evidence base in melanoma, lung, kidney, bladder and head-and-neck cancers, and are approved in most countries. CIK therapy is mainly studied as an add-on after surgery or chemotherapy, often in liver, gastric and lung cancer. Your oncologist can weigh which fits your case.</p>"
+          },
+          {
+            "q": "Can I have CIK therapy and a checkpoint inhibitor at the same time?",
+            "a": "<p>In many programmes the two are given together, because they act on different parts of the immune response. Early trials combining CIK cells with PD-1 inhibitors report higher response rates than either alone in some solid tumours, though most of this data comes from small studies in China. Combination treatment can also raise the chance of immune side effects, so it needs close monitoring by an experienced team.</p>"
+          },
+          {
+            "q": "Is CIK therapy approved, or is it still experimental?",
+            "a": "<p>Checkpoint inhibitors are fully approved, while CIK therapy is not approved in the United States or Europe and remains largely investigational. Drugs such as pembrolizumab, nivolumab and atezolizumab carry regulatory approval in dozens of countries. CIK cells are offered in China, Japan and parts of Asia under hospital or clinical-trial frameworks, and access depends on the centre and your diagnosis. Ask any clinic to show the regulatory basis for its programme.</p>"
+          },
+          {
+            "q": "What are the side effects of each treatment?",
+            "a": "<p>Their side effects differ because the mechanisms differ. CIK infusions usually cause short-lived fever, chills and fatigue in the days after treatment, and serious reactions are uncommon. Checkpoint inhibitors can push the immune system to attack healthy organs, causing skin rash, colitis, thyroid problems, liver inflammation or, rarely, lung or heart inflammation. These reactions may appear months into treatment and often need steroids, so symptoms should be reported quickly.</p>"
+          },
+          {
+            "q": "How much does CIK therapy cost compared with checkpoint inhibitors?",
+            "a": "<p>Costs vary widely, but CIK therapy in Asia is usually quoted per infusion cycle while checkpoint inhibitors are priced per dose and continue for months or years. A course of CIK cells commonly runs into several thousand US dollars, and checkpoint inhibitor treatment can be far higher over a full year, though biosimilars and Indian-made versions have lowered prices. CancerFax can help you compare quotes from treating hospitals.</p>"
+          },
+          {
+            "q": "How long does each treatment take?",
+            "a": "<p>Checkpoint inhibitors are given as a short infusion every two to six weeks, often continuing for up to two years if the cancer responds. CIK therapy involves collecting your white blood cells, culturing them for roughly two weeks, then giving several infusions across a cycle, with cycles sometimes repeated every few months. Plan for a stay of two to four weeks abroad, depending on the centre's protocol.</p>"
+          },
+          {
+            "q": "Do I need a biomarker test before starting either treatment?",
+            "a": "<p>Often yes, for checkpoint inhibitors. PD-L1 staining, microsatellite instability or tumour mutational burden can predict who is likely to benefit, and some approvals require these results. CIK therapy has no validated biomarker, which is one reason its results are harder to predict. Bringing recent pathology blocks and molecular reports to your consultation may save weeks, because centres abroad usually review or repeat the testing themselves.</p>"
+          },
+          {
+            "q": "Can CIK therapy help if checkpoint inhibitors stopped working?",
+            "a": "<p>It may be considered, but the evidence is limited. Some centres offer CIK cells after checkpoint inhibitors stop working, on the reasoning that fresh effector cells may help when the existing T cells are exhausted. Reported benefits come mostly from small series rather than randomised trials. A repeat biopsy, a trial of a newer agent, or a different cell therapy such as TIL or CAR-T may also be worth discussing.</p>"
+          },
+          {
+            "q": "Where can I get these treatments — are they available in India and China?",
+            "a": "<p>Checkpoint inhibitors are widely available in India, including lower-cost locally manufactured versions, while CIK therapy is offered mainly at Chinese and Japanese centres. Indian hospitals run cell-therapy programmes, but these focus more on CAR-T than on CIK. Access depends on your diagnosis, prior treatment and fitness to travel, and each centre sets its own criteria. CancerFax can share which hospitals currently accept international patients for these programmes.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

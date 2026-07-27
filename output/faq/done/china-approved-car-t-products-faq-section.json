@@ -1,0 +1,59 @@
+{
+  "pillar": "China's Approved CAR-T Products: What International Patients Need to Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-approved-car-t-products",
+  "route": "/insights/china-approved-car-t-products",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Which CAR-T therapies are actually approved in China?",
+            "a": "<p>China has licensed six CAR-T products. Three target CD19 for lymphoma and B-cell leukaemia: axicabtagene ciloleucel (Yescarta), relmacabtagene autoleucel (Carteyva) and inaticabtagene autoleucel (Yuanruida). Three target BCMA for multiple myeloma: equecabtagene autoleucel (Fucaso), zevorcabtagene autoleucel and ciltacabtagene autoleucel (Carvykti). New approvals arrive regularly, so ask the treating centre to confirm what is currently licensed for your specific diagnosis.</p>"
+          },
+          {
+            "q": "Are these the same CAR-T drugs sold in the US and Europe?",
+            "a": "<p>Partly. Axicabtagene ciloleucel and ciltacabtagene autoleucel are the same products licensed in the US and Europe, manufactured locally through partnerships. The others, including relmacabtagene, inaticabtagene, equecabtagene and zevorcabtagene autoleucel, are Chinese-developed and approved only in China, though several are in international trials. The cell engineering differs between products, so response rates and side-effect patterns do not transfer exactly from one to another.</p>"
+          },
+          {
+            "q": "How much does approved CAR-T therapy cost in China?",
+            "a": "<p>List prices for China's approved CAR-T products run roughly 1.0 to 1.3 million RMB, about US$140,000 to US$180,000 for the infusion alone. International patients should budget more, because hospital stay, lymphodepleting chemotherapy, intensive care cover, imaging and interpreter support are billed separately. Full packages often reach US$200,000 or higher. Prices move with hospital and policy, so request a written quotation before you travel.</p>"
+          },
+          {
+            "q": "Can international patients get approved CAR-T in China?",
+            "a": "<p>Yes, in many cases. Chinese hospitals licensed to deliver approved CAR-T can treat foreign patients privately, as these products are not reserved for residents. You will need translated medical records, a pathology and flow cytometry report confirming the target antigen, and a medical visa. Acceptance depends on the hospital's own review of your disease status and fitness, so a place can never be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for treatment?",
+            "a": "<p>Plan for six to ten weeks in China. Apheresis, the cell collection step, happens early; manufacturing an approved product usually takes two to four weeks; then comes lymphodepleting chemotherapy and the infusion itself. Most centres ask you to stay within about an hour of the hospital for four weeks afterwards, so cytokine release syndrome or neurological toxicity can be treated quickly. Individual timelines vary.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the infusion?",
+            "a": "<p>Cytokine release syndrome and neurological toxicity are the two side effects that matter most. Cytokine release syndrome brings fever, low blood pressure and breathlessness, usually within the first week, and is treated with tocilizumab and steroids. Neurological effects can include confusion, tremor or difficulty speaking. Low blood counts and infection risk often persist for weeks, which is why infusion happens only in centres with intensive care.</p>"
+          },
+          {
+            "q": "Is CAR-T in China a clinical trial or a licensed treatment?",
+            "a": "<p>Both exist, and the difference matters a great deal. Approved products are licensed commercial treatments given at authorised hospitals under regulatory supervision, and you pay for them. China also runs hundreds of CAR-T trials for targets not yet approved, such as CD7, GPC3 and Claudin18.2. Trials may reduce cost but carry strict entry criteria and cannot promise a place. Always ask which one a quotation describes.</p>"
+          },
+          {
+            "q": "What if my cancer isn't lymphoma, leukaemia or myeloma?",
+            "a": "<p>Approved CAR-T in China covers only B-cell lymphoma, B-cell acute lymphoblastic leukaemia and multiple myeloma. Solid tumours such as liver, stomach and pancreatic cancer remain investigational and are reachable only through clinical trials. Anyone offering a licensed CAR-T for a solid tumour is describing it incorrectly. CancerFax can help check whether an open trial matches your diagnosis, though your own oncologist should judge whether that route suits you.</p>"
+          },
+          {
+            "q": "How do I find out whether I'm eligible?",
+            "a": "<p>Eligibility usually rests on four things: a confirmed target antigen on your tumour cells, adequate organ and bone marrow function, disease that has returned or resisted earlier lines of treatment, and enough general fitness to withstand chemotherapy. Active infection or central nervous system involvement can delay or exclude you. The Chinese centre makes the final decision after reviewing your records, so early opinions are always provisional.</p>"
+          },
+          {
+            "q": "What should I organise before I travel?",
+            "a": "<p>Gather translated pathology and flow cytometry reports, recent PET-CT or bone marrow results, your full treatment history and current blood work, since Chinese hospitals cannot assess you without them. Then request a written cost estimate, confirm the hospital is licensed for that specific product, and arrange a medical visa and a caregiver. CancerFax can coordinate record transfer and hospital review, but your treating oncologist should approve the plan.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

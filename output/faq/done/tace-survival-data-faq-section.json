@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE Survival Data: Evidence from Pivotal Clinical Trials in HCC",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-survival-data",
+  "route": "/insights/tace-survival-data",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long do people usually live after TACE for liver cancer?",
+            "a": "<p>Median overall survival after TACE in modern series is roughly 20 to 40 months, depending on liver function and tumour burden. The pivotal trials from 2002 reported about 20 months, while recent cohorts with better patient selection and repeat treatment often exceed 30 months. Your own outlook depends on Child-Pugh score, tumour number and size, and vascular invasion, so ask your hepatologist for a personalised estimate.</p>"
+          },
+          {
+            "q": "What did the original TACE clinical trials actually show?",
+            "a": "<p>Two randomised trials published in 2002 established TACE as standard care. The Barcelona trial by Llovet reported two-year survival of 63 percent with chemoembolisation versus 27 percent with conservative care. A Hong Kong trial by Lo found a similar survival gain. Both were stopped early because the benefit was clear. Later meta-analyses confirmed the advantage in carefully selected intermediate-stage patients who still have good liver function.</p>"
+          },
+          {
+            "q": "Does TACE actually extend life compared with doing nothing?",
+            "a": "<p>Yes, in randomised trials TACE extended survival compared with supportive care alone. Pooled data showed roughly a 40 percent reduction in the risk of death at two years for intermediate-stage patients. The benefit was largest in people with preserved liver function, no portal vein invasion, and tumours confined to the liver. If liver function is already poor, the procedure can do more harm than good.</p>"
+          },
+          {
+            "q": "Are drug-eluting beads better than conventional TACE for survival?",
+            "a": "<p>Survival appears similar with both techniques. The PRECISION V trial compared drug-eluting bead TACE with conventional lipiodol TACE and did not show a significant response advantage, and later randomised studies found no clear difference in overall survival. Bead TACE often causes less nausea, hair loss, and liver enzyme disturbance, so many centres choose it for tolerability rather than for longer life expectancy. Your team may still prefer one method based on tumour size and vessel anatomy.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need, and does having more help?",
+            "a": "<p>Most patients receive two to four sessions in the first year, repeated on demand when imaging shows viable tumour. More sessions do not automatically mean longer survival. Trials and registry data suggest that continuing TACE after two failed attempts, known as TACE refractoriness, can damage liver function and shorten survival. At that point, switching to systemic therapy often gives a better result. Your team should reassess response after every cycle.</p>"
+          },
+          {
+            "q": "Does adding immunotherapy or targeted drugs to TACE improve survival?",
+            "a": "<p>Combination approaches have improved progression-free survival, and overall survival data are still maturing. EMERALD-1 showed that adding durvalumab and bevacizumab to TACE extended median progression-free survival to about 15 months, against roughly 8 months with TACE alone. LEAP-012 reported a similar gain with lenvatinib and pembrolizumab. Access varies by country, and CancerFax can help you check where such protocols are running, though eligibility remains your oncology team's decision.</p>"
+          },
+          {
+            "q": "Why do survival numbers for TACE vary so much between studies?",
+            "a": "<p>Because the patients differ, not just the treatment. Intermediate-stage liver cancer covers a wide range, from a single 6 cm tumour to a dozen small ones. Trials that enrolled only Child-Pugh A patients with limited disease report much better figures than real-world registries. Definitions of survival, the number of repeat sessions, and access to systemic therapy afterwards also move the numbers. Always ask which population a quoted figure came from.</p>"
+          },
+          {
+            "q": "Who should not have TACE?",
+            "a": "<p>TACE is generally avoided in people with decompensated cirrhosis, main portal vein thrombosis, significant spread outside the liver, or poor performance status. In these groups the procedure rarely prolongs life and can trigger liver failure. Child-Pugh C patients were excluded from the pivotal trials, so there is no trial evidence of benefit for them. Systemic therapy, transplant assessment, or supportive care may suit better, depending on the person.</p>"
+          },
+          {
+            "q": "Can TACE cure liver cancer, or does it only buy time?",
+            "a": "<p>TACE is rarely curative on its own. It is designed to control tumours and extend life, and complete tumour destruction happens in only a minority of cases. Some patients respond well enough to be downstaged to surgery, ablation, or transplant, which can offer a cure. Whether downstaging is realistic depends on tumour size, number, and how well the liver copes with treatment. Your team can review this at each imaging check.</p>"
+          },
+          {
+            "q": "How do I know whether TACE is the right next step for me?",
+            "a": "<p>The decision rests on your BCLC stage, Child-Pugh score, portal vein status, and whether surgery, ablation, or transplant is still possible. Ask your team what median survival they see in patients like you, and what the plan is if TACE stops working. CancerFax can help you gather a second opinion and compare hospital options, though the final call belongs to your treating oncology team. Written answers to those two questions are worth requesting.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

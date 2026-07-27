@@ -1,0 +1,59 @@
+{
+  "pillar": "Colorectal Cancer Treatment Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "colorectal-cancer-treatment-guide-cancerfax",
+  "route": "/insights/colorectal-cancer-treatment-guide-cancerfax",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are my treatment options for colorectal cancer?",
+            "a": "<p>Surgery is the main treatment for most colorectal cancers, often combined with chemotherapy, radiation, targeted drugs, or immunotherapy depending on stage. Early tumours may need surgery alone. Stage III usually adds chemotherapy after surgery. Rectal cancer often adds radiation before surgery. Stage IV may combine chemotherapy with targeted therapy, and sometimes surgery for liver or lung spread. Your exact plan depends on tumour location, stage, and molecular test results.</p>"
+          },
+          {
+            "q": "Can stage 4 colorectal cancer still be treated?",
+            "a": "<p>Yes, stage 4 colorectal cancer is treatable, and in selected patients it can be controlled for years. Chemotherapy combined with targeted drugs is the backbone. When spread is limited to the liver or lungs, surgery or ablation may remove it completely, and some of these patients live many years. Tumour molecular profile, including RAS, BRAF and MMR status, strongly shapes drug choice. Outcomes vary widely, so ask your oncologist what is realistic in your case.</p>"
+          },
+          {
+            "q": "What is the survival rate for colorectal cancer?",
+            "a": "<p>Roughly 90% of people with colorectal cancer caught while still confined to the bowel wall are alive five years later, falling to about 70% with lymph node involvement and around 15% once it has spread to distant organs. These are averages from large registries, not predictions for one person. Newer targeted and immunotherapy drugs have improved the stage 4 numbers. Your own outlook depends on tumour biology, fitness, and how well treatment works.</p>"
+          },
+          {
+            "q": "Do I need chemotherapy after my colon cancer surgery?",
+            "a": "<p>Chemotherapy after surgery is standard when cancer has reached the lymph nodes (stage III), and it lowers the chance of recurrence by roughly a third. Stage I rarely needs it. Stage II is a judgement call, based on features like tumour perforation, obstruction, few nodes examined, or high-risk molecular findings. Most regimens use oxaliplatin with capecitabine or 5-FU for three to six months. Your oncologist weighs the benefit against side effects such as nerve damage.</p>"
+          },
+          {
+            "q": "My report says MSI-High. What does that mean for my treatment?",
+            "a": "<p>MSI-High or dMMR means your tumour has a faulty DNA repair system, and it often responds well to immunotherapy. About 5% of advanced colorectal cancers carry this marker. For these patients, checkpoint drugs such as pembrolizumab can work better than chemotherapy as first treatment, with long-lasting responses in many cases. The test is done on your biopsy tissue. If it has not been done, ask your oncology team to arrange it before starting drug treatment.</p>"
+          },
+          {
+            "q": "Will I need a permanent colostomy bag?",
+            "a": "<p>Most people with colon cancer do not need a permanent stoma, and many rectal cancer patients receive only a temporary one that is reversed after a few months. Permanent colostomy is usually needed when the tumour sits very low in the rectum and involves the anal sphincter. Surgical techniques and radiation given before surgery have made sphincter preservation more common. Ask your surgeon directly, before the operation, which outcome is likely for your tumour position.</p>"
+          },
+          {
+            "q": "How much does colorectal cancer treatment cost in India?",
+            "a": "<p>Colorectal cancer treatment in India typically costs a fraction of US or European prices. Surgery often ranges from about $5,000 to $9,000, and a full course of chemotherapy with targeted drugs commonly falls between $6,000 and $15,000, depending on the regimen and hospital. Robotic surgery and immunotherapy raise the total. CancerFax can help you compare written estimates from accredited centres, though the final figure always depends on your stage and treatment plan.</p>"
+          },
+          {
+            "q": "Is it worth travelling to India or China for colorectal cancer treatment?",
+            "a": "<p>Travelling abroad can make sense when a treatment is unavailable, delayed, or unaffordable at home, but it is rarely worth it for standard chemotherapy you can receive locally. India offers experienced colorectal surgeons and short waiting times. China provides access to certain trials and newer cell therapies still in study. Advanced disease often needs continuous care, so plan for follow-up after you return. Discuss any travel plan with your current oncologist first.</p>"
+          },
+          {
+            "q": "Is rectal cancer treated differently from colon cancer?",
+            "a": "<p>Rectal cancer usually needs radiation; colon cancer usually does not. Because the rectum sits deep in the pelvis with little surrounding tissue, surgeons often give chemotherapy and radiation first to shrink the tumour and protect the sphincter. Colon cancer is normally removed first, with chemotherapy afterwards if lymph nodes are involved. Rectal surgery is also technically harder and more often done robotically. This is why the exact tumour location changes your whole treatment sequence.</p>"
+          },
+          {
+            "q": "Should I look at clinical trials for my colorectal cancer?",
+            "a": "<p>A clinical trial is worth considering when standard treatments have stopped working, or when your tumour carries an uncommon marker such as BRAF V600E or HER2 amplification. Trials for colorectal cancer are running in India, China, and elsewhere, including cell therapy and new antibody drug studies. Entry always depends on strict eligibility criteria, and acceptance can never be promised. CancerFax can help you identify open trials to review with your treating oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

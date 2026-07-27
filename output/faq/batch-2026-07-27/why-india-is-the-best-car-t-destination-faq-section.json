@@ -1,0 +1,59 @@
+{
+  "pillar": "Why India Is the Best CAR-T Destination for South Asian and East African Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "why-india-is-the-best-car-t-destination",
+  "route": "/insights/why-india-is-the-best-car-t-destination",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why do so many patients from South Asia and East Africa choose India for CAR-T therapy?",
+            "a": "<p>India combines locally manufactured CAR-T products, short waiting times, and costs far below the United States or Europe, which matters when families are self-funding. Direct flights from Dhaka, Kathmandu, Colombo, Nairobi and Addis Ababa keep travel manageable, and medical visas are usually processed quickly. Suitability still depends on your cancer type, prior treatments and overall fitness, so your treating oncology team must confirm you are a candidate.</p>"
+          },
+          {
+            "q": "How much does CAR-T therapy cost in India compared to the US?",
+            "a": "<p>CAR-T therapy in India typically costs between about US$40,000 and US$70,000 for the cell product, compared with roughly US$400,000 or more in the United States. Hospital stay, ICU care, scans and medicines add to that figure, and complications can raise it further. Final pricing depends on the hospital, the product used and your condition, so ask for a written, itemised estimate before you book travel.</p>"
+          },
+          {
+            "q": "Which hospitals in India offer CAR-T cell therapy?",
+            "a": "<p>CAR-T therapy in India is delivered at a small number of accredited centres, mainly in Mumbai, Delhi, Bengaluru, Chennai and Hyderabad, including Tata Memorial Centre, Apollo, Fortis, HCG and Medanta. Each centre needs a licensed cell therapy unit, an apheresis facility and an ICU trained in managing cytokine release syndrome. Availability changes as new products are approved, so confirm current status directly with the hospital before planning your trip.</p>"
+          },
+          {
+            "q": "How long do I need to stay in India, and will I get a medical visa?",
+            "a": "<p>Plan for roughly two to three months in India. Most patients need a medical visa, which South Asian and East African applicants can usually obtain within one to two weeks with a hospital invitation letter. The treatment itself involves cell collection, about three to four weeks of manufacturing, infusion, and then four weeks of close monitoring nearby. Delays can happen, so keep your visa validity and budget flexible.</p>"
+          },
+          {
+            "q": "Is CAR-T therapy in India as safe as in the US or Europe?",
+            "a": "<p>Indian CAR-T centres follow the same core safety standards used in Western hospitals: licensed manufacturing, ICU-level monitoring, tocilizumab on hand, and staff trained to spot cytokine release syndrome and neurotoxicity early. Published Indian trial results for NexCAR19 show response and toxicity rates broadly in line with international data. Outcomes still vary by patient and disease, so ask each centre for its own case numbers and complication rates.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with CAR-T in India?",
+            "a": "<p>In India, CAR-T is approved mainly for relapsed or refractory B-cell cancers: B-cell acute lymphoblastic leukaemia in children and young adults, and diffuse large B-cell lymphoma and other aggressive B-cell lymphomas in adults. Myeloma patients may access BCMA-directed CAR-T through trials or newer approvals. Solid tumours are not yet routinely treated, so ask your haematologist whether your specific diagnosis and treatment history fit current eligibility criteria.</p>"
+          },
+          {
+            "q": "Will language be a problem for me and my family in India?",
+            "a": "<p>English is the working language in every major Indian cancer hospital, so most South Asian and East African patients manage consultations without an interpreter. Larger centres also arrange Bengali, Nepali, Amharic, Swahili and Arabic interpreters, plus halal and vegetarian food and accommodation near the hospital. Coordinators such as CancerFax can help gather records and arrange these logistics beforehand, though all clinical decisions stay with your treating oncology team.</p>"
+          },
+          {
+            "q": "What happens if I develop cytokine release syndrome during treatment in India?",
+            "a": "<p>Cytokine release syndrome is common after CAR-T infusion, and Indian centres plan for it in advance. Most patients develop fever within the first week; the team treats it with fluids, tocilizumab and, if needed, steroids and intensive care. A bed and these drugs are held for you during that window. Severity varies with disease burden, so your doctors will want you staying close to the hospital throughout.</p>"
+          },
+          {
+            "q": "Can my doctor at home handle my follow-up after CAR-T in India?",
+            "a": "<p>Yes, in most cases. After about four weeks of close monitoring in India, your Indian team writes a detailed discharge summary and follow-up schedule that your local haematologist can continue at home. You will usually need regular blood counts, infection checks and, if B-cell aplasia develops, immunoglobulin replacement. Arrange this handover before you travel, because access to immunoglobulin and specialist follow-up varies widely between countries.</p>"
+          },
+          {
+            "q": "How do I start the process of getting CAR-T therapy in India?",
+            "a": "<p>Start by sending your recent records to an Indian CAR-T centre for a written opinion: biopsy and immunophenotyping reports, PET or CT scans, bone marrow results, and a summary of every treatment you have had. The centre reviews these and confirms whether you are eligible before you spend anything on travel. CancerFax can route these documents to the right unit, but eligibility remains the hospital's clinical decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

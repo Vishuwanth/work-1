@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE + RFA Combination for Intermediate HCC: The Chinese Standard Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-rfa-combination",
+  "route": "/insights/tace-rfa-combination",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TACE plus RFA combination treatment for liver cancer?",
+            "a": "<p>TACE plus RFA is a two-step treatment done through the skin, without open surgery. TACE first blocks the artery feeding the tumour and delivers chemotherapy directly into it. RFA then follows, usually within one to four weeks, using a needle that heats and destroys the remaining tumour tissue. Chinese liver centres treat this pairing as standard for intermediate-stage hepatocellular carcinoma when surgery is not suitable.</p>"
+          },
+          {
+            "q": "Why do doctors combine the two instead of just doing one?",
+            "a": "<p>Combining them covers each treatment's weak point. TACE shrinks the tumour and cuts its blood supply, but rarely kills every cancer cell in a lesion above three centimetres. RFA burns tissue precisely, yet flowing blood carries heat away and leaves live cells at the edge. With the artery already blocked, RFA's heat spreads further and more evenly. Results depend on tumour number, size and liver function.</p>"
+          },
+          {
+            "q": "My tumour is bigger than 3 cm. Can I still have this?",
+            "a": "<p>Tumours between three and seven centimetres are where the combination is used most. RFA alone often leaves cancer behind above three centimetres, so adding TACE first is intended to close that gap. Doctors also look at how many tumours you have, whether the portal vein is involved, and your Child-Pugh liver score. Eligibility can only be confirmed after imaging and blood tests at the treating centre.</p>"
+          },
+          {
+            "q": "Does the combination actually help people live longer?",
+            "a": "<p>Published trials suggest the combination can improve survival over TACE alone in intermediate-stage disease, with several Chinese and Japanese studies reporting higher three-year survival and fewer local recurrences. The benefit is clearest in patients with fewer than four tumours and preserved liver function. These are averages from study groups, not promises for any one person, and your own outlook depends on liver reserve, tumour spread and response to the first session.</p>"
+          },
+          {
+            "q": "How long would I need to stay in China for the full treatment?",
+            "a": "<p>Plan for roughly three to five weeks in China for one full cycle. TACE usually needs two to four nights in hospital, followed by a recovery gap of one to four weeks, then RFA with another one to three nights. A CT or MRI scan about four weeks later checks the result. Some patients need a second cycle, so allow flexibility in travel and visa dates.</p>"
+          },
+          {
+            "q": "Will it hurt, and will I be awake?",
+            "a": "<p>TACE is usually done under local anaesthetic with sedation, so you feel pressure rather than sharp pain during the procedure; the ache tends to come afterwards. RFA is more often done under deeper sedation or general anaesthetic because the heat itself hurts. Pain is managed with medication on the ward and typically eases within a week. Tell your team early if pain is not controlled.</p>"
+          },
+          {
+            "q": "What side effects should I expect afterwards?",
+            "a": "<p>Most people get post-embolisation syndrome after TACE: fever, nausea, tiredness and pain under the right ribs, usually settling within three to seven days. RFA can cause a burning ache at the needle site and short-lived fever. Serious problems such as liver abscess, bile duct injury or bleeding are uncommon but real. Your liver function is checked before each step because both treatments stress liver tissue.</p>"
+          },
+          {
+            "q": "Can I still have surgery or a transplant later if I do this first?",
+            "a": "<p>Yes, in many cases. TACE plus RFA is often used as a bridge while a patient waits for a liver transplant, or to shrink tumours enough that resection becomes possible later. Because both are done through the skin, they leave the abdomen largely undisturbed. Whether later surgery is realistic depends on tumour response, liver reserve and transplant listing rules, which differ between countries and hospitals.</p>"
+          },
+          {
+            "q": "How much does TACE plus RFA cost in China?",
+            "a": "<p>One TACE plus RFA cycle at a major Chinese hospital commonly runs between USD 8,000 and USD 15,000, covering imaging, both procedures, hospital stay and follow-up scans. Prices vary by city, hospital tier, and whether drug-eluting beads are used. Extra cycles, interpreter support and accommodation add to the total. CancerFax can help you request itemised quotes from centres so you can compare before committing, though final costs are set by the hospital.</p>"
+          },
+          {
+            "q": "How do I get my case reviewed by a Chinese liver centre?",
+            "a": "<p>Start by sending recent CT or MRI images, liver function tests and AFP levels to the hospital's international department for a written opinion. Most Chinese centres reply within a few working days and issue an invitation letter for the medical visa. CancerFax can pass your reports to liver centres and arrange that review. Acceptance is never automatic and depends on what the images and blood work show.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

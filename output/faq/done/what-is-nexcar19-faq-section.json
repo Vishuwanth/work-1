@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is NexCAR19 and Why Is It the World's Most Affordable CAR-T?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-nexcar19",
+  "route": "/insights/what-is-nexcar19",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is NexCAR19?",
+            "a": "<p>NexCAR19 is India's first home-grown CAR T-cell therapy, approved by Indian regulators in October 2023 for certain relapsed or refractory B-cell cancers. It was developed by ImmunoACT, a company founded out of IIT Bombay and Tata Memorial Centre. Like other CAR-T products, it reprograms a patient's own T cells to recognise the CD19 protein on cancerous B cells and destroy them. The therapy is made from your own blood cells, not a donor's.</p>"
+          },
+          {
+            "q": "Why is NexCAR19 so much cheaper than other CAR-T therapies?",
+            "a": "<p>NexCAR19 is priced at roughly 30 to 42 lakh rupees, about US$35,000 to US$50,000, compared with US$370,000 or more for approved CAR-T products in the United States. The saving comes from local manufacturing, an Indian-built vector and cell-processing supply chain, and no imported product markup. Final cost still depends on the hospital, pre-treatment tests, length of stay, and how any complications are managed. Quoted prices are estimates and should be confirmed with the treating centre before you plan travel.</p>"
+          },
+          {
+            "q": "Which cancers does NexCAR19 treat?",
+            "a": "<p>NexCAR19 is approved in India for relapsed or refractory B-cell lymphomas and B-cell acute lymphoblastic leukaemia in patients aged 15 and over. These are cancers that have returned or stopped responding after at least two earlier lines of treatment. It is not approved for solid tumours such as breast, lung, or colon cancer, and it can only work against cancers whose cells carry the CD19 marker.</p>"
+          },
+          {
+            "q": "Am I eligible for NexCAR19?",
+            "a": "<p>You may be eligible if your B-cell lymphoma or leukaemia has relapsed or stopped responding after two or more previous treatments, your cancer cells express CD19, and your organ function and blood counts are strong enough for cell collection. Age, active infection, prior stem cell transplant, and central nervous system involvement all affect the decision. Eligibility is confirmed only after a haematologist reviews your reports and scans.</p>"
+          },
+          {
+            "q": "How does NexCAR19 treatment actually work, step by step?",
+            "a": "<p>Your T cells are collected from your blood through a procedure called leukapheresis, sent to the manufacturing facility, and genetically modified there to target CD19. Once the cells are grown and released for use, you receive a few days of low-dose chemotherapy, then a single infusion of the modified cells. You then stay close to the hospital for monitoring, usually for two to four weeks.</p>"
+          },
+          {
+            "q": "How long does the whole NexCAR19 process take?",
+            "a": "<p>Expect around six to eight weeks from first consultation to discharge. Manufacturing usually takes about two weeks after cell collection, faster than shipping cells overseas. Before that you need reports, scans, and eligibility review; afterwards most patients remain near the treating centre for two to four weeks of monitoring. Timelines can shift if you need bridging chemotherapy first or if manufacturing is delayed.</p>"
+          },
+          {
+            "q": "What are the side effects of NexCAR19?",
+            "a": "<p>The most common serious side effects are cytokine release syndrome, which brings fever, low blood pressure, and breathlessness, and neurological effects such as confusion or difficulty speaking. In NexCAR19 trials these were reported mostly at mild to moderate grades, with severe neurotoxicity being uncommon. Low blood counts and higher infection risk are also expected. Centres delivering CAR-T keep drugs such as tocilizumab and intensive care support ready.</p>"
+          },
+          {
+            "q": "How well does NexCAR19 work?",
+            "a": "<p>In the trials that supported its approval, roughly two-thirds of patients responded and around half achieved a complete response with no detectable cancer. Results differ between lymphoma and leukaemia, and between patients treated soon after relapse and those treated with heavy disease burden. Some responses last years; others fade and the cancer returns. Your haematologist can give a more realistic estimate for your specific disease and prior treatment.</p>"
+          },
+          {
+            "q": "Can international patients get NexCAR19 in India?",
+            "a": "<p>Yes, international patients can be treated with NexCAR19 at approved Indian centres, and hospitals in Mumbai, Delhi, Bengaluru, and Chennai are among those delivering it. You will need a medical visa, an accompanying attendant, and a stay of roughly two months. Acceptance is never automatic — the centre reviews your reports first, and visa approval rests with the authorities, so confirm both before booking travel.</p>"
+          },
+          {
+            "q": "How do I start the process for NexCAR19?",
+            "a": "<p>Start by sending your recent biopsy report, flow cytometry or immunophenotyping results, PET or CT scans, and a summary of previous treatments to a CAR-T-approved Indian centre for review. CancerFax can help patients organise these records, identify centres offering NexCAR19 or relevant trials, estimate costs, and coordinate travel and follow-up alongside the treating oncology team. The final treatment decision always rests with your doctors.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

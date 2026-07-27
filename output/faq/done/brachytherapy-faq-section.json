@@ -1,0 +1,59 @@
+{
+  "pillar": "Brachytherapy: Internal Radiation Therapy — Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "brachytherapy",
+  "route": "/treatments/brachytherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is brachytherapy, and how is it different from regular radiation?",
+            "a": "<p>Brachytherapy places a radioactive source inside your body, directly in or next to the tumour, instead of aiming a beam at it from outside. Because the source sits millimetres from the cancer, the dose falls away sharply and nearby healthy tissue receives far less radiation. External beam radiation must travel through skin, muscle and organs to reach the same target. This closeness is why brachytherapy can often deliver a higher tumour dose in fewer sessions.</p>"
+          },
+          {
+            "q": "Does brachytherapy hurt?",
+            "a": "<p>The radiation itself causes no sensation, but placing the applicator or needles can be uncomfortable, so it is usually done under general anaesthesia, spinal anaesthesia or heavy sedation. Most patients feel pressure, cramping or soreness for a day or two afterwards, which pain medicine usually controls well. If an applicator stays in place between treatments, your team will keep you on regular painkillers. Tell your nurses early if pain builds, because doses can be adjusted.</p>"
+          },
+          {
+            "q": "How long does brachytherapy take, and how many sessions will I need?",
+            "a": "<p>Most high-dose-rate brachytherapy sessions take 10 to 30 minutes of actual radiation time, with one to two hours in the department for placement and imaging. Cervical cancer is often treated in three to five sessions over two or three weeks. A prostate seed implant is a single procedure lasting one to two hours. Your exact schedule depends on the cancer type, the dose plan and whether external beam radiation is given as well.</p>"
+          },
+          {
+            "q": "Which cancers is brachytherapy used for?",
+            "a": "<p>Brachytherapy is used most often for cervical, uterine, prostate, breast, oesophageal, head and neck, and skin cancers, and for some lung and bile duct tumours. It works best when the tumour is well defined and an applicator, catheter or needle can be placed accurately in or beside it. For cervical cancer it is considered essential to cure, not optional. Whether it suits your case depends on tumour size, position and previous treatment.</p>"
+          },
+          {
+            "q": "Will I be radioactive? Is it safe to be around my children?",
+            "a": "<p>With high-dose-rate brachytherapy you are not radioactive at all once the session ends, because the source is removed before you leave the room. Permanent seed implants, used mainly in prostate cancer, leave low-level radioactivity that fades over weeks. Your team may ask you to avoid prolonged close contact with young children and pregnant women for a short period. Follow the written instructions your hospital gives you, as rules vary by country and implant type.</p>"
+          },
+          {
+            "q": "What are the side effects of brachytherapy?",
+            "a": "<p>Side effects are usually limited to the treated area. Pelvic brachytherapy can cause bladder irritation, loose stools, vaginal soreness and, later, vaginal narrowing or dryness. Prostate implants may bring burning on passing urine, a weak stream and changes in erections. Breast and skin treatments often cause redness and tenderness. Most short-term effects settle within a few weeks, while late effects can appear months later and should always be reported to your oncology team.</p>"
+          },
+          {
+            "q": "Is brachytherapy better than external beam radiation?",
+            "a": "<p>Neither is better in general; they answer different problems, and many patients need both. Brachytherapy gives a very high dose to a small, reachable target with little spread to healthy tissue. External beam covers larger areas, including lymph nodes, that a source placed inside cannot reach. In cervical cancer the standard is external beam followed by a brachytherapy boost, and skipping the boost is linked with worse control. Your radiation oncologist decides the combination.</p>"
+          },
+          {
+            "q": "How much does brachytherapy cost in India?",
+            "a": "<p>Brachytherapy in India commonly costs between about USD 1,500 and USD 5,000 for a full course, depending on the cancer, the number of insertions, anaesthesia and whether external beam radiation is included. Prostate seed implants usually sit at the higher end. Hospital, city and room category also change the figure. CancerFax can help you request written estimates from treating centres, though final pricing is confirmed only after the hospital reviews your scans and reports.</p>"
+          },
+          {
+            "q": "Can I have brachytherapy if I have already had radiation to the same area?",
+            "a": "<p>Sometimes, yes. Because brachytherapy drops off so steeply outside the target, it is one of the few options that can re-treat a recurrence in an already irradiated area. Doctors weigh the earlier dose, how much time has passed, and the tolerance of nearby bladder, bowel or nerves. The risk of serious late damage is higher than with first-time treatment. Re-irradiation is decided case by case, usually by a specialist multidisciplinary team.</p>"
+          },
+          {
+            "q": "How well does brachytherapy work? What are the survival rates?",
+            "a": "<p>Results are strong for the cancers it suits. In early prostate cancer, seed implants give about 85 to 95 percent freedom from recurrence at ten years for low-risk disease. In locally advanced cervical cancer, adding a brachytherapy boost improves five-year survival by roughly ten percentage points compared with external beam alone. Your own outlook depends on stage, tumour size, grade and general health, so ask your oncologist for figures specific to you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "TSH Suppression in Thyroid Cancer: Why Levothyroxine Is Taken and What Levels Are Targeted",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tsh-suppression-thyroid-cancer-levothyroxine",
+  "route": "/insights/tsh-suppression-thyroid-cancer-levothyroxine",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why do I have to take levothyroxine after thyroid cancer surgery?",
+            "a": "<p>Levothyroxine after thyroid cancer surgery does two jobs: it replaces the hormone your thyroid can no longer make, and it lowers TSH, the pituitary signal that can stimulate any remaining thyroid cancer cells to grow. Without it you would become hypothyroid within weeks. The dose is usually set higher than simple replacement, and your team adjusts it based on your recurrence risk and blood results.</p>"
+          },
+          {
+            "q": "What does TSH suppression actually mean? Is it different from normal thyroid replacement?",
+            "a": "<p>TSH suppression means taking enough levothyroxine to push your TSH below the normal range, not just into it. Plain replacement aims for a normal TSH; suppression deliberately keeps the pituitary quiet so it sends less growth signal to any thyroid tissue. The difference is often only 25 to 50 micrograms a day, but it changes how closely your blood levels need to be watched. Your target depends on your risk group.</p>"
+          },
+          {
+            "q": "What TSH level should I be aiming for?",
+            "a": "<p>Most guidelines set the target by recurrence risk: below 0.1 mIU/L for high-risk disease, 0.1 to 0.5 for intermediate risk, and 0.5 to 2.0 for low-risk patients, which is simply the low end of normal. Targets are usually relaxed over time if scans and thyroglobulin stay clear. Your own number depends on age and heart health too, so ask your endocrinologist to confirm it.</p>"
+          },
+          {
+            "q": "How long will I need to stay on suppression?",
+            "a": "<p>For most people, months to years rather than forever. If follow-up ultrasound, scans and thyroglobulin blood tests show no sign of disease, many patients are moved to a gentler target within one to five years, and some return to ordinary replacement. Deep suppression is rarely continued for life unless disease persists. The timing depends on how you respond to treatment and is reviewed at each follow-up.</p>"
+          },
+          {
+            "q": "Is it harmful to keep my TSH low for years?",
+            "a": "<p>Keeping TSH low for years does carry real costs. The main ones are atrial fibrillation, an irregular heartbeat that becomes more likely after age 60, and gradual bone thinning, especially in women after menopause. Some people also get palpitations, anxiety or poor sleep. Your team weighs these against your recurrence risk, and may loosen the target or add bone monitoring if the balance shifts.</p>"
+          },
+          {
+            "q": "When and how should I take my levothyroxine tablet?",
+            "a": "<p>Take it on an empty stomach with water, at least 30 to 60 minutes before breakfast or coffee. Calcium, iron, multivitamins, antacids and some cholesterol drugs block absorption, so keep them at least four hours apart. Bedtime dosing, three or more hours after eating, works just as well if mornings are difficult. What matters most is doing the same thing every single day.</p>"
+          },
+          {
+            "q": "How often will my blood be tested, and how are dose changes decided?",
+            "a": "<p>Usually six to eight weeks after any dose change, because that is how long levothyroxine takes to settle in the blood. Once your TSH is stable within target, testing often moves to every six to twelve months, alongside thyroglobulin. Dose changes are small, typically 12.5 to 25 micrograms. Pregnancy, weight change, new medicines or stomach problems can all mean earlier retesting.</p>"
+          },
+          {
+            "q": "How do I know if my dose is too high?",
+            "a": "<p>Racing or skipping heartbeat, tremor, sweating, heat intolerance, anxiety, broken sleep and unintended weight loss are the usual signs. They often appear when TSH has fallen well below the intended target. Report them rather than stopping the tablet yourself, since sudden withdrawal is worse. A blood test can confirm whether the dose needs trimming, and most people feel better within a few weeks of a small reduction.</p>"
+          },
+          {
+            "q": "My tumour was tiny and low risk. Do I still need suppression?",
+            "a": "<p>Often not. For a small papillary cancer removed completely with no spread, practice now aims for a TSH in the low-normal range, roughly 0.5 to 2.0, rather than full suppression. The benefit of pushing lower has not been shown in this group, while the heart and bone risks are real. If you are comparing advice between centres, CancerFax can help you place those opinions side by side.</p>"
+          },
+          {
+            "q": "Can I keep my TSH suppression on track if I am treated or followed up abroad?",
+            "a": "<p>Yes, but plan the handover before you travel. Ask for your pathology report, risk category, current dose, target TSH range and latest thyroglobulin result in English, and check that your brand of levothyroxine is sold locally, since tablet strengths differ between countries. CancerFax can help you share these records with a treating centre abroad, though the target itself stays a decision for your own oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "CD19-Negative Relapse After CAR-T: India to China Escalation Strategy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cd19-negative-relapse-india-to-china",
+  "route": "/insights/cd19-negative-relapse-india-to-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does it mean if my leukaemia came back CD19-negative after CAR-T?",
+            "a": "<p>CD19-negative relapse means the cancer returned without the CD19 protein your CAR-T cells were built to recognise. The therapy worked, but surviving cells lost or hid the target, so the infused cells no longer see them. This is a biological escape, not a failure of the infusion itself. It changes what comes next, because a second CD19 CAR-T is unlikely to help. Your haematology team will confirm this with flow cytometry.</p>"
+          },
+          {
+            "q": "How common is CD19-negative relapse after CAR-T?",
+            "a": "<p>Roughly a third to half of relapses after CD19 CAR-T are antigen-negative, though reported rates vary widely between centres and between disease types. It is more often seen in B-cell acute lymphoblastic leukaemia than in lymphoma. Timing matters too, since antigen loss tends to appear in the first year. Your own risk depends on your disease biology and prior treatments, so ask your oncologist what the numbers mean for you.</p>"
+          },
+          {
+            "q": "Can I just get a second CAR-T infusion in India?",
+            "a": "<p>A repeat CD19 CAR-T rarely works when the relapse is CD19-negative, because the new cells would chase a target the cancer no longer carries. Indian centres can still deliver bridging chemotherapy, CD22-directed inotuzumab in some cases, or transplant workup while a different-target product is arranged. The practical question is not whether India can treat you, but whether the specific product you now need is available there.</p>"
+          },
+          {
+            "q": "Why do patients move from India to China after CD19-negative relapse?",
+            "a": "<p>China runs the largest number of CAR-T trials targeting CD22, CD20, CD7 and dual-target combinations, so the next-line product a CD19-negative patient needs is often only open there. Indian access to non-CD19 CAR-T is still mostly limited to a few academic trials. Escalation abroad is a timing decision as much as a science one. Availability, eligibility and travel approval all vary, so confirm each step before committing to it.</p>"
+          },
+          {
+            "q": "What is dual-target CAR-T and would it have prevented this?",
+            "a": "<p>Dual-target CAR-T carries two receptors, usually CD19 plus CD22, so losing one antigen does not let the cancer escape. Early Chinese and Western studies suggest it may lower antigen-negative relapse rates, though follow-up is still short and results differ by trial. It cannot undo a relapse that has already happened, but it is often the product patients are referred for next. Eligibility depends on your current antigen profile.</p>"
+          },
+          {
+            "q": "What tests do I need before a Chinese centre will consider me?",
+            "a": "<p>Most Chinese centres ask for a recent bone marrow biopsy with flow cytometry showing CD19, CD22 and CD20 status, plus imaging, organ function tests, infection screening and your full CAR-T treatment history. Repeating the antigen panel matters because expression can shift within weeks. Reports usually need English translation. Getting these done in India before you apply saves time and avoids a repeat workup after arrival, though the receiving centre may still retest.</p>"
+          },
+          {
+            "q": "How fast do I need to move?",
+            "a": "<p>CD19-negative relapse often progresses quickly, so most teams work in weeks rather than months. Realistically, expect two to four weeks for records review and trial screening, then two to six weeks for visa and travel arrangements, with bridging treatment continuing in India throughout. Delays usually come from missing pathology reports rather than from the receiving hospital. Your treating haematologist should decide how much time your disease safely allows.</p>"
+          },
+          {
+            "q": "What will treatment in China cost compared with India?",
+            "a": "<p>Second-line CAR-T in China commonly runs between USD 40,000 and 100,000 including hospital stay, while commercial CD19 CAR-T in India sits near USD 40,000 to 50,000. Trial slots can reduce the product cost substantially, though you still pay for admission, complications and travel. Prices move with the centre, the product and your length of stay, so treat every quote as an estimate until it is written and confirmed.</p>"
+          },
+          {
+            "q": "Can an Indian patient actually enrol in a Chinese CAR-T trial?",
+            "a": "<p>International patients are accepted by several Chinese CAR-T centres, but enrolment is never guaranteed and depends on the specific protocol, your antigen profile, organ function and disease burden. Some trials are restricted to domestic patients. Services such as CancerFax can help route your reports to centres running the right target, though the decision to accept you rests entirely with the trial investigators and your own treating oncology team.</p>"
+          },
+          {
+            "q": "Is a stem cell transplant a better option than going abroad?",
+            "a": "<p>Allogeneic transplant remains a standard option after CD19-negative relapse, especially if a second remission can be achieved first, and it may be available without leaving India. Many teams use a non-CD19 CAR-T to clear disease and then consolidate with transplant, rather than choosing one over the other. Which sequence suits you depends on your donor availability, fitness and remission status, and that call belongs to your transplant team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

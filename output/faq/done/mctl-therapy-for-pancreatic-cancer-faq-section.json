@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Therapy for Pancreatic Cancer: What Patients Should Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-therapy-for-pancreatic-cancer",
+  "route": "/insights/mctl-therapy-for-pancreatic-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can MCTL therapy treat pancreatic cancer?",
+            "a": "<p>MCTL therapy is not a cure for pancreatic cancer and is used as an add-on, not a replacement for standard treatment. It is a multi-target cytotoxic T lymphocyte therapy offered mainly in China, usually alongside or after chemotherapy in advanced or metastatic disease. Evidence so far comes from small studies and hospital series rather than large randomised trials, so any benefit for your case depends on specialist review.</p>"
+          },
+          {
+            "q": "How does MCTL work against a pancreatic tumour?",
+            "a": "<p>MCTL trains your own T cells to recognise several tumour antigens at once instead of a single target. Blood is collected, the cells are educated in the laboratory against antigens found on your tumour, expanded over a few weeks, then infused back in stages. The aim is to attack cancer cells that survived chemotherapy, though pancreatic tumours sit in dense scar-like tissue that can block immune cells from reaching them.</p>"
+          },
+          {
+            "q": "Who is likely to be considered for MCTL therapy?",
+            "a": "<p>Centres usually consider patients with advanced or metastatic pancreatic cancer who have already had chemotherapy, are still reasonably well, and whose tumour carries antigens the laboratory can train against. Good performance status, adequate blood counts, and controlled liver function matter, because very weak patients rarely tolerate the cell collection. Eligibility is decided only after the treating team reviews your pathology and scans, so nothing can be confirmed in advance.</p>"
+          },
+          {
+            "q": "Can MCTL replace chemotherapy for pancreatic cancer?",
+            "a": "<p>No. MCTL is given alongside standard care, not instead of it, and stopping chemotherapy to pursue cell therapy can allow the cancer to grow unchecked. Most centres continue gemcitabine-based or FOLFIRINOX-based treatment, or use MCTL in the gap after chemotherapy has stopped working. Any decision to pause, change, or delay your current regimen should come from your own oncologist, not from a clinic offering the cell therapy.</p>"
+          },
+          {
+            "q": "What results have been reported in pancreatic cancer?",
+            "a": "<p>Reported results are modest and come from small, mostly single-centre studies: some patients show slower disease progression, steadier tumour markers, or better appetite and energy, while others show no change. No large randomised trial has shown that MCTL extends survival in pancreatic cancer. Treat any figure quoted to you as preliminary, and ask the centre for the published data behind it before making travel or payment decisions.</p>"
+          },
+          {
+            "q": "What tests will the centre ask for before MCTL?",
+            "a": "<p>Most centres want a recent biopsy report or archived tumour tissue, antigen testing by immunohistochemistry or sequencing, HLA typing, CA 19-9 and routine blood counts, and a CT or PET scan from the last four to six weeks. CancerFax can help gather these records into one file so a centre can respond without repeating tests, although the treating oncology team makes the final call on suitability.</p>"
+          },
+          {
+            "q": "What are the side effects of MCTL therapy?",
+            "a": "<p>Side effects are usually mild, most often low-grade fever, chills, tiredness and body aches for a day or two after each infusion. Severe cytokine release syndrome is uncommon because the cells are not gene-edited and heavy lymphodepleting chemotherapy is not normally used. Serious reactions can still occur, so infusions should be given where inpatient monitoring is available, particularly if you have jaundice, low albumin or significant weight loss.</p>"
+          },
+          {
+            "q": "How long does MCTL treatment take, and how long will I be in China?",
+            "a": "<p>Plan for about four to eight weeks in total. Cell collection takes roughly a day, laboratory training and expansion commonly needs two to four weeks, and the product is given as several infusions spaced days or weeks apart. Many patients stay three to five weeks. Cell growth varies between people, so keep flights and visa dates flexible and agree in writing what happens if the cells grow poorly.</p>"
+          },
+          {
+            "q": "How much does MCTL therapy cost for pancreatic cancer?",
+            "a": "<p>Quotes for multi-antigen cell therapy in China commonly fall between about US$25,000 and US$60,000 for a full course, before flights, accommodation, scans and any chemotherapy given alongside it. The figure moves with the number of infusions, the antigens selected and the hospital. Ask for an itemised written estimate, because supportive care for pancreatic cancer, such as stents, enzymes and pain control, often adds a substantial amount.</p>"
+          },
+          {
+            "q": "How do I find out whether MCTL is realistic for me?",
+            "a": "<p>Start with a document-based opinion rather than a booking. Send your pathology report, latest scans, treatment history, CA 19-9 trend and current blood counts to a centre running the protocol, and ask directly whether your tumour's antigens match what they can target. CancerFax can route those records to Chinese cell therapy units for review. Whatever comes back should still be discussed with your own oncologist before you commit.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

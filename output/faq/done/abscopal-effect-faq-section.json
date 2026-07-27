@@ -1,0 +1,59 @@
+{
+  "pillar": "The Abscopal Effect: Can Cryoablation Trigger a Systemic Anti-Tumour Response?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "abscopal-effect",
+  "route": "/insights/abscopal-effect",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the abscopal effect in simple terms?",
+            "a": "<p>The abscopal effect is when treating one tumour causes other, untreated tumours elsewhere in the body to shrink. The name comes from words meaning away from the target. Doctors think it happens because local treatment releases tumour material that alerts the immune system, which then attacks cancer cells at distant sites. It is a real but uncommon event, and no one can predict reliably who will have it.</p>"
+          },
+          {
+            "q": "Can cryoablation actually trigger an abscopal response?",
+            "a": "<p>Yes, cryoablation can trigger an abscopal response, though it does not do so in most patients. Freezing a tumour kills it in a way that leaves tumour proteins and DNA behind rather than destroying them completely. That debris can act like a signal to the immune system. Case reports and small studies describe distant tumours shrinking afterwards, but the effect remains unpredictable and is not a promised outcome of the procedure.</p>"
+          },
+          {
+            "q": "Why would freezing wake up the immune system more than heat treatments?",
+            "a": "<p>Freezing preserves more of the tumour's identity than heat-based treatments do. Radiofrequency and microwave ablation cook tissue, which can denature the proteins the immune system needs to recognise. Cryoablation ruptures cancer cells and leaves intact fragments behind, so immune cells have more to learn from. This is the leading theory, and comparisons between the methods are still limited, so heat-based ablation may also produce systemic effects in some patients.</p>"
+          },
+          {
+            "q": "How often does the abscopal effect really happen?",
+            "a": "<p>Rarely. Documented abscopal responses after any local treatment, including cryoablation, are counted in case reports rather than large percentages. Most published series describe single patients or small groups. This is why doctors do not offer cryoablation with the promise of a systemic response; they offer it to control a specific tumour, and any distant benefit is treated as a possible bonus. Ask your oncologist what the realistic goal is for you.</p>"
+          },
+          {
+            "q": "Does adding immunotherapy make an abscopal response more likely?",
+            "a": "<p>Combining cryoablation with immunotherapy appears to improve the odds, and this is where most current research is focused. Checkpoint inhibitors such as pembrolizumab or nivolumab may help the immune cells activated by freezing stay active long enough to attack distant disease. Early trials in kidney, liver and prostate cancer look encouraging. Results are still preliminary, and whether the combination suits you depends on your cancer type, prior treatment and overall health.</p>"
+          },
+          {
+            "q": "Which cancers have shown abscopal responses after cryoablation?",
+            "a": "<p>Kidney, prostate, liver, breast and melanoma have the most reported cases. These are tumours the immune system already tends to notice, which may explain why they appear most often in the literature. Lung and pancreatic cases have also been described. The list reflects what has been published, not a ranking of who will respond, so your own likelihood depends on your tumour biology and what your oncology team finds on testing.</p>"
+          },
+          {
+            "q": "If my cancer has already spread, is cryoablation still worth considering?",
+            "a": "<p>It can be, but usually as part of a wider plan rather than a cure on its own. In metastatic disease, cryoablation is most often used to shrink a painful or dangerous tumour, or to add an immune stimulus alongside systemic therapy. Whether it helps depends on how many sites are involved, where they are, and your fitness for the procedure. Your oncologist and interventional radiologist should decide this together.</p>"
+          },
+          {
+            "q": "What is the procedure like and how long is recovery?",
+            "a": "<p>Cryoablation is a needle procedure done through the skin, usually under sedation or light anaesthesia and guided by CT or ultrasound. Most sessions take one to three hours, and many patients go home the same day or after one night. Soreness, bruising and tiredness for a few days are common. Recovery times vary with the tumour's size and location, so ask your treating team what to expect in your case.</p>"
+          },
+          {
+            "q": "Can I get cryoablation with immunotherapy in India or China?",
+            "a": "<p>Yes, several major cancer centres in India and China offer cryoablation, often alongside checkpoint immunotherapy or trial protocols. China has a longer history of clinical cryoablation use, while Indian centres are often faster and less expensive to access for international patients. CancerFax can help you send your scans and reports to these centres for review. Eligibility, cost and visa timelines vary, and the treating hospital makes the final decision.</p>"
+          },
+          {
+            "q": "How would my doctors know whether an abscopal effect happened?",
+            "a": "<p>By comparing scans of the untreated tumours before and after the procedure. If distant lesions shrink without any new systemic drug being started, that points to an abscopal response. Blood tests for immune markers and tumour markers may support the picture. Imaging is usually repeated at six to twelve weeks. Interpreting these scans takes experience, and CancerFax can arrange a second opinion if the findings are unclear to you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

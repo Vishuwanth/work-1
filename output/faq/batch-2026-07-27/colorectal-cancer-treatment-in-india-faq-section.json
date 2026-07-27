@@ -1,0 +1,59 @@
+{
+  "pillar": "Colorectal Cancer Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "colorectal-cancer-treatment-in-india",
+  "route": "/guides/colorectal-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does colorectal cancer treatment cost in India?",
+            "a": "<p>Colorectal cancer treatment in India often costs USD 5,000–8,000 for laparoscopic or robotic surgery, and roughly USD 400–900 per chemotherapy cycle. The total depends on the stage, whether radiation or a stoma is needed, and how many cycles your oncologist plans. Most international patients pay 60–80 percent less than in the United States or United Kingdom. Final costs can only be confirmed after the hospital reviews your reports.</p>"
+          },
+          {
+            "q": "Which hospitals in India treat colorectal cancer for international patients?",
+            "a": "<p>India's high-volume cancer centres in Delhi, Mumbai, Chennai, Bengaluru and Hyderabad treat colorectal cancer, and many have dedicated gastrointestinal oncology teams with international patient desks. Look for a hospital that runs a tumour board, so a surgeon, medical oncologist, radiation oncologist and pathologist review your case together. CancerFax can share treatment plans and cost estimates from several such centres, but the choice of hospital should be made with your own doctor's input.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for colon cancer surgery?",
+            "a": "<p>Plan for about three to four weeks in India for colon cancer surgery alone. That usually covers pre-operative tests, five to seven days in hospital, and two weeks of recovery and wound review before your surgeon clears you to fly. If chemotherapy or radiation is added before or after surgery, the stay can extend to two or three months. Your surgeon will confirm the timeline once your staging scans are read.</p>"
+          },
+          {
+            "q": "Is robotic surgery for colorectal cancer available in India?",
+            "a": "<p>Yes, robotic and laparoscopic colorectal surgery are widely available in India, including at centres performing several hundred such operations a year. Keyhole approaches often mean less blood loss, a shorter hospital stay and faster return to eating. Robotic surgery is especially useful for low rectal tumours deep in the pelvis, where it can help preserve the sphincter. Whether it suits you depends on tumour size, position and any previous abdominal surgery.</p>"
+          },
+          {
+            "q": "Can I still be treated in India if my rectal cancer has spread to my liver?",
+            "a": "<p>Yes, treatment is still possible, and it is often given with the intention to cure. Indian centres routinely combine chemotherapy with liver resection, and use ablation or hepatic artery approaches when surgery is not the first option. Roughly one in five patients with liver-only spread may become candidates for removal of both the bowel tumour and the liver deposits. Eligibility depends on how many lesions there are and how your liver function holds up.</p>"
+          },
+          {
+            "q": "Do I need a medical visa to come to India for cancer treatment?",
+            "a": "<p>You will need an Indian medical visa, not a tourist visa, and it is issued against a letter from the treating hospital. The visa usually allows a stay of up to 60 days per visit and can often be extended for ongoing treatment. Two attendants can travel with you on a medical attendant visa. Rules vary by nationality, so check the current requirements with your nearest Indian mission before booking flights.</p>"
+          },
+          {
+            "q": "Will my Indian oncologist accept the biopsy and scans done in my home country?",
+            "a": "<p>Usually yes, but expect your Indian team to review the material again rather than accept the report alone. Bringing the paraffin blocks or slides from your biopsy lets the hospital pathologist confirm the diagnosis and run MSI, RAS and BRAF testing if it has not been done. Scans on a CD are read again by the local radiologist. Repeat tests are sometimes needed if the originals are old or of poor quality.</p>"
+          },
+          {
+            "q": "Will the chemotherapy in India be the same as what I would get at home?",
+            "a": "<p>The drug regimens are the same ones used worldwide, such as FOLFOX, CAPOX and FOLFIRI, following international guidelines. What differs is the price, because most of these medicines are made in India under quality-regulated manufacturing. Dose, cycle length and monitoring bloods follow the same protocols your home oncologist would use. Ask the hospital to give you the written regimen and brand names so your doctor at home can continue treatment safely.</p>"
+          },
+          {
+            "q": "Can I get targeted therapy or immunotherapy for colorectal cancer in India?",
+            "a": "<p>Yes. Bevacizumab, cetuximab and panitumumab are available in India, and immunotherapy with pembrolizumab or nivolumab is used when tumour testing shows MSI-high or mismatch repair deficient disease. Access depends on your molecular results, not on nationality, so the RAS, BRAF and MSI tests come first. Newer agents may also be reachable through clinical trials at larger centres. Whether any of these is right for you is a decision for your treating oncologist.</p>"
+          },
+          {
+            "q": "What follow-up care will I need after I return home?",
+            "a": "<p>Ask for a written follow-up plan before you fly home. For colorectal cancer this usually means a clinical review and CEA blood test every three to six months, a CT scan of the chest, abdomen and pelvis each year, and a colonoscopy at one year. Your Indian team can review scans done at home by email or video call. Any change in bowel habit, bleeding or weight loss should be reported promptly.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

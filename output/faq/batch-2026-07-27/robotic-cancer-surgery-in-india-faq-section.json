@@ -1,0 +1,59 @@
+{
+  "pillar": "Robotic Cancer Surgery in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "robotic-cancer-surgery-in-india",
+  "route": "/guides/robotic-cancer-surgery-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is robotic surgery better than open surgery for my cancer?",
+            "a": "<p>For many cancers robotic surgery gives the same cancer control as open surgery with less blood loss, smaller scars and a faster recovery. The tumour is removed the same way; only the access changes. Patients often leave hospital two to three days sooner and can start chemotherapy earlier if it is needed. Whether it suits you depends on tumour size, location and past surgeries, so your surgeon decides case by case.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with robotic surgery in India?",
+            "a": "<p>Indian centres routinely perform robotic surgery for prostate, kidney, bladder, uterine, cervical, ovarian, colorectal, stomach, oesophageal, thyroid and head and neck cancers. Lung resections are also done at high-volume units. The robot works best in narrow spaces like the pelvis and chest, where the wristed instruments reach angles a human hand cannot. Whether your specific tumour is suitable depends on its stage, size and how close it sits to major blood vessels.</p>"
+          },
+          {
+            "q": "How much does robotic cancer surgery cost in India?",
+            "a": "<p>Robotic cancer surgery in India typically costs between USD 6,000 and USD 12,000, depending on the organ involved and the length of hospital stay. Prostate, uterine and kidney procedures sit at the lower end, while complex rectal or oesophageal resections cost more. The quoted price usually covers the surgeon, robot console time, anaesthesia and a five to seven day stay. Final costs depend on your scans, staging and any complications.</p>"
+          },
+          {
+            "q": "How do I choose a robotic surgery hospital in India?",
+            "a": "<p>Choose on the surgeon's robotic case volume for your specific cancer, not on the hospital brochure. Ask how many of these procedures the surgeon performs each year, whether a tumour board reviews your case, and what happens if the operation converts to open. Major robotic programmes run in Delhi, Mumbai, Chennai, Bengaluru and Hyderabad. CancerFax can help you compare surgeon volumes and written quotes, though the treating oncology team makes the final plan.</p>"
+          },
+          {
+            "q": "Are Indian robotic surgeons as experienced as surgeons in the US or UK?",
+            "a": "<p>Senior robotic surgeons at India's high-volume cancer centres often perform 100 to 300 robotic cases a year, which matches or exceeds many Western units. Most trained or held fellowships abroad and publish in the same journals. India also has over 150 installed surgical robots, so console time is not scarce. Experience varies sharply between individual surgeons, so ask for the named surgeon's own case numbers rather than the hospital's total.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for robotic surgery?",
+            "a": "<p>Most international patients plan for three to four weeks in India. That covers two to four days of pre-operative tests, a three to six day hospital stay, and two to three weeks of outpatient recovery before the surgeon clears you to fly. Stitch removal, drain removal and the final pathology report usually fall inside that window. If chemotherapy or radiation follows, your stay may extend by several weeks.</p>"
+          },
+          {
+            "q": "What are the risks of robotic cancer surgery?",
+            "a": "<p>Robotic surgery carries the same core risks as any cancer operation: bleeding, infection, blood clots, injury to nearby organs and anaesthesia complications. Two risks belong to the robot itself, longer operating time and conversion to open surgery if bleeding or dense scar tissue makes the robotic approach unsafe. Conversion happens in roughly two to five percent of cases and is a safety decision, not a failure. Your surgeon should quote their own rates.</p>"
+          },
+          {
+            "q": "Can my cancer be too advanced for robotic surgery?",
+            "a": "<p>Yes. Tumours that have grown into major blood vessels, spread widely inside the abdomen, or already reached distant organs are usually not removed robotically, and sometimes not by surgery at all. Very large tumours also leave too little working space inside the body. In some cases chemotherapy or radiation first can shrink the disease enough to make robotic removal possible later. Only fresh scans and a tumour board review can settle this for you.</p>"
+          },
+          {
+            "q": "Will I still need chemotherapy or radiation after robotic surgery?",
+            "a": "<p>Often yes. Robotic surgery removes the tumour, but the final pathology report decides what comes next. If the report shows involved lymph nodes, positive margins or aggressive tumour biology, chemotherapy, radiation or hormone therapy is usually added. Many patients start this in India and continue the remaining cycles at home under a local oncologist. Your plan depends on the pathology, which is only available seven to ten days after surgery.</p>"
+          },
+          {
+            "q": "What do I need to arrange before travelling to India for surgery?",
+            "a": "<p>You need a medical visa, a hospital invitation letter, and your reports ready in digital form, including biopsy slides or blocks, recent CT or PET scans, blood work and a list of current medicines. Indian medical visas are usually issued in three to seven working days. Send the reports first so the surgeon can confirm robotic surgery is suitable before you book flights. CancerFax can route your records to the surgical team for that review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

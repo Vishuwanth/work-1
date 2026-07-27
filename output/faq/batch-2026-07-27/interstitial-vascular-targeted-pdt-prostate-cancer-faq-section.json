@@ -1,0 +1,59 @@
+{
+  "pillar": "Interstitial PDT and Vascular-Targeted PDT for Prostate Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "interstitial-vascular-targeted-pdt-prostate-cancer",
+  "route": "/insights/interstitial-vascular-targeted-pdt-prostate-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is vascular-targeted photodynamic therapy for prostate cancer?",
+            "a": "<p>Vascular-targeted PDT is a focal treatment that uses a light-sensitive drug given into the bloodstream and then switched on by laser fibres placed inside the prostate. The drug reacts with the light inside the tumour's blood vessels, shutting off its blood supply and destroying the targeted tissue within hours.</p><p>Because the drug stays in the blood and clears quickly, healthy prostate tissue and nearby nerves are largely spared. Suitability depends on your cancer's grade and location.</p>"
+          },
+          {
+            "q": "How is interstitial PDT different from the PDT used on skin cancers?",
+            "a": "<p>Interstitial PDT carries light deep inside the body through thin optical fibres passed into the prostate, rather than shining a lamp on the surface. Skin PDT treats lesions only a few millimetres thick, while the prostate sits behind muscle and bone, so the light has to be delivered directly to the tumour. The fibres are placed through the perineum using ultrasound or MRI guidance, usually under general anaesthetic.</p>"
+          },
+          {
+            "q": "Will I still be able to get an erection afterwards?",
+            "a": "<p>Most men keep erectile function after vascular-targeted PDT, and rates are generally better than after radical surgery or whole-gland radiation. In the European padeliporfin trials, erection problems that appeared soon after treatment had largely settled by twelve months in the majority of men. Your own risk depends on how close the treated zone sits to the nerve bundles, your age, and your function before treatment.</p>"
+          },
+          {
+            "q": "Does PDT cure prostate cancer, or does it just delay other treatment?",
+            "a": "<p>Focal PDT can control cancer in the treated area for years, but it is not yet proven to match surgery or radiation for long-term cure. Trials in low-risk and favourable intermediate-risk disease show fewer men progressing to radical treatment compared with active surveillance alone.</p><p>Importantly, most men who need it can still have surgery or radiation later. Long-term survival data are still maturing, so outcomes cannot be promised.</p>"
+          },
+          {
+            "q": "Am I eligible for interstitial or vascular-targeted PDT?",
+            "a": "<p>Eligibility usually means low-risk or favourable intermediate-risk cancer confined to one side of the prostate, with a clearly visible target on MRI confirmed by biopsy. Gland size, previous treatments, and how much cancer is present all affect the decision. Men with high-grade or widespread disease are generally not suitable. A multiparametric MRI and a mapping biopsy are normally required before any team can confirm you are a candidate.</p>"
+          },
+          {
+            "q": "What is recovery like after the procedure?",
+            "a": "<p>Most men go home the same day or after one night, with a urinary catheter left in place for a few days. Burning when passing urine, urgency, blood in the urine or semen, and soreness between the legs are common in the first two weeks.</p><p>Normal activity usually returns within one to two weeks. PSA tests and an MRI at six to twelve months check how the treated area responded.</p>"
+          },
+          {
+            "q": "How much does prostate PDT cost in India or China?",
+            "a": "<p>Focal PDT in India generally costs less than in Europe or the United States, though prices vary widely by hospital, the photosensitiser used, and whether MRI guidance is included. Several tertiary cancer centres in China run photodynamic programmes. Quotes usually cover imaging, the drug, theatre time, and follow-up scans. Figures can change, so ask for a written estimate that states what happens if complications or repeat treatment are needed.</p>"
+          },
+          {
+            "q": "Can I have PDT if radiation has already failed?",
+            "a": "<p>Salvage PDT after failed radiation has been used in selected men whose cancer has returned inside the prostate, and it remains largely investigational. It may be an option when the recurrence is confined to the gland and PSMA PET imaging shows no spread elsewhere. Risks of urinary and rectal injury are higher in previously irradiated tissue, so most centres offer this only within a trial or a specialist focal-therapy programme.</p>"
+          },
+          {
+            "q": "What are the serious risks I should ask my doctor about?",
+            "a": "<p>The main risks are urinary retention needing a catheter, urinary infection, narrowing of the urethra, and, rarely, a fistula between the rectum and the urinary tract. Temporary leakage affects a small number of men and usually settles.</p><p>Light sensitivity of the skin and eyes is short with newer drugs such as padeliporfin, often only a few days. Ask how many of these procedures your team performs each year.</p>"
+          },
+          {
+            "q": "How do I find a hospital that actually offers this treatment?",
+            "a": "<p>Focal PDT is available at a limited number of centres, usually large academic hospitals with MRI-fusion biopsy and an established focal-therapy team. Ask how many prostate cases the unit has treated and what proportion needed retreatment.</p><p>CancerFax can help you compare centres in India and China and send your scans for review, though the final choice should rest with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

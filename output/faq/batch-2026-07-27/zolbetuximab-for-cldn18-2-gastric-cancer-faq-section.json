@@ -1,0 +1,59 @@
+{
+  "pillar": "Zolbetuximab for CLDN18.2-Positive Gastric Cancer: The New First-Line Standard",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "zolbetuximab-for-cldn18-2-gastric-cancer",
+  "route": "/insights/zolbetuximab-for-cldn18-2-gastric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is zolbetuximab and how does it work?",
+            "a": "<p>Zolbetuximab is a monoclonal antibody that targets claudin 18.2, a protein sitting on the surface of some stomach cancer cells. It locks onto that protein and signals the immune system to destroy the cell. It is given together with chemotherapy, never on its own. In phase 3 trials it helped people with CLDN18.2-positive, HER2-negative advanced gastric cancer live longer than chemotherapy alone.</p>"
+          },
+          {
+            "q": "Do I need a test before I can get zolbetuximab?",
+            "a": "<p>Yes, a tumor tissue test for claudin 18.2 is required before treatment can start. Pathologists use an immunohistochemistry stain and look for moderate-to-strong staining in at least 75% of tumor cells. Roughly 38% of people tested meet that threshold. The sample usually comes from an endoscopic biopsy or earlier surgery, and your team may request a fresh biopsy if the stored tissue is old or too small.</p>"
+          },
+          {
+            "q": "What does CLDN18.2-positive actually mean?",
+            "a": "<p>It means at least 75% of your tumor cells show moderate to strong claudin 18.2 staining on their outer membrane. Claudin 18.2 normally sits in healthy stomach lining and often stays exposed as cancer develops, which is what makes it a workable target. Scoring uses a validated companion test rather than a general impression. A result below that threshold means zolbetuximab is unlikely to help, and other options are considered instead.</p>"
+          },
+          {
+            "q": "How much longer do people live on zolbetuximab?",
+            "a": "<p>In the SPOTLIGHT trial, median overall survival was about 18.2 months with zolbetuximab plus chemotherapy compared with 15.5 months on chemotherapy alone. The GLOW trial showed 14.4 versus 12.2 months. These are group averages, and individual results vary widely, with some people doing considerably better and others less well. Your stage, general fitness, and how the cancer responds in the first months all shape what you can realistically expect.</p>"
+          },
+          {
+            "q": "Which chemotherapy is it combined with?",
+            "a": "<p>Zolbetuximab is paired with a fluoropyrimidine and oxaliplatin regimen, either mFOLFOX6 or CAPOX. Both combinations were tested in separate phase 3 trials and both improved survival, so neither is clearly better than the other. The choice usually depends on whether you can take oral capecitabine tablets, your kidney function, and what your hospital uses routinely. Your oncologist will select the regimen that fits your body and your schedule.</p>"
+          },
+          {
+            "q": "What are the main side effects?",
+            "a": "<p>Nausea and vomiting are the most common problems and can be severe, particularly during the first one or two infusions. Reduced appetite, low blood albumin, tiredness, and the usual chemotherapy effects also occur. Teams manage the sickness with strong anti-sickness medicines given before each dose and by slowing the infusion rate. Many people who struggle at the start tolerate later cycles far better once the schedule has been adjusted.</p>"
+          },
+          {
+            "q": "Can I have zolbetuximab if my cancer is HER2-positive?",
+            "a": "<p>No. The approval covers HER2-negative advanced gastric and gastroesophageal junction cancer only. If your tumor is HER2-positive, trastuzumab-based treatment, often alongside chemotherapy and immunotherapy, is the standard first-line route instead. HER2 and claudin 18.2 are usually tested from the same biopsy, so ask for both results together and confirm which tests were actually run on your sample. Tumors positive for both markers exist but are uncommon.</p>"
+          },
+          {
+            "q": "Is zolbetuximab available in India or China?",
+            "a": "<p>Availability differs by country and keeps changing as regulators act. Zolbetuximab was approved first in Japan, then in the United States, Europe, and China, while access in India has been slower and may depend on named-patient import or a clinical trial. Hospital stock, pricing, and insurance cover vary too.</p><p>CancerFax can help you check where the drug is currently obtainable, though your treating oncology team decides whether it suits your case.</p>"
+          },
+          {
+            "q": "How is it given, and how often?",
+            "a": "<p>It is an intravenous infusion, given every two or three weeks depending on which chemotherapy regimen it is paired with. The first dose is larger and runs slowly, often over two hours or more, to limit sickness. Later doses are smaller and quicker. Treatment usually continues for as long as it keeps working and side effects stay manageable. Most people carry on with daily life between visits, resting around infusion days.</p>"
+          },
+          {
+            "q": "What are my options if my tumor is CLDN18.2-negative?",
+            "a": "<p>Chemotherapy combined with immunotherapy is the usual first-line route, especially if your tumor shows PD-L1 expression or mismatch repair defects. Trials of other targets, including FGFR2b antibodies and antibody-drug conjugates, are recruiting in several countries, though enrolment depends on meeting each study's criteria. A negative claudin 18.2 result does not leave you without choices. Ask your oncologist for the full biomarker report, since more than one marker can guide the next step.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

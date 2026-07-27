@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation in India: Centres and Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-in-india",
+  "route": "/insights/microwave-ablation-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation and how does it treat cancer?",
+            "a": "<p>Microwave ablation destroys a tumour with heat, delivered through a thin needle placed directly into the growth under CT or ultrasound guidance. The needle emits microwave energy that heats tissue above 60°C, killing cancer cells within minutes. It is done through the skin, so there is no surgical incision. Doctors usually use it for small tumours in the liver, lung, kidney or bone. Whether it suits your tumour depends on size, position and your general health.</p>"
+          },
+          {
+            "q": "Which hospitals in India offer microwave ablation?",
+            "a": "<p>Microwave ablation is available at major cancer centres in Delhi NCR, Mumbai, Chennai, Bengaluru and Hyderabad. Interventional radiology units at hospitals such as Tata Memorial Centre, AIIMS, Apollo and Fortis perform it regularly. Availability changes, and not every branch of a hospital group has the equipment or a trained interventional radiologist. CancerFax can help you check which units currently offer it, but the treating team decides whether it fits your case.</p>"
+          },
+          {
+            "q": "How much does microwave ablation cost in India?",
+            "a": "<p>Microwave ablation in India usually costs between about USD 3,000 and USD 6,000 for one session, including imaging guidance, the ablation needle and a short hospital stay. Government and trust hospitals often charge less, while large private hospitals sit at the upper end. Costs rise if more than one tumour is treated, or if you need a longer admission and anaesthesia support. Quotes are estimates only and depend on your scans.</p>"
+          },
+          {
+            "q": "Is microwave ablation better than radiofrequency ablation?",
+            "a": "<p>Microwave ablation heats tissue faster and to a higher temperature than radiofrequency ablation, which can help with larger tumours and tumours sitting close to blood vessels. It is also less affected by charring and by tissue that conducts heat poorly, such as lung. For small liver tumours, results from the two methods are broadly similar. Your interventional radiologist will choose based on tumour size, site and the equipment available.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with microwave ablation?",
+            "a": "<p>Microwave ablation is used most often for liver cancer and liver metastases, early lung cancer, small kidney tumours and painful bone metastases. Some centres also treat thyroid nodules and selected soft tissue tumours. It works best when the tumour is under roughly 3 to 4 centimetres and can be reached safely with a needle. Whether it is suitable in your case depends on staging scans and a tumour board review.</p>"
+          },
+          {
+            "q": "Am I eligible for microwave ablation?",
+            "a": "<p>You may be a candidate if you have a small number of tumours, each generally under 3 to 4 centimetres, that a needle can reach without passing through vital structures. Adequate liver or lung function and blood counts that allow a needle procedure are also needed. People with widespread disease usually need systemic treatment instead. Only your treating oncology team can confirm eligibility after reviewing recent imaging and blood work.</p>"
+          },
+          {
+            "q": "How long will I be in hospital and how fast is recovery?",
+            "a": "<p>Most patients go home within 24 to 48 hours, and many Indian centres treat microwave ablation as a one-night admission. You can usually walk the same day. Mild pain, low-grade fever and tiredness for a few days afterwards are common and settle with simple medicines. A follow-up CT or MRI at about one month checks whether the tumour was fully destroyed. Recovery times vary with the organ treated.</p>"
+          },
+          {
+            "q": "What are the risks and side effects?",
+            "a": "<p>Serious complications are uncommon, reported in roughly 2 to 5 percent of procedures. The main risks are bleeding, infection, injury to nearby structures such as bile ducts or bowel, and a collapsed lung when the chest is treated. Many patients develop post-ablation syndrome, meaning fever, aches and fatigue lasting a few days. Your own risk depends on tumour location and general health, so discuss it with the interventional radiologist.</p>"
+          },
+          {
+            "q": "Can I come to India from abroad for microwave ablation?",
+            "a": "<p>International patients can often arrange microwave ablation in India within two to four weeks, once a centre has reviewed recent scans and reports. You will need a medical visa, which most Indian hospitals support with an invitation letter after they accept your case. CancerFax can help forward your reports to interventional radiology teams for a preliminary opinion. Final acceptance, timing and cost always rest with the treating hospital.</p>"
+          },
+          {
+            "q": "Does microwave ablation cure the cancer, or can it come back?",
+            "a": "<p>Microwave ablation can completely destroy a small tumour, and for early liver or kidney cancers the results may come close to surgery. Full destruction is achieved in roughly 85 to 95 percent of tumours under 3 centimetres. Cancer can still return in the same area or elsewhere, so scans every three to six months are standard. It is not a guaranteed cure, and outcomes depend on your cancer type and stage.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

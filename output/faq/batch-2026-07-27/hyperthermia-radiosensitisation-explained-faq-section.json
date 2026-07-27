@@ -1,0 +1,59 @@
+{
+  "pillar": "How Heat Makes Radiation Work Better: Radiosensitisation Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hyperthermia-radiosensitisation-explained",
+  "route": "/insights/hyperthermia-radiosensitisation-explained",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Does adding heat to radiation really improve my chances?",
+            "a": "<p>Warming a tumour to roughly 40–44°C around the time of radiotherapy can meaningfully improve local tumour control, and randomised trials in cervical, breast and head and neck cancers have shown better response rates when heat is added. The size of that benefit depends on your tumour type, its depth, and how evenly it can be heated. Whether it applies to your case is a decision for your radiation oncologist.</p>"
+          },
+          {
+            "q": "How does heat make cancer cells easier to kill with radiation?",
+            "a": "<p>Heat attacks cancer cells in ways radiation cannot. It damages the proteins that repair broken DNA, so the breaks radiation causes are less likely to be mended. It also widens blood vessels inside the tumour and raises oxygen levels, and oxygen makes radiation roughly two to three times more damaging. Cells sitting in low-oxygen, acidic pockets are the most radiation-resistant but often the most heat-sensitive.</p>"
+          },
+          {
+            "q": "What temperature is used, and will it burn healthy tissue?",
+            "a": "<p>The target is 40–44°C, held for about 45 to 60 minutes, which is warm rather than burning. Temperature probes or MRI thermometry keep normal tissue below the level where damage occurs, and the operator lowers the power the moment you report a hot spot or pressure. Small skin blisters can happen, particularly over scars or bony areas, but they usually heal without treatment being stopped.</p>"
+          },
+          {
+            "q": "Which cancers is this heat-plus-radiation combination used for?",
+            "a": "<p>It is used most often for tumours the heating applicator can reach reliably: cervical cancer, recurrent breast cancer on the chest wall, head and neck lymph nodes, soft tissue sarcoma, melanoma deposits, bladder and rectal cancers, and superficial recurrences after earlier treatment. Deep tumours in the abdomen and pelvis are harder to heat evenly, so results there vary more between centres and equipment types.</p>"
+          },
+          {
+            "q": "Will hyperthermia add to my radiation side effects?",
+            "a": "<p>Hyperthermia adds very little to the side effects of radiotherapy itself, and large trials found no meaningful rise in long-term tissue damage when heat was added. What patients report is short-term: skin redness, sweating, tiredness on treatment days, discomfort from lying still, and occasionally a small burn at a hot spot. These usually settle within days to weeks, and your team checks the skin before each session.</p>"
+          },
+          {
+            "q": "How soon after the heating do I get the radiation dose?",
+            "a": "<p>The two are usually given within about an hour of each other, and many centres aim for 30 minutes or less. The radiosensitising effect is strongest while the tissue is still warm, because the DNA repair proteins are still disabled. Beyond roughly three to four hours most of the benefit disappears, which is why hyperthermia units are normally built next door to the radiotherapy bunker.</p>"
+          },
+          {
+            "q": "Can heat allow a second course of radiation to an area already treated?",
+            "a": "<p>Often yes, and this is one of hyperthermia's strongest uses. When an area has already received a full radiation dose, repeating it carries real risk, so doctors give a lower re-irradiation dose and add heat to restore its killing power. Recurrent chest wall breast cancer is the best-studied example, with response rates roughly doubling. Suitability depends on the earlier dose, the time since, and the tissues involved.</p>"
+          },
+          {
+            "q": "Does hyperthermia mean I can have a lower radiation dose overall?",
+            "a": "<p>Sometimes. Because heat makes each fraction of radiation more effective, some centres deliberately prescribe a reduced total dose to spare normal tissue, particularly in frail or elderly patients and in re-irradiation. This is not standard for every tumour, and reducing dose is only reasonable within protocols where heating is reliable and measured. Your radiation oncologist will weigh tumour control against the risk of undertreating.</p>"
+          },
+          {
+            "q": "Is hyperthermia with radiotherapy available in India and China?",
+            "a": "<p>Yes, though it is not offered everywhere. Several large hospitals in China run deep regional hyperthermia alongside radiotherapy, and a smaller number of Indian centres have superficial and deep systems. Availability can change as equipment is installed or serviced, so confirm before travelling. CancerFax can help you check which hospitals currently run hyperthermia with radiotherapy, but the treating oncology team decides whether it suits your case.</p>"
+          },
+          {
+            "q": "How much does hyperthermia add to the cost of my radiotherapy?",
+            "a": "<p>Hyperthermia is usually billed per session, and most protocols use one or two sessions a week during the radiotherapy course, so the added cost depends mainly on how many weeks you are treated. In India and China it often adds a modest amount relative to the radiotherapy itself. Quoted prices vary by hospital and equipment, and CancerFax can request current estimates on your behalf.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "SRS and SBRT Costs in China and India: Detailed Comparison",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "srs-sbrt-cost-in-china-and-india",
+  "route": "/insights/srs-sbrt-cost-in-china-and-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does SBRT cost in India compared to China?",
+            "a": "<p>SBRT in India typically costs between USD 4,000 and 8,000 for a full course, while comparable treatment in China usually falls between USD 8,000 and 15,000. The gap reflects lower hospital and staffing costs in India rather than a difference in the technology itself. Final pricing depends on the machine used, the number of fractions, the tumour site, and the hospital you choose, so treat these as planning ranges only.</p>"
+          },
+          {
+            "q": "What is the difference between SRS and SBRT, and does it change the price?",
+            "a": "<p>SRS treats tumours inside the brain or spine, while SBRT treats tumours elsewhere in the body such as the lung, liver, or prostate. Price differs because SRS is often delivered in a single session, whereas SBRT usually needs three to five. A single-session SRS treatment in India may cost less than a five-fraction SBRT course, though brain cases can require extra imaging and immobilisation that raise the total.</p>"
+          },
+          {
+            "q": "Why is SRS cheaper in India than in Western countries?",
+            "a": "<p>SRS in India can cost 60 to 80 percent less than in the United States or Europe, mainly because hospital overheads, staff salaries, and facility costs are lower. The radiation machines themselves are often the same models made by the same manufacturers. Many Indian centres treating international patients hold JCI accreditation and report outcomes in line with global data, though results always depend on your specific diagnosis and stage.</p>"
+          },
+          {
+            "q": "Does the quoted price include everything, or are there hidden costs?",
+            "a": "<p>Most quoted SRS and SBRT prices cover planning scans, simulation, treatment delivery, and immediate follow-up, but not everything else you will pay for. Budget separately for the initial consultation, biopsy or pathology review, PET or MRI staging scans, medication, accommodation, visas, and a companion's travel. Ask any hospital for a written itemised quote before you commit, since what is bundled varies considerably between centres and can shift after planning.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India or China for treatment?",
+            "a": "<p>Plan for two to four weeks in total, even though the radiation itself takes only a few days. The first week usually covers consultation, imaging, and treatment planning; delivery follows over one to five sessions; and most teams want a short review before you fly home. Longer stays may be needed if your case requires additional staging or if the tumour site demands more complex planning.</p>"
+          },
+          {
+            "q": "Which machine will they use, and does a costlier one work better?",
+            "a": "<p>Common systems include CyberKnife, Gamma Knife, TrueBeam, and Versa HD, and a higher price tag does not automatically mean a better outcome for you. Gamma Knife is often preferred for brain lesions, while CyberKnife and modern linear accelerators handle moving targets such as lung tumours well. The right choice depends on tumour location, size, and movement, and your radiation oncologist should explain why a particular machine suits your case.</p>"
+          },
+          {
+            "q": "Can I get an accurate cost estimate before I travel?",
+            "a": "<p>Yes, most major centres in India and China will issue a written estimate once they review your scans, pathology report, and current medical summary. Send recent imaging on a disc or through a secure link rather than photographs of films, since planning depends on the raw data. CancerFax can help route your records to appropriate centres so you receive comparable quotes, though the treating oncology team makes the final clinical and pricing decision.</p>"
+          },
+          {
+            "q": "Is treatment in China worth the higher cost compared with India?",
+            "a": "<p>China may be worth the higher cost if you need a specific technology or trial that is more available there, but for standard SRS and SBRT the clinical results are broadly similar. India generally has an advantage for English-speaking patients, simpler medical visa processes, and lower overall spend. China can suit patients seeking proton or carbon ion facilities, or those already travelling for other therapies, so the decision often turns on access rather than quality.</p>"
+          },
+          {
+            "q": "Will my insurance cover SRS or SBRT done abroad?",
+            "a": "<p>Coverage varies widely, and many policies exclude planned treatment outside your home country entirely. Some insurers reimburse part of the cost if you obtain pre-authorisation and show that the treatment is medically necessary and unavailable or delayed locally. Request a detailed treatment plan with procedure codes from the hospital and submit it to your insurer before travelling, since retrospective claims are far more often refused.</p>"
+          },
+          {
+            "q": "How do I choose a hospital without visiting first?",
+            "a": "<p>Focus on the radiation oncologist's experience with your specific tumour type, the centre's annual SRS or SBRT volume, and whether it holds international accreditation such as JCI or NABH. Ask for a video consultation before you book anything, and request written answers on fraction numbers, expected side effects, and follow-up arrangements.</p><p>CancerFax can share centre information and help arrange those consultations, but the treatment decision should rest with you and your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

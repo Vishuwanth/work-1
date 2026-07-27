@@ -1,0 +1,59 @@
+{
+  "pillar": "China's Gene Therapy Boom: The New Frontier for Rare Cancers and Blood Disorders",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-gene-therapy-blood-disorders",
+  "route": "/guides/china-gene-therapy-blood-disorders",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is gene therapy actually available to patients in China right now?",
+            "a": "<p>Gene therapy is already available in China, both as approved products and through a large number of registered clinical trials. China has approved several cell and gene therapies, and hundreds of gene therapy trials are running in hospitals in Shanghai, Beijing, Guangzhou and Tianjin. Access depends on your diagnosis, prior treatment and whether a trial is open, so eligibility must be confirmed case by case.</p>"
+          },
+          {
+            "q": "Which blood disorders can gene therapy treat in China?",
+            "a": "<p>Beta thalassemia and sickle cell disease are the blood disorders where gene therapy has moved furthest in China, with several gene-edited therapies approved or in late-stage trials. Chinese teams are also testing gene therapy for haemophilia A and B and for some inherited immune deficiencies. Whether any of these fits your case depends on your genetic subtype, age and organ health, so a haematologist review comes first.</p>"
+          },
+          {
+            "q": "How much does gene therapy cost in China?",
+            "a": "<p>Gene therapy in China often costs between USD 60,000 and USD 250,000, depending on the product, the hospital and how much supportive care you need. Approved one-time gene therapies for thalassemia sit at the higher end. Costs can fall sharply if you are accepted into a sponsored clinical trial, where the therapy itself may be provided free. Quotes change often, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "Can I go to China for gene therapy if I live outside the country?",
+            "a": "<p>International patients can be treated in China, and several Shanghai and Beijing hospitals run dedicated international units. You will usually need a medical visa, translated records, a confirmed genetic diagnosis and a pre-treatment consultation before you fly. Some clinical trials restrict enrolment to residents of China, while commercial gene therapy programmes are more open. CancerFax can help pass your records to the treating team so eligibility is checked before you commit.</p>"
+          },
+          {
+            "q": "Is gene therapy in China safe and properly regulated?",
+            "a": "<p>Gene therapy in China is regulated by the National Medical Products Administration, which now reviews cell and gene products on a pathway similar to the FDA and EMA. Approved therapies have passed controlled trials with published results. Risks remain real, including infection during the conditioning chemotherapy, infertility and unknown long-term effects of gene editing. Ask which specific product is being used and whether it is approved or still experimental.</p>"
+          },
+          {
+            "q": "What is the difference between gene therapy and CAR-T?",
+            "a": "<p>CAR-T is one type of gene therapy, in which your own T cells are genetically reprogrammed to attack cancer. Other gene therapies instead correct or replace a faulty gene, which is the approach used in thalassemia and haemophilia. China is active in both, with more than a thousand registered cell and gene trials. Which one suits you depends on whether your illness is a cancer or an inherited gene defect.</p>"
+          },
+          {
+            "q": "Can gene therapy cure thalassemia for good?",
+            "a": "<p>Gene therapy can free many transfusion-dependent thalassemia patients from regular blood transfusions, and in trials most treated patients stayed transfusion-free for years. Doctors describe this as a functional cure rather than a guaranteed permanent one, because follow-up data are still maturing. Results are strongest in younger patients without heavy iron overload or organ damage. Your own chance of response depends on your genotype and how advanced the disease already is.</p>"
+          },
+          {
+            "q": "How long would I need to stay in China for treatment?",
+            "a": "<p>Plan on three to four months in China for a gene therapy course. The sequence is usually two to four weeks of testing and cell collection, then conditioning chemotherapy, the infusion itself, and four to six weeks of recovery in or near the hospital while your counts return. Follow-up visits continue for years afterwards, often shared with your home haematologist. Timelines can stretch if infections or delays occur.</p>"
+          },
+          {
+            "q": "Which rare cancers are being treated with gene therapy in China?",
+            "a": "<p>Chinese centres are testing gene and cell therapies for rare cancers including relapsed multiple myeloma, mantle cell and other rare lymphomas, some paediatric leukaemias, and early work in solid tumours such as hepatocellular carcinoma and gastric cancer. Most of this sits inside clinical trials rather than routine care. Trial slots for rare cancers are limited and open and close quickly, so availability needs checking at the time you enquire.</p>"
+          },
+          {
+            "q": "How do I find out whether I qualify for a gene therapy trial in China?",
+            "a": "<p>Start by having your full records reviewed by a centre that runs the specific therapy: pathology or genetic report, recent scans or blood counts, treatment history and current medications. Chinese trial teams usually respond with a written eligibility opinion within one to two weeks. CancerFax can route those documents to the relevant hospitals, though the final decision always rests with the treating oncology or haematology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

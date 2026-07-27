@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation for Thyroid Nodules",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-for-thyroid-nodules",
+  "route": "/insights/microwave-ablation-for-thyroid-nodules",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation for a thyroid nodule?",
+            "a": "<p>Microwave ablation destroys a thyroid nodule with heat delivered through a thin needle, so no incision and no scar are needed. Guided by ultrasound, the doctor places the needle inside the nodule and microwave energy heats the tissue until the cells die. The dead tissue is then reabsorbed by your body over months, and the nodule gradually shrinks. Most people go home the same day.</p>"
+          },
+          {
+            "q": "Am I a candidate for microwave ablation, or do I still need surgery?",
+            "a": "<p>You may be a candidate if your nodule is benign on biopsy, causes symptoms such as pressure, choking or a visible lump, and sits where a needle can reach it safely. Doctors usually confirm this with two biopsies and a detailed ultrasound. CancerFax can help you get these reports reviewed by an ablation specialist, though eligibility is always decided by the doctor who examines you.</p>"
+          },
+          {
+            "q": "Does microwave ablation hurt, and will I be asleep?",
+            "a": "<p>Most patients feel pressure and warmth rather than sharp pain, because the neck is numbed with local anaesthetic before the needle goes in. You stay awake and can tell the doctor if you feel heat spreading toward your jaw or ear, which lets them adjust. The procedure usually takes 30 to 60 minutes. Mild neck soreness for a few days afterwards is common.</p>"
+          },
+          {
+            "q": "How much will my nodule actually shrink?",
+            "a": "<p>Benign nodules often shrink by roughly 50 to 70 percent within six months, and by 80 percent or more after a year. Shrinkage is fastest in the first three months, then slows down. Fluid-filled nodules usually respond better than solid ones. Results vary with nodule size, blood supply and how completely the nodule was treated, so your own reduction may be smaller or larger.</p>"
+          },
+          {
+            "q": "Will I have to take thyroid tablets for life after this?",
+            "a": "<p>In most cases thyroid function stays normal, because ablation targets only the nodule and spares the rest of the gland. This is the main advantage over removing half or all of the thyroid, which often leads to lifelong hormone tablets. Your doctor will still check TSH and thyroid hormone levels before and after treatment. A small number of patients do develop changes and may need medication.</p>"
+          },
+          {
+            "q": "Is it safe? Could it damage my voice?",
+            "a": "<p>Serious complications are uncommon, but the nerve that controls your voice runs close to the thyroid, so hoarseness is the main risk. It occurs in a small percentage of cases and is usually temporary, recovering over weeks to a few months. Bleeding, skin burns and infection are rare. Risk falls when the procedure is done by an experienced operator using ultrasound and protective fluid injection.</p>"
+          },
+          {
+            "q": "How long is the recovery, and when can I go back to work?",
+            "a": "<p>Most people return to normal activity the next day, since there is no incision to heal. You are typically observed for one to two hours and discharged the same day. Expect mild swelling, bruising or a sore throat for several days. Heavy lifting and strenuous exercise are usually avoided for about a week. Follow-up ultrasound is normally done at one, three, six and twelve months.</p>"
+          },
+          {
+            "q": "Is microwave ablation better than radiofrequency ablation for my nodule?",
+            "a": "<p>Neither is clearly better for every nodule. Microwave ablation heats a larger volume faster, which can suit big solid nodules, while radiofrequency ablation gives finer control near the voice nerve and windpipe. Studies show similar shrinkage and similar complication rates at one year. The stronger factor is usually operator experience and which system your hospital uses, so the choice often depends on local availability.</p>"
+          },
+          {
+            "q": "Can microwave ablation treat thyroid cancer, not just a benign lump?",
+            "a": "<p>Microwave ablation is mainly used for benign nodules, not as standard treatment for thyroid cancer. It is being studied for small, low-risk papillary microcarcinomas and for recurrent neck nodes in patients who cannot have surgery, with encouraging early results. Surgery and radioactive iodine remain the accepted approach for most cancers. If a biopsy shows cancer, your oncology team should guide that decision.</p>"
+          },
+          {
+            "q": "What does it cost, and can I get it done abroad?",
+            "a": "<p>Cost varies widely by country and hospital, and in India the procedure is often a fraction of Western prices, though quoted figures depend on nodule size, number of sessions and hospital category. Ask for a written quote covering the ultrasound, day-care stay and follow-up scans. CancerFax can help you share your reports with centres that perform thyroid ablation, but the final plan should come from your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

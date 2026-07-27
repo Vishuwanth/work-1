@@ -1,0 +1,59 @@
+{
+  "pillar": "SBRT for Stage I Lung Cancer: The Evidence Comparing It to Surgery",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "sbrt-for-stage-i-lung-cancer",
+  "route": "/insights/sbrt-for-stage-i-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is SBRT as effective as surgery for stage I lung cancer?",
+            "a": "<p>For stage I non-small cell lung cancer, SBRT controls the treated tumour in roughly 90 percent of patients at three years, close to what surgery achieves. Randomised trials comparing the two closed early with small numbers, so much of the evidence is observational. In fit patients, large surgical series still show an overall survival edge. Which option suits you depends on lung function, age and other health problems.</p>"
+          },
+          {
+            "q": "What did the STARS and ROSEL trials actually show?",
+            "a": "<p>The pooled analysis of these two randomised trials, published in 2015, included only 58 patients and reported three-year survival of 95 percent with SBRT against 79 percent with surgery. Both trials stopped early because too few patients enrolled, so the numbers cannot settle the question. Later revised STARS data again suggested SBRT was comparable in operable patients. Most oncologists treat these results as promising rather than conclusive.</p>"
+          },
+          {
+            "q": "I am healthy enough for surgery. Should I still consider SBRT?",
+            "a": "<p>Surgery remains the standard recommendation if you are fit enough for a lobectomy, because it removes lymph nodes and gives full pathology staging. SBRT may still be worth discussing if you have borderline lung function, want to avoid a hospital stay, or decline an operation. Some centres now offer both to operable patients. CancerFax can help arrange a second opinion when a surgeon and a radiation oncologist disagree.</p>"
+          },
+          {
+            "q": "How many treatment sessions does lung SBRT need?",
+            "a": "<p>Most stage I lung SBRT courses run three to five sessions over one to two weeks, and each session takes about 15 to 45 minutes on the table. There is no anaesthetic, no incision and no hospital admission, so many people carry on with normal activity between visits. Some small peripheral tumours are treated in a single session. Your radiation oncologist sets the schedule from tumour size and position.</p>"
+          },
+          {
+            "q": "What are the side effects of SBRT compared with surgery?",
+            "a": "<p>SBRT usually causes tiredness, mild chest wall soreness and sometimes a dry cough in the weeks after treatment, while surgery brings incision pain, a chest drain and several weeks of recovery. Radiation pneumonitis affects a small minority and is often managed with steroids. Rib fracture can occur when the tumour sits near the chest wall. Serious complications are uncommon with either approach in experienced hands.</p>"
+          },
+          {
+            "q": "Can I have SBRT if my tumour is close to the airways?",
+            "a": "<p>Central tumours near the main airways or major vessels need a gentler schedule, often eight to ten smaller sessions rather than three, because early protocols using very high doses there caused serious bleeding and airway injury. Modern central regimens have improved safety considerably. Ultra-central tumours touching the airway wall remain the highest risk group. Treatment in these cases should be planned at a centre that does it regularly.</p>"
+          },
+          {
+            "q": "What happens if the cancer comes back after SBRT?",
+            "a": "<p>Recurrence after SBRT can often still be treated. Depending on where and when the cancer returns, options include surgery, a second course of radiation, thermal ablation, or drug therapy. Salvage surgery after radiation is technically harder but is performed at experienced centres. Regular CT follow-up is what makes early detection possible, and most teams scan every three to six months for the first two years.</p>"
+          },
+          {
+            "q": "Is SBRT possible if I have severe COPD or weak lungs?",
+            "a": "<p>SBRT was developed largely for patients whose lungs are too weak for an operation, so poor lung function rarely rules it out. Because it treats a small volume, the dose reaching healthy lung stays limited and any added breathlessness is usually mild. Severe pulmonary fibrosis or interstitial lung disease is the main concern, since it raises pneumonitis risk. Your team will review breathing tests before confirming eligibility.</p>"
+          },
+          {
+            "q": "Do I need a biopsy before SBRT?",
+            "a": "<p>A tissue diagnosis is preferred and is obtained in most cases through a needle or bronchoscopic biopsy. When a lesion is very small, deep, or in a risky position, some centres treat on imaging alone if the PET scan and growth pattern strongly suggest cancer. That decision is made in a multidisciplinary meeting rather than by one doctor. Ask your team how confident they are without tissue.</p>"
+          },
+          {
+            "q": "What does SBRT for lung cancer cost in India or China?",
+            "a": "<p>SBRT for stage I lung cancer often costs considerably less in India or China than in Western countries, though the final figure depends on the number of sessions, imaging, and whether a biopsy or PET scan is repeated locally. CancerFax can help you send scans and reports to accredited centres for a written estimate. Any plan abroad should be confirmed with your own oncology team first.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Gamma Knife, CyberKnife and SBRT Treatment in India",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gamma-knife-cyberknife-sbrt-treatment-in-india",
+  "route": "/guides/gamma-knife-cyberknife-sbrt-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between Gamma Knife, CyberKnife and SBRT?",
+            "a": "<p>All three deliver high-dose radiation precisely to a tumour, but they use different machines. Gamma Knife uses fixed cobalt sources and treats only the brain and upper neck. CyberKnife is a robotic arm that can reach tumours anywhere in the body. SBRT is the general term for this kind of focused, few-session radiation, delivered on standard linear accelerators. Your radiation oncologist chooses based on where the tumour sits.</p>"
+          },
+          {
+            "q": "How much does Gamma Knife or CyberKnife treatment cost in India?",
+            "a": "<p>Gamma Knife treatment in India typically costs about USD 4,500 to 7,500, CyberKnife about USD 6,000 to 10,000, and SBRT on a linear accelerator about USD 3,000 to 6,000. Prices depend on the hospital, the city, how many tumours are treated, and the imaging needed for planning. These are indicative ranges only, and your final quote may differ once the hospital reviews your scans and reports.</p>"
+          },
+          {
+            "q": "Is Gamma Knife actually surgery? Will it hurt?",
+            "a": "<p>No cutting is involved, despite the name. Gamma Knife and CyberKnife are radiation treatments, so there is no incision, no general anaesthesia in most cases, and no blood loss. You lie still on a couch while the machine delivers beams from many angles. Gamma Knife may require a lightweight head frame fixed under local anaesthetic, or a moulded mask instead, depending on the centre.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long does each one take?",
+            "a": "<p>Most patients need one to five sessions. Gamma Knife for a single brain lesion is often finished in one sitting lasting 30 to 90 minutes. CyberKnife and SBRT usually run over three to five sessions on alternate days, each taking 30 to 60 minutes. The exact number depends on tumour size, location, and how close it sits to sensitive structures such as the optic nerve or spinal cord.</p>"
+          },
+          {
+            "q": "Which is better for my brain tumour, Gamma Knife or CyberKnife?",
+            "a": "<p>For small, well-defined brain lesions, Gamma Knife is usually the first choice because its accuracy inside the skull is sub-millimetre and it has decades of published results behind it. CyberKnife can match that accuracy and is often preferred when the tumour sits at the skull base or near the spine, or when a frameless approach is safer. Both give similar control rates in many cases, so the decision depends on your scans.</p>"
+          },
+          {
+            "q": "Can these treatments be used for cancer outside the brain?",
+            "a": "<p>Yes. CyberKnife and SBRT routinely treat tumours in the lung, liver, prostate, pancreas, spine, and adrenal glands, and they are also used for a limited number of secondary deposits elsewhere. Gamma Knife is restricted to the brain and upper cervical spine. Suitability usually depends on tumour size, how many lesions there are, and whether the rest of the disease is controlled, so your oncologist will confirm after reviewing your imaging.</p>"
+          },
+          {
+            "q": "What are the side effects of radiosurgery?",
+            "a": "<p>Most patients get through treatment with mild, short-lived effects such as tiredness, headache, mild nausea, or scalp irritation where the beams enter. Swelling around a brain lesion can occur in the first few weeks and is usually managed with steroids. Later effects, such as radiation necrosis or injury to nearby nerves, are uncommon but possible. Your team will monitor you with follow-up scans, often every three months in the first year.</p>"
+          },
+          {
+            "q": "Which hospitals in India have Gamma Knife and CyberKnife machines?",
+            "a": "<p>Gamma Knife and CyberKnife units are concentrated in large private and government centres in Delhi NCR, Mumbai, Bengaluru, Chennai, and Hyderabad, including Apollo, Fortis, Medanta, Artemis, and Tata Memorial. Machine models, software versions, and waiting times differ between them. CancerFax can help you compare which centres currently run the equipment your case needs, though the final choice should be made with your treating oncology team.</p>"
+          },
+          {
+            "q": "How long do I need to stay in India for treatment?",
+            "a": "<p>Plan for roughly two to three weeks in India for a single-site treatment. That covers arrival, consultation, fresh imaging, treatment planning, the sessions themselves, and a short review before you fly home. Single-session Gamma Knife cases can sometimes be completed in ten to twelve days. Medical visa processing and the hospital's slot availability can extend this, so build in a few spare days where you can.</p>"
+          },
+          {
+            "q": "Can I still have this if I have already had surgery or radiation?",
+            "a": "<p>Often, yes. These techniques are frequently used after surgery to treat the tumour bed, or after earlier radiation when a small area of disease comes back. The decision depends on how much dose that area already received, how long ago it was given, and how well the surrounding tissue recovered. Your radiation oncologist will need your previous treatment records and dose charts before confirming whether re-treatment is safe.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

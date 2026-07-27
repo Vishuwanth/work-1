@@ -1,0 +1,59 @@
+{
+  "pillar": "What to Expect During and After Cryoablation: A Patient Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-procedure-patient-experience",
+  "route": "/insights/cryoablation-procedure-patient-experience",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What actually happens during a cryoablation procedure?",
+            "a": "<p>A doctor inserts a thin needle-like probe through your skin into the tumour, guided by CT, ultrasound or MRI images, then circulates argon gas to freeze the tissue to around minus 40°C. Most procedures use two or three freeze-thaw cycles, each lasting a few minutes. The frozen ball of tissue, called the ice ball, is watched on the scan the whole time so it covers the tumour and a small margin.</p>"
+          },
+          {
+            "q": "Will I be awake during cryoablation, and will it hurt?",
+            "a": "<p>Most cryoablations are done under conscious sedation or general anaesthesia, so you should not feel the freezing itself. Which one you get depends on the tumour's site, its size and your general health, and chest or kidney procedures more often use general anaesthesia. Afterwards you may feel aching, throbbing or a dull cold pain near the treated area for a few days, usually controlled with simple painkillers.</p>"
+          },
+          {
+            "q": "How long does the procedure take and how long will I be in hospital?",
+            "a": "<p>The freezing itself usually takes 20 to 45 minutes, but plan for three to five hours in the hospital once preparation, imaging and recovery are counted. Many patients treated for small kidney, lung, breast or bone tumours go home the same day. An overnight stay is common if the tumour was near the chest, if you had general anaesthesia, or if you live far away.</p>"
+          },
+          {
+            "q": "What will I feel in the first 48 hours after cryoablation?",
+            "a": "<p>Expect soreness at the probe site, bruising, tiredness and sometimes a mild fever or flu-like feeling as your body clears the frozen tissue. Some people notice numbness or tingling if a small nerve was chilled, which often settles over weeks. Ice packs, paracetamol and rest handle most of it. Ask your team before taking anti-inflammatory tablets, since these can interact with other cancer medicines you may be on.</p>"
+          },
+          {
+            "q": "When can I get back to normal activity and work?",
+            "a": "<p>Most people return to light daily activity within two to three days and to desk work within a week. Heavy lifting, strenuous exercise and long flights are usually avoided for one to two weeks, and longer if a lung or kidney was treated. Your interventional radiologist sets the exact limits based on where the probes went and how much bleeding risk you carry, so follow their instructions rather than a general timeline.</p>"
+          },
+          {
+            "q": "How will doctors know whether the cryoablation worked?",
+            "a": "<p>Imaging, not how you feel, tells the story. A contrast CT or MRI is usually done at one to three months, then every three to six months for the first two years, looking for any enhancing tissue at the rim of the treated zone. The scan right after treatment often looks larger and inflamed, which is expected and does not mean the tumour is growing.</p>"
+          },
+          {
+            "q": "What warning signs after cryoablation mean I should call the hospital?",
+            "a": "<p>Call straight away for fever above 38°C lasting more than a day, worsening or spreading pain, heavy bleeding or swelling at the puncture site, sudden breathlessness or chest pain, blood in your urine that thickens rather than clears, or being unable to pass urine. These can point to bleeding, infection or a collapsed lung, all of which are treatable when caught early.</p><p>Keep the ward number your discharge sheet gives you close at hand.</p>"
+          },
+          {
+            "q": "Can cryoablation be repeated if the tumour comes back?",
+            "a": "<p>Yes, cryoablation can often be repeated, and that is one of its practical advantages over surgery or radiation. Because it does not remove healthy tissue or use a lifetime radiation dose, the same site can usually be treated again, or a new spot treated later. Whether repeating is right for you depends on tumour size, position and your kidney, lung or liver function at the time.</p>"
+          },
+          {
+            "q": "If I travel to India or China for cryoablation, how long should I plan to stay?",
+            "a": "<p>Plan on roughly seven to ten days abroad for a single-site cryoablation. That covers pre-procedure scans and blood tests, the treatment day, one or two review visits, and a fitness-to-fly check before the flight home. Teams often want a baseline follow-up scan before you leave. CancerFax can help you share your imaging and reports with the hospital in advance so the schedule is set before you land.</p>"
+          },
+          {
+            "q": "Who is not a good candidate for cryoablation?",
+            "a": "<p>Cryoablation may not suit you if the tumour is large, sits right against the bowel, a major nerve or a large blood vessel, or if you have a bleeding disorder that cannot be corrected. Widespread disease usually needs drug treatment first. The decision rests with your own oncology and interventional radiology team after reviewing your scans, and CancerFax can arrange a second opinion if you want one before deciding.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

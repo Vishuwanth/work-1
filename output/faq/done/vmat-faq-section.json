@@ -1,0 +1,59 @@
+{
+  "pillar": "VMAT: Volumetric Modulated Arc Therapy — Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "vmat",
+  "route": "/treatments/vmat",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is VMAT and how does it actually work?",
+            "a": "<p>VMAT, or volumetric modulated arc therapy, delivers radiation in continuous arcs while the machine rotates around your body. The beam shape, dose rate and rotation speed change constantly, so the dose wraps tightly around the tumour. This allows your team to treat the cancer strongly while sparing nearby healthy tissue. You lie still on a couch for a few minutes and feel nothing while the beam is on.</p>"
+          },
+          {
+            "q": "Is VMAT better than IMRT for my cancer?",
+            "a": "<p>VMAT often delivers a dose similar to IMRT in far less time, usually two to six minutes on the couch instead of fifteen or more. Shorter sessions mean less chance of you shifting position, which can improve accuracy. For some tumour shapes, IMRT still produces the better dose plan. Your radiation oncologist compares both plans on your own scans before deciding which one suits your case.</p>"
+          },
+          {
+            "q": "How long does each VMAT treatment take?",
+            "a": "<p>Each VMAT session usually takes 10 to 20 minutes in the treatment room, with only two to six minutes of beam-on time. Most of that time goes to positioning you exactly as you were during your planning scan, often with imaging taken just before the beam starts. You go home the same day. The full course may run from one week to seven weeks, depending on the cancer treated.</p>"
+          },
+          {
+            "q": "Does VMAT hurt, and will I feel anything?",
+            "a": "<p>VMAT is painless — you feel nothing while the machine rotates around you, much like having an X-ray taken. The main discomfort comes from holding one position, and from a mask or mould if your head or neck is being treated. Tell the radiographers before the session if you are in pain or feeling anxious, as padding, timing or medication can often be adjusted with your team.</p>"
+          },
+          {
+            "q": "Which cancers is VMAT used to treat?",
+            "a": "<p>VMAT is widely used for prostate, head and neck, brain, lung, cervical, oesophageal and anal cancers, and for tumours that curve around critical organs. It also suits complex targets near the spinal cord, eyes or salivary glands. It can be given to cure, to control disease, or to relieve symptoms such as pain from bone spread. Whether it fits your case depends on your scans and stage.</p>"
+          },
+          {
+            "q": "What are the side effects of VMAT?",
+            "a": "<p>Side effects from VMAT depend on which part of the body is treated, not on the technique itself. Common ones include tiredness, skin redness over the treated area, and irritation of nearby organs — a sore throat for head and neck treatment, bowel or bladder urgency for pelvic treatment. Most settle within weeks of finishing. Because VMAT spares healthy tissue well, many patients report fewer severe effects than with older techniques.</p>"
+          },
+          {
+            "q": "How many VMAT sessions will I need?",
+            "a": "<p>Most VMAT courses run between 5 and 35 daily sessions, given Monday to Friday. Prostate cancer is often treated in 20 to 28 sessions, or as few as 5 with stereotactic techniques, while head and neck cancer usually needs 30 to 35. Palliative treatment for pain may take just 1 to 5. Your oncologist sets the number from your cancer type, stage and general health, and it can change mid-course.</p>"
+          },
+          {
+            "q": "How much does VMAT cost in India or China?",
+            "a": "<p>A full VMAT course in India commonly costs USD 3,000 to USD 6,000, and in China roughly USD 5,000 to USD 10,000, though prices vary by hospital, city and number of sessions. Quotes may exclude scans, consultations, hospital stay and travel, so ask for a written breakdown. CancerFax can help you compare centre quotes, but your treating team should confirm what your plan actually needs.</p>"
+          },
+          {
+            "q": "Can I travel abroad for VMAT treatment?",
+            "a": "<p>Yes, many patients travel to India, China, Turkey or Thailand for VMAT, often to the same machine models used in Europe and the United States. You will usually need a medical visa, your scans and pathology reports, and a stay long enough to cover the whole course. CancerFax can help arrange records and hospital appointments, but your own oncologist should approve travel and confirm dates before you book flights.</p>"
+          },
+          {
+            "q": "How accurate is VMAT, and what happens if I move?",
+            "a": "<p>VMAT is generally accurate to within a few millimetres, because the team images you on the treatment couch and corrects your position before the beam starts. Masks, moulds and skin marks help hold you in place, and some centres track your breathing so lung and breast targets stay steady. If you cough or shift, the radiographers can pause the beam and reset you. Small movements are expected and planned for.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

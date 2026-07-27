@@ -1,0 +1,59 @@
+{
+  "pillar": "Liver Cancer Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "liver-cancer-treatment-in-india",
+  "route": "/guides/liver-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does liver cancer treatment in India cost for an international patient?",
+            "a": "<p>Liver cancer treatment in India usually costs international patients between about USD 4,000 and USD 40,000, depending on the procedure. Chemoembolisation or radiofrequency ablation sits at the lower end, surgical resection in the middle, and a living-donor liver transplant at the top, often USD 35,000 to USD 45,000. Final costs depend on your liver function, hospital stay length and whether complications arise, so treat any quote as an estimate.</p>"
+          },
+          {
+            "q": "What liver cancer treatments can I actually get in India?",
+            "a": "<p>India offers the full range of liver cancer treatments: surgical resection, living-donor and deceased-donor liver transplant, radiofrequency and microwave ablation, transarterial chemoembolisation (TACE), radioembolisation with Y-90, stereotactic radiotherapy, targeted drugs and immunotherapy. Which one suits you depends on tumour size and number, how well the rest of your liver is working, and whether the cancer has spread beyond the liver. Your oncology team in India will confirm eligibility after reviewing your scans.</p>"
+          },
+          {
+            "q": "Can a foreign national get a liver transplant in India?",
+            "a": "<p>Yes, international patients can receive a liver transplant in India, but almost always from a living related donor. Indian law reserves deceased-donor organs mainly for Indian citizens, so you will usually need to travel with a blood relative who is willing and medically suitable to donate part of their liver. Approval also requires documentation proving the relationship, and a hospital transplant committee must clear the case.</p>"
+          },
+          {
+            "q": "How long will I have to stay in India for treatment?",
+            "a": "<p>Plan on three to four weeks in India for most liver cancer treatments, and eight to twelve weeks if you are having a transplant. Chemoembolisation or ablation often needs only seven to ten days, including tests and one follow-up scan. Your doctors may extend the stay if your liver function is slow to recover or if a second procedure is needed, so keep your travel dates flexible.</p>"
+          },
+          {
+            "q": "What visa do I need to come to India for liver cancer treatment?",
+            "a": "<p>You need an Indian medical visa, and your attendants need a medical attendant visa. To apply, you submit a letter from an Indian hospital confirming your appointment along with your diagnosis reports and passport. The visa usually allows a stay of up to sixty days per visit and can often be extended for treatment. Processing times vary by country, so apply as soon as your hospital letter arrives.</p>"
+          },
+          {
+            "q": "Are survival rates in India as good as in the US or Europe?",
+            "a": "<p>Outcomes at India's high-volume liver centres are broadly comparable to those in Europe and North America for the same stage of disease. Leading Indian transplant units report one-year survival above ninety percent, and their surgeons often perform several hundred liver operations a year. Results still depend heavily on your tumour stage, underlying cirrhosis and how quickly treatment starts, so ask each hospital for its own published figures.</p>"
+          },
+          {
+            "q": "What are my options if my tumour is too large or advanced for surgery?",
+            "a": "<p>If surgery is not possible, TACE, radioembolisation and stereotactic radiotherapy can still control the tumour. TACE delivers chemotherapy directly into the artery feeding the tumour and blocks its blood supply, while Y-90 radioembolisation places radioactive beads in the same vessels. Both are available at major Indian cancer centres and can sometimes shrink a tumour enough to make surgery or transplant possible later, though this is not guaranteed.</p>"
+          },
+          {
+            "q": "Is immunotherapy for liver cancer available in India, and is it cheaper?",
+            "a": "<p>Yes, atezolizumab with bevacizumab, durvalumab, tremelimumab, lenvatinib and sorafenib are all available in India, and generic versions of several targeted drugs cost far less than in Western countries. A monthly cycle of immunotherapy in India often runs a third to a half of US prices. Whether these drugs suit you depends on your liver function and prior treatment, so your oncologist will decide after reviewing your reports.</p>"
+          },
+          {
+            "q": "What reports should I send before I travel?",
+            "a": "<p>Send a recent triphasic CT or MRI of the liver, your AFP level, liver function tests, hepatitis B and C status, and any biopsy report. Scans should ideally be less than four weeks old and shared as DICOM files rather than photographs. Services such as CancerFax can pass these records to Indian liver teams for a written opinion, which your own doctor should review before you commit to travel.</p>"
+          },
+          {
+            "q": "What happens with follow-up once I go back home?",
+            "a": "<p>Most liver cancer patients need imaging and blood tests every three months for the first two years after treatment. Your Indian hospital will give you a discharge summary, drug list and follow-up schedule that your local oncologist can continue. Scans can be shared electronically for review by the Indian team, and CancerFax can help arrange those remote check-ins, but your home doctor stays responsible for day-to-day care.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

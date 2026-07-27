@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Therapy for Lung Cancer: Evidence, Eligibility, and Access",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-lung-cancer",
+  "route": "/insights/cik-therapy-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK therapy for lung cancer?",
+            "a": "<p>CIK therapy is a cell-based immunotherapy that uses your own immune cells, grown and activated outside the body, to attack lung cancer cells. Doctors collect white blood cells from your blood, expand them in a laboratory over roughly two to three weeks using cytokines, then infuse them back. It is normally given alongside standard treatment rather than in place of it, and responses vary from patient to patient.</p>"
+          },
+          {
+            "q": "Does CIK therapy actually work for lung cancer?",
+            "a": "<p>Trial data suggest CIK cells added to chemotherapy may modestly improve progression-free and overall survival in non-small cell lung cancer. Most of these studies are small, single-centre, and conducted in China, so the evidence is suggestive rather than definitive. No study has shown CIK therapy replacing chemotherapy, targeted therapy, or checkpoint inhibitors. Your oncologist can judge whether the current evidence supports adding it to your plan.</p>"
+          },
+          {
+            "q": "Am I eligible for CIK therapy if I have stage 4 lung cancer?",
+            "a": "<p>Advanced stage does not rule you out, but eligibility depends on your overall condition rather than stage alone. Centres generally look for adequate organ function, a reasonable performance status, no uncontrolled infection, and enough healthy white blood cells to harvest after previous chemotherapy. Very frail patients are often excluded because the collection and infusion process is demanding. Only the treating team can confirm whether you qualify.</p>"
+          },
+          {
+            "q": "Is CIK therapy approved, or is it still experimental?",
+            "a": "<p>CIK therapy is not approved as a standard lung cancer treatment in the United States, the United Kingdom, or the European Union. It is offered in parts of Asia, particularly China and Japan, under clinical trial protocols or hospital-regulated cell therapy programmes. This means access, oversight, and quality standards differ widely between centres. Ask any clinic directly what regulatory approval or trial registration covers the treatment they are offering.</p>"
+          },
+          {
+            "q": "How much does CIK therapy cost in China?",
+            "a": "<p>CIK therapy in China commonly costs somewhere between 8,000 and 25,000 US dollars for a full course of several infusions, though quoted prices vary a great deal by hospital and by how many cycles are planned. Costs for imaging, hospital stay, travel, and accompanying chemotherapy are usually separate. Insurance rarely covers treatment abroad. Always ask for a written, itemised quote before committing to anything.</p>"
+          },
+          {
+            "q": "How is CIK therapy given, and how long does it take?",
+            "a": "<p>Treatment begins with a blood collection, similar to donating platelets, which takes a few hours. Your cells are then cultured for around two to three weeks before being returned as intravenous infusions, often several sessions spread over days or weeks. A full course usually means staying near the treating centre for four to six weeks. Some programmes repeat the cycle every few months depending on response.</p>"
+          },
+          {
+            "q": "What are the side effects of CIK therapy?",
+            "a": "<p>Most reported side effects are mild and short-lived, typically fever, chills, fatigue, and occasional rash or nausea in the hours after an infusion. Serious reactions appear to be uncommon in published series, which is one reason the approach is often considered for patients who tolerate chemotherapy poorly. Because long-term follow-up data remain limited, ask your team how they monitor for delayed effects.</p>"
+          },
+          {
+            "q": "Can I have CIK therapy alongside chemotherapy or immunotherapy?",
+            "a": "<p>Yes, CIK therapy is most often given in combination rather than alone, and the strongest published results come from pairing it with platinum-based chemotherapy. Some centres also combine it with checkpoint inhibitors, though evidence for that pairing in lung cancer is thinner. Timing matters, because chemotherapy can lower the cell counts needed for collection. Your oncologist should coordinate the schedule rather than running the treatments separately.</p>"
+          },
+          {
+            "q": "Is CIK therapy the same as CAR-T?",
+            "a": "<p>No. CAR-T cells are genetically engineered to recognise one specific target on cancer cells, while CIK cells are activated but not genetically modified, so they attack tumour cells more broadly and less precisely. CAR-T has approvals in blood cancers but has struggled in solid tumours like lung cancer. CIK therapy is generally gentler and cheaper, but its anti-tumour effect is also considered weaker.</p>"
+          },
+          {
+            "q": "How do I get CIK therapy if I live outside China?",
+            "a": "<p>You will usually need a treating hospital abroad to review your records first, then arrange a medical visa, travel, and a stay of several weeks near the centre. Start by asking your own oncologist whether adding CIK therapy makes sense for your case. CancerFax can help you share your reports with participating centres and understand what each programme offers, though acceptance and scheduling always rest with the treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

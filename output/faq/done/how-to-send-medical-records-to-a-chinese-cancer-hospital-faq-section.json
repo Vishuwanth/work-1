@@ -1,0 +1,59 @@
+{
+  "pillar": "How to Send Medical Records to a Chinese Cancer Hospital",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-to-send-medical-records-to-a-chinese-cancer-hospital",
+  "route": "/guides/how-to-send-medical-records-to-a-chinese-cancer-hospital",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What medical records do I need to send to a Chinese cancer hospital?",
+            "a": "<p>Most Chinese cancer hospitals ask for four things: your pathology or biopsy report, recent imaging such as CT, MRI or PET-CT, blood and tumour marker results, and a summary of the treatment you have already had. If molecular or genetic testing was done, send that as well. Reports from the last three months carry the most weight. The exact list can vary by hospital and by cancer type, so confirm before sending.</p>"
+          },
+          {
+            "q": "Do my reports have to be translated into Chinese first?",
+            "a": "<p>English reports are usually accepted, because senior oncologists at the large Chinese cancer centres read English medical documents every day. A short Chinese summary can still speed up the internal review, especially at hospitals outside Beijing, Shanghai and Guangzhou. Reports in Arabic, Russian, Bahasa or Hindi normally need translating into English or Chinese first. Ask the international patient office which languages they accept before you pay for any translation.</p>"
+          },
+          {
+            "q": "How do I send my CT, MRI or PET scan images?",
+            "a": "<p>Send the raw DICOM files from your scan CD, not photographs of the printed film. Upload the folder to Google Drive, Dropbox or WeTransfer and share the link, or use WeChat if the hospital prefers it. Chinese radiologists need the full image series to measure the tumour and confirm the stage. A written radiology report alone is often enough for a first look, but rarely enough for a treatment plan.</p>"
+          },
+          {
+            "q": "Can I email everything, or must I courier the original documents?",
+            "a": "<p>Email or a shared cloud link is enough for the first review at almost every Chinese cancer hospital. Originals are usually needed only when you travel, and you can carry them yourself. Scanned copies must be clear and complete, showing the hospital letterhead, dates and doctor signatures. Blurred phone photos are the most common reason a file is sent back. Many hospitals cap attachment size, so a link often works better.</p>"
+          },
+          {
+            "q": "How long does a Chinese hospital take to reply after I send my records?",
+            "a": "<p>Most hospitals reply within three to seven working days once the file is complete. Complex cases that need a tumour board discussion may take about two weeks. Incomplete records are the usual cause of delay, and a missing pathology report can add another week on its own. CancerFax often checks a file for gaps before it reaches the hospital. Timelines are estimates and depend on each department's caseload.</p>"
+          },
+          {
+            "q": "Will they ask for my pathology slides or paraffin blocks?",
+            "a": "<p>Often yes, especially if the diagnosis is uncertain or targeted therapy is being considered. Chinese hospitals may re-read your slides themselves and may run their own immunohistochemistry or gene panel on the paraffin block. Ask your current hospital to release the block or unstained slides, which most keep on file for several years. Ship them in a rigid, temperature-stable pack, or carry them in hand luggage when you travel.</p>"
+          },
+          {
+            "q": "Is it safe to share my medical records with a hospital in another country?",
+            "a": "<p>It is reasonably safe when you send records to the hospital's official international patient department rather than to an individual on social media. Send the full clinical file, but you can hold back passport and payment details until admission is confirmed. Chinese public hospitals handle patient files under national health data rules. Use a password-protected link where possible and share the password separately. Never pay a deposit into a personal bank account.</p>"
+          },
+          {
+            "q": "What if some of my older reports are missing?",
+            "a": "<p>Send what you have and say clearly what is missing. Recent pathology and recent imaging matter far more than a complete history, so a lost report from three years ago rarely blocks a review. Write a short timeline yourself with dates of diagnosis, surgery, chemotherapy cycles and current medicines. Doctors can work from that. If a genuinely critical test is missing, the hospital may ask you to repeat it after arrival.</p>"
+          },
+          {
+            "q": "Who at the hospital should I actually send my file to?",
+            "a": "<p>Send it to the international patient office, sometimes called the international medical department, rather than to a doctor's personal email address. That office logs the case, routes it to the right specialist and usually replies in English. Fudan, Sun Yat-sen and the Chinese Academy of Medical Sciences cancer centres all run one. CancerFax can route a file as well, though the treating oncology team makes every clinical decision.</p>"
+          },
+          {
+            "q": "How should I name and organise the files before I send them?",
+            "a": "<p>Use one PDF per document, named by date and type, for example 2026-03-12-biopsy-report.pdf. Put everything into a single folder labelled with your name and date of birth, and keep imaging in a separate subfolder as DICOM files. A one-page cover note listing your diagnosis, stage and current treatment helps the reviewing doctor start quickly.</p><p>Clear naming can save days, though each hospital's process still differs.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

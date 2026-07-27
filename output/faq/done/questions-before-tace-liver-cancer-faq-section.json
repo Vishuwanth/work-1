@@ -1,0 +1,59 @@
+{
+  "pillar": "Questions to Ask Before and During Your TACE Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-before-tace-liver-cancer",
+  "route": "/insights/questions-before-tace-liver-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What should I ask my doctor before agreeing to TACE?",
+            "a": "<p>Ask why TACE suits your liver function, tumour size and spread, and what the alternatives are. Useful questions cover how many sessions are planned, which chemotherapy drug and embolic agent will be used, how response will be measured, and what happens if the tumour does not shrink. Also ask who manages side effects afterwards. Your hepatologist and interventional radiologist should answer these together before you sign consent.</p>"
+          },
+          {
+            "q": "Am I healthy enough for TACE, and how will they decide?",
+            "a": "<p>Eligibility usually depends on liver function, portal vein blood flow, kidney function, bilirubin, platelet count and overall fitness rather than tumour size alone. Most teams use the Child-Pugh score and performance status to judge whether your liver can tolerate the procedure. Ask which of your results concern them and whether anything can be improved first. Thresholds vary between hospitals, so a second opinion may change the answer.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need?",
+            "a": "<p>Most patients receive two to four sessions, spaced roughly six to eight weeks apart, but the number depends on how the tumour responds on imaging. Treatment is often repeated on demand rather than on a fixed schedule. Ask how your team will decide to stop, whether that is complete response, stable disease, or declining liver function. Plans frequently change after the first scan, so treat any number as provisional.</p>"
+          },
+          {
+            "q": "What is the difference between conventional TACE and DEB-TACE, and does it matter for me?",
+            "a": "<p>Conventional TACE mixes chemotherapy with lipiodol and then blocks the feeding artery, while DEB-TACE delivers the drug inside beads that release it slowly. Response rates look broadly similar in most trials, though DEB-TACE may cause less nausea and fewer whole-body effects in some patients. Ask which method your hospital uses routinely, why, and whether the cost differs. Availability of drug-eluting beads varies by country and by hospital.</p>"
+          },
+          {
+            "q": "What side effects should I expect in the first week?",
+            "a": "<p>Fever, abdominal pain, nausea and tiredness are common in the days after TACE, and together they are called post-embolisation syndrome. Most cases settle within three to seven days with painkillers, anti-sickness medicine and fluids. Ask what counts as normal, which symptoms mean you should return urgently, and who to phone at night. Jaundice, confusion, persistent vomiting or a high fever always need same-day medical review.</p>"
+          },
+          {
+            "q": "How long will I be in hospital for TACE?",
+            "a": "<p>Most people stay one to three nights, though some centres discharge the same day and others keep patients longer when liver function is borderline. Expect to lie flat for a few hours afterwards to protect the groin or wrist puncture site. Ask whether the admission includes pre-treatment scans and blood tests, since that affects both cost and travel dates. Stays can lengthen if fever or pain continues.</p>"
+          },
+          {
+            "q": "How will we know if the TACE worked?",
+            "a": "<p>A contrast CT or MRI about four to six weeks after treatment shows whether the tumour has lost its blood supply, which matters more than shrinkage alone. Teams usually report response using mRECIST criteria, and AFP blood levels may be tracked if they were raised. Ask when your scan is booked and who will explain it to you. Treated tumour tissue can look unchanged in size, so imaging needs specialist reading.</p>"
+          },
+          {
+            "q": "Can I have TACE alongside immunotherapy or targeted drugs?",
+            "a": "<p>Combining TACE with drugs such as lenvatinib or checkpoint inhibitors is used increasingly, and some trials suggest a longer time to progression in selected patients. Ask whether your hospital offers a combination protocol or a clinical trial, and how dosing is timed around each session.</p><p>CancerFax can help gather protocols and second opinions from liver units in India and China, though your treating team decides what is safe for you.</p>"
+          },
+          {
+            "q": "What will TACE cost if I travel to India or China for it?",
+            "a": "<p>A single TACE session in India often costs roughly USD 2,500 to 4,000 including hospital stay and imaging, and Chinese centres are broadly comparable; drug-eluting bead procedures usually cost more. Ask for a written estimate covering scans, repeat sessions, medicines and follow-up, not just the procedure itself. Prices shift with hospital, liver function and any complications, so treat every quote as an estimate until confirmed in writing.</p>"
+          },
+          {
+            "q": "What should I ask on the day of the procedure?",
+            "a": "<p>Confirm which artery will be treated, whether sedation or general anaesthesia is planned, and how long you must lie still afterwards. Ask who to tell if you feel pain during the injection, and what the plan is if the radiologist cannot reach the tumour's feeding vessel. Also confirm your fasting time and which regular medicines to pause, especially blood thinners and diabetes drugs.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

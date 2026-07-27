@@ -1,0 +1,59 @@
+{
+  "pillar": "Total CAR-T Programme Cost in India: Detailed Breakdown for Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-programme-cost-in-india",
+  "route": "/insights/car-t-programme-cost-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does the full CAR-T programme cost in India?",
+            "a": "<p>Budget roughly ₹40 to ₹55 lakh (about US$48,000 to US$66,000) for a complete CAR-T programme in India, covering the cell product, apheresis, lymphodepletion, and a standard hospital stay. Indian-made products sit at the lower end of that range. Complications, extended intensive care, and repeat scans push the total higher. Final costs depend on the hospital, your disease, and how much supportive care you end up needing.</p>"
+          },
+          {
+            "q": "What does the quoted CAR-T package actually include?",
+            "a": "<p>Most Indian centres quote a package covering the cell product, apheresis, lymphodepleting chemotherapy, the infusion, and around two to three weeks of inpatient monitoring. Pre-treatment PET or bone marrow studies, bridging chemotherapy, and ICU care usually sit outside it. Ask for the package in writing, line by line. What is bundled varies between hospitals, so two quotes at the same headline price may cover very different things.</p>"
+          },
+          {
+            "q": "Which costs do patients usually forget to budget for?",
+            "a": "<p>The most commonly missed costs are bridging chemotherapy before infusion, intensive care for cytokine release syndrome, tocilizumab, repeat imaging, and immunoglobulin replacement afterwards for B-cell aplasia. Together these can add 20 to 40 percent to the headline price. A long-stay room for your caregiver is another quiet drain. Ask what happens financially if manufacturing fails, because a repeat collection is rarely free.</p>"
+          },
+          {
+            "q": "Why is CAR-T so much cheaper in India than in the United States?",
+            "a": "<p>Indian CAR-T costs a fraction of Western prices mainly because the cell products are manufactured locally, and hospital day rates, staffing, and ICU charges are far lower. Domestic CD19 products were developed and produced in India rather than imported, which removes commercial import pricing entirely. The underlying science and CD19 target are comparable. Quality does vary by centre, so ask about CAR-T case volume and published outcomes.</p>"
+          },
+          {
+            "q": "How much does an Indian-made CAR-T cost compared with an imported one?",
+            "a": "<p>Indian-made CD19 CAR-T is priced at roughly ₹30 to ₹42 lakh for the cell product, while approved products imported from the United States or Europe list well above ₹3 crore before hospital charges. That gap is the single biggest reason patients travel to India for this treatment. Imported products are rarely used here in practice. Pricing may shift as more domestic products reach approval, so confirm current figures with the centre.</p>"
+          },
+          {
+            "q": "How much extra should I set aside for complications?",
+            "a": "<p>Set aside an additional ₹5 to ₹15 lakh for complications, mainly intensive care for cytokine release syndrome or neurotoxicity. Most patients need some supportive care, and a minority need a week or more in ICU with tocilizumab and steroids. These charges are billed daily rather than as a package. Your treating team can estimate your personal risk from disease burden and organ function before you commit.</p>"
+          },
+          {
+            "q": "What will travel and accommodation add for an overseas patient?",
+            "a": "<p>Expect roughly US$6,000 to US$15,000 on top of the medical bill for flights, visas, translation, and two to three months of accommodation for you and one caregiver. Indian centres usually want you within reach for four to eight weeks after infusion. CancerFax can help you compare written quotes and coordinate the stay, though the treating oncology team should confirm that travel is clinically safe.</p>"
+          },
+          {
+            "q": "Will insurance cover CAR-T therapy in India?",
+            "a": "<p>Some Indian insurers and corporate policies now reimburse part of a domestic CAR-T programme, but cover is far from universal and pre-authorisation is essential. Many policies cap cell therapy or exclude it as experimental. Overseas insurers rarely pay for treatment received in India unless it is judged medically necessary and unavailable at home. Get any approval in writing before admission, since verbal assurances are seldom honoured at billing.</p>"
+          },
+          {
+            "q": "Can I reduce the cost by joining a clinical trial?",
+            "a": "<p>Trial participation can cut costs substantially, because sponsors often supply the cell product free and you pay only hospital and monitoring charges. Academic centres in India have run CAR-T studies on this basis. Entry is never guaranteed: criteria covering cancer type, prior therapy, and organ function are narrow, and screening can take several weeks. Your oncologist should judge clinical fit before cost becomes the deciding factor.</p>"
+          },
+          {
+            "q": "When do I have to pay, and what happens if manufacturing fails?",
+            "a": "<p>Most Indian centres ask for a large deposit before apheresis and the balance before infusion, because manufacturing begins at financial risk to the hospital. If the cells fail to expand, policies differ: some centres repeat collection at reduced cost, while others do not refund the manufacturing fee. Ask this question in writing before you pay. Payment terms vary by hospital and may change, so confirm current policy directly.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

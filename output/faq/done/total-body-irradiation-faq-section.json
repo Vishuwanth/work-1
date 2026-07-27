@@ -1,0 +1,59 @@
+{
+  "pillar": "Total Body Irradiation (TBI): Transplant Conditioning Radiation Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "total-body-irradiation",
+  "route": "/treatments/total-body-irradiation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is total body irradiation and why is it given?",
+            "a": "<p>Total body irradiation (TBI) is radiation delivered to the whole body as part of the conditioning treatment given just before a stem cell or bone marrow transplant. It does two jobs at once: it destroys cancer cells remaining anywhere in the body, and it suppresses your immune system so the donor stem cells are not rejected. Dose, timing and technique depend on your disease and your transplant plan.</p>"
+          },
+          {
+            "q": "How many TBI sessions will I need, and how long does each one take?",
+            "a": "<p>Most full-dose TBI schedules use six to eight treatments given twice a day over three or four days, immediately before the transplant. Each session usually takes 20 to 40 minutes, much of that spent positioning you carefully rather than delivering the beam. Lower-dose regimens may need only a single treatment. Your transplant team sets the exact schedule based on your diagnosis, age and organ function.</p>"
+          },
+          {
+            "q": "Does total body irradiation hurt?",
+            "a": "<p>No, the radiation itself is painless — you feel nothing while the beam is on, much like having an X-ray. What patients usually find hard is holding the treatment position for 20 to 40 minutes, sometimes lying on your side or standing against a frame. Nausea, tiredness and a sore mouth tend to appear hours or days later, and anti-sickness medicine is given before each session.</p>"
+          },
+          {
+            "q": "What side effects should I expect in the first few weeks?",
+            "a": "<p>Nausea, vomiting, diarrhoea, fatigue, hair loss, mouth and throat soreness, and swollen salivary glands are the common early effects, and almost everyone gets some of them. Blood counts fall sharply, so you will be at high risk of infection and bleeding until the donor cells engraft. Supportive care — anti-sickness drugs, mouth care, transfusions and antibiotics — is planned in advance and manages most of this.</p>"
+          },
+          {
+            "q": "Is TBI better than chemotherapy-only conditioning?",
+            "a": "<p>Neither is better for everyone; the choice depends on your disease. TBI-based conditioning is often preferred in acute lymphoblastic leukaemia, where trials have shown lower relapse rates than busulfan-based chemotherapy in children and younger adults. Chemotherapy-only regimens may suit acute myeloid leukaemia, older patients, or anyone who has already had significant radiation. Your transplant team weighs relapse risk against long-term toxicity before recommending one.</p>"
+          },
+          {
+            "q": "Will TBI affect my fertility?",
+            "a": "<p>In most cases, yes. Full-dose TBI usually causes permanent infertility in both men and women, and often triggers early menopause. Reduced-intensity regimens carry a somewhat lower risk, but it is never zero. If having children later matters to you, ask about sperm banking, egg or embryo freezing, or ovarian tissue preservation before conditioning begins — once treatment starts, these options are usually gone.</p>"
+          },
+          {
+            "q": "What is reduced-intensity TBI, and who is it for?",
+            "a": "<p>Reduced-intensity TBI uses a low dose, typically 2 to 4 Gy in one or two treatments, to suppress your immune system enough for donor cells to take hold without wiping out the bone marrow completely. It is generally considered for older patients, or for those whose heart, lung, liver or kidney function makes full-dose conditioning unsafe. Relapse risk can be higher, so eligibility is decided case by case.</p>"
+          },
+          {
+            "q": "What are the long-term risks of total body irradiation?",
+            "a": "<p>The main late effects are cataracts, an underactive thyroid, lung scarring, reduced kidney function, infertility, and a small but real increase in second cancers years afterwards. In children, growth and learning can also be affected. Modern techniques shield the lungs, kidneys and lenses to reduce this.</p><p>Lifelong follow-up — eye checks, thyroid blood tests and cancer screening — is standard, and many late problems are treatable when found early.</p>"
+          },
+          {
+            "q": "How is total marrow irradiation different from TBI?",
+            "a": "<p>Total marrow irradiation targets the bones and marrow using image-guided techniques such as tomotherapy or VMAT, largely sparing the lungs, gut, kidneys and other organs that conventional TBI cannot fully avoid. Early studies suggest it may allow higher doses with fewer side effects, but it is offered mainly at specialist centres and often within clinical trials. Ask your transplant team whether it is available and appropriate for you.</p>"
+          },
+          {
+            "q": "Can I have a transplant with TBI in India or China?",
+            "a": "<p>Yes, several transplant centres in India and China deliver TBI, though not every hospital has the specialised equipment and physics support required, so availability varies by city and centre. Costs are often a fraction of those in the United States or Europe, but the figure that matters is the whole transplant package, not the radiation alone. CancerFax can help you check which centres currently offer it and what a realistic quote covers.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

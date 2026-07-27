@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Combined with Targeted Therapy: Evidence and Clinical Considerations",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-combined-targeted-therapy",
+  "route": "/insights/cik-therapy-combined-targeted-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does CIK therapy combined with targeted therapy actually mean?",
+            "a": "<p>Cytokine-induced killer (CIK) therapy combined with targeted therapy means your own immune cells are grown in a laboratory, returned by infusion, and given alongside a drug that blocks a specific mutation driving your cancer. The targeted drug works to shrink the tumour while the CIK cells attack cancer cells left behind. Most of the published evidence comes from trials in China, and results vary by cancer type and mutation.</p>"
+          },
+          {
+            "q": "Will adding CIK cells to my targeted therapy help me live longer?",
+            "a": "<p>In several Chinese trials, adding CIK cells to targeted therapy improved progression-free and overall survival compared with targeted therapy alone, but the gains were modest and the studies were mostly small. Benefit appears greatest in people with good performance status and a lower tumour burden. These findings have not been confirmed in large international phase III trials, so any survival estimate for your own situation should come from your treating oncologist.</p>"
+          },
+          {
+            "q": "Which cancers is this combination used for?",
+            "a": "<p>The combination has been studied most in liver cancer, non-small cell lung cancer, stomach cancer, colorectal cancer and kidney cancer, usually where a matching targeted drug already exists. In liver and lung cancer the data are the strongest, though still limited. Whether it can be offered for your cancer depends on your mutation testing, your previous treatments and the protocols the treating centre runs, so eligibility is decided case by case.</p>"
+          },
+          {
+            "q": "How is the treatment given, and how long does it take?",
+            "a": "<p>Blood is collected through a vein, the immune cells are separated and grown for roughly two to three weeks, then given back as several infusions over consecutive days. A course often runs three to six cycles across a few months, while the targeted drug is usually taken daily by mouth throughout. Schedules differ between hospitals, so your exact plan and total time abroad depend on the centre treating you.</p>"
+          },
+          {
+            "q": "What side effects should I expect from the CIK infusions?",
+            "a": "<p>The most common reactions to CIK infusions are fever, chills, tiredness and mild muscle aches, usually starting within hours and settling within a day or two. Serious reactions are uncommon in reported series. Most of the day-to-day side effects patients notice, such as skin rash, diarrhoea, mouth sores or raised blood pressure, come from the targeted drug rather than the cells. Your team should monitor both together.</p>"
+          },
+          {
+            "q": "Is this combination an approved treatment or still experimental?",
+            "a": "<p>CIK therapy is not an approved standard treatment in the United States, Europe or India, and is generally available only through clinical trials or research protocols. In China it is offered in hospital-based and regulated research settings, often combined with an approved targeted drug. Because approval status and protocols change, you should confirm the current legal and regulatory position with the treating hospital before making any travel plans.</p>"
+          },
+          {
+            "q": "How much does CIK plus targeted therapy cost?",
+            "a": "<p>A CIK course in China typically costs somewhere between US$12,000 and US$30,000, depending on the number of cycles, the hospital and how much laboratory work is involved. The targeted drug, scans, hospital stay and travel are billed separately and can add substantially. CancerFax can help you request itemised quotes from centres so you can compare them, but final pricing always depends on the plan your oncologist approves.</p>"
+          },
+          {
+            "q": "Can I try this if my targeted drug has stopped working?",
+            "a": "<p>Some centres do offer CIK cells after a targeted drug stops controlling the cancer, but the evidence in that setting is thin and the response is unpredictable. Standard practice is usually to repeat biopsy or blood-based mutation testing first, because a new mutation may point to a different targeted drug with stronger data. Whether CIK is reasonable at that stage is a decision for your oncology team.</p>"
+          },
+          {
+            "q": "What makes someone eligible for this treatment?",
+            "a": "<p>Centres generally look for a confirmed targetable mutation, reasonably preserved organ function and blood counts, no uncontrolled infection, and the ability to walk and self-care for most of the day. Active autoimmune disease, recent organ transplant or very advanced frailty usually rule it out. Eligibility is assessed on your actual scans and reports, so a centre may accept or decline you after reviewing the full file.</p>"
+          },
+          {
+            "q": "What is involved in travelling abroad for this treatment?",
+            "a": "<p>You will usually need recent scans, pathology and mutation reports sent ahead for review, a written treatment plan and cost estimate, then a medical visa and a stay of several weeks to complete the first cycles. CancerFax can help forward records and arrange the hospital review before you book anything. Acceptance is never guaranteed in advance, and your home oncologist should agree the plan is appropriate.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

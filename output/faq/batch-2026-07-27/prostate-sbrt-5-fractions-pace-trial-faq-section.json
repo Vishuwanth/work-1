@@ -1,0 +1,59 @@
+{
+  "pillar": "Prostate SBRT (5 Fractions): The PACE Trial Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "prostate-sbrt-5-fractions-pace-trial",
+  "route": "/insights/prostate-sbrt-5-fractions-pace-trial",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is prostate SBRT in 5 fractions?",
+            "a": "<p>Prostate SBRT delivers five high-dose radiation treatments instead of 20 to 40 daily sessions. Each session targets the prostate with millimetre precision, usually spread over one to two weeks. A common prescription is 36.25 Gy in five fractions. Image guidance, implanted fiducial markers, and sometimes a rectal spacer keep the dose away from the bladder and rectum. Whether five fractions suit you depends on your risk group, prostate size, and urinary function.</p>"
+          },
+          {
+            "q": "What did the PACE trial actually show?",
+            "a": "<p>PACE-B showed that five-fraction SBRT controls early prostate cancer about as well as conventional radiotherapy. At five years, freedom from biochemical or clinical failure was roughly 95.8% with SBRT compared with 94.6% with standard treatment. PACE-C extended the question to higher-risk disease. Side effect rates were broadly similar, though SBRT produced slightly more short-term urinary irritation. These results apply to the patient groups enrolled, so your own outlook may differ.</p>"
+          },
+          {
+            "q": "How do I know if I am eligible for five-fraction SBRT?",
+            "a": "<p>Five-fraction SBRT is generally offered for low-risk and intermediate-risk prostate cancer confined to the gland, and increasingly for selected high-risk disease. Your team reviews PSA, Gleason score, MRI findings, prostate volume, and how well you empty your bladder. Previous pelvic radiotherapy or inflammatory bowel disease may rule it out. CancerFax can help you gather scans and reports for review, but only a treating radiation oncologist can confirm eligibility.</p>"
+          },
+          {
+            "q": "Is SBRT better than 20 or 39 radiotherapy sessions?",
+            "a": "<p>SBRT is not clearly better at controlling the cancer, but it is far more convenient. PACE-B found similar five-year cancer control between five SBRT sessions and 20 to 39 conventional ones. The real difference is time — one to two weeks instead of four to eight — which matters a great deal if you are travelling for treatment. Long-term side effect profiles look comparable so far, though follow-up beyond five years is still building.</p>"
+          },
+          {
+            "q": "What side effects should I expect after five-fraction SBRT?",
+            "a": "<p>Most men get temporary urinary symptoms such as a weaker stream, urgency, or burning, peaking in the first weeks and usually settling within three months. Bowel changes like looser stools are generally mild. Serious grade three problems occurred in roughly one to two percent of men in PACE-B. Fatigue is common. A hydrogel rectal spacer can reduce bowel dose. Your own risk depends on baseline urinary function and prostate size.</p>"
+          },
+          {
+            "q": "Will SBRT affect my erections?",
+            "a": "<p>Erectile function often declines gradually over the first two years after prostate SBRT, much as it does after other forms of radiotherapy. In trials, roughly a third to a half of men with good function beforehand report a meaningful drop. Age, diabetes, baseline erections, and added hormone therapy all influence the outcome. Medication and referral to a sexual health clinic can help. Ask your oncologist for figures based on your own starting point.</p>"
+          },
+          {
+            "q": "Do I still need hormone therapy if I have SBRT?",
+            "a": "<p>Hormone therapy is usually not needed for low-risk or favourable intermediate-risk disease treated with SBRT. For unfavourable intermediate-risk and high-risk cancer, many teams add four to twenty-four months of androgen deprivation, as PACE-C did. The decision weighs Gleason score, PSA, MRI staging, and your heart and bone health. Hormone therapy carries its own side effects, so the trade-off is worth discussing carefully before you start.</p>"
+          },
+          {
+            "q": "Can I have SBRT if my prostate is large or I have had a TURP?",
+            "a": "<p>A large prostate or a previous TURP does not automatically rule out SBRT, but both raise the risk of urinary problems afterwards. Many centres set a volume limit near 90 to 100 cc and prefer at least six to twelve months since a TURP. Poor baseline urine flow may push your team toward conventional radiotherapy or surgery instead. A urologist's assessment, often including a flow study, usually settles this question.</p>"
+          },
+          {
+            "q": "What happens if my cancer comes back after SBRT?",
+            "a": "<p>Recurrence after SBRT is uncommon in early disease, and treatment options remain if it does happen. A PSMA PET scan can show whether the cancer has returned inside the prostate or spread elsewhere. Local recurrence may be treated with salvage brachytherapy, cryotherapy, HIFU, or occasionally surgery, each carrying higher side effect risks than first-line treatment. Disease outside the gland is usually managed with hormone therapy. Salvage choices depend heavily on where it reappears.</p>"
+          },
+          {
+            "q": "Can I get five-fraction prostate SBRT in India or China, and what does it cost?",
+            "a": "<p>Yes. Major cancer centres in India and China offer five-fraction prostate SBRT on CyberKnife, TrueBeam, and MR-guided platforms. Costs in India often run well below Western prices, though the figure depends on the machine used, whether a rectal spacer is placed, and the hospital tier. Always confirm quotes in writing before travelling. CancerFax can share centre options and indicative pricing, with the final treatment decision resting with your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

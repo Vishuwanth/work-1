@@ -1,0 +1,59 @@
+{
+  "pillar": "Immunotherapy in India for International Cancer Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immunotherapy-in-india",
+  "route": "/guides/immunotherapy-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can international patients get immunotherapy in India?",
+            "a": "<p>Yes, immunotherapy is available to international patients at major cancer centres in Delhi, Mumbai, Chennai, Bengaluru and Hyderabad, and you can travel for it on a medical visa. Approved checkpoint inhibitors such as pembrolizumab, nivolumab, atezolizumab and durvalumab are stocked routinely, alongside Indian-made biosimilars. Whether a specific drug suits your case depends on your tumour type, stage and biomarker results, so the treating oncologist decides eligibility.</p>"
+          },
+          {
+            "q": "How much does immunotherapy cost in India?",
+            "a": "<p>A single cycle of checkpoint immunotherapy in India usually costs between USD 1,200 and USD 3,000, compared with roughly USD 8,000 to USD 12,000 per cycle in the United States. Indian-manufactured biosimilars can bring that figure below USD 1,000.</p><p>Most patients need a cycle every three weeks for up to a year, so ask for a written estimate of the full course. Prices vary by hospital, drug and dose.</p>"
+          },
+          {
+            "q": "Which cancers actually respond to immunotherapy?",
+            "a": "<p>Melanoma, non-small cell lung cancer, kidney cancer, bladder cancer, head and neck cancer and Hodgkin lymphoma respond most consistently to checkpoint inhibitors. Tumours that are MSI-high or mismatch-repair deficient often respond well regardless of where they started, including some colorectal and endometrial cancers. Response is not guaranteed in any group, since roughly 20 to 40 percent of unselected patients benefit, which is why biomarker testing before starting matters.</p>"
+          },
+          {
+            "q": "How will my doctor know if immunotherapy will work for me?",
+            "a": "<p>No test can promise a response, but three markers guide the decision: PD-L1 expression on your tumour, microsatellite instability or mismatch-repair status, and tumour mutational burden. Indian labs run all three, usually within seven to ten days of receiving your biopsy blocks. Higher PD-L1 scores often predict better odds, though patients with low scores sometimes respond too. Your oncologist weighs these results alongside organ function and prior treatment.</p>"
+          },
+          {
+            "q": "How long will I have to stay in India for immunotherapy?",
+            "a": "<p>Plan on four to six weeks in India for the first phase: arrival tests, the first two or three cycles, and a scan to check early response. After that, many patients continue maintenance cycles at home if the same drug is licensed there, returning to India every three to four months for review. Visa length, drug availability in your country and how you tolerate treatment all shape this schedule.</p>"
+          },
+          {
+            "q": "Are the immunotherapy drugs in India the same as in the US?",
+            "a": "<p>Indian hospitals use the same originator drugs sold in the United States and Europe, imported through licensed distributors, along with biosimilars approved by India's Central Drugs Standard Control Organisation. Biosimilars are tested for comparable structure, safety and effect, though they are not identical copies. Ask the hospital in writing which brand it will give you and whether it is an originator or a biosimilar, and keep every infusion label.</p>"
+          },
+          {
+            "q": "What side effects should I expect from immunotherapy?",
+            "a": "<p>Immunotherapy side effects come from an over-active immune system rather than from cell-killing chemotherapy, so they look different: skin rash, diarrhoea, thyroid changes, fatigue, and less often inflammation of the lungs, liver or bowel. Most are mild and manageable with steroids when caught early. Serious reactions affect a minority of patients but can appear weeks or months after a dose, so report new symptoms quickly.</p>"
+          },
+          {
+            "q": "Can immunotherapy be given along with chemotherapy?",
+            "a": "<p>Yes. Indian oncologists routinely combine checkpoint inhibitors with chemotherapy, and this is now standard first-line care for many lung, gastric, oesophageal and triple-negative breast cancers. Two immunotherapy drugs together, such as nivolumab with ipilimumab, are also used in melanoma and kidney cancer. Combining often raises both the chance of response and the rate of side effects, so the choice depends on your fitness and tumour biology.</p>"
+          },
+          {
+            "q": "How do I start the process of getting immunotherapy in India?",
+            "a": "<p>Send your diagnosis summary, recent scans, biopsy report and any biomarker results to the hospital's international patient desk. Most reply with a proposed treatment plan and cost estimate within three to five working days, and that letter is normally what your medical visa application needs.</p><p>Services such as CancerFax can help gather records and route them to Indian centres, though the treating oncology team makes every clinical decision.</p>"
+          },
+          {
+            "q": "What happens if immunotherapy stops working?",
+            "a": "<p>If scans show the cancer growing after two or three cycles, your oncologist may stop immunotherapy and move to chemotherapy, targeted therapy or a clinical trial. India runs a growing number of oncology trials, and some patients are referred abroad for CAR T-cell or newer cell therapies. A second opinion is reasonable at this point, and CancerFax can help arrange one, but your treating team should stay involved.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

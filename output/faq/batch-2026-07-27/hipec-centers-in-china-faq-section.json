@@ -1,0 +1,59 @@
+{
+  "pillar": "HIPEC Centers in China: A Patient Guide to Access and Expertise",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-centers-in-china",
+  "route": "/insights/hipec-centers-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Which hospitals in China do HIPEC, and how do I find a good one?",
+            "a": "<p>HIPEC in China is concentrated in large tertiary cancer hospitals in Beijing, Shanghai, Guangzhou and Tianjin, where dedicated peritoneal surface malignancy teams operate. Beijing Shijitan Hospital is widely regarded as the country's highest-volume centre for cytoreductive surgery with HIPEC. When comparing centres, ask how many cases the surgical team performs each year, since outcomes often track closely with volume. Availability for overseas patients can vary by hospital.</p>"
+          },
+          {
+            "q": "What actually happens during a HIPEC procedure?",
+            "a": "<p>HIPEC delivers heated chemotherapy directly into the abdomen at the end of surgery. The surgeon first removes all visible tumour deposits, a step called cytoreductive surgery, then circulates chemotherapy warmed to about 42–43°C through the abdominal cavity for 30 to 90 minutes. The heat helps the drug penetrate remaining microscopic disease. The whole operation often takes eight to twelve hours, depending on how much disease is found.</p>"
+          },
+          {
+            "q": "How much does HIPEC cost in China?",
+            "a": "<p>Most international patients are quoted roughly US$25,000 to US$45,000 for cytoreductive surgery with HIPEC in China, including the operation, intensive care and the inpatient stay. The final figure depends on how extensive the surgery is, which drugs are used, and how long recovery takes. Complications can push costs higher. Ask each hospital for a written estimate that states clearly what is and is not included.</p>"
+          },
+          {
+            "q": "Which cancers are treated with HIPEC in Chinese centres?",
+            "a": "<p>Chinese HIPEC centres most often treat peritoneal spread from colorectal cancer, gastric cancer, ovarian cancer, appendiceal tumours and pseudomyxoma peritonei, along with peritoneal mesothelioma. Gastric cancer with peritoneal disease is a particular focus, because it is common in China and several centres run trials in this group. Whether HIPEC suits your specific cancer depends on the tumour type, its spread pattern and your fitness for major surgery.</p>"
+          },
+          {
+            "q": "Am I eligible for HIPEC, or is my disease too advanced?",
+            "a": "<p>Eligibility usually depends on whether the surgeon believes all visible tumour can be removed, which is measured using a peritoneal cancer index score from imaging and sometimes a diagnostic laparoscopy. Patients generally also need good organ function and no significant spread to the liver, lungs or bones. Many centres will review your scans remotely before you travel, and some patients are found unsuitable at that stage.</p>"
+          },
+          {
+            "q": "How long will I need to stay in China for treatment?",
+            "a": "<p>Plan for four to six weeks in China in total. Expect three to five days of tests and consultations before surgery, ten to fourteen days in hospital afterwards including intensive care, and a further two weeks nearby before your team clears you to fly. Complications such as infection or a slow-healing bowel join can extend this, so keep your travel dates flexible. Most hospitals ask for a companion to stay with you.</p>"
+          },
+          {
+            "q": "How risky is HIPEC surgery?",
+            "a": "<p>Cytoreductive surgery with HIPEC is major surgery, and serious complications occur in roughly 20 to 30 percent of patients even at experienced centres. The most common problems are leaks where the bowel is rejoined, infection, bleeding, kidney strain and low blood counts from the chemotherapy. Deaths within 30 days are uncommon at high-volume hospitals. Your own risk depends on your age, fitness and how extensive the operation needs to be.</p>"
+          },
+          {
+            "q": "Do Chinese hospitals accept foreign patients for HIPEC, and what about the language barrier?",
+            "a": "<p>Yes, the major HIPEC centres in Beijing, Shanghai and Guangzhou run international patient departments with English-speaking coordinators and interpreters for ward rounds and consent discussions. You will normally send scans, pathology slides and reports for review first, then receive a written opinion and quote before booking. CancerFax can help pass your records to these teams, though the final decision on suitability always rests with the treating surgeon.</p>"
+          },
+          {
+            "q": "Is HIPEC in China as good as in the United States or Europe?",
+            "a": "<p>Outcomes at China's high-volume HIPEC centres are broadly comparable to established Western programmes for the same disease burden, and Chinese teams publish regularly in international journals. The difference is usually cost and waiting time rather than surgical standard. That said, quality varies widely between hospitals, so judge an individual centre on its annual case numbers and published results rather than on the country as a whole.</p>"
+          },
+          {
+            "q": "What do I need to arrange before travelling to China for HIPEC?",
+            "a": "<p>Start with a medical visa, which needs an invitation letter from the treating hospital, so allow four to eight weeks from your first enquiry. Bring original imaging discs, pathology blocks or slides, and a translated summary of your treatment so far. Arrange funds for a deposit, since most hospitals ask for payment in advance. A second opinion from your home oncologist before you commit is sensible.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

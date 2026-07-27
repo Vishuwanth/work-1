@@ -1,0 +1,59 @@
+{
+  "pillar": "Whole-Body Hyperthermia: How It Works and Who Benefits",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "whole-body-hyperthermia",
+  "route": "/insights/whole-body-hyperthermia",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is whole-body hyperthermia and how does it actually work?",
+            "a": "<p>Whole-body hyperthermia deliberately raises your core body temperature to about 39–42°C for a controlled period, making cancer cells more sensitive to chemotherapy, radiation and the immune system. Heat is delivered using infrared chambers, heated water blankets or radiant devices while your temperature, heart rate and fluids are monitored throughout. It is almost always used alongside standard treatment rather than on its own, and suitability depends on your overall health.</p>"
+          },
+          {
+            "q": "Who benefits most from whole-body hyperthermia?",
+            "a": "<p>Patients most likely to benefit are those with advanced or metastatic solid tumours who are still in reasonable general health and are receiving chemotherapy or radiation that heat can amplify. It is also used in some sarcoma, melanoma, ovarian and colorectal cases. Benefit depends on tumour type, disease spread, heart and lung function, and your oncologist's judgement, so eligibility is assessed case by case rather than promised in advance.</p>"
+          },
+          {
+            "q": "Is whole-body hyperthermia safe?",
+            "a": "<p>Whole-body hyperthermia is generally safe when delivered in a specialist unit with continuous monitoring, but it does place real strain on the heart, circulation and kidneys. You are usually sedated, given fluids, and watched closely for blood pressure changes, dehydration and irregular heart rhythms. People with significant heart disease, uncontrolled infection or very poor performance status are often not suitable. Your treating team should screen you before agreeing to it.</p>"
+          },
+          {
+            "q": "How hot does my body actually get during the treatment?",
+            "a": "<p>Most whole-body hyperthermia protocols hold your core temperature between 39°C and 41.5°C, with extreme protocols reaching about 42°C for short periods. Mild fever-range heating near 39°C is gentler and aimed at immune stimulation, while higher temperatures are used to sensitise tumours to chemotherapy. The target is chosen by your medical team based on your heart function, the drugs being given and how well you tolerate the first sessions.</p>"
+          },
+          {
+            "q": "Can whole-body hyperthermia cure cancer on its own?",
+            "a": "<p>No. Whole-body hyperthermia is not a stand-alone cure and should never replace chemotherapy, radiation, surgery or immunotherapy. Its role is to make those treatments work better by increasing blood flow to tumours, damaging heat-sensitive cancer cells and stirring an immune response. Trial results are mixed and vary by cancer type. Be cautious of any clinic that presents heat therapy alone as a cure; ask what standard treatment is planned alongside it.</p>"
+          },
+          {
+            "q": "How long is one session and how many will I need?",
+            "a": "<p>A single whole-body hyperthermia session usually takes three to six hours, including warming, holding the target temperature for 60 to 120 minutes, and a slow cooling and recovery period. Most protocols use four to eight sessions spread over several weeks, often timed to match chemotherapy cycles. The exact number depends on your response, your blood counts and how your body tolerates the heat, so schedules are frequently adjusted.</p>"
+          },
+          {
+            "q": "What side effects should I expect afterwards?",
+            "a": "<p>Common side effects include fatigue lasting a day or two, dehydration, mild skin burns or blistering, nausea, and temporary swings in blood pressure and heart rate. Less often, people develop irregular heart rhythms, nerve irritation, blood clotting problems or worsening of chemotherapy side effects. Most reactions settle within 48 hours with fluids and rest. Tell your team immediately about chest pain, breathlessness, confusion or reduced urine output after a session.</p>"
+          },
+          {
+            "q": "How much does whole-body hyperthermia cost?",
+            "a": "<p>Costs vary widely by country and protocol, but whole-body hyperthermia is often quoted at roughly USD 400 to 1,500 per session, with a full course of four to eight sessions running into several thousand dollars. Prices in India and China are generally lower than in Europe. Quotes usually exclude chemotherapy, scans and hospital stay. CancerFax can help you compare written estimates from centres, though final pricing depends on your treatment plan.</p>"
+          },
+          {
+            "q": "Is whole-body hyperthermia available in India or China?",
+            "a": "<p>Yes, whole-body hyperthermia is offered at selected private hospitals and integrative oncology centres in China and, less widely, in India, usually as an add-on to chemotherapy or immunotherapy. Availability changes and it is not a routine service at most government cancer hospitals. Before travelling, ask for the device type, the protocol and who monitors you during the session.</p><p>CancerFax can help you check what a centre actually offers, but your own oncologist should approve the plan.</p>"
+          },
+          {
+            "q": "What is the difference between whole-body and local hyperthermia?",
+            "a": "<p>Local hyperthermia heats one tumour or region, while whole-body hyperthermia raises your entire core temperature to treat disease that has spread. Local treatment is simpler, shorter and better tolerated, and is often combined with radiation for a single site. Whole-body treatment is reserved for widespread or metastatic disease and needs sedation and intensive monitoring. Which one suits you depends on where the cancer is and how well you are overall.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

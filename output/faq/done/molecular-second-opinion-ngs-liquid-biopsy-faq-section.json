@@ -1,0 +1,59 @@
+{
+  "pillar": "The Molecular Second Opinion: NGS, Liquid Biopsy, and Missed Targeted Therapy",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "molecular-second-opinion-ngs-liquid-biopsy",
+  "route": "/guides/molecular-second-opinion-ngs-liquid-biopsy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is a molecular second opinion?",
+            "a": "<p>A molecular second opinion is an expert re-review of your tumour's genomic test results to check whether a treatable mutation was missed or misread. A specialist looks at your pathology report, any next-generation sequencing panel, and your imaging together, then asks whether the panel used was broad enough and whether the findings were matched to every drug and trial now available. It is a review of the data you already have, not a new diagnosis.</p>"
+          },
+          {
+            "q": "Do I need genomic testing if my biopsy report already names my cancer?",
+            "a": "<p>Often yes. A biopsy tells you what the cancer is; genomic testing tells you what is driving it, which is what targeted drugs act on. In lung, colorectal, breast, and several other cancers, standard care now depends on markers such as EGFR, ALK, KRAS, HER2, or microsatellite instability. Whether testing changes anything for you depends on cancer type, stage, and what your oncology team has already ordered.</p>"
+          },
+          {
+            "q": "What is a liquid biopsy and how is it different from a tissue biopsy?",
+            "a": "<p>A liquid biopsy is a blood test that looks for fragments of tumour DNA circulating in your bloodstream, instead of taking a piece of the tumour itself. It needs no needle into the tumour, results often return faster, and it can be repeated as treatment goes on. It can miss mutations when little tumour DNA is shedding, so a negative liquid biopsy usually needs tissue testing to confirm.</p>"
+          },
+          {
+            "q": "Can a molecular second opinion find a targeted therapy my doctor missed?",
+            "a": "<p>Sometimes, yes. Missed targets usually come from one of three things: a panel too narrow to cover rarer fusions, a result reported but never acted on, or a drug approved after your report was written. A reviewer re-reads the raw data against current approvals and trials. There is no guarantee a target exists, and many reviews confirm the original plan was already right. That confirmation has value too.</p>"
+          },
+          {
+            "q": "How often does genomic testing actually change the treatment plan?",
+            "a": "<p>Published series suggest a targetable finding turns up in roughly a third to half of advanced solid tumours, and a smaller share of patients go on to receive a matched drug. The gap comes from drug access, cost, fitness for treatment, and trial availability rather than from the test itself. Your own odds depend on cancer type, how much sequencing you have already had, and where you can be treated.</p>"
+          },
+          {
+            "q": "Is my old tumour tissue still good enough for NGS?",
+            "a": "<p>Usually yes. Archived paraffin blocks from a biopsy or surgery are the standard material for sequencing, and blocks a few years old often still work. What matters more than age is how much tumour is left in the block and how it was processed. If the sample is exhausted or too degraded, a liquid biopsy or a fresh biopsy may be suggested instead. Your hospital holds these blocks and can release them on request.</p>"
+          },
+          {
+            "q": "How much do NGS and liquid biopsy testing cost?",
+            "a": "<p>Comprehensive tumour sequencing typically costs a few hundred to a few thousand US dollars, with liquid biopsy panels usually at the lower end of that range and testing in India often far cheaper than in the United States or Europe. Prices depend on how many genes the panel covers, the laboratory, and whether the report includes trial matching. Ask for a written quote, since insurance coverage varies widely.</p>"
+          },
+          {
+            "q": "How long does a molecular second opinion take?",
+            "a": "<p>A review of testing you already have usually takes about a week once your complete reports arrive. If new sequencing is needed, add roughly two to three weeks for a tissue panel and one to two weeks for a liquid biopsy, counted from when the laboratory receives the sample. Delays most often come from waiting on paraffin blocks, so request them from your hospital early.</p>"
+          },
+          {
+            "q": "Can my genomic report help me get into a clinical trial?",
+            "a": "<p>A genomic report is often the entry ticket to a trial, because many studies now recruit by mutation rather than by cancer type alone. CancerFax can list studies whose criteria match your markers in India, China, or elsewhere, for your oncologist to pursue. It cannot promise you a place: enrolment depends on prior treatments, current lab values, organ function, and the investigator's assessment at the recruiting site.</p>"
+          },
+          {
+            "q": "What do I need to send to get a molecular second opinion?",
+            "a": "<p>Send your pathology report, any sequencing or biomarker report you already have, recent imaging, a treatment summary, and recent blood work. If no sequencing has been done, the reviewer will usually ask your hospital to release the paraffin block. CancerFax helps patients gather these records, arrange testing where it is missing, and put the findings in front of a specialist, alongside the oncology team already treating you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "China vs the West: How China Democratised Access to Cutting-Edge Cancer Therapies",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-vs-west-cancer-treatment",
+  "route": "/guides/china-vs-west-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why is cancer treatment in China so much cheaper than in the US or Europe?",
+            "a": "<p>Cancer treatment in China often costs 60 to 80 percent less than in the United States because domestic manufacturers produce many of the same drug classes at home, and government price negotiations cap what public hospitals can charge. Labour, hospital stay, and imaging costs are also lower. Your final bill depends on the therapy, the hospital, and whether you are a self-paying international patient, so ask for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "Are China's cancer therapies actually as good as the ones in the West?",
+            "a": "<p>China's leading cancer centres now deliver the same therapy classes used in the West, including CAR T-cell therapy, immune checkpoint inhibitors, targeted drugs, and proton and carbon ion radiation. Several Chinese CAR T products have shown trial response rates comparable to their Western counterparts. Quality varies sharply between top-tier city hospitals and smaller regional ones, so results depend heavily on which centre treats you and on your specific diagnosis.</p>"
+          },
+          {
+            "q": "Can I get CAR T-cell therapy in China if I am a foreign patient?",
+            "a": "<p>Yes, several Chinese hospitals accept international patients for CAR T-cell therapy, and a number of approved products and trial slots are open to them. You will usually need recent pathology reports, a full record of prior treatment, and a confirmed relapsed or refractory diagnosis before a centre assesses you. Acceptance is never automatic and each hospital applies its own eligibility rules, so send your records for review before booking travel.</p>"
+          },
+          {
+            "q": "How much does CAR T-cell therapy cost in China compared with the United States?",
+            "a": "<p>A CAR T-cell infusion in China commonly runs between 60,000 and 150,000 US dollars, against roughly 400,000 to 500,000 dollars for the drug alone in the United States. Domestic manufacturing, shorter hospital stays, and national price negotiations explain most of that gap.</p><p>Ask whether your quote covers cell collection, manufacturing, hospitalisation, and complication management, because these vary by centre and can move the total considerably.</p>"
+          },
+          {
+            "q": "Why did China start approving new cancer drugs so quickly?",
+            "a": "<p>China rebuilt its drug regulator after 2015, joined the international ICH standards body in 2017, and began accepting foreign trial data, which cut approval waits from several years to months. Priority review pathways and annual insurance price negotiations then pushed newly approved drugs into public hospitals fast. Approval in China does not mean the same drug is approved where you live, so check what your own country permits before planning long-term therapy.</p>"
+          },
+          {
+            "q": "Are Chinese clinical trials open to patients from other countries?",
+            "a": "<p>Some are, though most Chinese oncology trials are designed for domestic patients and expect a local treating physician or residency. Early-phase cell therapy and bispecific antibody trials have accepted foreign patients through partner hospitals. Enrolment depends on your cancer type, how many treatment lines you have already had, and your current organ function. CancerFax can help match your records to open trials, but the treating oncology team makes the final eligibility decision.</p>"
+          },
+          {
+            "q": "Are Chinese hospitals really comparable to big Western cancer centres?",
+            "a": "<p>China's top cancer centres in Beijing, Shanghai, and Guangzhou handle very high patient volumes, hold international accreditation, and run dedicated international departments. Published surgical and transplant outcomes at these hospitals are broadly comparable with large Western centres. Standards drop off outside this small group of institutions, so confirm the specific hospital and the specific team, not simply the country, before you commit to treatment abroad.</p>"
+          },
+          {
+            "q": "Do I need to speak Chinese to be treated there?",
+            "a": "<p>No. The major cancer hospitals that treat international patients run international departments staffed with English-speaking doctors, interpreters, and case coordinators who handle admission, consent forms, and daily ward communication. Translated medical records are usually required before you arrive. Interpreter cover can thin out at night and on weekends in general wards, so ask how translation is handled outside clinic hours before accepting a treatment plan.</p>"
+          },
+          {
+            "q": "How long would I have to stay in China for treatment?",
+            "a": "<p>Plan on four to eight weeks for cell therapy and two to four weeks for a course of targeted therapy or immunotherapy. CAR T-cell treatment needs time for cell collection, manufacturing, infusion, and a closely monitored recovery window. Radiation courses can run longer. Your real stay depends on how you respond and whether complications appear, so book flexible flights and accommodation rather than fixed dates.</p>"
+          },
+          {
+            "q": "Should I choose China or India for my cancer treatment?",
+            "a": "<p>Neither is better in general, and the right answer depends on your diagnosis. India often costs less for transplants, surgery, and standard chemotherapy, and visas tend to be simpler for many nationalities. China leads on domestically made CAR T products, carbon ion radiation, and early-phase trial access. CancerFax can compare quotes and timelines from both, though your treating oncologist should confirm which route suits your disease and stage.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

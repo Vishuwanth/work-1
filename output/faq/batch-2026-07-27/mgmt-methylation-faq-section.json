@@ -1,0 +1,59 @@
+{
+  "pillar": "MGMT Methylation, IDH Status, and Other Glioblastoma Biomarkers Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mgmt-methylation",
+  "route": "/insights/mgmt-methylation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MGMT methylation, and why does my doctor keep mentioning it?",
+            "a": "<p>MGMT methylation means the gene that repairs chemotherapy damage inside tumour cells has been switched off, so temozolomide tends to work better. Roughly 40 to 45 percent of glioblastomas are methylated. Patients whose tumours are methylated often live longer and respond more strongly to standard treatment. Your result is a guide to how treatment is planned, not a promise about how your own tumour will behave.</p>"
+          },
+          {
+            "q": "What does IDH status tell me, and can glioblastoma be IDH-mutant?",
+            "a": "<p>Since the 2021 WHO classification, glioblastoma is by definition IDH-wildtype. Tumours that look like glioblastoma under the microscope but carry an IDH mutation are now called astrocytoma, IDH-mutant, grade 4. That is a different disease, with a slower course and different drug options. If an older report calls your tumour IDH-mutant glioblastoma, ask your oncologist to confirm it against current criteria, because the answer can change treatment.</p>"
+          },
+          {
+            "q": "If my tumour is unmethylated, is temozolomide pointless for me?",
+            "a": "<p>No. Unmethylated tumours still receive temozolomide in most standard protocols, because some patients benefit even without methylation. The gain is smaller on average, which is why unmethylated patients are often steered towards clinical trials of newer drugs or tumour treating fields alongside standard care. Whether a trial is open to you depends on your centre, your performance status, and how much treatment you have already had.</p>"
+          },
+          {
+            "q": "How are MGMT and IDH actually tested?",
+            "a": "<p>Both are tested on tumour tissue taken during surgery or biopsy, not on a blood sample. MGMT methylation is usually measured by methylation-specific PCR or pyrosequencing. IDH is checked first by immunohistochemistry for the common IDH1 R132H change, then by gene sequencing if that stain is negative. Most centres run these together with a wider molecular panel, so one tissue block answers several questions at once.</p>"
+          },
+          {
+            "q": "How long do the biomarker results take, and should treatment wait for them?",
+            "a": "<p>Most biomarker results come back within one to three weeks of surgery, with basic pathology arriving first and molecular testing following. Radiation and chemotherapy usually start three to six weeks after surgery, so results normally arrive in time to shape the plan. If there is a delay, your team may begin standard treatment and adjust later. Turnaround varies widely between laboratories and countries, and is worth asking about before you travel.</p>"
+          },
+          {
+            "q": "What other glioblastoma biomarkers should I ask about?",
+            "a": "<p>Ask about TERT promoter mutation, EGFR amplification, and the combination of chromosome 7 gain with chromosome 10 loss, because any one of these can confirm a glioblastoma diagnosis even when the tumour looks lower grade. CDKN2A/B deletion, BRAF V600E, and NTRK or FGFR fusions matter too, since a few of them have matched drugs. A full molecular panel is more useful than testing genes one at a time.</p>"
+          },
+          {
+            "q": "Do these results change which clinical trials I can join?",
+            "a": "<p>Yes, biomarkers are often the entry ticket. Many glioblastoma trials recruit only unmethylated patients, only IDH-wildtype patients, or only tumours carrying a specific target such as EGFR or NTRK. Having a full molecular report in hand makes screening faster and avoids wasted travel. Teams such as CancerFax can help you check which trials in India or China match your report, though final eligibility always rests with the trial centre.</p>"
+          },
+          {
+            "q": "Can I have testing done abroad if my hospital does not offer it?",
+            "a": "<p>Yes. Paraffin tissue blocks or unstained slides can usually be shipped to a laboratory in another city or country, so you may not need a second operation. Ask your hospital to release the block, confirm the receiving laboratory accepts foreign samples, and check import paperwork before shipping. Costs and turnaround differ a great deal between centres, and some laboratories will only accept samples referred by a treating doctor.</p>"
+          },
+          {
+            "q": "Does MGMT methylation ever change if the tumour comes back?",
+            "a": "<p>It can. Some recurrent glioblastomas show a different MGMT methylation result from the original tumour, partly because treatment reshapes the tumour and partly because different parts of a tumour differ. If you have surgery again, ask for the biomarkers to be repeated on the new tissue. Repeat testing may open trial options that were closed before, but it is not always possible without fresh tissue.</p>"
+          },
+          {
+            "q": "What survival numbers go with methylated versus unmethylated glioblastoma?",
+            "a": "<p>In the trials that established standard treatment, patients with methylated MGMT lived a median of about 21 to 23 months, compared with roughly 12 to 15 months for unmethylated tumours. These are averages across large groups, and individual outcomes vary widely with age, extent of surgery, and general fitness. Ask your own oncologist how these figures apply to your situation rather than reading them as a forecast.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

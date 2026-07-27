@@ -1,0 +1,59 @@
+{
+  "pillar": "Pneumothorax After Lung RFA: What It Is, How Common It Is, and How It Is Managed",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pneumothorax-after-lung-rfa",
+  "route": "/insights/pneumothorax-after-lung-rfa",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What exactly is a pneumothorax after lung RFA?",
+            "a": "<p>A pneumothorax is air that leaks into the space between the lung and the chest wall after the ablation needle passes through lung tissue. The lung can partly collapse, which may cause breathlessness or chest pain. It is the most common side effect of lung radiofrequency ablation. Most cases are small, cause few symptoms, and settle on their own with oxygen and observation over a day or two.</p>"
+          },
+          {
+            "q": "How common is pneumothorax after lung RFA?",
+            "a": "<p>Pneumothorax occurs in roughly 30 to 50 percent of lung radiofrequency ablation procedures, but only about 5 to 15 percent need a chest drain. The range is wide because tumour depth, needle path, and reporting habits differ between centres. CancerFax can ask the hospitals you are considering for their own complication figures, though your treating interventional radiologist remains the best source for your personal risk.</p>"
+          },
+          {
+            "q": "Will I need a chest tube if this happens to me?",
+            "a": "<p>Usually not. A chest drain is placed in about 5 to 15 percent of cases, generally when the air leak is large, growing on repeat imaging, or causing breathlessness and low oxygen. The tube is a thin catheter inserted under local anaesthetic and is often removed within one to three days. Smaller leaks are watched instead, with a follow-up chest X-ray before you are sent home.</p>"
+          },
+          {
+            "q": "How soon after the procedure does a pneumothorax show up?",
+            "a": "<p>Most are visible on the CT or chest X-ray taken immediately after the procedure or within the first few hours. A smaller number appear late, up to 24 to 72 hours afterwards, which is why teams usually arrange a check X-ray before discharge. Delayed cases can also develop after you leave hospital, so any new breathlessness or chest pain needs urgent assessment rather than waiting.</p>"
+          },
+          {
+            "q": "What symptoms mean I should call the hospital straight away?",
+            "a": "<p>Call your team urgently if you develop new or worsening breathlessness, sharp chest pain that is worse when you breathe in, a persistent dry cough, or a racing heartbeat. Air trapped under the skin near the puncture site can feel like crackling bubbles.</p><p>These signs can appear days after discharge. If breathing feels difficult, go to an emergency department instead of waiting for a scheduled appointment.</p>"
+          },
+          {
+            "q": "What makes my risk of pneumothorax higher?",
+            "a": "<p>Risk is often higher if you have emphysema or COPD, if the tumour is small and sits deep in the lung, if the needle must cross a fissure or a long stretch of air-filled lung, if several tumours are treated in one session, and if you are older or a long-term smoker. Your team weighs these factors beforehand and may change the needle path or split the treatment.</p>"
+          },
+          {
+            "q": "Does a pneumothorax mean the ablation did not work?",
+            "a": "<p>No. A pneumothorax is a puncture-related complication, not a sign that the tumour was missed or that the heat treatment failed. Success is judged on follow-up contrast CT or PET-CT at about one to three months, which examines the ablation zone and its margin around the original tumour. Many patients who develop an air leak still go on to have a complete ablation recorded.</p>"
+          },
+          {
+            "q": "How long will I be in hospital if I get one?",
+            "a": "<p>Many centres keep you overnight after lung RFA and discharge you the next day once a check X-ray looks clear. If a chest drain is needed, expect roughly two to four extra days until the leak seals and the tube can come out. Length of stay depends on the hospital, your lung function, and how many tumours were treated, so ask for an estimate in advance.</p>"
+          },
+          {
+            "q": "Can I fly home after a pneumothorax if I travelled abroad for treatment?",
+            "a": "<p>Most teams advise waiting until a chest X-ray confirms the lung has fully re-expanded, often one to two weeks after the leak resolves, because cabin pressure can expand trapped air and worsen it. If you travelled to India or China for ablation, build spare days into your plans. CancerFax can help you confirm the discharge and follow-up plan with the treating hospital before you rebook flights.</p>"
+          },
+          {
+            "q": "Can anything be done to prevent it?",
+            "a": "<p>It cannot be prevented completely, but the risk can often be reduced. Operators plan the shortest safe needle path, avoid crossing fissures and air pockets, limit the number of needle passes, and may use breath-hold guidance or a tract sealant. Lung function tests beforehand help flag higher-risk patients. Ask your interventional radiologist how they plan to lower your particular risk on the day.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

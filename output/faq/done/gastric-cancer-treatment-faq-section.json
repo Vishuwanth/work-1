@@ -1,0 +1,59 @@
+{
+  "pillar": "Gastric and Esophageal Cancer Treatment",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gastric-cancer-treatment",
+  "route": "/guides/gastric-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the first signs of stomach or esophageal cancer I should watch for?",
+            "a": "<p>Persistent indigestion, trouble swallowing, unexplained weight loss, and food feeling stuck in the chest are the most common early warning signs. Black or tarry stools, vomiting after meals, and feeling full after only a few bites also matter. These symptoms are far more often caused by ulcers or reflux than by cancer, but anything lasting more than two or three weeks deserves an endoscopy rather than another round of antacids.</p>"
+          },
+          {
+            "q": "Can gastric cancer be cured if it is caught early?",
+            "a": "<p>Yes, early gastric cancer can often be cured, and outcomes are strongest when the tumour is still limited to the stomach lining. Five-year survival above 90 percent is common at this stage, and some very early tumours can be removed endoscopically without open surgery. The difficulty is that early disease rarely causes clear symptoms, so many cases are found later, when treatment aims at long-term control rather than cure.</p>"
+          },
+          {
+            "q": "Do I need surgery, or can chemotherapy alone treat my stomach cancer?",
+            "a": "<p>Surgery is still the only treatment that can remove the cancer completely, so chemotherapy alone is usually not enough when cure is the goal. Most patients now receive chemotherapy before and after the operation, which shrinks the tumour and lowers the chance of it returning. Chemotherapy on its own becomes the main approach when the cancer has spread beyond the stomach or when surgery would be unsafe for you.</p>"
+          },
+          {
+            "q": "What is HER2 testing and why does my doctor keep mentioning it?",
+            "a": "<p>HER2 is a protein that makes some stomach and esophageal tumours grow faster, and testing tells your team whether a targeted drug can help. Roughly one in five gastric cancers is HER2-positive, and adding trastuzumab to chemotherapy often extends survival in these patients. The test runs on the biopsy tissue you have already given, so it rarely needs another procedure. Ask whether PD-L1 and MSI testing were done at the same time.</p>"
+          },
+          {
+            "q": "Will immunotherapy work for my esophageal cancer?",
+            "a": "<p>Immunotherapy can work well in esophageal cancer, particularly when your tumour shows high PD-L1 expression. Checkpoint drugs such as nivolumab and pembrolizumab are now used alongside chemotherapy for advanced disease, and after surgery to reduce the risk of return. Response is not universal, and your biomarker results, general fitness, and any autoimmune condition all affect whether these drugs suit you. Your oncologist matches the drug to your tumour's test results.</p>"
+          },
+          {
+            "q": "How much does gastric or esophageal cancer treatment cost in India?",
+            "a": "<p>Treatment in India typically costs between 8,000 and 25,000 US dollars, depending on whether you need surgery alone or a full course combining surgery, chemotherapy, and radiation. Robotic procedures, longer hospital stays, and targeted drugs push the figure higher.</p><p>CancerFax can help you compare written estimates from several hospitals before you travel. Final costs depend on your stage, the hospital you choose, and any complications, so treat every quote as indicative.</p>"
+          },
+          {
+            "q": "Can I still eat normally after my stomach is removed?",
+            "a": "<p>You can enjoy food again after gastrectomy, but the pattern of eating changes permanently. Most people move to six or eight small meals a day instead of three large ones, eat slowly, and keep liquids separate from solids to avoid dumping symptoms. Weight loss in the first few months is expected, and vitamin B12 and iron are usually given for life. A specialist dietitian makes a real difference to recovery.</p>"
+          },
+          {
+            "q": "Is treatment in China better for stomach cancer than at home?",
+            "a": "<p>China offers strong options for gastric and esophageal cancer, largely because these cancers are so common there that surgical volumes and trial access rank among the highest in the world. Domestic PD-1 drugs and Claudin 18.2 targeted trials are also cheaper than Western equivalents. Whether it is better for you depends on the treatment you actually need and how quickly you can reach it, so compare specific plans rather than reputations.</p>"
+          },
+          {
+            "q": "What happens if my cancer has already spread to the liver or lungs?",
+            "a": "<p>Cancer that has spread to the liver or lungs is treated as advanced disease, where the goal shifts from cure to controlling the tumour and protecting your quality of life. Chemotherapy combined with targeted or immunotherapy drugs can hold the disease steady for months to years in many cases. A few patients with a single small deposit are still considered for surgery. Staging scans and biomarker results guide that decision.</p>"
+          },
+          {
+            "q": "How do I get a second opinion before starting treatment abroad?",
+            "a": "<p>Ask your current hospital for your biopsy slides, pathology report, and recent scan discs, then send them to the second centre before you book any travel. A remote review of these records usually takes a few days and can confirm the stage or change the plan entirely.</p><p>CancerFax arranges these reviews with treating oncologists in India and China. Any final plan still depends on the doctors who examine you in person.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

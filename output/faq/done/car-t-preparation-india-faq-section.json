@@ -1,0 +1,59 @@
+{
+  "pillar": "How to Prepare Medically and Logistically for CAR-T in India",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-preparation-india",
+  "route": "/insights/car-t-preparation-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What tests do I need done before I can start CAR-T in India?",
+            "a": "<p>Most Indian CAR-T centres ask for a recent PET-CT, a bone marrow biopsy, full blood counts, kidney and liver function tests, a cardiac echo, and screening for hepatitis B, hepatitis C and HIV. Your disease must also test positive for the target the product attacks, usually CD19 or BCMA. Requirements vary by hospital and by product, so ask your centre for its written checklist.</p>"
+          },
+          {
+            "q": "How long do I need to stay in India for CAR-T treatment?",
+            "a": "<p>Plan for roughly two to three months in India from arrival to clearance for travel home. Apheresis, cell manufacturing, lymphodepleting chemotherapy and the infusion itself usually span six to eight weeks, and most centres ask you to remain nearby for at least four weeks afterwards for monitoring. Manufacturing delays or slow blood count recovery can extend this, so book flexible tickets and accommodation.</p>"
+          },
+          {
+            "q": "What visa do I need, and can someone travel with me?",
+            "a": "<p>You will usually need an Indian medical visa, and your caregiver can apply for a medical attendant visa linked to yours. Most centres issue a visa invitation letter once they have reviewed your reports and accepted you for treatment. India generally permits up to two attendants. Visa approval is never guaranteed and rules change, so apply early and confirm current requirements with the Indian mission in your country.</p>"
+          },
+          {
+            "q": "What should I budget for CAR-T in India?",
+            "a": "<p>Indian CAR-T therapy is commonly quoted in the range of about 30 to 45 lakh rupees for the product and associated hospital care, well below US and European pricing. Budget separately for pre-treatment scans, bridging therapy, ICU care if complications occur, two to three months of accommodation, and flights. Quotes are estimates only and final costs depend on your hospital, protocol and length of stay.</p>"
+          },
+          {
+            "q": "My lymphoma is growing while I wait for my cells. What happens then?",
+            "a": "<p>Your oncologist will usually give bridging therapy, a short course of chemotherapy, targeted drugs or radiation, to hold the disease steady during the three to four weeks your cells are being manufactured. Bridging is planned so it does not harm the collected T cells or delay lymphodepletion. If the disease progresses very fast, the team may reassess whether CAR-T remains suitable, so keep them updated.</p>"
+          },
+          {
+            "q": "Do I really need a caregiver with me the whole time?",
+            "a": "<p>Yes, nearly every CAR-T centre requires a full-time adult caregiver from admission until you are cleared to fly home. Confusion, tremor and difficulty speaking from neurotoxicity often appear before you notice them yourself, and your caregiver is the one who reports them. They also handle temperature checks, medication timing, and getting you back to hospital quickly. Plan for one person who can stay the entire period.</p>"
+          },
+          {
+            "q": "What medical records should I send before I travel?",
+            "a": "<p>Send your original biopsy and immunohistochemistry reports, all imaging on disc or in digital form, a full treatment summary listing every drug and dose you have received, recent blood counts, and any previous transplant records. Indian centres use these to confirm eligibility before you buy tickets. CancerFax can help patients organise and forward these reports and coordinate travel, alongside the treating oncology team.</p>"
+          },
+          {
+            "q": "Where will I stay after I am discharged from hospital?",
+            "a": "<p>Most patients move into a serviced apartment or guest house within about thirty minutes of the hospital for the post-infusion monitoring weeks. Choose somewhere with a clean kitchen, reliable power and air conditioning, because your immune system will be weak for months. Many hospitals keep lists of vetted nearby accommodation and some run their own guest facilities, so ask the international patient desk before you arrive.</p>"
+          },
+          {
+            "q": "What infection precautions should I take while I am in India?",
+            "a": "<p>Talk to your oncologist before travelling about food and water safety, mosquito-borne illness and mask use, because lymphodepletion leaves you severely immunosuppressed for weeks. Live vaccines are generally avoided close to CAR-T. Carry a thermometer and treat any fever above 38°C as an emergency needing same-day hospital review. Revaccination is usually discussed months later, and timing depends on how your immune counts recover.</p>"
+          },
+          {
+            "q": "How soon can I fly home after my CAR-T infusion?",
+            "a": "<p>Most centres clear patients to fly roughly four to eight weeks after infusion, once fevers have settled, blood counts have recovered sufficiently, and any neurological symptoms have resolved. You will need a fitness-to-fly letter, a discharge summary, and an agreed plan for follow-up scans with your home oncologist. B-cell aplasia can persist, so ask whether you may need immunoglobulin infusions after you return.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

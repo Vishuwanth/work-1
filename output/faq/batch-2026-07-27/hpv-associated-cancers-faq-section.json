@@ -1,0 +1,59 @@
+{
+  "pillar": "HPV-Associated Cancers: Cervical, Oropharyngeal, and Anal",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hpv-associated-cancers",
+  "route": "/insights/hpv-associated-cancers",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Which cancers can HPV actually cause?",
+            "a": "<p>HPV causes nearly all cervical cancers and a large share of oropharyngeal, anal, vaginal, vulvar and penile cancers. The virus is common, and most infections clear on their own within one to two years. Cancer develops only when a high-risk type, most often HPV 16 or 18, persists for many years and slowly changes healthy cells. Your doctor can test tumour tissue to confirm whether HPV is involved.</p>"
+          },
+          {
+            "q": "I tested positive for HPV. Does that mean I will get cancer?",
+            "a": "<p>No. Most people who get HPV never develop cancer. The immune system clears about nine in ten infections without treatment, often before any symptoms appear. Risk rises only when a high-risk strain stays in the body for years, and even then screening usually catches pre-cancerous changes first. Smoking, a weakened immune system and HIV can raise that risk. Regular screening remains the most reliable way to stay ahead of it.</p>"
+          },
+          {
+            "q": "How long does it take for HPV to turn into cancer?",
+            "a": "<p>Usually 10 to 30 years. HPV-related cancers grow slowly, so an infection picked up in your twenties may not cause cervical cancer until your forties, and oropharyngeal cancers often appear even later, typically in people aged 50 to 60. This long window is why screening works so well: pre-cancerous changes can be found and removed years before they would ever become invasive cancer. Ask your doctor which screening schedule fits your age and history.</p>"
+          },
+          {
+            "q": "Is HPV-positive throat cancer easier to treat than HPV-negative?",
+            "a": "<p>In many cases, yes. HPV-positive oropharyngeal cancer responds better to radiation and chemotherapy than HPV-negative disease, and five-year survival often exceeds 80 percent even when lymph nodes are involved. That is why doctors test every throat tumour for p16, a marker of HPV. Treatment is still intensive, and outcomes depend on stage, smoking history and overall health, so your oncology team will stage the tumour before predicting anything.</p>"
+          },
+          {
+            "q": "Will the HPV vaccine help me if I already have HPV or cancer?",
+            "a": "<p>The HPV vaccine prevents new infections but does not treat an existing infection or cancer. It can still help, because it protects against high-risk strains you have not yet encountered and may lower the chance of a second HPV-related cancer later. Many oncologists suggest vaccination for people up to age 45, including after treatment. Whether it is right for you depends on your age, treatment plan and immune status.</p>"
+          },
+          {
+            "q": "How is anal cancer from HPV picked up early?",
+            "a": "<p>Anal cancer is usually found early through an anal Pap test and high-resolution anoscopy, which let a doctor see and biopsy abnormal tissue. Screening is offered mainly to higher-risk groups: people living with HIV, men who have sex with men, transplant recipients and women with a history of cervical or vulvar pre-cancer. Bleeding, itching, pain or a lump should be checked promptly rather than treated as haemorrhoids.</p>"
+          },
+          {
+            "q": "What are the first signs of HPV-related throat cancer?",
+            "a": "<p>A painless lump in the neck is the most common first sign. Other symptoms include a sore throat that lasts more than three weeks, trouble or pain when swallowing, ear pain on one side, a change in voice, or a lump at the back of the tongue or tonsil. Because these mimic ordinary infections, any symptom lasting beyond three weeks deserves examination by an ENT specialist.</p>"
+          },
+          {
+            "q": "Can I pass HPV to my partner if I have an HPV-related cancer?",
+            "a": "<p>You cannot pass on the cancer, and by the time cancer develops the original infection is often no longer active or transmissible. Most long-term partners have already been exposed to the same HPV type and share the same immunity. Condoms lower but do not remove the risk of spreading HPV. Vaccination is worth discussing for partners under 45, and your treating team can advise on timing.</p>"
+          },
+          {
+            "q": "What treatments are used for HPV-linked cervical cancer?",
+            "a": "<p>Early cervical cancer is usually treated with surgery, either a cone biopsy or radical hysterectomy, and many young women can keep fertility with a trachelectomy. Locally advanced disease is treated with chemoradiation plus brachytherapy, and advanced or recurrent disease may add immunotherapy such as pembrolizumab. Costs and waiting times vary widely between countries, and services like CancerFax can help you compare hospitals, though your oncologist decides what is suitable.</p>"
+          },
+          {
+            "q": "Are there newer treatments or trials abroad for HPV-driven cancers?",
+            "a": "<p>Yes. Trials in India and China are testing HPV-specific TIL and TCR-T cell therapies, therapeutic HPV vaccines and new checkpoint inhibitor combinations for cervical, anal and head and neck cancers. Enrolment is never guaranteed and depends on your tumour type, prior treatment and HPV status. CancerFax can help you check which centres are recruiting, but eligibility is always confirmed by the trial's own medical team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

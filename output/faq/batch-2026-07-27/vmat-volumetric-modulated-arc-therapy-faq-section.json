@@ -1,0 +1,59 @@
+{
+  "pillar": "VMAT: Volumetric Modulated Arc Therapy — Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "vmat-volumetric-modulated-arc-therapy",
+  "route": "/treatments/vmat-volumetric-modulated-arc-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is VMAT and how is it different from regular radiotherapy?",
+            "a": "<p>VMAT, or volumetric modulated arc therapy, delivers radiation while the treatment machine rotates in one or more continuous arcs around your body, shaping the beam and adjusting its strength as it moves. Conventional radiotherapy fires from a handful of fixed angles instead. The rotating approach can wrap the dose more tightly around an irregular tumour while sparing nearby healthy tissue. Whether VMAT suits your tumour depends on its site, size and shape.</p>"
+          },
+          {
+            "q": "How long does one VMAT session take?",
+            "a": "<p>A single VMAT session usually takes 10 to 20 minutes in the room, with the beam itself on for only about 2 to 4 minutes. Most of that time is spent positioning you and taking verification images so the dose lands exactly where it was planned. This is often faster than older IMRT delivery, which may need 15 to 30 minutes of beam time. Your centre's setup and imaging protocol can change these timings.</p>"
+          },
+          {
+            "q": "How many VMAT treatments will I need?",
+            "a": "<p>Most VMAT courses run between 5 and 35 daily sessions, given Monday to Friday over one to seven weeks. Prostate cancer is often treated in 20 to 39 fractions, head and neck cancer in about 30 to 35, and some lung or brain tumours in as few as 3 to 5 when stereotactic doses are used. Your radiation oncologist sets the number based on your cancer type, stage and treatment goal.</p>"
+          },
+          {
+            "q": "Does VMAT hurt?",
+            "a": "<p>VMAT itself is painless — you feel nothing while the beam is on, much like having an X-ray taken. The main discomfort comes from holding still on a hard treatment couch, and sometimes from immobilisation devices such as a head-and-neck mask. Side effects like skin soreness or fatigue usually build up gradually over the course rather than during any single session. Tell your radiation therapists if positioning becomes painful, as adjustments are often possible.</p>"
+          },
+          {
+            "q": "Is VMAT better than IMRT for my cancer?",
+            "a": "<p>VMAT and IMRT usually produce similar tumour control, but VMAT generally delivers the dose faster and with fewer monitor units. Shorter time on the table can mean less chance of you shifting position, which matters for tumours near the spinal cord, eyes or heart. For some simpler targets, IMRT or even 3D conformal radiotherapy may be perfectly adequate. Your radiation oncologist compares actual dose plans before deciding which technique fits your case.</p>"
+          },
+          {
+            "q": "What are the side effects of VMAT?",
+            "a": "<p>Side effects from VMAT depend almost entirely on which part of the body is treated, not on the technique itself. Pelvic treatment can cause urinary urgency and loose stools; head and neck treatment often brings a sore mouth, taste changes and dry mouth; chest treatment may cause difficulty swallowing or a cough. Fatigue is common everywhere and usually peaks in the last weeks.</p><p>Because VMAT limits dose to healthy tissue, many patients report milder effects than with older techniques, though this varies.</p>"
+          },
+          {
+            "q": "Can VMAT be used for cancer that has spread?",
+            "a": "<p>Yes, VMAT is often used when cancer has spread, both to relieve symptoms and to target a small number of metastatic sites. It is commonly used for painful bone metastases, spinal deposits pressing on nerves, and brain metastases where sparing healthy brain tissue matters. When only a few spots exist, VMAT may be combined with stereotactic doses to treat them intensively. Whether this approach helps you depends on how many sites are involved and your overall condition.</p>"
+          },
+          {
+            "q": "How much does VMAT cost in India and China?",
+            "a": "<p>A full VMAT course typically costs between USD 3,000 and USD 8,000 in India and roughly USD 5,000 to USD 12,000 in China, depending on the number of fractions, the hospital and whether imaging and planning are bundled in. The same treatment often runs several times higher in the United States or Western Europe. Quotes vary widely between centres, so ask for a written breakdown that states how many sessions are included before travelling.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for VMAT treatment?",
+            "a": "<p>Yes, many international patients travel to India and China for VMAT, as both countries have well-equipped centres running modern linear accelerators. You will usually need your diagnostic scans, pathology report and prior treatment records reviewed before a plan and quote can be issued, plus a medical visa. Plan to stay for the whole course, since sessions run on consecutive weekdays. CancerFax can help you share your records with treating centres, though acceptance and scheduling always rest with the hospital's oncology team.</p>"
+          },
+          {
+            "q": "How do I know if VMAT is working?",
+            "a": "<p>Response to VMAT is judged with follow-up imaging, usually a CT, MRI or PET scan performed roughly 8 to 12 weeks after the last session. Scanning too early can be misleading, because treated tissue often stays swollen or inflamed for weeks before it shrinks. Symptom relief, such as less pain from a bone metastasis, may appear sooner. Your oncology team decides the scan timing and any blood or tumour marker checks that go with it.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

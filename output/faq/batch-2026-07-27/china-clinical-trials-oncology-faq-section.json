@@ -1,0 +1,59 @@
+{
+  "pillar": "How China Accelerates Clinical Trials: A Deep Dive Into Its Fast-Track Oncology Ecosystem",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-clinical-trials-oncology",
+  "route": "/guides/china-clinical-trials-oncology",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why do new cancer drugs reach patients in China faster than in many other countries?",
+            "a": "<p>China's drug regulator now reviews oncology applications on accelerated timelines, and its hospital network can enroll large patient numbers quickly. Reforms since 2015 cut approval backlogs, accepted foreign trial data, and created priority pathways for drugs treating cancers with few good options. Combined with dense city hospitals and high patient volumes, a trial that takes years to fill elsewhere can often recruit in months. Timelines still vary by drug and disease.</p>"
+          },
+          {
+            "q": "Can I join a cancer clinical trial in China if I am not a Chinese citizen?",
+            "a": "<p>Sometimes, but it depends on the individual trial. Many Chinese oncology studies restrict enrollment to residents, while others accept international patients who can travel, stay for scheduled visits, and provide translated medical records. Sponsors set these rules, not the hospital alone. Your best route is to have your oncologist contact the study site directly and ask about eligibility for overseas patients before you make any travel plans.</p>"
+          },
+          {
+            "q": "How long does it take for a cancer trial to actually start in China?",
+            "a": "<p>Clinical trial applications in China typically clear regulatory review in about 60 working days, down from more than a year before the 2015 reforms. Ethics committee approval and site contracts add further weeks. In practice, a sponsor can often move from application to first patient dosed in roughly three to six months. Individual trials may run slower depending on the drug, the cancer type, and site readiness.</p>"
+          },
+          {
+            "q": "What does breakthrough therapy designation mean in China, and can it help me?",
+            "a": "<p>Breakthrough therapy designation is a label China's regulator gives to drugs showing early promise against serious diseases with few treatment options. It gives the sponsor closer regulatory contact and faster review, which can shorten the wait for approval. For a patient, it may flag a drug worth asking your oncologist about, but the designation is not a promise that the drug works or that you can access it.</p>"
+          },
+          {
+            "q": "Are CAR-T and cell therapy trials easier to get into in China?",
+            "a": "<p>China runs more registered CAR-T and cell therapy trials than any other country, so the range of open studies is genuinely wider, especially for blood cancers and some solid tumors. That volume can improve your odds of finding a matching study, but slots fill fast and criteria stay strict on prior treatments and organ function. Access for overseas patients depends on each sponsor's policy and cannot be assumed.</p>"
+          },
+          {
+            "q": "Are trials in China held to the same safety standards as trials in the US or Europe?",
+            "a": "<p>China joined the ICH in 2017 and now follows the same core Good Clinical Practice standards used in the United States and Europe, including ethics committee oversight, informed consent, and adverse event reporting. Quality can still vary between sites, so it matters which hospital runs the study. Ask whether the trial is publicly registered, who sponsors it, and how safety events are monitored and reported.</p>"
+          },
+          {
+            "q": "How much will a clinical trial in China cost me?",
+            "a": "<p>The study drug and trial-related tests are usually provided free by the sponsor, but you generally pay for travel, visas, accommodation, translation, and any care outside the trial protocol. Families often budget for several weeks or months of living costs near the hospital. Costs vary widely by city and trial length, so ask the site for a written list of what is and is not covered.</p>"
+          },
+          {
+            "q": "Do I have to stay in China for the whole trial?",
+            "a": "<p>Usually not for the entire study, but early phases often require you to stay near the hospital for weeks, particularly with cell therapies that need close monitoring after infusion. Later follow-up visits may be spaced months apart. Ask the site for the full visit schedule before committing, because visa length and repeated travel often become the hardest part of the plan for families.</p>"
+          },
+          {
+            "q": "What medical records do I need before a Chinese hospital will consider me for a trial?",
+            "a": "<p>Most sites want a recent pathology report, imaging from the last few weeks, a full treatment history with dates and doses, current blood work, and any molecular or genomic testing results, all translated into English or Chinese. CancerFax can help compile and forward this file to trial sites for review, though the decision on eligibility always rests with the treating oncology team at the hospital.</p>"
+          },
+          {
+            "q": "What are my options if I do not qualify for a trial in China?",
+            "a": "<p>Not qualifying for one trial rarely closes the door. Other studies in China, India, or your home country may use different eligibility rules, and approved treatments or expanded access programs can also be worth exploring. CancerFax can share a shortlist of alternative sites for your oncologist to review. Any next step should be decided with the doctor who knows your full treatment history and current condition.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

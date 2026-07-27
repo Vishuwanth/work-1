@@ -1,0 +1,59 @@
+{
+  "pillar": "Peking University Cancer Hospital: International Patient Guide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "peking-university-cancer-hospital-international-patient-guide",
+  "route": "/guides/peking-university-cancer-hospital-international-patient-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can international patients be treated at Peking University Cancer Hospital?",
+            "a": "<p>Yes, Peking University Cancer Hospital accepts international patients and runs a dedicated service that handles registration, appointments and admission. You will usually be asked to send your diagnosis, pathology report and recent scans first, so the team can confirm they treat your cancer type. Acceptance is not automatic. It depends on your stage, your general health and bed availability in the relevant department at the time you apply.</p>"
+          },
+          {
+            "q": "Which cancers is Peking University Cancer Hospital best known for treating?",
+            "a": "<p>The hospital is best known for gastric, esophageal, colorectal and liver cancers, along with lung cancer, lymphoma, breast cancer and sarcoma. Gastrointestinal cancer care is its historic strength, with high surgical volumes and dedicated wards. Each tumour type has its own specialist team that reviews cases together. Whether that expertise fits your situation depends on your exact diagnosis, and your own oncologist should review any plan before you travel.</p>"
+          },
+          {
+            "q": "How much does cancer treatment cost at Peking University Cancer Hospital?",
+            "a": "<p>Cancer treatment at Peking University Cancer Hospital often costs far less than comparable care in the United States or Europe, and international patients pay out of pocket or through private insurance. Surgery packages, chemotherapy cycles and immunotherapy are usually quoted separately. Your final bill depends on your stage, the drugs chosen and how long you stay. Ask for a written estimate before you travel, because quotes can change once doctors review your case in person.</p>"
+          },
+          {
+            "q": "What visa and documents do I need to travel to Beijing for treatment?",
+            "a": "<p>You will need a Chinese visa, and most patients apply in the M or S category with a hospital invitation letter supporting the application. The hospital usually issues that letter after reviewing your medical records and confirming an appointment date. Bring your passport, pathology slides, imaging discs and a translated treatment summary. Visa rules can change, so confirm current requirements with the Chinese embassy in your country before booking flights.</p>"
+          },
+          {
+            "q": "Will the doctors and nurses speak English?",
+            "a": "<p>Peking University Cancer Hospital provides interpreter support for international patients, though not every ward nurse or junior doctor speaks fluent English. Senior oncologists often read English medical literature and can discuss your case directly, but consent forms, discharge summaries and prescriptions may be issued in Chinese. Many families arrange a medical translator for the whole stay. Ask in advance what interpreting hours are covered, because availability can vary by department.</p>"
+          },
+          {
+            "q": "How long will I need to stay in Beijing?",
+            "a": "<p>Most international patients stay in Beijing between three weeks and three months, depending on the treatment. A single surgery with recovery may take three to four weeks, while several chemotherapy or immunotherapy cycles can stretch across two to three months. CAR-T and transplant patients often stay longer for monitoring. Plan accommodation with some flexibility, because scan results partway through can change how many cycles your doctors recommend.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial at Peking University Cancer Hospital?",
+            "a": "<p>Peking University Cancer Hospital runs a large early-phase trial programme, and some studies do accept international patients. Eligibility depends on your tumour type, prior treatments, biomarker results and whether the protocol allows non-residents. Trial places cannot be promised in advance, and slots may close without notice. CancerFax can help you send records for a trial screening review, but the final decision rests with the study investigators and your treating oncology team.</p>"
+          },
+          {
+            "q": "What medical records should I send before I go?",
+            "a": "<p>Send your pathology report, recent CT, MRI or PET images, blood results and a summary of every treatment you have already received. Reports translated into English or Chinese speed up review considerably. The international office uses these to decide whether to offer an appointment and to draft a preliminary plan. Missing pathology is the most common reason a case stalls, so request slides or blocks from your first hospital early.</p>"
+          },
+          {
+            "q": "Are the cancer drugs used in Beijing the same as the ones at home?",
+            "a": "<p>Many drugs approved in China are the same molecules used in the West, and several Chinese-made PD-1 inhibitors, targeted drugs and CAR-T products are approved there but not elsewhere. This can widen your options, particularly for gastric, liver and blood cancers. It also means some medicines cannot be continued once you fly home. Ask your doctors which parts of the plan your local hospital can realistically carry on.</p>"
+          },
+          {
+            "q": "Can I do my follow-up care at home after treatment in Beijing?",
+            "a": "<p>Yes, most patients complete active treatment in Beijing and then return home for scans and follow-up, provided a local oncologist agrees to take over. Ask for discharge summaries, pathology reports and a written maintenance plan in English before you leave. CancerFax can help pass those records to your home team. Continuity usually works best when your local doctor is involved from the start rather than told afterwards.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Combined with Chemotherapy: What the Evidence Shows",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-combined-chemotherapy",
+  "route": "/insights/cik-therapy-combined-chemotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK therapy combined with chemotherapy?",
+            "a": "<p>CIK therapy combined with chemotherapy means your own immune cells are grown in a lab and given back to you alongside standard chemotherapy drugs. CIK stands for cytokine-induced killer cells, a mixed population of T cells and natural killer-like cells that can attack tumour cells without needing a matched antigen. Chemotherapy shrinks the tumour bulk while the cells target what remains.</p>"
+          },
+          {
+            "q": "Does adding CIK cells to chemotherapy actually work?",
+            "a": "<p>The evidence is encouraging but not conclusive. Multiple randomised trials and pooled analyses, mostly from China, Japan and South Korea, report longer progression-free survival, better overall survival and improved quality of life when CIK cells are added to chemotherapy compared with chemotherapy alone. However, many studies are small, single-centre and use different cell preparation methods, so results may not apply to every patient.</p>"
+          },
+          {
+            "q": "Which cancers has CIK plus chemotherapy been studied in?",
+            "a": "<p>CIK combined with chemotherapy has been studied most in gastric cancer, non-small cell lung cancer, liver cancer, colorectal cancer and some blood cancers. Smaller trials cover pancreatic, breast and kidney cancer. The strength of evidence varies a lot by cancer type, and results in one tumour type do not automatically carry over to another. Your oncologist can say what the data show for your specific diagnosis.</p>"
+          },
+          {
+            "q": "How is CIK therapy given alongside chemotherapy?",
+            "a": "<p>Blood is collected from you, immune cells are separated and grown in a laboratory for around two to three weeks, then infused back through a vein. Infusions are usually given in several cycles timed around chemotherapy sessions, often shortly after a chemotherapy cycle finishes. Exact timing, cell dose and number of infusions differ between centres and depend on your blood counts and general condition.</p>"
+          },
+          {
+            "q": "Will CIK therapy make my chemotherapy side effects worse?",
+            "a": "<p>In most reported studies CIK infusions did not add significantly to chemotherapy side effects. The common reactions are fever, chills, fatigue and mild flu-like symptoms in the first day or two after infusion, and these usually settle on their own. Some patients report feeling less exhausted overall. Serious reactions are uncommon but possible, so infusions should be given under specialist supervision.</p>"
+          },
+          {
+            "q": "Am I eligible for CIK therapy with chemotherapy?",
+            "a": "<p>Eligibility depends on your cancer type, stage, prior treatment, blood counts, organ function and overall fitness. Centres generally look for patients well enough to donate blood cells and tolerate ongoing chemotherapy, without uncontrolled infection or severe autoimmune disease. Patients on high-dose steroids may not be suitable, as steroids can suppress the infused cells. Final suitability is decided only after review by the treating oncology team.</p>"
+          },
+          {
+            "q": "Can CIK therapy replace my chemotherapy?",
+            "a": "<p>No. CIK cells are studied as an addition to chemotherapy, not a substitute for it. In nearly every published trial the immune cells were given alongside or after standard treatment, and the benefit reported was compared against chemotherapy alone. Stopping proven chemotherapy in favour of cell therapy is not supported by current evidence and could allow the cancer to progress. Discuss any change with your oncologist.</p>"
+          },
+          {
+            "q": "Where can I get CIK therapy combined with chemotherapy?",
+            "a": "<p>CIK therapy is offered mainly in China, Japan, South Korea and parts of Europe, often through hospital cell-therapy units or registered clinical trials. It is not an approved standard treatment in most Western countries, where access is usually limited to research studies. Availability, protocol and admission criteria vary by hospital, and acceptance can never be guaranteed in advance.</p>"
+          },
+          {
+            "q": "How much does CIK therapy with chemotherapy cost?",
+            "a": "<p>Costs vary widely by country and hospital, and are usually quoted per infusion cycle rather than as a single package. Cell processing, hospital stay, imaging and the chemotherapy itself are typically billed separately. Estimated totals depend on the number of cycles prescribed, diagnostics required and length of stay. Ask for a written breakdown before travelling, and confirm what insurance, if any, will cover.</p>"
+          },
+          {
+            "q": "How do I find out if this combination is an option for me?",
+            "a": "<p>Start by asking your treating oncologist whether adding cell therapy fits your treatment plan and whether any trial is open for your cancer type. Bring your pathology report, recent scans and treatment history to that conversation. CancerFax can help patients organise medical reports, identify relevant specialists or trials, estimate costs and coordinate travel and follow-up support alongside the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

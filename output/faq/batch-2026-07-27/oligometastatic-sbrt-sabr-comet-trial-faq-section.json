@@ -1,0 +1,59 @@
+{
+  "pillar": "Oligometastatic Disease and SBRT: The SABR-COMET Trial",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "oligometastatic-sbrt-sabr-comet-trial",
+  "route": "/insights/oligometastatic-sbrt-sabr-comet-trial",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does oligometastatic cancer actually mean?",
+            "a": "<p>Oligometastatic cancer means the disease has spread, but only to a small number of sites, usually one to five measurable metastases. Doctors see it as a middle state between cancer confined to one organ and cancer spread widely through the body. Because the number of deposits is limited, treating each one directly may be worthwhile. Your oncologist confirms the pattern with scans such as PET-CT or MRI before deciding.</p>"
+          },
+          {
+            "q": "What did the SABR-COMET trial actually find?",
+            "a": "<p>SABR-COMET found that adding stereotactic radiation to standard care roughly doubled median overall survival, from about 28 months to 50 months, in patients with one to five metastases. The randomised phase II trial enrolled 99 patients across several countries. Long-term follow-up at eight years showed survival of 27.2 percent with SBRT against 13.6 percent without. These results are promising, but the trial was small and larger studies are still running.</p>"
+          },
+          {
+            "q": "Can SBRT cure cancer that has already spread?",
+            "a": "<p>SBRT can sometimes give long-term disease control, and a minority of patients in SABR-COMET remained alive and free of progression many years later. Doctors rarely use the word cure for metastatic disease, but the goal shifts from slowing the cancer to clearing every visible deposit. Whether that is realistic depends on the tumour type, how many sites are involved, and how the cancer behaved before treatment.</p>"
+          },
+          {
+            "q": "How many metastases can be treated with SBRT?",
+            "a": "<p>Most trials and guidelines treat up to five metastases, which is the range SABR-COMET studied. Some centres go further, and the ongoing SABR-COMET-10 trial is testing four to ten lesions, but treating more sites raises the radiation burden on healthy tissue. Size, location, and how close each tumour sits to the bowel, spinal cord, or airway matter as much as the count. Eligibility is decided case by case.</p>"
+          },
+          {
+            "q": "Is SBRT for metastases dangerous?",
+            "a": "<p>SBRT is generally well tolerated, but it is not risk-free. In SABR-COMET, grade 2 or worse side effects occurred in 29 percent of treated patients compared with 9 percent in the control group, and three treatment-related deaths were reported. Common problems include fatigue, local pain, and inflammation near the treated organ. Risk depends heavily on where the tumour sits, so an experienced centre and careful planning matter a great deal.</p>"
+          },
+          {
+            "q": "How long does a course of SBRT take?",
+            "a": "<p>Most SBRT courses run one to five sessions over one to two weeks, and each session usually lasts 30 to 60 minutes including setup. There is no cutting and no hospital stay, so you go home the same day. Planning scans and positioning moulds are done a week or two earlier. Compared with conventional radiotherapy lasting six weeks, this is a real practical advantage if you are travelling for treatment.</p>"
+          },
+          {
+            "q": "Am I eligible for SBRT if my cancer has spread?",
+            "a": "<p>Eligibility usually needs a controlled primary tumour, one to five metastases visible on imaging, lesions that can be targeted safely, and reasonable general fitness. Patients with widespread spread or rapidly progressing disease are often better served by systemic treatment first.</p><p>CancerFax can help you get scans and reports reviewed by radiation oncology teams in India and China, though the final decision always rests with your treating doctors.</p>"
+          },
+          {
+            "q": "Is SBRT better than surgery for removing a metastasis?",
+            "a": "<p>Neither is clearly better, and the choice depends on the site and your fitness. Surgery removes the tumour and gives tissue for testing, which can matter for genetic analysis. SBRT avoids anaesthesia and recovery time, and can reach tumours near the spine or deep in the lung that are hard to operate on. Many teams use both across different sites in the same patient, guided by a tumour board.</p>"
+          },
+          {
+            "q": "What are SABR-COMET-3 and SABR-COMET-10?",
+            "a": "<p>They are larger phase III trials designed to confirm the original findings. SABR-COMET-3 studies patients with one to three metastases, while SABR-COMET-10 studies those with four to ten. Both compare standard systemic therapy alone against the same therapy plus stereotactic radiation, with overall survival as the main endpoint. Results are still awaited, so SBRT for oligometastatic disease often remains a considered option rather than a settled standard.</p>"
+          },
+          {
+            "q": "What does SBRT cost in India or China?",
+            "a": "<p>Costs vary widely by centre, number of lesions, and machine used, but SBRT abroad is often a fraction of the price in Western countries. Whether a standard linear accelerator, CyberKnife, or proton system is used changes the figure considerably.</p><p>CancerFax can share indicative estimates and arrange remote opinions from accredited hospitals, though a firm quote usually comes only after the treating centre reviews your imaging and reports.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

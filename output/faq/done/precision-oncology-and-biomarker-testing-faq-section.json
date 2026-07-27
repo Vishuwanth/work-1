@@ -1,0 +1,59 @@
+{
+  "pillar": "Precision Oncology and Biomarker Testing: A Patient's Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "precision-oncology-and-biomarker-testing",
+  "route": "/insights/precision-oncology-and-biomarker-testing",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is precision oncology in simple terms?",
+            "a": "<p>Precision oncology means choosing cancer treatment based on the molecular features of your tumour, not just where the cancer started. Doctors test the tumour for genetic changes, proteins, or other markers, then match you to a drug aimed at what they find. Two people with the same diagnosis may receive very different treatments. Not every cancer has a targetable change, so chemotherapy or immunotherapy often remains part of the plan.</p>"
+          },
+          {
+            "q": "What is biomarker testing and why does my oncologist want it?",
+            "a": "<p>Biomarker testing looks for specific genes, proteins, or other molecules in your tumour that predict how it will behave and which drugs may work. Your oncologist orders it to avoid guesswork. For example, an EGFR mutation in lung cancer can point to a targeted tablet instead of intravenous chemotherapy. Results can also rule out drugs unlikely to help you, sparing side effects and time that matter.</p>"
+          },
+          {
+            "q": "How is this different from genetic testing for inherited cancer risk?",
+            "a": "<p>Biomarker testing usually examines the tumour itself and looks for changes the cancer acquired during your lifetime. Hereditary genetic testing uses blood or saliva and looks for inherited changes, such as BRCA1, that can affect your children and other relatives. The two sometimes overlap, so a BRCA finding in a tumour may prompt a separate inherited-risk test. Ask your team which of the two you actually had.</p>"
+          },
+          {
+            "q": "How long will my biomarker results take?",
+            "a": "<p>Most tumour biomarker results take about one to three weeks from the day the laboratory receives your sample. Single-gene and rapid PCR tests can come back in a few days, while comprehensive profiling of hundreds of genes usually takes longer, especially if the sample must travel to another city or country. Ask your oncologist whether treatment should begin before results arrive, because in many cases it can.</p>"
+          },
+          {
+            "q": "Do I need another biopsy, or can a blood test be used?",
+            "a": "<p>In many cases a blood sample can be used instead of a new biopsy. A liquid biopsy detects tumour DNA circulating in the blood, which helps when the tumour is hard to reach or you are too unwell for a procedure. Tissue remains the more complete test, so a negative blood result may still need tissue confirmation. Your team will decide based on your cancer type and the tissue already available.</p>"
+          },
+          {
+            "q": "Which biomarkers actually change the treatment plan?",
+            "a": "<p>The markers that most often change treatment include EGFR, ALK, ROS1 and KRAS in lung cancer, HER2 and hormone receptors in breast cancer, BRAF in melanoma, and mismatch repair or MSI-high status across many cancers. PD-L1 levels help predict response to immunotherapy. Which of these apply depends entirely on your cancer type and stage, so the panel your oncologist orders will be tailored rather than universal.</p>"
+          },
+          {
+            "q": "What if my report says no targetable mutation was found?",
+            "a": "<p>A report with no targetable change is common and does not mean you are out of options. Many tested patients have no matched targeted drug, and chemotherapy, immunotherapy, radiotherapy and surgery still work well for a large number of them. The result also spares you drugs that were unlikely to help. A broader panel or repeat testing later may find something new, so ask whether that is worth doing.</p>"
+          },
+          {
+            "q": "How much does comprehensive genomic profiling cost in India or China?",
+            "a": "<p>Comprehensive genomic profiling usually costs far less in India and China than in the United States or Europe, often a few hundred to around a thousand US dollars depending on panel size and laboratory. Prices and insurance coverage change frequently, so ask for a written quote before agreeing.</p><p>CancerFax can help you gather quotes from accredited laboratories, though your treating oncologist should decide which panel you actually need.</p>"
+          },
+          {
+            "q": "Can my biomarker results get me into a clinical trial abroad?",
+            "a": "<p>Biomarker results are often the entry requirement for a trial, because many studies enrol only patients carrying a specific mutation. A recent, detailed report can therefore open doors that a diagnosis alone cannot. Enrolment is never guaranteed, as trials have residency rules, prior-treatment limits and fixed slots. Ask your oncologist to review your report against open studies, and CancerFax can help you identify trials in India and China.</p>"
+          },
+          {
+            "q": "Should I repeat testing if my cancer stops responding?",
+            "a": "<p>Retesting is often recommended when a treatment stops working, because tumours acquire new mutations that explain the resistance. In lung cancer, for example, an EGFR T790M change can point to a different targeted drug. Liquid biopsy makes repeat testing easier because it needs only blood. Whether a new result changes your plan depends on your cancer type and the drugs available to you, so discuss timing with your oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

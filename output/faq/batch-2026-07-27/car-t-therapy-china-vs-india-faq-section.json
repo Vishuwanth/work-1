@@ -1,0 +1,59 @@
+{
+  "pillar": "China vs India for CAR-T Therapy: Cost, Eligibility and Outcomes",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-therapy-china-vs-india",
+  "route": "/guides/car-t-therapy-china-vs-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does CAR-T therapy cost in China compared to India?",
+            "a": "<p>CAR-T therapy is usually cheaper in India, where approved treatment often runs about USD 40,000 to 60,000, compared with roughly USD 55,000 to 90,000 in China. Both are far below United States pricing. Your final bill depends on the product used, length of hospital stay, complications such as cytokine release syndrome, and travel costs. Quotes change often, so ask each hospital for a written estimate covering the full care pathway.</p>"
+          },
+          {
+            "q": "Which country is better for CAR-T therapy, China or India?",
+            "a": "<p>Neither country is better for every patient; the right choice depends on your cancer type, previous treatments and budget. China runs more CAR-T trials and offers a wider range of targets, including options for multiple myeloma. India often costs less, has English-speaking care teams, and simpler medical visa routes for many patients. Your treating oncologist should weigh your disease status and fitness to travel before you commit to either.</p>"
+          },
+          {
+            "q": "Am I eligible for CAR-T therapy abroad?",
+            "a": "<p>Eligibility usually depends on having a B-cell cancer such as relapsed or refractory lymphoma, leukaemia or myeloma that returned after at least two earlier lines of treatment. Doctors also check organ function, infection status, blood counts and whether you are well enough to fly. Each hospital applies its own criteria, so one centre may accept you when another declines. Send recent reports for a formal review before booking travel.</p>"
+          },
+          {
+            "q": "What is CAR-T therapy and how does it actually work?",
+            "a": "<p>CAR-T therapy reprogrammes your own immune cells to hunt cancer. Doctors collect T cells from your blood, add a receptor in the laboratory that recognises a marker on your cancer cells, grow them in large numbers, then infuse them back after a short course of chemotherapy. The modified cells multiply inside your body and attack the cancer. It is normally a one-time infusion, not a repeated course of treatment.</p>"
+          },
+          {
+            "q": "What is the success rate of CAR-T therapy?",
+            "a": "<p>Response rates in relapsed B-cell lymphoma and leukaemia often reach 60 to 90 percent in the months after infusion, and roughly a third to a half of patients stay in remission long term. Myeloma responses are high but relapse is more common. Outcomes vary with disease type, tumour burden and how many treatments came before. No centre in China or India can promise a cure or a lasting remission.</p>"
+          },
+          {
+            "q": "How long do I need to stay in China or India for treatment?",
+            "a": "<p>Plan for about six to ten weeks in the treating country. That covers screening, cell collection, roughly two to four weeks of manufacturing, lymphodepleting chemotherapy, the infusion itself, and close monitoring for cytokine release syndrome and neurological side effects. Most centres ask you to stay nearby for at least four weeks after infusion. Manufacturing delays or infection can extend the stay, so keep your visa and flights flexible.</p>"
+          },
+          {
+            "q": "What are the side effects of CAR-T therapy?",
+            "a": "<p>The two main risks are cytokine release syndrome, which causes high fever, low blood pressure and breathing trouble, and neurological effects such as confusion, tremor or difficulty speaking. Both usually appear within the first two weeks and can often be reversed with drugs like tocilizumab and steroids. Low blood counts and infection risk may last for months. Severe reactions can be life threatening, which is why close monitoring matters.</p>"
+          },
+          {
+            "q": "Can I join a CAR-T clinical trial in China as a foreign patient?",
+            "a": "<p>Some Chinese centres do enrol international patients in CAR-T trials, but many studies are limited to residents or need a local referral and Chinese-language consent. Slots are few and screening is strict. Paid pilot studies sit alongside free academic trials, and that difference changes your costs considerably. CancerFax can help you send records to centres that review overseas applicants, though acceptance always rests with the trial team.</p>"
+          },
+          {
+            "q": "Is India's own CAR-T therapy as good as the imported products?",
+            "a": "<p>India's home-grown CD19 CAR-T has reported response rates broadly in line with older imported products in relapsed B-cell lymphoma and leukaemia, with a side effect profile many reports describe as milder. Follow-up is shorter than for products used in the United States and Europe, so long-term comparisons remain limited. The cost is far lower. Ask your haematologist how the published data applies to your specific disease.</p>"
+          },
+          {
+            "q": "How do I start the process of getting CAR-T therapy abroad?",
+            "a": "<p>Start by gathering your full medical file: biopsy and pathology reports, PET or CT scans, bone marrow results, treatment history and recent blood work. Send these to two or three centres so you can compare eligibility opinions, waiting times and written cost estimates. CancerFax can route your records to accredited hospitals in China and India. Apply for a medical visa only after a centre confirms it will treat you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

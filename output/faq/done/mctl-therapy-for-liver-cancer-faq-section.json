@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Therapy for Liver Cancer (HCC): What Patients Should Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-therapy-for-liver-cancer",
+  "route": "/insights/mctl-therapy-for-liver-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MCTL therapy for liver cancer?",
+            "a": "<p>MCTL therapy is a personalised cell-based immunotherapy in which your own immune cells are collected, trained in a laboratory to recognise several tumour targets at once, then infused back to attack liver cancer cells. It is offered mainly in China, usually alongside standard hepatocellular carcinoma treatment rather than instead of it. Whether it suits you depends on your stage, liver function and the treating centre's own criteria.</p>"
+          },
+          {
+            "q": "How does MCTL therapy actually work inside the body?",
+            "a": "<p>MCTL cells are trained to spot multiple markers found on liver cancer cells, so the immune system has more than one way to identify a tumour that is trying to hide. After infusion, these cells circulate and may recognise and kill remaining cancer cells.</p><p>Because HCC tumours vary a lot between patients, the strength of this response can differ, and doctors monitor it with scans and blood markers such as AFP.</p>"
+          },
+          {
+            "q": "Is MCTL therapy a cure for liver cancer?",
+            "a": "<p>No. MCTL therapy is not a cure for liver cancer, and no responsible centre should describe it as one. It is used to help control disease, reduce the chance of recurrence after surgery or ablation, and support quality of life. Some patients see tumour shrinkage or slower progression; others see little change. Results depend on tumour burden, liver function and what other treatments you have had.</p>"
+          },
+          {
+            "q": "Am I eligible for MCTL therapy if I have advanced HCC?",
+            "a": "<p>Eligibility usually depends on adequate liver function, a reasonable performance status, and enough healthy immune cells to collect. Many centres prefer Child-Pugh A or early B liver function and no uncontrolled infection or severe bleeding risk. Advanced disease does not automatically rule you out, but very poor liver function often does. Only the treating oncology team can confirm eligibility after reviewing your scans and blood work.</p>"
+          },
+          {
+            "q": "Is MCTL therapy approved, or is it still experimental?",
+            "a": "<p>MCTL therapy is considered investigational in most countries and is not an approved standard treatment for hepatocellular carcinoma worldwide. In China it is delivered in specialist centres and clinical study settings under local regulations. This means access, protocols and documentation vary between hospitals. Before travelling, ask exactly which regulatory pathway your treatment falls under and request that in writing from the hospital.</p>"
+          },
+          {
+            "q": "Where can I get MCTL therapy, and how do I arrange it?",
+            "a": "<p>MCTL therapy is currently offered mainly at specialist cell-therapy centres in China, which usually require your recent scans, pathology report and liver function tests before accepting a case. CancerFax can help you send those records to centres for review, though the final decision on suitability always rests with the treating oncology team. Acceptance is never guaranteed and can change if your condition changes before travel.</p>"
+          },
+          {
+            "q": "What does MCTL therapy cost, and is it covered by insurance?",
+            "a": "<p>Costs vary widely by centre, number of infusions and the supportive treatment given alongside it, and most international insurers do not cover investigational cell therapy abroad. Quotes often exclude accommodation, scans, hospital stays for complications, and return visits. Ask for an itemised written estimate covering the full treatment course, not a single infusion, and confirm what happens financially if you become ineligible after arriving.</p>"
+          },
+          {
+            "q": "What side effects should I expect from MCTL infusions?",
+            "a": "<p>The most commonly reported side effects are fever, chills, fatigue and mild flu-like symptoms in the hours or days after infusion, which usually settle with supportive care. Some patients have injection-site reactions or temporary changes in blood counts and liver enzymes.</p><p>Serious immune reactions are less common with this type of therapy than with some other cell treatments, but every patient needs monitoring by the treating team.</p>"
+          },
+          {
+            "q": "Can I have MCTL therapy along with TACE, surgery or immunotherapy drugs?",
+            "a": "<p>In most centres MCTL therapy is given as an add-on, often after surgery, ablation or TACE has reduced the tumour burden, or alongside systemic treatment. The timing matters, because chemotherapy and some drugs can temporarily lower the immune cells needed for collection. Your hepatologist and oncologist should agree the sequence together, and combining treatments across two countries needs careful coordination of records and follow-up.</p>"
+          },
+          {
+            "q": "How long does the whole MCTL treatment process take?",
+            "a": "<p>Expect roughly two to four weeks in total for a first course. Cells are collected from blood, then grown in the laboratory for about two weeks, followed by a series of infusions given over several days. Many centres recommend repeat courses every few months depending on response. CancerFax can help you plan the travel window, though hospitals may adjust the schedule based on how your cells grow.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

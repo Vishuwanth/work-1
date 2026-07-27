@@ -1,0 +1,59 @@
+{
+  "pillar": "B-Cell Aplasia After CD19 CAR-T: IVIG Replacement and Long-Term Management",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "b-cell-aplasia-after-car-t",
+  "route": "/insights/b-cell-aplasia-after-car-t",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is B-cell aplasia after CD19 CAR-T therapy?",
+            "a": "<p>B-cell aplasia means your normal B cells have been wiped out along with the cancer, because CD19 sits on healthy B cells too. It is an expected on-target side effect, not a sign that something went wrong. Without B cells your body makes fewer antibodies, so infection risk rises. Most centres monitor it with blood tests and manage it with immunoglobulin replacement for as long as it lasts.</p>"
+          },
+          {
+            "q": "How long does B-cell aplasia last after CAR-T?",
+            "a": "<p>It varies widely. Some people recover B cells within six to twelve months, while others stay aplastic for several years. Recovery usually tracks how long the CAR-T cells persist in your blood. Your team will check B-cell counts and immunoglobulin levels every few months rather than predicting a date. In many cases aplasia that lasts beyond two years is managed as a long-term condition rather than a complication.</p>"
+          },
+          {
+            "q": "Do I have to take IVIG after CAR-T?",
+            "a": "<p>Not everyone does. Most centres start immunoglobulin replacement when your IgG level falls low and you are getting repeated or serious infections, rather than automatically. Adults with mild drops and no infections are often just monitored. Children are treated more readily because their infection risk is higher. Whether you need it depends on your antibody levels, your infection history, and your own team's protocol, so the decision is individual.</p>"
+          },
+          {
+            "q": "What IgG level means I need immunoglobulin replacement?",
+            "a": "<p>Many centres use an IgG below roughly 400 mg/dL as the trigger, though some treat at higher levels if infections keep happening. The number alone is not the whole picture. A person at 350 mg/dL with no infections may be watched, while someone at 500 mg/dL with recurrent chest infections may be treated. Thresholds differ between hospitals and countries, so ask your team what target they aim for.</p>"
+          },
+          {
+            "q": "How often will I need IVIG infusions, and how long do they take?",
+            "a": "<p>Intravenous immunoglobulin is usually given every three to four weeks, and each infusion takes two to four hours in a day-care unit. Subcutaneous immunoglobulin is an alternative given weekly at home, often self-administered, which many patients prefer once they are stable. Your interval is set by your trough IgG level and how you feel between doses. Schedules can be stretched or shortened as your counts change.</p>"
+          },
+          {
+            "q": "Does B-cell aplasia mean my CAR-T is still working?",
+            "a": "<p>Often, yes. Ongoing B-cell aplasia suggests your CAR-T cells are still alive and still attacking CD19, which doctors read as a sign of continued disease control. Early return of normal B cells can hint that the CAR-T cells have faded, and some teams watch for it as a warning to look harder for relapse. It is a useful clue, not a guarantee, so scans and marrow tests still matter.</p>"
+          },
+          {
+            "q": "Which infections should I watch for, and when do I call the hospital?",
+            "a": "<p>Call your team the same day for fever above 38C, breathlessness, a cough that will not settle, or shaking chills. Low antibody levels mainly raise the risk of chest and sinus infections from encapsulated bacteria, and viral infections can linger longer than usual. Many patients stay on preventive antibiotics and antivirals for months. Do not wait to see whether it passes, because early treatment usually prevents a hospital admission.</p>"
+          },
+          {
+            "q": "Can I get vaccines while I have B-cell aplasia?",
+            "a": "<p>Live vaccines are avoided, but inactivated ones such as flu and COVID shots are generally safe. The catch is that they may not work well, because you need B cells to make antibodies. Most teams wait until B cells recover before starting a full revaccination schedule, often six to twelve months after CAR-T. Household members being vaccinated protects you too, so ask your team about timing for the whole family.</p>"
+          },
+          {
+            "q": "What does long-term IVIG cost after CAR-T abroad?",
+            "a": "<p>Costs vary a lot by country and by how much you weigh, since dosing is weight-based. In India, one infusion cycle often runs a few hundred to a couple of thousand US dollars, and prices in China differ again. Insurance cover for long-term replacement is not automatic anywhere. CancerFax can help you ask a treating centre for a written estimate before you travel, but final pricing always comes from the hospital.</p>"
+          },
+          {
+            "q": "Can I stop IVIG once my B cells come back?",
+            "a": "<p>Usually yes, but the decision is made gradually. Teams typically look for returning B cells, an IgG level that holds steady off replacement, and a stretch of time without serious infections before stopping. Many people have a trial break with blood tests every few weeks to confirm the level does not drop again. Some restart later. This depends on your own results, so it is not a fixed rule.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Liver RFA Complications: Recognition, Management, and When to Seek Help",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "liver-rfa-complications",
+  "route": "/insights/liver-rfa-complications",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most common complications after liver RFA?",
+            "a": "<p>Most people recover from liver RFA with only mild problems: soreness at the puncture site, a low fever and tiredness for a few days. Serious complications occur in roughly two to three percent of procedures and can include bleeding, infection or abscess, bile duct injury, and injury to nearby bowel or the diaphragm. Risk tends to rise with larger tumours, repeat ablations, and tumours sitting close to other organs.</p>"
+          },
+          {
+            "q": "Is a fever after liver RFA normal, or a sign of infection?",
+            "a": "<p>A low fever in the first few days is usually normal, caused by your body clearing the destroyed tumour tissue, and it often settles within a week. A fever above 38.5 degrees Celsius, one that begins after the first week, or one with chills, worsening pain or confusion may point to infection or an abscess. That needs urgent review rather than waiting to see if it passes.</p>"
+          },
+          {
+            "q": "How much pain is normal afterwards, and when should I worry?",
+            "a": "<p>A dull ache under the right ribs, sometimes felt in the right shoulder, is expected for three to seven days, and simple painkillers usually control it. Worry if the pain is severe, keeps getting worse, spreads across your abdomen, or comes with a rigid tender belly, dizziness or a racing pulse. Those signs can mean bleeding or bowel injury and should be assessed the same day.</p>"
+          },
+          {
+            "q": "What is post-ablation syndrome and how long does it last?",
+            "a": "<p>Post-ablation syndrome is the flu-like reaction many patients have as the body absorbs destroyed tumour tissue: low fever, tiredness, muscle aches, nausea and poor appetite. It usually starts within a day or two and fades in three to ten days, though it can last longer after a large ablation. Rest, fluids and paracetamol are often enough. Symptoms that worsen after the first week are less likely to be this.</p>"
+          },
+          {
+            "q": "What warning signs mean I should go to hospital immediately?",
+            "a": "<p>Go to an emergency department for heavy or worsening abdominal pain, a hard or swollen belly, fever with chills, yellowing of the eyes or skin, black or bloody stools, breathlessness, chest pain, or feeling faint. Confusion, drowsiness or passing much less urine can signal liver decompensation in people with cirrhosis. Take your procedure report and recent scans with you so the emergency team knows exactly what was done.</p>"
+          },
+          {
+            "q": "Can liver RFA damage my bile duct?",
+            "a": "<p>Yes. Bile duct injury is an uncommon but recognised complication, and it is more likely when the tumour sits close to a central duct. It may show up as jaundice, itching, pale stools, dark urine or a rising bilirubin on blood tests, sometimes several weeks later. Treatment can involve drainage or a stent placed endoscopically. Report any yellowing early, because a narrowed duct is easier to manage before infection sets in.</p>"
+          },
+          {
+            "q": "What is a liver abscess after RFA, and how is it treated?",
+            "a": "<p>A liver abscess is a pocket of infection in the ablated area, usually appearing one to four weeks afterwards with fever, chills, right-sided pain and feeling generally unwell. It is more common in patients whose bile duct has been surgically altered or stented. Treatment is antibiotics and, in many cases, a drain placed through the skin under imaging guidance. Most people recover, but it often means a further hospital stay.</p>"
+          },
+          {
+            "q": "Can the tumour spread along the needle track?",
+            "a": "<p>Tumour seeding along the needle track is rare, reported in well under one percent of liver ablations, and teams reduce the risk by heating the track as the probe is withdrawn. It is somewhat more likely with tumours just under the liver surface, aggressive tumour types, and lesions biopsied more than once. Follow-up scans look for it, and if it is found it can often be removed or ablated again.</p>"
+          },
+          {
+            "q": "How soon do complications appear, and what if I have already flown home?",
+            "a": "<p>Bleeding and organ injury usually declare themselves within 24 to 48 hours, which is why hospitals keep you overnight. Abscess, bile duct problems and delayed jaundice can appear two to six weeks later, often after you have travelled home. Before leaving, ask for your discharge summary, ablation images and a written list of warning signs in English, and line up a local doctor who can see you quickly.</p>"
+          },
+          {
+            "q": "Who should I contact if a problem starts after treatment abroad?",
+            "a": "<p>Contact your local doctor or emergency service first for anything urgent, because remote advice is unsafe when you are acutely unwell. In parallel, send your discharge summary and any new scans back to the hospital that treated you, since they know exactly what was ablated and where. CancerFax can help pass those records to the treating team abroad and return their written view, which your local oncologist can then act on.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

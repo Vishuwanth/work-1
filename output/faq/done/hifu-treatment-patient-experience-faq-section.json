@@ -1,0 +1,59 @@
+{
+  "pillar": "What to Expect During HIFU Treatment: A Patient Experience Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-treatment-patient-experience",
+  "route": "/insights/hifu-treatment-patient-experience",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Does HIFU treatment hurt?",
+            "a": "<p>You should not feel pain during HIFU, because the procedure is done under general or spinal anaesthesia. Afterwards, most people describe discomfort rather than pain: a burning feeling when passing urine, pelvic heaviness, or soreness for a few days. Simple painkillers usually control this. How much you feel depends on the area treated, how large the target is, and your own healing, so ask your team what to expect.</p>"
+          },
+          {
+            "q": "How long does the HIFU procedure itself take?",
+            "a": "<p>Most HIFU procedures take one to three hours, depending on how much tissue is being treated. Whole-gland prostate HIFU sits at the longer end, while focal HIFU aimed at a single area is often finished in about an hour. You will also spend time in preparation and recovery, so plan for most of the day at the hospital. Your team can give a closer estimate once your scans and treatment plan are ready.</p>"
+          },
+          {
+            "q": "Will I be awake during HIFU?",
+            "a": "<p>No, you will usually be asleep under general anaesthesia, or numb from the waist down with a spinal block. You need to stay completely still so the ultrasound beam reaches only the target, which is why anaesthesia is standard rather than optional. The anaesthetist will discuss which option suits your heart, lungs and any past surgery. Some centres use lighter sedation for small focal treatments, depending on their own protocol.</p>"
+          },
+          {
+            "q": "How do I get ready for HIFU?",
+            "a": "<p>Preparation usually means pausing blood thinners if your doctor instructs it, taking an enema or laxative the night before to empty the bowel, fasting from midnight, and receiving antibiotics on the day. Bring your recent MRI and biopsy reports with you. Arrange for someone to take you home, since you cannot drive after anaesthesia. Instructions vary between hospitals, so follow the written list your centre gives you.</p>"
+          },
+          {
+            "q": "Will I need a catheter after HIFU?",
+            "a": "<p>Yes, in most cases. Swelling after treatment can make passing urine difficult, so a catheter drains the bladder while that settles. It commonly stays in for three to seven days, and sometimes up to two weeks after whole-gland treatment. Some centres place a small tube through the abdomen instead of the urethra. Your surgeon removes it once you can empty your bladder comfortably on your own.</p>"
+          },
+          {
+            "q": "How long before I feel back to normal?",
+            "a": "<p>Most people go home within a day and return to light activity inside a week. Desk work is often possible after seven to ten days, while heavy lifting, cycling and long flights usually wait three to four weeks. Tiredness, blood in the urine and a weak stream can linger for several weeks after that. Recovery speed depends on your age, the size of the treated area and any other health conditions.</p>"
+          },
+          {
+            "q": "What side effects should I expect after HIFU?",
+            "a": "<p>The common ones are urinary urgency, a weak or slow stream, blood or debris in the urine, and fatigue. A urinary infection happens in a minority of patients and is treated with antibiotics. Less often, HIFU can cause narrowing of the urinary passage or leakage that needs further treatment.</p><p>Serious complications such as a fistula are rare. Report fever, heavy bleeding, or inability to pass urine to your team immediately.</p>"
+          },
+          {
+            "q": "Will HIFU affect my erections?",
+            "a": "<p>Erection problems can happen, but they are reported less often after HIFU than after surgery or full-dose radiation, particularly with focal treatment that spares the nerve bundles on one side. Many men who had good function beforehand regain it within six to twelve months, sometimes helped by medication or a vacuum device. Your starting function, your age and how close the tumour sits to those nerves all affect the result.</p>"
+          },
+          {
+            "q": "How will I know whether the HIFU worked?",
+            "a": "<p>Follow-up combines PSA blood tests, MRI scans, and often a biopsy of the treated area at around twelve months. PSA usually falls over three to six months and is then watched for any rise. An MRI at six to twelve months shows whether the treated tissue has scarred as expected. No single test settles it alone, so your oncologist reads them together before calling the treatment successful.</p>"
+          },
+          {
+            "q": "What should I plan for if I travel abroad for HIFU?",
+            "a": "<p>Plan for roughly two to three weeks in the country: pre-treatment scans and tests, the procedure, catheter removal, and a follow-up review before you fly home. Bring your MRI images, biopsy slides and pathology reports, since most centres will want to review them again. Teams such as CancerFax can help you compare centres in India or China and organise records, though eligibility and final cost are confirmed by the treating hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

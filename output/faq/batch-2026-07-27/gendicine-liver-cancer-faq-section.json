@@ -1,0 +1,59 @@
+{
+  "pillar": "Gendicine for Liver Cancer: HCC, Cholangiocarcinoma, and Hepatic Metastases",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "gendicine-liver-cancer",
+  "route": "/guides/gendicine-liver-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can Gendicine treat my liver cancer?",
+            "a": "<p>Gendicine may be used for liver cancer, but it is approved in China only for head and neck cancer, so liver use is off-label. For hepatocellular carcinoma it is almost always combined with transarterial chemoembolisation (TACE) or ablation rather than given alone. Doctors inject it into the tumour or infuse it through the hepatic artery. Evidence comes from small Chinese studies, and eligibility depends on your liver function and how far the disease has spread.</p>"
+          },
+          {
+            "q": "How does Gendicine actually work?",
+            "a": "<p>Gendicine carries a working copy of the p53 gene into tumour cells using a modified common-cold virus as the delivery vehicle. p53 normally tells damaged cells to stop dividing and die, and in most liver cancers it is mutated or switched off. Restoring it can make tumour cells more sensitive to chemotherapy, embolisation and radiation. It is not a standalone cure, and response often depends on the tumour's own p53 status.</p>"
+          },
+          {
+            "q": "How is Gendicine given for a liver tumour?",
+            "a": "<p>Gendicine is injected directly into liver tumours under ultrasound or CT guidance, or infused through the hepatic artery during a TACE procedure. A course typically runs weekly for four to eight injections, often timed around chemoembolisation or ablation sessions. Each session is short, and many patients go home the same day or after one night in hospital. The exact schedule depends on tumour size, lesion count and your liver reserve.</p>"
+          },
+          {
+            "q": "Does Gendicine work for cholangiocarcinoma (bile duct cancer)?",
+            "a": "<p>Evidence for Gendicine in cholangiocarcinoma is thin. Most published Chinese experience is in hepatocellular carcinoma, with only small series and case reports covering bile duct tumours, usually alongside chemotherapy or local ablation. Some centres offer it when standard options are exhausted. Because the data is weak, any benefit is uncertain, and your oncology team should weigh it against clinical trials that may offer better-studied treatments for bile duct cancer.</p>"
+          },
+          {
+            "q": "Can it help if cancer has spread to my liver from somewhere else?",
+            "a": "<p>Gendicine has been used for liver metastases from colorectal, breast and other cancers, but nearly always as a local add-on to chemotherapy or hepatic artery procedures. It targets tumour deposits inside the liver and does not treat disease elsewhere in the body. Doctors may consider it when metastases are confined to the liver and liver function is adequate. Benefit varies, and systemic treatment usually remains the backbone of your care.</p>"
+          },
+          {
+            "q": "What are the side effects of Gendicine?",
+            "a": "<p>The most common side effect is a short-lived fever, usually starting three to six hours after injection and settling within a day. Flu-like aches, chills, injection-site pain and mild fatigue are also reported. Serious reactions appear uncommon in published series, but people with poor liver function, active infection or weakened immunity need careful assessment first.</p><p>Tell your team about fever lasting beyond 48 hours, jaundice or worsening abdominal pain.</p>"
+          },
+          {
+            "q": "How much does Gendicine cost in China?",
+            "a": "<p>A single Gendicine vial commonly costs around USD 300 to 500 in China, and a full course of eight to twelve vials often falls between USD 3,000 and 6,000. That figure excludes the TACE or ablation procedure, hospital stay, scans and follow-up, which can add several thousand dollars more. Prices differ between hospitals and change over time, so treat any quote as an estimate until the hospital confirms it in writing.</p>"
+          },
+          {
+            "q": "Can I get Gendicine outside China?",
+            "a": "<p>Gendicine is licensed only in China and is not approved in the United States, Europe or India, so patients generally travel to a Chinese hospital to receive it. It is not usually exported or given at home. CancerFax can help you send scans and reports to Chinese centres for review, though the decision to treat rests with that hospital's oncology team and depends on your full medical record.</p>"
+          },
+          {
+            "q": "Will Gendicine help me live longer?",
+            "a": "<p>Small Chinese studies report higher tumour response rates when Gendicine is added to TACE compared with TACE alone, and some series suggest a longer gap before the tumour regrows. These trials were mostly small, single-centre and not blinded, so a survival benefit remains unproven by international standards. It may help control disease inside the liver, but it is not a substitute for surgery, transplant or approved systemic therapy.</p>"
+          },
+          {
+            "q": "How do I find out if I am eligible?",
+            "a": "<p>Eligibility usually depends on preserved liver function, tumours reachable by needle or hepatic artery, adequate blood counts and no uncontrolled infection. Advanced cirrhosis, widespread disease outside the liver or poor performance status often rule it out. Hospitals will want recent scans, liver panels and pathology before deciding. CancerFax can pass those records to treating centres, but only the oncology team there can confirm whether you qualify.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

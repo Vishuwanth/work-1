@@ -1,0 +1,59 @@
+{
+  "pillar": "Accessing HIFU Through CancerFax: Patient Navigation Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-patient-navigation",
+  "route": "/insights/hifu-patient-navigation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIFU and how does it treat cancer?",
+            "a": "<p>HIFU, or high-intensity focused ultrasound, destroys tumour tissue by focusing sound waves to heat a small target to around 80–90°C without cutting the skin. A probe delivers the energy under MRI or ultrasound guidance, so nearby healthy tissue is largely spared. It is used most often for localised prostate cancer, and in some centres for liver, pancreatic, bone and uterine tumours. Suitability depends on tumour size, position and how clearly it shows on imaging.</p>"
+          },
+          {
+            "q": "Am I eligible for HIFU?",
+            "a": "<p>Eligibility usually depends on having a tumour that is localised, clearly visible on imaging, and reachable by the ultrasound beam without bone or air blocking the path. For prostate cancer, many centres accept low to intermediate risk disease confined to one side of the gland. Gland size, heavy calcification and previous radiation can rule people out. Only a HIFU team that has reviewed your scans and pathology can confirm whether you may qualify.</p>"
+          },
+          {
+            "q": "How do I get started if I want HIFU abroad?",
+            "a": "<p>Start by gathering your complete records: recent MRI or CT images on disc, biopsy and pathology reports, PSA or tumour marker history, and a summary letter from your treating doctor. These are sent to the overseas centre for a remote review, which often returns an opinion within a few working days.</p><p>CancerFax can help route your file to HIFU centres in India and China, though the treating oncology team makes the final decision on suitability.</p>"
+          },
+          {
+            "q": "How long will I need to stay abroad?",
+            "a": "<p>Most patients plan for about seven to ten days. That typically covers arrival and pre-treatment scans, blood tests and an anaesthetic review, the HIFU session itself, and a follow-up check before flying home. The procedure usually takes one to four hours and often needs only a single night in hospital. Delays can happen if pre-treatment scans show something unexpected, so keep your return booking flexible where you can.</p>"
+          },
+          {
+            "q": "How much does HIFU cost in India or China?",
+            "a": "<p>Prostate HIFU commonly costs roughly USD 5,000–9,000 in India and USD 8,000–15,000 in China, with liver and pancreatic treatment often higher. Quotes usually cover the procedure, anaesthesia, imaging and a short hospital stay, but not flights, accommodation, visas or extended follow-up. Prices vary by hospital and by how many sessions are needed. Ask for a written, itemised quote before you travel, as figures can change without notice.</p>"
+          },
+          {
+            "q": "What visa and paperwork do I need?",
+            "a": "<p>You will generally need a medical visa, which requires an invitation or appointment letter from the treating hospital, your passport, and proof of funds. India issues medical visas along with attendant visas for one or two family members, and China has a similar route. Processing can take one to three weeks depending on your country. Apply only after the hospital confirms in writing that you may be accepted for treatment.</p>"
+          },
+          {
+            "q": "Does HIFU hurt, and what is recovery like?",
+            "a": "<p>The procedure itself is not painful because it is done under general or spinal anaesthesia. Afterwards most people feel tired and sore rather than in severe pain, and many are walking the same day. Prostate patients usually go home with a urinary catheter for about one to two weeks. Normal activity often resumes within a fortnight, though your team may ask you to avoid heavy lifting for longer.</p>"
+          },
+          {
+            "q": "What are the side effects of HIFU?",
+            "a": "<p>The most common problems after prostate HIFU are temporary difficulty passing urine, urinary tract infection, and changes in erections, which affect a minority of men and often improve over several months. Less commonly there is urine leakage, narrowing of the urinary passage, or a fistula. For liver or pancreatic HIFU, skin burns and local pain can occur. Risk depends on tumour position and earlier treatment, so ask for centre-specific figures.</p>"
+          },
+          {
+            "q": "How well does HIFU work, and will it cure my cancer?",
+            "a": "<p>Published series for localised prostate cancer report that roughly 70–90% of men remain free of significant cancer five years after focal HIFU, with some needing a second HIFU session, surgery or radiotherapy later. For liver and pancreatic tumours, the aim is more often controlling growth and pain than cure. No team can promise a cure, and results depend heavily on stage, grade and how completely the tumour is treated.</p>"
+          },
+          {
+            "q": "What happens after I fly home?",
+            "a": "<p>Follow-up usually means PSA or tumour marker tests every three months for the first two years, plus an MRI at around six to twelve months, arranged with your oncologist at home. Before leaving the hospital, ask for a discharge summary, the operative note, imaging on disc, and a named contact for later questions.</p><p>CancerFax can help pass these reports between the overseas centre and your local team where that is useful.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

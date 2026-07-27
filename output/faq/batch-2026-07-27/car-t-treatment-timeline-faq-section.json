@@ -1,0 +1,59 @@
+{
+  "pillar": "The CAR-T Treatment Timeline: From Leukapheresis to Discharge",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-treatment-timeline",
+  "route": "/insights/car-t-treatment-timeline",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long does the whole CAR-T process take from start to finish?",
+            "a": "<p>From leukapheresis to discharge, CAR-T treatment usually takes six to ten weeks. Cell collection takes about one day, manufacturing runs two to five weeks, lymphodepleting chemotherapy adds three to five days, and the hospital stay after infusion is often two to three weeks. Your own schedule can run longer if you need bridging treatment or if manufacturing is delayed, so ask your team for a dated plan.</p>"
+          },
+          {
+            "q": "What actually happens during leukapheresis, and how long am I there?",
+            "a": "<p>Leukapheresis is a single outpatient session lasting three to five hours in which a machine collects your T cells and returns the rest of your blood to you. Most patients sit awake in a chair with a line in each arm or a central catheter. Some people need a second session if the first collection is too small, and low blood counts on the day may push the appointment back.</p>"
+          },
+          {
+            "q": "Why does it take weeks to make my CAR-T cells?",
+            "a": "<p>Manufacturing usually takes two to five weeks from the day of collection. The laboratory adds the CAR gene to your T cells, grows them to the target dose, then runs sterility and potency tests before the batch can be released. Cross-border shipping adds several days. In a small number of cases the cells do not grow well enough and collection has to be repeated, so dates may shift.</p>"
+          },
+          {
+            "q": "What is bridging therapy and will I need it while I wait?",
+            "a": "<p>Bridging therapy is treatment given during the manufacturing wait to keep your disease under control. It may be chemotherapy, targeted drugs, steroids or radiotherapy, and it usually starts a few days after leukapheresis and stops about a week before lymphodepletion. Not everyone needs it. Your oncologist decides based on how fast your disease is moving and how well you tolerated earlier lines of treatment.</p>"
+          },
+          {
+            "q": "What is lymphodepleting chemotherapy and when is it given?",
+            "a": "<p>Lymphodepleting chemotherapy is a short, low-dose course, usually fludarabine and cyclophosphamide, given over about three days and finishing two to seven days before your infusion. It clears space in your immune system so the infused CAR-T cells can expand. Side effects are typically mild nausea and low blood counts rather than the heavy toxicity of transplant conditioning. Some centres give it as an outpatient, while others admit you.</p>"
+          },
+          {
+            "q": "How long will I be in hospital after the infusion?",
+            "a": "<p>Most patients stay in hospital for two to three weeks after the CAR-T infusion. The infusion itself takes under an hour and feels much like a blood transfusion. The days that follow are for close monitoring of temperature, blood pressure and neurological checks, since immune reactions usually appear in the first week. Discharge depends on stable observations and no active fever, so the exact date is decided day by day.</p>"
+          },
+          {
+            "q": "When do side effects like cytokine release syndrome usually start?",
+            "a": "<p>Cytokine release syndrome most often starts two to seven days after infusion and usually settles within one to two weeks. It typically begins with fever, and in more severe cases low blood pressure or breathlessness follow. Neurological effects such as confusion or difficulty finding words tend to appear slightly later, within the first fortnight. Wards running CAR-T keep tocilizumab, steroids and intensive care support on standby throughout.</p>"
+          },
+          {
+            "q": "Why do I have to stay near the hospital after I am discharged?",
+            "a": "<p>Most centres ask you to stay within one to two hours of the hospital for about four weeks after discharge. Delayed fevers, neurological changes and infections can appear after you leave the ward, and these need same-day assessment. You will also have frequent clinic visits and blood tests in this period. CancerFax can help arrange nearby accommodation, but the medical rules always come from your treating hospital.</p>"
+          },
+          {
+            "q": "What can delay my CAR-T timeline?",
+            "a": "<p>Delays are common and worth planning for. The usual causes are a low T-cell yield at collection, a manufacturing batch that fails release testing, disease that flares during the wait, infection, or no free bed on the planned admission date. Insurance approval and, for international patients, visas and shipping paperwork can add further weeks. Ask your coordinator to confirm each date in writing as it is fixed.</p>"
+          },
+          {
+            "q": "How soon will I know whether the CAR-T treatment worked?",
+            "a": "<p>The first response assessment is usually a scan or bone marrow test about one month after infusion, with a second check at around three months. Many patients notice blood counts and symptoms improving sooner than that. Early results can still change, so doctors follow you for at least a year before discussing durable remission. Response rates vary widely by disease type and by disease burden before infusion.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

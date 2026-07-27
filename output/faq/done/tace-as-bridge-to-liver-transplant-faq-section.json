@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE as Bridge to Liver Transplant: How It Works and What the Evidence Shows",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-as-bridge-to-liver-transplant",
+  "route": "/insights/tace-as-bridge-to-liver-transplant",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does it mean to use TACE as a bridge to liver transplant?",
+            "a": "<p>Bridging with TACE means using transarterial chemoembolisation to control your liver tumour while you wait for a donor organ. Chemotherapy is delivered straight into the artery feeding the tumour, and that vessel is then blocked so the drug stays put and the tumour loses its blood supply. The goal is not cure. It is to stop the cancer growing past transplant criteria before your turn comes.</p>"
+          },
+          {
+            "q": "Why do I need any treatment if I am already on the transplant list?",
+            "a": "<p>Waiting time is the risk. Liver cancer can grow while you sit on the list, and if a tumour outgrows the size limits your centre uses, you may be removed and lose the transplant. Bridging treatment such as TACE holds the disease steady during that wait. Where waits run beyond six months, most centres treat bridging as standard rather than optional, though your hepatologist decides based on your tumour and liver function.</p>"
+          },
+          {
+            "q": "Does TACE actually stop me from falling off the transplant list?",
+            "a": "<p>In most published series TACE keeps roughly 85 to 95 percent of patients on the list at one year, compared with dropout rates that can reach 20 to 30 percent without bridging. The benefit is largest for people facing long waits. These are observational numbers rather than results from large randomised trials, so your own risk depends on tumour size, number of lesions, and how long your centre's list runs.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need before my transplant?",
+            "a": "<p>Most patients have one to three sessions, spaced six to eight weeks apart, with scans between them. Treatment is repeated only if imaging shows living tumour left behind. Some people need more if the wait stretches past a year, and some need none after a strong first response. Your team balances tumour control against the strain each session puts on liver function, so the number is decided as you go.</p>"
+          },
+          {
+            "q": "Will TACE before transplant improve how long I live afterwards?",
+            "a": "<p>Evidence suggests bridged patients do at least as well after transplant as untreated ones, with five-year survival often reported around 70 to 75 percent in people transplanted within standard criteria. What TACE reliably does is get more people to transplant at all, which is where much of the survival gain comes from. Direct proof that bridging itself extends post-transplant survival is limited, so treat these figures as guidance.</p>"
+          },
+          {
+            "q": "What is the difference between bridging and downstaging?",
+            "a": "<p>Bridging keeps a tumour that already meets transplant criteria from growing past them. Downstaging shrinks a tumour that is currently too large or too numerous until it falls back inside those limits. The procedure is the same; the starting point is different. Downstaging usually requires a sustained response over three to six months before listing, and not everyone responds well enough to become eligible.</p>"
+          },
+          {
+            "q": "What will I feel after a TACE session?",
+            "a": "<p>Most people get post-embolisation syndrome: fever, pain under the right ribs, nausea, and fatigue lasting three to seven days. This is expected rather than a complication, and it is managed with pain relief and fluids during a short hospital stay. Serious problems such as liver abscess or worsening liver failure affect a small minority. Tell your team quickly about high fever, severe pain, or yellowing skin.</p>"
+          },
+          {
+            "q": "Can TACE damage my liver enough to cost me the transplant?",
+            "a": "<p>It can, which is why patient selection matters so much. TACE kills some healthy liver tissue alongside the tumour, and in people with poor baseline liver function or blocked portal veins it may tip them into decompensation. Centres screen for this before every session. Selective and drug-eluting bead techniques target smaller areas and reduce that risk, but no approach removes it completely, so the decision is reviewed each time.</p>"
+          },
+          {
+            "q": "Is TACE better than ablation or radiation as a bridge?",
+            "a": "<p>For tumours under three centimetres, ablation often gives more complete tumour death and is usually preferred. TACE tends to be chosen for larger lesions, several tumours at once, or spots a needle cannot reach safely. Radiation approaches such as SBRT and radioembolisation are used when those options fail or are unsuitable. Many centres combine methods, and the right choice depends on tumour position and remaining liver reserve.</p>"
+          },
+          {
+            "q": "Can I get TACE bridging treatment in India or China while I wait?",
+            "a": "<p>Yes. Large transplant centres in both countries offer TACE alongside living-donor and deceased-donor programmes, often at a fraction of Western costs, and living-donor transplant in India can shorten the wait considerably. Eligibility, residency rules, and organ allocation policies vary by country and hospital. CancerFax can help you send scans and reports to these centres for review, but your treating oncology team should approve any plan first.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

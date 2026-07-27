@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU Technology Platforms: HAIFU, JC Systems, and MRI-Guided HIFU Compared",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-technology-platforms",
+  "route": "/insights/hifu-technology-platforms",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the difference between HAIFU and MRI-guided HIFU?",
+            "a": "<p>The main difference is how the doctor sees your tumour during treatment. HAIFU systems from Chongqing use live ultrasound imaging to aim the beam, while MRI-guided platforms such as Exablate use magnetic resonance images plus real-time temperature mapping. Ultrasound guidance is faster and cheaper to run; MRI guidance shows soft tissue and heating more precisely. Which one suits you often depends on the tumour site and what your chosen centre actually operates.</p>"
+          },
+          {
+            "q": "Is the JC system the same thing as HAIFU?",
+            "a": "<p>Yes. JC and JC200 are model names for the Chongqing Haifu extracorporeal HIFU platforms, so HAIFU describes the family and JC describes the specific machine. JC200 is the newer version, with a wider treatment window and improved real-time ultrasound imaging.</p><p>Both treat tumours from outside the body, mainly in the liver, pancreas, bone and uterus. Availability varies by hospital, and not every tumour can be reached by these systems.</p>"
+          },
+          {
+            "q": "Which HIFU machine is used for prostate cancer?",
+            "a": "<p>Prostate HIFU is usually delivered on a transrectal platform: Sonablate or Focal One, previously called Ablatherm, in Europe and the United States. These devices treat through the rectal wall under ultrasound guidance, and Focal One adds fusion with your MRI scan so only the cancerous zone is targeted. Some Chinese centres use body systems instead. Eligibility depends on tumour grade, size and position, so a urologist must review your scans first.</p>"
+          },
+          {
+            "q": "Which platform is better for liver and pancreatic tumours?",
+            "a": "<p>Extracorporeal HAIFU JC-type systems are the usual choice for liver and pancreatic tumours, because they push high acoustic power through the abdominal wall and can reach deep lesions. MRI-guided units are used less often here, since breathing motion makes MRI temperature mapping harder. Results still depend on rib shadowing, bowel gas and how much of the tumour the beam can actually reach, so careful imaging review comes before any booking.</p>"
+          },
+          {
+            "q": "Can MRI-guided HIFU help with painful bone metastases?",
+            "a": "<p>Yes, and this is one of its strongest uses. MRI-guided HIFU is approved in several countries for painful bone metastases, and most published pain-relief data comes from these platforms. The MRI shows the bone surface and measures heating as it happens, which helps protect nearby nerves. Many patients report less pain within days, though relief is not guaranteed and some need a second session. Your radiation oncologist can compare this against radiotherapy.</p>"
+          },
+          {
+            "q": "Is ultrasound guidance less accurate than MRI guidance?",
+            "a": "<p>Not necessarily less accurate, but it gives different information. Ultrasound guidance shows the target live and picks up the grey-scale change that follows ablation, though it cannot measure temperature directly. MRI guidance maps heat degree by degree and shows the treated volume immediately afterwards. In practice, experienced operators achieve good ablation on either system, and the tumour site often decides the choice more than the imaging method does.</p>"
+          },
+          {
+            "q": "Will I need general anaesthesia, and does it depend on the machine?",
+            "a": "<p>Usually yes, and the platform does affect it. Extracorporeal HAIFU for liver, pancreatic or bone tumours generally uses general anaesthesia, because sessions can run for hours and you must stay completely still. Prostate HIFU on Sonablate or Focal One is done under spinal or general anaesthesia in one sitting. MRI-guided fibroid and bone treatment often needs sedation only. Your anaesthetist decides based on the site and your general fitness.</p>"
+          },
+          {
+            "q": "How much does HIFU cost on these different platforms?",
+            "a": "<p>Costs vary widely by platform and country. Extracorporeal HAIFU in China or India is often a fraction of MRI-guided treatment in Europe or the United States, largely because MRI scanner time is expensive. Prostate HIFU on Sonablate or Focal One usually sits in between.</p><p>Quotes may or may not include imaging, anaesthesia and hospital stay. CancerFax can help you request current, itemised estimates from the treating hospitals.</p>"
+          },
+          {
+            "q": "Where can I actually find these HIFU machines in India and China?",
+            "a": "<p>Chongqing Haifu JC and JC200 systems are concentrated in Chinese hospitals, with Chongqing itself the original centre, and a smaller number operate in Indian tertiary hospitals. MRI-guided platforms are rarer in both countries and mostly sit in large academic centres.</p><p>Machine availability changes as hospitals upgrade equipment, so confirm before travelling. CancerFax can check which platforms are running and accepting international patients.</p>"
+          },
+          {
+            "q": "How will doctors know the tumour was actually destroyed?",
+            "a": "<p>Confirmation comes from contrast imaging after treatment, not from the machine itself. Most centres repeat a contrast MRI or CT scan within one to three months and look for a non-enhancing dead zone where the tumour was. MRI-guided platforms can show an early picture on the treatment day, while HAIFU centres rely mainly on follow-up scans. Residual tumour can occur on any platform and may need a further session or a different treatment.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

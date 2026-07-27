@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE for Colorectal Liver Metastases: Evidence, Technique (DEBIRI), and Patient Selection",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-for-colorectal-liver-metastases",
+  "route": "/insights/tace-for-colorectal-liver-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TACE, and how does it treat colorectal cancer that has spread to my liver?",
+            "a": "<p>TACE delivers chemotherapy straight into the arteries feeding your liver tumours, then blocks those arteries so the drug stays trapped inside the cancer. Liver metastases draw most of their blood supply from the hepatic artery, while healthy liver tissue is fed mainly by the portal vein, so the treatment concentrates on tumour and largely spares normal liver. It is done through a small puncture in the groin or wrist, without open surgery.</p>"
+          },
+          {
+            "q": "What does DEBIRI stand for?",
+            "a": "<p>DEBIRI means drug-eluting bead irinotecan: tiny beads loaded with the chemotherapy drug irinotecan and injected into the artery supplying the tumour. The beads block blood flow and then release irinotecan slowly over several days, giving a high dose inside the tumour with much lower drug levels circulating through the rest of the body. DEBIRI is the most studied form of TACE for colorectal liver metastases, and most published protocols use it.</p>"
+          },
+          {
+            "q": "Does the evidence show TACE actually helps in colorectal liver metastases?",
+            "a": "<p>Randomised and cohort studies suggest DEBIRI can improve tumour response, and in some trials survival, when added to systemic chemotherapy or used after chemotherapy stops working. Results vary widely between studies, patient groups, and centres, and it is not yet standard first-line treatment in most guidelines. Your oncologist will weigh this evidence against your disease pattern, liver function, and prior treatment lines before recommending it.</p>"
+          },
+          {
+            "q": "Am I a candidate for DEBIRI TACE?",
+            "a": "<p>You may be a candidate if the cancer is confined to the liver or the liver is the dominant site of disease, liver function is reasonably preserved, and the portal vein is open. Teams also look at how much of the liver is involved, often under half, and at your general fitness.</p><p>Eligibility depends on imaging, blood tests, and review by an interventional radiologist. CancerFax can help route your scans for that assessment, though the decision rests with your treating team.</p>"
+          },
+          {
+            "q": "Does TACE replace my chemotherapy?",
+            "a": "<p>No, TACE is usually added to systemic treatment rather than used instead of it. Colorectal cancer that has reached the liver is treated as a whole-body disease, so chemotherapy or targeted drugs are still needed to address microscopic spread elsewhere, while TACE targets what imaging can see inside the liver. Patients who can no longer tolerate systemic drugs are sometimes offered TACE alone, but that judgement belongs to the treating oncology team.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need, and how far apart?",
+            "a": "<p>Most patients receive two to four sessions, commonly spaced four to six weeks apart, with scans between cycles to check response. Some protocols alternate treatment between the right and left halves of the liver so the organ is not stressed all at once. The final number depends on how the tumours respond, how well your liver recovers between sessions, and whether new disease appears outside the liver.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the procedure?",
+            "a": "<p>Most people develop post-embolisation syndrome: pain under the right ribs, nausea, low-grade fever, and fatigue lasting a few days. Pain during and after DEBIRI can be sharper than with other embolisation drugs, so teams often plan nerve blocks or strong painkillers in advance. Less common problems include liver abscess, gallbladder inflammation, and temporary rises in liver enzymes. Many patients go home within one to two days.</p>"
+          },
+          {
+            "q": "Can TACE shrink my liver tumours enough for surgery?",
+            "a": "<p>Sometimes it can. Shrinking tumours enough to allow surgical removal or ablation is called downstaging, and it is more likely when disease is limited to the liver and responds well to treatment. Surgery still offers the best chance of long-term control, so response is reassessed after every few cycles. Whether you reach that point depends on tumour number, position near major blood vessels, and how much healthy liver would remain.</p>"
+          },
+          {
+            "q": "How is TACE different from Y-90 radioembolisation?",
+            "a": "<p>Both are delivered through the hepatic artery, but TACE uses chemotherapy-loaded beads while radioembolisation uses tiny radioactive spheres. Radioembolisation usually causes less immediate pain and needs fewer sessions, though it requires a separate mapping procedure first and costs more at most centres. Neither is a clear winner for colorectal liver metastases; the choice often turns on tumour distribution, liver function, budget, and which technique your centre performs most often.</p>"
+          },
+          {
+            "q": "Can I have DEBIRI TACE in India or China, and what will it cost?",
+            "a": "<p>DEBIRI is offered at several tertiary cancer centres and interventional radiology units in India and China, often at a fraction of Western prices, though quoted figures vary a great deal by hospital, bead type, and number of sessions. Estimates usually exclude scans, hospital stay, and ongoing systemic chemotherapy. Access and pricing can change, so confirm current quotations and admission requirements directly with the centre before you travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

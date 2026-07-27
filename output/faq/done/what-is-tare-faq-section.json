@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is TARE/SIRT/Y-90? A Complete Patient Introduction to Radioembolization",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-tare",
+  "route": "/insights/what-is-tare",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TARE or Y-90 radioembolization?",
+            "a": "<p>TARE, also called SIRT or Y-90, delivers radiation directly inside liver tumours through the blood vessels that feed them. An interventional radiologist threads a thin tube into your groin or wrist artery and releases millions of tiny glass or resin beads carrying radioactive yttrium-90. The beads lodge in the tumour and irradiate it from within over about two weeks, while sparing most healthy liver tissue.</p>"
+          },
+          {
+            "q": "How is Y-90 different from TACE or regular chemotherapy?",
+            "a": "<p>Y-90 treats the tumour with radiation, while TACE delivers chemotherapy drugs and blocks the artery feeding it. Y-90 beads are small enough to pass into the tumour without cutting off blood flow, so it is often gentler and usually needs fewer sessions. Standard chemotherapy travels through the whole body; Y-90 stays almost entirely in the liver. Your team chooses based on tumour size, liver function, and vein involvement.</p>"
+          },
+          {
+            "q": "Am I a candidate for Y-90 treatment?",
+            "a": "<p>You may be a candidate if your cancer is confined mainly to the liver, your liver is still working reasonably well, and surgery is not an option. Doctors commonly use Y-90 for hepatocellular carcinoma, bile duct cancer, and liver metastases from colorectal or neuroendocrine tumours. Poor liver function, heavy spread outside the liver, or blood flow that leaks to the lungs can rule it out. Eligibility depends on your scans and blood tests.</p>"
+          },
+          {
+            "q": "Why do I need a mapping scan before the treatment?",
+            "a": "<p>The mapping angiogram is a rehearsal that makes the real treatment safe. About one to three weeks before, your radiologist maps the arteries feeding the tumour, blocks any small vessels that could carry beads to your stomach or intestine, and injects a test particle to measure how much would reach your lungs. Those results decide your radiation dose. In some cases the mapping shows Y-90 is not safe for you.</p>"
+          },
+          {
+            "q": "What actually happens on the day of the procedure?",
+            "a": "<p>Y-90 is a day procedure done while you are awake but sedated, and it usually takes one to two hours. You lie flat, the doctor numbs your groin or wrist, guides a catheter into the liver artery, and releases the beads. There is no incision and no general anaesthesia. Most people go home the same day or after one night, and a scan afterwards confirms where the radiation settled.</p>"
+          },
+          {
+            "q": "How will I feel afterwards, and what are the side effects?",
+            "a": "<p>Most people feel tired, mildly feverish, or achy under the right ribs for one to two weeks, a pattern doctors call post-embolisation syndrome. Nausea and loss of appetite are common and usually settle with medication. Less often, beads reaching the stomach can cause ulcers, or the liver itself can become inflamed, which matters most if your liver was already weak. Tell your team quickly about severe pain, vomiting, or jaundice.</p>"
+          },
+          {
+            "q": "Am I radioactive afterwards? Do I need to stay away from my family?",
+            "a": "<p>You are safe to be around your family almost immediately, because yttrium-90 gives off radiation that travels only a few millimetres inside your body. Most centres ask for simple precautions for a few days: flush the toilet twice, wash your hands well, and avoid prolonged close contact with pregnant women or young children. Your hospital will give you written instructions, and the radiation fades to nothing within about a month.</p>"
+          },
+          {
+            "q": "Can Y-90 cure my liver cancer?",
+            "a": "<p>Y-90 is usually a control treatment rather than a cure, but in selected patients it can do more. It often shrinks tumours enough to allow surgery or a liver transplant later, and it can hold disease steady while you wait for a transplant. For a single small tumour, a high targeted dose sometimes destroys it completely. What Y-90 can achieve depends on your tumour type, size, and liver reserve.</p>"
+          },
+          {
+            "q": "How will my doctors know whether it worked?",
+            "a": "<p>Your first follow-up scan is usually a CT or MRI about one to three months after treatment, because Y-90 works slowly. Doctors look for tumour tissue that has stopped taking up contrast rather than for immediate shrinkage, so a tumour that looks the same size may still be dead inside. Blood markers such as AFP are tracked alongside. Scans are then repeated every two to three months in most cases.</p>"
+          },
+          {
+            "q": "What does Y-90 cost, and can I get it in India or China?",
+            "a": "<p>Y-90 is available at major cancer centres in India and China, and costs there are often a fraction of Western prices, though the microspheres themselves are imported and expensive. Budget for the mapping angiogram, the treatment, imaging, and a short stay, since quotes vary widely by hospital and bead type. CancerFax can help you gather written estimates and share your scans with treating teams before you commit to travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

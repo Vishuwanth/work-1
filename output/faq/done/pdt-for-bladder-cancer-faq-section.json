@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT for Bladder Cancer: Whole-Bladder Treatment for BCG-Refractory Carcinoma in Situ",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-for-bladder-cancer",
+  "route": "/insights/pdt-for-bladder-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Can photodynamic therapy treat bladder cancer that has stopped responding to BCG?",
+            "a": "<p>Photodynamic therapy may be an option for carcinoma in situ that keeps returning after BCG. A light-sensitive drug is placed in the bladder or given by vein, collects in cancer cells, and is then activated by light delivered through a fibre, destroying those cells. It is used mainly as a bladder-sparing alternative once BCG has failed. Suitability depends on tumour stage, bladder capacity, and specialist review.</p>"
+          },
+          {
+            "q": "How is whole-bladder photodynamic therapy actually done?",
+            "a": "<p>The bladder is filled with a photosensitising solution, usually hexaminolevulinate or 5-ALA, and left for one to four hours so cancer cells take it up. The fluid is drained, the bladder is refilled with saline, and a fibre with a spherical diffuser tip is passed through a cystoscope to light the entire lining evenly. The session usually takes under an hour under anaesthetic.</p>"
+          },
+          {
+            "q": "What is carcinoma in situ, and why is it so hard to treat?",
+            "a": "<p>Carcinoma in situ is a flat, high-grade cancer that spreads across the bladder lining instead of growing as a lump. Because it is flat and often invisible at cystoscopy, it cannot be reliably cut out, and it can sit in several areas at once. That is why treatment has to reach the whole lining, which is exactly what whole-bladder photodynamic therapy and BCG both attempt.</p>"
+          },
+          {
+            "q": "How well does PDT work for BCG-refractory carcinoma in situ?",
+            "a": "<p>Published series report a complete response in roughly half of patients three to six months after whole-bladder PDT, though many responses are not durable and recurrence within two years is common. Results vary widely between centres, photosensitisers, and light doses, and most studies are small. Your urologist can only estimate likely benefit after reviewing your biopsies, prior BCG course, and cystoscopy findings.</p>"
+          },
+          {
+            "q": "Can photodynamic therapy help me avoid having my bladder removed?",
+            "a": "<p>PDT may delay or avoid radical cystectomy in selected patients, but it cannot promise that. It is generally offered to people whose disease is still confined to the bladder lining and who remain fit enough for surgery later if it fails. Cystoscopy follow-up every three months is essential, because delaying cystectomy in disease that progresses can reduce the chance of cure.</p>"
+          },
+          {
+            "q": "What are the side effects and risks of bladder PDT?",
+            "a": "<p>The most common effects are burning on passing urine, urgency, frequency, blood in the urine, and bladder spasms, usually settling over several weeks. The more serious concern is bladder scarring, which can permanently shrink capacity and, rarely, damage the ureters. Skin and eye light sensitivity follows some photosensitisers. Risk depends on the drug used, the light dose, and your bladder's condition beforehand.</p>"
+          },
+          {
+            "q": "Why do I have to stay out of sunlight after photodynamic therapy?",
+            "a": "<p>Photosensitising drugs that enter the bloodstream leave your skin and eyes reactive to bright light, so ordinary sunlight can cause a severe burn. With older systemic agents such as porfimer sodium, careful light avoidance may be needed for four to six weeks. Drugs instilled directly into the bladder carry far less of this problem. Your team will tell you exactly how long to shield your skin.</p>"
+          },
+          {
+            "q": "Who is not suitable for whole-bladder PDT?",
+            "a": "<p>PDT is generally not offered when cancer has invaded the bladder muscle or spread beyond it, when bladder capacity is already very small or scarred, or when there is untreated infection or known porphyria. Light reaches only a few millimetres into tissue, so deeper tumour can survive treatment. Eligibility is decided after restaging biopsy, imaging, and review by a urologist experienced in bladder preservation.</p>"
+          },
+          {
+            "q": "Which countries offer photodynamic therapy for bladder cancer?",
+            "a": "<p>PDT for bladder cancer is available at a limited number of specialist centres, mainly in China, Germany, the United Kingdom, and a few Indian hospitals, and it is often delivered within a clinical trial rather than as routine care. It is not approved for this use everywhere. Availability, trial places, and acceptance of international patients change often, so confirm directly with the centre.</p>"
+          },
+          {
+            "q": "How much does PDT for bladder cancer cost abroad, and how do I arrange it?",
+            "a": "<p>Estimated costs run from about 4,000 to 12,000 US dollars per treatment course in India and China, below typical Western pricing, though the final figure depends on the photosensitiser used, the hospital, anaesthetic, follow-up cystoscopies, and length of stay. CancerFax can help you organise medical reports, identify centres or trials offering the procedure, estimate costs, and coordinate travel alongside your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

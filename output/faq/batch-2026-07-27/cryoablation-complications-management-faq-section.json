@@ -1,0 +1,59 @@
+{
+  "pillar": "Complications of Cryoablation: Risk Profile and Management",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-complications-management",
+  "route": "/insights/cryoablation-complications-management",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most common complications of cryoablation?",
+            "a": "<p>Most cryoablation complications are mild and short-lived. Bleeding at the probe site, pain, swelling, and temporary numbness are reported most often. Serious complications occur in roughly 3 to 7 percent of procedures, depending on the organ treated and the tumour size. Your individual risk depends on where the tumour sits and how close the ice ball comes to nerves, bowel, or major blood vessels.</p>"
+          },
+          {
+            "q": "Is cryoablation safer than surgery?",
+            "a": "<p>Cryoablation generally carries a lower complication rate than open surgery for small tumours, with less blood loss, no large incision, and a shorter recovery. Reported major complication rates are often under 5 percent, compared with higher figures for partial nephrectomy or lung resection. It is not risk-free, and it suits only certain tumour sizes and locations. Whether it is safer for you depends on your tumour, organ function, and fitness for anaesthesia.</p>"
+          },
+          {
+            "q": "What is cryoshock, and how dangerous is it?",
+            "a": "<p>Cryoshock is a rare but serious reaction after large-volume freezing, in which the body releases inflammatory signals that cause low blood pressure, clotting problems, and organ stress. It is reported in well under 1 percent of cases and is seen mainly after extensive liver cryoablation. Teams reduce the risk by limiting how much tissue is frozen in one session and by monitoring you closely for the first 24 hours.</p>"
+          },
+          {
+            "q": "Can cryoablation damage nearby organs or nerves?",
+            "a": "<p>Yes, the ice ball can injure structures next to the tumour, including bowel, ureter, diaphragm, skin, and nerves. This is why cryoablation is guided in real time by CT or ultrasound, which lets the operator watch the ice edge as it grows. Protective steps such as hydrodissection, where fluid is injected to push organs away, and warming devices can lower this risk in many cases.</p>"
+          },
+          {
+            "q": "How much bleeding should I expect after cryoablation?",
+            "a": "<p>Bleeding is the most frequent significant complication, because freezing does not seal blood vessels the way heat-based ablation does. Small collections of blood around the treated organ show up on scans in up to a fifth of kidney cases, but most need no treatment at all. Bleeding that requires a transfusion or an embolisation procedure is uncommon. Risk rises with more probes, larger tumours, central tumour position, and blood-thinning medication.</p>"
+          },
+          {
+            "q": "Will I have pain after cryoablation, and how long does it last?",
+            "a": "<p>Most patients have moderate pain or aching around the treated area for a few days up to about two weeks, and simple painkillers usually control it. Cryoablation is often less painful than heat-based ablation, because the ice itself has a numbing effect during treatment. Pain that worsens after the first week, or comes with fever, needs review. Nerve irritation can occasionally cause burning or numbness that takes several months to settle.</p>"
+          },
+          {
+            "q": "What complications happen with kidney cryoablation specifically?",
+            "a": "<p>Renal cryoablation most often causes bleeding around the kidney, blood in the urine for a few days, and small drops in kidney function. Urine leaks and injury to the ureter are less common and usually involve tumours close to the collecting system. Major complication rates in large series sit around 3 to 6 percent. Patients with a single kidney or existing kidney disease often need closer monitoring afterwards.</p>"
+          },
+          {
+            "q": "What are the risks of cryoablation in the lung?",
+            "a": "<p>Pneumothorax, a partial lung collapse, is the main risk and occurs in roughly a third of lung cryoablation procedures, though only a minority need a chest drain. Coughing up small amounts of blood is common for a day or two and usually settles on its own. Fluid around the lung and, rarely, infection can also occur. Risk rises with more probes, deeper tumours, and existing emphysema.</p>"
+          },
+          {
+            "q": "What warning signs should make me call my doctor after cryoablation?",
+            "a": "<p>Call your team straight away if you have fever above 38°C, heavy or worsening bleeding, urine that stays deeply blood-stained beyond a few days, breathlessness, chest pain, or pain that keeps increasing instead of easing. Dizziness, fainting, or a racing heart can signal internal bleeding and needs emergency assessment. Most people recover without any of these, but early reporting is what stops a small problem becoming a serious one.</p>"
+          },
+          {
+            "q": "How do doctors lower the risk of complications during cryoablation?",
+            "a": "<p>Complication rates fall when the procedure is done by a high-volume interventional radiology team, with careful imaging planning, the right number and placement of probes, real-time monitoring of the ice ball, and protective steps for nearby organs. Stopping blood thinners on schedule and treating any infection beforehand also helps. CancerFax can help you compare centre experience and after-care arrangements abroad, though the final plan should come from your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

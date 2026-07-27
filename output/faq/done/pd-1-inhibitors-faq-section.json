@@ -1,0 +1,59 @@
+{
+  "pillar": "PD-1 Inhibitors: Complete Patient Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pd-1-inhibitors",
+  "route": "/treatments/pd-1-inhibitors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are PD-1 inhibitors and how do they work?",
+            "a": "<p>PD-1 inhibitors are drugs that release a brake on your immune system so it can find and attack cancer cells. Tumours often display a protein that switches off T cells through the PD-1 receptor. The drug blocks that switch, and the T cells stay active. Because the immune system does the killing, responses can take weeks to appear and may last long after treatment ends.</p>"
+          },
+          {
+            "q": "Which cancers are PD-1 inhibitors used for?",
+            "a": "<p>PD-1 inhibitors are approved for melanoma, non-small cell lung cancer, kidney cancer, head and neck cancer, Hodgkin lymphoma, bladder cancer, liver cancer, stomach cancer and several others. They are also used for any advanced tumour with high microsatellite instability, regardless of where it started. Whether one suits you depends on your tumour type, stage, prior treatments and biomarker results, so your oncologist will confirm eligibility.</p>"
+          },
+          {
+            "q": "How well do PD-1 inhibitors actually work?",
+            "a": "<p>Roughly 20 to 40 percent of patients respond to a PD-1 inhibitor alone, and the figure can rise above 50 percent when it is combined with chemotherapy. Melanoma and high-PD-L1 lung cancer tend to respond best. What makes these drugs different is durability: some responders stay in remission for years. Your own odds depend on tumour type, biomarkers and overall health, so treat published numbers as averages.</p>"
+          },
+          {
+            "q": "What are the side effects of PD-1 inhibitors?",
+            "a": "<p>Most people tolerate PD-1 inhibitors better than chemotherapy, with tiredness, itching, rash and joint aches being the common complaints. The important risks are immune-related: the activated immune system can inflame the thyroid, bowel, lungs, liver or skin. These reactions are usually manageable with steroids if caught early, which is why new diarrhoea, breathlessness or persistent cough should be reported the same day rather than at your next visit.</p>"
+          },
+          {
+            "q": "How are PD-1 inhibitors given, and for how long?",
+            "a": "<p>PD-1 inhibitors are given as a drip into a vein, usually over 30 to 60 minutes every two, three or six weeks depending on the drug and dose schedule. There is no hospital stay for a routine infusion. Treatment often continues for up to two years if the cancer stays controlled and side effects remain manageable, though your team may stop sooner or extend it based on your scans.</p>"
+          },
+          {
+            "q": "Do I need a PD-L1 test before starting treatment?",
+            "a": "<p>Often yes, but not always. For several lung, stomach and oesophageal cancers, the PD-L1 score decides whether a PD-1 inhibitor is offered alone or alongside chemotherapy. For melanoma, kidney cancer and Hodgkin lymphoma, treatment usually proceeds without it. Tumour mutational burden and microsatellite instability testing may also be requested. Your pathology lab can run these on your existing biopsy block in most cases, avoiding a fresh procedure.</p>"
+          },
+          {
+            "q": "How much do PD-1 inhibitors cost in India and China?",
+            "a": "<p>A single PD-1 infusion in India commonly costs between 900 and 3,000 US dollars, while Chinese-made PD-1 drugs such as tislelizumab or camrelizumab often fall below 500 dollars per cycle. Both are far cheaper than the same drugs in the United States or Europe. Prices move with brand, dose and hospital, so ask for a written estimate covering the full planned course, not just one infusion.</p>"
+          },
+          {
+            "q": "What is the difference between PD-1 and PD-L1 inhibitors?",
+            "a": "<p>PD-1 inhibitors block the receptor on your immune cells; PD-L1 inhibitors block the matching protein on the tumour. Both interrupt the same off-switch, and in practice their results look broadly similar. The choice usually comes down to which drug is approved for your specific cancer, what your treatment protocol specifies, and what is available locally. Pembrolizumab and nivolumab are PD-1 drugs; atezolizumab and durvalumab target PD-L1.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for PD-1 inhibitor treatment?",
+            "a": "<p>Yes, many patients do, and both countries run PD-1 programmes at internationally accredited hospitals. You will typically need recent scans, your pathology report and biomarker results reviewed before travel so the hospital can confirm the plan. CancerFax can help pass those records to treating centres and arrange a written opinion in advance. Final eligibility, timelines and medical visa approval always rest with the hospital and the authorities concerned.</p>"
+          },
+          {
+            "q": "What happens if the PD-1 inhibitor stops working?",
+            "a": "<p>Several options usually remain. Your oncologist may add a CTLA-4 drug or targeted therapy, switch to chemotherapy, treat a single growing spot with radiation, or look at a clinical trial of newer immunotherapy combinations. Trials in India and China are actively recruiting patients whose disease progressed after PD-1 treatment, and CancerFax can help you check what is open. Enrolment depends on strict criteria and can never be assured in advance.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

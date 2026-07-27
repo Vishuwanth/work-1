@@ -1,0 +1,59 @@
+{
+  "pillar": "Image-Guided Radiation Therapy (IGRT): Precision Radiotherapy Guide",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "image-guided-radiation-therapy-igrt",
+  "route": "/treatments/image-guided-radiation-therapy-igrt",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is image-guided radiation therapy (IGRT)?",
+            "a": "<p>IGRT is radiotherapy that uses scans taken just before, and sometimes during, each treatment session to confirm exactly where the tumour sits that day. The imaging, usually cone-beam CT, X-ray, ultrasound or MRI, lets your team shift your position by millimetres before the beam switches on. Because tumours move as you breathe, digest and lose weight, this daily check keeps the dose on target and off nearby healthy tissue.</p>"
+          },
+          {
+            "q": "How is IGRT different from regular radiation therapy?",
+            "a": "<p>The difference is the daily imaging, not the radiation itself. Conventional treatment relies on skin marks and a planning scan made weeks earlier, which assumes nothing has shifted. IGRT re-images you on the treatment table every session and corrects your position before delivering the same beams. That accuracy often allows smaller safety margins around the tumour, which can mean fewer side effects and, in some cases, a higher dose to the cancer.</p>"
+          },
+          {
+            "q": "Which cancers is IGRT used for?",
+            "a": "<p>IGRT is used most often for prostate, lung, liver, breast, head and neck, brain, pancreatic and spinal tumours, anywhere the target sits close to organs that must be spared or moves with breathing. It is also standard for re-treating an area that has already had radiation. Whether it suits your case depends on the tumour site, its size and your earlier treatment, so ask your radiation oncologist directly.</p>"
+          },
+          {
+            "q": "Does IGRT mean I get more radiation from all the scans?",
+            "a": "<p>Yes, the imaging adds a small extra dose, but it is minor next to the treatment dose itself. A daily cone-beam CT typically adds around 1 to 2 percent of the total radiation you receive over a course. Some machines use MRI or ultrasound guidance, which add no radiation at all. Most radiation oncologists consider the trade-off worthwhile, because the accuracy gained usually spares far more healthy tissue than the scans expose.</p>"
+          },
+          {
+            "q": "How long does each IGRT session take?",
+            "a": "<p>Most IGRT sessions take 15 to 30 minutes on the table, though the beam itself is usually on for only a few minutes. The extra time goes to positioning you, taking the imaging scan and making millimetre corrections before treatment starts. A typical course runs five days a week for two to eight weeks, depending on the cancer and the dose your team has planned.</p>"
+          },
+          {
+            "q": "Is IGRT painful, and what side effects should I expect?",
+            "a": "<p>IGRT itself is painless. You feel nothing while the beam is on, and the imaging is no different from having an ordinary scan. Side effects come from the radiation dose and the area being treated: tiredness, skin redness, and symptoms specific to the site, such as urinary urgency during prostate treatment. Because IGRT allows tighter margins, many patients report milder effects than with older techniques.</p>"
+          },
+          {
+            "q": "What do fiducial markers do, and will I need them?",
+            "a": "<p>Fiducial markers are tiny gold or polymer seeds placed in or near the tumour so it shows up clearly on the daily imaging. They are most commonly used for prostate, liver, lung and pancreatic cancers, where the tumour is hard to see against soft tissue. Placement is a short outpatient procedure done under local anaesthetic or sedation. Not everyone needs them, as newer MRI-guided machines can often track the tumour without markers.</p>"
+          },
+          {
+            "q": "How much does IGRT cost in India or China?",
+            "a": "<p>A full IGRT course in India commonly runs between USD 4,000 and 9,000, and in China roughly USD 6,000 to 12,000, often a fraction of United States or European prices. The final figure depends on the number of sessions, the machine used, whether fiducial markers or MRI guidance are needed, and any scans or hospital stays. CancerFax can help you request itemised quotes from centres before you commit.</p>"
+          },
+          {
+            "q": "Is IGRT available in India and China, and how do I arrange it?",
+            "a": "<p>Yes. Major cancer centres in both countries run IGRT routinely, including cone-beam CT, tomotherapy and MRI-guided systems in the larger hospitals. Arranging treatment usually means sending your scans, pathology report and treatment summary for a remote opinion, then applying for a medical visa once a centre accepts you. Timelines and eligibility vary by hospital and by your condition.</p><p>CancerFax can pass your records to centres for review, though your treating oncology team should approve any plan.</p>"
+          },
+          {
+            "q": "Is IGRT the same as SBRT or proton therapy?",
+            "a": "<p>No. IGRT is a guidance method, not a beam type, so it is used alongside these treatments rather than instead of them. SBRT delivers very high doses in one to five sessions and depends on IGRT for its accuracy. Proton therapy uses protons instead of X-rays and also relies on image guidance. Which combination suits you depends on the tumour type, its location and what equipment your centre has.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

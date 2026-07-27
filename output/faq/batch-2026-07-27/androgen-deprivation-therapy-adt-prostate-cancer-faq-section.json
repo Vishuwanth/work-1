@@ -1,0 +1,59 @@
+{
+  "pillar": "Androgen Deprivation Therapy (ADT) for Prostate Cancer: A Complete Patient Guide",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "androgen-deprivation-therapy-adt-prostate-cancer",
+  "route": "/insights/androgen-deprivation-therapy-adt-prostate-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is androgen deprivation therapy (ADT) for prostate cancer?",
+            "a": "<p>ADT is treatment that lowers testosterone, the hormone that fuels prostate cancer growth. Most prostate cancer cells depend on testosterone to multiply, so cutting off that supply can shrink tumours and slow the disease. It is given as injections, implants, tablets, or by surgical removal of the testicles. Doctors use it alone in advanced disease, or alongside radiation in higher-risk localised cancer.</p>"
+          },
+          {
+            "q": "Does ADT cure prostate cancer?",
+            "a": "<p>ADT on its own is usually not a cure. It controls prostate cancer, often for years, by starving it of testosterone, but cancer cells can adapt over time. Combined with radiation for localised or locally advanced disease, the pairing can be curative in many cases. If the cancer has spread, the realistic goal is long-term control, fewer symptoms, and longer survival.</p>"
+          },
+          {
+            "q": "What are the most common side effects of ADT?",
+            "a": "<p>Hot flushes, tiredness, loss of sex drive, erection problems, and weight gain around the middle are the most common. Over months, many men also notice muscle loss, mood changes, and thinning bones. Most of this comes from low testosterone and often eases if treatment stops. Regular exercise, calcium and vitamin D, and bone-density scans can reduce the impact, so report symptoms early.</p>"
+          },
+          {
+            "q": "How long will I need to stay on ADT?",
+            "a": "<p>It depends on why you are taking it. With radiation for intermediate-risk cancer, ADT often runs four to six months; for high-risk disease it may run eighteen months to three years. For cancer that has spread, ADT is usually continued indefinitely, often with a second drug added. Your PSA, testosterone level, scans, and tolerance all shape the plan, so timelines can change.</p>"
+          },
+          {
+            "q": "Are ADT injections better than tablets or surgery?",
+            "a": "<p>All three lower testosterone to the same target, so the choice is mainly about convenience, cost, and side effects. Injections given every one to six months are the most common option. Oral agents work quickly and may suit men with existing heart disease. Surgical removal of the testicles is inexpensive and effective but permanent. Your urologist can weigh which trade-off fits your health and circumstances.</p>"
+          },
+          {
+            "q": "What does it mean if my cancer becomes castration-resistant?",
+            "a": "<p>Castration-resistant means your PSA is rising or scans show growth even though testosterone stays very low. It does not mean treatment has failed; ADT is usually continued and another drug is added. Options may include abiraterone, enzalutamide, chemotherapy, radioligand therapy, or a clinical trial, and genomic testing can open further choices. CancerFax can help you look at trial options, though eligibility is decided by your treating oncology team.</p>"
+          },
+          {
+            "q": "Will ADT affect my sex life and fertility?",
+            "a": "<p>In most men, yes. Low testosterone usually reduces desire and makes erections harder to get, and semen volume often falls. Some men maintain sexual activity with medication, devices, or counselling, and desire may return slowly after short-course ADT ends. Fertility is often reduced during treatment, so ask about sperm banking before starting if you may want children later.</p>"
+          },
+          {
+            "q": "How will my doctor check that ADT is working?",
+            "a": "<p>Your team tracks PSA and testosterone with blood tests, usually every three to six months. A falling PSA with testosterone below roughly 50 ng/dL suggests the treatment is doing its job. Scans are added if PSA rises or new symptoms appear. Because ADT affects bones, blood sugar, and cholesterol, expect periodic bone-density scans and metabolic tests too. Report new bone pain between visits.</p>"
+          },
+          {
+            "q": "Can I take breaks from ADT instead of staying on it continuously?",
+            "a": "<p>Intermittent ADT, where treatment pauses once PSA falls and restarts when it rises, is an option for some men. Breaks can restore energy, sex drive, and mood between cycles. It is generally considered for rising PSA after earlier treatment, rather than for widespread metastatic disease where continuous therapy is usually preferred. Whether it suits you depends on your PSA pattern and scans.</p>"
+          },
+          {
+            "q": "How much does ADT cost if I have treatment in India or China?",
+            "a": "<p>ADT is among the less expensive prostate cancer treatments, and prices in India and China are typically a fraction of Western costs. Generic injections and tablets are widely available, though newer agents such as abiraterone or enzalutamide add to the total. Final cost depends on the hospital, drug brand, and treatment duration. CancerFax can help you obtain written estimates from treating hospitals before you travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

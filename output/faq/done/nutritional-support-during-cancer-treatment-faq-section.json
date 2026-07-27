@@ -1,0 +1,59 @@
+{
+  "pillar": "Nutritional Support During Cancer Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "nutritional-support-during-cancer-treatment",
+  "route": "/insights/nutritional-support-during-cancer-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why does what I eat matter during cancer treatment?",
+            "a": "<p>Good nutrition helps your body tolerate treatment, heal after surgery, and keep going between cycles. Patients who hold their weight and muscle often handle chemotherapy and radiation better, have fewer treatment delays, and spend less time in hospital. Cancer and its treatment can raise your calorie and protein needs while making eating harder. Your needs depend on your cancer type, treatment plan and starting weight, so ask your oncology team for a dietitian referral.</p>"
+          },
+          {
+            "q": "How much protein should I be eating during chemotherapy?",
+            "a": "<p>Most people having cancer treatment need more protein than usual, often around 1.0 to 1.5 grams per kilogram of body weight daily. For a 60 kg adult that is roughly 60 to 90 grams, spread across meals rather than eaten in one sitting. Eggs, dairy, fish, chicken, lentils, paneer and tofu all count. Kidney or liver problems can change this target, so confirm your own number with your treating team or a clinical dietitian.</p>"
+          },
+          {
+            "q": "What can I eat when chemo has killed my appetite?",
+            "a": "<p>Switch from three big meals to six or eight small, high-calorie snacks and eat by the clock rather than waiting to feel hungry. Milkshakes, nut butters, curd, cheese, eggs, khichdi with ghee and oral nutrition drinks pack calories into small volumes. Keep food within reach and eat the most when your appetite is best, usually mornings. If you cannot eat for several days, tell your team, because appetite loss may need medication.</p>"
+          },
+          {
+            "q": "What should I eat when my mouth is sore and food tastes metallic?",
+            "a": "<p>Soft, bland, moist foods are easiest when treatment leaves your mouth sore or your food tasting metallic. Try cold or room-temperature dishes, blended soups, curd rice, custard and smoothies, and avoid citrus, chilli, vinegar and rough or crunchy foods. Plastic cutlery instead of metal, sipping cold water before eating, and rinsing with salt and baking soda can help taste return. Taste usually improves within weeks of finishing treatment, though recovery time varies.</p>"
+          },
+          {
+            "q": "Does sugar feed cancer, so should I cut it out?",
+            "a": "<p>No, cutting sugar out of your diet does not starve a tumour. Every cell in your body, healthy or cancerous, uses glucose, and your liver makes it even if you eat none. Severely restricting carbohydrates during treatment usually means losing weight and muscle you cannot afford to lose. Keeping added sugar moderate is sensible for general health, but any restrictive diet during active treatment should be discussed with your oncologist first.</p>"
+          },
+          {
+            "q": "Can I take vitamins and supplements during chemotherapy?",
+            "a": "<p>Check with your oncologist before taking any supplement, because some can interfere with chemotherapy and radiation. High-dose antioxidants such as vitamin C, vitamin E and green tea extract may reduce the effect of treatments that work by causing oxidative damage. Herbal products including turmeric extracts, ashwagandha and St John's wort can also change how your drugs are processed. A standard multivitamin, or a corrected vitamin D or B12 deficiency, is often allowed.</p>"
+          },
+          {
+            "q": "Which foods should I avoid when my white cell count is low?",
+            "a": "<p>When your white cell count is low, avoid raw and undercooked foods that may carry bacteria. That means no raw salads from outside, unpasteurised milk or curd, street food, cut fruit sold uncovered, runny eggs, sushi and soft cheeses. Cooked food eaten hot and fruit you peel yourself are safe choices. Ask your team how strict to be, since neutropenic precautions differ between hospitals and depend on how low your counts fall.</p>"
+          },
+          {
+            "q": "Should I worry if I am losing weight without trying?",
+            "a": "<p>Tell your oncology team if you lose more than five percent of your body weight in six months without trying, or if clothes and rings suddenly feel loose. Unintentional weight loss with muscle wasting is called cancer cachexia, and it is driven by inflammation, not just by eating too little. Caught early it can often be slowed with a dietitian's plan, protein, light resistance exercise and symptom control. Later stages respond less well.</p>"
+          },
+          {
+            "q": "Will I need a feeding tube during treatment?",
+            "a": "<p>A feeding tube is usually offered when you cannot swallow enough for more than a week or two, most often during head and neck radiation. It is not a sign of giving up; it protects your weight so treatment can continue on schedule. Many patients have a tube placed before radiation starts and return to normal eating afterwards. Whether you need one depends on your treatment site, swallowing and current weight.</p>"
+          },
+          {
+            "q": "How do I manage food and nutrition if I travel abroad for treatment?",
+            "a": "<p>Ask before you travel whether the hospital has an oncology dietitian and what food will be available near your accommodation. Familiar food matters more than usual when appetite is fragile, so many families choose lodging with a kitchen or a hospital that serves their home cuisine. Carry a written record of your weight, allergies and any nutrition drinks you rely on. CancerFax can help you raise these questions with the treating hospital before you commit.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Psychological Support in Cancer: A Guide for Patients and Families",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "psychological-support-in-cancer",
+  "route": "/insights/psychological-support-in-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Is it normal to feel depressed after a cancer diagnosis?",
+            "a": "<p>Yes, low mood and fear after a cancer diagnosis are common and expected. Studies suggest around one in three people with cancer experience clinically significant anxiety or depression at some point. Feeling numb, tearful, angry or unable to sleep in the first weeks is a normal reaction to frightening news. It becomes a concern when the feelings persist beyond a few weeks or stop you eating, sleeping or attending treatment.</p>"
+          },
+          {
+            "q": "What is psycho-oncology, and how is it different from ordinary therapy?",
+            "a": "<p>Psycho-oncology is mental health care delivered by professionals trained specifically in cancer. A psycho-oncologist understands what steroids do to sleep, why scan days trigger panic, and how chemotherapy fatigue can look like depression. Ordinary therapists may be excellent but often lack this clinical context. Many large cancer centres in India and China now have psycho-oncology units, though availability varies widely between hospitals and may need to be requested.</p>"
+          },
+          {
+            "q": "Will antidepressants interfere with my chemotherapy?",
+            "a": "<p>Some antidepressants can interact with cancer drugs, so the choice matters and should be made with your oncologist. Fluoxetine and paroxetine, for example, can reduce how well tamoxifen works, so doctors often prefer venlafaxine or escitalopram for women on hormone therapy. Many people take antidepressants safely alongside chemotherapy. Always give the full list of your medicines, including herbal supplements, to both your oncologist and the prescribing doctor.</p>"
+          },
+          {
+            "q": "How do I tell my children I have cancer?",
+            "a": "<p>Tell children the truth in simple, age-appropriate words, using the actual word cancer. Children usually sense that something is wrong, and vague explanations often frighten them more than facts. Younger children need reassurance that cancer is not contagious and is not their fault; teenagers usually want honest detail about treatment and what will change at home. Keep the door open for repeated short conversations rather than one big talk.</p>"
+          },
+          {
+            "q": "What is scanxiety, and how can I cope with it?",
+            "a": "<p>Scanxiety is the intense fear that builds in the days before a scan and while waiting for results, and it is one of the most common complaints in cancer care. It can cause insomnia, irritability and stomach upset even in people coping well otherwise. Practical steps help: ask for the scan and the results appointment to be close together, plan a distraction for the waiting days, and tell your team the wait is hard.</p>"
+          },
+          {
+            "q": "How do caregivers get support when they are completely exhausted?",
+            "a": "<p>Caregivers can and should ask for their own support, separately from the patient's care. Most cancer centres allow family members to book counselling sessions, and caregiver-specific support groups exist online in Hindi, English and Mandarin. Warning signs of burnout include sleeping badly, resentment, losing interest in everything outside caregiving, and getting ill often. Sharing tasks with two or three other people, even in small blocks, protects you better than doing everything alone.</p>"
+          },
+          {
+            "q": "Can counselling actually help me live longer, or does it just help me feel better?",
+            "a": "<p>The strongest proven benefit is better quality of life, less anxiety and less depression, not longer survival. Some studies, including a well-known trial in advanced lung cancer, found that patients who received early supportive and palliative care reported better mood and in that trial lived longer, but this has not been consistently reproduced. Treat psychological care as something that makes treatment more bearable, rather than as a treatment for the cancer itself.</p>"
+          },
+          {
+            "q": "I am travelling abroad for treatment and I feel completely alone. What can I do?",
+            "a": "<p>Ask for psychological support to be arranged before you travel, not after you arrive. Isolation, language barriers and being far from family are among the hardest parts of treatment abroad, and most large Indian hospitals have international patient departments with counsellors and interpreters. Patient coordinators, including teams like CancerFax, can often connect you with counselling and with other families from your country. Your treating oncology team should stay the main decision-maker on your care.</p>"
+          },
+          {
+            "q": "Does joining a support group really help, or will hearing other people's bad news make me feel worse?",
+            "a": "<p>Support groups help most people, but they are not right for everyone, and it is fine to leave one that upsets you. Many patients say the biggest relief is talking to someone who does not need the illness explained. If hearing about deaths or relapses distresses you, a moderated group organised by diagnosis and stage, or one-to-one counselling, may suit you better. Trying two or three formats before deciding is reasonable.</p>"
+          },
+          {
+            "q": "How do I know when normal sadness has become something that needs treatment?",
+            "a": "<p>Get help when low mood lasts more than two weeks, most of the day, and stops you doing things you could otherwise do. Red flags include losing all interest in things you normally enjoy, hopelessness that does not lift on good days, being unable to sleep even when tired, and any thought of harming yourself. Thoughts of self-harm need same-day attention. Tell your oncology team or go to emergency care.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

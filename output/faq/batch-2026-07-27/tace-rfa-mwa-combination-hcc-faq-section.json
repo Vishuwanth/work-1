@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE + RFA and TACE + MWA for HCC 3–7 cm: The Combined Ablation Strategy",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-rfa-mwa-combination-hcc",
+  "route": "/insights/tace-rfa-mwa-combination-hcc",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why combine TACE with ablation for a 3-7 cm liver tumour?",
+            "a": "<p>Combining TACE with ablation controls a 3-7 cm liver tumour better than either treatment alone in most published studies. TACE first blocks the artery feeding the tumour, shrinking it and slowing blood flow. Ablation then delivers heat that circulating blood can no longer carry away, so the destroyed zone is larger and reaches the tumour edges. Whether this suits you depends on tumour position, liver function and overall health.</p>"
+          },
+          {
+            "q": "What is the difference between RFA and MWA when combined with TACE?",
+            "a": "<p>Microwave ablation heats tissue faster and reaches higher temperatures than radiofrequency ablation, so it often creates a larger kill zone in a single session. That can matter for tumours closer to 7 cm. RFA has longer published follow-up and remains reliable for smaller lesions. Both are usually paired with TACE the same way. Your interventional radiologist may choose based on tumour size, shape and nearness to large blood vessels.</p>"
+          },
+          {
+            "q": "How long is the gap between the TACE and the ablation?",
+            "a": "<p>Most centres perform the ablation one to four weeks after TACE. The wait lets the tumour shrink and lets the immediate effects of embolisation settle, while the reduced blood flow is still present to help the heat spread. Some teams ablate within a few days, and a few do both in one sitting. The exact timing often depends on how your liver recovers and on your hospital's protocol.</p>"
+          },
+          {
+            "q": "Is this better than surgery for a 5 cm liver tumour?",
+            "a": "<p>Surgery remains the first choice when the tumour can be removed and the liver is healthy enough to tolerate the operation. TACE plus ablation is often offered when surgery carries too much risk, such as poor liver reserve, an awkward tumour position, or other serious illness. For selected 3-5 cm tumours, results can approach those of resection. Only your surgical and interventional team can judge which route fits your case.</p>"
+          },
+          {
+            "q": "What side effects should I expect afterwards?",
+            "a": "<p>Most people get post-embolisation syndrome after TACE: fever, nausea, tiredness and pain under the right ribs, usually easing within three to seven days. Ablation adds a burning or aching feeling at the treatment site for a few days, and liver enzymes rise temporarily.</p><p>Serious problems such as bleeding, infection, bile duct injury or liver failure are uncommon, but the risk rises when liver function is already weak.</p>"
+          },
+          {
+            "q": "Will one round of treatment be enough?",
+            "a": "<p>Many patients need more than one cycle. HCC often has small satellite deposits that imaging cannot see, and new tumours can appear elsewhere in a cirrhotic liver. Scans at roughly one and three months show whether the treated area is fully dead. If living tumour remains at the rim, a repeat TACE or a second ablation is common. Follow-up imaging usually continues for at least two years.</p>"
+          },
+          {
+            "q": "Can I have this treatment if I have cirrhosis?",
+            "a": "<p>Cirrhosis does not rule you out, and most people with HCC have it. What matters is how well the liver still works, usually measured by the Child-Pugh score. Child-Pugh A patients generally tolerate combined TACE and ablation well, Child-Pugh B needs careful judgement, and Child-Pugh C usually does not. Portal vein blockage, low platelets and fluid in the abdomen also affect the decision, so eligibility is assessed case by case.</p>"
+          },
+          {
+            "q": "What survival results have been reported for this approach?",
+            "a": "<p>Published series in 3-7 cm HCC report three-year survival broadly in the 50-70% range with TACE plus ablation, higher than TACE alone in most comparisons. Complete destruction of the treated tumour is achieved in the majority of lesions. These figures come from selected patients with reasonable liver function, so they may not match your own outlook. Ask your oncologist what the numbers look like for your stage and liver reserve.</p>"
+          },
+          {
+            "q": "How much does TACE plus ablation cost in India or China?",
+            "a": "<p>Combined TACE and ablation generally costs far less in India and China than in Western countries, though quoted prices vary widely by hospital, number of tumours and how many sessions you need. Imaging, the procedures, hospital stay and follow-up scans are often billed separately, so ask for an itemised estimate. CancerFax can help you collect quotes from treating centres, but the final plan and price stay with the hospital team.</p>"
+          },
+          {
+            "q": "How soon can I go home or fly back after treatment?",
+            "a": "<p>Most people stay in hospital two to four days after each procedure and feel close to normal within two weeks. If you have travelled abroad, teams often ask you to remain nearby for three to six weeks so the follow-up scan and any repeat session happen before you fly. CancerFax can help pass your reports to your local oncologist. Your treating doctor decides when flying is safe for you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

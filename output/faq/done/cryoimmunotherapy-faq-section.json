@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoimmunotherapy: Combining Cryoablation with Checkpoint Inhibitors",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoimmunotherapy",
+  "route": "/insights/cryoimmunotherapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoimmunotherapy?",
+            "a": "<p>Cryoimmunotherapy combines cryoablation, which freezes a tumour using a needle-thin probe, with checkpoint inhibitor drugs such as pembrolizumab or nivolumab. The freeze kills tumour cells and leaves their debris in place, which can alert the immune system, while the drug releases the brakes that stop immune cells attacking cancer. The aim is a response in untreated tumours elsewhere in the body, not only the tumour that was frozen.</p>"
+          },
+          {
+            "q": "How does freezing a tumour switch on my immune system?",
+            "a": "<p>Freezing kills tumour cells in a way that leaves them largely intact rather than burning them away, so the dead cells release proteins the immune system can recognise. Immune cells travel to the frozen area, learn those markers, and then look for the same cancer elsewhere. This effect is usually weak on its own, which is why checkpoint inhibitors are added to strengthen and sustain the response.</p>"
+          },
+          {
+            "q": "Is cryoimmunotherapy better than cryoablation on its own?",
+            "a": "<p>In early studies the combination produces stronger immune responses than freezing alone, but it has not been proven to extend survival in large randomised trials. Cryoablation by itself mainly controls the tumour it treats. Adding a checkpoint inhibitor may also shrink tumours the probe never touched, though this happens in a minority of patients. Your oncologist can weigh the added drug side effects against that possible benefit.</p>"
+          },
+          {
+            "q": "Which cancers is cryoimmunotherapy being used for?",
+            "a": "<p>Most experience is in kidney cancer, melanoma, lung cancer, liver cancer, breast cancer and prostate cancer, because these tumours are reachable by a probe and often respond to checkpoint inhibitors. Doctors usually consider it when disease has spread and standard treatment has stopped working. Suitability depends on where your tumours sit, how many there are, and whether imaging can guide the needle safely. Eligibility is decided case by case.</p>"
+          },
+          {
+            "q": "Is cryoimmunotherapy an approved treatment or still experimental?",
+            "a": "<p>Cryoablation and checkpoint inhibitors are each approved separately, but using them together as cryoimmunotherapy is still mostly investigational. Many centres offer it inside clinical trials or as an off-label combination decided by a tumour board. Approval status differs by country, so a protocol available in China or India may not be offered at home. Ask which regulatory route your centre is using before you travel.</p>"
+          },
+          {
+            "q": "What is the abscopal effect, and how often does it actually happen?",
+            "a": "<p>The abscopal effect is when treating one tumour causes tumours elsewhere in the body to shrink, without those sites being touched. It is real but uncommon, reported in a small share of patients in published series rather than in most of them. Combining cryoablation with a checkpoint inhibitor is one attempt to make it more likely. No team can promise it will happen for you.</p>"
+          },
+          {
+            "q": "What are the side effects of combining freezing with immunotherapy?",
+            "a": "<p>You may get pain, bleeding, swelling or damage to nearby tissue from the freezing itself, plus the immune-related side effects of checkpoint inhibitors, such as rash, colitis, thyroid problems, liver inflammation or, rarely, lung inflammation. Most immune reactions are manageable when caught early with steroids. Tell your team quickly about new diarrhoea, breathlessness or fatigue, because immune side effects can appear weeks after a dose.</p>"
+          },
+          {
+            "q": "How much does cryoimmunotherapy cost in India or China?",
+            "a": "<p>Cost is driven mainly by the checkpoint inhibitor, not the freezing procedure, because the drug is given repeatedly for months. A single cryoablation session is usually the smaller part of the bill, while immunotherapy cycles, scans and hospital stays add up. Prices vary widely between hospitals and by which drug is used. CancerFax can help you request itemised quotes from centres so you can compare like with like.</p>"
+          },
+          {
+            "q": "Am I eligible for cryoimmunotherapy?",
+            "a": "<p>Eligibility usually depends on having tumours a radiologist can reach safely with a probe, disease that is not overwhelming, reasonable organ function, and no active autoimmune condition that checkpoint inhibitors could worsen. Previous immunotherapy, steroid use and transplant history also matter. Only a tumour board reviewing your scans, pathology and current medicines can decide. CancerFax can pass your reports to centres for that review, but no centre can guarantee acceptance.</p>"
+          },
+          {
+            "q": "What happens on the day, and how long is recovery?",
+            "a": "<p>Cryoablation is usually done through the skin under sedation or general anaesthetic, guided by ultrasound or CT, and takes roughly one to two hours. Most people go home the same day or after one night. Checkpoint inhibitor infusions then continue every two to four weeks as an outpatient. Timing between the freeze and the first infusion varies by protocol, so ask your team for their schedule.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

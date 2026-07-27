@@ -1,0 +1,59 @@
+{
+  "pillar": "Lung RFA for Early-Stage NSCLC and Pulmonary Metastases",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "lung-rfa",
+  "route": "/insights/lung-rfa",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is radiofrequency ablation for lung tumours?",
+            "a": "<p>Radiofrequency ablation, or RFA, destroys a lung tumour with heat delivered through a thin needle placed directly into it. A CT scanner guides the needle through the chest wall, and an electrical current heats the tip until the tumour tissue dies. It treats the tumour without removing lung tissue, which is why it is often offered to people who cannot safely undergo an operation.</p>"
+          },
+          {
+            "q": "Can I have lung RFA if I am not fit for surgery?",
+            "a": "<p>Often yes — RFA was developed largely for patients whose lung function, heart disease, or age makes an operation too risky. It can usually be done with sedation and local anaesthetic, and it removes no healthy lung. Eligibility depends on where the tumour sits, how big it is, and whether your breathing can tolerate a small air leak, so a thoracic team decides case by case.</p>"
+          },
+          {
+            "q": "How well does RFA work for early-stage non-small cell lung cancer?",
+            "a": "<p>For stage I NSCLC tumours under about 3 cm, published series report local control of roughly 85 to 90 percent at one year, with three-year survival often in the 50 to 60 percent range. Results are best for small, round tumours surrounded by air rather than pressed against large blood vessels. RFA is not generally considered equal to surgery, so it is usually reserved for inoperable patients.</p>"
+          },
+          {
+            "q": "How large can a tumour be and still be ablated?",
+            "a": "<p>RFA works best on tumours up to about 3 cm. Below that size the heat zone can usually cover the whole tumour plus a margin of normal lung around it. Above 3 cm, and especially beyond 5 cm, the chance of leaving live cancer cells at the edge rises sharply and recurrence becomes more likely. Some centres treat larger lesions with overlapping ablations, but outcomes vary.</p>"
+          },
+          {
+            "q": "Can RFA treat cancer that has spread to my lungs from somewhere else?",
+            "a": "<p>Yes. Pulmonary metastases from colorectal cancer, sarcoma, kidney cancer and others are among the most common reasons lung RFA is used. Most teams treat patients who have a limited number of lesions, often up to three to five per lung, and whose original cancer is under control. It can be repeated if new spots appear later, which suits slow-growing metastatic disease.</p>"
+          },
+          {
+            "q": "How is lung RFA different from SBRT?",
+            "a": "<p>RFA kills the tumour with heat from a needle placed inside it; SBRT kills it with focused radiation beams from outside the body. SBRT involves no puncture and no risk of a collapsed lung, so many centres now prefer it for early NSCLC. RFA uses no radiation and can often be repeated more freely, which may matter if that part of your chest has already been irradiated.</p>"
+          },
+          {
+            "q": "What are the risks and side effects?",
+            "a": "<p>Pneumothorax, meaning air leaking around the lung, is the most common complication and occurs in roughly a third of procedures, though only a minority of patients need a chest drain. Coughing up small amounts of blood, fluid around the lung, fever and chest discomfort for a few days are also seen. Serious complications are uncommon in experienced hands, but risk rises with poor lung function.</p>"
+          },
+          {
+            "q": "How long does the procedure take and how fast is recovery?",
+            "a": "<p>A single-lesion ablation usually takes 30 to 90 minutes, and most patients stay one night so a follow-up chest X-ray can be done. Many people return to normal activity within a few days. You do not lose lung capacity the way you would after a lobectomy, which is why breathless patients often tolerate it well. Scan follow-up typically starts one to three months later.</p>"
+          },
+          {
+            "q": "How will I know whether the ablation worked?",
+            "a": "<p>Follow-up is by CT, usually at one, three, six and twelve months, sometimes with PET-CT added. The treated area looks larger than the original tumour at first — that is expected inflammation, not growth — and should shrink and settle over the following months.</p><p>An area that starts growing again, or takes up tracer on PET after six months, suggests residual disease and may be re-ablated or treated another way.</p>"
+          },
+          {
+            "q": "Is lung RFA available in India or China, and what does it cost?",
+            "a": "<p>Both countries offer CT-guided lung ablation at major cancer centres, generally at a fraction of Western prices, though any quoted figure depends on the number of lesions, the hospital, and how long you stay. CancerFax can help you send your CT scans and reports for review so a team abroad can say whether ablation is realistic before you travel. Confirm all costs and eligibility with the treating hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

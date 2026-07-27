@@ -1,0 +1,59 @@
+{
+  "pillar": "MRI-Guided HIFU: How Real-Time Imaging Improves Precision",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mri-guided-hifu",
+  "route": "/insights/mri-guided-hifu",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MRI-guided HIFU?",
+            "a": "<p>MRI-guided HIFU uses focused sound waves to heat and destroy a tumour from outside the body, while an MRI scanner watches the target as it happens. No cut is made and no radiation is used. The doctor sees the tumour, the healthy tissue around it, and the heat building up on screen during treatment. It is used for some bone, prostate, liver, breast and soft-tissue tumours.</p>"
+          },
+          {
+            "q": "How does real-time MRI actually make the treatment more precise?",
+            "a": "<p>MRI shows soft tissue in far more detail than ultrasound, and it can measure temperature inside the body while the beam is firing. This is called MR thermometry. The team can confirm the hot spot is landing on the tumour and stop before nearby nerves, bowel or skin overheat. Each pulse is checked before the next one is delivered, so the plan can be corrected while you are still on the table.</p>"
+          },
+          {
+            "q": "Which cancers can MRI-guided HIFU treat?",
+            "a": "<p>MRI-guided HIFU is used most often for painful bone metastases, localised prostate cancer, uterine fibroids, and selected liver, breast, kidney and pancreatic tumours. It works best when the sound beam can reach the tumour without passing through air-filled bowel, lung or dense bone. Tumours hidden behind ribs or gas are often unsuitable. Whether your specific tumour can be targeted depends on your imaging, so a HIFU centre must review your scans first.</p>"
+          },
+          {
+            "q": "Is MRI-guided HIFU better than ordinary ultrasound-guided HIFU?",
+            "a": "<p>MRI guidance gives better soft-tissue detail and live temperature readings, so it is generally more precise, while ultrasound guidance is faster, cheaper and more widely available. For pain from bone metastases and for careful prostate work, MRI guidance is often preferred. For large fibroids or some liver lesions, ultrasound guidance may be enough. The better choice depends on the tumour site and the experience of the centre treating you.</p>"
+          },
+          {
+            "q": "Will I be awake during the procedure?",
+            "a": "<p>Most patients are awake but sedated, lying still inside the MRI scanner for one to three hours. Some centres use spinal or general anaesthesia, particularly for prostate treatment. You may feel warmth or a deep ache at the treatment site, and you can tell the team through an intercom if the feeling turns sharp. Many people go home the same day, others stay one night for observation.</p>"
+          },
+          {
+            "q": "How soon will my bone pain improve after treatment?",
+            "a": "<p>Many patients with painful bone metastases report less pain within three to five days, and studies show meaningful relief in roughly two out of three people treated. Pain medicines can often be reduced over the following weeks. Some feel a short flare of soreness in the first day or two. Relief is not guaranteed and may fade over months, in which case retreatment or radiotherapy can be considered.</p>"
+          },
+          {
+            "q": "What are the side effects?",
+            "a": "<p>The common side effects are skin redness or a surface burn along the beam path, soreness, swelling and tiredness for a few days. Less often, nerve irritation causes numbness or weakness near the treated area, and prostate treatment can affect urination or erections. Because no radiation is used, there is no cumulative dose limit. Real-time MRI monitoring exists precisely to keep the heat away from nerves, skin and bowel.</p>"
+          },
+          {
+            "q": "How do I know if I am eligible?",
+            "a": "<p>Eligibility depends on where the tumour sits, how many tumours you have, and whether you can lie still inside an MRI scanner. People with pacemakers, certain metal implants, severe claustrophobia or heavy scarring over the beam path are often ruled out. A limited number of tumours in reachable sites is usually needed. Only a HIFU centre reviewing your recent MRI and CT can confirm whether you are a candidate.</p>"
+          },
+          {
+            "q": "What does MRI-guided HIFU cost in India or China?",
+            "a": "<p>MRI-guided HIFU is offered at a small number of centres in India and China, and typical package prices there run well below US or European costs, often a few thousand US dollars per session. Prices vary with tumour site, the number of sessions and whether anaesthesia is needed. CancerFax can help you send your scans to centres that perform this procedure, though the treating oncology team decides suitability and final cost.</p>"
+          },
+          {
+            "q": "Can I have it more than once, or after radiotherapy?",
+            "a": "<p>In many cases, yes. HIFU works by heat rather than radiation, so it can often be repeated and can be used on an area that has already received its maximum safe radiation dose. Doctors usually wait for swelling from the first session to settle before treating again. Whether repeat treatment helps depends on how the tumour responded and on your overall condition, so that decision rests with your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

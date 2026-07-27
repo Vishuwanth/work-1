@@ -1,0 +1,59 @@
+{
+  "pillar": "Barrett's Oesophagus RFA (HALO System): The Standard for Preventing Oesophageal Cancer",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "barretts-oesophagus-rfa-halo-system",
+  "route": "/insights/barretts-oesophagus-rfa-halo-system",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is radiofrequency ablation for Barrett's oesophagus?",
+            "a": "<p>Radiofrequency ablation (RFA) uses controlled heat delivered through a balloon or paddle catheter to destroy the abnormal Barrett's lining, so healthy squamous tissue can grow back in its place. It is done during a routine endoscopy, usually with no cuts and no hospital stay. Most patients need two to four sessions spaced about two to three months apart. Your gastroenterologist will confirm whether your segment is suitable for ablation.</p>"
+          },
+          {
+            "q": "Does RFA actually lower my risk of oesophageal cancer?",
+            "a": "<p>In Barrett's oesophagus with confirmed dysplasia, RFA can cut the risk of progressing to oesophageal cancer substantially. Trial data have shown roughly a 90 percent reduction in progression to high-grade dysplasia or cancer compared with surveillance alone. The benefit is clearest when dysplasia is present; for non-dysplastic Barrett's the gain is much smaller. Risk is reduced, not erased, so surveillance endoscopy continues after treatment.</p>"
+          },
+          {
+            "q": "What is the HALO system, and how is it different from other ablation methods?",
+            "a": "<p>HALO is the original radiofrequency ablation platform built specifically for Barrett's oesophagus, now sold under the Barrx name. It has two parts: a balloon catheter that treats a full circular band of the oesophagus in one pass, and smaller paddle catheters fitted to the endoscope tip for touching up leftover patches. The even, shallow burn depth is what separates it from older ablation techniques.</p>"
+          },
+          {
+            "q": "Do I need ablation, or can I just keep getting scoped?",
+            "a": "<p>Ablation is generally recommended when biopsies confirm low-grade or high-grade dysplasia, and after endoscopic resection of an early cancer to clear the remaining Barrett's segment. Non-dysplastic Barrett's is usually watched instead, because the yearly cancer risk is low. Eligibility depends on your dysplasia grade being confirmed by a second expert pathologist, your segment length, and whether any visible nodules need removing first.</p>"
+          },
+          {
+            "q": "Does the procedure hurt, and how long is the recovery?",
+            "a": "<p>You feel nothing during the procedure itself, because it is done under sedation or light anaesthesia. Afterwards, most people have chest discomfort, painful swallowing, and a sore throat for about three to seven days, managed with liquid painkillers and a soft or liquid diet. Most return to normal activity within a week. Contact your team promptly about fever, severe pain, or any vomiting of blood.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long does the whole thing take?",
+            "a": "<p>Most patients need two to four ablation sessions, each lasting roughly 30 to 45 minutes. Sessions are spaced about two to three months apart so the lining can heal in between. A full course often runs six to twelve months, ending with biopsies to confirm the Barrett's tissue is gone. Longer segments and slower healing can mean more sessions than the average.</p>"
+          },
+          {
+            "q": "What can go wrong after RFA?",
+            "a": "<p>The most common complication is a stricture, meaning the oesophagus narrows and swallowing becomes difficult. It affects roughly 5 to 6 percent of patients and is usually corrected with one or two stretching sessions during endoscopy. Bleeding and perforation are uncommon. Compared with surgically removing the oesophagus, RFA carries far lower risk. Ask your endoscopist about the specific risks for your segment length and prior treatments.</p>"
+          },
+          {
+            "q": "Can Barrett's come back after the treatment works?",
+            "a": "<p>Yes, Barrett's tissue can return, which is why surveillance endoscopy continues indefinitely even after a clear result. Recurrence rates of around 8 to 10 percent per year have been reported in the first years after treatment. Recurrent patches are often small and can be re-ablated during a routine check. Strict acid control with a proton pump inhibitor, and sometimes anti-reflux surgery, lowers the chance of recurrence.</p>"
+          },
+          {
+            "q": "What does Barrett's ablation cost if I travel to India or China?",
+            "a": "<p>Cost depends heavily on the country, the hospital, and how many sessions your segment needs. In India, a single RFA session is often a fraction of typical US or UK pricing, and some centres bundle endoscopy, pathology, and early follow-up into one package. Quotes frequently exclude repeat sessions and dilation. CancerFax can help you compare written quotes from centres that perform Barrett's ablation regularly.</p>"
+          },
+          {
+            "q": "How do I choose a hospital that does this procedure well?",
+            "a": "<p>Look for a high-volume centre where the same team handles both endoscopic resection and ablation, has expert gastrointestinal pathology on site, and runs a structured surveillance programme afterwards. Ask how many Barrett's ablations they perform each year and what their stricture rate is. CancerFax can share centre profiles and case volumes, which you can then review with your own treating gastroenterologist before deciding.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

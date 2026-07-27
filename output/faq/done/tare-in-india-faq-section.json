@@ -1,0 +1,59 @@
+{
+  "pillar": "TARE in India: Centres, Y-90 Access, and Costs for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tare-in-india",
+  "route": "/insights/tare-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is TARE, and how is it actually done?",
+            "a": "<p>TARE, or trans-arterial radioembolisation, delivers tiny radioactive yttrium-90 beads straight into the artery feeding a liver tumour. An interventional radiologist threads a catheter from the groin or wrist into the liver, releases the beads, and they lodge in the tumour and irradiate it from the inside over about two weeks. Healthy liver tissue is largely spared. It is usually a one- or two-session, minimally invasive procedure.</p>"
+          },
+          {
+            "q": "Which hospitals in India offer Y-90 radioembolisation?",
+            "a": "<p>Y-90 TARE is offered at a limited number of large tertiary centres in India, mainly in Delhi NCR, Mumbai, Chennai, Bengaluru and Hyderabad, where interventional radiology and nuclear medicine departments work side by side. Centres including Tata Memorial, AIIMS, Apollo, Fortis and Medanta have run Y-90 programmes. Availability shifts with staffing and isotope supply, so confirm current capability with the specific hospital before planning travel.</p>"
+          },
+          {
+            "q": "How much does TARE cost in India?",
+            "a": "<p>TARE in India typically costs around USD 12,000 to 20,000 for one treatment session, often a third to a half of prices in Europe or the United States. The quote usually covers the mapping angiogram, the Y-90 dose, the procedure itself and a short hospital stay, but not scans, travel or extended care. Costs vary with the centre, tumour load and whether both liver lobes need treating.</p>"
+          },
+          {
+            "q": "Am I eligible for TARE?",
+            "a": "<p>TARE may suit you if you have liver cancer or liver-dominant metastases that cannot be removed surgically, reasonably preserved liver function, and no major spread outside the liver. Before approval, the team performs a mapping angiogram and an MAA scan to check how much radiation would reach your lungs or stomach. Eligibility is decided case by case by the treating tumour board, and some patients are declined.</p>"
+          },
+          {
+            "q": "How long do I need to stay in India for the treatment?",
+            "a": "<p>Plan for roughly three to four weeks in India for a single TARE treatment. The first week covers consultations, scans and the mapping angiogram. The Y-90 delivery usually follows one to two weeks later, once your personalised dose is ordered and shipped. Most patients go home within a day or two of the procedure, then stay for one review before flying. Timelines can shift with isotope supply.</p>"
+          },
+          {
+            "q": "Are Y-90 microspheres actually available in India, or will there be delays?",
+            "a": "<p>Yes, Y-90 microspheres are imported and used routinely in India, but each dose is patient-specific and only ordered after your mapping scan, so a one- to two-week wait is normal. Supply depends on customs clearance, the manufacturer's shipping schedule and the isotope's short half-life, which means dates can move. Ask the centre to confirm the likely delivery window in writing before booking non-refundable flights.</p>"
+          },
+          {
+            "q": "Is TARE better than TACE for my liver tumour?",
+            "a": "<p>Neither is universally better; the choice depends on your tumour size, number of lesions, portal vein involvement and liver function. TARE often causes less post-procedure sickness and fever than TACE, needs fewer sessions, and can be used when a tumour has invaded the portal vein, where TACE is usually avoided. TACE costs far less and is more widely available. Your interventional radiologist and oncologist should decide together.</p>"
+          },
+          {
+            "q": "What side effects should I expect after TARE?",
+            "a": "<p>Most people get fatigue, mild abdominal pain, nausea or a low fever in the first one to two weeks, known as post-embolisation syndrome. Less commonly, beads reach the stomach or duodenum and cause ulcers, or the treatment strains liver function, particularly in an already cirrhotic liver. Careful mapping beforehand reduces these risks. Tell your team quickly about severe pain, persistent vomiting or yellowing of the skin.</p>"
+          },
+          {
+            "q": "Will TARE cure my liver cancer?",
+            "a": "<p>TARE is rarely a cure on its own; it is mainly used to control tumour growth, relieve symptoms and gain time. In some patients it shrinks a tumour enough to allow surgery or a transplant later, an approach called downstaging or bridging. Reported survival varies widely with tumour type, liver function and spread. Your oncologist can give a realistic picture once your scans and blood tests are reviewed.</p>"
+          },
+          {
+            "q": "How do I arrange a TARE opinion and treatment from outside India?",
+            "a": "<p>Start by sending recent CT or MRI scans, the biopsy report and liver function blood tests to the centre you are considering, because no Indian team will quote or plan TARE without them. Most hospitals return a treatment estimate and a visa invitation letter within a few working days. CancerFax can help route your records to centres running Y-90 programmes, though the treating oncology team decides suitability.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

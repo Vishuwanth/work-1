@@ -1,0 +1,59 @@
+{
+  "pillar": "Hepatocellular Carcinoma: Treatment and Advanced Options",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hepatocellular-carcinoma-treatment",
+  "route": "/insights/hepatocellular-carcinoma-treatment",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the best treatment for hepatocellular carcinoma?",
+            "a": "<p>The best treatment depends on tumour size, how many tumours there are, and how well your liver still works. Small, single tumours in a healthy liver are often treated with surgery, ablation, or transplant, and these can be curative. Larger or multiple tumours are usually managed with TACE, radiation, or drug therapy. Your hepatologist and oncologist decide together, so your options may differ from what you read online.</p>"
+          },
+          {
+            "q": "Can hepatocellular carcinoma be cured?",
+            "a": "<p>Yes, hepatocellular carcinoma can be cured when it is found early and the liver is still working well. Surgery to remove the tumour, liver transplant, and ablation all offer a real chance of long-term remission in small, single tumours. At later stages, treatment usually aims to control the cancer and extend life rather than cure it. Whether cure is realistic depends on your scans, liver function, and overall health.</p>"
+          },
+          {
+            "q": "How long can someone live with hepatocellular carcinoma?",
+            "a": "<p>Survival ranges from a few months to many years, and the stage at diagnosis matters more than anything else. People treated with surgery or transplant for early tumours often live five years or longer. In advanced disease, modern immunotherapy combinations have pushed median survival past 19 months in trials, compared with roughly 13 months on older drugs. These are study averages, not a prediction for any one person.</p>"
+          },
+          {
+            "q": "What is TACE, and how is it different from TARE?",
+            "a": "<p>TACE delivers chemotherapy straight into the artery feeding the tumour and then blocks that artery, while TARE sends tiny radioactive beads into the same vessel instead. Both are done through a small puncture in the groin or wrist, with no open surgery. TACE is more widely available and can be repeated; TARE may suit larger tumours or those near the portal vein. Your interventional radiologist chooses based on your scans.</p>"
+          },
+          {
+            "q": "Is immunotherapy an option for advanced liver cancer?",
+            "a": "<p>Yes, immunotherapy is now the standard first treatment for many people with advanced hepatocellular carcinoma. The most used option combines atezolizumab with bevacizumab, and another pairs durvalumab with tremelimumab. These drugs help your immune system attack the tumour rather than poisoning it directly. They are not suitable for everyone, particularly people with untreated varices, autoimmune disease, or a transplanted liver, so eligibility depends on endoscopy results and liver function.</p>"
+          },
+          {
+            "q": "Am I eligible for a liver transplant?",
+            "a": "<p>Transplant is usually offered when you have one tumour under 5 cm, or up to three tumours each under 3 cm, with no spread outside the liver. These are the Milan criteria, and some centres stretch them slightly. Poor liver function does not rule you out; transplant treats the cancer and the cirrhosis together. Waiting lists, donor availability, and age limits vary widely between countries and hospitals.</p>"
+          },
+          {
+            "q": "What is ablation, and when is it used instead of surgery?",
+            "a": "<p>Ablation destroys a tumour with heat, cold, or electrical energy delivered through a needle passed into the liver, guided by ultrasound or CT. It is mainly used for tumours under 3 cm, where results can match surgery with far less recovery time. Radiofrequency and microwave ablation are the common types. It may not be safe when the tumour sits against the bowel, gallbladder, or a large blood vessel.</p>"
+          },
+          {
+            "q": "How much does liver cancer treatment cost in India or China?",
+            "a": "<p>Costs vary widely, but TACE, ablation, and SBRT in India often run at a fraction of United States or European prices, with transplant packages usually the largest expense. China is a common choice for newer trial-based and cell therapy options. Quoted prices often exclude long hospital stays or complications. CancerFax can help you gather hospital quotes and records, though final costs and acceptance always rest with the treating centre.</p>"
+          },
+          {
+            "q": "What happens if my first treatment stops working?",
+            "a": "<p>Several second-line options exist, so a rising AFP or a growing tumour on your scan is not the end of treatment. Depending on what you had first, doctors may switch to regorafenib, cabozantinib, ramucirumab, lenvatinib, or a different immunotherapy. Local treatments such as TACE or radiation can still be added for one troublesome tumour. Clinical trials are worth asking about at this point, though enrolment depends on strict entry criteria.</p>"
+          },
+          {
+            "q": "Why do doctors keep talking about my Child-Pugh score?",
+            "a": "<p>The Child-Pugh score measures how well your liver is still working, and it decides which cancer treatments are safe for you. It combines bilirubin, albumin, clotting time, fluid in the abdomen, and confusion into a grade of A, B, or C. Most drug therapy and surgery is reserved for Child-Pugh A. Treating hepatitis or draining ascites can sometimes improve the score and reopen options that were closed before.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Iodine-131 Therapy: Radioactive Iodine Treatment for Thyroid Cancer and Thyroid Disorders",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "iodine-131-therapy",
+  "route": "/treatments/iodine-131-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is iodine-131 therapy and how does it actually work?",
+            "a": "<p>Iodine-131 is a radioactive form of iodine that you swallow as a capsule or liquid. Thyroid cells absorb iodine naturally, so the radiation collects inside them and destroys them from within while sparing most other tissue. Doctors use it after thyroid surgery to clear leftover thyroid tissue or cancer cells, and to calm an overactive thyroid. The dose depends on your diagnosis, scan results, and thyroid blood tests.</p>"
+          },
+          {
+            "q": "Which thyroid problems can radioactive iodine treat?",
+            "a": "<p>Radioactive iodine treats differentiated thyroid cancers, meaning papillary and follicular types, and overactive thyroid conditions such as Graves' disease and toxic nodular goitre. It does not work for medullary or anaplastic thyroid cancer, because those cells do not take up iodine. Your team usually confirms uptake with a scan before treating. Whether it suits you depends on tumour type, stage, and how much thyroid tissue remains after surgery.</p>"
+          },
+          {
+            "q": "Will I be radioactive afterwards, and for how long?",
+            "a": "<p>Yes, for a short time. You give off low-level radiation for roughly three to seven days after a cancer-sized dose, and less after the smaller doses used for an overactive thyroid. Hospitals typically ask you to sleep alone, keep distance from children and pregnant people, flush the toilet twice, and wash your cutlery separately.</p><p>Some centres admit you to an isolation room for one to three days, depending on local radiation rules.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>Most side effects are mild and settle within days. Common ones include a sore or swollen neck, dry mouth, changed taste, nausea for a day or two, and tender salivary glands. Sucking sour sweets and drinking plenty of water can ease salivary symptoms. Over the longer term, a few people develop lasting dry mouth or dry eyes, and very high cumulative doses may slightly raise second-cancer risk.</p>"
+          },
+          {
+            "q": "Do I really need a low-iodine diet before treatment?",
+            "a": "<p>In most cases yes. Centres usually ask for a low-iodine diet for one to two weeks beforehand so your thyroid cells are hungry for iodine and absorb more of the treatment dose. That means avoiding iodised salt, dairy, seafood, egg yolks, and many processed foods. You may also pause thyroid hormone tablets or receive injections to raise TSH. Always follow your own hospital's list, since instructions vary between countries.</p>"
+          },
+          {
+            "q": "How successful is iodine-131 for thyroid cancer?",
+            "a": "<p>Results are often very good. For papillary and follicular thyroid cancer treated with surgery plus radioactive iodine, long-term survival is frequently above 90 percent, and many patients need only one dose. Success depends on tumour size, spread to lymph nodes or lungs, your age, and how strongly the cancer takes up iodine. Your oncologist tracks the response with thyroglobulin blood tests and scans over the following months.</p>"
+          },
+          {
+            "q": "Can I have radioactive iodine more than once?",
+            "a": "<p>In many cases, yes. If blood tests or scans show remaining or returning disease, doctors can give further doses, usually spaced six to twelve months apart. Teams keep track of your total lifetime dose, because higher cumulative amounts increase effects on salivary glands, tear glands, and bone marrow. If the cancer stops absorbing iodine, it is called radioiodine-refractory, and treatment often shifts to targeted drugs or trials.</p>"
+          },
+          {
+            "q": "Will this treatment affect my chances of having children?",
+            "a": "<p>Fertility usually recovers. Most women resume normal periods within a year, and doctors commonly advise waiting six to twelve months before trying to conceive, so hormone levels settle and any further doses are complete. Men may see a temporary drop in sperm count, and sperm banking is often offered before repeated high doses. Pregnancy and breastfeeding rule out treatment entirely, so a pregnancy test beforehand is standard.</p>"
+          },
+          {
+            "q": "How much does radioactive iodine treatment cost in India or China?",
+            "a": "<p>Costs vary widely by centre and dose. In India, a single radioactive iodine dose with isolation admission often falls between a few hundred and a couple of thousand US dollars, well below typical Western hospital pricing, and Chinese centres sit in a broadly similar range. Quotes usually exclude surgery, scans, and follow-up. CancerFax can help you compare accredited centres, though final pricing rests with the treating hospital.</p>"
+          },
+          {
+            "q": "How do I find out whether I am eligible for iodine-131 therapy?",
+            "a": "<p>Ask for a review of your pathology report, recent scans, and thyroglobulin or thyroid function results. Eligibility generally depends on having an iodine-avid cancer or an overactive thyroid, no pregnancy or breastfeeding, and adequate kidney function and blood counts. CancerFax can help arrange a second opinion with thyroid specialists in India or China, but the decision to treat always stays with your own oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

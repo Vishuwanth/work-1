@@ -1,0 +1,59 @@
+{
+  "pillar": "China's Hybrid Immunotherapy Models: Combining CAR-T, TIL and Checkpoint Inhibitors",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-hybrid-immunotherapy-models",
+  "route": "/guides/china-hybrid-immunotherapy-models",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does \"hybrid immunotherapy\" actually mean in Chinese cancer centres?",
+            "a": "<p>Hybrid immunotherapy means giving two or more immune treatments together instead of one at a time, most often CAR-T cell therapy, tumour-infiltrating lymphocyte (TIL) therapy and checkpoint inhibitor drugs. The idea is that each one covers a weakness in the others. CAR-T supplies engineered killer cells, TIL adds cells that already recognise your tumour, and checkpoint inhibitors stop the tumour from switching those cells off.</p>"
+          },
+          {
+            "q": "Why do doctors add a checkpoint inhibitor to CAR-T or TIL therapy?",
+            "a": "<p>Because solid tumours often shut down transferred immune cells within days. Checkpoint inhibitors block the off-switch that tumours use, so infused CAR-T or TIL cells may survive longer and keep working inside the tumour. Chinese trial groups usually give the antibody shortly after the cell infusion rather than on the same day. Whether this helps in your case depends on your tumour type, and your oncologist should decide the sequence.</p>"
+          },
+          {
+            "q": "Does CAR-T work for solid tumours, or only for blood cancers?",
+            "a": "<p>CAR-T is proven mainly in blood cancers such as leukaemia, lymphoma and myeloma. For solid tumours it remains largely experimental everywhere, including China. Chinese centres are testing next-generation CAR-T against liver, gastric, pancreatic and lung cancers, often paired with TIL cells or checkpoint drugs to get past the dense tumour environment. Early results in some trials look encouraging, but responses vary widely and no solid-tumour CAR-T is routinely available.</p>"
+          },
+          {
+            "q": "What is TIL therapy, and which patients is it usually offered to?",
+            "a": "<p>TIL therapy uses immune cells taken from your own tumour, grown into the billions in a laboratory, then infused back to attack the cancer. It suits patients whose tumour can be surgically sampled and who are well enough for the preparatory chemotherapy. Melanoma, cervical, lung and head and neck cancers are the most studied. Eligibility depends on tumour accessibility, organ function and prior treatment, so a specialist assessment is essential.</p>"
+          },
+          {
+            "q": "Is it dangerous to combine CAR-T, TIL and checkpoint inhibitors?",
+            "a": "<p>Combining them raises the chance of immune side effects, so treatment happens only in hospitals equipped to manage them. The main risks are cytokine release syndrome (high fever and low blood pressure), nerve-related symptoms such as confusion, and inflammation of the lungs, bowel, liver or thyroid from checkpoint drugs. Most reactions can be treated when caught early. Protocols usually stagger the treatments rather than giving everything at once.</p>"
+          },
+          {
+            "q": "Can I join a hybrid immunotherapy trial in China if I live abroad?",
+            "a": "<p>Some Chinese hospitals do accept international patients into these programmes, but enrolment is never guaranteed. You will usually need translated medical records, recent scans, a pathology report and often fresh tumour tissue before any screening decision. CancerFax can help forward your records to centres running these protocols, though the treating oncology team makes the final call. Visa timing, open trial slots and your current disease status all affect whether you qualify.</p>"
+          },
+          {
+            "q": "How much does hybrid immunotherapy cost in China?",
+            "a": "<p>Expect a wide range. Commercial CAR-T in China is often quoted between roughly US$60,000 and US$120,000, while TIL therapy and checkpoint drugs add further cost; joining a clinical trial can reduce or cover the cell therapy itself. Hospital stays, conditioning chemotherapy, scans, translation and accommodation are usually billed separately. Quotes depend on the hospital and your treatment plan, so ask for a written estimate before travelling.</p>"
+          },
+          {
+            "q": "How long would I need to stay in China for this treatment?",
+            "a": "<p>Plan for roughly six to twelve weeks. Cell therapies need manufacturing time, usually two to four weeks after your cells or tumour tissue are collected, followed by conditioning chemotherapy, the infusion itself, and two to four weeks of close monitoring for side effects. Checkpoint inhibitor doses may continue after that. Timelines often stretch if manufacturing fails or your condition changes, so build in extra weeks.</p>"
+          },
+          {
+            "q": "Is China's approach different from what I would get in the United States or India?",
+            "a": "<p>China runs far more early-phase cell therapy trials than any other country, which means more combination protocols and faster access to experimental designs. The United States has stricter approval pathways and higher costs; India offers a growing but smaller cell therapy programme at lower prices. Quality varies between Chinese hospitals, so the centre matters as much as the country. Compare published trial data before committing.</p>"
+          },
+          {
+            "q": "What should I ask before agreeing to a combination protocol?",
+            "a": "<p>Ask whether the treatment is approved or experimental, what response rate has been published for your exact cancer type, who covers the cost if complications need intensive care, and what happens if the cells fail to grow. CancerFax can help you gather and translate the records these centres request, but your own oncologist should review any protocol before you commit. A second opinion is worth the short delay.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

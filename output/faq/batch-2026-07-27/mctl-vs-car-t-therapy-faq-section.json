@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL vs CAR-T Therapy: Key Differences for Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-vs-car-t-therapy",
+  "route": "/insights/mctl-vs-car-t-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the main difference between MCTL and CAR-T therapy?",
+            "a": "<p>The main difference is how the T cells are prepared and what they recognise. CAR-T cells are genetically engineered to attack one specific target, usually CD19 or BCMA on blood cancer cells. MCTL therapy uses your own T cells trained against several tumour markers at once, without genetic modification, which is why it is mainly studied in solid tumours. Your oncologist can explain which approach suits your diagnosis.</p>"
+          },
+          {
+            "q": "Does MCTL therapy work for solid tumours like lung or liver cancer?",
+            "a": "<p>MCTL is designed for solid tumours, and that is its clearest difference from CAR-T. Because the cells are trained against multiple tumour markers, they may recognise cancers that a single-target CAR-T cell misses, including lung, liver, stomach and pancreatic tumours. Results so far come from early studies and small patient groups in China, so response rates vary and depend heavily on tumour type and prior treatment.</p>"
+          },
+          {
+            "q": "Is MCTL approved, or is it still experimental?",
+            "a": "<p>MCTL is not an approved drug in the way commercial CAR-T products are. It is offered at selected hospitals in China through treatment programmes and clinical studies, rather than as a licensed therapy cleared by regulators in the United States, Europe or India. Approved CAR-T products have been reviewed for specific blood cancers. Access to MCTL depends on the treating centre and on review of your medical records.</p>"
+          },
+          {
+            "q": "Which one has worse side effects, MCTL or CAR-T?",
+            "a": "<p>CAR-T generally carries the heavier short-term risk. Cytokine release syndrome and neurological side effects are common enough after CAR-T that patients are monitored in hospital for weeks. MCTL infusions are usually described as milder, with fever, chills and fatigue being the reported effects, partly because the cells are not genetically engineered. Side effects still vary between patients, and your team will plan monitoring around your condition.</p>"
+          },
+          {
+            "q": "How much do MCTL and CAR-T therapy cost?",
+            "a": "<p>CAR-T in the United States or Europe often runs from 350,000 to 500,000 US dollars before hospital and travel costs, while CAR-T in India and China is usually quoted far lower. MCTL therapy in China is generally priced per treatment cycle and tends to sit below CAR-T totals. Quoted prices change often and depend on the hospital, the number of cycles and the length of your stay.</p>"
+          },
+          {
+            "q": "Where can I actually get MCTL therapy?",
+            "a": "<p>MCTL therapy is currently offered mainly at specialist cell therapy centres in China, with Bohai Biotech among the groups developing it. Patients travelling from abroad usually submit recent pathology reports, imaging and treatment history for review before a centre confirms whether the therapy may be suitable. CancerFax can help forward those records to participating hospitals, though the final decision always rests with the treating oncology team.</p>"
+          },
+          {
+            "q": "Can I try MCTL if CAR-T has already failed?",
+            "a": "<p>It may be possible, and this is one of the situations where MCTL is often discussed. Because MCTL targets several tumour markers rather than one, a relapse caused by loss of a single antigen does not automatically rule it out. Eligibility still depends on your blood counts, organ function, disease burden and how recently you were treated. Each centre reviews these records before accepting a patient.</p>"
+          },
+          {
+            "q": "How long does each treatment take from start to finish?",
+            "a": "<p>CAR-T usually takes four to eight weeks: cell collection, manufacturing, a few days of chemotherapy to prepare the body, then infusion and close monitoring. MCTL is normally given as repeated infusions over several weeks, with cells cultured between cycles and no heavy conditioning chemotherapy. Real timelines depend on the hospital's manufacturing schedule and on how quickly visas, records and travel can be arranged.</p>"
+          },
+          {
+            "q": "Do I need chemotherapy before either therapy?",
+            "a": "<p>CAR-T almost always needs lymphodepleting chemotherapy, usually fludarabine and cyclophosphamide, given a few days before infusion so the engineered cells can expand. MCTL generally does not require this conditioning step, which is one reason it can be considered for patients who are frailer or have low blood counts. Your oncologist decides this after reviewing your recent blood tests and organ function.</p>"
+          },
+          {
+            "q": "How do I decide which therapy is right for me?",
+            "a": "<p>Start with your diagnosis. If you have a B-cell blood cancer such as lymphoma, leukaemia or myeloma, approved CAR-T has the strongest evidence and should be discussed first. If you have a solid tumour with no remaining standard options, MCTL and similar cell therapies may be worth exploring. Bring both options to your oncologist with your full records, since fitness and disease stage often decide the answer.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

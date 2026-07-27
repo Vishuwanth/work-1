@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Therapy for Lung Cancer (NSCLC): What Patients Should Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-therapy-for-lung-cancer",
+  "route": "/insights/mctl-therapy-for-lung-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is MCTL therapy for lung cancer?",
+            "a": "<p>MCTL is multi-target cytotoxic T lymphocyte therapy, a cell treatment in which your own T cells are trained in a laboratory to recognise several tumour antigens at once, then expanded and infused back to attack non-small cell lung cancer. Unlike CAR-T, the cells are not genetically engineered. It is offered mainly in China, usually after standard treatment stops working, and suitability depends on your pathology.</p>"
+          },
+          {
+            "q": "Does MCTL therapy actually work for non-small cell lung cancer?",
+            "a": "<p>The evidence in NSCLC is early and comes mostly from small Chinese studies, so MCTL should be treated as investigational rather than proven. Reported outcomes include some tumour shrinkage and periods of stable disease, usually in patients who also received chemotherapy or immunotherapy rather than MCTL alone. No survival benefit has been confirmed in large randomised trials, so ask any centre for its own response data.</p>"
+          },
+          {
+            "q": "How is MCTL different from immunotherapy drugs like pembrolizumab?",
+            "a": "<p>Pembrolizumab and similar checkpoint inhibitors release the brakes on immune cells you already have, while MCTL supplies new T cells trained outside the body against specific tumour antigens. The two act at different points in the immune response, which is why some centres give them together. Which approach fits your cancer depends on PD-L1 status, prior treatment and your oncologist's review.</p>"
+          },
+          {
+            "q": "Who is eligible for MCTL therapy for lung cancer?",
+            "a": "<p>Centres generally consider patients with advanced or recurrent NSCLC whose tumour expresses antigens held in the MCTL target library, who are well enough to travel and undergo cell collection, and who have adequate blood counts and organ function. Very poor performance status, uncontrolled infection or untreated brain metastases often rule people out. Eligibility is decided only after a centre reviews your pathology, imaging and treatment history.</p>"
+          },
+          {
+            "q": "How is MCTL therapy given, and how long does it take?",
+            "a": "<p>Expect roughly four to eight weeks in total. Immune cells are collected from your blood over about a day, trained and grown in the laboratory for two to four weeks, then returned as several infusions spaced days or weeks apart. Most patients stay in China for three to five weeks. Cell growth varies between people, so keep flight and visa dates as flexible as you can.</p>"
+          },
+          {
+            "q": "What are the side effects of MCTL therapy?",
+            "a": "<p>Most reported side effects are mild and short-lived: low-grade fever, chills, tiredness and body aches for a day or two after each infusion. Because the cells are not genetically engineered and heavy lymphodepleting chemotherapy is not normally used, severe cytokine release syndrome is far less common than with CAR-T. Serious reactions can still happen, so infusions should be given where inpatient monitoring is available.</p>"
+          },
+          {
+            "q": "Can I have MCTL if my lung cancer has an EGFR or ALK mutation?",
+            "a": "<p>In many cases yes, because MCTL targets tumour antigens rather than the driver mutation itself, so EGFR, ALK or ROS1 disease does not automatically exclude you. Most centres still expect you to use targeted tablets first, since those usually control mutation-driven NSCLC well for a long period. MCTL is more often discussed once resistance to targeted therapy develops and options narrow.</p>"
+          },
+          {
+            "q": "How much does MCTL therapy for lung cancer cost in China?",
+            "a": "<p>Quotes for a full MCTL course in China commonly fall between about US$25,000 and US$60,000, before flights, accommodation, scans and any chemotherapy or immunotherapy given alongside it. The final figure depends on how many infusions you need, which antigens are selected and the hospital. Ask for an itemised written estimate, since diagnostics and supportive care often add a substantial amount the headline price hides.</p>"
+          },
+          {
+            "q": "Can MCTL be combined with chemotherapy or immunotherapy?",
+            "a": "<p>Yes, and it usually is. Chinese centres often pair MCTL with low-dose chemotherapy, a checkpoint inhibitor or radiotherapy, on the reasoning that reducing tumour bulk and immune suppression may help the infused cells work. Combination schedules vary widely between hospitals and are not standardised. Any proposed plan should be shared with your home oncologist so it does not clash with treatment you still need.</p>"
+          },
+          {
+            "q": "How do I find out whether MCTL is a realistic option for me?",
+            "a": "<p>Start with a document-based opinion rather than booking travel. Send your pathology report, recent CT or PET scans, mutation and PD-L1 results, treatment history and current blood counts to a centre running the protocol, and ask whether your tumour's antigens sit inside its target library. CancerFax can route those records to Chinese cell therapy units for review, though the final decision rests with your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

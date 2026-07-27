@@ -1,0 +1,59 @@
+{
+  "pillar": "How China Uses AI Pathology and Genomics to Personalise Cancer Treatment",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "how-china-uses-ai-pathology-and-genomics",
+  "route": "/guides/how-china-uses-ai-pathology-and-genomics",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does AI pathology actually do with my biopsy slide?",
+            "a": "<p>AI pathology turns your biopsy slide into a high-resolution digital image and scans it for patterns the eye can miss, such as tumour grade, immune cell density, and marker levels like PD-L1 or Ki-67. In Chinese cancer centres the software runs alongside a human pathologist, who reviews and signs every report. The goal is a faster and more consistent read of the same tissue, not a replacement diagnosis.</p>"
+          },
+          {
+            "q": "Is an AI reading of my slides more accurate than a human pathologist?",
+            "a": "<p>Not on its own. Studies from Chinese hospitals show AI matching or beating average human accuracy on narrow tasks, such as counting mitoses or scoring PD-L1, but it can be wrong on rare tumours it has seen little of. The reliable setup is both: AI does the first pass and the pathologist confirms it. Ask whether a board-certified pathologist has signed your report before you act on it.</p>"
+          },
+          {
+            "q": "What is genomic profiling and do I really need it?",
+            "a": "<p>Genomic profiling reads the DNA and RNA of your tumour to find the specific mutations driving it, which can point to a targeted drug or immunotherapy instead of standard chemotherapy. It matters most in lung, colorectal, breast, gastric, and biliary cancers, and in any cancer that has stopped responding to treatment. Whether it changes your plan depends on your cancer type and what drugs are available to you.</p>"
+          },
+          {
+            "q": "How much does comprehensive genomic testing cost in China?",
+            "a": "<p>A comprehensive panel covering 500 or more genes typically costs around USD 1,200 to 2,500 in China, compared with USD 3,000 to 6,000 in the United States. Smaller hotspot panels of 20 to 50 genes can run under USD 600. Prices vary by hospital, by whether tissue or blood is used, and by how fast you need the result, so ask for a written quote before you commit.</p>"
+          },
+          {
+            "q": "How long will I wait for the AI pathology and genomic results?",
+            "a": "<p>AI pathology results often come back within 24 to 48 hours of the slides being digitised, while a full genomic panel usually takes 7 to 14 working days. Combined reports at large centres in Shanghai, Beijing, and Guangzhou are commonly ready in about two weeks. Timelines can slip if the original tissue block is too old or too small and a fresh biopsy is needed.</p>"
+          },
+          {
+            "q": "Can I send my slides to China without travelling there myself?",
+            "a": "<p>In many cases, yes. Chinese centres can work from digitised slides, unstained tissue blocks, or paraffin sections couriered from your home hospital, and issue a written molecular report remotely. CancerFax can help arrange the sample transfer and translated reporting, though your own oncologist should decide whether the findings change your treatment. Some hospitals still require an in-person consultation before they will prescribe a drug based on the result.</p>"
+          },
+          {
+            "q": "Will these tests actually change the treatment I am given?",
+            "a": "<p>Often, but not always. Published series suggest roughly 30 to 50 percent of profiled patients find a mutation with a matching drug or trial, and a smaller share see their treatment actually change. For others the result confirms that standard chemotherapy remains the best option, which is still useful information. The value is highest in advanced disease or after a first line of treatment has failed.</p>"
+          },
+          {
+            "q": "Are China's AI pathology tools approved, or still experimental?",
+            "a": "<p>Both, depending on the tool. China's NMPA has approved several AI diagnostic systems for cervical cytology, lung nodule detection, and digital pathology assistance, and these are used in routine hospital practice. Other algorithms are still research-grade and are used only inside studies. Ask the hospital directly which of its AI tools carry NMPA clearance and which are being used on an investigational basis before you agree to testing.</p>"
+          },
+          {
+            "q": "Can a genomic report get me into a clinical trial in China?",
+            "a": "<p>A genomic report can open trial doors, but it does not guarantee a place. China runs one of the world's largest oncology trial programmes, and many trials screen for specific alterations such as EGFR, HER2, KRAS G12C, or Claudin 18.2. You will still need to meet age, organ function, and prior-treatment criteria, and some trials accept only patients already registered at the host hospital.</p>"
+          },
+          {
+            "q": "Is my genomic data safe if it is processed in China?",
+            "a": "<p>Your genomic data is treated as regulated health information under China's Personal Information Protection Law and its human genetic resources rules, which restrict how samples and sequence data leave the country. Hospitals normally require a signed consent form that states whether your data may be used for research. Ask for that consent form in a language you read, and ask who owns the raw sequencing files.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "What to Do When Two Cancer Specialist Opinions Disagree",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "when-cancer-opinions-disagree",
+  "route": "/guides/when-cancer-opinions-disagree",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What should I do if two oncologists give me different treatment plans?",
+            "a": "<p>Ask both doctors to put their reasoning in writing, then compare the two plans side by side. Disagreement usually comes down to a specific point — the stage, a biopsy reading, or how fit you are for surgery. Once you can name that point, a third specialist can often settle it quickly. Most differences are about sequence and timing rather than whether treatment can help you at all.</p>"
+          },
+          {
+            "q": "Does a second opinion that disagrees mean my first doctor was wrong?",
+            "a": "<p>Not usually. Cancer guidelines often list two or three acceptable options for the same diagnosis, so two skilled oncologists can read the same scans and choose differently. A disagreement is a signal to look closer, not proof of error. Ask each doctor which guideline or trial data they are following. If both can point to published evidence, you are usually choosing between two reasonable paths rather than right and wrong.</p>"
+          },
+          {
+            "q": "Should I get a third opinion to break the tie?",
+            "a": "<p>Often yes, and it works best when the third opinion comes from a high-volume centre that treats your cancer type every week. Send the complete file — pathology slides, raw scan images, and both written plans — so the third team can review the same evidence. Ask them to comment specifically on where the first two differ. A tumour board review may give you several specialists in one sitting.</p>"
+          },
+          {
+            "q": "How do I know which opinion to trust?",
+            "a": "<p>Weigh how specialised the doctor is, not how confident they sound. Ask how many patients with your exact cancer and stage they treat each year, whether they reviewed your actual slides or only a report, and whether their plan matches current guidelines. A subspecialist who sees your disease weekly often has sharper judgement than a generalist. Confidence and bedside manner are not evidence of accuracy.</p>"
+          },
+          {
+            "q": "What if the disagreement is about my pathology or biopsy report?",
+            "a": "<p>Ask for the glass slides to be re-read by a specialist pathologist at a major cancer centre. Pathology review changes the diagnosis or subtype in a meaningful minority of cases, and every treatment decision sits on top of that report. Request repeat or expanded molecular testing if the tissue allows it. When two oncologists disagree, the root cause is often the pathology, not the treatment philosophy.</p>"
+          },
+          {
+            "q": "One doctor says surgery first, the other says chemotherapy first. How do I decide?",
+            "a": "<p>Ask both to explain what they expect to gain from their sequence and what they lose by waiting. Chemotherapy first can shrink a tumour, show how the cancer responds, and make surgery smaller; surgery first can remove disease before it spreads further. The right order often depends on tumour size, location, and your fitness. Ask each doctor what would change their mind — the answer is usually revealing.</p>"
+          },
+          {
+            "q": "How long can I safely wait while I sort out conflicting advice?",
+            "a": "<p>For most solid tumours, taking one to three weeks to resolve a genuine disagreement usually does not measurably change the outcome. Some situations are urgent — acute leukaemia, spinal cord compression, airway or bowel obstruction — and need a decision within days. Ask your oncologist directly how much time you have; a good doctor will give you a number. Use that window deliberately rather than letting it drift away.</p>"
+          },
+          {
+            "q": "What if the two opinions come from different countries, like India and China?",
+            "a": "<p>Cross-border opinions can differ because drug approvals, trial access, and standard protocols differ by country. A therapy that is routine in China may still be investigational in India, and the reverse also happens. Ask each team to state which parts of their plan are locally approved and which depend on a trial. CancerFax can help assemble your records for review by teams in both countries, with your treating oncologist involved.</p>"
+          },
+          {
+            "q": "What questions should I ask to close the gap between two plans?",
+            "a": "<p>Ask each specialist the same five questions: what is my exact diagnosis and stage, what is the goal of your plan, what are the realistic chances of benefit, what are the main side effects, and what is the strongest argument against your own recommendation. Write the answers down. Comparing identical questions side by side exposes the real disagreement far faster than recalling two long consultations from memory.</p>"
+          },
+          {
+            "q": "Will asking for another opinion offend my current oncologist?",
+            "a": "<p>Almost never. Second opinions are routine in oncology, and most experienced specialists expect and welcome them. Say plainly that you want to be confident before starting a long treatment, and ask their office to release your records. If a doctor reacts badly or refuses to share your file, treat that as useful information about them. Your records belong to you in most health systems, and you can ask for a copy.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

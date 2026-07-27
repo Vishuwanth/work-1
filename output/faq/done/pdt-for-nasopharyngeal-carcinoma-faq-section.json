@@ -1,0 +1,59 @@
+{
+  "pillar": "PDT for Nasopharyngeal Carcinoma Recurrence: China's Unique Clinical Expertise",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pdt-for-nasopharyngeal-carcinoma",
+  "route": "/insights/pdt-for-nasopharyngeal-carcinoma",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is photodynamic therapy for recurrent nasopharyngeal cancer?",
+            "a": "<p>Photodynamic therapy, or PDT, uses a light-sensitive drug plus a laser to destroy recurrent tumour tissue in the nasopharynx. The drug is given by injection, collects in cancer cells, and is then switched on by a fibre-optic light passed through the nose. Because the light only reaches a few millimetres deep, PDT suits shallow, localised recurrence rather than deep or widely spread disease.</p>"
+          },
+          {
+            "q": "Why is China considered a leader in PDT for nasopharyngeal carcinoma?",
+            "a": "<p>China treats far more nasopharyngeal carcinoma than any other country, so its head and neck centres have built unusual depth in endoscopic PDT for recurrence. Hospitals in Guangzhou, Hong Kong and Shanghai run dedicated laser suites, use domestically produced photosensitisers, and have teams who perform the procedure regularly. That volume often translates into sharper patient selection and more confident handling of difficult recurrences.</p>"
+          },
+          {
+            "q": "Am I eligible for PDT if my cancer came back after radiotherapy?",
+            "a": "<p>You may be a candidate if the recurrence is local, visible on endoscopy, and sits within about one centimetre of the surface. PDT is often considered when re-irradiation is too risky and surgery is hard to reach. Tumours encasing the carotid artery, invading the skull base, or with distant spread are usually excluded.</p><p>CancerFax can forward your scans for review, but only the treating oncology team can confirm eligibility.</p>"
+          },
+          {
+            "q": "Does the procedure hurt, and how many sessions will I need?",
+            "a": "<p>Most patients feel little pain during treatment, because it is done under local anaesthetic or light sedation with an endoscope passed through the nose. The photosensitiser is given hours to days beforehand, then a thin laser fibre delivers light to the tumour for roughly ten to thirty minutes. One to three sessions are common, depending on how the tumour responds.</p>"
+          },
+          {
+            "q": "How long does recovery take after nasopharyngeal PDT?",
+            "a": "<p>Most people go home within a day or two and return to normal activity in two to four weeks. The treated tissue sloughs and heals over several weeks, which can bring a sore throat, crusting and an unpleasant smell from the nose during that period. Regular endoscopic cleaning helps. Light avoidance continues for as long as the photosensitiser stays in your skin.</p>"
+          },
+          {
+            "q": "What are the side effects of PDT?",
+            "a": "<p>The most distinctive side effect is skin and eye sensitivity to bright light, which can last from a few days to about six weeks depending on the photosensitiser used. Local effects include swelling, pain, bleeding and temporary nasal blockage while the area heals. Serious complications such as carotid bleeding or exposed bone are uncommon but real, and are more likely in heavily irradiated tissue.</p>"
+          },
+          {
+            "q": "How much does PDT for nasopharyngeal carcinoma cost in China?",
+            "a": "<p>PDT in China commonly costs roughly USD 8,000 to 20,000 per treatment course, with the photosensitiser drug and the endoscopic laser session the largest items. Imaging, biopsy, hospital stay and repeat sessions add to that. Prices differ widely between cities and hospitals, and a quote can change once local staging is complete, so treat any pre-travel figure as an estimate.</p>"
+          },
+          {
+            "q": "How well does PDT actually work for recurrent nasopharyngeal cancer?",
+            "a": "<p>Reported local control after PDT for superficial recurrence often falls between 50 and 80 percent at one year in carefully selected patients, and some patients live for years after repeated sessions. These numbers come from small studies at experienced centres and depend heavily on tumour thickness and previous treatment. PDT can control disease and relieve symptoms, but it is not a guaranteed cure.</p>"
+          },
+          {
+            "q": "Can PDT be combined with immunotherapy or chemotherapy?",
+            "a": "<p>Yes, PDT is increasingly given alongside immunotherapy or chemotherapy rather than on its own. Chinese centres often pair it with PD-1 antibodies such as toripalimab or camrelizumab, on the reasoning that destroying tumour tissue with light may make the cancer more visible to the immune system. The evidence is still early and largely from trials, so suitability depends on your prior drug treatment and organ function.</p>"
+          },
+          {
+            "q": "How do I arrange PDT treatment in China as an international patient?",
+            "a": "<p>Plan on roughly three to five weeks in China for a first course, covering assessment, the procedure, healing checks and light precautions. You will need a medical visa, recent scans, pathology slides and a translated treatment summary. Most centres ask for a video consultation and a deposit before issuing an invitation letter, and services such as CancerFax can help assemble that paperwork. Schedules can change, so confirm dates before booking flights.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

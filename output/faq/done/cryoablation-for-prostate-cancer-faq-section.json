@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation for Prostate Cancer: Whole Gland and Focal Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-for-prostate-cancer",
+  "route": "/insights/cryoablation-for-prostate-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoablation for prostate cancer?",
+            "a": "<p>Cryoablation freezes prostate tumour tissue to death using thin needles that deliver argon gas, guided by ultrasound through the skin behind the scrotum. Temperatures near minus 40 degrees Celsius destroy cancer cells, while a warming catheter protects the urinary channel. The procedure usually takes under two hours under general or spinal anaesthesia, and most men go home the same day or the next morning.</p>"
+          },
+          {
+            "q": "Am I a candidate for focal cryotherapy instead of whole gland freezing?",
+            "a": "<p>Focal cryotherapy may suit men whose cancer sits in one identifiable area of the prostate, confirmed by MRI and targeted biopsy, often with intermediate-risk disease. Men with cancer scattered through both lobes, or with high-risk features, are more often offered whole gland treatment or another approach. Eligibility depends on your MRI, biopsy map, PSA and gland size, so your urologist decides case by case.</p>"
+          },
+          {
+            "q": "How is focal cryoablation different from whole gland cryoablation?",
+            "a": "<p>Focal cryoablation freezes only the part of the prostate containing cancer, while whole gland cryoablation freezes the entire prostate. Treating less tissue generally means lower rates of erectile dysfunction and urinary problems, but it leaves untreated prostate behind that must be watched with PSA tests, MRI and sometimes repeat biopsy. Whole gland treatment covers more disease at the cost of more side effects.</p>"
+          },
+          {
+            "q": "Will cryoablation leave me impotent?",
+            "a": "<p>Erectile dysfunction is common after whole gland cryoablation, because the nerves controlling erections run along the outside of the prostate and are hard to spare when the whole organ is frozen. Focal treatment on one side is often much kinder, and many men keep usable erections. Recovery can take many months, and tablets, injections or a vacuum device may help. Your function before treatment strongly predicts the result.</p>"
+          },
+          {
+            "q": "Does cryoablation cause urinary incontinence?",
+            "a": "<p>Serious incontinence is uncommon after cryoablation, and most men do not need pads long term, particularly after focal treatment. A urethral warming catheter shields the urinary channel during freezing, which lowers the risk. Temporary urgency, a weak stream, or needing a catheter for a few days is normal. Risk is higher if you have had radiotherapy before, so ask your surgeon for their own figures.</p>"
+          },
+          {
+            "q": "What is recovery like after prostate cryotherapy?",
+            "a": "<p>Most men leave hospital within a day and return to desk work in about one to two weeks. A urinary catheter usually stays in for three to seven days, sometimes longer, and mild swelling or bruising around the scrotum and perineum is expected. Blood in the urine or semen can appear for a few weeks. Heavy lifting and cycling are usually avoided for around a month.</p>"
+          },
+          {
+            "q": "Can I have cryoablation if radiation has already failed?",
+            "a": "<p>Yes, salvage cryoablation is one of the established options when prostate cancer returns after radiotherapy, and it can be repeated in a way some other treatments cannot. Doctors first confirm the recurrence is still confined to the prostate, usually with PSMA PET imaging and a fresh biopsy. Side effect rates are higher in previously irradiated tissue, so this decision needs an experienced salvage team.</p>"
+          },
+          {
+            "q": "What PSA level should I expect after cryoablation?",
+            "a": "<p>After whole gland cryoablation, PSA usually falls to a very low level, often under 0.5, within about three months. After focal treatment PSA drops but does not reach zero, because healthy prostate tissue is deliberately left behind and keeps producing it.</p><p>Doctors watch the trend rather than one reading, testing every three to six months. A steadily rising pattern may trigger MRI and repeat biopsy.</p>"
+          },
+          {
+            "q": "How much does prostate cryoablation cost in India or China?",
+            "a": "<p>Cryoablation in India commonly runs from roughly 6,000 to 12,000 US dollars including hospital stay and imaging, and Chinese centres often quote a similar or slightly higher range. Costs shift with the number of cryoprobes used, anaesthesia, and whether treatment is focal or whole gland. CancerFax can help you gather written quotes from hospitals abroad, though final pricing depends on the treating centre's own assessment.</p>"
+          },
+          {
+            "q": "If cryoablation does not work, can I still have surgery or radiation?",
+            "a": "<p>Yes, most further options usually stay open. Radiotherapy, hormone therapy and repeat focal ablation are generally straightforward after cryoablation, and surgery remains possible, although scarring can make it technically harder and it is best done by a high-volume surgeon. Your treating oncology team will base the next step on where the cancer returned and your overall health, and CancerFax can help arrange second opinions.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

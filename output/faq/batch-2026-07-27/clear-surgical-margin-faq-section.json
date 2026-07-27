@@ -1,0 +1,59 @@
+{
+  "pillar": "What Does a Clear Surgical Margin Mean, and What Happens if Mine Is Positive?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "clear-surgical-margin",
+  "route": "/insights/clear-surgical-margin",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What does a clear surgical margin actually mean?",
+            "a": "<p>A clear surgical margin means the rim of normal tissue around the removed tumour contains no cancer cells under the microscope. The pathologist inks the outer surface of the specimen and checks every edge. A clear margin, also called a negative margin or R0, suggests the surgeon removed the whole visible tumour. It lowers the chance of the cancer returning in that spot, though it cannot guarantee the cancer will never come back.</p>"
+          },
+          {
+            "q": "My margin is positive. What does that mean for me?",
+            "a": "<p>A positive margin means cancer cells reach the cut edge of the tissue that was removed, so some disease may have been left behind. It does not mean the operation failed or that the cancer has spread elsewhere. In many cases your team will recommend a second operation, radiotherapy, or closer follow-up. The right next step depends on the tumour type, where it sits, and how much tumour touches the edge.</p>"
+          },
+          {
+            "q": "How many millimetres of clear tissue do I need?",
+            "a": "<p>It depends on the cancer. Breast surgeons often accept a margin of zero millimetres, as long as no tumour touches the inked edge. Melanoma may need 10 to 20 millimetres of skin. Rectal, head and neck, and sarcoma surgery usually aim for 1 to 5 millimetres. A margin under 1 millimetre is often called close and may be treated like a positive one. Ask your surgeon which threshold applies to your tumour.</p>"
+          },
+          {
+            "q": "Will I have to go back for a second surgery?",
+            "a": "<p>Often, but not always. Re-excision is common in breast, skin, and thyroid surgery, where a small extra rim of tissue can usually be taken safely. When the tumour sits against a nerve, a major blood vessel, or an organ that cannot be sacrificed, radiotherapy is often offered instead of more surgery.</p><p>Your surgeon weighs the expected benefit against the risk of another anaesthetic, so this decision is individual.</p>"
+          },
+          {
+            "q": "Does a positive margin mean my cancer will come back?",
+            "a": "<p>No. A positive margin raises the risk of the cancer returning in the same area, but it is only one factor among many. Grade, stage, lymph node status, and tumour biology often carry more weight. Many patients with a positive margin never relapse, particularly after additional radiotherapy or drug treatment. Your oncologist can estimate your own risk from the full pathology report rather than from the margin alone.</p>"
+          },
+          {
+            "q": "How long will I wait to find out about my margins?",
+            "a": "<p>Most final pathology reports are ready 5 to 10 working days after surgery. Complex specimens that need extra stains or molecular tests can take two to three weeks. Some operations use frozen section, which checks a margin within 20 to 30 minutes while you are still under anaesthetic, but that answer is preliminary and can change. The final report is the one that guides your treatment decisions.</p>"
+          },
+          {
+            "q": "What do R0, R1, and R2 mean on my report?",
+            "a": "<p>These codes describe how much tumour remained after surgery. R0 means no cancer at the margin, which is the outcome surgeons aim for. R1 means microscopic cancer touches the cut edge, visible only under the microscope. R2 means tumour was left behind that could be seen with the naked eye during the operation. Your report may use the words negative and positive instead, which carry the same meaning as R0 and R1.</p>"
+          },
+          {
+            "q": "Can radiotherapy deal with a positive margin instead of more surgery?",
+            "a": "<p>In many cases it can. Radiotherapy to the tumour bed targets the microscopic cells a positive margin suggests were left behind, and it is standard practice after breast-conserving surgery, some head and neck operations, and sarcoma removal. It is not equivalent to surgery for every cancer. Whether it can replace re-excision depends on the tumour type, the dose your tissues can safely take, and any radiation you have already had.</p>"
+          },
+          {
+            "q": "Should I get a second opinion on my pathology report?",
+            "a": "<p>It is a reasonable step, especially when the margin is reported as close, the diagnosis is rare, or a second operation is being planned. Slides and paraffin blocks can be sent to another pathologist for review, and margin status does change in a small share of cases. CancerFax can help arrange review of your slides and reports at specialist centres, with any change in findings discussed by your treating oncology team.</p>"
+          },
+          {
+            "q": "I am travelling to India or China for surgery. What should I ask about margins?",
+            "a": "<p>Ask which margin the surgeon aims for, whether frozen section is used during the operation, how soon the final report is issued, and what happens if the margin returns positive after you have flown home. Ask for your pathology report, slides, and blocks to be released to you.</p><p>CancerFax can help you confirm these points with a hospital before you travel, though the final surgical plan always rests with your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

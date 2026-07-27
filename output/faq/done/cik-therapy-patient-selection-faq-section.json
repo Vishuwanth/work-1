@@ -1,0 +1,59 @@
+{
+  "pillar": "Patient Selection for CIK Therapy: Who Is a Good Candidate?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-patient-selection",
+  "route": "/insights/cik-therapy-patient-selection",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Who is a good candidate for CIK therapy?",
+            "a": "<p>The strongest candidates usually have a good performance status, working liver, kidney and bone marrow function, and a low or moderate amount of remaining disease. CIK therapy is most often given after surgery, chemotherapy or radiotherapy has already reduced the tumour, rather than as a first treatment for bulky disease. Final eligibility depends on your scans, blood counts and the judgement of your treating oncology team.</p>"
+          },
+          {
+            "q": "Does CIK therapy work for my type of cancer?",
+            "a": "<p>CIK therapy has been studied most in liver cancer, gastric cancer, lung cancer, kidney cancer and some blood cancers, usually alongside standard treatment. Because the cells can attack tumour cells without needing one specific marker, doctors have tried it across many solid tumours, but the evidence is stronger for some than for others. Whether it may help you depends on your cancer type, stage and previous treatment.</p>"
+          },
+          {
+            "q": "Am I too weak or too sick for CIK therapy?",
+            "a": "<p>Most centres ask that you be well enough to walk and care for yourself for at least half of the day, often described as an ECOG score of 0 to 2, with a life expectancy of more than three months. Patients who are bedbound, have failing organs, or have an uncontrolled infection are usually not accepted. Your oncologist can reassess this if your condition improves with supportive care.</p>"
+          },
+          {
+            "q": "Can I have CIK therapy alongside chemotherapy or immunotherapy?",
+            "a": "<p>Yes. CIK therapy is normally given with or shortly after standard treatment rather than instead of it. Many protocols place the cell infusions in the gaps between chemotherapy cycles, so the collected cells are not damaged by the drugs, and some centres combine it with checkpoint inhibitors. The exact timing depends on your blood counts and should be planned by the team running your main treatment.</p>"
+          },
+          {
+            "q": "What tests decide whether I qualify for CIK therapy?",
+            "a": "<p>Expect recent imaging, a full blood count, liver and kidney function tests, and screening for hepatitis B, hepatitis C and HIV, since active infection can rule out cell collection. Centres also check that you have enough healthy white cells to harvest, and review your pathology report and treatment history. CancerFax can help assemble these records for review, though the treating centre makes the final eligibility decision.</p>"
+          },
+          {
+            "q": "Is there an age limit for CIK therapy?",
+            "a": "<p>There is usually no strict upper age limit, because fitness matters more than the number. Many programmes accept patients in their seventies and beyond when organ function and performance status are acceptable, while some clinical trials set a cut-off at 70 or 75. Children are treated only in specialist centres. An older patient in good general health may qualify where a younger, frailer patient does not.</p>"
+          },
+          {
+            "q": "Can I have CIK therapy if my cancer has already spread?",
+            "a": "<p>Metastatic disease does not automatically rule you out, but results are generally better when the tumour burden is small. CIK cells appear to work best at clearing scattered residual cancer cells after surgery, chemotherapy or radiotherapy, rather than shrinking large masses on their own. If your disease is widespread, doctors often reduce it with standard treatment first and then consider CIK therapy as maintenance.</p>"
+          },
+          {
+            "q": "Will low blood counts stop me from having CIK therapy?",
+            "a": "<p>Low counts can delay treatment, because the therapy begins by collecting your own white blood cells from a vein. Centres usually want an adequate lymphocyte count and stable haemoglobin and platelets before that collection. If your bone marrow is still recovering from chemotherapy, the harvest may simply be postponed by a few weeks rather than cancelled. Your team will repeat the blood tests before deciding.</p>"
+          },
+          {
+            "q": "Who should not have CIK therapy?",
+            "a": "<p>CIK therapy is generally avoided in people with active autoimmune disease, uncontrolled infection, severe heart, liver or kidney failure, or anyone needing high-dose steroids, which can suppress the transferred cells. Pregnancy and untreated brain metastases are common exclusions too. Patients who have had an organ transplant need careful review, because immune stimulation may raise the risk of rejection. These judgements depend on your full medical history.</p>"
+          },
+          {
+            "q": "How do I find out if I am eligible for CIK therapy in China or India?",
+            "a": "<p>Start by asking your own oncologist whether cell therapy fits your treatment plan, then send your pathology report, recent scans and blood results to the centre you are considering. Most hospitals abroad will give a written opinion on eligibility before you travel. CancerFax can pass these records to accredited centres and relay their response, though acceptance, cost and timing are always decided by the hospital.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "HIFU in India: Centres, Indications, and Access for International Patients",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hifu-in-india",
+  "route": "/insights/hifu-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIFU and what is it used for in India?",
+            "a": "<p>HIFU, or high-intensity focused ultrasound, uses focused sound waves to heat and destroy tumour tissue without cutting the skin. In India it is used most often for localised prostate cancer, and at some centres for uterine fibroids and selected liver, pancreatic or bone tumours. The beam is guided in real time by ultrasound or MRI. Whether it suits your tumour depends on its size, location and stage, so your oncology team must confirm this.</p>"
+          },
+          {
+            "q": "Which hospitals in India actually offer HIFU?",
+            "a": "<p>HIFU is available at a small number of large private hospitals in metro cities, mainly Delhi NCR, Mumbai, Chennai, Bengaluru and Hyderabad, where urology or interventional oncology units run dedicated ablation programmes. It is not offered everywhere, and machine availability changes from year to year. Ask each centre for its annual HIFU case volume and the operator's experience before you travel, because results often depend on how regularly the team performs it.</p>"
+          },
+          {
+            "q": "Am I a candidate for HIFU if I have prostate cancer?",
+            "a": "<p>HIFU may suit you if your cancer is still confined to the prostate, your risk group is low or intermediate, the gland is not very large, and the tumour is clearly visible on MRI. Men whose cancer has spread beyond the gland, or who have heavy calcification or previous pelvic radiation, are often unsuitable. Eligibility is decided only after MRI and targeted biopsy are reviewed by the treating centre in India.</p>"
+          },
+          {
+            "q": "How much does HIFU cost in India?",
+            "a": "<p>HIFU in India commonly costs between roughly USD 4,000 and USD 9,000 at private hospitals, depending on whether treatment is focal or whole-gland. That is usually far less than the same procedure in the UK, Europe or the United States. Quotes generally cover the procedure, anaesthesia and a short stay, but not pre-treatment MRI, biopsy, travel or follow-up. Prices vary by city and machine, so ask for a written itemised estimate.</p>"
+          },
+          {
+            "q": "Is HIFU an approved, standard treatment in India?",
+            "a": "<p>HIFU is approved and available in India, but it is treated as an alternative to surgery and radiation rather than the automatic first choice. Guidelines generally position focal HIFU for prostate cancer as an option best delivered in experienced centres with close follow-up. Expect regular PSA testing and repeat MRI afterwards. Depending on your risk group, your team may still recommend radical surgery or radiotherapy as the safer long-term option.</p>"
+          },
+          {
+            "q": "What are the side effects of HIFU?",
+            "a": "<p>Most men recover quickly and need a urinary catheter for a few days up to two weeks, often with mild burning or some blood in the urine. Erection problems and urinary leakage can occur, but are usually less frequent than after radical surgery, particularly with focal treatment. Less common problems include urinary infection and narrowing of the urethra. Your own risk depends on tumour position and how much tissue is treated.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India for HIFU?",
+            "a": "<p>Plan on about seven to ten days in India for a straightforward HIFU case. The procedure takes one to four hours under general or spinal anaesthesia, and many patients go home the same day or after one night. The remaining days cover pre-treatment scans and blood tests, catheter removal and a review appointment. Allow longer if you need a fresh biopsy or if your team wants to recheck your PSA.</p>"
+          },
+          {
+            "q": "Can HIFU treat cancers other than prostate cancer?",
+            "a": "<p>Yes, though the evidence is thinner. Indian centres also use HIFU for uterine fibroids and, in selected patients, for liver, pancreatic, kidney and soft-tissue tumours, as well as for pain from bone metastases. In most of these the goal is tumour control or symptom relief rather than cure, and HIFU is usually combined with chemotherapy or other treatment. Availability for these indications is limited, so confirm with the centre before travelling.</p>"
+          },
+          {
+            "q": "Is HIFU better than surgery or radiation for me?",
+            "a": "<p>HIFU is not automatically better; it trades a lower chance of incontinence and impotence for a higher chance of needing further treatment later. Radical prostatectomy and radiotherapy have decades of long-term survival data behind them, while focal HIFU has shorter follow-up. Many men with low- or intermediate-risk disease reasonably choose HIFU, but the right answer depends on your risk group, age and priorities, and should come from your oncology team.</p>"
+          },
+          {
+            "q": "What do I need to arrange as an international patient?",
+            "a": "<p>You will need a medical visa, recent MRI and biopsy reports, your PSA history and a written treatment plan from the Indian centre before you travel. Most hospitals can give a remote opinion from uploaded scans within a few days. CancerFax can help you send those records to HIFU-capable centres and compare their responses, though the final treatment decision always rests with you and your treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

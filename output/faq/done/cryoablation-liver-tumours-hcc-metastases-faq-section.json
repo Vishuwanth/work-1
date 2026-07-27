@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation for Liver Tumours: HCC and Hepatic Metastases",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-liver-tumours-hcc-metastases",
+  "route": "/insights/cryoablation-liver-tumours-hcc-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoablation and how does it treat liver tumours?",
+            "a": "<p>Cryoablation destroys a liver tumour by freezing it. A doctor guides one or more thin needles into the tumour through the skin, usually using CT or ultrasound, then circulates argon gas to drop the tissue temperature to around minus 40°C. Repeated freeze and thaw cycles rupture the cancer cells. The dead tissue is left in place, and the body clears it slowly over several months.</p>"
+          },
+          {
+            "q": "Am I a candidate for liver cryoablation?",
+            "a": "<p>Cryoablation is usually offered when liver tumours are small, few in number, and cannot be removed surgically. Many teams consider up to three or four lesions under about 4 cm in patients with reasonably preserved liver function. Position matters as much as size, because tumours near large vessels, bile ducts or bowel carry extra risk. Eligibility depends on your scans, so only your treating team can confirm it.</p>"
+          },
+          {
+            "q": "Is cryoablation better than radiofrequency ablation for my liver tumour?",
+            "a": "<p>Neither is universally better, and the choice usually comes down to where the tumour sits. Cryoablation lets the doctor watch the ice ball form on scans during treatment, which helps near delicate structures, and it often causes less pain afterwards. Radiofrequency ablation has longer published follow-up in liver cancer and seals small vessels as it burns, lowering bleeding risk. Many centres offer both and decide case by case.</p>"
+          },
+          {
+            "q": "Does cryoablation work for HCC as well as liver metastases?",
+            "a": "<p>Yes, it is used for both, although the evidence base differs. In small hepatocellular carcinoma, local control after complete ablation is often reported around 80 to 90 percent at three years, broadly similar to other ablation methods. For colorectal and other metastases, cryoablation can control individual lesions well but is usually one part of a plan that also includes systemic therapy. Results depend on tumour size and number.</p>"
+          },
+          {
+            "q": "How long does the procedure take, and how long will I be in hospital?",
+            "a": "<p>Most liver cryoablation procedures take one to two hours, with a single overnight stay. It is normally done under sedation or general anaesthesia through a small skin puncture, so there is no large incision. Many patients go home the next day and return to light activity within a week. Stays run longer if several tumours are treated, if a surgical approach is used, or if cirrhosis is advanced.</p>"
+          },
+          {
+            "q": "What are the risks and side effects of freezing a liver tumour?",
+            "a": "<p>Most patients have pain at the needle site, mild fever and fatigue for a few days, which settles on its own. Bleeding is the main serious risk, because freezing does not seal blood vessels the way heat does; it occurs in a small percentage of cases and may need transfusion or embolisation. Rarer problems include bile duct injury, infection and a flu-like reaction called cryoshock. Your team weighs these against your liver function.</p>"
+          },
+          {
+            "q": "Can the tumour come back after cryoablation?",
+            "a": "<p>Yes, recurrence is common and does not mean the treatment failed. Cancer can return at the treated edge if the ice ball did not extend far enough beyond the tumour, or appear elsewhere in the liver, which is why scanning every three months is standard. Tumours larger than 3 cm and those beside large veins recur more often. Many recurrences can be treated again with ablation, surgery or drug therapy.</p>"
+          },
+          {
+            "q": "How much does liver cryoablation cost in India or China?",
+            "a": "<p>Costs vary widely by hospital and by how many tumours are treated. In India, a single session of percutaneous liver ablation commonly falls somewhere between USD 3,000 and 6,000, including imaging and a short stay, and Chinese centres often quote broadly similar figures. Prices usually exclude flights, accommodation, follow-up scans and systemic therapy. CancerFax can help you compare written quotations, but final pricing depends on your case.</p>"
+          },
+          {
+            "q": "Will I need chemotherapy or other treatment as well?",
+            "a": "<p>Often yes, because cryoablation only treats what the needle can reach. It controls disease at the treated site but does nothing for cancer cells elsewhere in the body. Patients with liver metastases usually continue chemotherapy or targeted therapy around the procedure. In hepatocellular carcinoma, ablation may be combined with TACE for larger tumours, or followed by immunotherapy in selected cases. The right combination depends on your stage and liver function.</p>"
+          },
+          {
+            "q": "How do I arrange cryoablation abroad, and what will the hospital need from me?",
+            "a": "<p>Start by sending recent scans and reports so an interventional radiologist can confirm the tumour is treatable this way. Hospitals typically ask for a triphasic CT or MRI of the liver from the last four to six weeks, blood counts, liver function tests and your treatment history. CancerFax can pass these to reviewing centres and return written opinions. Acceptance, dates and medical visa timing can never be guaranteed in advance.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Second-Line Treatment Options for Advanced NSCLC: MCTL vs Standard Care",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "second-line-treatment-options-for-advanced-nsclc",
+  "route": "/insights/second-line-treatment-options-for-advanced-nsclc",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What happens if my first treatment for advanced NSCLC stops working?",
+            "a": "<p>When first-line treatment stops working, you move to second-line therapy, which usually means docetaxel chemotherapy, immunotherapy, a targeted drug matched to a new mutation, or a clinical trial such as multi-target cellular therapy. The right choice depends on what you had before, your biomarker results, and how well your body is coping. Your oncologist may repeat scans or a biopsy before deciding, since tumours often change over time.</p>"
+          },
+          {
+            "q": "What is MCTL therapy?",
+            "a": "<p>MCTL stands for multi-target cytotoxic T lymphocyte therapy. Doctors collect immune cells from your blood, train them in a laboratory to recognise several tumour markers at once, grow them in large numbers, and infuse them back. The aim is a broader attack than a single-target treatment can give. MCTL is still investigational for advanced NSCLC and is mainly offered inside clinical trials or specialist programmes, largely in China.</p>"
+          },
+          {
+            "q": "How is MCTL different from the immunotherapy I already had?",
+            "a": "<p>Checkpoint immunotherapy such as pembrolizumab releases a brake on immune cells you already have, while MCTL gives you new immune cells grown and trained outside the body. That difference matters if your cancer progressed on a checkpoint drug, because the failure mechanisms are not the same. It does not guarantee MCTL will work for you, and most evidence so far comes from small early-phase studies rather than large randomised trials.</p>"
+          },
+          {
+            "q": "Is MCTL better than docetaxel chemotherapy?",
+            "a": "<p>There is no head-to-head trial proving MCTL beats docetaxel, so neither can be called better today. Docetaxel has decades of data and a known response rate of roughly 7 to 10 percent in second-line NSCLC, with predictable side effects. MCTL reports gentler toxicity in early studies but far less long-term evidence. For most patients the honest comparison is proven-but-modest against promising-but-unproven, and that choice depends on your situation.</p>"
+          },
+          {
+            "q": "Do I need a new biopsy before starting second-line treatment?",
+            "a": "<p>Often yes, because tumours change as they grow and a repeat biopsy can reveal new mutations that open up targeted options. Doctors look for resistance changes such as EGFR T790M, MET amplification, or small-cell transformation, any of which would redirect your treatment. If tissue is hard to reach, a blood-based liquid biopsy may be used instead. Your oncologist will weigh the information gained against the risk of the procedure.</p>"
+          },
+          {
+            "q": "Where can I actually get MCTL therapy?",
+            "a": "<p>MCTL is offered mainly at licensed cell therapy centres in China, and is not approved as routine care in most other countries. Access usually runs through a clinical trial or a hospital-based programme, and each centre sets its own eligibility rules around organ function, disease burden, and previous treatments. CancerFax can help you send your records to these centres for review, though the treating oncology team makes the final decision.</p>"
+          },
+          {
+            "q": "What does MCTL cost, and will my insurance pay for it?",
+            "a": "<p>Cell therapy programmes in China commonly quote roughly 30,000 to 60,000 US dollars per treatment course, though prices vary widely by centre, cell dose, and how many infusions you need. Most insurers outside China do not cover investigational cell therapy, so families often pay privately. Ask any centre for a written breakdown that includes screening tests, hospital stay, and follow-up scans before you commit to travel.</p>"
+          },
+          {
+            "q": "What are the side effects of MCTL compared with chemotherapy?",
+            "a": "<p>Reported MCTL side effects are usually mild and short-lived, most often fever, chills, fatigue, and a temporary drop in blood pressure in the days after infusion. Docetaxel more often causes low white blood cells, infection risk, hair loss, nerve pain, and mouth sores. Milder side effects do not mean the treatment is working better, and any cell therapy can occasionally trigger a serious immune reaction needing hospital care.</p>"
+          },
+          {
+            "q": "How long does the whole MCTL process take, and how long would I stay abroad?",
+            "a": "<p>Plan on about four to eight weeks abroad for a full MCTL course. Screening and blood collection take the first week, the laboratory then needs two to four weeks to grow your cells, and infusions are usually given over several days with monitoring in between. Response scans normally follow one to three months later. Timelines shift if your cells grow slowly or your condition changes.</p>"
+          },
+          {
+            "q": "Can I have MCTL alongside chemotherapy or immunotherapy?",
+            "a": "<p>Many centres do combine MCTL with low-dose chemotherapy or a checkpoint drug, on the theory that shrinking the tumour first helps the infused cells work. Combination protocols vary between hospitals and are still being tested, so the added benefit is not yet proven. Never stop a working standard treatment to start cell therapy without discussing it with your own oncologist, who knows your full history.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

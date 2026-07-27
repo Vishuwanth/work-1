@@ -1,0 +1,59 @@
+{
+  "pillar": "Tamoxifen: Side Effects, CYP2D6 Drug Interactions, and What to Monitor",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tamoxifen-side-effects",
+  "route": "/insights/tamoxifen-side-effects",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most common side effects of tamoxifen?",
+            "a": "<p>Hot flushes, night sweats, vaginal dryness or discharge, mood changes and irregular periods are the side effects most women report on tamoxifen. Most appear in the first few months and often settle as your body adjusts. Less common but more serious problems include blood clots and changes in the womb lining. Tell your oncology team about any new symptom, because many of these can be managed without stopping treatment.</p>"
+          },
+          {
+            "q": "What is CYP2D6 and why does it matter if I am on tamoxifen?",
+            "a": "<p>CYP2D6 is a liver enzyme that converts tamoxifen into endoxifen, the active form that actually blocks oestrogen in breast tissue. If that enzyme works poorly, less endoxifen is produced and the drug may be less effective. Some people inherit a slow version of the gene, and certain medicines block the enzyme. Your oncologist can weigh whether testing or a medicine change makes sense in your case.</p>"
+          },
+          {
+            "q": "Which antidepressants should I avoid while taking tamoxifen?",
+            "a": "<p>Paroxetine and fluoxetine are the antidepressants most often avoided with tamoxifen, because they strongly block the CYP2D6 enzyme that activates the drug. Bupropion and duloxetine are also considered strong or moderate blockers. Venlafaxine, citalopram and escitalopram interfere far less and are usually preferred when an antidepressant is needed for depression or hot flushes. Never stop or swap an antidepressant on your own; ask the doctor who prescribed it.</p>"
+          },
+          {
+            "q": "Should I get a CYP2D6 test before starting tamoxifen?",
+            "a": "<p>Routine CYP2D6 testing is not standard practice in most countries, because trials have not consistently shown that it changes survival. Some oncologists still order it when a woman has recurrent disease, is taking an interacting medicine, or wants every possible piece of information. If the result shows poor metabolism, your team may discuss switching to an aromatase inhibitor after menopause. The decision depends on your specific situation.</p>"
+          },
+          {
+            "q": "Does tamoxifen cause uterine cancer?",
+            "a": "<p>Tamoxifen slightly raises the risk of womb cancer in women who have gone through menopause, but the risk stays low, roughly two extra cases per 1,000 women over five years. For most women the benefit in preventing breast cancer recurrence far outweighs it. Report any vaginal bleeding, spotting or unusual discharge straight away, because early investigation usually finds a harmless cause such as thickening of the lining.</p>"
+          },
+          {
+            "q": "What should my doctor be monitoring while I take tamoxifen?",
+            "a": "<p>Expect a review every three to six months covering symptoms, any vaginal bleeding, leg swelling or breathlessness, and how you are coping with hot flushes. Most teams also check liver function and lipids periodically, and arrange a yearly eye check if you have vision changes, since cataracts are slightly more common. Pelvic scans are done when there are symptoms, not as routine screening for everyone.</p>"
+          },
+          {
+            "q": "What warning signs of a blood clot should I watch for?",
+            "a": "<p>Go to an emergency department if you develop pain, swelling, redness or warmth in one calf, sudden breathlessness, chest pain, or you cough up blood. Tamoxifen roughly doubles the baseline risk of clots, which remains small for most women but rises after surgery, long flights or long periods of immobility. Tell any surgeon or travel doctor that you are on tamoxifen so precautions can be planned.</p>"
+          },
+          {
+            "q": "Are there over-the-counter medicines or supplements that interfere with tamoxifen?",
+            "a": "<p>Yes. Some over-the-counter and herbal products block CYP2D6 or affect oestrogen levels, including diphenhydramine-containing sleep aids, high-dose black cohosh, St John's wort and soy isoflavone supplements. Cimetidine for heartburn is another common culprit. Bring every tablet, vitamin and herbal remedy you take to your appointment so the pharmacist can check them properly. Most of them can be swapped for a safer alternative rather than stopped altogether.</p>"
+          },
+          {
+            "q": "How long will I be on tamoxifen, and can I stop if the side effects are bad?",
+            "a": "<p>Most women take tamoxifen for five years, and many are advised to continue to ten years when the risk of recurrence is higher. Stopping early can reduce the protection it gives, so talk to your oncologist before changing anything. Side effects can often be eased with a dose taken at bedtime, non-hormonal treatment for hot flushes, or vaginal moisturisers, and switching to another hormone therapy is sometimes an option.</p>"
+          },
+          {
+            "q": "Who can review my tamoxifen plan if I am being treated in another country?",
+            "a": "<p>A medical oncologist who specialises in breast cancer should review your full medication list, because interactions and monitoring differ from country to country. CancerFax can help you share your reports with breast cancer specialists in India and China for a second opinion, though any change to your hormone therapy should be agreed with the team treating you. Bring your pathology report, receptor status and a complete list of medicines.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

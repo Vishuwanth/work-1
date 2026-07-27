@@ -1,0 +1,59 @@
+{
+  "pillar": "Cost of CIK Therapy in China: A Complete Breakdown",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-cost-china",
+  "route": "/insights/cik-therapy-cost-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does CIK therapy cost in China?",
+            "a": "<p>A full course of CIK therapy in China typically costs between 8,000 and 25,000 US dollars, depending on how many infusions you receive and which hospital treats you. Most quotes cover cell collection, laboratory expansion, and the infusions themselves. Scans, hospital admission, and other cancer treatment are usually billed separately. Ask for an itemised written estimate before travelling, as prices vary by centre and can change.</p>"
+          },
+          {
+            "q": "What is included in the price of a CIK course?",
+            "a": "<p>A standard CIK quote usually covers blood or apheresis collection, two to three weeks of laboratory cell expansion, quality testing, and four to six infusions. It rarely includes PET-CT or MRI scans, biopsy, inpatient bed charges, chemotherapy given alongside, interpreter services, or accommodation. Hospitals differ in what they bundle, so ask specifically which of these items are inside the quoted figure and which are extra.</p>"
+          },
+          {
+            "q": "Why is CIK therapy cheaper in China than in Western countries?",
+            "a": "<p>CIK therapy costs less in China mainly because laboratory processing, hospital staffing, and inpatient care are cheaper there, and because Chinese centres run cell expansion at higher volume. CIK is also not a licensed commercial product in the United States or Europe, so there is no Western retail price to compare against. Lower cost does not mean lower complexity, and it does not change the strength of the evidence behind the treatment.</p>"
+          },
+          {
+            "q": "Do I need to pay for more than one course?",
+            "a": "<p>Many Chinese hospitals recommend repeating a CIK course every three to six months, so budget for the possibility of two or more courses rather than one. Each repeat course carries close to the full price again, since fresh cells must be collected and grown each time. How many courses are advised depends on your cancer type, response, and the treating team's protocol, and this should be agreed before you commit financially.</p>"
+          },
+          {
+            "q": "What are the hidden costs of travelling to China for CIK therapy?",
+            "a": "<p>The most commonly missed costs are repeat scans on arrival, extended hotel stays during the two to three week cell growth period, medical visa fees, translation of pathology reports, interpreter charges, and a companion's travel. Together these can add several thousand dollars to a quoted course. Because cell manufacturing sometimes runs longer than planned, budget for a stay longer than the hospital's estimate.</p>"
+          },
+          {
+            "q": "Does insurance cover CIK therapy in China?",
+            "a": "<p>Most international insurers do not cover CIK therapy, because it is not an approved standard treatment outside China and is often delivered within a research setting. Some policies may reimburse associated hospital costs such as scans or admission even when the cell therapy itself is excluded. Send your insurer the hospital's written protocol and quote before travelling, and expect to self-fund the cell therapy component.</p>"
+          },
+          {
+            "q": "How does CIK cost compare with CAR T-cell therapy in China?",
+            "a": "<p>CIK therapy is far cheaper, at roughly 8,000 to 25,000 US dollars a course, while CAR T-cell therapy in China commonly runs from about 60,000 to 150,000 US dollars. The gap reflects genetic engineering, stricter manufacturing, and intensive monitoring for side effects with CAR T. They are not interchangeable treatments, and cost should not decide between them without specialist review of your cancer type.</p>"
+          },
+          {
+            "q": "Should I pay a deposit before I travel?",
+            "a": "<p>Most Chinese hospitals ask for a deposit or advance payment before starting cell collection, since manufacturing begins at their cost. Pay through the hospital's official banking channel, never to an individual agent's personal account, and get a receipt naming the hospital. Ask in writing what happens to your deposit if you are found ineligible after arrival, or if the cell culture fails to grow.</p>"
+          },
+          {
+            "q": "Can the final bill be higher than the quote I was given?",
+            "a": "<p>Yes, and it often is. Final bills commonly rise when arrival scans show disease progression requiring a changed plan, when a longer hospital stay is needed, when supportive medication is added, or when a cell batch must be regrown. Ask the hospital for its policy on cost changes and request updated estimates in writing at each stage rather than only at admission.</p>"
+          },
+          {
+            "q": "How do I get an accurate cost estimate before deciding?",
+            "a": "<p>Send your recent pathology report, imaging, and blood results to two or three Chinese centres and ask each for a written itemised quote covering the full course, not a single infusion. Comparing quotes side by side exposes what one hospital has left out. CancerFax can help organise these records and obtain written cost estimates, though eligibility and the final treatment plan remain decisions for your oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

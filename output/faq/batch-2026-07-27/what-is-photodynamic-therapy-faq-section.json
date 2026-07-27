@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is Photodynamic Therapy and How Does It Work?",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-photodynamic-therapy",
+  "route": "/insights/what-is-photodynamic-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is photodynamic therapy in simple terms?",
+            "a": "<p>Photodynamic therapy (PDT) is a cancer treatment that uses a light-sensitive drug plus a specific colour of light to kill cancer cells. You are given the drug, it collects in the tumour over hours or days, and then a laser or LED light is aimed at that area. The light switches the drug on, which produces a form of oxygen that destroys the treated cells while leaving most untreated tissue alone.</p>"
+          },
+          {
+            "q": "How does the light actually kill the cancer cells?",
+            "a": "<p>The light activates the drug, and the activated drug converts ordinary oxygen inside the cell into reactive singlet oxygen, which damages cell membranes and proteins until the cell dies. PDT also closes the small blood vessels feeding the tumour and can trigger an immune response against remaining cancer cells. This is why the effect is limited to where the drug is present and the light reaches.</p>"
+          },
+          {
+            "q": "Which cancers is photodynamic therapy actually used for?",
+            "a": "<p>PDT is most established for cancers on a surface the light can reach: skin cancers such as basal cell carcinoma, actinic keratosis, Barrett's oesophagus and early oesophageal cancer, some lung cancers in the airway, and certain head, neck, bladder and bile duct tumours. It is also used to relieve blockage and bleeding in advanced disease. Whether it suits your specific tumour depends on its type, size and location.</p>"
+          },
+          {
+            "q": "How long does the whole treatment take?",
+            "a": "<p>The light session itself usually takes 10 to 45 minutes, but the full appointment spans the waiting time after the drug is given. For skin creams that wait is about three hours; for drugs given by drip it can be 24 to 72 hours, so treatment is often split across two visits. Many people have PDT as an outpatient, though internal treatments may need sedation or a short stay.</p>"
+          },
+          {
+            "q": "Is photodynamic therapy painful?",
+            "a": "<p>Most people describe a stinging, burning or prickling feeling in the treated area during the light session rather than sharp pain. Skin treatments are often the most uncomfortable, and teams manage this with cooling air, numbing cream, pausing the light or a lower light dose. Internal treatments are usually done under sedation or anaesthetic, so you should not feel the light itself.</p>"
+          },
+          {
+            "q": "What are the main side effects I should expect?",
+            "a": "<p>The common effects are redness, swelling, crusting and soreness in the treated area, which usually settle over one to six weeks as the skin or lining heals. Internal PDT can cause temporary difficulty swallowing, cough, or a sore throat and chest. The most important effect is light sensitivity, since some drugs make your skin and eyes react strongly to bright light for weeks.</p>"
+          },
+          {
+            "q": "Will I have to stay out of the sun afterwards?",
+            "a": "<p>Yes, and this restriction matters more than most people expect. With drugs given by drip, such as porfimer sodium, you may need to avoid direct sunlight and bright indoor light for four to six weeks, using long sleeves, gloves and a wide hat outdoors. With topical creams the sensitivity is usually only 24 to 48 hours. Your team will give you exact dates based on the drug used.</p>"
+          },
+          {
+            "q": "How does PDT compare with surgery or radiation?",
+            "a": "<p>PDT usually causes less scarring than surgery and can be repeated in the same area, unlike radiation, which has a lifetime dose limit. The trade-off is depth: light only penetrates about five to ten millimetres, so PDT cannot reach deep or spread tumours the way surgery and radiation can. For thin, surface-level cancers it can give similar control with better cosmetic results.</p>"
+          },
+          {
+            "q": "Can PDT cure my cancer or is it only for symptom relief?",
+            "a": "<p>PDT can be curative for early, thin, well-defined tumours, and cure rates for some superficial skin cancers are often above 85 to 90 percent. For larger or advanced tumours it is more often used to shrink disease, reopen a blocked airway or oesophagus, and reduce bleeding or pain. Which of these applies to you depends on the stage and position of your tumour, and your oncologist's assessment is the deciding factor.</p>"
+          },
+          {
+            "q": "Is photodynamic therapy available in India or China, and what does it cost?",
+            "a": "<p>PDT is offered at selected large cancer centres in both India and China, more commonly for skin, oesophageal and airway tumours than for other sites. Costs vary widely with the drug used, the number of light sessions and whether an endoscopy or anaesthetic is needed, so a written estimate is essential before you travel.</p><p>CancerFax can help you check which centres currently run PDT programmes and what documents they need, but eligibility and the final treatment plan always rest with the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

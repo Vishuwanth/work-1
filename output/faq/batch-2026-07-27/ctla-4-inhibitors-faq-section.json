@@ -1,0 +1,59 @@
+{
+  "pillar": "CTLA-4 Inhibitors: Ipilimumab, Tremelimumab, and the Next Generation of Checkpoint Immunotherapy",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "ctla-4-inhibitors",
+  "route": "/treatments/ctla-4-inhibitors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What do CTLA-4 inhibitors actually do in my body?",
+            "a": "<p>CTLA-4 inhibitors release a brake on your immune system so T cells can attack cancer. CTLA-4 is a protein on T cells that switches them off early, in the lymph nodes, before they multiply. Blocking it lets more cancer-fighting T cells form and spread through the body. Ipilimumab and tremelimumab are the two approved drugs in this class, and both are given by drip into a vein.</p>"
+          },
+          {
+            "q": "Which cancers is ipilimumab approved to treat?",
+            "a": "<p>Ipilimumab is approved for advanced melanoma, and in combination with nivolumab for several other cancers, including kidney cancer, certain colorectal cancers, liver cancer, mesothelioma, and some lung cancers. Approvals differ by country, so a drug cleared in the United States may not yet be licensed where you live. Your oncologist can confirm what is available locally and whether your tumour type and stage fit the approved indication.</p>"
+          },
+          {
+            "q": "What is tremelimumab used for, and how is it different from ipilimumab?",
+            "a": "<p>Tremelimumab is approved with durvalumab for advanced liver cancer and for metastatic non-small cell lung cancer without EGFR or ALK changes. It blocks the same CTLA-4 brake as ipilimumab, but the schedule differs: liver cancer regimens often use one priming dose followed by durvalumab alone. Availability varies by country, and eligibility depends on your liver function, tumour stage, and treatments you have already had.</p>"
+          },
+          {
+            "q": "Why do doctors combine a CTLA-4 inhibitor with a PD-1 drug like nivolumab?",
+            "a": "<p>Combining them releases two different immune brakes at once, which often produces deeper and longer-lasting responses than either drug alone. CTLA-4 blockade helps build a larger army of T cells, while PD-1 blockade keeps those cells working inside the tumour. In melanoma and kidney cancer, the combination has raised long-term survival rates. The trade-off is more frequent and more severe side effects, so fitness and organ health matter.</p>"
+          },
+          {
+            "q": "What side effects should I watch for on ipilimumab?",
+            "a": "<p>The most common serious side effects are immune attacks on healthy organs, especially diarrhoea and colitis, skin rash, liver inflammation, and thyroid or pituitary gland problems. These can begin weeks or even months after a dose. Most can be controlled with steroids if caught early, which is why any new symptom should be reported the same day. Risk is higher at larger doses and in combination regimens.</p>"
+          },
+          {
+            "q": "How is the treatment given, and how long will I be on it?",
+            "a": "<p>Ipilimumab is given as an intravenous infusion over roughly 30 to 90 minutes, usually every three weeks for four doses in melanoma, or every six weeks when paired with nivolumab. Tremelimumab is often a single priming dose alongside durvalumab. Treatment length depends on how the cancer responds and how well you tolerate it, so your team may stop early or continue longer.</p>"
+          },
+          {
+            "q": "Is a CTLA-4 combination better than immunotherapy alone for me?",
+            "a": "<p>Not for everyone. Adding a CTLA-4 inhibitor can improve response rates and long-term survival in melanoma, kidney cancer, and some lung cancers, but it also sharply raises the risk of severe immune side effects. For older patients, or those with autoimmune disease or fragile organs, a PD-1 inhibitor alone may be safer. Your oncologist weighs tumour type, PD-L1 level, and overall fitness before deciding.</p>"
+          },
+          {
+            "q": "How much do CTLA-4 inhibitors cost in India or China?",
+            "a": "<p>Costs vary widely by drug, dose, and country. In India, a combination immunotherapy cycle commonly runs into several lakhs of rupees, though locally made options have lowered prices for some agents. In China, cost depends on whether the drug sits on the national reimbursement list. CancerFax can help you request itemised estimates from hospitals, but ask for the full planned course rather than one infusion, since prices may change.</p>"
+          },
+          {
+            "q": "What are the newer CTLA-4 drugs I keep reading about?",
+            "a": "<p>Next-generation CTLA-4 drugs are being designed to keep the anti-cancer effect while reducing toxicity. Approaches include antibodies that act mainly inside the tumour, molecules switched on only by tumour enzymes, and bispecific drugs that hit CTLA-4 and PD-1 together. Several are in late-stage trials, particularly in China. None of these should be assumed available outside a clinical trial until regulators approve them.</p>"
+          },
+          {
+            "q": "How do I know if I am eligible, and can I get this treatment abroad?",
+            "a": "<p>Eligibility usually depends on your cancer type and stage, your organ function, whether you have an active autoimmune condition, and what treatments you have already had. Hospitals in India and China offer approved CTLA-4 regimens and run trials of newer versions. CancerFax can help you share your reports with treating centres and understand what a programme involves, though the final decision rests with the oncology team that examines you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

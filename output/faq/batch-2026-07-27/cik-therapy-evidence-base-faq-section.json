@@ -1,0 +1,59 @@
+{
+  "pillar": "The Evidence Base for CIK Therapy: What the Research Shows",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-evidence-base",
+  "route": "/insights/cik-therapy-evidence-base",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Does CIK therapy actually work, or is the evidence still thin?",
+            "a": "<p>CIK therapy shows real but modest benefit in the published research, mostly as an add-on to standard treatment rather than a stand-alone cure. Meta-analyses of trials in liver, lung, and stomach cancer report longer progression-free and overall survival when CIK cells are added to chemotherapy or surgery. Most of these trials are small, single-centre, and run in Asia, so the size of the benefit may shrink in larger studies.</p>"
+          },
+          {
+            "q": "What is the strongest single piece of evidence for CIK therapy?",
+            "a": "<p>The strongest evidence comes from randomised trials in liver cancer after surgery or ablation, where adjuvant CIK cells delayed recurrence. A well-known South Korean trial of 230 patients found significantly longer recurrence-free survival with CIK infusions, and the benefit held up on extended follow-up. Even so, one positive trial in one cancer type does not establish CIK therapy as standard care for other diagnoses, and results in other tumours have been mixed.</p>"
+          },
+          {
+            "q": "Which cancers has CIK therapy been studied in most?",
+            "a": "<p>Liver cancer has the largest body of CIK research, followed by non-small cell lung cancer, gastric cancer, and kidney cancer. Smaller studies cover breast cancer, colorectal cancer, and some leukaemias, often combined with chemotherapy or dendritic cell vaccines. The depth of evidence differs sharply by tumour type, so a study showing benefit in liver cancer says little about whether the same approach may help pancreatic or brain tumours.</p>"
+          },
+          {
+            "q": "Is CIK therapy an approved treatment anywhere?",
+            "a": "<p>CIK therapy is not approved as a routine cancer treatment by the FDA or EMA, and it is not standard care in Europe or the United States. In parts of Asia, including China, Japan, and South Korea, it is offered inside clinical trials or under national rules for cell therapy in licensed hospitals.</p><p>Approval status changes, and CancerFax can help you confirm what a specific centre is currently permitted to offer, alongside your treating oncologist.</p>"
+          },
+          {
+            "q": "Why are there so few large phase 3 trials of CIK therapy?",
+            "a": "<p>CIK cells are made individually for each patient, which makes large multi-centre trials expensive and hard to standardise. Cell preparation methods, dose, and infusion schedules differ between hospitals, so results are difficult to pool or repeat. There is also less commercial funding than for patented drugs, because CIK protocols are not owned by a single company. This is why most published data comes from smaller trials.</p>"
+          },
+          {
+            "q": "Does the research support combining CIK therapy with chemotherapy?",
+            "a": "<p>Yes. Most positive CIK studies used it alongside chemotherapy, not instead of it. Trials in lung and gastric cancer report better response rates and quality-of-life scores when CIK infusions follow chemotherapy cycles, possibly because chemotherapy reduces tumour bulk and immune-suppressing cells first. Whether this combination suits you depends on your blood counts, organ function, and how well you tolerated earlier treatment, so your oncologist must make that call.</p>"
+          },
+          {
+            "q": "How does the evidence for CIK therapy compare to CAR-T?",
+            "a": "<p>CAR-T has far stronger evidence than CIK therapy, with registration trials showing durable remissions in some blood cancers and formal approvals in many countries. CIK therapy is less targeted, cheaper, and much easier to produce, but its published benefits are smaller and mostly measured in months of survival rather than long remissions. The two are studied in different situations and are not direct alternatives, so comparing their headline numbers can be misleading.</p>"
+          },
+          {
+            "q": "What side effects did patients have in the CIK studies?",
+            "a": "<p>Side effects in published CIK trials were mostly mild: low-grade fever, chills, fatigue, and headache in the day or two after infusion. Serious immune reactions such as the severe cytokine release seen with CAR-T were rare. This favourable safety record is one reason CIK therapy keeps being studied, though mild side effects in small trials may not capture every risk in sicker patients or in people with autoimmune conditions.</p>"
+          },
+          {
+            "q": "How many CIK infusions do the studies use?",
+            "a": "<p>Most trials give between four and eight infusions, spread over several weeks to months, with some liver cancer protocols continuing for up to a year. Each infusion follows a blood draw, laboratory expansion of your own immune cells, and quality testing, which usually takes two to three weeks. Because schedules differ so much between studies, no single course length can be called evidence-based, and costs rise with each extra cycle.</p>"
+          },
+          {
+            "q": "Should I travel abroad for CIK therapy based on this evidence?",
+            "a": "<p>Travelling for CIK therapy may be reasonable if standard options are exhausted and you go in with clear expectations, but the evidence does not support it as a replacement for proven treatment. Ask whether the centre is running a registered trial, what the response data is for your exact cancer, and what the total cost covers.</p><p>CancerFax can help arrange records review and second opinions before you commit to travel.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

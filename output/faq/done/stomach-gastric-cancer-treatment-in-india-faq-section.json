@@ -1,0 +1,59 @@
+{
+  "pillar": "Stomach (Gastric) Cancer Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "stomach-gastric-cancer-treatment-in-india",
+  "route": "/guides/stomach-gastric-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does stomach cancer treatment cost in India?",
+            "a": "<p>Stomach cancer surgery in India usually costs between USD 6,000 and USD 15,000, roughly a quarter of United States prices. Chemotherapy adds about USD 400 to USD 1,200 per cycle, and targeted drugs such as trastuzumab cost more. Robotic surgery, HIPEC, and longer hospital stays raise the total. Final costs depend on your stage, the hospital, and complications, so ask for a written estimate before you travel.</p>"
+          },
+          {
+            "q": "Is gastric cancer treatment in India as good as in the US or Europe?",
+            "a": "<p>Yes, in many cases. Leading Indian cancer centres perform high volumes of gastric surgery, and their surgeons are trained in the same D2 lymph node technique used in Japan, Korea, Europe and the United States. Pathology, imaging and chemotherapy protocols follow international guidelines. Results still vary by hospital and by surgeon volume, so ask how many stomach cancer operations your surgeon performs each year and what their complication rate is.</p>"
+          },
+          {
+            "q": "What kind of surgery will I need for stomach cancer?",
+            "a": "<p>Most patients need either a partial gastrectomy, where part of the stomach is removed, or a total gastrectomy, where the whole stomach is removed and the food pipe is joined to the small intestine. The choice depends on where the tumour sits and how far it has spread. Surgeons also remove nearby lymph nodes. Many Indian centres offer laparoscopic or robotic surgery, which can shorten recovery for suitable patients.</p>"
+          },
+          {
+            "q": "Do I need chemotherapy before the operation?",
+            "a": "<p>Often, yes. For stage 2 and stage 3 stomach cancer, most Indian oncologists give three to four cycles of chemotherapy before surgery and more cycles afterwards, usually the FLOT regimen. This shrinks the tumour and treats cancer cells that scans cannot see. Very early tumours may go straight to surgery or endoscopic removal. Your team decides after reviewing your biopsy, CT scan and, in many cases, a staging laparoscopy.</p>"
+          },
+          {
+            "q": "How long will I have to stay in India for treatment?",
+            "a": "<p>Plan for six to eight weeks in India if you need surgery alone, and three to six months if you need chemotherapy before and after it. Surgery involves roughly seven to ten days in hospital, then two to three weeks of local recovery before flying. Some patients complete part of their chemotherapy at home. Your oncologist can build a schedule around your visa validity and your family's ability to stay.</p>"
+          },
+          {
+            "q": "What is HIPEC and could it help if my cancer has spread inside my abdomen?",
+            "a": "<p>HIPEC is heated chemotherapy washed directly into the abdomen during surgery, used when stomach cancer has spread to the lining of the belly. Several Indian centres offer it alongside cytoreductive surgery. It can help carefully selected patients with limited peritoneal disease, but it is demanding and not right for everyone. Eligibility depends on how much disease is found at laparoscopy and on your general fitness, so your surgical oncologist decides.</p>"
+          },
+          {
+            "q": "Will my tumour be tested for HER2 and immunotherapy in India?",
+            "a": "<p>Yes. Every stomach cancer biopsy in India should be tested for HER2 and for PD-L1, and often for MSI or mismatch repair status. These results decide whether trastuzumab or an immunotherapy drug such as nivolumab may be added to your chemotherapy. Indian labs run these tests routinely and biosimilar versions of trastuzumab cost far less than in Western countries. Ask for a copy of your full pathology report.</p>"
+          },
+          {
+            "q": "What paperwork do I need to travel to India for stomach cancer treatment?",
+            "a": "<p>You need an Indian medical visa, which requires a letter or treatment estimate from the hospital that will treat you. One or two attendants can travel on a medical attendant visa. Most patients send scans and biopsy reports by email first and receive a written plan and cost estimate. CancerFax can help arrange that review and the hospital paperwork, though your treatment decisions stay with the oncology team you choose.</p>"
+          },
+          {
+            "q": "Can I eat normally after my stomach is removed?",
+            "a": "<p>You can eat normally in the sense of enjoying food, but the pattern changes. After a total gastrectomy most people move to six or eight small meals a day, chew slowly, and drink between meals rather than with them. Weight loss in the first few months is common. A dietitian works with you from the ward onwards, and vitamin B12 injections are usually needed for life.</p>"
+          },
+          {
+            "q": "Is it worth coming to India if my stomach cancer has already spread?",
+            "a": "<p>Treatment still helps. When stomach cancer has spread to the liver, lungs or abdominal lining, the aim shifts to controlling the disease, easing symptoms and protecting quality of life, usually with chemotherapy plus targeted or immunotherapy drugs matched to your biomarkers. Indian centres also run clinical trials, and CancerFax can help you check which ones are open. Enrolment is never guaranteed and depends on strict eligibility criteria.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

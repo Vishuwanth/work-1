@@ -1,0 +1,59 @@
+{
+  "pillar": "Cytokine Therapy for Cancer: Interleukin-2, Interferon, and Engineered Cytokines",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cytokine-therapy",
+  "route": "/treatments/cytokine-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cytokine therapy, in plain terms?",
+            "a": "<p>Cytokine therapy uses laboratory-made copies of the immune system's own signalling proteins to switch your immune cells on against cancer. The two approved drugs in this class are interleukin-2 and interferon-alfa, and newer engineered versions are in trials. Unlike chemotherapy, these drugs do not attack tumour cells directly; they recruit T cells and natural killer cells to do it. Responses can be durable, but only a minority of patients achieve them.</p>"
+          },
+          {
+            "q": "How does interleukin-2 work against my cancer?",
+            "a": "<p>Interleukin-2 works by making your T cells and natural killer cells multiply rapidly, so far more of them are available to find and kill tumour cells. It is a copy of a growth signal your immune system already produces naturally. High-dose aldesleukin can produce complete, long-lasting remissions in a small percentage of people with melanoma or kidney cancer, but it does nothing for most patients who receive it.</p>"
+          },
+          {
+            "q": "Which cancers is high-dose IL-2 actually used for?",
+            "a": "<p>High-dose interleukin-2 is approved for metastatic melanoma and metastatic kidney cancer, and those remain its main uses. Around 5 to 10 percent of treated patients reach a complete response that can last for years, with another 10 to 15 percent seeing partial shrinkage. Because the treatment is physically demanding, centres usually restrict it to people with strong heart, lung and kidney function. Your oncologist decides eligibility case by case.</p>"
+          },
+          {
+            "q": "How bad are the side effects of high-dose IL-2?",
+            "a": "<p>High-dose interleukin-2 can cause capillary leak syndrome, where fluid escapes from blood vessels into tissues, dropping blood pressure and swelling the lungs. Fever, chills, rash, confusion, low urine output and kidney strain are common. This is why the drug is given in an intensive-care-capable unit with continuous monitoring. Most effects reverse within days of stopping, but the intensity means many patients are never offered it at all.</p>"
+          },
+          {
+            "q": "What is interferon used for in cancer today?",
+            "a": "<p>Interferon-alfa slows tumour growth and makes cancer cells easier for the immune system to recognise. It was long used after surgery in high-risk melanoma and in kidney cancer, and it still has a role in some blood cancers such as chronic myeloid leukaemia, polycythaemia vera and hairy cell leukaemia. In solid tumours, checkpoint inhibitors have largely replaced it because they often work better and are easier to tolerate.</p>"
+          },
+          {
+            "q": "What are engineered cytokines, and are they safer?",
+            "a": "<p>Engineered cytokines are redesigned versions built to keep the anti-cancer effect while cutting the toxicity. Common approaches include attaching polyethylene glycol so the drug lasts longer, altering the molecule so it skips the receptor that activates suppressive regulatory T cells, and fusing it to an antibody that delivers it into the tumour. Several are in clinical trials, but none has yet replaced standard interleukin-2 in routine practice.</p>"
+          },
+          {
+            "q": "Is cytokine therapy still worth it now that newer immunotherapy exists?",
+            "a": "<p>Yes, but in a much narrower role than twenty years ago. Checkpoint inhibitors and targeted drugs now come first in melanoma and kidney cancer because they are often more effective and far gentler. Cytokine therapy is mostly reserved for patients whose disease has progressed on those drugs, or offered inside clinical trials of engineered versions. Whether it fits your situation depends on your cancer type, prior treatments and organ function.</p>"
+          },
+          {
+            "q": "Can cytokine therapy be combined with CAR-T or checkpoint inhibitors?",
+            "a": "<p>Yes, cytokines are frequently combined with other immunotherapies. Interleukin-2 is given after tumour-infiltrating lymphocyte therapy to help the transferred cells survive and expand, and engineered cytokines are being tested alongside checkpoint inhibitors and CAR-T cell therapy. Combinations can raise both the response rate and the side-effect burden, so they are usually run in trial settings. Availability of these combinations varies widely between countries and hospitals.</p>"
+          },
+          {
+            "q": "How much does cytokine therapy cost in India or China?",
+            "a": "<p>Cost depends heavily on the country, the specific drug and how many hospital days the treatment needs. A high-dose interleukin-2 course involves inpatient intensive monitoring, so hospital time often costs more than the drug itself. Prices in India and China are usually well below United States levels, though engineered cytokines in trials may be free to enrolled patients. CancerFax can help you gather written estimates from centres before you travel.</p>"
+          },
+          {
+            "q": "How do I find out if I am eligible for cytokine therapy?",
+            "a": "<p>Ask your oncologist whether your cancer type, performance status and organ function fit the criteria, because high-dose cytokine therapy demands healthy heart, lung and kidney reserve. Bring your pathology report, recent scans and a list of prior treatments to that conversation. If you are exploring centres in India or China, CancerFax can help you send those records for a written opinion. The treating team makes the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

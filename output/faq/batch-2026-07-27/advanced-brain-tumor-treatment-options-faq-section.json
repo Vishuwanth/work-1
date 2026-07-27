@@ -1,0 +1,59 @@
+{
+  "pillar": "Advanced Brain Tumor Treatment Options",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "advanced-brain-tumor-treatment-options",
+  "route": "/insights/advanced-brain-tumor-treatment-options",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most advanced brain tumor treatment options available today?",
+            "a": "<p>The most advanced options today combine maximal safe surgery with radiation, chemotherapy, and newer approaches such as targeted drugs, Tumour Treating Fields, and clinical-trial immunotherapy. Awake mapping and fluorescence-guided surgery help remove more tumour without damaging speech or movement. Stereotactic radiosurgery treats small or deep lesions precisely. Which combination suits you depends on tumour type, grade, molecular markers, and your overall health, so your neuro-oncology team should confirm the plan.</p>"
+          },
+          {
+            "q": "Do I always need surgery for a brain tumor?",
+            "a": "<p>No. Surgery is the first step for many brain tumours, but not all. Deep tumours near the brainstem, multiple small metastases, or lymphoma of the brain are often treated with radiosurgery, drugs, or a needle biopsy alone. Even when an operation is not possible, a biopsy usually is, because molecular testing guides drug choice. Your neurosurgeon weighs tumour location, your symptoms, and how safely tissue can be reached.</p>"
+          },
+          {
+            "q": "What is the difference between Gamma Knife, CyberKnife and regular radiation?",
+            "a": "<p>Gamma Knife and CyberKnife are both forms of stereotactic radiosurgery: they deliver a very high dose to a small target in one to five sessions, sparing nearby brain. Standard radiotherapy spreads a lower dose over several weeks and covers a wider area. Gamma Knife uses a fixed head frame; CyberKnife uses a robotic arm and can treat without one. Tumour size, number, and location usually decide which is offered.</p>"
+          },
+          {
+            "q": "Can immunotherapy treat a brain tumor?",
+            "a": "<p>Immunotherapy helps some brain tumours, but it is not yet standard for most gliomas. Checkpoint inhibitors work best for brain metastases from melanoma or lung cancer, where they can shrink lesions alongside radiosurgery. For glioblastoma, vaccines, CAR-T cells, and oncolytic viruses are still mainly available through clinical trials. Ask whether your tumour has markers such as MSI-high or high mutation burden, because these may make immunotherapy worth considering.</p>"
+          },
+          {
+            "q": "What are Tumour Treating Fields and do they actually work?",
+            "a": "<p>Tumour Treating Fields is a wearable device that sends low-intensity electric fields through the scalp to disrupt dividing tumour cells. In glioblastoma trials, adding it to temozolomide after radiation extended median survival by several months. It works best when worn at least 18 hours a day, which many patients find demanding. Availability and cost vary widely between countries, and it is not offered for every tumour type or grade.</p>"
+          },
+          {
+            "q": "How much does advanced brain tumor treatment cost in India?",
+            "a": "<p>Brain tumour treatment in India often costs a fraction of Western prices. Craniotomy packages commonly run about USD 6,000–9,000, Gamma Knife radiosurgery about USD 4,500–7,000, and a full course of radiotherapy with temozolomide roughly USD 8,000–12,000. Prices depend on hospital, city, tumour complexity, and length of stay. CancerFax can help you gather written estimates from several centres, though your treating oncology team must confirm what your case actually needs.</p>"
+          },
+          {
+            "q": "Can I get proton therapy for a brain tumor abroad?",
+            "a": "<p>Proton therapy is available for brain tumours in India, China, Japan, and several European centres, and can be a good option for tumours near the optic nerves, brainstem, or in children. It deposits most of its dose in the tumour and little beyond it, which may lower the risk of long-term side effects. Slots are limited, so ask early about waiting times, visa timelines, and whether your tumour type qualifies.</p>"
+          },
+          {
+            "q": "How long do people live with glioblastoma on advanced treatment?",
+            "a": "<p>Median survival for glioblastoma with standard treatment is around 15 to 18 months, and can reach two to three years when the tumour is MGMT-methylated, fully resected, and treated with Tumour Treating Fields. Younger patients in good physical condition tend to do better. These are averages across large groups, not predictions for one person, and some patients live considerably longer, particularly those who respond well to trial therapies.</p>"
+          },
+          {
+            "q": "Will I need chemotherapy, and what does temozolomide do?",
+            "a": "<p>Temozolomide is the main chemotherapy for high-grade gliomas, taken as a capsule during radiation and then in monthly cycles. It works best when the MGMT gene is methylated, which your pathology report should state. Side effects are usually manageable: tiredness, nausea, and low blood counts that need regular blood tests. Low-grade tumours may instead receive PCV chemotherapy, and some patients need no chemotherapy at all after surgery.</p>"
+          },
+          {
+            "q": "How do I find out if I qualify for a brain tumor clinical trial?",
+            "a": "<p>Eligibility usually depends on your tumour's exact diagnosis and molecular profile, how many treatments you have already had, your performance status, and organ function. Most brain tumour trials want recent imaging and a tissue block available for testing, so keep your pathology slides and MRI discs. Trials open and close quickly, and enrolment is never guaranteed. Your neuro-oncologist can screen you, and CancerFax can help identify trials in India or China worth asking about.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

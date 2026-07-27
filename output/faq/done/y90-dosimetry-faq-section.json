@@ -1,0 +1,59 @@
+{
+  "pillar": "Y-90 Dosimetry: How Radiation Dose Is Calculated for TARE",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "y90-dosimetry",
+  "route": "/insights/y90-dosimetry",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is Y-90 dosimetry?",
+            "a": "<p>Y-90 dosimetry is the calculation that decides how much radioactive yttrium-90 is delivered to your liver tumour during TARE. Your team measures tumour volume, blood supply, and how much activity may reach the lungs or healthy liver, then works out the activity needed to hit a target dose in grays. Two patients with similar tumours can receive very different activities, because the plan is built around your own anatomy.</p>"
+          },
+          {
+            "q": "Why can't I just be given a standard dose, like with chemotherapy?",
+            "a": "<p>Because the radiation stays inside your liver rather than circulating through your body. How much reaches the tumour depends on your liver volume, the share of blood flow going to the tumour, and any shunting to the lungs or stomach. A fixed dose could underdose the tumour in one patient and injure healthy liver in another. Your interventional radiologist calculates the activity from your own imaging, so the number is specific to you.</p>"
+          },
+          {
+            "q": "What happens during the mapping angiogram and MAA scan?",
+            "a": "<p>The mapping angiogram is a rehearsal of the treatment. A catheter is passed into the artery feeding your tumour and a small amount of radioactive albumin particles is injected in place of the real microspheres. A scan afterwards shows where those particles landed: how much went to the tumour, to healthy liver, and to the lungs. Those numbers feed directly into your dose calculation, usually one to two weeks before treatment.</p>"
+          },
+          {
+            "q": "What is lung shunt fraction and why does it matter?",
+            "a": "<p>Lung shunt fraction is the percentage of injected particles that bypass the liver and reach your lungs. Y-90 in the lungs cannot be removed, and too much can cause radiation pneumonitis, so the shunt is measured before treatment. A low fraction usually allows the full planned activity. A higher fraction may mean a reduced dose, blocking the abnormal vessels first, or in some cases choosing another treatment.</p>"
+          },
+          {
+            "q": "How much radiation does my tumour actually need?",
+            "a": "<p>Most centres aim for at least 100 to 120 grays to the tumour with resin microspheres, and often 205 grays or more with glass microspheres. For a single tumour treated through one small artery, some teams target tumour doses well above 400 grays. Healthy liver is usually kept below around 70 grays. Your own targets depend on liver function, tumour type and how much liver is being treated.</p>"
+          },
+          {
+            "q": "What is the difference between BSA, partition and voxel dosimetry?",
+            "a": "<p>They are three ways of doing the same sum, from crudest to most precise. The BSA method uses body surface area and tumour involvement, treating the liver as one block. The partition model separates tumour, healthy liver and lung into compartments with their own doses. Voxel dosimetry maps the dose point by point across the liver on the scan. Most experienced centres now use partition or voxel methods for planning.</p>"
+          },
+          {
+            "q": "Does it matter whether my centre uses glass or resin microspheres?",
+            "a": "<p>Yes, because the two products carry radiation differently and their dose targets are not interchangeable. Glass spheres hold more activity per bead, so fewer beads deliver the dose. Resin spheres are more numerous with lower activity each. A figure that is safe for one is not safe for the other, so ask which product your centre uses and what tumour dose it is planning. CancerFax can help you raise these questions with your oncology team.</p>"
+          },
+          {
+            "q": "Can a higher dose improve my chances?",
+            "a": "<p>Higher tumour doses are linked to better response in several studies, particularly in hepatocellular carcinoma, where reaching around 205 grays or more is associated with longer control of the treated tumour. But the dose is limited by how much healthy liver must absorb radiation at the same time. If your liver function is borderline, the safe ceiling may be lower. Your team balances these two limits, and outcomes can still vary.</p>"
+          },
+          {
+            "q": "How long does the planning take, and how many hospital visits?",
+            "a": "<p>Plan on two procedures roughly one to two weeks apart. The first visit is the mapping angiogram with the MAA scan, which takes a few hours and is usually a day case. The dose is then calculated and the microspheres ordered, because Y-90 decays quickly and must arrive on a fixed date. The second visit delivers the treatment. If you are travelling, allow extra days in case the schedule shifts.</p>"
+          },
+          {
+            "q": "Is personalised dosimetry available in India and China?",
+            "a": "<p>Yes, major liver cancer centres in India and China routinely offer Y-90 radioembolization with personalised dosimetry, and many use partition or voxel-based planning. Availability varies by hospital, and not every centre has the same imaging or software. It is reasonable to ask, before you travel, which method will be used and what tumour dose is planned. CancerFax can share centre details, though eligibility is decided by the treating team after review.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

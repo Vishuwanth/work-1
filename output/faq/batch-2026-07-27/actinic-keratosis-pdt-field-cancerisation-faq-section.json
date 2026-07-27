@@ -1,0 +1,59 @@
+{
+  "pillar": "Actinic Keratosis PDT: Treating Field Cancerisation of Sun-Damaged Skin",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "actinic-keratosis-pdt-field-cancerisation",
+  "route": "/insights/actinic-keratosis-pdt-field-cancerisation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is photodynamic therapy for actinic keratosis?",
+            "a": "<p>Photodynamic therapy, or PDT, is a light-based treatment that clears actinic keratosis by activating a cream applied to sun-damaged skin. The photosensitising cream is absorbed mainly by abnormal cells, then a red or blue light triggers a reaction that destroys them. Because the whole treated area receives light, PDT can clear visible spots and early changes you cannot yet see. Clearance rates vary by site and skin type.</p>"
+          },
+          {
+            "q": "What does field cancerisation actually mean for my skin?",
+            "a": "<p>Field cancerisation means the sun damage extends beyond the spots you can see, across a whole area of skin. Years of ultraviolet exposure leave genetic changes in cells that still look normal, so new actinic keratoses keep appearing near old ones. Treating the field rather than individual lesions is why doctors often choose PDT or creams over freezing single spots. Your dermatologist can judge how wide your field is.</p>"
+          },
+          {
+            "q": "Does PDT hurt?",
+            "a": "<p>Most people feel a stinging, burning or prickling sensation during the light exposure, and it can be strong for a few minutes. The face and scalp tend to be the most sensitive areas. Clinics reduce discomfort with cooling fans, water spray, short breaks, or daylight PDT, which is far gentler. Afterwards the skin usually feels sunburnt for a few days. Tell your team early if the pain becomes hard to tolerate.</p>"
+          },
+          {
+            "q": "How long does the skin take to heal after PDT?",
+            "a": "<p>Most skin settles within seven to ten days. Expect redness, swelling, crusting and flaking that peak around day two or three, then fade. The treated area may stay pink for several weeks, especially on the scalp or lower legs, which heal more slowly. Gentle washing, plain moisturiser and strict sun avoidance help. Contact your clinic if you see spreading pain, pus or fever, as these may signal infection.</p>"
+          },
+          {
+            "q": "Will one session be enough, or do I need repeat treatments?",
+            "a": "<p>Many people need two sessions, usually spaced one week to three months apart, and thick or long-standing lesions often need more. Response is generally checked around three months after treatment. Areas with heavy field damage, such as a bald scalp, commonly need repeat courses every year or two because new lesions keep forming. Your dermatologist decides the schedule based on how much of the field clears.</p>"
+          },
+          {
+            "q": "Is PDT better than freezing or prescription creams?",
+            "a": "<p>PDT usually gives better cosmetic results and treats the whole damaged field, while cryotherapy targets one spot at a time. Creams such as 5-fluorouracil or imiquimod also treat the field but need weeks of home use and can cause prolonged soreness. PDT works in one or two clinic visits, which many patients prefer. The right choice depends on how many lesions you have, their thickness, and how much downtime you can accept.</p>"
+          },
+          {
+            "q": "Can PDT stop actinic keratosis turning into skin cancer?",
+            "a": "<p>Treating actinic keratosis with PDT can lower the risk of progression to squamous cell carcinoma, but it cannot remove that risk entirely. Only a small share of individual lesions ever become cancer, yet people with widespread field damage carry a higher overall risk. That is why regular skin checks continue after treatment. Any spot that grows, bleeds, hurts or fails to heal should be examined promptly rather than re-treated.</p>"
+          },
+          {
+            "q": "What is daylight PDT and does it work as well?",
+            "a": "<p>Daylight PDT uses natural outdoor light instead of a lamp, and studies show similar clearance for thin actinic keratoses with much less pain. Sunscreen goes on first, then the cream, and you sit outside for about two hours. It suits large areas like the face and scalp in mild weather. It often works less well for thick lesions, and cold or rainy climates limit when it can be offered.</p>"
+          },
+          {
+            "q": "I am a transplant patient — is PDT still an option for me?",
+            "a": "<p>PDT is often used in transplant recipients, who develop actinic keratosis far more often because anti-rejection medicines suppress the immune system. Clearance may be lower and repeat courses are usually needed, so many centres treat the field on a planned schedule. Your transplant team should stay involved, since these medicines and any change to them affect skin risk. Discuss timing with both your dermatologist and transplant physician before starting.</p>"
+          },
+          {
+            "q": "How do I get a second opinion if my lesions keep coming back?",
+            "a": "<p>Bring your biopsy report, photographs and a list of past treatments to a dermatologist experienced in field-directed therapy. Recurrence is common with field cancerisation and usually means the schedule needs adjusting, not that treatment failed. If a lesion is thick, painful or growing, a biopsy may be needed to rule out squamous cell carcinoma. CancerFax can help patients organise records and reach specialist centres, alongside their treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

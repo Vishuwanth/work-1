@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Therapy Cost in China: What Patients Need to Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-therapy-cost-in-china",
+  "route": "/insights/mctl-therapy-cost-in-china",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does MCTL therapy cost in China?",
+            "a": "<p>A full course of MCTL therapy in China usually costs somewhere between US$25,000 and US$60,000, depending on the hospital, the number of infusions and how much laboratory work your case needs. Cell collection, manufacturing and the infusions themselves make up most of that figure. Prices move often, so treat any number you read online as a starting point rather than a quote you can rely on.</p>"
+          },
+          {
+            "q": "What is usually included in the price I am quoted?",
+            "a": "<p>Most Chinese quotes cover the apheresis session, cell processing in the laboratory, quality testing and the scheduled infusions. Some hospitals also fold in a short inpatient stay and basic monitoring bloods. What is often excluded is imaging, biopsy, supportive drugs and treatment for side effects. Ask for the inclusions in writing before you travel, because the way packages are bundled can vary a lot between centres.</p>"
+          },
+          {
+            "q": "Why is MCTL therapy less expensive in China than in the West?",
+            "a": "<p>Lower manufacturing and hospital costs are the main reason. Chinese centres run their own cell laboratories on site, staffing and facility costs are lower, and several hospitals treat enough patients to spread fixed costs widely. Regulatory pathways for cell therapies also differ. The saving is real for many families, but it should never be the only reason you choose a centre, because clinical quality matters more.</p>"
+          },
+          {
+            "q": "Will my insurance pay for MCTL therapy in China?",
+            "a": "<p>Most international insurers do not cover MCTL therapy abroad, because it is often classed as investigational outside its home country. A few corporate or high-end policies may reimburse part of the hospital stay or travel, but rarely the cell manufacturing itself. Send your insurer the written treatment plan and cost breakdown before you commit, and ask for their decision in writing so you know what you are funding yourself.</p>"
+          },
+          {
+            "q": "How much should I budget beyond the treatment fee?",
+            "a": "<p>Plan for roughly US$5,000 to US$12,000 on top of the treatment fee for a typical stay. That usually covers flights, a medical visa, accommodation near the hospital for four to eight weeks, meals, local transport and an interpreter. Add a contingency for a longer stay, since delays in cell manufacturing or a slow recovery can push your dates back. Costs vary widely between Chinese cities.</p>"
+          },
+          {
+            "q": "Is MCTL therapy cheaper than CAR-T in China?",
+            "a": "<p>In most cases MCTL therapy costs considerably less than CAR-T. Approved CAR-T products in China often run past US$60,000, while MCTL courses commonly sit well below that. They are not interchangeable treatments, though, because they target different cancers and are used at different points in care. Your oncologist should decide which is clinically appropriate first, and cost should be the second question, not the first.</p>"
+          },
+          {
+            "q": "Do I have to pay the whole amount upfront?",
+            "a": "<p>Most Chinese hospitals ask for a substantial deposit before cell collection begins, often 30 to 50 percent, with the balance due before or shortly after infusion. Manufacturing usually starts only once the deposit clears, so payment timing can directly affect your treatment date. Ask about refund terms if your cells fail to expand or you become too unwell to proceed, as policies on this differ sharply between centres.</p>"
+          },
+          {
+            "q": "Can I get MCTL therapy free through a clinical trial?",
+            "a": "<p>Sometimes. Chinese trials of cellular therapies may cover the study treatment, manufacturing and protocol-related tests, which removes a large part of the bill. You would still pay travel, accommodation and any care outside the protocol. Enrolment depends on strict criteria such as cancer type, prior treatments, organ function and timing, so a place can never be promised in advance. CancerFax can help you check which trials are open.</p>"
+          },
+          {
+            "q": "Does the price change depending on my cancer type or stage?",
+            "a": "<p>It can. Cases needing more infusions, larger cell doses or repeated collection sessions cost more, and patients with heavy prior treatment sometimes need extra laboratory attempts to grow enough cells. Advanced disease may also mean a longer inpatient stay and more supportive care. Expect the first quote to be an estimate that firms up after your records and scans have been reviewed by the treating team.</p>"
+          },
+          {
+            "q": "How do I get an accurate cost estimate for my own case?",
+            "a": "<p>Send your recent pathology report, imaging, blood results and a summary of every treatment you have had to the hospital's international department. A written estimate normally follows within one to two weeks. Ask two or three centres so you can compare inclusions rather than headline figures. CancerFax can pass your records to Chinese centres for review, though the final plan and price rest with the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

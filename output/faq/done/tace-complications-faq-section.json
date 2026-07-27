@@ -1,0 +1,59 @@
+{
+  "pillar": "TACE Complications: Liver Failure, Biliary Injury, and Clinical Management",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-complications",
+  "route": "/insights/tace-complications",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most common complications after TACE?",
+            "a": "<p>The most common complication is post-embolisation syndrome — fever, abdominal pain, nausea, and fatigue — which affects roughly half to four out of five patients and usually settles within a week. Serious complications are far less common: liver failure, bile duct injury, liver abscess, and gallbladder inflammation each occur in a small percentage of cases. Your own risk depends on liver function, tumour burden, and how selectively the chemotherapy is delivered.</p>"
+          },
+          {
+            "q": "Can TACE cause liver failure?",
+            "a": "<p>Yes, TACE can cause liver failure, though severe and lasting failure is uncommon and occurs in roughly 1 to 3 percent of carefully selected patients. Blocking the artery feeding the tumour also cuts blood flow to some healthy tissue, and a liver already weakened by cirrhosis may not tolerate that loss. Risk rises with poor baseline liver function, large tumour volume, portal vein blockage, and repeated non-selective treatments.</p>"
+          },
+          {
+            "q": "How long does post-embolisation syndrome last?",
+            "a": "<p>Post-embolisation syndrome usually lasts three to seven days and is managed with fluids, anti-sickness medicine, and painkillers rather than by stopping treatment. It happens because the dying tumour releases inflammatory chemicals, so fever and pain often mean the treatment is working. Tell your team if fever passes 38.5°C beyond five days, or if pain worsens instead of easing, since that pattern can point to abscess or infection.</p>"
+          },
+          {
+            "q": "How do doctors decide if my liver is healthy enough for TACE?",
+            "a": "<p>Doctors judge suitability using the Child-Pugh score, bilirubin, albumin, and imaging of the portal vein, alongside your general fitness. Child-Pugh A liver function with preserved portal blood flow generally tolerates TACE well, while Child-Pugh C, high bilirubin, or main portal vein blockage usually rules it out. Eligibility is decided case by case and centres differ, so a hepatobiliary team should review your own scans and blood work first.</p>"
+          },
+          {
+            "q": "What is biliary injury after TACE and how serious is it?",
+            "a": "<p>Biliary injury means damage to the bile ducts caused by loss of their arterial blood supply during embolisation, and it appears in roughly 2 to 8 percent of procedures. Most cases show up on later scans as small fluid collections called bilomas or as narrowed ducts, and many cause no symptoms at all. A minority need drainage, antibiotics, or stenting. Risk is higher in patients without cirrhosis.</p>"
+          },
+          {
+            "q": "What warning signs should make me call my doctor after TACE?",
+            "a": "<p>Call your team urgently if you develop fever above 38.5°C lasting more than five days, yellowing of the eyes or skin, confusion or unusual drowsiness, severe or worsening abdominal pain, vomiting blood, or a swollen tender abdomen. These can signal abscess, bile duct injury, or worsening liver function, and all are more treatable when caught early. Keep the interventional radiology contact number with you for the first month.</p>"
+          },
+          {
+            "q": "How is liver failure after TACE treated?",
+            "a": "<p>Treatment is mainly supportive: correcting fluids and electrolytes, treating infection, managing fluid build-up in the abdomen with diuretics or drainage, and giving lactulose or rifaximin for confusion. Further TACE is put on hold while the liver recovers. If function does not return, the team reassesses whether systemic therapy or transplant assessment fits. Recovery depends heavily on how much reserve the liver had beforehand, so outcomes vary widely.</p>"
+          },
+          {
+            "q": "Does a previous bile duct stent or surgery raise my risk?",
+            "a": "<p>Yes. Patients who have had a bile duct stent, a sphincterotomy, or surgery joining the bile duct to the bowel lose the natural barrier that keeps gut bacteria out, which sharply raises the risk of liver abscess after TACE. Many centres respond with extended antibiotic cover and bowel preparation. Tell your interventional radiologist about any previous biliary or pancreatic surgery before the procedure is scheduled.</p>"
+          },
+          {
+            "q": "Can I have TACE again if I had a complication the first time?",
+            "a": "<p>In many cases yes, but only after your liver recovers and the team understands what went wrong. Mild post-embolisation syndrome rarely prevents further sessions. A biloma, abscess, or a jump in bilirubin usually means waiting longer, treating more selectively next time, or switching to ablation, radioembolisation, or systemic therapy. The decision rests on repeat imaging and blood tests, so nothing can be promised in advance.</p>"
+          },
+          {
+            "q": "How do hospitals in India and China handle TACE complications?",
+            "a": "<p>Leading liver centres in India and China manage TACE complications with round-the-clock interventional radiology cover, on-site drainage and stenting, and hepatology input for liver decompensation. Ask any hospital how many TACE procedures it performs each year and who is available after hours. Teams such as CancerFax can help gather your scans and reports for review by these centres, though your treating oncology team makes the final clinical decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

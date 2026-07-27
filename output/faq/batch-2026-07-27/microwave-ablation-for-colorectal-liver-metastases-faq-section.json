@@ -1,0 +1,59 @@
+{
+  "pillar": "Microwave Ablation for Colorectal Liver Metastases",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "microwave-ablation-for-colorectal-liver-metastases",
+  "route": "/insights/microwave-ablation-for-colorectal-liver-metastases",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation for colorectal liver metastases?",
+            "a": "<p>Microwave ablation uses heat from microwave energy to destroy colorectal cancer deposits that have spread to the liver. A needle-sized probe is guided into the tumour through the skin using ultrasound or CT, and the tissue around the tip is heated above 60°C until the cancer cells die. It is generally used when liver tumours are limited in number and size, either instead of surgery or alongside it.</p>"
+          },
+          {
+            "q": "Am I a candidate for microwave ablation if my bowel cancer has spread to my liver?",
+            "a": "<p>You may be a candidate if you have up to about five liver tumours, each under roughly 3 cm, with no uncontrolled disease outside the liver. The tumour should also sit away from major bile ducts and large blood vessels. Liver function, response to chemotherapy, and general fitness all count. CancerFax can help you get your scans reviewed by a liver team, but only that team can confirm eligibility.</p>"
+          },
+          {
+            "q": "Is microwave ablation as good as liver surgery?",
+            "a": "<p>For tumours under about 3 cm, microwave ablation can achieve local control close to surgery, but surgical removal is still the standard when a patient is fit enough for it. Ablation is often preferred when tumours are hard to reach, when too little healthy liver would remain after an operation, or when surgery would be too risky. Your team weighs tumour position, number, and your overall health before deciding.</p>"
+          },
+          {
+            "q": "Will microwave ablation help me live longer?",
+            "a": "<p>Ablation can extend survival when it destroys all visible liver disease, with five-year survival reported around 30% to 50% in carefully selected patients treated alongside chemotherapy. Results are best when tumours are few, small, and completely destroyed at the first attempt. It is rarely curative when cancer is also active outside the liver. Your own outlook depends on tumour biology, chemotherapy response, and how much liver is involved.</p>"
+          },
+          {
+            "q": "How is the procedure done, and will it hurt?",
+            "a": "<p>Most microwave ablations are done through the skin under sedation or general anaesthetic, so you should not feel pain while it happens. A thin probe is placed into the tumour using ultrasound or CT guidance, and the burn itself takes only a few minutes per tumour. The whole procedure usually runs 30 to 60 minutes. Some patients have it during keyhole surgery instead, when the tumour is difficult to see.</p>"
+          },
+          {
+            "q": "How long does recovery take?",
+            "a": "<p>Most people go home within one to two days and return to normal activity in about a week. Feeling tired, mildly feverish, or sore under the right ribs for several days is common, and is known as post-ablation syndrome. It usually settles without treatment. Because there is no large incision, recovery is far quicker than after open liver surgery, which often needs six weeks or more.</p>"
+          },
+          {
+            "q": "What are the risks and side effects?",
+            "a": "<p>Serious complications occur in fewer than 5% of procedures. The main ones are bleeding, infection or abscess in the treated area, injury to a bile duct, and damage to nearby structures such as the bowel or diaphragm. A small collapse of the right lung can also happen. Most problems are treatable, and your risk depends heavily on where the tumour sits, so ask your interventional radiologist for their own figures.</p>"
+          },
+          {
+            "q": "Can microwave ablation be repeated if the cancer comes back?",
+            "a": "<p>Yes, it can usually be repeated. Because ablation destroys very little healthy tissue, many patients have two, three, or more sessions over several years as new spots appear in the liver. If cancer returns at the edge of a treated area, doctors may re-ablate it, move to surgery, or change systemic treatment. How often it can be repeated depends on your liver function and how the disease is behaving.</p>"
+          },
+          {
+            "q": "What is the difference between microwave and radiofrequency ablation?",
+            "a": "<p>Microwave ablation heats tissue faster, reaches higher temperatures, and is less affected by nearby blood vessels carrying heat away, so it often performs better for tumours close to large veins. Radiofrequency ablation has longer published follow-up data and remains reasonable for very small lesions. Many centres now use microwave as their default for colorectal liver metastases, but the better choice for you depends on tumour size and position.</p>"
+          },
+          {
+            "q": "Can I travel to India or China for microwave ablation, and what does it cost?",
+            "a": "<p>International patients can travel to India and China for liver ablation, and most large cancer centres there accept self-referrals with recent scans. In India, the procedure commonly costs around USD 3,000 to 6,000 including imaging and a short stay, well below typical Western pricing. Visas, medical clearance, and follow-up plans need arranging in advance. CancerFax can help you compare centres and request written estimates before you commit.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Lung Cancer Treatment in India for International Patients",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "lung-cancer-treatment-in-india",
+  "route": "/guides/lung-cancer-treatment-in-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How much does lung cancer treatment in India cost for an international patient?",
+            "a": "<p>Lung cancer treatment in India usually costs between US$5,000 and US$25,000, depending on your stage and the type of treatment you need. Surgery for early-stage disease sits at the lower end, while targeted therapy or immunotherapy given over several months costs more. Hospital packages often cover surgery, the hospital stay and basic scans. Your final cost depends on the drugs prescribed, how long you stay and any complications.</p>"
+          },
+          {
+            "q": "Is lung cancer treatment in India as good as in the US or Europe?",
+            "a": "<p>Leading Indian cancer centres report outcomes comparable to Western hospitals for most lung cancer treatments. Major hospitals follow the same NCCN and ESMO protocols, use the same chemotherapy and immunotherapy drugs, and run modern radiotherapy systems such as VMAT and stereotactic radiotherapy. Many surgeons and oncologists trained abroad. Quality does vary between hospitals, so your result depends heavily on which centre and which team treat you.</p>"
+          },
+          {
+            "q": "What tests will I need before treatment can start?",
+            "a": "<p>Most patients need a chest CT scan, a PET-CT scan, a tumour biopsy, and molecular testing on the biopsy sample. Molecular testing looks for EGFR, ALK, ROS1 and PD-L1 markers, which decide whether targeted therapy or immunotherapy may work for you. Blood tests and lung function tests are also standard. Indian teams may repeat tests done at home if the slides or reports are incomplete.</p>"
+          },
+          {
+            "q": "How long will I need to stay in India?",
+            "a": "<p>Plan for four to six weeks if you are having surgery, and eight to twelve weeks if you need radiotherapy or several chemotherapy cycles. Surgery usually means five to seven days in hospital, then two to three weeks of recovery before you are cleared to fly. Patients starting targeted therapy often stay two to three weeks. Your oncologist sets the exact timeline after reviewing your scans.</p>"
+          },
+          {
+            "q": "Can I get immunotherapy for lung cancer in India?",
+            "a": "<p>Yes. Immunotherapy drugs including pembrolizumab, nivolumab, atezolizumab and durvalumab are approved and available in India, often combined with chemotherapy. They are generally offered when PD-L1 testing suggests your tumour is likely to respond. Indian-made and biosimilar versions can cost far less than the same drug in the US or Europe. Whether immunotherapy suits you depends on your tumour markers, your stage and your general health.</p>"
+          },
+          {
+            "q": "What visa do I need to come to India for cancer treatment?",
+            "a": "<p>You need an Indian medical visa, issued on the basis of an invitation letter from the treating hospital. You apply online, upload the hospital letter and your medical reports, and many applications are processed within a few days. Up to two relatives can travel with you on medical attendant visas. Processing time and approval depend on your nationality and the current rules at your local Indian mission.</p>"
+          },
+          {
+            "q": "How quickly can treatment start after I arrive?",
+            "a": "<p>Treatment often begins within three to seven days of arrival if your biopsy and scans are already done. That week is used for consultation, any repeat imaging, and pre-anaesthetic checks before surgery. If you arrive without a tissue diagnosis, add one to two weeks for a biopsy and molecular testing. CancerFax can send your reports ahead so the hospital team plans your schedule before you land.</p>"
+          },
+          {
+            "q": "Can I join a lung cancer clinical trial in India?",
+            "a": "<p>International patients can sometimes join lung cancer trials in India, but most studies are designed for residents and need follow-up visits over many months. Eligibility depends on your stage, your previous treatments, your molecular markers and how long you can stay in the country. Trial slots open and close at short notice. Ask your oncologist to check the national trials registry before you plan any travel.</p>"
+          },
+          {
+            "q": "What happens with follow-up after I go home?",
+            "a": "<p>Most Indian hospitals arrange follow-up by video consultation, often every three months for the first two years. You have your scans and blood tests done locally, then send the reports across for review. Your Indian oncologist writes a discharge summary setting out the full treatment plan so a doctor at home can continue chemotherapy or tablets. This works best when your local oncologist agrees to share results.</p>"
+          },
+          {
+            "q": "Is it worth travelling to India if my lung cancer is stage 4?",
+            "a": "<p>Stage 4 lung cancer can still be treated meaningfully in India, though the goal shifts to controlling the disease and easing symptoms rather than curing it. Targeted therapy, immunotherapy and palliative radiotherapy are all available, and many patients live well for years on daily tablets. Travel makes sense only if you are fit enough to fly. Ask first whether the same drugs are available closer to home.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

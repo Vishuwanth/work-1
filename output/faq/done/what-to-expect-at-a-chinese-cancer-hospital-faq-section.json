@@ -1,0 +1,59 @@
+{
+  "pillar": "What to Expect at a Chinese Cancer Hospital",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-to-expect-at-a-chinese-cancer-hospital",
+  "route": "/guides/what-to-expect-at-a-chinese-cancer-hospital",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What actually happens on my first day at a Chinese cancer hospital?",
+            "a": "<p>Your first day is registration, a consultation with the assigned oncology team, and a fresh round of tests. Most large Chinese cancer hospitals repeat imaging and pathology in their own labs rather than relying on outside reports, so expect blood work, a CT or MRI, and often a slide review. Plan for six to eight hours, and bring your passport, visa papers, and every scan and report you have.</p>"
+          },
+          {
+            "q": "Will the doctors and nurses speak English?",
+            "a": "<p>Senior oncologists at the top centres often speak workable English, but nurses, technicians, and pharmacy staff usually do not. Hospitals that treat international patients typically run a dedicated international department with interpreters, and many families also hire an independent medical translator. Confirm interpreter coverage in writing before you travel, because consent forms, chemotherapy schedules, and discharge instructions may still be issued only in Chinese.</p>"
+          },
+          {
+            "q": "How long will I wait before treatment actually starts?",
+            "a": "<p>Waiting times are short by international standards. Many patients are seen within a few days of arriving and begin treatment inside one to two weeks, because imaging and pathology run seven days a week at large centres. Delays usually come from visa processing or from pathology re-review rather than from hospital scheduling. Your own timeline depends on your diagnosis and how quickly your records reach the team.</p>"
+          },
+          {
+            "q": "Do I have to pay a deposit before they treat me?",
+            "a": "<p>Yes, in almost all cases. Chinese hospitals ask international patients for an upfront deposit, and treatment is billed against that balance as you go, so you top the account up as it runs down. Amounts vary widely with the plan, from a few thousand US dollars for standard chemotherapy to far more for surgery or CAR-T. Ask for a written estimate, as final costs depend on how your disease responds.</p>"
+          },
+          {
+            "q": "Can my husband or daughter stay with me in the hospital?",
+            "a": "<p>In most wards, yes, and it is expected. Chinese hospital culture assumes a family member or hired caregiver stays with the patient to help with meals, washing, and moving around, and wards often provide a fold-out bed or chair. Rules tighten in transplant and CAR-T units, where infection control may limit visits to set hours. Confirm the ward's policy before you book accommodation for your companion.</p>"
+          },
+          {
+            "q": "Will they accept the diagnosis and scans I bring from home?",
+            "a": "<p>They will review them, but expect much of it to be repeated. Chinese oncology teams normally re-read outside pathology slides in their own laboratory and redo imaging older than four to six weeks, because staging drives the whole treatment plan. Bring physical slides or paraffin blocks, not just the written report. This second look sometimes changes the diagnosis or the stage, which can change what treatment is offered.</p>"
+          },
+          {
+            "q": "Can I get an opinion from a Chinese hospital before I fly out?",
+            "a": "<p>Yes, you can send your records for review without leaving home. Most Chinese cancer centres accept remote case submissions, and services such as CancerFax pass your pathology, imaging, and treatment history to oncology teams there for a written opinion, often within one to two weeks. Whatever comes back should be discussed with your current oncologist, who knows your full history and remains responsible for your care.</p>"
+          },
+          {
+            "q": "What are the wards and rooms actually like?",
+            "a": "<p>Expect clean, busy, and crowded. Standard wards hold two to six beds, corridors stay full, and the day starts early with rounds around seven in the morning. Private and VIP rooms are available at most large centres and international departments at a higher daily rate. Meals are Chinese hospital food, so many families bring their own or order in, which staff generally allow.</p>"
+          },
+          {
+            "q": "Can I get treatments in China that are not approved in my country?",
+            "a": "<p>Often yes. China has approved CAR-T products, gene therapies such as Gendicine, and PD-1 inhibitors that are not licensed everywhere, and it runs one of the largest oncology trial programmes in the world. Access depends on your diagnosis, prior treatment, organ function, and whether a slot is open. Nothing is confirmed until the treating centre reviews your records and states in writing that you are eligible.</p>"
+          },
+          {
+            "q": "What happens after I go home, and who looks after me then?",
+            "a": "<p>Discharge usually comes with a summary, imaging discs, and a follow-up schedule, though the paperwork may need translating. Chinese teams often stay reachable by message or video call for scan reviews and dose questions, and some ask you to return at roughly three-month intervals. Arrange follow-up with an oncologist at home before you fly out, because monitoring and side-effect management are far easier close to home.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

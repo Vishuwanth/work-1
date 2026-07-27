@@ -1,0 +1,59 @@
+{
+  "pillar": "NexCAR19 Clinical Trial Results: What the Pivotal Data Shows",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "nexcar19-clinical-trial-results",
+  "route": "/insights/nexcar19-clinical-trial-results",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What did the NexCAR19 pivotal trial actually show?",
+            "a": "<p>In the pivotal Indian trial, NexCAR19 produced an overall response in roughly two-thirds of patients with relapsed or refractory B-cell lymphoma and leukaemia, with about half reaching a complete response. The study enrolled a small group of heavily pretreated patients across Indian centres, most of whom had already failed multiple lines of chemotherapy.</p><p>These are early-phase numbers from a limited sample, so results in wider practice may differ.</p>"
+          },
+          {
+            "q": "How many patients were in the NexCAR19 trial?",
+            "a": "<p>The NexCAR19 pivotal programme was small by global standards, treating a few dozen patients across its phase 1 and phase 2 stages at centres including Tata Memorial in Mumbai. Indian regulators accepted this size because the patients had no remaining standard options and the safety signal was clear.</p><p>Smaller trials give less certainty about long-term outcomes, so longer follow-up data is still being collected.</p>"
+          },
+          {
+            "q": "Was NexCAR19 tested in both lymphoma and leukaemia patients?",
+            "a": "<p>Yes. The trial included adults with relapsed or refractory B-cell non-Hodgkin lymphoma and patients with B-cell acute lymphoblastic leukaemia, all of whom had CD19-positive disease. Response rates reported were generally higher in the lymphoma group than in the leukaemia group, which matches patterns seen with CD19 CAR-T products internationally.</p><p>Whether the data applies to your specific diagnosis is something your haematologist must judge from your reports.</p>"
+          },
+          {
+            "q": "How safe was NexCAR19 in the trial — what were the side effects?",
+            "a": "<p>The standout finding was a low rate of severe toxicity. Most patients had mild cytokine release syndrome, and severe grade 3 or higher cases were uncommon. Serious neurological toxicity, which affects a meaningful share of patients on some Western CAR-T products, was reported in very few NexCAR19 patients.</p><p>Low blood counts and infection risk still occur, so inpatient monitoring after infusion remains standard.</p>"
+          },
+          {
+            "q": "How do NexCAR19 results compare with Yescarta or Kymriah?",
+            "a": "<p>NexCAR19 response rates sit somewhat below those reported for Yescarta and Kymriah, but its toxicity profile looks milder, particularly for neurological side effects. The comparison is not direct: the trials used different patient groups, different disease burdens and different follow-up periods, so the numbers cannot be lined up side by side fairly.</p><p>Only a head-to-head trial could settle which product performs better, and none has been run.</p>"
+          },
+          {
+            "q": "Do the remissions from NexCAR19 last?",
+            "a": "<p>Durability is the open question. A portion of patients who reached complete remission in the trial have stayed in remission beyond a year, but follow-up is still short compared with the several years of data available for older CAR-T products. Some patients relapsed within months, and a few went on to stem cell transplant afterwards.</p><p>Long-term survival figures may change as more follow-up data is published.</p>"
+          },
+          {
+            "q": "Did the trial data lead to approval in India?",
+            "a": "<p>Yes. India's Central Drugs Standard Control Organisation granted market authorisation for NexCAR19 in October 2023, making it the country's first indigenously developed CAR-T therapy. Approval covers adults with relapsed or refractory CD19-positive B-cell lymphoma and leukaemia who have exhausted standard treatment options.</p><p>Approval sets the licensed indication, but whether an individual patient qualifies is decided by the treating CAR-T centre.</p>"
+          },
+          {
+            "q": "Does the trial data mean NexCAR19 will work for me?",
+            "a": "<p>Trial results describe a group, not an individual, so they cannot predict your own outcome. Patients in the study had CD19-positive disease, adequate organ function and enough healthy T-cells to collect, and results varied within that group depending on how much disease was present at infusion.</p><p>Your likely benefit depends on your diagnosis, prior treatments and current disease burden, which a CAR-T specialist must assess.</p>"
+          },
+          {
+            "q": "Is more NexCAR19 data still coming?",
+            "a": "<p>Yes. ImmunoACT continues to collect post-approval follow-up on treated patients, and further studies are looking at longer survival, use in earlier lines of treatment, and outcomes in paediatric patients. Registry data from Indian centres treating patients outside the original trial will also add to the picture over the next few years.</p><p>Published figures may shift as this newer data becomes available.</p>"
+          },
+          {
+            "q": "How do I get my case reviewed against these trial criteria?",
+            "a": "<p>Start by gathering your biopsy report, flow cytometry confirming CD19 positivity, recent blood counts, organ function tests and a full record of previous treatments. Indian CAR-T centres use these to judge whether your situation resembles the patients who benefited in the trial and whether cell collection is feasible.</p><p>CancerFax can forward this file to Indian CAR-T programmes for review, though acceptance always rests with the treating oncology team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

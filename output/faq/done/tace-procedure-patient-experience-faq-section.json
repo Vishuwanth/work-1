@@ -1,0 +1,59 @@
+{
+  "pillar": "The TACE Procedure: What Patients Experience Before, During, and After",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "tace-procedure-patient-experience",
+  "route": "/insights/tace-procedure-patient-experience",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What actually happens during a TACE procedure?",
+            "a": "<p>During TACE, an interventional radiologist threads a thin catheter from an artery in your groin or wrist up to the vessels feeding your liver tumour, then delivers chemotherapy directly into it and blocks the blood supply with tiny particles. You lie still on an X-ray table while live imaging guides the catheter. Most people feel pressure and warmth rather than sharp pain, because the liver has no pain nerves inside it.</p>"
+          },
+          {
+            "q": "Will I be asleep during TACE?",
+            "a": "<p>Most patients stay awake but sedated. You get local anaesthetic at the catheter entry site and medication through a drip that makes you drowsy and relaxed, so you may remember very little afterwards. General anaesthesia is used in some hospitals, or for patients who cannot lie flat and still. Your interventional radiologist and anaesthetist decide together, based on your liver function, breathing, and anxiety level.</p>"
+          },
+          {
+            "q": "How long does the TACE procedure take?",
+            "a": "<p>The procedure itself usually takes 60 to 90 minutes, though complex tumour anatomy can push it past two hours. Add preparation, sedation, and recovery, and expect to be away from your room for roughly half a day. Afterwards you lie flat for four to six hours so the artery puncture seals properly. Timing depends on how many tumours are treated and how their feeding vessels are arranged.</p>"
+          },
+          {
+            "q": "Does TACE hurt, during or afterwards?",
+            "a": "<p>The procedure is usually not painful, but the hours afterwards often are. Sedation and local anaesthetic cover the catheter work itself. Once the tumour's blood supply is blocked, that tissue begins to die, and many patients get right-sided abdominal pain, nausea, and fever for a few days. Ask for pain medication early rather than waiting, because it controls pain better before it builds.</p>"
+          },
+          {
+            "q": "What is post-embolization syndrome and should I worry about it?",
+            "a": "<p>Post-embolization syndrome is your body reacting to tumour tissue dying after treatment, and it affects most TACE patients. Typical symptoms are fever, fatigue, nausea, appetite loss, and pain under the right ribs, usually starting within a day and easing over three to seven days. It is expected, not a sign the treatment failed. Tell your team if fever climbs above 38.5°C or pain suddenly worsens.</p>"
+          },
+          {
+            "q": "How long will I stay in hospital after TACE?",
+            "a": "<p>Most patients stay one to three nights. The first night covers bed rest, monitoring of the puncture site, fluids, and medication for nausea and pain. You go home once pain is controlled with tablets, you are eating and drinking, and blood tests show your liver is coping. Patients with cirrhosis or larger tumours may stay longer, and discharge practice can differ between hospitals and countries.</p>"
+          },
+          {
+            "q": "How do I prepare for TACE in the days before?",
+            "a": "<p>You will usually fast for six to eight hours beforehand and have blood tests checking clotting, kidney function, and liver reserve. Tell your team about blood thinners, diabetes medication, and contrast allergies, since some of these must be paused. Arrange for someone to stay with you the first few days at home. If you are travelling from abroad, CancerFax can help you understand what records the treating hospital will want in advance.</p>"
+          },
+          {
+            "q": "How will I know whether the TACE worked?",
+            "a": "<p>Response is judged by a CT or MRI scan about four to six weeks after treatment, not by how you feel. Radiologists look for loss of blood flow inside the tumour rather than shrinkage alone, because a treated tumour can stay the same size while being largely dead. Blood tests such as AFP may support the picture. Results vary with tumour size, number, and liver function.</p>"
+          },
+          {
+            "q": "How many TACE sessions will I need?",
+            "a": "<p>Many patients have two to four sessions, spaced roughly six to eight weeks apart, but there is no fixed number. Your team repeats treatment while scans show remaining live tumour and your liver recovers well enough between rounds. If the liver is not tolerating it, or the disease spreads outside the liver, they will change the plan. The schedule depends on your response and overall health.</p>"
+          },
+          {
+            "q": "When can I get back to normal activity or fly home?",
+            "a": "<p>Most people feel close to normal within one to two weeks, though tiredness can linger longer. Avoid heavy lifting and strenuous exercise for about a week so the artery puncture heals. Doctors often prefer you stay near the treating hospital for seven to ten days before a long flight, in case of fever or bleeding. CancerFax can help coordinate that follow-up window with your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

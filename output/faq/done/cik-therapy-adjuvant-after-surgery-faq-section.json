@@ -1,0 +1,59 @@
+{
+  "pillar": "CIK Therapy After Cancer Surgery: Adjuvant Immune Support",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-adjuvant-after-surgery",
+  "route": "/insights/cik-therapy-adjuvant-after-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK therapy and how does it work after surgery?",
+            "a": "<p>CIK therapy uses your own immune cells, grown and activated in a laboratory, then infused back to hunt cancer cells left behind after surgery. Doctors collect white blood cells from your blood, expand them over roughly two to three weeks with growth signals, and return billions of activated killer cells. The aim is to clear microscopic disease that scans cannot see, which may lower relapse risk.</p>"
+          },
+          {
+            "q": "Why would I need CIK therapy if the surgeon already removed my tumour?",
+            "a": "<p>Even a clean operation can leave behind single cancer cells too small for any scan to detect, and these are the usual source of recurrence. Adjuvant CIK therapy is given to attack that microscopic residual disease while the tumour burden is lowest. It does not replace chemotherapy or radiation your team recommends. Whether it adds benefit in your case depends on your cancer type, stage and surgical margins.</p>"
+          },
+          {
+            "q": "Does CIK therapy after surgery actually lower the chance my cancer comes back?",
+            "a": "<p>In several trials, mostly from Asia, adding CIK cells after surgery improved disease-free survival. In hepatocellular carcinoma studies, relapse was delayed and recurrence rates fell by roughly a quarter compared with surgery alone. Results vary by cancer type, and many trials were small or single-centre, so the evidence is encouraging rather than definitive. CIK therapy may reduce recurrence risk in selected patients, but it cannot guarantee that your cancer will not return.</p>"
+          },
+          {
+            "q": "Which cancers is adjuvant CIK therapy actually used for?",
+            "a": "<p>Adjuvant CIK therapy has been studied most in liver cancer, stomach and colorectal cancer, lung cancer, kidney cancer and some breast cancers, with the strongest data in hepatocellular carcinoma after resection or ablation. It is also used after surgery for oesophageal and pancreatic tumours in some Chinese centres. Whether your cancer type is a reasonable candidate is a decision for your oncologist, not a fixed list.</p>"
+          },
+          {
+            "q": "How soon after my operation can CIK therapy start?",
+            "a": "<p>Most centres start CIK therapy two to four weeks after surgery, once your wound has healed and your blood counts have recovered. Blood collection usually happens first, then the cells are grown for about two to three weeks before the first infusion. Starting while residual disease is minimal is thought to work best, though your surgeon and oncologist decide the timing based on your recovery.</p>"
+          },
+          {
+            "q": "How many infusions will I need and how long does the whole course take?",
+            "a": "<p>A typical adjuvant course is four to six infusions given every two to four weeks, though many protocols run longer courses of eight to twelve infusions over six to twelve months. Each infusion takes about one to two hours and is usually done as a day case, so you go home the same day. The exact schedule depends on the centre and on how you respond.</p>"
+          },
+          {
+            "q": "Is CIK therapy safe, and what side effects should I expect?",
+            "a": "<p>CIK therapy is generally well tolerated because the cells come from your own body. The common reactions are mild and short-lived: low-grade fever, chills, tiredness and occasional muscle aches in the first day after an infusion. Serious cytokine release syndrome, the severe reaction seen with CAR T-cell therapy, is rare with CIK cells. Tell your team about any fever above 38°C or breathlessness so they can check you promptly.</p>"
+          },
+          {
+            "q": "Can I have CIK therapy at the same time as chemotherapy or radiation?",
+            "a": "<p>Yes, in most protocols CIK therapy is given alongside or between cycles of adjuvant chemotherapy rather than instead of it, and studies combining the two report better disease-free survival than chemotherapy alone. Infusions are usually timed for when your white cell count has recovered, since very low counts can blunt the response. Your oncologist should coordinate the schedule so neither treatment is compromised and side effects stay manageable.</p>"
+          },
+          {
+            "q": "Is CIK therapy approved, or can I only get it abroad or in a trial?",
+            "a": "<p>CIK therapy is not approved as standard care in the United States or Europe, where it is available mainly through clinical trials. In China and parts of Asia it is offered in licensed hospitals as an adjunct to conventional treatment, and some Indian centres run trials. CancerFax can help you check which centres currently accept international patients, though eligibility is always confirmed by the treating team.</p>"
+          },
+          {
+            "q": "How much does a course of CIK therapy cost?",
+            "a": "<p>Costs vary widely by country and protocol. In China a full adjuvant course of six to eight infusions often runs between USD 10,000 and 25,000, with cell processing the largest single item; Indian trial settings may cost less. Insurance rarely covers it because the therapy is not standard care. CancerFax can share current quotes from partner hospitals, but final pricing depends on your treatment plan.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

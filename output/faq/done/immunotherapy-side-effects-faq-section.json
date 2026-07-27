@@ -1,0 +1,59 @@
+{
+  "pillar": "Immunotherapy Side Effects: What Patients Need to Know",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "immunotherapy-side-effects",
+  "route": "/insights/immunotherapy-side-effects",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most common side effects of immunotherapy?",
+            "a": "<p>The most common immunotherapy side effects are fatigue, skin rash, itching, diarrhoea, and joint aches. These happen because checkpoint inhibitors switch the immune system on more strongly, and it can attack healthy tissue as well as cancer cells. Most cases are mild and settle with simple treatment. Around one in ten patients develops a more serious reaction that needs steroids, so any new symptom should be reported to your oncology team quickly.</p>"
+          },
+          {
+            "q": "How are immunotherapy side effects different from chemotherapy side effects?",
+            "a": "<p>Immunotherapy side effects come from an overactive immune system, while chemotherapy side effects come from damage to fast-growing cells. Hair loss, mouth sores, and very low blood counts are therefore less common with immunotherapy. Instead you may see inflammation in the skin, bowel, thyroid, lungs, or liver. Chemotherapy effects usually fade within weeks of stopping, but immune-related effects can appear late and last longer, so monitoring often continues after treatment ends.</p>"
+          },
+          {
+            "q": "When do immunotherapy side effects usually start?",
+            "a": "<p>Most immunotherapy side effects appear between two weeks and three months after the first dose. Skin problems tend to come earliest, bowel and liver inflammation next, and hormone problems such as an underactive thyroid often show up later. Some reactions begin months after the final dose, which surprises many patients. Keep telling every doctor you see that you have had immunotherapy, even a year or more after treatment finishes.</p>"
+          },
+          {
+            "q": "Can immunotherapy side effects be permanent?",
+            "a": "<p>Some immunotherapy side effects can be permanent, but most are not. Hormone glands are the main exception: if the thyroid, pituitary, or adrenal glands are damaged, you may need daily hormone tablets for life. Inflammation of the skin, bowel, or lungs usually settles once treated with steroids. Lasting serious harm is uncommon, though the risk depends on which drug you receive and how quickly the symptoms are treated.</p>"
+          },
+          {
+            "q": "Will I have to stop treatment if I get side effects?",
+            "a": "<p>Not always. Mild side effects are usually managed with creams, anti-diarrhoea medicine, or a short steroid course while treatment carries on. Moderate ones often mean pausing a dose or two and restarting once symptoms settle. Treatment is stopped permanently only for severe reactions, such as inflammation of the lungs, heart, or nerves. Your oncologist weighs how well the cancer is responding against the risk, so the decision depends on your situation.</p>"
+          },
+          {
+            "q": "Do side effects mean the immunotherapy is working?",
+            "a": "<p>Not reliably. Some studies suggest patients who develop a skin rash or thyroid problems may respond better to checkpoint inhibitors, but the link is not strong enough to predict any individual outcome. Many people benefit with no visible side effects at all, and others have side effects without tumour shrinkage. Scans and blood tests remain the only dependable way to judge whether the treatment is controlling your cancer.</p>"
+          },
+          {
+            "q": "Which symptoms should I call my doctor about immediately?",
+            "a": "<p>Call your team the same day for breathlessness, a new or worsening cough, chest pain, diarrhoea more than three times above your normal, blood in the stool, severe abdominal pain, yellowing of the eyes or skin, a blistering rash, confusion, severe headache, or fever above 38°C. These can signal inflammation in the lungs, bowel, liver, or brain. Early steroid treatment often prevents a mild problem from becoming a dangerous one.</p>"
+          },
+          {
+            "q": "How are immunotherapy side effects treated?",
+            "a": "<p>Most immune-related side effects are treated with steroids, usually prednisolone, which calm the overactive immune response. Mild cases may need only creams or tablets for symptom relief. Stronger medicines such as infliximab or mycophenolate can be added when steroids alone are not enough. Steroids do not appear to stop immunotherapy from working against the cancer, a common worry among patients, but they are tapered slowly so symptoms do not return.</p>"
+          },
+          {
+            "q": "Can I manage immunotherapy side effects if I travel abroad for treatment?",
+            "a": "<p>Yes, but it needs planning. Immune side effects can appear weeks after you fly home, when the hospital in India or China is no longer nearby. Before travelling, ask for a written side-effect card, your exact drug names and dose dates, and a named contact for emergencies.</p><p>CancerFax can help move these records between your overseas team and your local doctor, though your treating oncologists remain the ones who direct your care.</p>"
+          },
+          {
+            "q": "Is immunotherapy safe if I already have an autoimmune disease?",
+            "a": "<p>It may still be possible, but the risk is higher. People with rheumatoid arthritis, psoriasis, thyroid disease, or inflammatory bowel disease can see their condition flare on checkpoint inhibitors. Many are treated successfully with closer monitoring and a plan for flares agreed in advance. Patients with an organ transplant or severe active autoimmune disease are usually advised against it. Eligibility depends on your specific condition and is decided case by case.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

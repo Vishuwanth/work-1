@@ -1,0 +1,59 @@
+{
+  "pillar": "Cytoreductive Surgery (CRS): What It Involves and What to Expect",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cytoreductive-surgery",
+  "route": "/insights/cytoreductive-surgery",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cytoreductive surgery?",
+            "a": "<p>Cytoreductive surgery is an operation that removes all visible cancer deposits from the lining of the abdomen and any organs they have spread to. Surgeons strip away the peritoneum, and may remove parts of the bowel, spleen, gallbladder or omentum. The goal is to leave no tumour larger than 2.5 millimetres behind. It is a long, demanding operation, usually done at high-volume centres with specialist peritoneal surgery teams.</p>"
+          },
+          {
+            "q": "Which cancers is cytoreductive surgery used for?",
+            "a": "<p>Cytoreductive surgery is used mainly for cancers that spread across the abdominal lining rather than through the bloodstream. The commonest are ovarian cancer, colorectal cancer with peritoneal spread, appendix tumours including pseudomyxoma peritonei, mesothelioma of the peritoneum, and some stomach cancers. Whether it suits your case depends on the tumour type, how widely the disease has spread, and how well your body would tolerate a long operation.</p>"
+          },
+          {
+            "q": "Is cytoreductive surgery always done with HIPEC?",
+            "a": "<p>No. Cytoreductive surgery can be done on its own, though it is often paired with HIPEC, heated chemotherapy washed through the abdomen at the end of the operation. HIPEC aims to kill microscopic cancer cells the surgeon cannot see. The combination is standard practice for pseudomyxoma peritonei and peritoneal mesothelioma, and still debated for colorectal and gastric cancer. Your surgical team decides based on tumour type and current trial evidence.</p>"
+          },
+          {
+            "q": "How long does the operation take?",
+            "a": "<p>Most cytoreductive surgeries take six to twelve hours, and some run longer when disease is widespread. The length depends on how many organs are involved and how much peritoneum has to be stripped. If HIPEC is added, that adds roughly 90 minutes. You will usually spend one to three days in intensive care afterwards, then another one to two weeks on the ward before going home.</p>"
+          },
+          {
+            "q": "Am I eligible for cytoreductive surgery?",
+            "a": "<p>Eligibility usually depends on three things: whether all visible disease can realistically be removed, whether the cancer has spread outside the abdomen, and whether you are fit enough for a long operation. Surgeons use a peritoneal cancer index score from CT or laparoscopy to estimate this. Age alone rarely rules you out; heart, lung and kidney function matter more. Only an assessment by a peritoneal surgery team can give you a firm answer.</p>"
+          },
+          {
+            "q": "What does the completeness of cytoreduction score mean?",
+            "a": "<p>The completeness of cytoreduction score, written as CC-0 to CC-3, records how much cancer was left behind at the end of surgery. CC-0 means no visible tumour remains, CC-1 means deposits under 2.5 millimetres, and CC-2 and CC-3 mean larger amounts remain. Outcomes are generally best at CC-0 or CC-1, which is why surgeons aim for a complete clearance. Your operation note will state your score.</p>"
+          },
+          {
+            "q": "What are the risks and complications?",
+            "a": "<p>Serious complications happen in roughly 20 to 40 percent of patients, and the risk of dying from the operation is about 1 to 3 percent at experienced centres. The commonest problems are bowel leaks, infection, bleeding, blood clots and temporary kidney injury. Some people need a stoma. Risk falls when the surgery is done by a high-volume peritoneal team, so ask your surgeon how many of these operations they perform each year.</p>"
+          },
+          {
+            "q": "How long is recovery after cytoreductive surgery?",
+            "a": "<p>Most people leave hospital two to three weeks after surgery and feel close to normal at three to six months. Eating takes time to settle, and fatigue often lasts longer than patients expect. Gentle walking from the first week helps recovery and lowers clot risk. If chemotherapy follows, it usually starts six to eight weeks after the operation, once the wounds have healed and your strength has returned.</p>"
+          },
+          {
+            "q": "How much does cytoreductive surgery cost in India?",
+            "a": "<p>Cytoreductive surgery with HIPEC in India typically costs between 12,000 and 20,000 US dollars, including the operation, intensive care and the hospital stay. The same procedure often runs three to five times higher in the United States or Western Europe. Prices vary with the number of organs removed and any complications. CancerFax can help you compare written quotes from peritoneal surgery centres, though your treating oncologist should confirm the plan first.</p>"
+          },
+          {
+            "q": "Will the cancer come back after cytoreductive surgery?",
+            "a": "<p>Recurrence is common, and how likely it is depends on the tumour type and how completely the disease was removed. Appendix tumours and pseudomyxoma often stay controlled for many years, while colorectal and gastric peritoneal spread recur more often within two to three years. Regular scans and tumour markers are used to watch for return. Repeat cytoreductive surgery is possible in selected patients if the disease comes back in one area.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

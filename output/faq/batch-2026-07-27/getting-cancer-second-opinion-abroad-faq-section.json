@@ -1,0 +1,119 @@
+{
+  "pillar": "Getting a Cancer Second Opinion Abroad: A Complete Guide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "getting-cancer-second-opinion-abroad",
+  "route": "/guides/getting-cancer-second-opinion-abroad",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "Deciding whether you need a second opinion",
+        "items": [
+          {
+            "q": "Should I get a second opinion if my doctor already gave me a treatment plan?",
+            "a": "<p>Yes, a second opinion is reasonable even when your plan looks solid, and most oncologists expect it. Reviews of cancer cases often find changes to the diagnosis, stage, or drug choice in a meaningful minority of patients. It is most useful for rare cancers, unclear biopsies, and any plan involving surgery or a stem cell transplant. Ask your team to share records; a short delay rarely changes your outcome.</p>"
+          },
+          {
+            "q": "Will asking for a second opinion offend my current oncologist?",
+            "a": "<p>In most cases, no. Second opinions are a normal part of cancer care, and many hospitals arrange them for their own patients. You can frame it simply: you want another set of eyes before starting treatment. If a doctor reacts badly to the request, that itself is useful information. Your records belong to you, and you are entitled to copies for any review you choose.</p>"
+          },
+          {
+            "q": "How long can I wait before starting treatment?",
+            "a": "<p>Most solid tumours allow two to four weeks for a second opinion without measurably affecting results. Some situations are urgent: acute leukaemia, spinal cord compression, airway or bowel obstruction, and fast-growing lymphomas may need treatment within days. Ask your oncologist directly how much time you safely have, and say why you are asking. That single question usually settles whether a remote review abroad is realistic for you.</p>"
+          },
+          {
+            "q": "What kinds of cancer benefit most from a second opinion abroad?",
+            "a": "<p>Rare cancers, sarcomas, brain tumours, relapsed blood cancers, and any case where the biopsy result is uncertain benefit most. These are the situations where a high-volume centre sees in a month what a general hospital sees in a year. Advanced disease that has stopped responding to standard drugs also qualifies, because trial options and newer agents may differ sharply between countries. Ask whether your subtype has a dedicated clinic anywhere you are considering.</p>"
+          }
+        ]
+      },
+      {
+        "title": "How a second opinion abroad actually works",
+        "items": [
+          {
+            "q": "Do I have to travel to get a second opinion abroad?",
+            "a": "<p>No, most second opinions abroad start remotely. You send scans, pathology slides or blocks, and a treatment summary, and a specialist reviews them and writes a report, usually within a week or two. Travel only becomes necessary if the plan involves treatment there, or if the team needs a fresh biopsy or physical examination. Many families use the remote report first, then decide about flights.</p>"
+          },
+          {
+            "q": "What does the second opinion report actually tell me?",
+            "a": "<p>A good report confirms or revises your diagnosis and stage, comments on the pathology, and states whether the proposed treatment matches what that centre would do. It should name specific drugs, doses, and sequencing rather than general advice. Ask in advance whether the report will address clinical trial eligibility and molecular testing, since these are often where opinions diverge most between Indian, Chinese, and Western centres.</p>"
+          },
+          {
+            "q": "Will the doctor abroad speak to me directly, or only send a report?",
+            "a": "<p>Most centres offer a video consultation alongside the written report, typically 20 to 45 minutes with the specialist or a senior member of the team. Interpretation is usually available for Chinese and some Indian hospitals, though quality varies. Ask before you pay whether a live call is included, whether you may record it, and whether follow-up questions after the report cost extra. A recorded call is easier to share with your local oncologist later.</p>"
+          },
+          {
+            "q": "How do I choose which hospital abroad to ask?",
+            "a": "<p>Choose by disease volume, not by hospital reputation overall. A centre that treats 300 oesophageal cancers a year will read your case better than a famous general hospital that treats 30. Look for a named specialist in your tumour type, published work in that area, and a tumour board that reviews cases jointly. CancerFax can help match your reports to centres that handle your diagnosis, with your treating team's input.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Records, scans, and pathology",
+        "items": [
+          {
+            "q": "What documents and scans do I need to send?",
+            "a": "<p>Send the pathology report, the biopsy slides or paraffin blocks, all CT, MRI, PET, or bone scans on CD or in DICOM format, blood reports, a discharge or treatment summary, and any molecular or genetic test results. Radiology images matter more than radiology reports, because the reviewing team will re-read them. Ask your hospital in writing; release can take several days.</p>"
+          },
+          {
+            "q": "Can the hospital abroad review my biopsy slides again?",
+            "a": "<p>Yes, and it is often the single most valuable part of the review. A specialist pathologist re-examines your slides or blocks and may reclassify the tumour type, grade, or subtype. Reclassification changes treatment in a small but real share of cases, particularly lymphomas and sarcomas. You will usually need to borrow the blocks from the original laboratory, which may require a written request and a deposit.</p>"
+          },
+          {
+            "q": "Do my reports need to be translated?",
+            "a": "<p>Usually yes for Chinese hospitals, and often not for Indian ones, where medical records are already in English. Chinese centres generally accept English reports but may want key documents in Mandarin, and hospitals or coordinators often arrange this. Never translate values or drug names yourself. Send the original alongside any translation so the reviewing doctor can check anything unusual against the source. Poor translation is a common cause of avoidable confusion.</p>"
+          },
+          {
+            "q": "Are my medical records safe when I send them overseas?",
+            "a": "<p>Reputable hospitals handle overseas records under their own privacy rules, but protections differ by country and are generally weaker than what you may be used to at home. Send files through a hospital portal or an encrypted link rather than open email or messaging apps. Remove unnecessary identity documents, ask who will see the file, and ask how long it is kept after the review.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Cost, timing, and travel",
+        "items": [
+          {
+            "q": "How much does a second opinion abroad cost?",
+            "a": "<p>A remote written second opinion from an Indian centre commonly costs between 100 and 400 US dollars, and from a Chinese centre roughly 200 to 800, depending on whether pathology review and a video call are included. Slide review and molecular testing are usually billed separately. Prices change often and vary by hospital, so ask for a written quote listing exactly what the fee covers before you send anything.</p>"
+          },
+          {
+            "q": "Will my insurance pay for a second opinion abroad?",
+            "a": "<p>Most domestic health policies do not cover consultations obtained overseas, though some corporate and international plans do. Check your policy wording for second opinion, teleconsultation, and treatment outside country before assuming either way. Even when the opinion itself is not covered, the tests it recommends may be reimbursed if they are done at home. Ask your insurer to confirm coverage in writing rather than by phone.</p>"
+          },
+          {
+            "q": "How long does the whole process take?",
+            "a": "<p>Plan on two to three weeks from first contact to a written report. Collecting records takes three to seven days, courier of slides adds a week for international shipping, and the review itself commonly takes three to ten working days once the file is complete. Delays almost always come from missing pathology, not from the hospital. Ask for a target date in writing when you pay.</p>"
+          },
+          {
+            "q": "Do I need a visa just to get an opinion?",
+            "a": "<p>No visa is needed for a remote review, which is one reason most families start there. If you later travel, India and China both issue medical visas that require an invitation letter from the treating hospital, and these usually take one to four weeks. Apply only after the hospital confirms an appointment and a treatment plan, since visa rules and processing times change without much notice.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Acting on the opinion you receive",
+        "items": [
+          {
+            "q": "What if the second opinion contradicts my current doctor?",
+            "a": "<p>Disagreement is common and does not mean one doctor is wrong. Take the written report back to your oncologist and ask what specifically they disagree with and why. Most conflicts come down to sequencing, surgery timing, or whether a newer drug is worth its side effects. If the two views stay far apart, a third opinion from a high-volume centre often breaks the tie.</p>"
+          },
+          {
+            "q": "Can I follow the foreign plan while staying treated at home?",
+            "a": "<p>Often yes, and this is the most common outcome. Standard chemotherapy, radiation schedules, and many targeted drugs can be delivered locally using the protocol the overseas team recommends, provided your oncologist agrees and the drugs are approved where you live. CAR T-cell therapy, proton and carbon ion radiation, and trial-only drugs are the usual exceptions that require travel. Your local team makes the final call.</p>"
+          },
+          {
+            "q": "Can a second opinion get me into a clinical trial abroad?",
+            "a": "<p>It can open the door, but enrolment is never guaranteed. Trials have strict criteria on prior treatments, organ function, biomarkers, and residency, and many require you to be physically present for the full study period. A second opinion is often how patients first learn a relevant trial exists. Ask the reviewing centre to name the trial and its identifier so you can check eligibility yourself.</p>"
+          },
+          {
+            "q": "What questions should I ask before I pay for a second opinion?",
+            "a": "<p>Ask five things: who exactly will review the case, whether a pathologist re-reads the slides, what the written report will include, whether a video call and follow-up questions are covered, and how long it takes. Also ask what happens if records arrive incomplete. Clear answers usually signal a centre that handles international cases routinely. CancerFax coordinators can request these details on your behalf.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

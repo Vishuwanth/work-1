@@ -1,0 +1,59 @@
+{
+  "pillar": "How CIK Cells Are Made: The Manufacturing Process Explained",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-cell-manufacturing-process",
+  "route": "/insights/cik-cell-manufacturing-process",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How are CIK cells actually made from my blood?",
+            "a": "<p>CIK cells are grown from white blood cells collected from your own blood, then expanded in a sterile lab for two to three weeks. Technicians separate the mononuclear cells, add interferon-gamma on day one, then anti-CD3 antibody and interleukin-2 the next day. The cells multiply and mature into CD3+CD56+ killer cells, which are washed, tested, and returned to you by intravenous infusion. Timelines vary between labs.</p>"
+          },
+          {
+            "q": "How long does CIK cell manufacturing take from blood draw to infusion?",
+            "a": "<p>Most labs need 14 to 21 days between your blood collection and the first infusion. The first week builds cell numbers; the second and third weeks drive maturation into the CD3+CD56+ population that does the killing. Final sterility and identity testing adds two to three days. Your team may extend the culture if growth is slow, so treat any date you are given as provisional.</p>"
+          },
+          {
+            "q": "How much blood do they take to make CIK cells?",
+            "a": "<p>A single peripheral blood draw of roughly 50 to 100 millilitres is usually enough, because the cells are multiplied in the lab rather than harvested in bulk. Some centres prefer leukapheresis, where a machine filters white cells from your circulating blood over two to four hours and returns the rest. The choice depends on your blood counts and the dose your doctor wants to reach.</p>"
+          },
+          {
+            "q": "What is added to the culture to turn my cells into CIK cells?",
+            "a": "<p>Three ingredients do most of the work: interferon-gamma, an anti-CD3 antibody such as OKT3, and interleukin-2. Interferon-gamma is added first to prime the cells, the anti-CD3 antibody activates the T cells the next day, and interleukin-2 is topped up every few days to keep them dividing. Serum-free medium and strict feeding schedules round out the recipe, though exact protocols differ from one laboratory to the next.</p>"
+          },
+          {
+            "q": "How many cells end up in a single CIK infusion?",
+            "a": "<p>A typical infusion contains between one and ten billion cells, expanded from a starting sample a thousand times smaller. Most protocols give several infusions across a treatment cycle rather than one large dose. The final number depends on how well your cells grew, your body weight, and your blood counts, so the dose written in your plan may be adjusted on the day of infusion.</p>"
+          },
+          {
+            "q": "Are CIK cells made from my own blood or from a donor?",
+            "a": "<p>Almost all CIK cell treatment uses your own blood, which avoids graft-versus-host disease and removes the need for donor matching. Donor-derived CIK cells are used mainly after a stem cell transplant, where cells come from the same donor who gave you the graft. A few centres are studying off-the-shelf donor products, but these remain experimental, and access usually depends on joining a clinical trial.</p>"
+          },
+          {
+            "q": "What safety tests are run before the cells are given back to me?",
+            "a": "<p>Every batch is checked for bacterial and fungal contamination, mycoplasma, endotoxin, cell viability, and the percentage of CD3+CD56+ cells. Release criteria usually require viability above 90 percent and a negative sterility result before the bag leaves the lab. Ask your centre for a written copy of its release certificate; CancerFax can help you collect these documents, but your treating oncology team interprets them for you.</p>"
+          },
+          {
+            "q": "Can my CIK cells be frozen and used for later infusions?",
+            "a": "<p>Yes, surplus cells can be cryopreserved in liquid nitrogen and thawed for later infusions, which spares you repeat blood collections. Freezing does cost some viability, so many centres prefer fresh cells for the first doses and bank the remainder. Storage fees, maximum storage time, and whether banking is offered at all vary between hospitals, so confirm the terms in writing before you start treatment.</p>"
+          },
+          {
+            "q": "What can go wrong during manufacturing, and what happens if a batch fails?",
+            "a": "<p>The two common problems are poor expansion, where your cells simply do not grow to the target number, and contamination, which forces the lab to discard the batch. Heavy prior chemotherapy and very low lymphocyte counts make weak growth more likely. Most centres will repeat the collection at no extra manufacturing charge, but policies differ, so ask what happens to your money and your schedule.</p>"
+          },
+          {
+            "q": "Where can I get CIK cells manufactured, and does it need a GMP lab?",
+            "a": "<p>CIK cells must be grown in a GMP-certified clean room, which is why treatment is concentrated in a small number of hospitals in China, Japan, Germany, and a few Indian centres. The lab is usually attached to the hospital giving the infusion, because fresh cells travel poorly. Eligibility, cost, and whether the programme is a registered trial vary widely between these sites, so check each one individually.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

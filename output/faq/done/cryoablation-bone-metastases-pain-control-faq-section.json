@@ -1,0 +1,59 @@
+{
+  "pillar": "Cryoablation for Bone Metastases: Pain Control and Local Tumour Treatment",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cryoablation-bone-metastases-pain-control",
+  "route": "/insights/cryoablation-bone-metastases-pain-control",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is cryoablation for bone metastases?",
+            "a": "<p>Cryoablation is a needle-based procedure that freezes a painful bone tumour to destroy it and calm the nerves around it. A radiologist guides thin probes through the skin into the tumour using CT or ultrasound, then cycles argon gas to form an ice ball that kills tumour cells. It is done under sedation or general anaesthetic, usually as a day case, and does not require an open operation.</p>"
+          },
+          {
+            "q": "How much will cryoablation reduce my bone pain?",
+            "a": "<p>Most patients report a clear drop in pain, often from severe to mild, within one to two weeks. Published series show average pain scores falling by roughly half or more, and many patients reduce their opioid dose afterwards. Relief can last several months or longer. How much you get depends on the size and site of the tumour, how many lesions you have, and whether other areas are also causing pain.</p>"
+          },
+          {
+            "q": "How soon does the pain relief start after the procedure?",
+            "a": "<p>Pain relief usually begins within the first week, and many patients notice a change in the first 24 to 72 hours. Some people feel worse for a few days first because freezing causes local swelling and inflammation, which settles with simple pain relief. Full benefit is often reached by two to four weeks. Your team may adjust your painkillers gradually rather than stopping them at once.</p>"
+          },
+          {
+            "q": "Is cryoablation better than radiotherapy for painful bone metastases?",
+            "a": "<p>Neither is universally better; they are often used for different situations. Radiotherapy remains the standard first choice for most painful bone metastases and is simpler to deliver. Cryoablation is frequently chosen when pain returns after radiotherapy, when the area has already received the maximum radiation dose, or when a patient wants faster relief. In many cases the two are combined rather than treated as alternatives.</p>"
+          },
+          {
+            "q": "Am I eligible for cryoablation if I have several bone metastases?",
+            "a": "<p>You may still be a candidate, particularly if one or two lesions cause most of your pain. Doctors often treat the dominant painful sites rather than every metastasis. Eligibility depends on where the tumours sit, how close they are to the spinal cord, nerves or bowel, your blood counts, and your overall fitness for sedation. A radiologist and your oncologist review your scans together before deciding.</p>"
+          },
+          {
+            "q": "What are the risks and side effects?",
+            "a": "<p>Most patients have only temporary soreness, bruising and tiredness for a few days. Less common problems include bleeding, infection, nerve injury causing numbness or weakness, and skin damage from cold near the surface. Treating bone that carries weight can weaken it, so fracture is a risk in some sites and may be reduced by adding bone cement.</p><p>Serious complications are uncommon, but your team will explain what applies to your specific tumour location.</p>"
+          },
+          {
+            "q": "Can cryoablation control the tumour itself, not just the pain?",
+            "a": "<p>Yes, in selected cases cryoablation can achieve local tumour control as well as pain relief. When the ice ball fully covers the lesion with a margin, local control rates in small bone metastases are often reported above 80 percent at one year. This works best for lesions under about three to five centimetres. It is local treatment only, so systemic therapy is usually still needed for disease elsewhere.</p>"
+          },
+          {
+            "q": "How long does the procedure take and will I stay in hospital?",
+            "a": "<p>The procedure itself typically takes 60 to 120 minutes, depending on the number and size of lesions. Many patients go home the same day or after one overnight stay for observation and pain control. You will need someone to accompany you because of the sedation. Most people return to their usual activity within a few days, though your team may limit weight-bearing if a load-bearing bone was treated.</p>"
+          },
+          {
+            "q": "Is cryoablation available in India and China, and what does it cost?",
+            "a": "<p>Cryoablation for bone metastases is available at several large cancer centres and interventional radiology units in both India and China. Costs vary widely with the number of lesions, imaging used, anaesthetic type and hospital, and quoted prices in these countries are generally well below those in the United States or Western Europe. CancerFax can help you gather centre-specific quotes and scan reviews, but the final plan should come from your treating oncology team.</p>"
+          },
+          {
+            "q": "Can I have cryoablation again if the pain comes back?",
+            "a": "<p>Repeat cryoablation is often possible and is one of its practical advantages over radiotherapy, which has dose limits for any one area. If pain returns at the same site or a new metastasis becomes painful, the procedure can usually be repeated after your team confirms the bone is stable enough. Whether repeating is the best next step depends on your scans, your systemic treatment, and how long the first response lasted.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Second Opinions for Paediatric Cancers: Centres in India and China",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "second-opinion-paediatric-cancer",
+  "route": "/guides/second-opinion-paediatric-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Should we get a second opinion before starting our child's cancer treatment?",
+            "a": "<p>Yes, a second opinion is reasonable for almost any childhood cancer, and most paediatric oncologists expect it. Children's cancers are rare, so the exact subtype, genetic markers and risk group drive the whole treatment plan, and a specialist review can confirm or change that plan. In many cases the second centre agrees, which gives parents confidence. Ask your current team for the records while you arrange it.</p>"
+          },
+          {
+            "q": "Which hospitals in India give second opinions for children with cancer?",
+            "a": "<p>India's main paediatric oncology second-opinion centres are Tata Memorial Centre in Mumbai, its sister unit ACTREC, Apollo Cancer Centres in Chennai and Delhi, Rajiv Gandhi Cancer Institute in Delhi, HCG in Bengaluru, and Amrita Hospital in Kochi. Most run dedicated children's cancer units with tumour boards that review outside cases. Availability, waiting time and whether they accept remote reviews can vary, so confirm directly before sending records.</p>"
+          },
+          {
+            "q": "Which centres in China review paediatric cancer cases from abroad?",
+            "a": "<p>The best-known are Beijing Children's Hospital, Shanghai Children's Medical Center, Sun Yat-sen University Cancer Center in Guangzhou, and the Institute of Hematology and Blood Diseases Hospital in Tianjin for childhood leukaemia. Several have international patient offices that handle overseas records and translation. Access for foreign families depends on visas, current hospital policy and whether the case suits a Chinese trial, so check the requirements early.</p>"
+          },
+          {
+            "q": "Can we get the second opinion online, or do we have to fly with our child?",
+            "a": "<p>Most first-round second opinions are done remotely, without the child travelling. You send scans, pathology slides or blocks, and blood reports, and the centre replies with a written opinion or a video call. Travel usually only becomes necessary if the family decides to move treatment abroad. Some centres still ask for the original slides by courier, and a few require an in-person visit before they commit to a plan.</p>"
+          },
+          {
+            "q": "What records and scans do we need to send?",
+            "a": "<p>Send the full pathology report, the biopsy slides or paraffin blocks, any flow cytometry or genetic testing, all imaging on CD rather than as printed films, blood counts, and a summary of every drug and dose given so far. For children, height, weight and organ function tests matter too. Missing pathology is the commonest reason a second opinion comes back inconclusive, so gather it first.</p>"
+          },
+          {
+            "q": "How much does a paediatric cancer second opinion cost in India or China?",
+            "a": "<p>A remote written second opinion typically costs nothing to a few hundred dollars at Indian centres, and somewhat more in China, where translation and coordination fees are often added. Slide review and repeat testing are charged separately. Some hospitals waive the fee if the family later treats there. Prices change and depend on the hospital, so ask for a written quote covering testing before you send anything.</p>"
+          },
+          {
+            "q": "How long does it take to get the second opinion report back?",
+            "a": "<p>Most centres return a remote paediatric second opinion within three to ten working days once they have complete records. Cases needing slide re-review, immunohistochemistry or genetic sequencing can take two to four weeks. CancerFax can help families organise and forward records to Indian and Chinese centres, but the timing and the final opinion always rest with the reviewing oncology team.</p><p>Ask for an expected date in writing when you submit the file.</p>"
+          },
+          {
+            "q": "Will getting a second opinion delay my child's treatment?",
+            "a": "<p>Usually no, because most remote reviews take days, not weeks, and can run alongside supportive care or the first chemotherapy cycle. Some childhood cancers, such as acute leukaemia or an obstructing tumour, need treatment started immediately, and in those cases the second opinion follows rather than precedes the first cycle. Tell both teams that a review is underway so nothing waits unnecessarily on paperwork or transport.</p>"
+          },
+          {
+            "q": "Can a second opinion get my child into a clinical trial or CAR T-cell therapy?",
+            "a": "<p>A second opinion can identify trials and cell therapies your current centre may not offer, particularly CAR T-cell programmes for relapsed childhood leukaemia and lymphoma in India and China. It cannot guarantee enrolment. Trials set strict limits on age, weight, prior treatment and disease status, and international children often face extra rules on residency, funding and follow-up. Eligibility is decided only after the trial team reviews the file.</p>"
+          },
+          {
+            "q": "What do we do if the second opinion disagrees with our doctor?",
+            "a": "<p>Take the written report back to your child's current oncologist and ask them to respond to the specific points. Genuine disagreement usually turns on the tumour subtype, the risk group or the intensity of chemotherapy, and it can often be settled by repeating one test. If the two teams still differ, a third opinion from a high-volume paediatric centre may help. The decision stays yours.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

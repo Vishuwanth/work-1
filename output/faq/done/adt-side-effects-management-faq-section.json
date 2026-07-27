@@ -1,0 +1,59 @@
+{
+  "pillar": "ADT Side Effects: Managing Bone Loss, Hot Flushes, Fatigue, and Sexual Dysfunction",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "adt-side-effects-management",
+  "route": "/insights/adt-side-effects-management",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What side effects should I expect from hormone therapy for prostate cancer?",
+            "a": "<p>Most men on ADT experience hot flushes, fatigue, loss of sex drive, erection difficulty, and gradual bone thinning. Weight gain, muscle loss, mood changes, and reduced concentration are also common. Severity varies widely, and some men keep working and exercising normally while others need close support. Side effects often build over months rather than appearing at once, and many can be reduced with planning. Your oncology team can tell you which risks apply to your plan.</p>"
+          },
+          {
+            "q": "How much bone loss does ADT cause, and how fast?",
+            "a": "<p>Bone density typically drops 2-5% in the first year of ADT, faster than normal age-related loss, and it continues while treatment lasts. Doctors usually order a DEXA scan before or soon after you start, then repeat it every one to two years. Calcium, vitamin D, and weight-bearing exercise help, and bone-protecting drugs such as zoledronic acid or denosumab may be added. Your fracture risk depends on your age, starting bone density, and treatment length.</p>"
+          },
+          {
+            "q": "What actually helps with hot flushes?",
+            "a": "<p>Hot flushes affect up to 80% of men on ADT and usually ease over the first year, though they can persist. Simple steps help: layered clothing, cooler rooms, and avoiding alcohol, caffeine, and spicy food as triggers. When flushes disrupt sleep or work, doctors may prescribe low-dose medication such as venlafaxine, gabapentin, or cyproterone acetate. Response varies from man to man, so report how often flushes happen rather than tolerating them silently.</p>"
+          },
+          {
+            "q": "Why am I so tired on ADT, and will the fatigue go away?",
+            "a": "<p>ADT fatigue comes from lower testosterone, muscle loss, anaemia, and disturbed sleep, and it often peaks two to three months after starting. Exercise is the best-evidenced treatment: moderate aerobic activity plus resistance training two or three times weekly reduces tiredness in most trials, even though it feels counterintuitive. Doctors will also check for treatable causes such as low thyroid, anaemia, or depression. Fatigue usually improves after treatment ends, but recovery can take several months.</p>"
+          },
+          {
+            "q": "Will ADT change my mood or memory?",
+            "a": "<p>ADT can cause irritability, low mood, tearfulness, and difficulty concentrating in some men, usually starting within the first few months. Most changes are mild, but depression is more common on ADT than off it and deserves proper treatment rather than endurance. Regular exercise, good sleep, and telling your family what to expect all help. If low mood lasts more than two weeks or affects daily life, ask your doctor about counselling or medication.</p>"
+          },
+          {
+            "q": "Will ADT permanently affect my sex life?",
+            "a": "<p>Most men lose sex drive within weeks of starting ADT, and erections usually weaken because testosterone drives both. For many men this reverses within six to twelve months of stopping, but recovery is slower after long treatment or at older ages. Testicle and penile shrinkage can also occur. Sex remains possible for some couples, often with changed expectations and help from a specialist. Talking to your team early gives you more options than waiting.</p>"
+          },
+          {
+            "q": "Can anything be done about erectile dysfunction during ADT?",
+            "a": "<p>Erectile dysfunction during ADT can often be improved, though results are less predictable than after surgery alone. Tablets such as sildenafil or tadalafil work for some men; vacuum erection devices, injections, and penile implants are options when tablets fail. Using a device or tablets regularly may help preserve tissue during treatment. Because low testosterone also removes desire, many men benefit from psychosexual counselling alongside physical treatment. Ask your team for a referral early.</p>"
+          },
+          {
+            "q": "Does ADT affect my heart or blood sugar?",
+            "a": "<p>ADT can raise cholesterol, blood sugar, and body fat, and it slightly increases the risk of diabetes and heart problems, particularly in men who already have heart disease. Because of this, your team should check blood pressure, glucose, and lipids before you start and then at least yearly. Diet changes, exercise, and treating blood pressure or cholesterol reduce much of the added risk. Men with recent heart events may be offered a different drug class.</p>"
+          },
+          {
+            "q": "Do these side effects go away when I stop ADT?",
+            "a": "<p>Many ADT side effects fade after treatment stops, but not all of them and not quickly. Testosterone often takes six to twelve months to recover, and longer in men treated for two years or more or aged over 70. Hot flushes and fatigue usually settle first, while sex drive, muscle mass, and bone density recover more slowly. Some men never regain their earlier testosterone level. Your oncologist can estimate recovery for your situation.</p>"
+          },
+          {
+            "q": "If I have treatment abroad, who manages my side effects afterwards?",
+            "a": "<p>Ask before you travel who will monitor you afterwards, because ADT side effects need follow-up for years, not weeks. You will need bone density scans, blood tests, and prescription refills close to home, so the treating hospital abroad should send a written plan to your local doctor. CancerFax can help you request that plan and pass records between teams. Decisions on monitoring and drug changes stay with the oncologists caring for you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

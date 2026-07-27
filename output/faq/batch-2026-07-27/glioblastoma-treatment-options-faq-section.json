@@ -1,0 +1,59 @@
+{
+  "pillar": "Glioblastoma (GBM) Treatment: Options and Advanced Approaches",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "glioblastoma-treatment-options",
+  "route": "/insights/glioblastoma-treatment-options",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is the standard treatment for glioblastoma?",
+            "a": "<p>Standard treatment is surgery to remove as much tumour as safely possible, followed by six weeks of radiation given with daily temozolomide chemotherapy, then about six months of temozolomide on its own. This is often called the Stupp protocol. Some centres add Tumour Treating Fields, a wearable device, after radiation. Your exact plan depends on tumour location, how much can be removed, your age and how well you are functioning day to day.</p>"
+          },
+          {
+            "q": "Can glioblastoma be cured?",
+            "a": "<p>Glioblastoma is not usually considered curable, but it can often be controlled for a period of time. Treatment aims to slow the tumour, protect brain function and keep quality of life as good as possible. A small number of people live well beyond the average, particularly those who are younger, have a full surgical removal and carry MGMT methylation. Your oncologist can give a more realistic picture once your pathology and molecular results are back.</p>"
+          },
+          {
+            "q": "What does MGMT methylation mean for my treatment?",
+            "a": "<p>MGMT methylation means the tumour has switched off a gene that repairs chemotherapy damage, so temozolomide tends to work better and survival is often longer. Roughly four in ten glioblastomas are methylated. If your tumour is unmethylated, chemotherapy may still be offered, but your team may also weigh clinical trials or other options more heavily. Ask for the MGMT and IDH results in writing, because they shape almost every treatment decision that follows.</p>"
+          },
+          {
+            "q": "Do Tumour Treating Fields actually work?",
+            "a": "<p>Tumour Treating Fields can extend survival by a few months on average when added to temozolomide after radiation, based on a large randomised trial. The device sends low-intensity electric fields through adhesive patches worn on a shaved scalp, ideally for at least eighteen hours a day. The main drawback is skin irritation and the practical burden of wearing it. Availability and cost vary widely between countries, so check what your centre can actually provide.</p>"
+          },
+          {
+            "q": "Is immunotherapy an option for glioblastoma?",
+            "a": "<p>Standard checkpoint immunotherapy drugs have not yet been shown to improve survival in most glioblastoma patients, so they are not routine care. Research is active in dendritic cell vaccines, oncolytic viruses and neoantigen vaccines, and some patients access these through clinical trials in India, China, Europe and the United States. Trial entry depends on your tumour markers, prior treatment and general health, so eligibility can never be assumed in advance.</p>"
+          },
+          {
+            "q": "Can CAR T-cell therapy treat glioblastoma?",
+            "a": "<p>CAR T-cell therapy for glioblastoma is still experimental and available mainly through clinical trials, not as approved care. Early studies targeting EGFRvIII, IL13Ralpha2 and B7-H3 have shown some tumour shrinkage, but responses have often been short-lived because brain tumours vary so much within themselves. CancerFax can help you identify centres running these trials in China and India, though enrolment always rests with the trial team and your treating oncologist.</p>"
+          },
+          {
+            "q": "What happens if my glioblastoma comes back?",
+            "a": "<p>Most glioblastomas recur, and treatment at that point is chosen case by case rather than from a single standard protocol. Options may include a second surgery, re-irradiation, bevacizumab to reduce swelling and pressure, lomustine or other chemotherapy, and clinical trials. The choice depends on where the tumour returned, how long the first response lasted and how well you are coping physically. Many teams recommend considering a trial early rather than after several failed lines.</p>"
+          },
+          {
+            "q": "Is it worth travelling to India or China for glioblastoma treatment?",
+            "a": "<p>Travelling abroad can make sense if it gives you access to a trial, a device or a level of neurosurgical expertise you cannot get at home, but it rarely changes the standard first-line plan. India and China both offer experienced neuro-oncology centres at lower cost, and China hosts many early-phase cell therapy trials. Weigh travel time against how urgently treatment must start, since delays after diagnosis can affect outcomes.</p>"
+          },
+          {
+            "q": "What side effects should I expect from radiation and temozolomide?",
+            "a": "<p>The most common effects are tiredness that builds through radiation, hair loss in the treated area, nausea and low blood counts from temozolomide. Fatigue often peaks a few weeks after radiation ends and then slowly improves. Blood tests are done regularly because low platelets or white cells may delay a chemotherapy cycle. Tell your team early about headaches, new weakness or confusion, as these can mean swelling that steroids may relieve.</p>"
+          },
+          {
+            "q": "How do I get a second opinion on my glioblastoma treatment plan?",
+            "a": "<p>Ask for your MRI images on disc, the surgical pathology report and the molecular testing results, then send them to a neuro-oncology centre that treats brain tumours regularly. A second opinion is most useful before surgery or before starting radiation, when the plan can still change. CancerFax can help arrange remote reviews with centres in India and China. Any recommendation still needs to be agreed with the team treating you locally.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

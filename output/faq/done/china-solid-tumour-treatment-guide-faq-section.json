@@ -1,0 +1,59 @@
+{
+  "pillar": "Why International Patients Choose China for Advanced Solid Tumour Treatment",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "china-solid-tumour-treatment-guide",
+  "route": "/guides/china-solid-tumour-treatment-guide",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "Why do international patients travel to China for advanced solid tumour treatment?",
+            "a": "<p>Patients choose China mainly for fast access to advanced technology at a fraction of Western prices. Large cancer centres in Beijing, Shanghai and Guangzhou run proton and carbon ion units, robotic surgery programmes and hundreds of oncology trials, and waiting times are often days rather than months. What suits you depends on your tumour type, stage and previous treatment, so the decision should rest with your treating oncology team.</p>"
+          },
+          {
+            "q": "Is cancer treatment in China cheaper than in the US or Europe?",
+            "a": "<p>Yes, treatment in China usually costs far less than in the United States or Western Europe. Comparable surgery, radiotherapy and drug regimens often run 40 to 70 percent lower, and a full course of particle therapy that may exceed 150,000 dollars in the US frequently falls between 30,000 and 60,000 dollars in China. Final bills depend on stage, hospital and complications, so treat every quote as an estimate.</p>"
+          },
+          {
+            "q": "What is carbon ion therapy and can it treat my solid tumour?",
+            "a": "<p>Carbon ion therapy is a form of radiation that uses heavy charged particles to destroy tumours while sparing nearby healthy tissue. China has several operating centres, and the approach is used most often for tumours that resist conventional radiation, including some sarcomas, skull base tumours and recurrent head and neck cancers. Eligibility depends on tumour site, size and any prior radiation, so a centre must review your scans first.</p>"
+          },
+          {
+            "q": "How quickly can I start treatment in China?",
+            "a": "<p>Most international patients begin treatment within one to three weeks of sending their records. Chinese cancer centres typically return a written opinion in three to seven working days, and admission usually follows once the visa and deposit are in place. Timelines can stretch if you need a fresh biopsy, genomic testing or a machine that is fully booked, so build a buffer into your travel plans.</p>"
+          },
+          {
+            "q": "Can I join a clinical trial in China as a foreign patient?",
+            "a": "<p>Yes, foreign patients can join some Chinese oncology trials, though not all of them. Many cell therapy and targeted drug studies accept international enrolment, while others are limited to residents or to a single hospital. Entry always depends on your diagnosis, prior lines of treatment and current lab results. CancerFax can pass your records to trial sites for screening, but the decision rests with the investigators and your own oncologist.</p>"
+          },
+          {
+            "q": "Are Chinese cancer hospitals accredited and are the doctors qualified?",
+            "a": "<p>China's leading cancer centres are large, high volume hospitals staffed by internationally trained specialists, and several hold JCI accreditation. Institutions such as Fudan University Shanghai Cancer Center and the Chinese Academy of Medical Sciences Cancer Hospital treat tens of thousands of patients each year and publish in major journals. Standards do vary between hospitals, so ask about case volumes for your specific tumour before committing to any centre.</p>"
+          },
+          {
+            "q": "Will language be a problem during my treatment in China?",
+            "a": "<p>Major cancer hospitals that treat foreign patients provide medical interpreters and English speaking coordinators, usually through an international patient department. Consent forms, pathology reports and discharge summaries can normally be issued in English on request. Coverage is thinner outside the largest centres and after hours, so confirm before arrival what interpretation is included and whether a family member should travel with you.</p>"
+          },
+          {
+            "q": "What visa and documents do I need to travel to China for cancer treatment?",
+            "a": "<p>You will normally need a medical visa, an invitation letter from the treating hospital, a passport valid for at least six months, and your complete medical file. That file should include recent scans on disc, pathology slides or blocks, and a summary of previous treatment. Processing takes roughly one to two weeks in most countries, though rules change, so check with the Chinese embassy nearest to you.</p>"
+          },
+          {
+            "q": "How do CAR-T and other cell therapies in China work for solid tumours?",
+            "a": "<p>CAR-T therapy in China is well established for blood cancers, while versions for solid tumours are still largely experimental. Chinese centres run one of the world's largest pipelines of cell therapy trials targeting liver, gastric, pancreatic and lung tumours, and some early results look encouraging. These remain research treatments rather than routine care, so access usually means qualifying for a trial instead of buying an approved product.</p>"
+          },
+          {
+            "q": "Should I choose China or India for my solid tumour treatment?",
+            "a": "<p>China tends to lead on particle therapy, cell therapy trials and newly approved targeted drugs, while India often wins on cost, English fluency and simpler travel for many patients. The better choice depends on your tumour type, how many treatments you have already had and your budget. CancerFax can arrange written opinions from centres in both countries so your oncologist can compare the options with you.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

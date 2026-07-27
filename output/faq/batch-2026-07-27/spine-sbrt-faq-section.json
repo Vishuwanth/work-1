@@ -1,0 +1,59 @@
+{
+  "pillar": "Spine SBRT: How Radiation Treats Spinal Metastases Without Surgery",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "spine-sbrt",
+  "route": "/insights/spine-sbrt",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is spine SBRT, and how is it different from normal radiation for bone pain?",
+            "a": "<p>Spine SBRT delivers a very high, tightly shaped radiation dose to a tumour in the vertebra over one to five sessions, instead of the ten or more low-dose treatments used for ordinary bone pain radiotherapy. Image guidance keeps the beam within a millimetre or two of the target, sparing the spinal cord. Whether it suits your tumour depends on its position, size and how much of the bone is involved.</p>"
+          },
+          {
+            "q": "Can spine SBRT treat my spinal tumour without surgery?",
+            "a": "<p>Yes, in many cases. Spine SBRT is often used instead of surgery when the spine is still stable and the tumour is not pressing hard on the spinal cord. It controls the tumour in the bone and eases pain without an incision, anaesthetic or recovery time. Surgery may still be needed first if the vertebra has collapsed or the cord is compressed, so this depends on your scans and specialist review.</p>"
+          },
+          {
+            "q": "How quickly will spine SBRT relieve my back pain?",
+            "a": "<p>Most patients notice their back pain easing within one to four weeks, and studies report meaningful pain relief in roughly 60 to 85 percent of treated spine sites. Some people feel a temporary flare of pain in the first few days, which steroids usually settle. Relief often lasts longer than after standard radiotherapy. How much your own pain improves depends on the tumour type and how much bone damage is there.</p>"
+          },
+          {
+            "q": "How many sessions will I need, and how long does each one take?",
+            "a": "<p>Most spine SBRT courses are one to five treatments, often three, given on alternate days or within a single week. Each visit takes about 30 to 60 minutes, mostly spent positioning you precisely in a body frame or vacuum cushion. You will need a planning CT and usually an MRI beforehand so the tumour and spinal cord can be mapped. The exact number depends on tumour size, spinal level and any earlier radiation.</p>"
+          },
+          {
+            "q": "Will spine SBRT damage my spinal cord?",
+            "a": "<p>Serious spinal cord injury after spine SBRT is rare, reported in well under 1 percent of patients when dose limits are respected. The plan sets a strict maximum dose to the cord, and the beam drops off sharply just millimetres away from it. This is why immobilisation and image guidance matter so much during each session. Risk rises if the area was irradiated before, so your team will review any previous treatment records.</p>"
+          },
+          {
+            "q": "Can the treated bone break afterwards?",
+            "a": "<p>The main structural risk is a vertebral compression fracture, where the treated bone weakens and collapses, and this happens in roughly 10 to 15 percent of treated levels. It is more likely if the vertebra is already partly destroyed, if the spine is misaligned, or if a single very high dose is used. Many fractures cause no symptoms, and those that do can often be treated with cement injection rather than open surgery.</p>"
+          },
+          {
+            "q": "Can I have SBRT if that part of my spine was already irradiated?",
+            "a": "<p>Often yes. Spine SBRT is one of the few options that can safely re-treat a spinal site that has already had radiation, because the dose falls away so steeply near the spinal cord. Your team will add up the dose the cord received before, allow for partial recovery over time, and usually leave a bigger safety margin. Whether re-treatment is possible depends on how much dose was given, where, and how long ago.</p>"
+          },
+          {
+            "q": "What if the tumour is already pressing on my spinal cord?",
+            "a": "<p>If the tumour is already pressing on the spinal cord, a small operation to create a few millimetres of space, called separation surgery, is often done first, followed by SBRT a few weeks later. That gap lets a high dose be given without overdosing the cord. Urgent weakness, numbness or loss of bladder control needs same-day assessment. Whether surgery comes first is decided by a spine surgeon and radiation oncologist together.</p>"
+          },
+          {
+            "q": "How well does spine SBRT actually control the tumour?",
+            "a": "<p>In most published series, 80 to 90 percent of treated spine sites remain controlled at one to two years, meaning the tumour does not regrow at that level. Control tends to be better than with standard radiotherapy, including for tumours such as kidney cancer, melanoma and sarcoma that resist ordinary radiation. SBRT treats only the level it targets, so disease elsewhere still needs systemic treatment decided by your oncologist.</p>"
+          },
+          {
+            "q": "What does spine SBRT cost in India or China if I travel for treatment?",
+            "a": "<p>Spine SBRT in India commonly costs roughly USD 3,000 to 6,000 for a full course, and prices in China are broadly similar, depending on the machine used, the number of sessions and the number of spinal levels treated. Scans, hospital stay and follow-up are usually billed separately, and quotes change often. CancerFax can help you gather written estimates and send your MRI to spine radiotherapy units abroad, with the final plan set by your treating team.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

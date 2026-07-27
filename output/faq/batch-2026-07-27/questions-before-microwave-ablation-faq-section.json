@@ -1,0 +1,59 @@
+{
+  "pillar": "Questions to Ask Before Microwave Ablation",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "questions-before-microwave-ablation",
+  "route": "/insights/questions-before-microwave-ablation",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is microwave ablation and how does it actually work?",
+            "a": "<p>Microwave ablation uses a thin needle-like probe, guided by CT or ultrasound, to send microwave energy into a tumour and heat it until the cells die. It is usually done through the skin under sedation or general anaesthesia, without open surgery. Most patients go home within a day or two. Whether it suits your tumour depends on size, location, and how many lesions you have, so your oncologist decides case by case.</p>"
+          },
+          {
+            "q": "What questions should I ask my doctor before agreeing to microwave ablation?",
+            "a": "<p>Start with five: is my tumour small enough and in a safe location, how many sessions will I need, what is the chance the tumour comes back, what are the risks to the surrounding organ, and what happens if the ablation does not work. Ask how many of these procedures the team does each year. Written answers help you compare centres, and a second opinion is reasonable before you agree.</p>"
+          },
+          {
+            "q": "Is my tumour too big for microwave ablation?",
+            "a": "<p>Microwave ablation works best for tumours under about 3 centimetres, though experienced teams may treat lesions up to 5 centimetres in the liver or lung. Beyond that, heat may not reach the whole tumour and cancer cells can be left at the edge. Ask your doctor to measure your tumour on the latest scan and confirm whether it falls inside their limit. Eligibility also depends on liver function, clotting, and the tumour's distance from major vessels.</p>"
+          },
+          {
+            "q": "How is microwave ablation different from radiofrequency ablation?",
+            "a": "<p>Microwave ablation heats tissue faster and reaches higher temperatures than radiofrequency ablation, so it is less affected by nearby blood vessels that carry heat away. That often means larger, more predictable kill zones and shorter procedure times. Radiofrequency remains a good choice for small, well-placed tumours, and many centres offer both. Ask which one your team uses more often, and why they are recommending it for your specific tumour.</p>"
+          },
+          {
+            "q": "What are the risks and side effects I should know about?",
+            "a": "<p>The common effects are mild: pain at the needle site, low-grade fever, and tiredness for a few days, often called post-ablation syndrome. Serious complications are uncommon but real, and can include bleeding, infection, a collapsed lung when the chest is treated, and injury to the bile duct or bowel. Ask your team for their own complication rate rather than published averages, and what their plan is if something goes wrong overnight.</p>"
+          },
+          {
+            "q": "How long will it take me to recover?",
+            "a": "<p>Most people are up and walking the same day and back to their normal routine within one to two weeks. You will usually stay in hospital overnight so the team can watch for bleeding or pain. Heavy lifting and long flights are typically avoided for a couple of weeks. Recovery can be slower with cirrhosis, poor lung function, or several tumours treated in one session, so ask for a timeline that fits your situation.</p>"
+          },
+          {
+            "q": "Will microwave ablation cure my cancer, or will the tumour come back?",
+            "a": "<p>Microwave ablation can destroy a tumour completely, but it only treats what the needle reaches, so cancer may still return elsewhere. For small liver tumours, published results come close to surgery, with local recurrence often in the range of 5 to 15 percent. Ask what your own team's recurrence figures are and how they would treat a return. Ablation can usually be repeated, which is one of its main advantages.</p>"
+          },
+          {
+            "q": "How much does microwave ablation cost in India or China?",
+            "a": "<p>Microwave ablation in India often costs a fraction of United States or European prices, commonly a few thousand dollars including imaging and a short hospital stay, while Chinese centres are broadly similar. Quotes vary with the number of tumours, anaesthesia, and length of stay, so ask for an itemised estimate. CancerFax can help you gather comparable quotes from accredited hospitals, though final pricing and suitability rest with the treating team.</p>"
+          },
+          {
+            "q": "How do I check that the doctor doing my ablation is experienced enough?",
+            "a": "<p>Ask who will hold the needle, how many microwave ablations they perform each year, and whether your case is discussed by a tumour board that includes a surgeon and a medical oncologist. Volume matters: centres doing the procedure regularly tend to report fewer complications and cleaner margins. Also ask what imaging guides the needle, since CT and contrast ultrasound often give better control than plain ultrasound for deeper tumours.</p>"
+          },
+          {
+            "q": "What scans and follow-up will I need after the procedure?",
+            "a": "<p>Expect a contrast CT or MRI about four to six weeks after the procedure, then every three to six months for the first two years. The first scan checks whether any tumour tissue survived at the edge of the ablation zone, and a thin rim of enhancement can simply be normal healing. Bring these images to every review, and ask who will read them if you had the procedure abroad.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "Transcranial MRgFUS: Brain Tumours, Essential Tremor, and Neurological Applications",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "transcranial-mrgfus-brain-tumours-neurological",
+  "route": "/insights/transcranial-mrgfus-brain-tumours-neurological",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is transcranial MRgFUS and how does it reach the brain?",
+            "a": "<p>Transcranial MRgFUS is magnetic resonance-guided focused ultrasound, a treatment that aims hundreds of ultrasound beams through the intact skull onto a target deep in the brain. Each beam is harmless on its own; where they cross, the tissue heats and is destroyed. MRI scanning during the procedure shows the surgeon exactly where the energy lands. No incision, no burr hole, and no radiation are involved.</p>"
+          },
+          {
+            "q": "Can focused ultrasound treat my brain tumour?",
+            "a": "<p>For most brain tumours, MRgFUS is still investigational rather than standard care. The strongest current use is opening the blood-brain barrier so chemotherapy or immunotherapy can reach the tumour, which is being tested in glioblastoma and brain metastases. Direct thermal destruction of tumour tissue is harder deep in the brain and is limited to trials. Whether it may suit you depends on tumour type, location and trial access.</p>"
+          },
+          {
+            "q": "How well does MRgFUS work for essential tremor?",
+            "a": "<p>Most people treated for essential tremor see their hand tremor improve by roughly 50 to 70 percent on the treated side, often within minutes of the procedure. Benefit is measured on the dominant hand only, because standard treatment targets one side of the brain. Improvement can fade over several years in some patients. Results vary with tremor severity, and your neurologist can tell you what is realistic in your case.</p>"
+          },
+          {
+            "q": "What actually happens on the day of the procedure?",
+            "a": "<p>Your head is shaved and a lightweight frame is fixed to your skull with local anaesthetic, then you lie inside an MRI scanner wearing a helmet filled with cooled water. You stay awake so the team can test your tremor or speech between low-energy pulses. The full session usually takes two to four hours. Most people go home the same day or after one night.</p>"
+          },
+          {
+            "q": "Am I eligible, and what is the skull density ratio?",
+            "a": "<p>Eligibility depends heavily on your skull density ratio, a number calculated from a CT scan that shows how well ultrasound passes through your bone. A ratio below about 0.40 often means the beams cannot heat the target enough, and many centres will decline treatment. Age, previous brain surgery, MRI safety and general health also matter. A CT and MRI screening at the treating centre decides this, not a phone assessment.</p>"
+          },
+          {
+            "q": "What side effects should I expect?",
+            "a": "<p>The commonest side effects are numbness or tingling in the fingers, lips or tongue, unsteadiness when walking, and mild speech changes. Most appear during or soon after the procedure and settle within weeks. In a minority they persist, because the treatment creates a permanent lesion that cannot be reversed. Serious bleeding is very rare because nothing enters the head. Ask your centre for its own complication figures.</p>"
+          },
+          {
+            "q": "Is MRgFUS better than deep brain stimulation?",
+            "a": "<p>Neither is simply better; they suit different patients. Focused ultrasound needs no implant, no anaesthetic and no battery changes, and gives immediate results, but it treats one side of the brain and cannot be adjusted afterwards. Deep brain stimulation treats both sides, can be tuned over time, and can be switched off, at the cost of surgery and hardware. Your neurologist should weigh both against your symptoms.</p>"
+          },
+          {
+            "q": "Which other neurological conditions can it treat?",
+            "a": "<p>Beyond essential tremor, transcranial MRgFUS is approved in many countries for tremor-dominant Parkinson's disease, where it targets the same thalamic circuits or the globus pallidus to ease tremor, stiffness and drug-induced movements. Earlier-stage trials are also under way in obsessive-compulsive disorder, neuropathic pain, drug-resistant epilepsy and Alzheimer's disease. Approvals differ by country, so a treatment offered in one centre may not be licensed where you live.</p>"
+          },
+          {
+            "q": "Where can I get transcranial MRgFUS in India or China?",
+            "a": "<p>A small number of centres in India and China have transcranial focused ultrasound systems, mostly in large private hospitals and academic neurosurgery units in cities such as Delhi, Mumbai, Beijing and Shanghai. Availability changes as new systems are installed, and brain tumour work is usually trial-only. CancerFax can help you identify which centres are currently treating and what documents they need before you travel; the treating neurosurgeon still decides whether you are suitable.</p>"
+          },
+          {
+            "q": "How much does transcranial MRgFUS cost?",
+            "a": "<p>Transcranial MRgFUS for tremor typically costs in the region of 20,000 to 50,000 US dollars in Western centres, and often noticeably less in India, though prices vary widely between hospitals. Quotes usually cover screening CT and MRI, the procedure itself and a short stay, but not travel, visas or follow-up. Insurance cover for tremor is growing; cover for tumour indications is rare. Always ask for a written itemised quote.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

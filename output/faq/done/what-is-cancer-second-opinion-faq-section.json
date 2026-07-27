@@ -1,0 +1,59 @@
+{
+  "pillar": "What Is a Cancer Second Opinion and Why Should Every Patient Consider One?",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "what-is-cancer-second-opinion",
+  "route": "/guides/what-is-cancer-second-opinion",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is a cancer second opinion?",
+            "a": "<p>A cancer second opinion is an independent review of your diagnosis, scans, pathology, and proposed treatment plan by an oncologist who was not involved in your original care. The reviewing doctor may confirm the plan, suggest changes to drugs or their sequencing, or identify a different tumour subtype. It is a normal part of cancer care rather than a complaint, and how useful it is depends heavily on the records you provide.</p>"
+          },
+          {
+            "q": "Why should I get a second opinion if I already trust my doctor?",
+            "a": "<p>Trusting your oncologist and getting a second opinion are not in conflict. Any single team works from one set of scans, one pathology lab, and one hospital's protocols, so options such as newer drug combinations, clinical trials, or less extensive surgery can be missed. Cancer decisions are hard to reverse once treatment starts, so a review before that point often costs little and may change what you choose.</p>"
+          },
+          {
+            "q": "Will my doctor be offended if I ask for a second opinion?",
+            "a": "<p>Almost never. Oncologists handle second opinion requests routinely, and many will offer to send your records themselves. Asking is a normal part of serious medical care, not a judgement on your doctor's competence. If you feel awkward, you can simply say your family wants another view before treatment begins. A doctor who reacts badly to the request may itself be useful information about the working relationship.</p>"
+          },
+          {
+            "q": "How often does a second opinion actually change the diagnosis or treatment plan?",
+            "a": "<p>Reviews from large cancer centres often report that roughly 10 to 20 percent of second opinions change the diagnosis in some way, including tumour type, subtype, or stage. Changes to the treatment plan itself are reported more frequently than that. Most reviews confirm the original plan, which has its own value, since you begin treatment knowing it was checked. Figures vary by cancer type and by the quality of the original workup.</p>"
+          },
+          {
+            "q": "How long does a second opinion take, and will the delay hurt me?",
+            "a": "<p>Most second opinions take a few days to two weeks, and for the majority of cancers a delay of that length does not affect the outcome. Fast-growing cancers such as acute leukaemias and aggressive lymphomas, or anything causing airway, spinal cord, or bowel obstruction, are exceptions and may need treatment to start immediately. Ask your current oncologist directly how much time you safely have before arranging the review.</p>"
+          },
+          {
+            "q": "What documents and reports do I need to send?",
+            "a": "<p>You need the pathology report and, ideally, the original biopsy slides or tissue blocks, plus imaging supplied on disc or as DICOM files rather than printed films. Add discharge summaries, any molecular or genomic testing results, recent blood work, and a list of treatments already given with dates and doses. Missing slides or raw imaging are the most common reason a review comes back less definitive than it could be.</p>"
+          },
+          {
+            "q": "Can I get a second opinion online without travelling?",
+            "a": "<p>Yes. Most second opinions today are done remotely, with records reviewed in advance and a video consultation arranged, so no travel is needed. This matters if you are weighing treatment in India or China, where flying out before you have decided is impractical. Services such as CancerFax can help patients assemble records and reach reviewing oncologists abroad, though the final decision stays with you and your treating team.</p>"
+          },
+          {
+            "q": "How much does a cancer second opinion cost?",
+            "a": "<p>Costs vary widely. A remote written review may be free at some centres, while a detailed review with a video consultation often runs from around 100 to 500 US dollars. Reviews arranged in India and China are usually cheaper than equivalents in the United States or Europe. Some insurers cover second opinions in full, particularly before major surgery. Ask what the fee includes, since re-reading slides or imaging can be billed separately.</p>"
+          },
+          {
+            "q": "When is the best time to get a second opinion?",
+            "a": "<p>The best time is after diagnosis and before your first treatment, when every option is still open. Second opinions are also worth getting when a cancer returns, when a treatment stops working, and when you are told there are no further options. That last situation matters most, because clinical trials and newer therapies may exist that a single centre does not run or may not routinely discuss.</p>"
+          },
+          {
+            "q": "What should I do if the second opinion disagrees with the first?",
+            "a": "<p>A disagreement is useful information, not a crisis. It usually means the case is genuinely borderline rather than that someone is wrong. Ask both doctors to explain their reasoning, and ask whether your case can go to a multidisciplinary tumour board where several specialists review it together. A third opinion is reasonable when the two plans differ substantially. CancerFax can help arrange such a review, but your treating oncologist should lead the final decision.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

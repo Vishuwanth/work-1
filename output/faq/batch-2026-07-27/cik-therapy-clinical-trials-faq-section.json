@@ -1,0 +1,59 @@
+{
+  "pillar": "Clinical Trials in CIK Therapy: Current and Upcoming Studies",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "cik-therapy-clinical-trials",
+  "route": "/insights/cik-therapy-clinical-trials",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is CIK cell therapy, and how does it work?",
+            "a": "<p>CIK therapy uses your own immune cells, grown and activated in a lab, then infused back to attack cancer. Doctors collect white blood cells from your blood, expose them to signalling proteins such as interferon-gamma and interleukin-2 over roughly two to three weeks, and return billions of cancer-killing cells. Unlike CAR-T, the cells are not genetically engineered, so they recognise a broader range of tumour targets.</p>"
+          },
+          {
+            "q": "Are there CIK therapy clinical trials open to patients right now?",
+            "a": "<p>Yes, dozens of CIK trials are recruiting, most of them in China, Germany, and South Korea. Registries such as ClinicalTrials.gov and the Chinese Clinical Trial Registry list active studies in liver, lung, gastric, and blood cancers, often combining CIK cells with chemotherapy or checkpoint inhibitors. Trial lists change monthly, so ask your oncologist to check current openings before you plan any travel or book treatment abroad.</p>"
+          },
+          {
+            "q": "Which cancers are CIK therapy trials studying?",
+            "a": "<p>Liver cancer has the largest body of CIK trial data, followed by lung, gastric, colorectal, kidney, and acute myeloid leukaemia. Most studies test CIK cells as an add-on after surgery, chemotherapy, or radiofrequency ablation rather than as a standalone treatment. Trials in pancreatic cancer, glioma, and nasopharyngeal cancer are smaller and earlier. Whether a trial fits your cancer type and stage depends on its specific entry criteria.</p>"
+          },
+          {
+            "q": "Do CIK trials show that the treatment actually helps people live longer?",
+            "a": "<p>Several trials, mostly in liver cancer, report longer recurrence-free survival when CIK cells are added after surgery or ablation, with some studies showing overall survival gains at five years. The evidence is strongest in hepatocellular carcinoma and weaker elsewhere, and many trials are small or single-centre. Larger international studies are still needed, so results seen in one cancer type may not carry over to yours.</p>"
+          },
+          {
+            "q": "Can I join a CIK therapy trial in China as an international patient?",
+            "a": "<p>Some Chinese CIK trials accept international patients, but many restrict enrolment to residents or to people already treated at the host hospital. You will usually need translated pathology reports, recent scans, and blood work reviewed before the site confirms eligibility. CancerFax can help gather and forward those records to trial centres, though the final decision always rests with the trial investigators and your own oncology team.</p>"
+          },
+          {
+            "q": "Is CIK therapy available in India, or only through trials?",
+            "a": "<p>CIK therapy in India is largely limited to research settings and a small number of academic centres, not routine hospital care. Indian cell therapy programmes have focused more on CAR-T and dendritic cell approaches, so CIK options are fewer. If you are considering treatment in India, ask whether the programme is an approved trial with ethics committee clearance, and what happens if you do not qualify.</p>"
+          },
+          {
+            "q": "What are the side effects of CIK therapy in trials?",
+            "a": "<p>CIK therapy is generally well tolerated, with fever, chills, fatigue, and mild flu-like symptoms being the most common reported effects. Because the cells are not genetically modified, severe cytokine release syndrome and neurological toxicity are far rarer than with CAR-T. Some patients develop temporary low blood counts or infusion reactions. Your trial team will monitor you closely, and reactions can differ depending on what other treatments you receive.</p>"
+          },
+          {
+            "q": "Do I have to pay for treatment if I join a CIK trial?",
+            "a": "<p>Costs vary widely. Some trials cover the CIK cells, laboratory processing, and study visits, while others ask you to pay part or all of the treatment, especially in private hospitals abroad. Travel, accommodation, scans, and supportive care are often excluded even when the therapy itself is free. Ask each centre for a written breakdown of what is covered before you commit to travel or treatment.</p>"
+          },
+          {
+            "q": "How long does a CIK trial take, from first contact to infusion?",
+            "a": "<p>Expect four to eight weeks from first enquiry to your first infusion in most CIK trials. Screening and records review take one to three weeks, cell collection is a single day, and laboratory expansion of the cells usually needs two to three weeks. Most protocols then give several infusions spaced days or weeks apart. Timelines can stretch if visas, repeat scans, or extra eligibility tests are required.</p>"
+          },
+          {
+            "q": "What new CIK studies are coming, and how do I keep track of them?",
+            "a": "<p>The next wave of CIK research pairs the cells with checkpoint inhibitors, targeted drugs, and NK or dendritic cell products, and tests them earlier in treatment rather than as a last resort. Several centres are also trialling CAR-modified CIK cells for blood cancers. Registry alerts on ClinicalTrials.gov and periodic checks with your oncologist are the most reliable ways to catch new openings as they appear.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

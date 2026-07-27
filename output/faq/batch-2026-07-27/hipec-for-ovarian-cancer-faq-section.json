@@ -1,0 +1,59 @@
+{
+  "pillar": "HIPEC for Ovarian Cancer: The OVHIPEC Trial and Current Evidence",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "hipec-for-ovarian-cancer",
+  "route": "/insights/hipec-for-ovarian-cancer",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What is HIPEC for ovarian cancer?",
+            "a": "<p>HIPEC is heated chemotherapy washed directly into the abdomen during surgery for ovarian cancer. After the surgeon removes visible tumour, the abdomen is bathed for about 90 minutes in chemotherapy heated to roughly 41–43°C. The heat helps the drug reach remaining microscopic deposits that surgery cannot clear. Because the drug stays largely inside the abdomen, exposure to the rest of the body is lower than with standard intravenous chemotherapy.</p>"
+          },
+          {
+            "q": "What did the OVHIPEC trial actually show?",
+            "a": "<p>The OVHIPEC-1 trial found that adding HIPEC to interval debulking surgery improved survival in stage III ovarian cancer. Median overall survival rose from about 33 months to 46 months, and recurrence-free survival from 11 to 14 months, without a rise in serious side effects. The benefit held at ten-year follow-up. The trial enrolled 245 women who had responded to three cycles of chemotherapy before surgery, so its findings apply to that specific group.</p>"
+          },
+          {
+            "q": "Will HIPEC help me live longer?",
+            "a": "<p>It may, but only if your situation matches the patients studied. In OVHIPEC-1, women with stage III disease who received HIPEC during interval debulking lived roughly a year longer on average than those who had surgery alone. Outside that setting — upfront surgery, stage IV disease, or recurrence — the evidence is weaker and trials disagree. Your gynaecologic oncologist is best placed to judge whether those results apply to you.</p>"
+          },
+          {
+            "q": "Who is eligible for HIPEC?",
+            "a": "<p>Eligibility usually means stage III epithelial ovarian cancer that has responded to neoadjuvant chemotherapy, with surgery able to remove all or nearly all visible tumour. Teams also check kidney function, heart and lung fitness, and nutritional status, because the procedure is long. Women with widespread disease outside the abdomen, poor performance status, or significant organ impairment are often not suitable. Final eligibility depends on imaging, blood work, and what the surgeon finds in theatre.</p>"
+          },
+          {
+            "q": "How long does the operation take and how long will I be in hospital?",
+            "a": "<p>Expect a long day in theatre, commonly eight to twelve hours in total. The cytoreductive surgery itself takes most of that time, since the surgeon must strip tumour from the bowel, diaphragm, and peritoneal lining. The heated chemotherapy wash then runs for about 90 minutes. Most women spend a night or two in intensive care afterwards and around seven to fourteen days in hospital, depending on how extensive the surgery was.</p>"
+          },
+          {
+            "q": "What are the side effects and risks of HIPEC?",
+            "a": "<p>The main risks come from the surgery rather than the heated chemotherapy itself. Reported complications include infection, bleeding, bowel leaks, blood clots, temporary kidney strain from cisplatin, and low blood counts. In OVHIPEC-1, grade 3–4 complications occurred in about 27 percent of the HIPEC group and 25 percent of the surgery-only group, so adding HIPEC did not clearly increase harm. Rates can vary widely with the experience of the surgical centre.</p>"
+          },
+          {
+            "q": "Why does my hospital say HIPEC is still controversial?",
+            "a": "<p>Because the evidence rests largely on one positive trial, and other studies have not agreed. OVHIPEC-1 was a single trial of 245 women, and later trials in different settings, including upfront surgery and Asian cohorts, reported mixed results. Guidelines therefore vary by country: some list HIPEC as an option after neoadjuvant chemotherapy, others still call it investigational. Availability also depends on whether a centre has the equipment and a trained team.</p>"
+          },
+          {
+            "q": "Does HIPEC work if my ovarian cancer has come back?",
+            "a": "<p>Evidence for HIPEC in recurrent ovarian cancer is not settled. Some centres offer it during secondary cytoreductive surgery when the recurrence is confined to the abdomen and can be completely removed, and small studies suggest possible benefit. Larger randomised trials have not confirmed a survival advantage, and one trial in platinum-resistant recurrence was stopped early. Many teams will only offer HIPEC for recurrence inside a clinical trial or after multidisciplinary review.</p>"
+          },
+          {
+            "q": "How much does HIPEC cost in India or China?",
+            "a": "<p>Costs vary widely by country and by how extensive the surgery is. In India, cytoreductive surgery with HIPEC commonly falls in the range of 12,000 to 25,000 US dollars, which is often lower than in Europe or the United States. Chinese centres quote a similar band. Quotes usually exclude prolonged intensive care or complications. CancerFax can help you request written cost estimates from centres, though final pricing depends on your surgical plan.</p>"
+          },
+          {
+            "q": "How do I choose a centre that does HIPEC well?",
+            "a": "<p>Look for a centre that performs cytoreductive surgery regularly, since outcomes improve with volume and experience. Reasonable questions are how many HIPEC procedures the team does each year, their complication and mortality rates, whether a gynaecologic oncologist leads the surgery, and what intensive care support is available. CancerFax can help you gather these details from hospitals in India and China, but the choice should be made with your treating oncologist.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pillar": "MCTL Therapy Side Effects and Safety Profile",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "mctl-therapy-side-effects",
+  "route": "/insights/mctl-therapy-side-effects",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are the most common side effects of MCTL therapy?",
+            "a": "<p>The most common side effects are mild and short-lived: low-grade fever, chills, fatigue, headache, and occasional muscle aches in the first 24 to 48 hours after each infusion. Some patients also notice mild nausea or a temporary drop in appetite. Because MCTL uses your own immune cells rather than cytotoxic drugs, reactions are usually easier to manage than chemotherapy, though individual experience can vary a great deal.</p>"
+          },
+          {
+            "q": "Does MCTL therapy cause cytokine release syndrome like CAR-T does?",
+            "a": "<p>Severe cytokine release syndrome is uncommon with MCTL therapy, which is one reason it is often described as gentler than CAR-T. Milder cytokine-related symptoms can still occur, including fever, flushing, low blood pressure, or a fast heartbeat, and these are usually managed with fluids, paracetamol, and observation. Your team will monitor temperature and blood pressure closely after each infusion, since reactions depend on tumour burden and overall health.</p>"
+          },
+          {
+            "q": "How long do MCTL therapy side effects last?",
+            "a": "<p>Most side effects settle within one to three days of each infusion. Fatigue is the symptom that tends to linger, sometimes for about a week, especially if you are also receiving chemotherapy or radiotherapy at the same time. Symptoms that persist beyond a week, or a fever above 38 degrees that does not respond to paracetamol, should be reported to your treating team the same day.</p>"
+          },
+          {
+            "q": "Is MCTL therapy safe for older patients or people with advanced cancer?",
+            "a": "<p>MCTL therapy is often considered for older patients and for people with advanced disease, because it does not carry the bone marrow suppression that limits chemotherapy doses. Eligibility still depends on organ function, performance status, blood counts, and whether your cancer type is likely to respond at all. Most centres require a recent medical assessment before accepting a patient, so acceptance cannot be assumed in advance.</p>"
+          },
+          {
+            "q": "Will I lose my hair or feel as sick as I did on chemotherapy?",
+            "a": "<p>MCTL therapy does not usually cause hair loss, mouth ulcers, or the severe nausea people associate with chemotherapy. It works by expanding immune cells outside the body and returning them to you, so it does not attack rapidly dividing healthy cells in the same way cytotoxic drugs do. If you are receiving chemotherapy alongside it, those particular side effects come from the chemotherapy, not the cell infusion.</p>"
+          },
+          {
+            "q": "Can MCTL therapy damage my healthy organs?",
+            "a": "<p>Serious organ damage is rare, but any immune-based treatment can in principle cause inflammation in healthy tissue. Reported problems include temporary changes in liver enzymes, mild kidney strain, and, uncommonly, breathing difficulty during the infusion itself. Doctors check blood tests before and after treatment cycles to catch these early. Tell your team promptly about chest pain, breathlessness, yellowing of the skin, or a sharp drop in urine output.</p>"
+          },
+          {
+            "q": "Do I have to stay in hospital for an MCTL infusion?",
+            "a": "<p>Most MCTL infusions are given in a day-care setting and take one to two hours, followed by two to four hours of observation before you go home. An overnight stay is sometimes advised for the first infusion, or if you have significant heart or lung disease. CancerFax can help you confirm a centre's infusion and observation schedule before you travel, though the treating team sets the final plan.</p>"
+          },
+          {
+            "q": "Are there any life-threatening risks with MCTL therapy?",
+            "a": "<p>Life-threatening reactions are rare with MCTL therapy, but they are not impossible. The risks doctors watch for are severe allergic or infusion reactions, marked cytokine release, and infection linked to the catheter used for cell collection or delivery. Emergency medication and trained staff are kept on hand during every infusion. Your own level of risk depends on cancer type, prior treatments, and general health, so ask for a written assessment.</p>"
+          },
+          {
+            "q": "Can I have MCTL therapy at the same time as chemotherapy or radiation?",
+            "a": "<p>MCTL therapy is often given alongside chemotherapy, radiotherapy, or checkpoint inhibitors, and combining them does not usually multiply side effects. Timing matters more than the combination itself, so cell infusions are frequently scheduled between chemotherapy cycles to avoid the drugs damaging the infused cells. Overlapping immunotherapy may raise the chance of immune-related inflammation, so your oncologist should approve the full treatment sequence in advance.</p>"
+          },
+          {
+            "q": "How will I be monitored, and who should I call if something feels wrong?",
+            "a": "<p>Expect blood tests, temperature checks, and a symptom review before and after each infusion, plus a contact number for problems that appear once you are home. Most centres ask you to report fever, breathlessness, rash, or confusion immediately rather than waiting for the next appointment. If you are treated abroad, CancerFax can help keep your home oncologist updated, but urgent symptoms should always go to the nearest emergency department.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

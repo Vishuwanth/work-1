@@ -1,0 +1,59 @@
+{
+  "pillar": "Travelling to China for MCTL Therapy: A Practical Guide",
+  "contentType": "Guides",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "travelling-to-china-for-mctl-therapy",
+  "route": "/guides/travelling-to-china-for-mctl-therapy",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long will I need to stay in China for MCTL therapy?",
+            "a": "<p>Plan for about four to six weeks in China. The first week covers assessment and cell collection, then two to three weeks while your cells are prepared, then infusion and monitoring before you are cleared to fly. Your stay may be longer if blood counts recover slowly or a second infusion is advised. Timelines vary by hospital and by how your disease responds, so treat any schedule as provisional.</p>"
+          },
+          {
+            "q": "What visa do I need to travel to China for treatment?",
+            "a": "<p>Most patients travel on an M visa, and some consulates accept an L tourist visa for short medical visits. You will normally be asked for an invitation or admission letter from the treating hospital, proof of funds, and confirmed flights. Requirements differ by country and change often, so check your nearest Chinese embassy before booking anything. Approval is never guaranteed, and it is wise to apply several weeks ahead.</p>"
+          },
+          {
+            "q": "How much does MCTL therapy in China cost?",
+            "a": "<p>Expect roughly US$25,000 to US$60,000 for the therapy itself, depending on the hospital, the number of infusions, and how much supportive care you need. Travel, accommodation, interpreters, scans, and any extra hospital days for side effects sit on top of that. Ask for a written, itemised quote before you fly, and ask what happens to the cost if your plan changes. Quoted prices can move, so reconfirm them close to travel.</p>"
+          },
+          {
+            "q": "Am I likely to be eligible for MCTL therapy?",
+            "a": "<p>Eligibility usually depends on your cancer type, how many treatments you have already had, your organ function, and whether you are well enough to travel and tolerate an infusion. Hospitals in China typically review your recent scans, pathology, and blood work before offering a place. Some patients are accepted quickly; others are advised that standard treatment is still the better option. Only the treating team can confirm whether you qualify.</p>"
+          },
+          {
+            "q": "What medical records should I send before I travel?",
+            "a": "<p>Send your pathology or biopsy report, the most recent scans with the actual image files, a treatment summary listing every drug and dose, and blood work from the past four weeks. Any genetic or biomarker testing helps too. Records usually need an English translation. Services such as CancerFax can help assemble and forward this file to a Chinese hospital, though the treating oncology team makes the final assessment.</p>"
+          },
+          {
+            "q": "Can a family member travel with me?",
+            "a": "<p>Yes, and most hospitals strongly encourage it. You will need someone to manage daily care, food, and appointments during the weeks of monitoring, and a companion is often required before discharge from an inpatient ward. Your companion needs their own visa, applied for at the same time as yours. Costs for a second traveller add up quickly, so factor accommodation and meals into your budget from the start.</p>"
+          },
+          {
+            "q": "Is MCTL therapy an approved treatment or a clinical trial?",
+            "a": "<p>In China, cell therapies of this kind are often delivered inside registered clinical trials or under hospital-based investigational programmes rather than as fully approved routine care. That affects consent forms, what data is collected, and sometimes cost. Ask directly whether you are entering a trial, and ask for the trial registration number. Trial places are limited and can close without notice, so access can never be promised in advance.</p>"
+          },
+          {
+            "q": "What side effects should I expect after the infusion?",
+            "a": "<p>Fever, chills, fatigue, and low blood counts are the most common effects in the first days after infusion, and they are usually managed on the ward. More serious reactions, including cytokine release syndrome and neurological symptoms, can happen and are the main reason you stay near the hospital for several weeks. Severity varies a lot between patients, so ask your team what their monitoring plan looks like.</p>"
+          },
+          {
+            "q": "Will the language barrier be a problem in a Chinese hospital?",
+            "a": "<p>Major cancer centres in Beijing, Shanghai, and Guangzhou run international patient departments with English-speaking coordinators, so day-to-day communication is usually manageable. Ward nurses on night shifts may speak little English, and consent documents are sometimes issued in Chinese first. Arrange a dedicated interpreter for consultations where decisions are made. Confirm in writing what interpreting support is included, because it is not always part of the quoted package.</p>"
+          },
+          {
+            "q": "Who looks after me when I get home?",
+            "a": "<p>Your home oncologist should take over follow-up, so agree that before you travel rather than after. Ask the Chinese hospital for a full discharge summary, the infusion details, and a scan and blood-test schedule in English. CancerFax can help pass these documents on, but your local team decides how monitoring continues. Follow-up needs can change if your response is slower or faster than expected.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

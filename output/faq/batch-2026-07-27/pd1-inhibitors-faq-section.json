@@ -1,0 +1,59 @@
+{
+  "pillar": "PD-1 Inhibitors: Cancer Immunotherapy That Helps the Immune System Recognize and Attack Cancer",
+  "contentType": "Treatments",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "pd1-inhibitors",
+  "route": "/treatments/pd1-inhibitors",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "What are PD-1 inhibitors and how do they work?",
+            "a": "<p>PD-1 inhibitors are drugs that release a brake on your immune system so it can find and kill cancer cells. Cancer often switches on a protein called PD-1 on T cells to shut them down. The drug blocks that switch, and the T cells stay active. Drugs in this group include pembrolizumab, nivolumab, tislelizumab and toripalimab. Your oncologist decides whether this approach suits your cancer type.</p>"
+          },
+          {
+            "q": "Which cancers can be treated with PD-1 inhibitors?",
+            "a": "<p>PD-1 inhibitors are approved for melanoma, lung cancer, kidney cancer, bladder cancer, head and neck cancers, Hodgkin lymphoma, liver cancer, stomach cancer and several others. They are also used for advanced solid tumours that are MSI-high or mismatch repair deficient. Approvals differ between countries, so a drug available in China or India may not be licensed at home. Your oncology team can confirm what applies to your diagnosis.</p>"
+          },
+          {
+            "q": "How do I know if a PD-1 inhibitor will work for me?",
+            "a": "<p>Testing usually comes first. Labs check your tumour for PD-L1 expression, microsatellite instability (MSI) and sometimes tumour mutational burden. High PD-L1 or MSI-high results often predict a better response, but some patients with low scores still benefit and some with high scores do not. No test guarantees the outcome. Ask your oncologist which of these tests were done on your biopsy and what the results showed.</p>"
+          },
+          {
+            "q": "What are the side effects of PD-1 inhibitors?",
+            "a": "<p>The common ones are tiredness, rash, itching, diarrhoea and joint pain. The more serious ones happen when the activated immune system attacks healthy organs such as the thyroid, lungs, liver, bowel or skin. These reactions can appear months after the first dose and are usually managed with steroids if caught early. Report new symptoms quickly, even mild ones. Most people tolerate PD-1 inhibitors better than standard chemotherapy.</p>"
+          },
+          {
+            "q": "How is the treatment given, and how long does it last?",
+            "a": "<p>PD-1 inhibitors are given as a drip into a vein, usually every two, three or six weeks depending on the drug and dose schedule. Each infusion takes about 30 minutes and does not cause hair loss. Many patients continue for up to two years if the cancer stays controlled and side effects stay manageable. Your oncologist may stop earlier if scans show the disease is progressing.</p>"
+          },
+          {
+            "q": "How quickly will I know if it is working?",
+            "a": "<p>Most patients have their first response scan around 8 to 12 weeks after starting. Some tumours shrink quickly; others take several months, and a few appear larger on early scans before they shrink, which doctors call pseudoprogression. Because of this, one scan is rarely enough to judge success. When PD-1 inhibitors do work, the benefit can last for years after treatment ends, even in advanced disease.</p>"
+          },
+          {
+            "q": "What is the difference between PD-1 and PD-L1 inhibitors?",
+            "a": "<p>They block the same signal, but at opposite ends. PD-1 inhibitors such as pembrolizumab and nivolumab block the receptor on your T cells. PD-L1 inhibitors such as atezolizumab and durvalumab block the matching protein on the tumour. In practice, results are broadly similar, and the choice depends on which drug is approved for your cancer type and stage. Your oncologist picks based on trial data for your specific diagnosis.</p>"
+          },
+          {
+            "q": "How much do PD-1 inhibitors cost in India or China?",
+            "a": "<p>Costs vary widely. Chinese-made PD-1 inhibitors such as tislelizumab, sintilimab, camrelizumab and toripalimab are often a fraction of the price of the US and European originators, and Indian hospitals also offer patient assistance schemes. A single cycle abroad may range from a few hundred to a few thousand dollars. CancerFax can help you compare current hospital quotes, though final pricing depends on your dose, cycle count and hospital.</p>"
+          },
+          {
+            "q": "Can PD-1 inhibitors be combined with chemotherapy?",
+            "a": "<p>Often, yes. Adding chemotherapy to a PD-1 inhibitor is now standard first-line care in several cancers, including many advanced lung, stomach and oesophageal cancers, because the combination can work better than either alone. Some patients also receive it alongside targeted therapy or radiotherapy. The combination usually brings more side effects than the immunotherapy alone. Whether it suits you depends on your tumour biology, organ function and overall fitness.</p>"
+          },
+          {
+            "q": "Can I have a PD-1 inhibitor if I have an autoimmune disease or a transplant?",
+            "a": "<p>It depends, and it needs careful discussion. Active autoimmune disease, a previous organ transplant, or ongoing high-dose steroids can raise the risk of serious immune reactions or rejection, so many trials excluded these patients. That does not mean an automatic no. Some people with well-controlled conditions such as thyroid disease or mild psoriasis are still treated safely. Your oncologist weighs the risk against how much you may gain.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

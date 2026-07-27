@@ -1,0 +1,59 @@
+{
+  "pillar": "The CAR-T Treatment Timeline in India: From Consultation to Discharge",
+  "contentType": "Insights",
+  "runner": "apply-pillar-faqs.js",
+  "slug": "car-t-treatment-timeline-india",
+  "route": "/insights/car-t-treatment-timeline-india",
+  "sectionToMerge": {
+    "type": "faq",
+    "id": "faq",
+    "h2": "Frequently Asked Questions",
+    "groups": [
+      {
+        "title": "",
+        "items": [
+          {
+            "q": "How long does CAR-T treatment in India take from start to finish?",
+            "a": "<p>Most patients complete CAR-T therapy in India in roughly six to ten weeks, measured from the first consultation to hospital discharge. That span usually covers about one to two weeks of eligibility testing, cell collection, two to four weeks of manufacturing, three days of lymphodepleting chemotherapy, the infusion itself, and two to four weeks of monitoring. Your actual timeline depends on your disease, your organ function, and manufacturing slot availability.</p>"
+          },
+          {
+            "q": "What happens at the first CAR-T consultation, and how long does it take?",
+            "a": "<p>The first consultation usually takes one to three days and decides whether CAR-T is safe and appropriate for you. The team reviews your pathology reports and prior treatments, confirms your cancer expresses the target antigen, and orders PET-CT, bone marrow, cardiac, kidney, and liver tests. Insurance or funding approval often starts the same week. Eligibility is confirmed only after these results return, so timelines can shift.</p>"
+          },
+          {
+            "q": "How long does the cell collection appointment actually last?",
+            "a": "<p>Apheresis, the session that collects your T-cells, usually takes three to five hours on a single day. You lie awake while a machine draws blood through a line, separates the white cells, and returns the rest to you. Most people go home the same evening. If the cell count collected is too low, a second session may be needed a day or two later, which adds about a week.</p>"
+          },
+          {
+            "q": "How long do I wait while my CAR-T cells are being made?",
+            "a": "<p>Manufacturing takes about two to four weeks for CAR-T products made in India, and closer to four to six weeks when cells are shipped abroad. Indian-made therapies such as NexCAR19 and Qartemi are engineered in domestic facilities, which removes international shipping and customs delays. Release testing adds a few days at the end. Occasionally a batch fails quality checks and has to be remade, extending the wait.</p>"
+          },
+          {
+            "q": "What is bridging therapy, and will it make my treatment longer?",
+            "a": "<p>Bridging therapy is short-course chemotherapy, steroids, or radiation given while your cells are being manufactured, to stop the cancer growing during the wait. It typically runs two to three weeks and is timed to finish about a week before lymphodepletion starts. Not everyone needs it. Your oncologist decides based on how fast your disease is moving and how well you tolerated earlier treatment, and the plan can change once scans are repeated.</p>"
+          },
+          {
+            "q": "How many days of chemotherapy come before the infusion, and how long is the infusion?",
+            "a": "<p>Lymphodepleting chemotherapy runs for three consecutive days, then you rest for two days before the infusion. The infusion itself takes only 15 to 30 minutes and feels like a blood transfusion. You are admitted before lymphodepletion begins and stay in hospital from that point onward. Nurses check your temperature and blood pressure frequently in the hours after infusion, because early reactions usually appear within the first day or two.</p>"
+          },
+          {
+            "q": "How many days will I be in the hospital after getting the CAR-T cells?",
+            "a": "<p>Expect to stay in hospital for about two to four weeks after the CAR-T infusion. The first 14 days carry the highest risk of cytokine release syndrome and neurological side effects, so you are monitored closely on a transplant or CAR-T unit. Discharge is considered once fevers settle, blood counts recover, and you can eat and walk safely. Some patients need longer if complications appear.</p>"
+          },
+          {
+            "q": "What side effects can keep me in hospital longer than planned?",
+            "a": "<p>Cytokine release syndrome and neurotoxicity are the two problems that most often extend the hospital stay. CRS usually starts within the first week as fever, low blood pressure, or breathlessness, and is treated with tocilizumab and steroids. Neurological changes such as confusion or difficulty speaking need similar close observation. Most cases are mild and resolve in days, but severe episodes can add one to two weeks in intensive care.</p>"
+          },
+          {
+            "q": "After discharge, how long do I need to stay near the hospital in India?",
+            "a": "<p>Plan to stay within an hour of the treating hospital for about four weeks after discharge. Weekly reviews check your blood counts, infection risk, and memory or concentration, and your immune system takes months to rebuild. International patients usually apply for a medical visa covering three months, with an attendant visa for one caregiver. CancerFax can help coordinate these stay and follow-up arrangements alongside your treating team.</p>"
+          },
+          {
+            "q": "What usually delays the timeline, and can I do anything to speed it up?",
+            "a": "<p>The most common delays are funding approval, manufacturing slot waiting lists, disease progression during the wait, and infections that postpone lymphodepletion. Slots at Indian CAR-T centres are limited, so booking early matters. Gathering your pathology blocks, flow cytometry, and recent scans before the first consultation can save one to two weeks. CancerFax can help assemble these records for review, though your treating oncologist makes the final scheduling decisions.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}
