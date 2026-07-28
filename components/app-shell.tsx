@@ -11,6 +11,9 @@ import { BentoOverview } from "@/components/bento-overview";
 import { RowsTable } from "@/components/rows-table";
 import { FaqDetailDrawer } from "@/components/faq-detail-drawer";
 import { BatchPanel } from "@/components/batch-panel";
+import { ResourcesTab } from "@/components/resources-tab";
+import { ComingSoonTab } from "@/components/coming-soon-tab";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
 interface AppShellProps {
   initial: { views: RowView[]; stats: OverviewStats; toggles: Toggles; error?: string };
@@ -101,53 +104,76 @@ export function AppShell({ initial }: AppShellProps) {
         </p>
       </header>
 
-      {error ? (
-        <div
-          role="alert"
-          className="mb-6 rounded-lg border border-destructive/40 bg-destructive/10 px-4 py-3 text-sm text-destructive"
-        >
-          {error}
-        </div>
-      ) : null}
+      <Tabs defaultValue="faqs">
+        <TabsList>
+          <TabsTrigger value="faqs">📋 FAQs</TabsTrigger>
+          <TabsTrigger value="resources">🏷️ Resources</TabsTrigger>
+          <TabsTrigger value="hospitals">🏗️🦥 Hospitals</TabsTrigger>
+          <TabsTrigger value="doctors">🦆 Doctors</TabsTrigger>
+        </TabsList>
 
-      <div className="mb-6">
-        <BentoOverview stats={stats} toggles={toggles} onToggle={onToggle} />
-      </div>
+        <TabsContent value="faqs">
+          {error ? (
+            <div
+              role="alert"
+              className="mb-6 rounded-lg border border-destructive/40 bg-destructive/10 px-4 py-3 text-sm text-destructive"
+            >
+              {error}
+            </div>
+          ) : null}
 
-      {batchKeys ? (
-        <div className="mb-3">
-          <BatchPanel
-            keys={batchKeys}
-            concurrency={concurrency}
-            onConcurrencyChange={setConcurrency}
-            onStatus={setStatus}
-            onDone={onBatchDone}
-            onClose={() => {
-              setBatchKeys(null);
-              setGenStatus({});
-            }}
-            onRetry={onRunBatch}
+          <div className="mb-6">
+            <BentoOverview stats={stats} toggles={toggles} onToggle={onToggle} />
+          </div>
+
+          {batchKeys ? (
+            <div className="mb-3">
+              <BatchPanel
+                keys={batchKeys}
+                concurrency={concurrency}
+                onConcurrencyChange={setConcurrency}
+                onStatus={setStatus}
+                onDone={onBatchDone}
+                onClose={() => {
+                  setBatchKeys(null);
+                  setGenStatus({});
+                }}
+                onRetry={onRunBatch}
+              />
+            </div>
+          ) : null}
+
+          <RowsTable
+            views={views}
+            onOpen={onOpen}
+            onGenerate={onGenerate}
+            genStatus={genStatus}
+            onRunBatch={onRunBatch}
+            onApproveAll={onApproveAll}
+            batchRunning={batchKeys !== null}
           />
-        </div>
-      ) : null}
 
-      <RowsTable
-        views={views}
-        onOpen={onOpen}
-        onGenerate={onGenerate}
-        genStatus={genStatus}
-        onRunBatch={onRunBatch}
-        onApproveAll={onApproveAll}
-        batchRunning={batchKeys !== null}
-      />
+          <FaqDetailDrawer
+            rowKey={selectedSlug}
+            open={open}
+            onOpenChange={setOpen}
+            toggles={toggles}
+            onChanged={refresh}
+          />
+        </TabsContent>
 
-      <FaqDetailDrawer
-        rowKey={selectedSlug}
-        open={open}
-        onOpenChange={setOpen}
-        toggles={toggles}
-        onChanged={refresh}
-      />
+        <TabsContent value="resources">
+          <ResourcesTab />
+        </TabsContent>
+
+        <TabsContent value="hospitals">
+          <ComingSoonTab emoji="🏗️🦥" label="Hospitals" />
+        </TabsContent>
+
+        <TabsContent value="doctors">
+          <ComingSoonTab emoji="🦆" label="Doctors" />
+        </TabsContent>
+      </Tabs>
     </div>
   );
 }

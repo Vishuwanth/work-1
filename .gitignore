@@ -52,3 +52,9 @@ __pycache__/
 # runtime review state (local, changes constantly)
 output/faq/tracker.json
 output/faq/toggles.json
+
+# Resources tab: self-imposed write-rate-limit tracker — ephemeral rolling-window
+# counter, not meaningful data. data/strapi-credentials.enc.json (encrypted secrets)
+# and data/resource-checks.json (persisted check results) are deliberately NOT
+# ignored — both are meant to be committed to this private repo.
+data/.write-rate-limit-state.json

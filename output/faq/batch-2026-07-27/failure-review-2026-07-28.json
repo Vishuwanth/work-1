@@ -1,0 +1,447 @@
+{
+  "generatedAt": "2026-07-28",
+  "totalFailures": 75,
+  "buckets": {
+    "sharedTargetConflicts": [
+      {
+        "target": "treatments/til-therapy",
+        "claimedBy": [
+          "insights/til-therapy-explained",
+          "insights/cost-of-til-therapy",
+          "insights/eligibility-for-til-therapy",
+          "insights/how-til-therapy-works",
+          "insights/side-effects-of-til-therapy",
+          "guides/til-therapy-china-melanoma-cervical-lung-cancer",
+          "guides/til-therapy-china-melanoma-cervical-lung-cancer-patient-guide",
+          "insights/what-is-til-therapy"
+        ]
+      },
+      {
+        "target": "treatments/immunotherapy",
+        "claimedBy": [
+          "insights/what-is-cancer-immunotherapy",
+          "insights/immunotherapy-side-effects"
+        ]
+      },
+      {
+        "target": "treatments/tace",
+        "claimedBy": [
+          "insights/accessing-tace-abraod",
+          "insights/tace-mwa-combination-for-hcc",
+          "insights/tace-rfa-mwa-combination-hcc",
+          "insights/what-is-tace"
+        ]
+      },
+      {
+        "target": "treatments/cik-therapy",
+        "claimedBy": [
+          "insights/cik-therapy-china-hospitals-guide",
+          "insights/what-is-cik-therapy"
+        ]
+      },
+      {
+        "target": "treatments/cryoablation",
+        "claimedBy": [
+          "insights/cryoablation-patient-navigation",
+          "insights/what-is-cryoablation"
+        ]
+      },
+      {
+        "target": "treatments/hifu",
+        "claimedBy": [
+          "insights/hifu-patient-navigation",
+          "insights/what-is-hifu"
+        ]
+      },
+      {
+        "target": "treatments/microwave-ablation",
+        "claimedBy": [
+          "insights/microwave-ablation-access",
+          "insights/what-is-microwave-ablation-patient-guide"
+        ]
+      },
+      {
+        "target": "treatments/photodynamic-therapy",
+        "claimedBy": [
+          "insights/photodynamic-therapy-china-india",
+          "insights/what-is-photodynamic-therapy"
+        ]
+      },
+      {
+        "target": "treatments/radiation-therapy",
+        "claimedBy": [
+          "treatments/3d-crt-three-dimensional-conformal-radiation-therapy",
+          "treatments/brachytherapy-internal-radiation-therapy",
+          "treatments/image-guided-radiation-therapy-igrt",
+          "treatments/imrt-intensity-modulated-radiation-therapy",
+          "treatments/intraoperative-radiation-therapy-iort",
+          "treatments/tomotherapy-helical-radiation-therapy"
+        ]
+      }
+    ],
+    "uniqueSafeCorrections": [
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-are-advanced-cancer-treatments",
+        "file": "what-are-advanced-cancer-treatments-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "guides/advanced-cancer-treatment — \"Advanced Cancer Treatment\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-car-t-cell-therapy",
+        "file": "what-is-car-t-cell-therapy-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/car-t-cell-therapy — \"CAR T- Cell Therapy\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-are-cancer-clinical-trials",
+        "file": "what-are-cancer-clinical-trials-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/clinical-trials-in-cancer — \"Clinical Trials in Cancer: A Complete Patient Guide\"",
+        "score": 1
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-gene-therapy-for-cancer",
+        "file": "what-is-gene-therapy-for-cancer-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/gene-therapy-for-children-with-cancer — \"Gene Therapy for Children with Cancer\"",
+        "score": 0.6
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-oncolytic-virus-therapy",
+        "file": "what-is-oncolytic-virus-therapy-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/oncolytic-virus-therapy — \"Oncolytic Virus Therapy\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-stem-cell-therapy-in-cancer",
+        "file": "what-is-stem-cell-therapy-in-cancer-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/stem-cell-therapy-for-children — \"Stem Cell Therapy for Children\"",
+        "score": 0.6
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-targeted-therapy",
+        "file": "what-is-targeted-therapy-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/targeted-therapy — \"Targeted Therapy\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "neoantigen-vaccines",
+        "file": "neoantigen-vaccines-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/neoantigen-vaccine — \"NeoAntigen Vaccine for Cancer: The Complete Patient Guide\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "guides",
+        "mappingSlug": "china-gene-therapy-blood-disorders",
+        "file": "china-gene-therapy-blood-disorders-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "guides/gene-therapy-for-inherited-blood-disorders — \"Gene Therapy for Inherited Blood Disorders: Beyond Thalassaemia\"",
+        "score": 0.6666666666666666
+      },
+      {
+        "mappingCollection": "guides",
+        "mappingSlug": "second-opinion-services-for-cancer-patients",
+        "file": "second-opinion-services-for-cancer-patients-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "guides/what-is-cancer-second-opinion — \"What Is a Cancer Second Opinion and Why Should Every Patient Consider One?\"",
+        "score": 0.6
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "accessing-car-t-treatment-in-india",
+        "file": "accessing-car-t-treatment-in-india-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/car-t-treatment-timeline-india — \"The CAR-T Treatment Timeline in India: From Consultation to Discharge\"",
+        "score": 0.6666666666666666
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "accessing-hormone-therapy-abroad",
+        "file": "accessing-hormone-therapy-abroad-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/hormone-therapy — \"Hormone Therapy\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "advanced-brain-tumor-treatment-options",
+        "file": "advanced-brain-tumor-treatment-options-faq-section.json",
+        "classification": "fuzzy-other-collection",
+        "candidate": "guides/brain-tumour-treatment-advanced-options — \"Brain Tumour Treatment: Advanced Options and Global Access\"",
+        "score": 0.6666666666666666
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "cd19-cd22-dual-car-t",
+        "file": "cd19-cd22-dual-car-t-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/cd19-cd22-bispecific-car-t — \"CD19/CD22 Bispecific CAR-T: What Patients Need to Know\"",
+        "score": 0.6666666666666666
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "china-hifu-leadership-haifu-programme",
+        "file": "china-hifu-leadership-haifu-programme-faq-section.json",
+        "classification": "substring-same-collection",
+        "candidate": "insights/china-hifu-leadership — \"China HIFU Leadership: The HAIFU Programme and Clinical Evidence\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "cik-vs-cart-therapy",
+        "file": "cik-vs-cart-therapy-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/gene-therapy-vs-cart-therapy — \"Gene Therapy vs CAR-T Therapy\"",
+        "score": 0.6
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "colorectal-cancer-treatment-guide-cancerfax",
+        "file": "colorectal-cancer-treatment-guide-cancerfax-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "guides/colorectal-cancer-treatment-guide — \"Colorectal Cancer Treatment Guide\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "mwa-vs-rfa-ablation-comparison",
+        "file": "mwa-vs-rfa-ablation-comparison-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/cryoablation-vs-rfa-vs-mwa-comparison — \"Cryoablation vs RFA vs MWA: Which Ablation Modality Is Right for You?\"",
+        "score": 0.6666666666666666
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "second-opinion-in-cancer-treatment",
+        "file": "second-opinion-in-cancer-treatment-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/second-opinion-for-pediatric-cancer — \"Second Opinion for Pediatric Cancer\"",
+        "score": 0.6
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "til-vs-car-t-therapy",
+        "file": "til-vs-car-t-therapy-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "insights/car-t-vs-til-therapy — \"CAR-T vs TIL Therapy\"",
+        "score": 1
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-hyperthermia-therapy",
+        "file": "what-is-hyperthermia-therapy-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/hyperthermia-therapy — \"Hyperthermia Therapy for Cancer\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-radiofrequency-ablation",
+        "file": "what-is-radiofrequency-ablation-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/radiofrequency-ablation — \"Radiofrequency Ablation (RFA)\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-stereotactic-radiosurgery-srs",
+        "file": "what-is-stereotactic-radiosurgery-srs-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/stereotactic-radiosurgery — \"SRS & SBRT\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-tare",
+        "file": "what-is-tare-faq-section.json",
+        "classification": "substring-other-collection",
+        "candidate": "treatments/tare — \"TARE / Y-90 Radioembolization\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "electron-beam-therapy",
+        "file": "electron-beam-therapy-faq-section.json",
+        "classification": "fuzzy-same-collection",
+        "candidate": "treatments/electron-beam-radiation-therapy — \"Electron Beam Radiation Therapy: Guide for Cancer Patients\"",
+        "score": 0.75
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "external-beam-radiation-therapy-ebrt",
+        "file": "external-beam-radiation-therapy-ebrt-faq-section.json",
+        "classification": "substring-same-collection",
+        "candidate": "treatments/external-beam-radiation-therapy — \"External Beam Radiation Therapy (EBRT): Complete Patient Guide\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "gamma-knife",
+        "file": "gamma-knife-faq-section.json",
+        "classification": "substring-same-collection",
+        "candidate": "treatments/gamma-knife-radiosurgery — \"Gamma Knife Radiosurgery: Brain and Skull Base Tumour Treatment Guide\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "mrgfus-parkinsons-focused-ultrasound",
+        "file": "mrgfus-parkinsons-focused-ultrasound-faq-section.json",
+        "classification": "substring-same-collection",
+        "candidate": "treatments/mrgfus — \"MRgFUS for Parkinson's Disease: Magnetic Resonance-Guided Focused Ultrasound\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "pipac-pressurised-intraperitoneal-aerosol-chemotherapy",
+        "file": "pipac-pressurised-intraperitoneal-aerosol-chemotherapy-faq-section.json",
+        "classification": "substring-same-collection",
+        "candidate": "treatments/chemotherapy — \"Chemotherapy for Cancer: A Complete Guide to Treatment, Options, and Modern Advances\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "total-body-irradiation-tbi-transplant",
+        "file": "total-body-irradiation-tbi-transplant-faq-section.json",
+        "classification": "substring-same-collection",
+        "candidate": "treatments/total-body-irradiation — \"Total Body Irradiation (TBI): Transplant Conditioning Radiation Guide\"",
+        "score": null
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "vmat-volumetric-modulated-arc-therapy",
+        "file": "vmat-volumetric-modulated-arc-therapy-faq-section.json",
+        "classification": "substring-same-collection",
+        "candidate": "treatments/vmat — \"VMAT: Volumetric Modulated Arc Therapy — Patient Guide\"",
+        "score": null
+      }
+    ],
+    "noCandidateFound": [
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "gene-therapy-for-cancer-patients",
+        "file": "gene-therapy-for-cancer-patients-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "eligibility-for-gene-therapy",
+        "file": "eligibility-for-gene-therapy-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "gene-therapy-treatment-process",
+        "file": "gene-therapy-treatment-process-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "how-gene-therapy-works",
+        "file": "how-gene-therapy-works-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "guides",
+        "mappingSlug": "top-countries-for-cancer-treatment",
+        "file": "top-countries-for-cancer-treatment-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "what-is-ngs-testing",
+        "file": "what-is-ngs-testing-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "accessing-car-t-treatment-in-china",
+        "file": "accessing-car-t-treatment-in-china-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "accessing-rfa-treatment-abroad",
+        "file": "accessing-rfa-treatment-abroad-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "accessing-srs-and-sbrt-abroad",
+        "file": "accessing-srs-and-sbrt-abroad-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "aiims-cmc-vellore-cart-trials",
+        "file": "aiims-cmc-vellore-cart-trials-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "india-cart-iit-tmc-immunoact",
+        "file": "india-cart-iit-tmc-immunoact-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "insights",
+        "mappingSlug": "solid-tumour-car-t-in-china",
+        "file": "solid-tumour-car-t-in-china-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "pd-1-inhibitors",
+        "file": "pd-1-inhibitors-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      },
+      {
+        "mappingCollection": "treatments",
+        "mappingSlug": "pd-l1-inhibitors",
+        "file": "pd-l1-inhibitors-faq-section.json",
+        "classification": "no-candidate-found",
+        "candidate": null,
+        "score": null
+      }
+    ]
+  }
+}
