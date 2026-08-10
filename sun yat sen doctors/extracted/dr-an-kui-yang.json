@@ -1,0 +1,373 @@
+{
+  "slug": "dr-an-kui-yang",
+  "first_name": "An-Kui",
+  "last_name": "Yang",
+  "qualification": "MD (Head & Neck Surgical Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. An-Kui Yang – Head & Neck Cancer Surgery | CancerFax",
+    "desc": "Prof. An-Kui Yang is a head and neck surgeon at SYSUCC, Guangzhou, treating thyroid, laryngeal, tongue and salivary gland cancers with advanced reconstruction.",
+    "keys": "prof an-kui yang, sysucc, head and neck cancer, thyroid cancer surgery, laryngeal cancer, guangzhou, laryngeal reconstruction"
+  },
+  "hero": {
+    "designation": "Professor, Department of Head and Neck Surgery, SYSUCC",
+    "badge_text": "MD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Thyroid Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Laryngeal Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Head & Neck Reconstruction"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Head and Neck Surgery",
+    "specialty_label": "Thyroid, Laryngeal, Tongue & Salivary Gland Cancer Surgery",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. An-Kui Yang is a Professor in the Department of Head and Neck Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, with extensive experience treating thyroid, laryngeal, tongue, salivary gland and paranasal sinus cancers.",
+    "detailed_content": "Prof. Yang has published extensively on head and neck cancer surgical outcomes, including laryngeal reconstruction techniques after extensive partial laryngectomy, anaplastic thyroid carcinoma treatment and prognosis, and free flap transfer for defect repair after salvage surgery. His research has examined prognostic biomarkers such as COX-2 and P300 expression in laryngeal squamous cell carcinoma, and molecular markers for papillary thyroid carcinoma.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to head and neck cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. An-Kui Yang?",
+    "intro_text": "Prof. Yang brings broad expertise across thyroid, laryngeal and other head and neck cancers, with a strong record in function-preserving and reconstructive surgery.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Broad Head & Neck Cancer Expertise",
+        "description": "Extensive experience treating thyroid cancer, laryngeal cancer, tongue cancer, salivary gland cancer and paranasal sinus cancer."
+      },
+      {
+        "icon": "biotech",
+        "title": "Advanced Laryngeal Reconstruction",
+        "description": "Published techniques for laryngeal reconstruction, including combined hyoid bone flap methods after extensive partial laryngectomy."
+      },
+      {
+        "icon": "emoji_events",
+        "title": "Anaplastic Thyroid Carcinoma Experience",
+        "description": "Published outcomes research on the treatment and prognosis of anaplastic thyroid carcinoma, one of the most aggressive thyroid cancer subtypes."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Prognostic Biomarker Research",
+        "description": "Research on molecular prognostic markers including COX-2, P300 and ZCCHC12 in laryngeal and thyroid cancers."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Comprehensive head and neck cancer surgery with functional reconstruction",
+    "description_block": "Prof. Yang's practice spans surgical treatment of thyroid, laryngeal, oral and salivary gland cancers, integrated with reconstructive technique.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Thyroid & Laryngeal Cancer Surgery",
+        "description": "Surgical treatment for thyroid and laryngeal malignancies, including reconstruction.",
+        "specialties": [
+          {
+            "title": "Thyroid Cancer Surgery",
+            "points": [
+              {
+                "point": "Surgical treatment of thyroid cancer, including anaplastic thyroid carcinoma"
+              },
+              {
+                "point": "Molecular marker research for papillary thyroid carcinoma"
+              }
+            ]
+          },
+          {
+            "title": "Laryngeal Cancer & Reconstruction",
+            "points": [
+              {
+                "point": "Extensive partial laryngectomy with combined hyoid bone flap reconstruction"
+              },
+              {
+                "point": "Function-preserving laryngeal cancer surgery"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Oral, Salivary Gland & Sinonasal Cancer Surgery",
+        "description": "Surgical treatment for tongue, salivary gland and sinonasal malignancies.",
+        "specialties": [
+          {
+            "title": "Oral & Salivary Gland Cancer Surgery",
+            "points": [
+              {
+                "point": "Mandibular lingual release approach for total or subtotal glossectomy"
+              },
+              {
+                "point": "Surgical treatment of salivary gland cancer"
+              }
+            ]
+          },
+          {
+            "title": "Sinonasal & Reconstructive Surgery",
+            "points": [
+              {
+                "point": "Treatment of sinonasal mucosal melanoma"
+              },
+              {
+                "point": "Free flap transfer for head and neck defect repair"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Thyroid Cancer (including Anaplastic)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Laryngeal Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Tongue & Oral Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Salivary Gland & Sinonasal Cancer"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical treatment and reconstruction for head and neck cancers",
+    "description_block": "Prof. Yang performs surgical resection and reconstructive procedures across thyroid, laryngeal, oral and salivary gland cancers.",
+    "procedures_cards": [
+      {
+        "title": "Thyroid Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical treatment for thyroid malignancies, including aggressive subtypes.",
+        "procedures": [
+          {
+            "title": "Thyroidectomy & Related Procedures",
+            "points": [
+              {
+                "point": "Surgical treatment of differentiated and anaplastic thyroid carcinoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Laryngeal Cancer Surgery & Reconstruction",
+        "therapy_type": "Complex Disease",
+        "description": "Function-preserving surgery with reconstructive technique for laryngeal cancer.",
+        "procedures": [
+          {
+            "title": "Laryngeal Surgery",
+            "points": [
+              {
+                "point": "Extensive partial laryngectomy"
+              },
+              {
+                "point": "Combined hyoid bone flap laryngeal reconstruction"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Oral & Salivary Gland Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical resection for tongue and salivary gland cancers.",
+        "procedures": [
+          {
+            "title": "Oral Cavity & Salivary Gland Procedures",
+            "points": [
+              {
+                "point": "Total or subtotal glossectomy via mandibular lingual release approach"
+              },
+              {
+                "point": "Elective neck dissection for tongue squamous cell carcinoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Head & Neck Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for head and neck cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Surgical outcomes and prognostic biomarker research in head and neck cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Treatment and prognosis of anaplastic thyroid carcinoma: experience from a single institution in China — PLoS One, 2013"
+            },
+            {
+              "point": "Treatment and prognosis in sinonasal mucosal melanoma: retrospective analysis of 65 patients — Head & Neck, 2014"
+            },
+            {
+              "point": "Combined hyoid bone flap in laryngeal reconstruction after extensive partial laryngectomy — European Archives of Oto-Rhino-Laryngology, 2013"
+            },
+            {
+              "point": "High expression levels of COX-2 and P300 associated with unfavourable survival in laryngeal squamous cell carcinoma — European Archives of Oto-Rhino-Laryngology, 2013"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Additional Research Contributions",
+        "publications": {
+          "title": "Selected Studies",
+          "points": [
+            {
+              "point": "ZCCHC12 as a potential molecular marker of papillary thyroid carcinoma — Medical Oncology, 2012"
+            },
+            {
+              "point": "Elective neck dissection in clinical stage I tongue squamous cell carcinoma — Oral Oncology, 2011"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Yang's research spans surgical technique and prognostic biomarkers across multiple head and neck cancer types. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Yang were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Yang practises within SYSUCC's Department of Head and Neck Surgery, with a broad surgical and research portfolio.",
+    "current_position": "Professor, Department of Head and Neck Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Head and Neck Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Extensive Surgical Experience Across Thyroid, Laryngeal, Oral & Salivary Gland Cancers"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Researcher, Head & Neck Cancer Prognostic Biomarkers"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Published Author, Reconstructive Surgical Technique"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. An-Kui Yang treats thyroid cancer, laryngeal cancer, tongue cancer, salivary gland cancer and paranasal sinus cancer.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Yang consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Yang's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. An-Kui Yang",
+    "items": [
+      {
+        "question": "Does Prof. An-Kui Yang accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to head and neck cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Yang's area of specialisation?",
+        "answer": "<p>Prof. Yang specialises in the surgical treatment of thyroid cancer, laryngeal cancer, tongue cancer, salivary gland cancer and paranasal sinus cancer.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Does Prof. Yang treat anaplastic thyroid carcinoma?",
+        "answer": "<p>Yes. Prof. Yang has published outcomes research on the treatment and prognosis of anaplastic thyroid carcinoma, one of the most aggressive forms of thyroid cancer.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Does Prof. Yang perform reconstructive surgery after laryngeal cancer surgery?",
+        "answer": "<p>Yes. Prof. Yang has published techniques for laryngeal reconstruction, including combined hyoid bone flap methods, to preserve function after extensive partial laryngectomy.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

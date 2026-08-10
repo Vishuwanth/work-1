@@ -1,0 +1,377 @@
+{
+  "slug": "dr-li-zhang",
+  "first_name": "Li",
+  "last_name": "Zhang",
+  "qualification": "MD, School of Clinical Medicine, Sun Yat-sen University of Medical Sciences",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Li Zhang – Lung Cancer & NPC Oncology | CancerFax",
+    "desc": "Prof. Li Zhang is a leading medical oncologist at SYSUCC, Guangzhou, with 40+ years treating lung cancer and nasopharyngeal carcinoma and shaping trial standards.",
+    "keys": "prof li zhang, sysucc, lung cancer oncology, nasopharyngeal carcinoma, guangzhou, clinical trials"
+  },
+  "hero": {
+    "designation": "Professor of Medical Oncology; Chief, Clinical Research & Phase I Unit, SYSUCC",
+    "badge_text": "40+ Years of Clinical & Research Leadership",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Lung Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Nasopharyngeal Carcinoma"
+      },
+      {
+        "icon": "favorite",
+        "label": "Clinical Trial Leadership"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Medical Oncology / Phase I Unit",
+    "specialty_label": "Lung Cancer & Nasopharyngeal Carcinoma — Systemic & Precision Therapy",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Li Zhang is a Professor of Medical Oncology and Chief of the Department of Clinical Research and Phase I Unit at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. Over a career spanning more than 40 years at SYSUCC, he has become a world-recognised authority on lung cancer and nasopharyngeal carcinoma (NPC).",
+    "detailed_content": "Prof. Zhang serves as a Senior Consultant for the Center for Drug Evaluation (CDE) under China's National Medical Products Administration (NMPA), and was a principal architect of the National Guidance for Industry on Clinical Trials for Cancer Drugs. He holds leadership roles across major oncology societies including ASCO, ESMO, IASLC, MASCC, CSCO and CACA, and has published more than 400 peer-reviewed papers in journals including the New England Journal of Medicine, The Lancet, JAMA, The BMJ, Nature Medicine and The Lancet Oncology. His research focuses on molecular-driven prognostic and therapeutic strategies for lung cancer and NPC.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to lung cancer or nasopharyngeal carcinoma at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Li Zhang?",
+    "intro_text": "Prof. Zhang combines over four decades of clinical experience with national leadership in cancer drug regulation and clinical trial design.",
+    "why_cards": [
+      {
+        "icon": "emoji_events",
+        "title": "40+ Years at a Leading Cancer Center",
+        "description": "One of China's most experienced medical oncologists, with a career at SYSUCC spanning more than four decades."
+      },
+      {
+        "icon": "verified",
+        "title": "National Drug Regulatory Authority",
+        "description": "Senior Consultant for China's Center for Drug Evaluation (CDE/NMPA) and principal architect of the National Guidance for Industry on Clinical Trials for Cancer Drugs."
+      },
+      {
+        "icon": "menu_book",
+        "title": "400+ Peer-Reviewed Publications",
+        "description": "Published extensively in NEJM, The Lancet, JAMA, The BMJ, Nature Medicine and The Lancet Oncology on lung cancer and NPC."
+      },
+      {
+        "icon": "groups",
+        "title": "Global Oncology Society Leadership",
+        "description": "Active leadership roles across ASCO, ESMO, IASLC, MASCC, CSCO and CACA, shaping international clinical trial and immunotherapy standards."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Precision and systemic therapy for lung cancer and nasopharyngeal carcinoma",
+    "description_block": "Prof. Zhang's clinical and research work spans chemotherapy, targeted therapy and immunotherapy for lung cancer and NPC, alongside national leadership in clinical trial standards.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Lung Cancer Systemic Therapy",
+        "description": "Molecular-driven and precision treatment strategies for lung cancer.",
+        "specialties": [
+          {
+            "title": "Targeted & Immunotherapy for Lung Cancer",
+            "points": [
+              {
+                "point": "Targeted therapy based on molecular and genetic classification of lung cancer"
+              },
+              {
+                "point": "Immune checkpoint inhibitor therapy for advanced non-small cell lung cancer"
+              }
+            ]
+          },
+          {
+            "title": "Chemotherapy & Multidisciplinary Treatment",
+            "points": [
+              {
+                "point": "Chemotherapy protocols for lung cancer and nasopharyngeal carcinoma"
+              },
+              {
+                "point": "Multidisciplinary and palliative treatment planning for advanced cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Nasopharyngeal Carcinoma Medical Oncology",
+        "description": "Systemic treatment approaches for NPC as part of comprehensive care.",
+        "specialties": [
+          {
+            "title": "NPC Systemic Treatment",
+            "points": [
+              {
+                "point": "Chemotherapy and targeted therapy for nasopharyngeal carcinoma"
+              },
+              {
+                "point": "Genetic and molecular classification research of NPC"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Non-Small Cell Lung Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Nasopharyngeal Carcinoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Head & Neck Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Advanced & Palliative Cancer Care"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Clinical & Research Focus Areas",
+    "subHeading": "Systemic treatment and clinical trial leadership for lung cancer and NPC",
+    "description_block": "Prof. Zhang's practice integrates chemotherapy, targeted therapy and immunotherapy with active clinical trial leadership.",
+    "procedures_cards": [
+      {
+        "title": "Systemic Treatment for Lung Cancer",
+        "therapy_type": "Medical Oncology",
+        "description": "Chemotherapy, targeted therapy and immunotherapy regimens for lung cancer.",
+        "procedures": [
+          {
+            "title": "Systemic Treatment Regimens",
+            "points": [
+              {
+                "point": "Molecular-driven targeted therapy for lung cancer"
+              },
+              {
+                "point": "Immune checkpoint inhibitor therapy for advanced NSCLC"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Systemic Treatment for Nasopharyngeal Carcinoma",
+        "therapy_type": "Medical Oncology",
+        "description": "Chemotherapy and targeted treatment approaches for NPC.",
+        "procedures": [
+          {
+            "title": "NPC Systemic Regimens",
+            "points": [
+              {
+                "point": "Chemotherapy for locoregionally advanced and metastatic NPC"
+              },
+              {
+                "point": "Targeted therapy informed by molecular classification"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Early-Phase Clinical Trial Access",
+        "therapy_type": "Complex Disease",
+        "description": "Access to novel anti-cancer agents through Phase I clinical trials.",
+        "procedures": [
+          {
+            "title": "Phase I Trial Programme",
+            "points": [
+              {
+                "point": "Principal Investigator on multiple national and international multicentre clinical trials"
+              },
+              {
+                "point": "Direction of SYSUCC's Phase I Unit for novel anti-cancer drug development"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Lung Cancer & NPC",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, molecular profiling and treatment history for lung cancer or NPC"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Clinical trial leadership and drug regulatory contributions in lung cancer and NPC",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (from 400+ publications)",
+          "points": [
+            {
+              "point": "Multiple publications in New England Journal of Medicine, The Lancet and JAMA on lung cancer systemic therapy"
+            },
+            {
+              "point": "Research on molecular and genetic classification of lung cancer and nasopharyngeal carcinoma"
+            },
+            {
+              "point": "Studies on immune checkpoint blockade biomarkers in non-small cell lung cancer"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial & Regulatory Leadership",
+        "publications": {
+          "title": "Selected Roles & Trials",
+          "points": [
+            {
+              "point": "Senior Consultant, Center for Drug Evaluation (CDE), National Medical Products Administration (NMPA)"
+            },
+            {
+              "point": "Principal architect, National Guidance for Industry on Clinical Trials for Cancer Drugs"
+            },
+            {
+              "point": "Principal Investigator or steering committee member on numerous national and international multicentre trials"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Zhang has published more than 400 peer-reviewed papers across leading oncology journals. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Zhang trained in clinical medicine at Sun Yat-sen University before joining SYSUCC in 1986.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Clinical Medicine",
+        "institution": "School of Clinical Medicine, Sun Yat-sen University of Medical Sciences, Guangzhou, China",
+        "years": "Graduated 1986",
+        "sort_order": 1
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Zhang has served continuously at SYSUCC since 1986, building national and international leadership in medical oncology and clinical trials.",
+    "current_position": "Professor of Medical Oncology; Chief, Clinical Research & Phase I Unit",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Lung Cancer Research Centre, Sun Yat-sen University",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Deputy Director, Lung Cancer Research Centre, Sun Yat-sen University"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Senior Consultant, Center for Drug Evaluation (CDE), NMPA"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Standing Committee Member, Chinese Society of Clinical Oncology (CSCO)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Board Member, MASCC; Committee Member, IASLC and ASCO"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Li Zhang treats lung cancer and nasopharyngeal carcinoma, including advanced and metastatic disease, using chemotherapy, targeted therapy and immunotherapy.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Zhang consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Zhang's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Li Zhang",
+    "items": [
+      {
+        "question": "Does Prof. Li Zhang accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to lung cancer or nasopharyngeal carcinoma at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Zhang's area of specialisation?",
+        "answer": "<p>Prof. Zhang specialises in the medical oncology treatment of lung cancer and nasopharyngeal carcinoma, including chemotherapy, targeted therapy and immunotherapy.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Zhang involved in clinical trials for lung cancer?",
+        "answer": "<p>Yes. Prof. Zhang has led or contributed to more than 30 national and international multicentre clinical trials in lung cancer and NPC, and directs SYSUCC's Phase I clinical trial unit.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Why is Prof. Zhang considered a leading authority in Chinese oncology?",
+        "answer": "<p>Beyond his clinical work, Prof. Zhang has shaped national cancer drug regulation as a Senior Consultant to China's Center for Drug Evaluation and as a principal architect of national clinical trial guidance for cancer drugs.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

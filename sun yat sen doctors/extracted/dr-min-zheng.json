@@ -1,0 +1,384 @@
+{
+  "slug": "dr-min-zheng",
+  "first_name": "Min",
+  "last_name": "Zheng",
+  "qualification": "MD (Switzerland)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Min Zheng – Gynecologic Oncology, Guangzhou | CancerFax",
+    "desc": "Prof. Min Zheng treats gynecologic tumors at SYSUCC, Guangzhou, performing Da Vinci robotic surgery for cervical and ovarian cancer with novel drug trials.",
+    "keys": "prof min zheng, sysucc, gynecologic oncology, robotic surgery, cervical cancer, ovarian cancer, guangzhou"
+  },
+  "hero": {
+    "designation": "Professor, Chief Physician & Doctoral Supervisor, Gynecologic Oncology, SYSUCC",
+    "badge_text": "MD (University of Zurich & University of Bern, Switzerland)",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Cervical Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Ovarian Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Da Vinci Robotic Surgery"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Gynecologic Oncology",
+    "specialty_label": "Robotic Surgery & Novel Drug Trials for Gynecologic Tumors",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Min Zheng is a Professor, Chief Physician and Doctoral Supervisor in gynecologic oncology at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, with rich experience in Da Vinci robotic surgery for gynecologic tumors.",
+    "detailed_content": "Prof. Zheng completed her MD at the Medical College of Zurich University and Medical College of Bern University, Switzerland, with additional visiting scholar training in the USA. She has published more than 40 research papers examining the incidence of gynecologic tumors and chemotherapy resistance, and has led novel combination drug trials for endometrial and ovarian cancer, including a phase II trial of sintilimab plus anlotinib for recurrent or advanced endometrial cancer and a phase Ib trial of anlotinib combined with TQB2450 for platinum-resistant ovarian cancer.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gynecologic cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Min Zheng?",
+    "intro_text": "Prof. Zheng combines international medical training with advanced robotic surgical technique and novel drug trial leadership.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Da Vinci Robotic Surgery Expertise",
+        "description": "Rich experience performing Da Vinci robotic surgery for gynecologic tumors, offering minimally invasive treatment options."
+      },
+      {
+        "icon": "biotech",
+        "title": "Novel Combination Therapy Trials",
+        "description": "Led phase II/Ib trials of sintilimab plus anlotinib for endometrial cancer, and anlotinib plus TQB2450 for platinum-resistant ovarian cancer."
+      },
+      {
+        "icon": "school",
+        "title": "European Medical Training",
+        "description": "Completed her MD at the Medical College of Zurich University and Medical College of Bern University, Switzerland."
+      },
+      {
+        "icon": "menu_book",
+        "title": "40+ Research Papers on Gynecologic Tumors",
+        "description": "Extensive publication record on gynecologic tumor incidence, chemotherapy resistance, and prognostic biomarkers."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Robotic surgery and novel drug trials for gynecologic tumors",
+    "description_block": "Prof. Zheng's practice combines advanced robotic surgical technique with participation in novel combination therapy trials for gynecologic cancer.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Robotic & Radical Surgery",
+        "description": "Minimally invasive and radical surgical treatment for cervical and ovarian cancer.",
+        "specialties": [
+          {
+            "title": "Da Vinci Robotic Surgery",
+            "points": [
+              {
+                "point": "Robotic surgery for gynecologic tumors"
+              },
+              {
+                "point": "Type II radical hysterectomy for stage IB-IIB cervical carcinoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Novel Drug Trials for Advanced Disease",
+        "description": "Combination immunotherapy and targeted therapy trials for recurrent gynecologic cancer.",
+        "specialties": [
+          {
+            "title": "Endometrial & Ovarian Cancer Trials",
+            "points": [
+              {
+                "point": "Sintilimab plus anlotinib for recurrent or advanced endometrial cancer (phase II)"
+              },
+              {
+                "point": "Anlotinib combined with TQB2450 for platinum-resistant or -refractory ovarian cancer (phase Ib)"
+              }
+            ]
+          },
+          {
+            "title": "Prognostic & Molecular Research",
+            "points": [
+              {
+                "point": "Research on cervical cancer metastasis mechanisms (MYL5/HIF-1α pathway)"
+              },
+              {
+                "point": "Adjuvant CIK cell therapy outcomes in epithelial ovarian cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Cervical Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Ovarian Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Endometrial Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Platinum-Resistant Gynecologic Cancer"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Robotic surgery and novel systemic therapy for gynecologic tumors",
+    "description_block": "Prof. Zheng performs robotic and radical surgery for gynecologic cancer, combined with novel drug trial access for advanced disease.",
+    "procedures_cards": [
+      {
+        "title": "Da Vinci Robotic Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Minimally invasive robotic surgical treatment for gynecologic tumors.",
+        "procedures": [
+          {
+            "title": "Robotic Surgical Techniques",
+            "points": [
+              {
+                "point": "Da Vinci robotic surgery for gynecologic tumors"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Radical Hysterectomy",
+        "therapy_type": "Complex Disease",
+        "description": "Radical surgery for cervical carcinoma with lymph node involvement.",
+        "procedures": [
+          {
+            "title": "Radical Surgical Treatment",
+            "points": [
+              {
+                "point": "Type II radical hysterectomy for stage IB-IIB cervical carcinoma"
+              },
+              {
+                "point": "Adjuvant therapy for pelvic lymph node metastasis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Novel Combination Drug Therapy",
+        "therapy_type": "Targeted Therapy",
+        "description": "Immunotherapy and targeted therapy combinations for advanced or recurrent gynecologic cancer.",
+        "procedures": [
+          {
+            "title": "Combination Trial Regimens",
+            "points": [
+              {
+                "point": "Sintilimab plus anlotinib for recurrent/advanced endometrial cancer"
+              },
+              {
+                "point": "Anlotinib plus TQB2450 for platinum-resistant ovarian cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Gynecologic Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, staging and treatment history for gynecologic cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Novel drug trials and prognostic biomarker research in gynecologic cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (from 40+ publications)",
+          "points": [
+            {
+              "point": "Phase II trial of sintilimab plus anlotinib for recurrent or advanced endometrial cancer — Journal for ImmunoTherapy of Cancer, 2022"
+            },
+            {
+              "point": "Anlotinib combined with TQB2450 in platinum-resistant or refractory ovarian cancer: phase 1b trial — Cell Reports Medicine, 2022"
+            },
+            {
+              "point": "The bidirectional regulation between MYL5 and HIF-1α promotes cervical carcinoma metastasis — Theranostics, 2017"
+            },
+            {
+              "point": "Evaluation of type II radical hysterectomy in 960 patients with stage IB-IIB cervical carcinoma — Journal of Surgical Oncology, 2011"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Additional Research Contributions",
+        "publications": {
+          "title": "Selected Studies",
+          "points": [
+            {
+              "point": "Retrospective analysis of adjuvant CIK cell therapy in epithelial ovarian cancer patients — Oncoimmunology, 2019"
+            },
+            {
+              "point": "Identification of a 7-gene signature predicting relapse and survival in early-stage cervical carcinoma — Medical Oncology, 2012"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Zheng has published more than 40 papers on gynecologic tumor biology and novel treatment trials. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Zheng trained in medicine in China before completing her MD in Switzerland, with visiting scholarship training in the United States.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Undergraduate Medical Degree",
+        "institution": "Medical College of Nan-Hua University, Hengyang, Hunan Province, China",
+        "years": "1980 – 1985",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Visiting Scholarship",
+        "degree_title": "Visiting Scholar",
+        "institution": "University of Basel, Switzerland & University of Puerto Rico, USA",
+        "years": "1992 – 1997",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "MD",
+        "institution": "Medical College of Zurich University & Medical College of Bern University, Switzerland",
+        "years": "2000 – 2003",
+        "sort_order": 3
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Zheng practises gynecologic oncology at SYSUCC with a focus on robotic surgery and novel therapeutic trials.",
+    "current_position": "Professor, Chief Physician & Doctoral Supervisor",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Gynecologic Oncology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Doctoral Supervisor, Gynecologic Oncology"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Principal Investigator, Novel Combination Drug Trials"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Recipient, Multiple National, Provincial & University Research Grants"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Min Zheng treats cervical cancer, ovarian cancer and endometrial cancer, including advanced, recurrent and platinum-resistant disease.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Zheng consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Zheng's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Min Zheng",
+    "items": [
+      {
+        "question": "Does Prof. Min Zheng accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gynecologic cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Zheng's area of specialisation?",
+        "answer": "<p>Prof. Zheng specialises in the diagnosis and treatment of gynecologic tumors, particularly Da Vinci robotic surgery for cervical and ovarian cancer, and novel combination drug trials.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Zheng involved in clinical trials for advanced gynecologic cancer?",
+        "answer": "<p>Yes. Prof. Zheng has led phase II/Ib trials combining immunotherapy and targeted therapy for recurrent endometrial cancer and platinum-resistant ovarian cancer.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Does Prof. Zheng perform robotic surgery for gynecologic cancer?",
+        "answer": "<p>Yes. Prof. Zheng has rich experience performing Da Vinci robotic surgery for gynecologic tumors, offering a minimally invasive surgical option for eligible patients.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "slug": "dr-pei-rong-ding",
+  "first_name": "Pei-Rong",
+  "last_name": "Ding",
+  "qualification": "MB, PhD (Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Pei-Rong Ding – Rectal & Colorectal Surgery | CancerFax",
+    "desc": "Prof. Pei-Rong Ding directs Colorectal Surgery at SYSUCC, Guangzhou, specialising in nerve-sparing rectal surgery, Lynch syndrome, and neoadjuvant therapy.",
+    "keys": "prof pei-rong ding, sysucc, rectal cancer surgery, colorectal cancer, lynch syndrome, guangzhou, neoadjuvant therapy"
+  },
+  "hero": {
+    "designation": "Professor, Chief Surgeon & Director, Department of Colorectal Surgery, SYSUCC",
+    "badge_text": "MB, PhD (Oncology)",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Rectal & Colorectal Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Nerve-Sparing Surgery"
+      },
+      {
+        "icon": "favorite",
+        "label": "Lynch Syndrome & Hereditary CRC"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Colorectal Surgery",
+    "specialty_label": "Rectal Cancer Surgery, Hereditary CRC & Neoadjuvant Therapy",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Pei-Rong Ding is Professor, Chief Surgeon and Director of the Department of Colorectal Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. He treats primary, metastatic and recurrent colorectal cancer, gastrointestinal stromal tumours and neuroendocrine tumours.",
+    "detailed_content": "Prof. Ding is skilled in minimally invasive and nerve-sparing surgical techniques that preserve sphincter, bladder and sexual function in rectal surgery. His research focuses on screening and management of hereditary and early-onset colorectal cancer, optimisation of neoadjuvant therapy for locally advanced rectal cancer, and the impact of the tumour microenvironment on immunotherapy response. He leads clinical trials exploring improved treatment models for rectal cancer and Lynch syndrome, and has published more than 30 papers in journals including the Journal of the National Cancer Institute, Annals of Surgery, European Journal of Cancer and Oncoimmunology.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to colorectal or rectal cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Pei-Rong Ding?",
+    "intro_text": "Prof. Ding combines advanced surgical technique with leading research on hereditary colorectal cancer and immunotherapy for microsatellite-instable disease.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Nerve-Sparing Rectal Surgery",
+        "description": "Skilled in nerve-sparing surgical techniques that preserve sphincter, bladder and sexual function during rectal cancer surgery."
+      },
+      {
+        "icon": "biotech",
+        "title": "Neoadjuvant Immunotherapy for MMR-Deficient CRC",
+        "description": "Published landmark research on PD-1 blockade in the neoadjuvant setting for DNA mismatch repair-deficient/microsatellite instability-high colorectal cancer (Oncoimmunology, 2020)."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Lynch Syndrome Screening Leadership",
+        "description": "Led universal screening for Lynch syndrome across a large cohort of Chinese colorectal cancer patients, published in the International Journal of Cancer."
+      },
+      {
+        "icon": "groups",
+        "title": "Overseas Clinical Training",
+        "description": "Completed research training relevant to colorectal cancer recurrence patterns, contributing to studies published in Annals of Surgery."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Rectal and colorectal cancer surgery, hereditary cancer screening and neoadjuvant therapy",
+    "description_block": "Prof. Ding's practice integrates advanced surgical technique with individualised neoadjuvant treatment and hereditary cancer screening.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Rectal & Colorectal Cancer Surgery",
+        "description": "Minimally invasive and function-preserving surgical techniques.",
+        "specialties": [
+          {
+            "title": "Nerve-Sparing & Minimally Invasive Surgery",
+            "points": [
+              {
+                "point": "Nerve-sparing rectal surgery preserving sphincter, bladder and sexual function"
+              },
+              {
+                "point": "Minimally invasive surgery for primary, metastatic and recurrent colorectal cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Neoadjuvant Therapy & Hereditary Cancer Screening",
+        "description": "Individualised treatment optimisation and genetic screening for colorectal cancer.",
+        "specialties": [
+          {
+            "title": "Neoadjuvant Therapy Optimisation",
+            "points": [
+              {
+                "point": "Optimisation of neoadjuvant chemoradiotherapy for locally advanced rectal cancer"
+              },
+              {
+                "point": "PD-1 blockade in the neoadjuvant setting for MMR-deficient/MSI-high colorectal cancer"
+              }
+            ]
+          },
+          {
+            "title": "Hereditary & Early-Onset Colorectal Cancer",
+            "points": [
+              {
+                "point": "Universal Lynch syndrome screening in Chinese colorectal cancer patients"
+              },
+              {
+                "point": "Screening and management of early-onset colorectal cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Rectal Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Lynch Syndrome & Hereditary CRC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Locally Advanced Colorectal Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Gastrointestinal Stromal & Neuroendocrine Tumours"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Nerve-sparing surgery and individualised neoadjuvant treatment for colorectal cancer",
+    "description_block": "Prof. Ding performs minimally invasive and function-preserving surgery, integrated with neoadjuvant therapy and hereditary cancer screening.",
+    "procedures_cards": [
+      {
+        "title": "Nerve-Sparing Rectal Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical technique preserving sphincter, bladder and sexual function during rectal cancer surgery.",
+        "procedures": [
+          {
+            "title": "Function-Preserving Techniques",
+            "points": [
+              {
+                "point": "Nerve-sparing rectal cancer resection"
+              },
+              {
+                "point": "Minimally invasive tumour removal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Neoadjuvant Chemoradiotherapy",
+        "therapy_type": "Medical Oncology",
+        "description": "Systemic and radiation treatment prior to surgery for locally advanced rectal cancer.",
+        "procedures": [
+          {
+            "title": "Neoadjuvant Regimens",
+            "points": [
+              {
+                "point": "Oxaliplatin and capecitabine combined with radiotherapy"
+              },
+              {
+                "point": "PD-1 blockade for MMR-deficient/MSI-high colorectal cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Hereditary Colorectal Cancer Screening",
+        "therapy_type": "Diagnosis",
+        "description": "Genetic screening and management for Lynch syndrome and early-onset colorectal cancer.",
+        "procedures": [
+          {
+            "title": "Genetic Screening",
+            "points": [
+              {
+                "point": "Universal Lynch syndrome screening"
+              },
+              {
+                "point": "Molecular testing for mismatch repair deficiency"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Colorectal & Rectal Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for colorectal or rectal cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Hereditary colorectal cancer screening and neoadjuvant immunotherapy research",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (from 30+ publications)",
+          "points": [
+            {
+              "point": "PD-1 blockade in neoadjuvant setting of DNA mismatch repair-deficient/microsatellite instability-high colorectal cancer — Oncoimmunology, 2020"
+            },
+            {
+              "point": "The heterogeneity between Lynch-associated and sporadic MMR deficiency in colorectal cancers — Journal of the National Cancer Institute, 2018"
+            },
+            {
+              "point": "Universal screening for Lynch syndrome in a large consecutive cohort of Chinese colorectal cancer patients — International Journal of Cancer, 2018"
+            },
+            {
+              "point": "Pulmonary recurrence predominates after combined modality therapy for rectal cancer — Annals of Surgery, 2012"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial & Screening Leadership",
+        "publications": {
+          "title": "Selected Trials",
+          "points": [
+            {
+              "point": "Leads clinical trials exploring improved treatment models for rectal cancer and Lynch syndrome"
+            },
+            {
+              "point": "Neoadjuvant oxaliplatin and capecitabine combined with bevacizumab plus radiotherapy for locally advanced rectal cancer: phase II study"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Ding has published more than 30 papers in journals including JNCI, Annals of Surgery and European Journal of Cancer. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Ding trained in clinical medicine and oncology at Sun Yat-sen University.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Clinical Medicine",
+        "institution": "Sun Yat-sen University, Guangzhou, China",
+        "years": "1997 – 2002",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "PhD, Oncology",
+        "institution": "Sun Yat-sen University, Guangzhou, China",
+        "years": "2005 – 2010",
+        "description": "Supervised by Prof. Zhizhong Pan.",
+        "sort_order": 2
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Ding directs colorectal surgery services at SYSUCC, leading clinical trials on rectal cancer and Lynch syndrome treatment models.",
+    "current_position": "Professor, Chief Surgeon & Director, Department of Colorectal Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Colorectal Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Director, Department of Colorectal Surgery"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Leader, Lynch Syndrome & Rectal Cancer Clinical Trials"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Written on behalf of the AME Colorectal Cancer Cooperative Group"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Research Focus: Hereditary CRC, Neoadjuvant Therapy & Tumour Immunology"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Pei-Rong Ding treats colorectal and rectal cancer, gastrointestinal stromal tumours, neuroendocrine tumours, and Lynch syndrome-associated cancers.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Ding consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Ding's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Pei-Rong Ding",
+    "items": [
+      {
+        "question": "Does Prof. Pei-Rong Ding accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to colorectal or rectal cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Ding's area of specialisation?",
+        "answer": "<p>Prof. Ding specialises in rectal and colorectal cancer surgery, with a research focus on hereditary colorectal cancer screening and optimisation of neoadjuvant therapy.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Does Prof. Ding treat Lynch syndrome-related colorectal cancer?",
+        "answer": "<p>Yes. Prof. Ding has led universal Lynch syndrome screening programmes in Chinese colorectal cancer patients and continues to lead clinical trials exploring improved treatment models for Lynch syndrome.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "What surgical techniques does Prof. Ding use for rectal cancer?",
+        "answer": "<p>Prof. Ding is skilled in minimally invasive and nerve-sparing surgical techniques designed to preserve sphincter, bladder and sexual function during rectal cancer surgery.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

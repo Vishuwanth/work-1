@@ -1,0 +1,392 @@
+{
+  "slug": "dr-hao-xian-yang",
+  "first_name": "Hao-Xian",
+  "last_name": "Yang",
+  "qualification": "Bachelor of Clinical Medicine; Fellowship Training, Memorial Sloan-Kettering Cancer Center (USA)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Hao-Xian Yang – Thoracic Surgery, Guangzhou | CancerFax",
+    "desc": "Prof. Hao-Xian Yang chairs Thoracic Surgery at SYSUCC, Guangzhou, specialising in minimally invasive robotic and VATS surgery for lung and esophageal cancer.",
+    "keys": "prof hao-xian yang, sysucc, thoracic surgery, lung cancer surgery, guangzhou, robotic thoracic surgery"
+  },
+  "hero": {
+    "designation": "Chief, Department of Thoracic Surgery, SYSUCC",
+    "badge_text": "Trained at Memorial Sloan-Kettering Cancer Center",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Lung Cancer Surgery"
+      },
+      {
+        "icon": "biotech",
+        "label": "Robotic Thoracic Surgery"
+      },
+      {
+        "icon": "favorite",
+        "label": "Esophageal & Mediastinal Tumours"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Thoracic Surgery",
+    "specialty_label": "Minimally Invasive & Robotic Thoracic Oncology Surgery",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Hao-Xian Yang is Chief of the Department of Thoracic Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. He is a surgical oncologist specialising in lung cancer, esophageal cancer, mediastinal tumours and chest wall tumours.",
+    "detailed_content": "Prof. Yang trained as a research fellow in the Thoracic Service at Memorial Sloan-Kettering Cancer Center (2014–2015) and received robotic thoracic surgery training at the University of Alabama at Birmingham. He is one of the pioneering thoracic surgeons in China for minimally invasive approaches, including robotic surgery, video-assisted thoracic surgery (VATS) and uniportal lung resection for non-small cell lung cancer. He has authored more than 40 peer-reviewed papers and edited a Chinese-language textbook on robotic minimally invasive surgery in thoracic oncology.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to thoracic cancer surgery at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Hao-Xian Yang?",
+    "intro_text": "Prof. Yang combines international surgical training with pioneering minimally invasive techniques for thoracic cancers in China.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Pioneer of Minimally Invasive Thoracic Surgery",
+        "description": "Extensive experience in robotic thoracic surgery, video-assisted thoracic surgery (VATS) and uniportal lung resection for non-small cell lung cancer."
+      },
+      {
+        "icon": "school",
+        "title": "International Surgical Training",
+        "description": "Research fellowship at Memorial Sloan-Kettering Cancer Center and robotic surgery training at the University of Alabama at Birmingham, USA."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Author & Editor",
+        "description": "Editor-in-Chief of a textbook on robotic minimally invasive surgery in thoracic oncology and author of 40+ peer-reviewed papers."
+      },
+      {
+        "icon": "groups",
+        "title": "Departmental Leadership",
+        "description": "Chief of the Department of Thoracic Surgery at SYSUCC, leading multiple randomised controlled trials in thoracic surgical oncology."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Minimally invasive surgical treatment of thoracic tumours",
+    "description_block": "Prof. Yang's practice covers surgical treatment across lung, esophageal, mediastinal and chest wall cancers, with a strong focus on minimally invasive technique.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Minimally Invasive Thoracic Surgery",
+        "description": "Advanced surgical approaches minimising trauma while maintaining oncologic outcomes.",
+        "specialties": [
+          {
+            "title": "Robotic & VATS Lung Surgery",
+            "points": [
+              {
+                "point": "Robotic thoracic surgery for lung cancer"
+              },
+              {
+                "point": "Video-assisted thoracic surgery (VATS) and uniportal lung resection for non-small cell lung cancer"
+              }
+            ]
+          },
+          {
+            "title": "Esophageal & Mediastinal Surgery",
+            "points": [
+              {
+                "point": "Surgical treatment of esophageal cancer"
+              },
+              {
+                "point": "Surgical management of mediastinal and chest wall tumours"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Thoracic Surgical Oncology Research",
+        "description": "Clinical trial leadership and translational research in lung cancer surgery.",
+        "specialties": [
+          {
+            "title": "Randomised Controlled Trials in Thoracic Surgery",
+            "points": [
+              {
+                "point": "Leading multiple RCTs in thoracic surgical oncology"
+              },
+              {
+                "point": "Translational research in lung cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Non-Small Cell Lung Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Esophageal Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Mediastinal Tumours"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Chest Wall Tumours"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Minimally invasive and robotic surgery for thoracic malignancies",
+    "description_block": "Prof. Yang performs a full range of minimally invasive thoracic surgical procedures for lung, esophageal and mediastinal cancers.",
+    "procedures_cards": [
+      {
+        "title": "Robotic & VATS Lung Resection",
+        "therapy_type": "Complex Disease",
+        "description": "Minimally invasive surgical resection for non-small cell lung cancer.",
+        "procedures": [
+          {
+            "title": "Lung Resection Techniques",
+            "points": [
+              {
+                "point": "Robotic thoracic lung resection"
+              },
+              {
+                "point": "Uniportal video-assisted thoracic surgery (VATS)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Esophageal & Mediastinal Tumour Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical resection of esophageal cancer and mediastinal tumours.",
+        "procedures": [
+          {
+            "title": "Surgical Resection",
+            "points": [
+              {
+                "point": "Esophageal cancer resection"
+              },
+              {
+                "point": "Mediastinal and chest wall tumour resection"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multidisciplinary Thoracic Oncology Planning",
+        "therapy_type": "Multidisciplinary",
+        "description": "Integrated surgical planning as part of multidisciplinary thoracic cancer care.",
+        "procedures": [
+          {
+            "title": "Multidisciplinary Case Planning",
+            "points": [
+              {
+                "point": "Multidisciplinary tumour board input for lung and esophageal cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Thoracic Malignancies",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review for complex thoracic surgical cases.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging and pathology for lung, esophageal and mediastinal tumours"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Minimally invasive thoracic surgical oncology research",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Publications & Textbooks",
+        "publications": {
+          "title": "Selected Works",
+          "points": [
+            {
+              "point": "Editor-in-Chief, \"Robotic Minimally Invasive Surgery in Thoracic Oncology\" (Chinese) — Guangdong Science and Technology Press, 2022"
+            },
+            {
+              "point": "Author of over 40 peer-reviewed SCI papers on thoracic surgical oncology"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial & Training Background",
+        "publications": {
+          "title": "Selected Trials & Training",
+          "points": [
+            {
+              "point": "Leads multiple randomised controlled trials in thoracic surgical oncology at SYSUCC"
+            },
+            {
+              "point": "Research Fellow, Thoracic Service, Department of Surgery, Memorial Sloan-Kettering Cancer Center (2014–2015)"
+            },
+            {
+              "point": "Robotic thoracic surgery training, University of Alabama at Birmingham (2015)"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Yang has authored over 40 peer-reviewed papers and edited a leading Chinese-language textbook on robotic thoracic surgery. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Yang trained in clinical medicine in China before completing international fellowship training in thoracic surgery.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Clinical Medicine",
+        "institution": "Sun Yat-sen University of Medical Sciences, Guangzhou, China",
+        "years": "1994 – 1999",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Visiting Scholarship",
+        "degree_title": "Visiting Scholar, Thoracic Surgery",
+        "institution": "Duke University Medical Center, USA",
+        "years": "2014",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Research Fellowship",
+        "degree_title": "Research Fellow, Thoracic Service",
+        "institution": "Memorial Sloan-Kettering Cancer Center, USA",
+        "years": "2014 – 2015",
+        "sort_order": 3
+      },
+      {
+        "phase_label": "Surgical Training",
+        "degree_title": "Robotic Thoracic Surgery Training",
+        "institution": "University of Alabama at Birmingham School of Medicine, USA",
+        "years": "2015",
+        "sort_order": 4
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Yang leads thoracic surgical services at SYSUCC and has driven adoption of minimally invasive techniques nationally.",
+    "current_position": "Chief, Department of Thoracic Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Thoracic Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Pioneer of Robotic & Minimally Invasive Thoracic Surgery in China"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Leads Multiple Randomised Controlled Trials in Thoracic Surgical Oncology"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Editor-in-Chief, Robotic Minimally Invasive Surgery in Thoracic Oncology"
+      },
+      {
+        "icon": "check_circle",
+        "label": "International Fellowship Training (USA)"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Hao-Xian Yang treats lung cancer, esophageal cancer, mediastinal tumours and chest wall tumours through minimally invasive surgical approaches.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Yang consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Yang's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Hao-Xian Yang",
+    "items": [
+      {
+        "question": "Does Prof. Hao-Xian Yang accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to thoracic cancer surgery at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Yang's area of specialisation?",
+        "answer": "<p>Prof. Yang specialises in the surgical treatment of thoracic tumours, including lung cancer, esophageal cancer, mediastinal tumours and chest wall tumours, with a focus on minimally invasive and robotic techniques.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Does Prof. Yang perform robotic lung cancer surgery?",
+        "answer": "<p>Yes. Prof. Yang has extensive experience in robotic thoracic surgery, video-assisted thoracic surgery (VATS) and uniportal lung resection for non-small cell lung cancer.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Is Prof. Yang involved in clinical trials for thoracic cancer surgery?",
+        "answer": "<p>Yes. Prof. Yang leads multiple randomised controlled trials in thoracic surgical oncology and conducts translational research in lung cancer at SYSUCC.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "slug": "dr-si-yu-wang",
+  "first_name": "Si-Yu",
+  "last_name": "Wang",
+  "qualification": "MD (Thoracic Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Si-Yu Wang – Thoracic Oncology, Guangzhou | CancerFax",
+    "desc": "Prof. Si-Yu Wang treats thoracic tumours at SYSUCC, Guangzhou, specialising in multidisciplinary and multimodality treatment of N2 non-small cell lung cancer.",
+    "keys": "prof si-yu wang, sysucc, thoracic oncology, non-small cell lung cancer, n2 nsclc, guangzhou"
+  },
+  "hero": {
+    "designation": "Professor, Department of Thoracic Oncology, SYSUCC",
+    "badge_text": "MD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Non-Small Cell Lung Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "N2 NSCLC Multimodality Treatment"
+      },
+      {
+        "icon": "favorite",
+        "label": "Neoadjuvant Immunotherapy Trials"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Thoracic Oncology",
+    "specialty_label": "Multidisciplinary Treatment of Thoracic Neoplasms",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Si-Yu Wang is a Professor in the Department of Thoracic Oncology at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. He specialises in the multidisciplinary treatment of thoracic neoplasms, with particular expertise in non-small cell lung cancer (NSCLC).",
+    "detailed_content": "Prof. Wang's clinical focus spans diagnosis, staging, surgical treatment and multimodality treatment of NSCLC, with particular expertise in the management of N2-stage disease, an area of ongoing debate in thoracic oncology regarding the role of surgery. He currently serves as Principal Investigator on multiple neoadjuvant immunotherapy trials for unresectable stage III NSCLC, including studies combining checkpoint inhibitors with chemotherapy prior to surgery.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to lung cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Si-Yu Wang?",
+    "intro_text": "Prof. Wang brings focused expertise in multidisciplinary and multimodality treatment of complex, locally advanced lung cancer.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Specialist in N2 NSCLC Management",
+        "description": "Focused clinical and research expertise in the multimodality treatment of N2-stage non-small cell lung cancer, a clinically complex and actively debated area of thoracic oncology."
+      },
+      {
+        "icon": "biotech",
+        "title": "Neoadjuvant Immunotherapy Trial Leadership",
+        "description": "Principal Investigator on active clinical trials evaluating neoadjuvant checkpoint inhibitor combinations before surgery in unresectable stage III NSCLC."
+      },
+      {
+        "icon": "groups",
+        "title": "Multidisciplinary Treatment Approach",
+        "description": "Practises within a multidisciplinary thoracic oncology team integrating surgery, systemic therapy and radiotherapy for complex lung cancer cases."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Research on Molecular & Hormonal Biomarkers",
+        "description": "Published research on estrogen receptor, HER-2 and EGFR mutation profiles in resected non-small cell lung cancer."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Multidisciplinary and multimodality treatment of non-small cell lung cancer",
+    "description_block": "Prof. Wang's practice focuses on complex, locally advanced lung cancer requiring combined surgical, systemic and radiotherapy approaches.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "N2 & Locally Advanced NSCLC Treatment",
+        "description": "Multimodality strategies for lymph-node-positive and locally advanced lung cancer.",
+        "specialties": [
+          {
+            "title": "Multimodality Treatment of N2 NSCLC",
+            "points": [
+              {
+                "point": "Combined surgical and systemic treatment strategies for N2-stage NSCLC"
+              },
+              {
+                "point": "Diagnosis, staging and treatment planning for locally advanced lung cancer"
+              }
+            ]
+          },
+          {
+            "title": "Neoadjuvant Treatment Trials",
+            "points": [
+              {
+                "point": "Neoadjuvant checkpoint inhibitor plus chemotherapy for unresectable stage III NSCLC"
+              },
+              {
+                "point": "Neoadjuvant umbrella trial for unresectable stage III NSCLC with rare mutations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Molecular & Biomarker Research in NSCLC",
+        "description": "Translational research supporting individualized treatment decisions.",
+        "specialties": [
+          {
+            "title": "Hormonal & Molecular Biomarker Research",
+            "points": [
+              {
+                "point": "Research on estrogen receptor, progesterone receptor and HER-2 expression in resected NSCLC"
+              },
+              {
+                "point": "EGFR mutation correlation studies in postoperative NSCLC"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Non-Small Cell Lung Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "N2-Stage & Locally Advanced NSCLC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Unresectable Stage III NSCLC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Neoadjuvant Immunotherapy Candidates"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Clinical & Research Focus Areas",
+    "subHeading": "Multimodality treatment of complex and locally advanced non-small cell lung cancer",
+    "description_block": "Prof. Wang's practice combines surgical treatment with systemic and neoadjuvant therapy for complex NSCLC cases.",
+    "procedures_cards": [
+      {
+        "title": "Multimodality Treatment for N2 NSCLC",
+        "therapy_type": "Multidisciplinary",
+        "description": "Combined surgical and systemic treatment planning for lymph-node-positive lung cancer.",
+        "procedures": [
+          {
+            "title": "Treatment Planning",
+            "points": [
+              {
+                "point": "Diagnosis and staging of N2-stage non-small cell lung cancer"
+              },
+              {
+                "point": "Multimodality treatment combining surgery, chemotherapy and radiotherapy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Neoadjuvant Immunotherapy Protocols",
+        "therapy_type": "Medical Oncology",
+        "description": "Checkpoint inhibitor and chemotherapy combinations prior to surgery in unresectable stage III NSCLC.",
+        "procedures": [
+          {
+            "title": "Neoadjuvant Regimens",
+            "points": [
+              {
+                "point": "Neoadjuvant sintilimab, bevacizumab, pemetrexed and carboplatin followed by surgery"
+              },
+              {
+                "point": "Neoadjuvant treatment protocols for NSCLC harbouring rare mutations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Surgical Treatment of NSCLC",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical resection as part of multimodality treatment for lung cancer.",
+        "procedures": [
+          {
+            "title": "Surgical Resection",
+            "points": [
+              {
+                "point": "Surgical resection following neoadjuvant treatment for locally advanced NSCLC"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Lung Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review for complex or locally advanced NSCLC cases.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of staging, imaging and treatment history for N2 or locally advanced NSCLC"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Multimodality treatment trials and biomarker research in non-small cell lung cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Expression of estrogen receptor-α, progesterone receptor, HER-2 and aromatase in postoperative NSCLC — Journal of Thoracic Oncology"
+            },
+            {
+              "point": "Research on the role of surgical resection in stage IIIA-N2 non-small cell lung cancer"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial Leadership",
+        "publications": {
+          "title": "Selected Trials",
+          "points": [
+            {
+              "point": "Principal Investigator — Neoadjuvant umbrella trial for unresectable stage III NSCLC with rare mutations (ClinicalTrials.gov NCT06563999)"
+            },
+            {
+              "point": "Principal Investigator — Neoadjuvant sintilimab, bevacizumab, pemetrexed and carboplatin followed by surgery in unresectable stage III NSCLC (ClinicalTrials.gov NCT03872661)"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Wang's research spans molecular biomarkers and neoadjuvant treatment trials in NSCLC. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Wang were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Wang practises within the Department of Thoracic Oncology at SYSUCC, focusing on multidisciplinary lung cancer care.",
+    "current_position": "Professor, Department of Thoracic Oncology",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Thoracic Oncology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Principal Investigator, Multiple Neoadjuvant Immunotherapy Trials in NSCLC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Specialist in Multimodality Treatment of N2 NSCLC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Member, Multidisciplinary Thoracic Oncology Team, SYSUCC"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Si-Yu Wang treats non-small cell lung cancer, with particular expertise in N2-stage and locally advanced disease requiring multimodality treatment.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Wang consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Wang's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Si-Yu Wang",
+    "items": [
+      {
+        "question": "Does Prof. Si-Yu Wang accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to lung cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Wang's area of specialisation?",
+        "answer": "<p>Prof. Wang specialises in the multidisciplinary and multimodality treatment of non-small cell lung cancer, particularly N2-stage and locally advanced disease.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Wang involved in clinical trials for lung cancer?",
+        "answer": "<p>Yes. Prof. Wang serves as Principal Investigator on multiple active neoadjuvant immunotherapy trials for unresectable stage III non-small cell lung cancer at SYSUCC.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "What does multimodality treatment for N2 lung cancer involve?",
+        "answer": "<p>Multimodality treatment typically combines chemotherapy, immunotherapy, radiotherapy and surgery, tailored to the individual patient; Prof. Wang's team evaluates each case to determine the appropriate combination and sequencing.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

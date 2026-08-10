@@ -1,0 +1,385 @@
+{
+  "slug": "dr-ji-hong-liu",
+  "first_name": "Ji-Hong",
+  "last_name": "Liu",
+  "qualification": "MD, MSc, PhD",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Ji-Hong Liu – Gynecologic Oncology, Guangzhou | CancerFax",
+    "desc": "Prof. Ji-Hong Liu directs Gynecologic Oncology at SYSUCC, Guangzhou, leading the practice-changing PHENIX trial on sentinel node biopsy in cervical cancer.",
+    "keys": "prof ji-hong liu, sysucc, gynecologic oncology, cervical cancer, ovarian cancer, guangzhou, sentinel lymph node biopsy"
+  },
+  "hero": {
+    "designation": "Professor & Director, Department of Gynecologic Oncology, SYSUCC",
+    "badge_text": "MD, MSc, PhD (University of Sydney)",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Cervical Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Ovarian Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Sentinel Lymph Node Biopsy"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Gynecologic Oncology",
+    "specialty_label": "Cervical & Ovarian Cancer — Surgery, Staging & Clinical Trials",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Ji-Hong Liu is Director of the Department of Gynecologic Oncology at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, and has practised gynecologic oncology at SYSUCC for over 30 years.",
+    "detailed_content": "Prof. Liu led the PHENIX trial, a practice-changing study on sentinel lymph node biopsy alone versus biopsy with lymphadenectomy in cervical cancer, published in the New England Journal of Medicine in 2025. She has also contributed to a genome-wide association study identifying cervical cancer susceptibility loci, published in Nature Genetics. Her research spans human papillomavirus infection, molecular phenotyping of ovarian carcinoma, chemoresistance, and lymph node metastasis in gynecologic malignancies. She previously served as Vice-President of SYSUCC and Director of its Clinical Study Center (2004–2008).",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to cervical or ovarian cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Ji-Hong Liu?",
+    "intro_text": "Prof. Liu combines three decades of gynecologic oncology practice with leadership of a landmark practice-changing clinical trial.",
+    "why_cards": [
+      {
+        "icon": "emoji_events",
+        "title": "Led a Practice-Changing NEJM Trial",
+        "description": "Principal Investigator of the PHENIX trial on sentinel lymph node biopsy alone versus biopsy with lymphadenectomy in cervical cancer, published in the New England Journal of Medicine (2025)."
+      },
+      {
+        "icon": "science",
+        "title": "Contributor to Landmark Genetics Research",
+        "description": "Co-first author of a genome-wide association study identifying two new cervical cancer susceptibility loci, published in Nature Genetics (2013)."
+      },
+      {
+        "icon": "school",
+        "title": "PhD from the University of Sydney",
+        "description": "Completed doctoral training in Australia, bringing international research perspective to gynecologic oncology practice at SYSUCC."
+      },
+      {
+        "icon": "groups",
+        "title": "30+ Years of Practice & Institutional Leadership",
+        "description": "Director of the Department of Gynecologic Oncology since 2006, and formerly Vice-President of SYSUCC and Director of its Clinical Study Center."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Cervical and ovarian cancer surgery, staging research and clinical trials",
+    "description_block": "Prof. Liu's practice integrates surgical treatment with landmark clinical trial leadership in cervical and ovarian cancer.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Cervical Cancer Surgery & Staging",
+        "description": "Surgical treatment and staging research for cervical cancer.",
+        "specialties": [
+          {
+            "title": "Sentinel Lymph Node Biopsy",
+            "points": [
+              {
+                "point": "Sentinel lymph node biopsy alone vs biopsy with lymphadenectomy (PHENIX trial, NEJM 2025)"
+              },
+              {
+                "point": "Research on lymph node metastasis patterns in cervical carcinoma"
+              }
+            ]
+          },
+          {
+            "title": "Locally Advanced Cervical Cancer Treatment",
+            "points": [
+              {
+                "point": "Neoadjuvant chemotherapy followed by radical surgery for stage IB2–IIB cervical cancer"
+              },
+              {
+                "point": "Genetic susceptibility research (Nature Genetics, 2013)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Ovarian Cancer & Chemoresistance Research",
+        "description": "Molecular phenotyping and chemoresistance research in ovarian cancer.",
+        "specialties": [
+          {
+            "title": "Ovarian Carcinoma Molecular Phenotyping",
+            "points": [
+              {
+                "point": "Molecular phenotypes and staging research for ovarian carcinoma"
+              },
+              {
+                "point": "Biomarker screening for intrinsic chemoresistance in serous epithelial ovarian cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Cervical Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Ovarian Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Endometrial Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Gynecologic Cancer Lymph Node Metastasis"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical treatment and staging research for gynecologic cancer",
+    "description_block": "Prof. Liu performs and researches surgical staging approaches for cervical and ovarian cancer, including sentinel lymph node techniques.",
+    "procedures_cards": [
+      {
+        "title": "Sentinel Lymph Node Biopsy",
+        "therapy_type": "Diagnosis",
+        "description": "Staging technique evaluated in the practice-changing PHENIX trial for early-stage cervical cancer.",
+        "procedures": [
+          {
+            "title": "Lymph Node Staging",
+            "points": [
+              {
+                "point": "Sentinel lymph node biopsy for early-stage cervical cancer"
+              },
+              {
+                "point": "Comparative staging: sentinel biopsy alone vs with lymphadenectomy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cervical Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Radical surgery for locally advanced cervical cancer.",
+        "procedures": [
+          {
+            "title": "Radical Surgical Treatment",
+            "points": [
+              {
+                "point": "Neoadjuvant chemotherapy followed by radical surgery for stage IB2-IIB cervical cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ovarian Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical treatment of ovarian cancer informed by molecular phenotyping research.",
+        "procedures": [
+          {
+            "title": "Surgical Treatment",
+            "points": [
+              {
+                "point": "Surgical treatment of epithelial ovarian cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Cervical & Ovarian Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, staging and treatment history for cervical or ovarian cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Landmark clinical trial and genetic susceptibility research in gynecologic cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Sentinel-lymph-node biopsy alone or with lymphadenectomy in cervical cancer — New England Journal of Medicine, 2025 (PHENIX trial)"
+            },
+            {
+              "point": "A genome-wide association study identifies two new cervical cancer susceptibility loci — Nature Genetics, 2013"
+            },
+            {
+              "point": "Sam68 expression and cytoplasmic localization correlate with lymph node metastasis in early-stage cervical cancer — Annals of Oncology, 2012"
+            },
+            {
+              "point": "Screening and identification of biomarkers related to intrinsic chemoresistance in serous ovarian cancer — PLoS One, 2012"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial Leadership",
+        "publications": {
+          "title": "Selected Trials",
+          "points": [
+            {
+              "point": "Principal Investigator — PHENIX/CSEM 010: Sentinel Lymph Node Biopsy vs Pelvic Lymphadenectomy in Early-Stage Cervical Cancer (ClinicalTrials.gov NCT02642471)"
+            },
+            {
+              "point": "Principal Investigator — Lymphadenectomy in Early Ovarian Cancer (ClinicalTrials.gov NCT04710797)"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Liu's PHENIX trial has helped establish sentinel lymph node biopsy as a less invasive staging option for early-stage cervical cancer. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Liu trained in medicine in China before completing her PhD in Australia.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Medicine (MD)",
+        "institution": "Sun Yat-sen University of Medical Sciences, Guangzhou, China",
+        "years": "1984",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "Master of Science (MSc)",
+        "institution": "Sun Yat-sen University of Medical Sciences, Guangzhou, China",
+        "years": "1993",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "PhD",
+        "institution": "The University of Sydney, Australia",
+        "years": "2004",
+        "sort_order": 3
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Liu has practised gynecologic oncology at SYSUCC for over 30 years, including senior institutional leadership roles.",
+    "current_position": "Professor & Director, Department of Gynecologic Oncology",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Gynecologic Oncology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Director, Department of Gynecologic Oncology (since 2006)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Former Vice-President, SYSUCC & Director, Clinical Study Center (2004–2008)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Executive Board Member, Chinese Society of Gynecological Oncology"
+      },
+      {
+        "icon": "check_circle",
+        "label": "President, Gynecologic Oncology Committee, Guangdong Anti-Cancer Association"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Ji-Hong Liu treats cervical cancer, ovarian cancer, and endometrial cancer, with particular expertise in lymph node staging and metastasis.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Liu consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Liu's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Ji-Hong Liu",
+    "items": [
+      {
+        "question": "Does Prof. Ji-Hong Liu accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to cervical or ovarian cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Liu's area of specialisation?",
+        "answer": "<p>Prof. Liu specialises in the surgical treatment of cervical and ovarian cancer, with a particular research focus on lymph node staging and metastasis.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "What is the PHENIX trial and why does it matter?",
+        "answer": "<p>The PHENIX trial, led by Prof. Liu and published in the New England Journal of Medicine (2025), compared sentinel lymph node biopsy alone against biopsy with full lymphadenectomy in early-stage cervical cancer, informing less invasive staging approaches.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Is Prof. Liu involved in ongoing clinical trials?",
+        "answer": "<p>Yes. Prof. Liu is Principal Investigator on active trials evaluating lymph node staging approaches in both cervical and early ovarian cancer.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

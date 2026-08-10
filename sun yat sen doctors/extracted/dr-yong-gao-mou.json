@@ -1,0 +1,396 @@
+{
+  "slug": "dr-yong-gao-mou",
+  "first_name": "Yong-Gao",
+  "last_name": "Mou",
+  "qualification": "MB, MM, MD (Neurosurgery)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Yong-Gao Mou – Glioma Neurosurgery, Guangzhou | CancerFax",
+    "desc": "Prof. Yong-Gao Mou directs Neurosurgery at SYSUCC, Guangzhou, Chief Expert in Glioma with 30+ years' experience and MD Anderson research training.",
+    "keys": "prof yong-gao mou, sysucc, glioma neurosurgery, brain metastases, guangzhou, brain tumor surgery"
+  },
+  "hero": {
+    "designation": "Chief Surgeon & Director, Department of Neurosurgery, SYSUCC",
+    "badge_text": "Chief Expert in Glioma",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Glioma"
+      },
+      {
+        "icon": "biotech",
+        "label": "Brain Metastases"
+      },
+      {
+        "icon": "favorite",
+        "label": "Microsurgery"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Neurosurgery",
+    "specialty_label": "Microsurgery & Comprehensive Treatment of Glioma and Brain Metastases",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Yong-Gao Mou is Chief Surgeon and Director of the Department of Neurosurgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, with over 30 years of clinical experience and recognition as a Clinical Medical Scientist and Chief Expert in Glioma.",
+    "detailed_content": "Prof. Mou has trained more than 30 master's and doctoral students, led over 10 research projects including National Natural Science Foundation of China grants, and published more than 100 academic papers in journals including the Journal of Neurosurgery and Neuro-Oncology. He completed postdoctoral fellowship training at Kaohsiung Medical University and a visiting scholarship at MD Anderson Cancer Center, USA. His research spans glioma molecular subtyping using AI-integrated models, brain metastasis treatment outcomes, and risk factor studies using Mendelian randomization. He received the First Prize of the Guangdong Provincial Medical Science and Technology Award and the National Famous Doctor – Outstanding Contribution Award from People's Daily.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to glioma or brain metastases at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Yong-Gao Mou?",
+    "intro_text": "Prof. Mou combines more than three decades of neurosurgical experience with cutting-edge AI-assisted glioma diagnostics and extensive national recognition.",
+    "why_cards": [
+      {
+        "icon": "emoji_events",
+        "title": "National Famous Doctor Award Recipient",
+        "description": "Received the 6th National Famous Doctor – Outstanding Contribution Award from People's Daily, and the First Prize of the Guangdong Provincial Medical Science and Technology Award."
+      },
+      {
+        "icon": "science",
+        "title": "AI-Integrated Glioma Diagnostics",
+        "description": "Developed a multimodal model integrating convolutional neural networks, radiomics and semantics to predict glioblastoma molecular subtypes and prognosis, published in the Journal of Neurosurgery."
+      },
+      {
+        "icon": "biotech",
+        "title": "Brain Metastasis Treatment Research",
+        "description": "Published research on survival benefits of radiotherapy and surgery in lung cancer brain metastases with poor prognosis factors."
+      },
+      {
+        "icon": "school",
+        "title": "International Research Training",
+        "description": "Completed postdoctoral fellowship at Kaohsiung Medical University and a visiting scholarship at MD Anderson Cancer Center, USA."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Microsurgery and comprehensive treatment of glioma and brain metastases",
+    "description_block": "Prof. Mou's practice integrates surgery, chemotherapy, targeted therapy and immunotherapy for central nervous system tumours.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Glioma Diagnosis & Comprehensive Treatment",
+        "description": "Microsurgery combined with systemic therapy for glioma.",
+        "specialties": [
+          {
+            "title": "Glioma Microsurgery",
+            "points": [
+              {
+                "point": "Diagnosis and microsurgery of central nervous system tumours"
+              },
+              {
+                "point": "Comprehensive glioma treatment combining surgery, chemotherapy, targeted therapy and immunotherapy"
+              }
+            ]
+          },
+          {
+            "title": "AI-Assisted Molecular Diagnostics",
+            "points": [
+              {
+                "point": "Multimodal AI model predicting glioblastoma molecular subtypes and prognosis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Brain Metastasis Treatment",
+        "description": "Translational research and clinical treatment of brain metastases.",
+        "specialties": [
+          {
+            "title": "Brain Metastasis Surgery & Radiotherapy",
+            "points": [
+              {
+                "point": "Neurosurgical resection for lung cancer brain metastases, including in patients with poor performance status"
+              },
+              {
+                "point": "Combined radiotherapy and surgery for brain metastases with poor prognosis factors"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Glioma & Glioblastoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Lung Cancer Brain Metastases"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Central Nervous System Tumours"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Recurrent & Complex Brain Tumours"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Microsurgery and comprehensive treatment for glioma and brain metastases",
+    "description_block": "Prof. Mou performs microsurgical resection and directs comprehensive multimodal treatment for glioma and brain metastases.",
+    "procedures_cards": [
+      {
+        "title": "Glioma Microsurgery",
+        "therapy_type": "Complex Disease",
+        "description": "Microsurgical resection for central nervous system tumours.",
+        "procedures": [
+          {
+            "title": "Surgical Resection",
+            "points": [
+              {
+                "point": "Microsurgical resection of glioma and other CNS tumours"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Postoperative Temozolomide Regimens",
+        "therapy_type": "Medical Oncology",
+        "description": "Early and standard temozolomide-based chemotherapy for glioblastoma.",
+        "procedures": [
+          {
+            "title": "Chemotherapy Regimens",
+            "points": [
+              {
+                "point": "Postoperative early temozolomide plus STUPP regimen for newly diagnosed glioblastoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Brain Metastasis Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Neurosurgical resection for brain metastases from lung and other cancers.",
+        "procedures": [
+          {
+            "title": "Metastasis Surgical Treatment",
+            "points": [
+              {
+                "point": "Neurosurgical resection for lung cancer brain metastases"
+              },
+              {
+                "point": "Combined surgery and radiotherapy planning for poor-prognosis brain metastases"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Brain Tumours & Metastases",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, molecular profiling and treatment history for glioma or brain metastases"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "AI-assisted glioma diagnostics and brain metastasis outcomes research",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (from 100+ publications)",
+          "points": [
+            {
+              "point": "Predicting glioblastoma molecular subtypes and prognosis with a multimodal model integrating CNN, radiomics and semantics — Journal of Neurosurgery, 2022"
+            },
+            {
+              "point": "Adjuvant temozolomide chemotherapy with or without interferon alfa in high-grade gliomas: randomised clinical trial — JAMA Network Open, 2023"
+            },
+            {
+              "point": "Survival benefits of radiotherapy and surgery in lung cancer brain metastases with poor prognosis factors — Current Oncology, 2023"
+            },
+            {
+              "point": "Poor Karnofsky performance status is not a contraindication for neurosurgical resection in lung cancer brain metastases — Journal of Neuro-Oncology, 2023"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Additional Research Contributions",
+        "publications": {
+          "title": "Selected Studies",
+          "points": [
+            {
+              "point": "Association between viral infections and glioma risk: Mendelian randomization analysis — BMC Medicine, 2023"
+            },
+            {
+              "point": "Integrated multi-omic analysis of paired primary lung cancer and brain metastasis reveals metabolic vulnerability — Genome Medicine, 2024"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Mou has published more than 100 academic papers in journals including Neuro-Oncology and the Journal of Neurosurgery. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Mou trained in clinical medicine and neurosurgery in China, with international postdoctoral and visiting scholar training.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Clinical Medicine",
+        "institution": "Binzhou Medical College, China",
+        "years": "1985 – 1990",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "Master of Neurosurgery",
+        "institution": "Sun Yat-sen University, Guangzhou, China",
+        "years": "1997 – 2000",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "Doctor of Neurosurgery",
+        "institution": "Sun Yat-sen University, Guangzhou, China",
+        "years": "2002 – 2005",
+        "sort_order": 3
+      },
+      {
+        "phase_label": "Postdoctoral Fellowship",
+        "degree_title": "Postdoctoral Fellow",
+        "institution": "Kaohsiung Medical University, Taiwan",
+        "years": "2007",
+        "sort_order": 4
+      },
+      {
+        "phase_label": "Visiting Scholarship",
+        "degree_title": "Visiting Scholar",
+        "institution": "MD Anderson Cancer Center, USA",
+        "years": "2009",
+        "sort_order": 5
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Mou has practised neurosurgery at SYSUCC for over 30 years, holding senior national leadership roles in neuro-oncology.",
+    "current_position": "Chief Surgeon & Director, Department of Neurosurgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Neurosurgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Chairman, Neuro-Oncology Expert Committee, CSCO"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Chairman, Brain Glioma Professional Committee, Chinese Anti-Cancer Association"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Deputy Leader, Chinese Brain Metastasis Tumor Collaborative Group"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Senior Expert in Health Care, Guangdong Province"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Yong-Gao Mou treats glioma, glioblastoma, and brain metastases from lung and other cancers.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Mou consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Mou's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Yong-Gao Mou",
+    "items": [
+      {
+        "question": "Does Prof. Yong-Gao Mou accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to glioma or brain metastases at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Mou's area of specialisation?",
+        "answer": "<p>Prof. Mou specialises in microsurgery and comprehensive treatment of glioma and brain metastases, combining surgery, chemotherapy, targeted therapy and immunotherapy.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Does Prof. Mou treat brain metastases from lung cancer?",
+        "answer": "<p>Yes. Prof. Mou has published research on neurosurgical resection outcomes for lung cancer brain metastases, including in patients with poor performance status who might otherwise be considered ineligible for surgery.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Does Prof. Mou use AI-based tools in glioma diagnosis?",
+        "answer": "<p>Yes. Prof. Mou co-developed a multimodal AI model integrating imaging, radiomics and clinical data to predict glioblastoma molecular subtypes and prognosis, published in the Journal of Neurosurgery.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

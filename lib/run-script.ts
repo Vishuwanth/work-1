@@ -1,4 +1,6 @@
-import { execFile } from "node:child_process";
+import { execFile, spawn } from "node:child_process";
+import fs from "node:fs";
+import path from "node:path";
 import { promisify } from "node:util";
 
 const execFileP = promisify(execFile);
@@ -54,5 +56,34 @@ export async function runJsonScript(
       if (!parsed.ok) return parsed;
     }
     return { ok: false, error: err.stderr || err.message || "script failed" };
+  }
+}
+
+/**
+ * Spawns `node <scriptPath> ...args` DETACHED and returns its pid immediately.
+ *
+ * Used for the Run/Write batch, which paces writes 5–10 minutes apart and so
+ * runs for hours — far longer than any HTTP request should stay open. The
+ * child outlives this request, and the caller closes the browser tab if it
+ * likes; progress is reported through lib/resources/batch-store.js.
+ *
+ * `detached: true` puts the child in its own process group, which is what lets
+ * the Stop button kill the runner AND its in-flight `claude` child together.
+ * stdout+stderr go to `logPath` — with the process detached there is nobody
+ * left to read a pipe, and an unread pipe fills up and blocks the writer.
+ */
+export function spawnDetachedScript(scriptPath: string, args: string[], logPath: string): number {
+  fs.mkdirSync(path.dirname(logPath), { recursive: true });
+  const log = fs.openSync(logPath, "a");
+  try {
+    const child = spawn("node", [scriptPath, ...args], {
+      cwd: process.cwd(),
+      detached: true,
+      stdio: ["ignore", log, log],
+    });
+    child.unref();
+    return child.pid ?? 0;
+  } finally {
+    fs.closeSync(log);
   }
 }

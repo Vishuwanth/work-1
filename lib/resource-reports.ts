@@ -9,10 +9,17 @@ function csvEscape(value: unknown): string {
   return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
 }
 
-/** Serialize rows back to CSV text (used for the Export CSV button — client-side, no server round trip). */
+/** Serialize keyed rows to CSV text (client-side, no server round trip). */
 export function toCsv<T>(header: (keyof T)[], rows: T[]): string {
   const lines = [header.join(",")];
   for (const row of rows) lines.push(header.map((h) => csvEscape(row[h])).join(","));
+  return lines.join("\n") + "\n";
+}
+
+/** Same, for positional rows — what toSharedRows produces. */
+export function toCsvFromCells(header: readonly string[], rows: (string | number)[][]): string {
+  const lines = [header.map(csvEscape).join(",")];
+  for (const row of rows) lines.push(row.map(csvEscape).join(","));
   return lines.join("\n") + "\n";
 }
 
@@ -52,6 +59,8 @@ export interface ResourceCheck {
   status: string; // "ok" | "needs-manual-review"
   reason: string;
   write_status: string; // "dry-run" | "applied" | "skipped:..." | "failed:..."
+  /** Did the duplicate audit actually run? Absent on rows written before it was tracked. */
+  duplicateChecked?: boolean;
   hasDuplicate: boolean;
   duplicateType: string;
   duplicateSection: string;
@@ -64,83 +73,134 @@ export interface ResourceTableRow {
   slug: string;
   title: string;
   link: string;
+  /** What to SHOW — the proposal once classified, otherwise what's live. */
   category: string;
   tags: string;
+  /** What's actually live right now, for the diff and the link. */
+  oldCategory: string;
+  oldTags: string;
+  /** True when the proposal differs from what's live — i.e. there's something to review. */
+  changed: boolean;
+  applied: boolean;
   checked: boolean;
   status: string; // "" | "ok" | "needs-manual-review"
   writeStatus: string; // "" | "dry-run" | "applied" | "skipped:..." | "failed:..."
+  /** False when the audit never ran — distinct from "ran and found nothing". */
+  duplicateChecked: boolean;
   hasDuplicate: boolean;
   duplicateType: string;
   duplicateSection: string;
   duplicateContent: string;
   reason: string;
+  checkedAt: string;
 }
 
 /**
  * Merges the cheap list with whatever's been persisted to
  * data/resource-checks.json (by slug). Unchecked rows show their existing
- * live category/tags; checked rows show the classifier's proposed (or
- * applied) values instead.
+ * live category/tags; classified rows show the proposal, plus the live values
+ * alongside so the table can render the change rather than just the outcome.
  */
 export function mergeResourceRows(list: ResourceListItem[], checks: Record<string, ResourceCheck>): ResourceTableRow[] {
   return list.map((item) => {
     const c = checks[item.slug];
-    // Category is part of the live URL path, so the link must be rebuilt from
-    // whichever category is CURRENTLY shown (post-write if checked), not the
-    // stale one the list fetch saw before any classification ran.
-    const category = c ? (c.status === "ok" ? c.new_category : c.old_category) : item.category;
-    const tags = c ? tagList(c.status === "ok" ? c.new_tags : c.old_tags).join("; ") : tagList(item.tags).join("; ");
+    const proposed = Boolean(c && c.status === "ok");
+    const applied = c?.write_status === "applied";
+
+    const oldCategory = c ? c.old_category : item.category;
+    const oldTags = tagList(c ? c.old_tags : item.tags).join("; ");
+    const category = proposed ? c!.new_category : oldCategory;
+    const tags = proposed ? tagList(c!.new_tags).join("; ") : oldTags;
+
+    // The category is part of the live URL path, so the link must use the
+    // category that is ACTUALLY live. Using the proposal would 404 for every
+    // row that has been classified but not yet written.
+    const liveCategory = applied ? c!.new_category : oldCategory;
+
     return {
       slug: item.slug,
       title: item.title,
-      link: resourceLink(category, item.slug),
+      link: resourceLink(liveCategory, item.slug),
       category,
       tags,
+      oldCategory,
+      oldTags,
+      changed: proposed && (category !== oldCategory || tags !== oldTags),
+      applied,
       checked: Boolean(c),
       status: c?.status ?? "",
       writeStatus: c?.write_status ?? "",
+      duplicateChecked: Boolean(c?.duplicateChecked),
       hasDuplicate: c?.hasDuplicate ?? false,
       duplicateType: c?.duplicateType ?? "",
       duplicateSection: c?.duplicateSection ?? "",
       duplicateContent: c?.duplicateContent ?? "",
       reason: c?.reason ?? "",
+      checkedAt: c?.checkedAt ?? "",
     };
   });
 }
 
-export interface ResourceExportRow {
-  title: string;
-  link: string;
-  category: string;
-  tags: string;
-  has_duplicate: string; // "Yes" | "No"
-  duplicate_type: string;
-  duplicate_section: string;
-  duplicate_content: string;
+// ─── Shared shape — the columns that leave this machine ──────────────────────
+//
+// The committed workbook keeps the full record (see resource-workbook.ts). What
+// gets handed to other people — the downloaded .xlsx and the CSV — is this
+// narrower set: enough to review a proposed re-tagging, without the operational
+// detail (write status, failure reasons, timestamps) that only matters here.
+//
+// Old and new stay as separate columns. A single `category` column can't be
+// reviewed in a spreadsheet — you can't tell a proposal from what's live.
+
+export const SHARED_HEADER = [
+  "S.No",
+  "Title of Resource",
+  "Slug",
+  "Category",
+  "Old Category",
+  "New Category",
+  "Old Tags",
+  "New Tags",
+  "Duplicate",
+] as const;
+
+/**
+ * "Yes" / "No" / "" — the blank is the point. A duplicate audit only runs on a
+ * Run batch, so a row that has only ever been written was never looked at.
+ * Reporting that as "No" would claim a check that never happened.
+ */
+export function duplicateLabel(row: ResourceTableRow): string {
+  if (!row.duplicateChecked) return "";
+  return row.hasDuplicate ? "Yes" : "No";
 }
 
-export const RESOURCE_EXPORT_HEADER: (keyof ResourceExportRow)[] = [
-  "title",
-  "link",
-  "category",
-  "tags",
-  "has_duplicate",
-  "duplicate_type",
-  "duplicate_section",
-  "duplicate_content",
-];
+export type SharedCell = string | number;
 
-export function toResourceExportRows(rows: ResourceTableRow[]): ResourceExportRow[] {
-  return rows.map((r) => ({
-    title: r.title,
-    link: r.link,
-    category: r.category,
-    tags: r.tags,
-    has_duplicate: r.hasDuplicate ? "Yes" : "No",
-    duplicate_type: r.duplicateType,
-    duplicate_section: r.duplicateSection,
-    duplicate_content: r.duplicateContent,
-  }));
+/**
+ * One array per row, in SHARED_HEADER order, sorted by title and numbered from
+ * 1. Both the workbook download and the CSV render from this, so they cannot
+ * disagree.
+ *
+ * `S.No` is renumbered per file rather than carried over: it is a visual
+ * counter, not an identity — slug is. The CSV holds only the filtered rows, so
+ * a carried-over number would arrive full of gaps.
+ */
+export function toSharedRows(rows: ResourceTableRow[]): SharedCell[][] {
+  return [...rows]
+    .sort((a, b) => a.title.localeCompare(b.title))
+    .map((r, i) => [
+      i + 1,
+      r.title,
+      r.slug,
+      r.category,
+      r.checked ? r.oldCategory : "",
+      // Filled as soon as the classifier proposes something, written or not —
+      // this is a review document. The committed workbook is where you look to
+      // see whether it actually reached production.
+      r.checked && r.status === "ok" ? r.category : "",
+      r.checked ? r.oldTags : "",
+      r.checked && r.status === "ok" ? r.tags : "",
+      duplicateLabel(r),
+    ]);
 }
 
 // ─── Taxonomy (the live resource-category / resource-tag collections) ─────────

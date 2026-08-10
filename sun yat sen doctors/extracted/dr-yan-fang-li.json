@@ -1,0 +1,268 @@
+{
+  "slug": "dr-yan-fang-li",
+  "first_name": "Yan-Fang",
+  "last_name": "Li",
+  "qualification": "MD (Gynecologic Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Yan-Fang Li – Gynecologic Surgery | CancerFax",
+    "desc": "Prof. Yan-Fang Li is a gynecologic surgical oncologist at SYSUCC, Guangzhou, treating cervical, ovarian and endometrial cancer through surgical care.",
+    "keys": "prof yan-fang li, sysucc, gynecologic oncology, gynecologic surgery, guangzhou, ovarian cancer surgery"
+  },
+  "hero": {
+    "designation": "Professor, Department of Gynecologic Oncology, SYSUCC",
+    "badge_text": "MD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Gynecologic Surgical Oncology"
+      },
+      {
+        "icon": "biotech",
+        "label": "Ovarian & Cervical Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Endometrial Cancer"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Gynecologic Oncology",
+    "specialty_label": "Gynecologic Surgical Oncology",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Yan-Fang Li is a Professor in the Department of Gynecologic Oncology at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, specialising in gynecologic surgical oncology.",
+    "detailed_content": "Prof. Li practises within SYSUCC's Department of Gynecologic Oncology, one of China's leading centres for the surgical and comprehensive treatment of gynecologic malignancies, including cervical, ovarian and endometrial cancer.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gynecologic cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Yan-Fang Li?",
+    "intro_text": "Prof. Li brings surgical expertise in gynecologic oncology within one of China's leading dedicated gynecologic cancer departments.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Gynecologic Surgical Oncology Focus",
+        "description": "Specialises in the surgical treatment of gynecologic malignancies, including cervical, ovarian and endometrial cancer."
+      },
+      {
+        "icon": "groups",
+        "title": "Part of a Leading Gynecologic Oncology Department",
+        "description": "Works within SYSUCC's Department of Gynecologic Oncology, recognised for landmark national and international clinical trials in cervical and ovarian cancer."
+      },
+      {
+        "icon": "verified",
+        "title": "Multidisciplinary Care Coordination",
+        "description": "Coordinates with medical oncology and radiation oncology colleagues to plan comprehensive treatment for gynecologic cancer patients."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Gynecologic surgical oncology",
+    "description_block": "Prof. Li's practice centres on surgical treatment of gynecologic cancers as part of SYSUCC's multidisciplinary gynecologic oncology team.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Gynecologic Cancer Surgery",
+        "description": "Surgical treatment for cervical, ovarian and endometrial malignancies.",
+        "specialties": [
+          {
+            "title": "Gynecologic Surgical Treatment",
+            "points": [
+              {
+                "point": "Surgical treatment of cervical cancer"
+              },
+              {
+                "point": "Surgical treatment of ovarian and endometrial cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Cervical Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Ovarian Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Endometrial Cancer"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical treatment for gynecologic malignancies",
+    "description_block": "Prof. Li performs surgical procedures for gynecologic cancers within a multidisciplinary care model.",
+    "procedures_cards": [
+      {
+        "title": "Gynecologic Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical treatment for cervical, ovarian and endometrial cancer.",
+        "procedures": [
+          {
+            "title": "Surgical Treatment",
+            "points": [
+              {
+                "point": "Surgical resection for gynecologic malignancies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multidisciplinary Case Planning",
+        "therapy_type": "Multidisciplinary",
+        "description": "Coordinated treatment planning with medical and radiation oncology.",
+        "procedures": [
+          {
+            "title": "Multidisciplinary Planning",
+            "points": [
+              {
+                "point": "Multidisciplinary treatment planning for gynecologic cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Gynecologic Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, staging and treatment history for gynecologic cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Gynecologic oncology research at SYSUCC",
+    "is_pending": true,
+    "pending_notice": "Publication list pending confirmation with SYSUCC's International Medical Department.",
+    "cards": [
+      {
+        "title": "Departmental Research Contributions",
+        "publications": {
+          "title": "Research Areas",
+          "points": [
+            {
+              "point": "Contributes to SYSUCC's Department of Gynecologic Oncology clinical research programme"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "A fuller publication list for Prof. Li is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Li were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Li practises within SYSUCC's Department of Gynecologic Oncology.",
+    "current_position": "Professor, Department of Gynecologic Oncology",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Gynecologic Oncology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Gynecologic Surgical Oncology Specialist"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Collaborator, Gynecologic Oncology Multidisciplinary Team"
+      }
+    ],
+    "is_pending": true,
+    "pending_notice": "Detailed career history pending confirmation with SYSUCC's International Medical Department."
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Yan-Fang Li treats cervical cancer, ovarian cancer and endometrial cancer.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Li consults in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Li's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Yan-Fang Li",
+    "items": [
+      {
+        "question": "Does Prof. Yan-Fang Li accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gynecologic cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Li's area of specialisation?",
+        "answer": "<p>Prof. Li specialises in gynecologic surgical oncology, treating cervical, ovarian and endometrial cancer.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "What department does Prof. Li work in at SYSUCC?",
+        "answer": "<p>Prof. Li is a Professor in SYSUCC's Department of Gynecologic Oncology, which treats cervical, ovarian, endometrial and other gynecologic malignancies.</p>",
+        "sort_order": 4
+      }
+    ]
+  }
+}

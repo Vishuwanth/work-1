@@ -1,0 +1,401 @@
+{
+  "slug": "dr-zhuo-wei-liu",
+  "first_name": "Zhuo-Wei",
+  "last_name": "Liu",
+  "qualification": "MB, MM, PhD (Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Zhuo-Wei Liu – Robotic Urologic Surgery | CancerFax",
+    "desc": "Prof. Zhuo-Wei Liu is Vice-President of SYSUCC, Guangzhou, a pioneer of robotic and minimally invasive surgery for bladder and testicular cancer.",
+    "keys": "prof zhuo-wei liu, sysucc, robotic urologic surgery, bladder cancer, testicular cancer, guangzhou, minimally invasive surgery"
+  },
+  "hero": {
+    "designation": "Vice-President & Professor, Sun Yat-sen University Cancer Center",
+    "badge_text": "MB, MM, PhD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Bladder Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Testicular Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Robotic & Laparoscopic Surgery"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Urology",
+    "specialty_label": "Robotic & Minimally Invasive Surgery for Urologic Cancer",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Zhuo-Wei Liu is Vice-President and Professor at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. As an oncological urologist, he specialises in the surgical treatment of urinary tumours, particularly robotic and minimally invasive laparoscopic surgery.",
+    "detailed_content": "Prof. Liu was one of the first surgeons in China to perform robot-assisted/laparoscopic retroperitoneal lymph node dissection for testicular cancer and ultra-expanded lymph node dissection for bladder cancer. He received the Outstanding Contribution Award for the highest volume of 3-4 level difficulty surgeries as chief professor at SYSUCC. He has led more than 10 research projects funded by the National Natural Science Foundation of China and the Guangdong Natural Science Foundation, published more than 40 first/corresponding-author articles, contributed to six academic works, and served as deputy chief editor of the journal Bladder Cancer. His recent research has been published in Cancer Cell, Nature Chemical Biology and Cell Reports Medicine.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to bladder or testicular cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Zhuo-Wei Liu?",
+    "intro_text": "Prof. Liu combines institutional leadership with pioneering minimally invasive surgical technique and internationally published research.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Pioneer of Robotic Urologic Surgery in China",
+        "description": "One of the first surgeons in China to perform robot-assisted/laparoscopic retroperitoneal lymph node dissection for testicular cancer and ultra-expanded lymph node dissection for bladder cancer."
+      },
+      {
+        "icon": "emoji_events",
+        "title": "Outstanding Contribution Award for Surgical Volume",
+        "description": "Recognised with the Outstanding Contribution Award for the highest volume of 3-4 level difficulty surgeries at SYSUCC."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Research Published in Cancer Cell & Nature Chemical Biology",
+        "description": "Recent research on bladder cancer biology published in leading journals including Cancer Cell (2022) and Nature Chemical Biology (2024)."
+      },
+      {
+        "icon": "groups",
+        "title": "Institutional & Editorial Leadership",
+        "description": "Serves as Vice-President of SYSUCC and Deputy Chief Editor of the journal Bladder Cancer."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Robotic and minimally invasive surgery for bladder and testicular cancer",
+    "description_block": "Prof. Liu's practice centres on minimally invasive surgical oncology, including comprehensive multidisciplinary management of bladder and testicular cancer.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Bladder Cancer Surgery",
+        "description": "Minimally invasive and comprehensive surgical treatment of bladder cancer.",
+        "specialties": [
+          {
+            "title": "Ultra-Expanded Lymph Node Dissection",
+            "points": [
+              {
+                "point": "Ultra-expanded lymph node dissection for bladder cancer"
+              },
+              {
+                "point": "Extraperitonealizing ileal conduit to reduce parastomal hernia risk"
+              }
+            ]
+          },
+          {
+            "title": "Multidisciplinary Bladder Cancer Management",
+            "points": [
+              {
+                "point": "Comprehensive treatment combining surgery with systemic therapy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Testicular Cancer & Pediatric Tumour Surgery",
+        "description": "Robotic and laparoscopic surgery for testicular cancer and pediatric urologic tumours.",
+        "specialties": [
+          {
+            "title": "Robot-Assisted Retroperitoneal Lymph Node Dissection",
+            "points": [
+              {
+                "point": "Robot-assisted/laparoscopic retroperitoneal lymph node dissection for testicular cancer"
+              }
+            ]
+          },
+          {
+            "title": "Pediatric Urologic Tumour Surgery",
+            "points": [
+              {
+                "point": "Surgical treatment of children's urologic tumours"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Bladder Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Testicular Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Pediatric Urologic Tumours"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Robotic & Minimally Invasive Urologic Surgery"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Robotic and minimally invasive surgery for bladder and testicular cancer",
+    "description_block": "Prof. Liu performs advanced robotic and laparoscopic surgical procedures for genitourinary cancer.",
+    "procedures_cards": [
+      {
+        "title": "Robotic & Laparoscopic Retroperitoneal Lymph Node Dissection",
+        "therapy_type": "Complex Disease",
+        "description": "Minimally invasive lymph node dissection for testicular cancer.",
+        "procedures": [
+          {
+            "title": "Lymph Node Dissection Techniques",
+            "points": [
+              {
+                "point": "Robot-assisted retroperitoneal lymph node dissection"
+              },
+              {
+                "point": "Laparoscopic retroperitoneal lymph node dissection"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bladder Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Comprehensive surgical treatment for bladder cancer.",
+        "procedures": [
+          {
+            "title": "Bladder Cancer Surgical Techniques",
+            "points": [
+              {
+                "point": "Ultra-expanded lymph node dissection"
+              },
+              {
+                "point": "Extraperitonealized ileal conduit urinary diversion"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pediatric Urologic Tumour Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical treatment of urologic tumours in children.",
+        "procedures": [
+          {
+            "title": "Pediatric Surgical Treatment",
+            "points": [
+              {
+                "point": "Surgical treatment of children's urologic tumours"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Bladder & Testicular Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for bladder or testicular cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Bladder cancer biology research published in leading journals",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (Corresponding Author, 2022–2024)",
+          "points": [
+            {
+              "point": "Interferon-dependent SLC14A1+ cancer-associated fibroblasts promote cancer stemness via WNT5A in bladder cancer — Cancer Cell, 2022"
+            },
+            {
+              "point": "Extraperitonealizing ileal conduit decreases risk of parastomal hernia: randomized controlled trial — Cell Reports Medicine, 2024"
+            },
+            {
+              "point": "G3BP1 and SLU7 jointly promote immune evasion via MHC-I downregulation in bladder cancer — Advanced Science, 2024"
+            },
+            {
+              "point": "Tumour-repopulating cells evade ferroptosis via PCK2-dependent phospholipid remodelling — Nature Chemical Biology, 2024"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Editorial & Academic Contributions",
+        "publications": {
+          "title": "Selected Roles",
+          "points": [
+            {
+              "point": "Deputy Chief Editor, Bladder Cancer journal"
+            },
+            {
+              "point": "Contributor/editor, six academic works on urologic oncology"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Liu has published more than 40 first/corresponding-author articles, with recent work in Cancer Cell and Nature Chemical Biology. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Liu trained in medicine and oncology at Sun Yat-sen University, with international visiting scholarships in Japan and the United States.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate & Postgraduate",
+        "degree_title": "Bachelor and Master of Medicine",
+        "institution": "Medical School of Sun Yat-sen University, Guangzhou, China",
+        "years": "1993 – 2000",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "PhD, Oncology",
+        "institution": "Sun Yat-sen University, Guangzhou, China",
+        "years": "2003 – 2006",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Visiting Scholarship",
+        "degree_title": "Visiting Scholar, Laparoscopic Surgery",
+        "institution": "Hokkaido University, Sapporo, Japan",
+        "years": "2004 – 2005",
+        "sort_order": 3
+      },
+      {
+        "phase_label": "Visiting Assistant Professorship",
+        "degree_title": "Visiting Assistant Professor, Urology",
+        "institution": "UT Southwestern Medical Center, Dallas, USA",
+        "years": "2011 – 2012",
+        "sort_order": 4
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Liu serves as Vice-President of SYSUCC while maintaining an active surgical and research practice in urologic oncology.",
+    "current_position": "Vice-President & Professor",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Urology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Vice-President, SYSUCC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Deputy Chief Editor, Bladder Cancer Journal"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Recipient, Outstanding Contribution Award for Surgical Volume"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Principal Investigator, 10+ National & Provincial Research Grants"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Zhuo-Wei Liu treats bladder cancer, testicular cancer, and pediatric urologic tumours through robotic and minimally invasive surgery.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Liu consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      },
+      {
+        "icon": "🇯🇵",
+        "label": "Japanese"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Liu's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Zhuo-Wei Liu",
+    "items": [
+      {
+        "question": "Does Prof. Zhuo-Wei Liu accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to bladder or testicular cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Liu's area of specialisation?",
+        "answer": "<p>Prof. Liu specialises in robotic and minimally invasive laparoscopic surgery for urologic cancer, with a particular focus on bladder cancer and testicular cancer.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Does Prof. Liu perform robotic surgery for testicular cancer?",
+        "answer": "<p>Yes. Prof. Liu was one of the first surgeons in China to perform robot-assisted retroperitoneal lymph node dissection for testicular cancer.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Is Prof. Liu involved in research on bladder cancer?",
+        "answer": "<p>Yes. Prof. Liu has recently published bladder cancer research in leading journals including Cancer Cell, Nature Chemical Biology and Cell Reports Medicine.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

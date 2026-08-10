@@ -1,0 +1,393 @@
+{
+  "slug": "dr-feng-wang",
+  "first_name": "Feng",
+  "last_name": "Wang",
+  "qualification": "MB, MSc, PhD (MD Anderson Cancer Center)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Feng Wang – GI Medical Oncology, Guangzhou | CancerFax",
+    "desc": "Prof. Feng Wang leads Medical Oncology at SYSUCC, Guangzhou, a Nature Medicine-published GI cancer trialist behind landmark gastric and esophageal studies.",
+    "keys": "prof feng wang, sysucc, gastrointestinal cancer, gastric cancer, esophageal cancer, colorectal cancer, guangzhou"
+  },
+  "hero": {
+    "designation": "Professor, Assistant President & Director, Department of Medical Oncology, SYSUCC",
+    "badge_text": "PhD, UT MD Anderson Cancer Center",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Gastric & Esophageal Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Colorectal Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Immunotherapy Trials"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Medical Oncology",
+    "specialty_label": "Gastrointestinal Cancer — Clinical Trials & Translational Research",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Feng Wang is Professor, Assistant President and Director of the Department of Medical Oncology at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. She has extensive expertise in gastrointestinal medical oncology and sees thousands of GI cancer patients annually.",
+    "detailed_content": "Prof. Wang completed her PhD at UT MD Anderson Cancer Center. She has published more than 105 peer-reviewed articles, including in Nature Medicine, Cancer Cell, Journal of Clinical Oncology, JAMA Oncology, Annals of Oncology, The Lancet Gastroenterology & Hepatology, and Gut. She led the JUPITER-06 phase 3 trial establishing toripalimab plus chemotherapy for treatment-naïve advanced esophageal squamous cell carcinoma, and a randomized phase 2 trial of perioperative toripalimab and chemotherapy for locally advanced gastric or gastro-esophageal junction cancer, both published in Nature Medicine/Cancer Cell. She is a member of the ESMO Pan-Asian Gastric Cancer Guidelines expert group and Secretary-General of the CSCO Colorectal Cancer Guidelines expert group.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gastrointestinal cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Feng Wang?",
+    "intro_text": "Prof. Wang has led multiple practice-changing GI cancer trials published in the world's top oncology journals, while shaping national and international treatment guidelines.",
+    "why_cards": [
+      {
+        "icon": "emoji_events",
+        "title": "Led the JUPITER-06 Phase 3 Trial",
+        "description": "Principal investigator of the phase 3 trial establishing toripalimab plus chemotherapy for treatment-naïve advanced esophageal squamous cell carcinoma, published in Cancer Cell."
+      },
+      {
+        "icon": "science",
+        "title": "Nature Medicine-Published Gastric Cancer Trial",
+        "description": "Led a randomized phase 2 trial of perioperative toripalimab and chemotherapy for locally advanced gastric or gastro-esophageal junction cancer, published in Nature Medicine (2024)."
+      },
+      {
+        "icon": "verified",
+        "title": "International Guideline Author",
+        "description": "Member of the ESMO Pan-Asian Gastric Cancer Guidelines expert group; Secretary-General of the CSCO Colorectal Cancer Guidelines expert group."
+      },
+      {
+        "icon": "menu_book",
+        "title": "105+ Publications in Leading Journals",
+        "description": "Published in Nature Medicine, Cancer Cell, Journal of Clinical Oncology, JAMA Oncology, Gut and other top-tier oncology journals."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Clinical trials and translational research in gastrointestinal cancer",
+    "description_block": "Prof. Wang's practice integrates novel immunotherapy combinations with biomarker-guided treatment for gastric, esophageal and colorectal cancer.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Gastric & Esophageal Cancer Treatment",
+        "description": "Perioperative and first-line immunochemotherapy for gastric and esophageal cancer.",
+        "specialties": [
+          {
+            "title": "Immunochemotherapy Trials",
+            "points": [
+              {
+                "point": "Perioperative toripalimab plus chemotherapy for locally advanced gastric/GEJ cancer (Nature Medicine, 2024)"
+              },
+              {
+                "point": "Toripalimab plus chemotherapy for treatment-naïve advanced esophageal squamous cell carcinoma (JUPITER-06, Cancer Cell, 2022)"
+              }
+            ]
+          },
+          {
+            "title": "Biomarker-Guided Treatment",
+            "points": [
+              {
+                "point": "Tumor mutational burden and PD-L1 expression as biomarkers for immunotherapy outcomes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Colorectal Cancer Treatment",
+        "description": "Novel combination and biomarker-guided treatment for metastatic colorectal cancer.",
+        "specialties": [
+          {
+            "title": "Colorectal Cancer Immunotherapy",
+            "points": [
+              {
+                "point": "Neoadjuvant PD-1 blockade (sintilimab) for mismatch-repair deficient rectal cancer (Lancet Gastroenterology & Hepatology, 2023)"
+              },
+              {
+                "point": "Regorafenib plus toripalimab for metastatic colorectal cancer"
+              }
+            ]
+          },
+          {
+            "title": "Circulating Tumor DNA-Guided Treatment",
+            "points": [
+              {
+                "point": "ctDNA-guided recurrence prediction and treatment monitoring in colorectal and gastric cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Gastric & Gastro-Esophageal Junction Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Esophageal Squamous Cell Carcinoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Colorectal Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Mismatch-Repair Deficient GI Tumours"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Immunochemotherapy and biomarker-guided treatment for gastrointestinal cancer",
+    "description_block": "Prof. Wang's practice provides access to novel immunotherapy combinations and biomarker-guided treatment selection for GI cancers.",
+    "procedures_cards": [
+      {
+        "title": "Perioperative & First-Line Immunochemotherapy",
+        "therapy_type": "Medical Oncology",
+        "description": "Immunotherapy combined with chemotherapy for gastric, esophageal and colorectal cancer.",
+        "procedures": [
+          {
+            "title": "Immunochemotherapy Regimens",
+            "points": [
+              {
+                "point": "Perioperative toripalimab plus chemotherapy for gastric/GEJ cancer"
+              },
+              {
+                "point": "First-line toripalimab plus chemotherapy for esophageal squamous cell carcinoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Neoadjuvant Treatment for Rectal Cancer",
+        "therapy_type": "Multidisciplinary",
+        "description": "Neoadjuvant PD-1 blockade for mismatch-repair deficient rectal cancer.",
+        "procedures": [
+          {
+            "title": "Neoadjuvant Regimens",
+            "points": [
+              {
+                "point": "Neoadjuvant sintilimab for mismatch-repair deficient locally advanced rectal cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Biomarker & ctDNA-Guided Treatment",
+        "therapy_type": "Diagnosis",
+        "description": "Molecular and liquid biopsy testing to guide treatment selection and monitor recurrence.",
+        "procedures": [
+          {
+            "title": "Molecular Testing",
+            "points": [
+              {
+                "point": "Circulating tumor DNA (ctDNA) monitoring for recurrence risk"
+              },
+              {
+                "point": "POLE/POLD1, TMB and PD-L1 biomarker assessment for immunotherapy candidacy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Gastrointestinal Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, molecular profiling and treatment history for GI cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Practice-changing immunotherapy trials in gastrointestinal cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (from 105+ publications)",
+          "points": [
+            {
+              "point": "Perioperative toripalimab and chemotherapy in locally advanced gastric or gastro-esophageal junction cancer: randomized phase 2 trial — Nature Medicine, 2024"
+            },
+            {
+              "point": "Neoadjuvant PD-1 blockade with sintilimab in mismatch-repair deficient, locally advanced rectal cancer — The Lancet Gastroenterology & Hepatology, 2023"
+            },
+            {
+              "point": "Toripalimab plus chemotherapy in treatment-naïve, advanced esophageal squamous cell carcinoma (JUPITER-06) — Cancer Cell, 2022"
+            },
+            {
+              "point": "Evaluation of POLE and POLD1 mutations as biomarkers for immunotherapy outcomes across multiple cancer types — JAMA Oncology, 2019"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Additional Landmark Research",
+        "publications": {
+          "title": "Selected Studies",
+          "points": [
+            {
+              "point": "Genomic temporal heterogeneity of circulating tumour DNA in unresectable metastatic colorectal cancer — Gut, 2022"
+            },
+            {
+              "point": "The genomic landscape of small cell carcinoma of the esophagus — Cell Research, 2018"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Wang has published more than 105 papers in journals including Nature Medicine, Cancer Cell and JAMA Oncology. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Wang trained in medicine in China before completing her PhD at UT MD Anderson Cancer Center, USA.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Medicine",
+        "institution": "Jiangxi Medical College, China",
+        "years": "2000 – 2005",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "MSc",
+        "institution": "Sun Yat-sen University Cancer Center, Guangzhou, China",
+        "years": "2005 – 2008",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "PhD",
+        "institution": "UT MD Anderson Cancer Center, Houston, USA",
+        "years": "2008 – 2012",
+        "sort_order": 3
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Wang serves as Assistant President of SYSUCC and Director of its Department of Medical Oncology, leading national guideline development.",
+    "current_position": "Professor, Assistant President & Director, Department of Medical Oncology",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Medical Oncology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Assistant President, SYSUCC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Secretary-General, CSCO Colorectal Cancer Guidelines Expert Group"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Member, ESMO Pan-Asian Gastric Cancer Guidelines Expert Group"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Recipient, National Science and Technology Progress Award (Second Prize)"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Feng Wang treats gastrointestinal cancers, including gastric, gastro-esophageal junction, esophageal squamous cell carcinoma, and colorectal cancer.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Wang consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Wang's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Feng Wang",
+    "items": [
+      {
+        "question": "Does Prof. Feng Wang accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gastrointestinal cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Wang's area of specialisation?",
+        "answer": "<p>Prof. Wang specialises in gastrointestinal medical oncology, including gastric, esophageal and colorectal cancer, with a focus on clinical trials and translational research.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Has Prof. Wang led any landmark cancer trials?",
+        "answer": "<p>Yes. Prof. Wang led the JUPITER-06 phase 3 trial establishing toripalimab plus chemotherapy for advanced esophageal squamous cell carcinoma, and a Nature Medicine-published trial on perioperative immunotherapy for gastric cancer.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Is Prof. Wang involved in setting national treatment guidelines?",
+        "answer": "<p>Yes. Prof. Wang serves as Secretary-General of the CSCO Colorectal Cancer Guidelines expert group and is a member of the ESMO Pan-Asian Gastric Cancer Guidelines expert group.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

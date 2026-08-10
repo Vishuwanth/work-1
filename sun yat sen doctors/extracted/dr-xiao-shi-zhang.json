@@ -1,0 +1,383 @@
+{
+  "slug": "dr-xiao-shi-zhang",
+  "first_name": "Xiao-Shi",
+  "last_name": "Zhang",
+  "qualification": "MB, MM, PhD",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Xiao-Shi Zhang – Melanoma Immunotherapy | CancerFax",
+    "desc": "Prof. Xiao-Shi Zhang directs melanoma immunotherapy at SYSUCC, Guangzhou, a leading PI on toripalimab trials including the pivotal POLARIS-01 study.",
+    "keys": "prof xiao-shi zhang, sysucc, melanoma immunotherapy, toripalimab, guangzhou, tumor biotherapy"
+  },
+  "hero": {
+    "designation": "Professor & Vice Director, Tumor Biotherapy Department, SYSUCC",
+    "badge_text": "MB, MM, PhD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Melanoma"
+      },
+      {
+        "icon": "biotech",
+        "label": "Immunotherapy"
+      },
+      {
+        "icon": "favorite",
+        "label": "Multi-Tumour Biotherapy"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Tumor Biotherapy Department",
+    "specialty_label": "Comprehensive Immunotherapy for Melanoma & Solid Tumours",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Xiao-Shi Zhang is Professor and Vice Director of the Tumor Biotherapy Department at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, specialising in comprehensive treatment of melanoma and immunotherapy for liver, colon, lung, breast and other cancers.",
+    "detailed_content": "Prof. Zhang has been a key investigator in landmark anti-PD-1 immunotherapy trials for Chinese melanoma patients, including the pivotal POLARIS-01 phase II trial of toripalimab as salvage monotherapy in advanced melanoma, published in Clinical Cancer Research, with five-year follow-up results confirming durable benefit. He has also contributed to trials combining toripalimab with novel agents such as HBM4003 (an anti-CTLA-4 antibody) and thymosin α1 for elderly patients with advanced melanoma. He completed a visiting scholarship at Karolinska University, Sweden.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to melanoma immunotherapy at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Xiao-Shi Zhang?",
+    "intro_text": "Prof. Zhang has been central to establishing anti-PD-1 immunotherapy as a treatment option for Chinese melanoma patients, whose disease often differs biologically from Western populations.",
+    "why_cards": [
+      {
+        "icon": "emoji_events",
+        "title": "Key Investigator on the POLARIS-01 Trial",
+        "description": "Contributed to the pivotal phase II trial of toripalimab in previously treated advanced melanoma, the largest prospective anti-PD-1 study in this population, published in Clinical Cancer Research with 5-year follow-up data."
+      },
+      {
+        "icon": "science",
+        "title": "Novel Combination Immunotherapy Research",
+        "description": "Investigated toripalimab combined with HBM4003 (anti-CTLA-4) and with thymosin α1 for elderly advanced melanoma patients."
+      },
+      {
+        "icon": "biotech",
+        "title": "Broad Immunotherapy Experience Beyond Melanoma",
+        "description": "Treats liver cancer, colon cancer, lung cancer, breast cancer and other tumours using immunotherapy approaches."
+      },
+      {
+        "icon": "school",
+        "title": "International Research Training",
+        "description": "Completed a visiting scholarship at Karolinska University, Sweden, and postdoctoral training at SYSUCC."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Comprehensive immunotherapy for melanoma and other solid tumours",
+    "description_block": "Prof. Zhang's practice centres on immunotherapy for melanoma, with clinical trial expertise extending to combination immunotherapy strategies.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Melanoma Immunotherapy",
+        "description": "Anti-PD-1 and combination immunotherapy for advanced melanoma.",
+        "specialties": [
+          {
+            "title": "Anti-PD-1 Monotherapy & Combinations",
+            "points": [
+              {
+                "point": "Toripalimab as salvage monotherapy in advanced melanoma (POLARIS-01 trial)"
+              },
+              {
+                "point": "Toripalimab combined with HBM4003 (anti-CTLA-4 antibody)"
+              }
+            ]
+          },
+          {
+            "title": "Immunotherapy for Elderly Patients",
+            "points": [
+              {
+                "point": "Thymosin α1 combined with toripalimab for elderly patients with advanced melanoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Multi-Tumour Immunotherapy",
+        "description": "Immunotherapy approaches applied across multiple solid tumour types.",
+        "specialties": [
+          {
+            "title": "Solid Tumour Immunotherapy",
+            "points": [
+              {
+                "point": "Immunotherapy for liver cancer, colon cancer, lung cancer and breast cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Advanced & Metastatic Melanoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Acral & Mucosal Melanoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Liver, Colon, Lung & Breast Cancer (Immunotherapy)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Elderly Patients with Advanced Melanoma"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Immunotherapy for melanoma and other solid tumours",
+    "description_block": "Prof. Zhang's practice involves administering and researching immunotherapy regimens for melanoma and other cancers.",
+    "procedures_cards": [
+      {
+        "title": "Anti-PD-1 Immunotherapy for Melanoma",
+        "therapy_type": "Medical Oncology",
+        "description": "Checkpoint inhibitor therapy for advanced melanoma.",
+        "procedures": [
+          {
+            "title": "Immunotherapy Regimens",
+            "points": [
+              {
+                "point": "Toripalimab monotherapy for previously treated advanced melanoma"
+              },
+              {
+                "point": "Toripalimab combined with anti-CTLA-4 antibody (HBM4003)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Combination Immunotherapy for Elderly Patients",
+        "therapy_type": "Medical Oncology",
+        "description": "Tailored combination regimens for elderly melanoma patients.",
+        "procedures": [
+          {
+            "title": "Age-Adapted Regimens",
+            "points": [
+              {
+                "point": "Thymosin α1 combined with toripalimab for elderly advanced melanoma patients"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multi-Tumour Immunotherapy",
+        "therapy_type": "Medical Oncology",
+        "description": "Immunotherapy treatment for liver, colon, lung and breast cancer.",
+        "procedures": [
+          {
+            "title": "Solid Tumour Treatment",
+            "points": [
+              {
+                "point": "Immunotherapy protocols for liver, colon, lung and breast cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Melanoma & Solid Tumour Immunotherapy",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, staging and treatment history for melanoma or other solid tumours"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Landmark melanoma immunotherapy trial contributions",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Safety, efficacy and biomarker analysis of toripalimab in previously treated advanced melanoma: POLARIS-01 phase II trial — Clinical Cancer Research, 2020"
+            },
+            {
+              "point": "Five-year follow-up of POLARIS-01 phase II trial: toripalimab as salvage monotherapy in advanced melanoma — 2024"
+            },
+            {
+              "point": "Toripalimab combined with HBM4003, an anti-CTLA-4 antibody, in advanced melanoma and other solid tumours: phase I trial — Journal for ImmunoTherapy of Cancer, 2024"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Additional Clinical Research",
+        "publications": {
+          "title": "Selected Studies",
+          "points": [
+            {
+              "point": "Therapeutic advantages of thymosin α1 combined with toripalimab for elderly patients with advanced melanoma — phase II preliminary results"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Zhang has been a key contributor to landmark melanoma immunotherapy trials in China. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Zhang trained in medicine and oncology at Chongqing Medical University, with postdoctoral training at SYSUCC and a visiting scholarship in Sweden.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "MB",
+        "institution": "Chongqing Medical University, China",
+        "years": "1979 – 1983",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "MM",
+        "institution": "The First Affiliated Hospital of Chongqing Medical University, China",
+        "years": "1983 – 1988",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "PhD",
+        "institution": "Chongqing Medical University, China",
+        "years": "1995 – 1998",
+        "sort_order": 3
+      },
+      {
+        "phase_label": "Postdoctoral",
+        "degree_title": "Post-Doctoral Fellow",
+        "institution": "Sun Yat-sen University Cancer Center, Guangzhou, China",
+        "years": "1998 – 2000",
+        "sort_order": 4
+      },
+      {
+        "phase_label": "Visiting Scholarship",
+        "degree_title": "Visiting Scholar",
+        "institution": "Karolinska University, Sweden",
+        "years": "2005",
+        "sort_order": 5
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Zhang has served as Vice Director of the Tumor Biotherapy Department at SYSUCC since 2000, following clinical roles in Sichuan and Chongqing.",
+    "current_position": "Professor & Vice Director, Tumor Biotherapy Department",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Tumor Biotherapy Department",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Vice Director, Tumor Biotherapy Department (since 2000)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Key Investigator, POLARIS-01 Melanoma Immunotherapy Trial"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Former Associate Professor, First Affiliated Hospital of Chongqing Medical University"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Xiao-Shi Zhang treats melanoma using immunotherapy, and also provides immunotherapy for liver, colon, lung and breast cancer.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Zhang consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Zhang's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Xiao-Shi Zhang",
+    "items": [
+      {
+        "question": "Does Prof. Xiao-Shi Zhang accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to melanoma immunotherapy at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Zhang's area of specialisation?",
+        "answer": "<p>Prof. Zhang specialises in comprehensive immunotherapy treatment of melanoma, and also provides immunotherapy for liver, colon, lung and breast cancer.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Zhang involved in landmark melanoma trials?",
+        "answer": "<p>Yes. Prof. Zhang was a key investigator in the POLARIS-01 phase II trial of toripalimab in advanced melanoma, the largest prospective anti-PD-1 study in a population where acral and mucosal melanoma predominate.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Does Prof. Zhang offer treatment options for elderly melanoma patients?",
+        "answer": "<p>Yes. Prof. Zhang has researched combination regimens such as thymosin α1 plus toripalimab specifically designed with elderly patients' immune profile and comorbidities in mind.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "slug": "dr-li-ren-li",
+  "first_name": "Li-Ren",
+  "last_name": "Li",
+  "qualification": "MBBS, MD, PhD (Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Li-Ren Li – Colorectal Cancer Surgery | CancerFax",
+    "desc": "Prof. Li-Ren Li is Deputy Director of Colorectal Surgery at SYSUCC, Guangzhou, with international training in tumour metastasis and laparoscopic surgery.",
+    "keys": "prof li-ren li, sysucc, colorectal cancer surgery, laparoscopic colorectal resection, guangzhou, tumor metastasis research"
+  },
+  "hero": {
+    "designation": "Professor & Deputy Director, Department of Colorectal Surgery, SYSUCC",
+    "badge_text": "MBBS, MD, PhD (Oncology)",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Colorectal Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Laparoscopic Surgery"
+      },
+      {
+        "icon": "favorite",
+        "label": "Tumour Metastasis Research"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Colorectal Surgery",
+    "specialty_label": "Multidisciplinary Colorectal Cancer Therapy & Metastasis Research",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Li-Ren Li is Professor and Deputy Director of the Department of Colorectal Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. He focuses on multidisciplinary therapy models for colorectal cancer and the molecular mechanisms of tumour metastasis.",
+    "detailed_content": "Prof. Li trained in laparoscopic colorectal resection at Queen Elizabeth Hospital, University of Adelaide, Australia (2003–2004), and later worked as a visiting scientist at Harvard Medical School's Dana-Farber Cancer Institute and the University of Texas MD Anderson Cancer Center (2010–2013) under Professors Ronald DePinho and Lynda Chin, researching tumorigenesis, tumour metabolism, tumour metastasis and drug resistance. He contributed to landmark studies including the comprehensive molecular characterisation of human colon and rectal cancer published in Nature, and driver mutation landscape studies in melanoma published in Cell.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to colorectal cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Li-Ren Li?",
+    "intro_text": "Prof. Li combines internationally trained laparoscopic surgical skill with molecular research experience at leading US cancer centres.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "International Laparoscopic Training",
+        "description": "Trained in laparoscopic colorectal resection at Queen Elizabeth Hospital, University of Adelaide, Australia."
+      },
+      {
+        "icon": "school",
+        "title": "Research Training at Leading US Cancer Centres",
+        "description": "Visiting scientist at Harvard Medical School's Dana-Farber Cancer Institute and MD Anderson Cancer Center under Professors Ronald DePinho and Lynda Chin (2010–2013)."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Contributor to Landmark Cancer Genomics Studies",
+        "description": "Co-author of the comprehensive molecular characterisation of human colon and rectal cancer (Nature, 2012) and melanoma driver mutation landscape studies (Cell, 2012)."
+      },
+      {
+        "icon": "groups",
+        "title": "Multidisciplinary Colorectal Cancer Therapy",
+        "description": "Focuses on multidisciplinary therapy models for colorectal cancer informed by molecular mechanisms of tumour metastasis."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Multidisciplinary colorectal cancer therapy and metastasis research",
+    "description_block": "Prof. Li's practice integrates laparoscopic surgical technique with research into the molecular mechanisms driving colorectal cancer metastasis.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Laparoscopic Colorectal Surgery",
+        "description": "Minimally invasive surgical treatment for colorectal cancer.",
+        "specialties": [
+          {
+            "title": "Laparoscopic Resection",
+            "points": [
+              {
+                "point": "Laparoscopic colorectal resection"
+              },
+              {
+                "point": "Surgical treatment of anal canal adenocarcinoma and anorectal melanoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tumour Metastasis & Molecular Research",
+        "description": "Research into the biological mechanisms of colorectal cancer spread.",
+        "specialties": [
+          {
+            "title": "Lymphangiogenesis & Metastasis Research",
+            "points": [
+              {
+                "point": "Research on lymphangiogenesis and lymphatic metastasis in colorectal cancer"
+              },
+              {
+                "point": "Contributor to comprehensive molecular characterisation of colon and rectal cancer (Nature, 2012)"
+              }
+            ]
+          },
+          {
+            "title": "Tumorigenesis & Drug Resistance Research",
+            "points": [
+              {
+                "point": "Research on tumour metabolism and drug resistance mechanisms"
+              },
+              {
+                "point": "Contributor to melanoma driver mutation landscape studies (Cell, 2012)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Colorectal Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Anal Canal & Anorectal Tumours"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Colorectal Cancer Metastasis"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Multidisciplinary Therapy Models"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Laparoscopic surgery and multidisciplinary treatment for colorectal cancer",
+    "description_block": "Prof. Li performs laparoscopic colorectal surgery informed by his research into tumour metastasis mechanisms.",
+    "procedures_cards": [
+      {
+        "title": "Laparoscopic Colorectal Resection",
+        "therapy_type": "Complex Disease",
+        "description": "Minimally invasive surgical resection for colorectal cancer.",
+        "procedures": [
+          {
+            "title": "Minimally Invasive Techniques",
+            "points": [
+              {
+                "point": "Laparoscopic colorectal resection"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Anorectal & Anal Canal Tumour Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical treatment for anal canal adenocarcinoma and anorectal melanoma.",
+        "procedures": [
+          {
+            "title": "Specialised Surgical Treatment",
+            "points": [
+              {
+                "point": "Surgical treatment of anal canal adenocarcinoma"
+              },
+              {
+                "point": "Surgical treatment of anorectal melanoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multidisciplinary Treatment Planning",
+        "therapy_type": "Multidisciplinary",
+        "description": "Coordinated treatment models integrating surgery and systemic therapy for colorectal cancer.",
+        "procedures": [
+          {
+            "title": "Multidisciplinary Care Planning",
+            "points": [
+              {
+                "point": "Multidisciplinary therapy model for colorectal cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Colorectal Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for colorectal cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Molecular research into colorectal cancer and melanoma metastasis",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Comprehensive molecular characterization of human colon and rectal cancer — Nature, 2012"
+            },
+            {
+              "point": "A landscape of driver mutations in melanoma — Cell, 2012"
+            },
+            {
+              "point": "Telomerase reactivation following telomere dysfunction yields murine prostate tumours with bone metastases — Cell, 2012"
+            },
+            {
+              "point": "Length of lymphangiogenesis in rectal tissues distal to rectal cancer — Tumour Biology, 2010"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Research Training & Collaboration",
+        "publications": {
+          "title": "Selected Research Appointments",
+          "points": [
+            {
+              "point": "Visiting Scientist, Dana-Farber Cancer Institute, Harvard Medical School (2010–2013)"
+            },
+            {
+              "point": "Visiting Scientist, University of Texas MD Anderson Cancer Center (2010–2013)"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Li has published more than 20 research papers, including contributions to landmark Nature and Cell studies on cancer genomics. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Li trained in clinical medicine and oncology at Sun Yat-sen University, with international surgical and research training in Australia and the United States.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "MBBS (Clinical Medicine)",
+        "institution": "Sun Yat-sen University of Medical Science, Guangzhou, China",
+        "years": "Obtained 1998",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "MS, Surgery",
+        "institution": "Sun Yat-sen University of Medical Science, Guangzhou, China",
+        "years": "1998 – 2000",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "MD, PhD, Oncology",
+        "institution": "Sun Yat-sen University Cancer Center, Guangzhou, China",
+        "years": "2002 – 2005",
+        "description": "Supervised by Prof. De-Sen Wan.",
+        "sort_order": 3
+      },
+      {
+        "phase_label": "Surgical Training",
+        "degree_title": "Laparoscopic Colorectal Resection Training",
+        "institution": "Queen Elizabeth Hospital, University of Adelaide, Australia",
+        "years": "2003 – 2004",
+        "sort_order": 4
+      },
+      {
+        "phase_label": "Visiting Scientist",
+        "degree_title": "Visiting Scientist, Cancer Genomics",
+        "institution": "Dana-Farber Cancer Institute, Harvard Medical School & MD Anderson Cancer Center, USA",
+        "years": "2010 – 2013",
+        "sort_order": 5
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Li has served in SYSUCC's Department of Colorectal Surgery since 2007, rejoining after international research training in 2013.",
+    "current_position": "Professor & Deputy Director, Department of Colorectal Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Colorectal Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Deputy Director, Department of Colorectal Surgery (since 2009)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Former Visiting Scientist, Dana-Farber Cancer Institute & MD Anderson Cancer Center"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Research Focus: Multidisciplinary Colorectal Cancer Therapy & Metastasis"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Li-Ren Li treats colorectal cancer, anal canal adenocarcinoma, and anorectal melanoma, informed by his research into tumour metastasis mechanisms.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Li consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Li's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Li-Ren Li",
+    "items": [
+      {
+        "question": "Does Prof. Li-Ren Li accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to colorectal cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Li's area of specialisation?",
+        "answer": "<p>Prof. Li specialises in laparoscopic colorectal cancer surgery and multidisciplinary therapy, with a research background in the molecular mechanisms of tumour metastasis.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Has Prof. Li trained internationally?",
+        "answer": "<p>Yes. Prof. Li trained in laparoscopic colorectal resection in Australia and later conducted cancer genomics research at Harvard Medical School's Dana-Farber Cancer Institute and MD Anderson Cancer Center in the United States.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Has Prof. Li contributed to major cancer research studies?",
+        "answer": "<p>Yes. Prof. Li co-authored the comprehensive molecular characterisation of human colon and rectal cancer published in Nature, and contributed to melanoma driver mutation research published in Cell.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

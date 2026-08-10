@@ -1,0 +1,356 @@
+{
+  "slug": "dr-sheng-ping-li",
+  "first_name": "Sheng-Ping",
+  "last_name": "Li",
+  "qualification": "MD, PhD (Surgery)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Sheng-Ping Li – Pancreatic Cancer Surgery | CancerFax",
+    "desc": "Prof. Sheng-Ping Li treats pancreatic and biliary cancer at SYSUCC, Guangzhou, researching the tumor immune microenvironment and multidisciplinary care.",
+    "keys": "prof sheng-ping li, sysucc, pancreatic cancer surgery, biliary cancer, guangzhou, tumor immune microenvironment"
+  },
+  "hero": {
+    "designation": "Professor, Department of Pancreatobiliary Surgery, SYSUCC",
+    "badge_text": "MD, PhD; Postdoctoral Fellow, University of Michigan",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Pancreatic Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Biliary Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Tumor Immune Microenvironment"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Pancreatobiliary Surgery",
+    "specialty_label": "Multidisciplinary Treatment of Pancreatobiliary Cancer",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Sheng-Ping Li is a Professor in the Department of Pancreatobiliary Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, and a renowned surgical specialist in pancreatic and biliary cancer treatment in China.",
+    "detailed_content": "Prof. Li completed postdoctoral research training in the Cancer Center at the University of Michigan, USA, in 2003. His work focuses on multidisciplinary treatment of pancreatobiliary cancer and its effects on the tumor immune microenvironment, including tumorigenesis and factors affecting disease development and prognosis. He has contributed to multicentre research distinguishing pancreatobiliary-type ampullary adenocarcinoma from cholangiocarcinoma using multimodal data analysis, and leads clinical trials evaluating adjuvant chemotherapy regimens for gemcitabine-refractory pancreatic cancer after curative resection.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to pancreatic or biliary cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Sheng-Ping Li?",
+    "intro_text": "Prof. Li combines international research training with multidisciplinary treatment expertise for complex pancreatobiliary cancers.",
+    "why_cards": [
+      {
+        "icon": "school",
+        "title": "Postdoctoral Training at the University of Michigan",
+        "description": "Completed postdoctoral research fellowship at the University of Michigan Cancer Center, USA, in 2003."
+      },
+      {
+        "icon": "science",
+        "title": "Tumor Immune Microenvironment Research",
+        "description": "Focuses on how the tumor immune microenvironment affects tumorigenesis, development and prognosis in pancreatobiliary cancer."
+      },
+      {
+        "icon": "biotech",
+        "title": "Multicentre Clinical Trial Leadership",
+        "description": "Principal Investigator on a multicentre trial evaluating second-line adjuvant chemotherapy regimens for gemcitabine-refractory pancreatic cancer."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Ampullary Cancer Classification Research",
+        "description": "Contributed to multimodal data analysis research distinguishing pancreatobiliary-type ampullary adenocarcinoma from cholangiocarcinoma."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Multidisciplinary treatment of pancreatic and biliary cancer",
+    "description_block": "Prof. Li's practice integrates surgical treatment with tumor immune microenvironment research for pancreatobiliary cancer.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Pancreatic Cancer Treatment",
+        "description": "Surgical and adjuvant treatment for pancreatic cancer.",
+        "specialties": [
+          {
+            "title": "Pancreatic Cancer Surgery & Adjuvant Therapy",
+            "points": [
+              {
+                "point": "Curative surgical resection for pancreatic cancer"
+              },
+              {
+                "point": "Second-line adjuvant chemotherapy for gemcitabine-refractory pancreatic cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Biliary & Ampullary Cancer Treatment",
+        "description": "Diagnosis and treatment of biliary tract and ampullary cancers.",
+        "specialties": [
+          {
+            "title": "Ampullary & Cholangiocarcinoma Classification",
+            "points": [
+              {
+                "point": "Multimodal classification of pancreatobiliary-type ampullary adenocarcinoma vs cholangiocarcinoma"
+              },
+              {
+                "point": "Surgical treatment of biliary tract cancers"
+              }
+            ]
+          },
+          {
+            "title": "Tumor Immune Microenvironment Research",
+            "points": [
+              {
+                "point": "Research on tumorigenesis and immune microenvironment in pancreatobiliary cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Pancreatic Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Biliary Tract Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Ampullary Adenocarcinoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Gemcitabine-Refractory Pancreatic Cancer"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical and adjuvant treatment for pancreatobiliary cancer",
+    "description_block": "Prof. Li performs curative surgery for pancreatobiliary cancer and leads clinical trials on adjuvant treatment strategies.",
+    "procedures_cards": [
+      {
+        "title": "Pancreatic Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Curative surgical resection for pancreatic cancer.",
+        "procedures": [
+          {
+            "title": "Surgical Resection",
+            "points": [
+              {
+                "point": "Curative resection for pancreatic cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Adjuvant Chemotherapy for Pancreatic Cancer",
+        "therapy_type": "Medical Oncology",
+        "description": "Second-line adjuvant chemotherapy for gemcitabine-refractory disease.",
+        "procedures": [
+          {
+            "title": "Adjuvant Treatment Regimens",
+            "points": [
+              {
+                "point": "Nab-paclitaxel plus gemcitabine or oxaliplatin-based regimens after curative resection"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Biliary & Ampullary Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical treatment for biliary tract and ampullary cancers.",
+        "procedures": [
+          {
+            "title": "Surgical Treatment",
+            "points": [
+              {
+                "point": "Surgical resection for biliary tract and ampullary cancers"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Pancreatobiliary Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for pancreatic or biliary cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Tumor immune microenvironment and classification research in pancreatobiliary cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Multimodal data analysis reveals that pancreatobiliary-type ampullary adenocarcinoma resembles pancreatic adenocarcinoma and differs from cholangiocarcinoma — Journal of Translational Medicine, 2022"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial Leadership",
+        "publications": {
+          "title": "Selected Trials",
+          "points": [
+            {
+              "point": "Principal Investigator — Second-Line Adjuvant Therapy with Nab-Paclitaxel Plus Gemcitabine vs Oxaliplatin-Based Regimen for Gemcitabine-Refractory Pancreatic Cancer After Curative Resection (ClinicalTrials.gov NCT02506842)"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Li's research spans tumor immune microenvironment biology and cancer classification in pancreatobiliary cancer. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Li completed his doctoral training in surgery in China before postdoctoral research in the United States.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "Doctoral Degree in Surgery",
+        "institution": "Sun Yat-sen University of Medical Sciences, Guangzhou, China",
+        "years": "Obtained 1998",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postdoctoral Fellowship",
+        "degree_title": "Postdoctoral Research Fellow",
+        "institution": "Cancer Center, University of Michigan, USA",
+        "years": "Completed 2003",
+        "sort_order": 2
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Li practises pancreatobiliary surgery at SYSUCC, leading multicentre clinical trials in pancreatic cancer.",
+    "current_position": "Professor, Department of Pancreatobiliary Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Pancreatobiliary Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Renowned Surgical Specialist in Pancreatic & Biliary Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Principal Investigator, Multicentre Pancreatic Cancer Trials"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Postdoctoral Training, University of Michigan Cancer Center"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Sheng-Ping Li treats pancreatic cancer, biliary tract cancer, and ampullary adenocarcinoma.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Li consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Li's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Sheng-Ping Li",
+    "items": [
+      {
+        "question": "Does Prof. Sheng-Ping Li accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to pancreatic or biliary cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Li's area of specialisation?",
+        "answer": "<p>Prof. Li specialises in the multidisciplinary treatment of pancreatic and biliary cancer, including surgery and research into the tumor immune microenvironment.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Li involved in clinical trials for pancreatic cancer?",
+        "answer": "<p>Yes. Prof. Li is Principal Investigator on a multicentre trial evaluating second-line adjuvant chemotherapy for gemcitabine-refractory pancreatic cancer after curative resection.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Does Prof. Li treat ampullary adenocarcinoma?",
+        "answer": "<p>Yes. Prof. Li has contributed to research distinguishing pancreatobiliary-type ampullary adenocarcinoma from cholangiocarcinoma, helping refine diagnosis and treatment approaches for this cancer type.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

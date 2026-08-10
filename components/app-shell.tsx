@@ -12,6 +12,7 @@ import { RowsTable } from "@/components/rows-table";
 import { FaqDetailDrawer } from "@/components/faq-detail-drawer";
 import { BatchPanel } from "@/components/batch-panel";
 import { ResourcesTab } from "@/components/resources-tab";
+import { DoctorsTab } from "@/components/doctors-tab";
 import { ComingSoonTab } from "@/components/coming-soon-tab";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
@@ -171,7 +172,7 @@ export function AppShell({ initial }: AppShellProps) {
         </TabsContent>
 
         <TabsContent value="doctors">
-          <ComingSoonTab emoji="🦆" label="Doctors" />
+          <DoctorsTab />
         </TabsContent>
       </Tabs>
     </div>

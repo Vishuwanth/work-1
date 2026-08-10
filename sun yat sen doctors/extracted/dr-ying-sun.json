@@ -1,0 +1,414 @@
+{
+  "slug": "dr-ying-sun",
+  "first_name": "Ying",
+  "last_name": "Sun",
+  "qualification": "Bachelor of Medical Imaging, PhD (Imaging & Nuclear Medicine)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Ying Sun – NPC Radiation Oncology | CancerFax",
+    "desc": "Prof. Ying Sun is Vice-President of SYSUCC, Guangzhou, and a leading authority on AI-assisted precision radiotherapy for nasopharyngeal carcinoma.",
+    "keys": "prof ying sun, sysucc, nasopharyngeal carcinoma, radiation oncology, guangzhou, ai radiotherapy"
+  },
+  "hero": {
+    "designation": "Professor of Radiation Oncology & Vice-President, SYSUCC",
+    "badge_text": "Chang Jiang Scholar (2020–2021)",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Nasopharyngeal Carcinoma"
+      },
+      {
+        "icon": "biotech",
+        "label": "AI-Assisted Radiotherapy"
+      },
+      {
+        "icon": "favorite",
+        "label": "Precision Oncology"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Radiation Oncology",
+    "specialty_label": "Personalized & Precision Radiotherapy for NPC",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Ying Sun is a Professor of Radiation Oncology and Vice-President of Sun Yat-sen University Cancer Center (SYSUCC) in Guangzhou, China. She is internationally recognised for pioneering AI-assisted, personalised radiotherapy for nasopharyngeal carcinoma (NPC).",
+    "detailed_content": "Prof. Sun established China's first integrated radiotherapy information platform and the world's first NPC-specific big data platform, and developed a deep-learning-based automated contouring system now used in clinical and research settings. She has published over 60 papers as first or corresponding author in journals including the New England Journal of Medicine, The Lancet, JAMA and Nature Medicine, and co-chaired the CSCO-ASCO clinical guidelines for NPC. She was named a Chang Jiang Scholar by China's Ministry of Education (2020–2021) and was included in the Global Top 2% Scientists ranking in 2024.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to nasopharyngeal carcinoma at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Ying Sun?",
+    "intro_text": "Prof. Sun combines deep radiation oncology expertise with pioneering work in AI-assisted precision radiotherapy for nasopharyngeal carcinoma.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Pioneer in AI-Assisted Precision Radiotherapy",
+        "description": "Established China's first integrated radiotherapy information platform and the world's first NPC-specific big data platform, including an automated tumour-contouring system used in clinical practice."
+      },
+      {
+        "icon": "emoji_events",
+        "title": "Chang Jiang Scholar",
+        "description": "Named a Chang Jiang Scholar by the Ministry of Education (2020–2021), one of China's most prestigious academic distinctions."
+      },
+      {
+        "icon": "menu_book",
+        "title": "60+ High-Impact Publications",
+        "description": "First or corresponding author on more than 60 papers in journals including NEJM, The Lancet, JAMA and Nature Medicine."
+      },
+      {
+        "icon": "verified",
+        "title": "Global Top 2% Scientist",
+        "description": "Included in the Global Top 2% Scientists Annual Science Impact Rankings in 2024, reflecting sustained international research influence."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "AI-assisted precision radiotherapy and personalized treatment for NPC",
+    "description_block": "Prof. Sun's work integrates artificial intelligence, big data and radiobiology to personalise radiotherapy planning and treatment intensity for nasopharyngeal carcinoma.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Precision & AI-Assisted Radiotherapy for NPC",
+        "description": "Technology-driven approaches to radiotherapy planning and delivery.",
+        "specialties": [
+          {
+            "title": "Adaptive & Automated Radiotherapy Planning",
+            "points": [
+              {
+                "point": "Deep-learning based automated contouring of tumour volumes and organs at risk (Radiology, 2019)"
+              },
+              {
+                "point": "China's first integrated radiotherapy information platform"
+              }
+            ]
+          },
+          {
+            "title": "Risk-Adapted Treatment Strategies",
+            "points": [
+              {
+                "point": "EBV DNA-based dynamic recurrence risk model for NPC"
+              },
+              {
+                "point": "\"Optimal timing + medication\" chemoradiotherapy strategy for advanced NPC"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Clinical Trial Leadership in NPC Systemic Therapy",
+        "description": "Randomised trials shaping global chemoradiotherapy and immunotherapy protocols for NPC.",
+        "specialties": [
+          {
+            "title": "Chemoradiotherapy & Immunotherapy Trials",
+            "points": [
+              {
+                "point": "CONTINUUM trial: induction-concurrent chemoradiotherapy with or without sintilimab (The Lancet, 2024)"
+              },
+              {
+                "point": "Gemcitabine plus cisplatin induction chemotherapy trial (New England Journal of Medicine, 2019)"
+              }
+            ]
+          },
+          {
+            "title": "Circulating Biomarker Monitoring",
+            "points": [
+              {
+                "point": "Longitudinal circulating tumour DNA (ctDNA) risk monitoring (Cancer Cell, 2024)"
+              },
+              {
+                "point": "EBV DNA-based dynamic recurrence risk modelling and follow-up strategy"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Nasopharyngeal Carcinoma (all stages)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Locoregionally Advanced NPC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "AI-Guided Radiotherapy Planning"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Recurrence Risk Monitoring"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Clinical & Research Focus Areas",
+    "subHeading": "AI-assisted radiotherapy planning and systemic treatment for nasopharyngeal carcinoma",
+    "description_block": "Prof. Sun's practice combines advanced radiotherapy planning technology with systemic treatment trials and biomarker-based risk monitoring for NPC.",
+    "procedures_cards": [
+      {
+        "title": "AI-Assisted Radiotherapy Planning",
+        "therapy_type": "Complex Disease",
+        "description": "Deep-learning-based planning tools for precise, individualised radiotherapy delivery in NPC.",
+        "procedures": [
+          {
+            "title": "Radiotherapy Planning Technology",
+            "points": [
+              {
+                "point": "Automated contouring of tumour and organ-at-risk volumes"
+              },
+              {
+                "point": "Adaptive radiotherapy planning based on treatment response"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chemoradiotherapy Protocols for NPC",
+        "therapy_type": "Medical Oncology",
+        "description": "Combination systemic and radiotherapy regimens for locoregionally advanced NPC.",
+        "procedures": [
+          {
+            "title": "Systemic Treatment Regimens",
+            "points": [
+              {
+                "point": "Concurrent chemoradiotherapy for locoregionally advanced NPC"
+              },
+              {
+                "point": "Sintilimab combined with induction-concurrent chemoradiotherapy"
+              },
+              {
+                "point": "Gemcitabine-cisplatin induction chemotherapy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Risk Stratification & Biomarker Monitoring",
+        "therapy_type": "Diagnosis",
+        "description": "Biomarker-based recurrence risk assessment to guide follow-up intensity.",
+        "procedures": [
+          {
+            "title": "Biomarker-Based Risk Assessment",
+            "points": [
+              {
+                "point": "EBV DNA-based dynamic recurrence risk modelling"
+              },
+              {
+                "point": "Longitudinal ctDNA monitoring for real-time risk assessment"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multidisciplinary Case Review & Second Opinion",
+        "therapy_type": "Second Opinion",
+        "description": "Guideline-based review for complex NPC cases.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, EBV DNA and treatment history for NPC cases"
+              },
+              {
+                "point": "Guidance aligned with CSCO-ASCO NPC clinical guidelines"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "AI-assisted radiotherapy research and landmark NPC clinical trials",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (First/Corresponding Author)",
+          "points": [
+            {
+              "point": "Gemcitabine and cisplatin induction chemotherapy in nasopharyngeal carcinoma — New England Journal of Medicine, 2019"
+            },
+            {
+              "point": "CONTINUUM trial: induction-concurrent chemoradiotherapy with or without sintilimab in NPC — The Lancet, 2024"
+            },
+            {
+              "point": "Effect of radiotherapy alone vs radiotherapy with concurrent chemotherapy on survival in low-risk NPC — JAMA, 2022"
+            },
+            {
+              "point": "Deep learning for automated contouring of primary tumour volumes by MRI in NPC — Radiology, 2019"
+            },
+            {
+              "point": "Longitudinal on-treatment circulating tumour DNA as a real-time risk monitoring biomarker — Cancer Cell, 2024"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial & Technology Leadership",
+        "publications": {
+          "title": "Selected Trials & Platforms",
+          "points": [
+            {
+              "point": "Co-chaired the CSCO-ASCO clinical guidelines for nasopharyngeal carcinoma"
+            },
+            {
+              "point": "Established China's first integrated radiotherapy information platform and the world's first NPC-specific big data platform"
+            },
+            {
+              "point": "Developed a dynamic EBV DNA-based recurrence risk model with risk-adapted follow-up strategy"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Sun has published over 60 papers as first or corresponding author in journals including NEJM, The Lancet, JAMA and Nature Medicine. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Sun trained in medical imaging and oncology in China, with visiting scholarship training in the United States.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Medical Imaging",
+        "institution": "Harbin Medical University, Harbin, China",
+        "years": "1992 – 1997",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "Master's and Doctoral Degree, Imaging and Nuclear Medicine",
+        "institution": "Second Affiliated Hospital of Sun Yat-sen University, Guangzhou, China",
+        "years": "1997 – 2002",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Visiting Scholarship",
+        "degree_title": "Visiting Scholar, Radiation Oncology",
+        "institution": "William Beaumont Hospital, Michigan, USA",
+        "years": "2012 – 2013",
+        "sort_order": 3
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Sun holds senior institutional leadership roles at SYSUCC alongside national committee positions in radiation oncology and big data research.",
+    "current_position": "Professor of Radiation Oncology & Vice-President",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Big Data Research Institute of Medicine, Sun Yat-sen University",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Vice-Chairman, CSCO Nasopharyngeal Cancer Special Committee"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Vice-Chairman, CACA Big Data and Real World Research Committee"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Chairperson, Radiation Oncology Branch, Guangdong Medical Association"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Council Member, CSCO and CACA"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Ying Sun treats nasopharyngeal carcinoma (NPC), with a focus on personalised, AI-assisted radiotherapy planning and risk-adapted treatment strategies.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Sun consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Sun's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Ying Sun",
+    "items": [
+      {
+        "question": "Does Prof. Ying Sun accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to nasopharyngeal carcinoma at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Ying Sun's area of specialisation?",
+        "answer": "<p>Prof. Sun specialises in personalised and precision radiotherapy for nasopharyngeal carcinoma, including AI-assisted treatment planning and biomarker-based recurrence risk monitoring.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Sun involved in clinical trials for nasopharyngeal carcinoma?",
+        "answer": "<p>Yes. Prof. Sun has co-authored and led multiple phase 3 clinical trials in NPC, including studies combining immunotherapy with chemoradiotherapy, and contributed to national treatment guidelines.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "What makes Prof. Sun's approach to NPC treatment distinctive?",
+        "answer": "<p>Prof. Sun pioneered the use of artificial intelligence and big data in NPC radiotherapy, including automated tumour contouring and dynamic, biomarker-based recurrence risk models that personalise treatment intensity and follow-up.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

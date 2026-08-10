@@ -1,0 +1,324 @@
+{
+  "slug": "dr-xiao-jun-lin",
+  "first_name": "Xiao-Jun",
+  "last_name": "Lin",
+  "qualification": "MD (Hepatobiliary & Pancreatic Surgery)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Xiao-Jun Lin – Biliary Tract Cancer Surgery | CancerFax",
+    "desc": "Prof. Xiao-Jun Lin treats liver, gallbladder and pancreatic cancer at SYSUCC, Guangzhou, researching PD-L1 biomarkers in biliary tract cancer immunotherapy.",
+    "keys": "prof xiao-jun lin, sysucc, biliary tract cancer, gallbladder cancer, pancreatic cancer, guangzhou, pd-l1 biomarker"
+  },
+  "hero": {
+    "designation": "Professor, Department of Pancreaticobiliary Surgery, SYSUCC",
+    "badge_text": "MD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Biliary Tract Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Gallbladder Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Pancreatic Cancer"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Pancreaticobiliary Surgery",
+    "specialty_label": "Liver, Gallbladder & Pancreatic Cancer Surgery",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Xiao-Jun Lin is a Professor in the Department of Pancreaticobiliary Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, treating liver, gallbladder and pancreatic cancer.",
+    "detailed_content": "Prof. Lin's research includes a global epidemiological analysis of the burden, trends and inequalities of gallbladder and biliary tract cancer from 1990–2021, published in Liver International. He has also researched PD-L1 expression on tumour-infiltrating immune cells and the neutrophil-to-lymphocyte ratio as predictive biomarkers for immunotherapy outcomes following biliary tract cancer recurrence, based on a cohort of 239 patients treated at SYSUCC's Department of Pancreaticobiliary Surgery.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to liver, gallbladder or pancreatic cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Xiao-Jun Lin?",
+    "intro_text": "Prof. Lin brings both surgical expertise and biomarker research insight to guide immunotherapy decisions in biliary tract cancer.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Global Biliary Tract Cancer Epidemiology Research",
+        "description": "Co-authored a global burden and trends analysis of gallbladder and biliary tract cancer from 1990–2021, published in Liver International (2025)."
+      },
+      {
+        "icon": "biotech",
+        "title": "Immunotherapy Biomarker Research",
+        "description": "Studied PD-L1 expression and neutrophil-to-lymphocyte ratio as predictive biomarkers for immunotherapy outcomes in recurrent biliary tract cancer."
+      },
+      {
+        "icon": "groups",
+        "title": "Part of a Leading Pancreaticobiliary Surgery Department",
+        "description": "Practises within SYSUCC's Department of Pancreaticobiliary Surgery, treating complex hepatobiliary and pancreatic malignancies."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Surgical treatment of liver, gallbladder and pancreatic cancer",
+    "description_block": "Prof. Lin's practice combines surgical treatment with biomarker research to guide immunotherapy decisions in biliary tract cancer.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Biliary Tract & Gallbladder Cancer",
+        "description": "Surgical treatment and immunotherapy biomarker research for biliary tract cancer.",
+        "specialties": [
+          {
+            "title": "Biliary Tract Cancer Surgery",
+            "points": [
+              {
+                "point": "Surgical resection for gallbladder and biliary tract cancer"
+              }
+            ]
+          },
+          {
+            "title": "Immunotherapy Biomarker Research",
+            "points": [
+              {
+                "point": "PD-L1 expression on tumour-infiltrating immune cells as a predictive biomarker"
+              },
+              {
+                "point": "Neutrophil-to-lymphocyte ratio as a predictor of immunotherapy outcomes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Liver & Pancreatic Cancer Surgery",
+        "description": "Surgical treatment for liver and pancreatic malignancies.",
+        "specialties": [
+          {
+            "title": "Liver & Pancreatic Tumour Surgery",
+            "points": [
+              {
+                "point": "Surgical treatment of liver and pancreatic cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Biliary Tract Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Gallbladder Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Liver Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Pancreatic Cancer"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical treatment for biliary tract, liver and pancreatic cancer",
+    "description_block": "Prof. Lin performs surgical resection for hepatobiliary and pancreatic malignancies, informed by immunotherapy biomarker research.",
+    "procedures_cards": [
+      {
+        "title": "Biliary Tract & Gallbladder Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical resection for gallbladder and biliary tract cancer.",
+        "procedures": [
+          {
+            "title": "Surgical Resection",
+            "points": [
+              {
+                "point": "Surgical treatment of gallbladder and biliary tract cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Liver & Pancreatic Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical resection for liver and pancreatic malignancies.",
+        "procedures": [
+          {
+            "title": "Surgical Resection",
+            "points": [
+              {
+                "point": "Surgical treatment of liver and pancreatic cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Immunotherapy Biomarker Assessment",
+        "therapy_type": "Diagnosis",
+        "description": "Biomarker-based assessment to guide immunotherapy decisions in recurrent biliary tract cancer.",
+        "procedures": [
+          {
+            "title": "Biomarker Assessment",
+            "points": [
+              {
+                "point": "PD-L1 immunohistochemistry assessment"
+              },
+              {
+                "point": "Neutrophil-to-lymphocyte ratio evaluation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Hepatobiliary & Pancreatic Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for hepatobiliary or pancreatic cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Epidemiology and immunotherapy biomarker research in biliary tract cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Global burden, trends, and inequalities of gallbladder and biliary tract cancer, 1990–2021: a decomposition and age-period-cohort analysis — Liver International, 2025"
+            },
+            {
+              "point": "PD-L1 expression on tumour-infiltrating immune cells and neutrophil-to-lymphocyte ratio as predictors of immunotherapy outcomes following biliary tract cancer recurrence"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Lin's research spans global cancer epidemiology and immunotherapy biomarkers in biliary tract cancer. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Lin were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Lin practises within SYSUCC's Department of Pancreaticobiliary Surgery, contributing to biliary tract cancer research.",
+    "current_position": "Professor, Department of Pancreaticobiliary Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Pancreaticobiliary Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Liver, Gallbladder & Pancreatic Cancer Surgery Specialist"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Researcher, Biliary Tract Cancer Epidemiology & Immunotherapy Biomarkers"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Xiao-Jun Lin treats liver cancer, gallbladder cancer, biliary tract cancer, and pancreatic cancer.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Lin consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Lin's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Xiao-Jun Lin",
+    "items": [
+      {
+        "question": "Does Prof. Xiao-Jun Lin accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to liver, gallbladder or pancreatic cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Lin's area of specialisation?",
+        "answer": "<p>Prof. Lin specialises in the surgical treatment of liver, gallbladder, biliary tract and pancreatic cancer.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Has Prof. Lin researched immunotherapy for biliary tract cancer?",
+        "answer": "<p>Yes. Prof. Lin has studied PD-L1 expression and the neutrophil-to-lymphocyte ratio as predictive biomarkers for immunotherapy outcomes in patients with recurrent biliary tract cancer.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Has Prof. Lin contributed to global cancer research?",
+        "answer": "<p>Yes. Prof. Lin co-authored a global analysis of the burden and trends of gallbladder and biliary tract cancer from 1990 to 2021, published in Liver International.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

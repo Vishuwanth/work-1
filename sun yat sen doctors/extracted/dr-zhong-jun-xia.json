@@ -1,0 +1,359 @@
+{
+  "slug": "dr-zhong-jun-xia",
+  "first_name": "Zhong-Jun",
+  "last_name": "Xia",
+  "qualification": "MD, PhD (Hematological Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Zhong-Jun Xia – Lymphoma & Myeloma Care | CancerFax",
+    "desc": "Prof. Zhong-Jun Xia treats lymphoma and multiple myeloma at SYSUCC, Guangzhou, with over 30 years' experience and landmark NK/T-cell lymphoma trials.",
+    "keys": "prof zhong-jun xia, sysucc, lymphoma treatment, multiple myeloma, nk t-cell lymphoma, guangzhou, hematological oncology"
+  },
+  "hero": {
+    "designation": "Professor, Department of Hematological Oncology, SYSUCC",
+    "badge_text": "MD, PhD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Lymphoma"
+      },
+      {
+        "icon": "biotech",
+        "label": "Multiple Myeloma"
+      },
+      {
+        "icon": "favorite",
+        "label": "NK/T-Cell Lymphoma"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Hematological Oncology",
+    "specialty_label": "Lymphoma & Multiple Myeloma — Diagnosis, Treatment & Clinical Trials",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Zhong-Jun Xia is a Professor in the Department of Hematological Oncology at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, with over 30 years of experience treating hematological malignancies.",
+    "detailed_content": "Prof. Xia has led long-term follow-up studies demonstrating dramatic improvement in outcomes for newly diagnosed diffuse large B-cell lymphoma treated with rituximab plus CHOP at SYSUCC. He has served as Principal Investigator on clinical trials combining GELOX chemotherapy with radiation therapy for extranodal natural killer/T-cell lymphoma, and his research has examined immune checkpoint biomarkers, including soluble PD-L1 and interleukin-2 receptor levels, as predictors of treatment response in multiple myeloma. He has published more than 170 research papers.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to lymphoma or multiple myeloma at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Zhong-Jun Xia?",
+    "intro_text": "Prof. Xia brings three decades of hematological oncology experience with clinical trial leadership in NK/T-cell lymphoma and biomarker research in myeloma.",
+    "why_cards": [
+      {
+        "icon": "emoji_events",
+        "title": "30+ Years in Hematological Malignancies",
+        "description": "Extensive experience diagnosing and treating lymphoma, leukemia and related blood cancers at SYSUCC."
+      },
+      {
+        "icon": "science",
+        "title": "NK/T-Cell Lymphoma Trial Leadership",
+        "description": "Principal Investigator on trials combining GELOX chemotherapy with radiation therapy for extranodal NK/T-cell lymphoma."
+      },
+      {
+        "icon": "menu_book",
+        "title": "171+ Peer-Reviewed Publications",
+        "description": "Extensive publication record on lymphoma and multiple myeloma treatment outcomes and prognostic biomarkers."
+      },
+      {
+        "icon": "biotech",
+        "title": "Immune Checkpoint Biomarker Research",
+        "description": "Research on soluble PD-L1 and interleukin-2 receptor as predictors of treatment response and survival in multiple myeloma."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Diagnosis and treatment of lymphoma and multiple myeloma",
+    "description_block": "Prof. Xia's practice covers a broad range of hematological malignancies, with particular research strength in NK/T-cell lymphoma and myeloma biomarkers.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Lymphoma Treatment",
+        "description": "Systemic and combination treatment for various lymphoma subtypes.",
+        "specialties": [
+          {
+            "title": "Diffuse Large B-Cell Lymphoma",
+            "points": [
+              {
+                "point": "Rituximab plus CHOP (R-CHOP) chemoimmunotherapy for DLBCL"
+              },
+              {
+                "point": "Long-term outcome monitoring following R-CHOP treatment"
+              }
+            ]
+          },
+          {
+            "title": "NK/T-Cell Lymphoma Treatment",
+            "points": [
+              {
+                "point": "GELOX chemotherapy combined with involved-field radiation therapy for extranodal NK/T-cell lymphoma"
+              },
+              {
+                "point": "Research on interleukin-10 as a prognostic marker in NK/T-cell lymphoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Multiple Myeloma & Biomarker Research",
+        "description": "Systemic treatment supported by immune biomarker research.",
+        "specialties": [
+          {
+            "title": "Multiple Myeloma Treatment",
+            "points": [
+              {
+                "point": "Systemic treatment for multiple myeloma"
+              },
+              {
+                "point": "Biomarker-based treatment response prediction using soluble PD-L1 and IL-2 receptor levels"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Diffuse Large B-Cell Lymphoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Extranodal NK/T-Cell Lymphoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Multiple Myeloma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Leukemia & Related Blood Cancers"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Systemic and combination treatment for lymphoma and myeloma",
+    "description_block": "Prof. Xia's practice integrates chemoimmunotherapy, radiation therapy and biomarker-guided treatment planning for hematological malignancies.",
+    "procedures_cards": [
+      {
+        "title": "Chemoimmunotherapy for Lymphoma",
+        "therapy_type": "Medical Oncology",
+        "description": "Combination chemotherapy and immunotherapy regimens for lymphoma.",
+        "procedures": [
+          {
+            "title": "Lymphoma Treatment Regimens",
+            "points": [
+              {
+                "point": "Rituximab plus CHOP (R-CHOP) for diffuse large B-cell lymphoma"
+              },
+              {
+                "point": "GELOX chemotherapy for NK/T-cell lymphoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Combined Chemoradiotherapy",
+        "therapy_type": "Multidisciplinary",
+        "description": "Combined chemotherapy and radiation therapy for NK/T-cell lymphoma.",
+        "procedures": [
+          {
+            "title": "Combined Modality Treatment",
+            "points": [
+              {
+                "point": "GELOX followed by involved-field radiation therapy for stage IE/IIE NK/T-cell lymphoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multiple Myeloma Systemic Treatment",
+        "therapy_type": "Medical Oncology",
+        "description": "Systemic treatment for multiple myeloma guided by biomarker assessment.",
+        "procedures": [
+          {
+            "title": "Myeloma Treatment Regimens",
+            "points": [
+              {
+                "point": "Systemic treatment for multiple myeloma"
+              },
+              {
+                "point": "Biomarker-guided treatment response monitoring"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Lymphoma & Myeloma",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, staging and treatment history for lymphoma or myeloma"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Clinical trial leadership and biomarker research in lymphoma and myeloma",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (from 170+ publications)",
+          "points": [
+            {
+              "point": "Rituximab plus CHOP dramatically improved outcome of newly diagnosed DLBCL in China: long-term follow-up from SYSUCC"
+            },
+            {
+              "point": "Serum levels of soluble programmed death ligand 1 predict treatment response and survival in multiple myeloma"
+            },
+            {
+              "point": "Increased serum interleukin-10 predicts poor prognosis in extranodal NK/T-cell lymphoma patients"
+            },
+            {
+              "point": "First-line GELOX followed by involved-field radiation therapy for stage IE/IIE extranodal NK/T-cell lymphoma — Cancer, 2013"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial Leadership",
+        "publications": {
+          "title": "Selected Trials",
+          "points": [
+            {
+              "point": "Principal Investigator — Combine GELOX with Concurrent Radiation Therapy for Stage IE/IIE Extranodal NK/T-Cell Lymphoma (ClinicalTrials.gov NCT02080234)"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Xia has published more than 170 research papers on lymphoma and multiple myeloma. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Xia were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Xia has practised hematological oncology at SYSUCC for over 30 years, leading clinical trials in NK/T-cell lymphoma.",
+    "current_position": "Professor, Department of Hematological Oncology",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Hematological Oncology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "30+ Years' Experience in Hematological Malignancies"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Principal Investigator, NK/T-Cell Lymphoma Clinical Trials"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Researcher, Immune Checkpoint Biomarkers in Multiple Myeloma"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Zhong-Jun Xia treats lymphoma (including diffuse large B-cell lymphoma and NK/T-cell lymphoma), leukemia, and multiple myeloma.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Xia consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Xia's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Zhong-Jun Xia",
+    "items": [
+      {
+        "question": "Does Prof. Zhong-Jun Xia accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to lymphoma or multiple myeloma at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Xia's area of specialisation?",
+        "answer": "<p>Prof. Xia specialises in the treatment of lymphoma, including diffuse large B-cell lymphoma and extranodal NK/T-cell lymphoma, as well as multiple myeloma.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Xia involved in clinical trials for lymphoma?",
+        "answer": "<p>Yes. Prof. Xia serves as Principal Investigator on trials combining GELOX chemotherapy with radiation therapy for extranodal NK/T-cell lymphoma.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Does Prof. Xia's team use biomarkers to guide myeloma treatment?",
+        "answer": "<p>Yes. Prof. Xia's research has examined biomarkers such as soluble PD-L1 and interleukin-2 receptor levels as predictors of treatment response in multiple myeloma.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

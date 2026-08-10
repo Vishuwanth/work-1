@@ -1,0 +1,390 @@
+{
+  "slug": "dr-xing-zhang",
+  "first_name": "Xing",
+  "last_name": "Zhang",
+  "qualification": "MB, PhD (Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Xing Zhang – Melanoma & Sarcoma Oncology | CancerFax",
+    "desc": "Prof. Xing Zhang treats melanoma and sarcoma at SYSUCC, Guangzhou, specialising in immunotherapy and targeted therapy for bone and soft tissue tumors.",
+    "keys": "prof xing zhang, sysucc, melanoma treatment, sarcoma treatment, immunotherapy, guangzhou, targeted therapy"
+  },
+  "hero": {
+    "designation": "Professor & Chief Physician, Immunotherapy and Medical Oncology of Melanoma and Sarcoma, SYSUCC",
+    "badge_text": "MB, PhD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Melanoma"
+      },
+      {
+        "icon": "biotech",
+        "label": "Bone & Soft Tissue Sarcoma"
+      },
+      {
+        "icon": "favorite",
+        "label": "Immunotherapy & Targeted Therapy"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Biotherapy Center / Melanoma and Sarcoma Medical Oncology",
+    "specialty_label": "Immunotherapy & Molecular Targeted Therapy for Melanoma and Sarcoma",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Xing Zhang is a Professor and Chief Physician in the Department of Immunotherapy and Medical Oncology of Melanoma and Sarcoma at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. She specialises in immunotherapy of solid tumours, molecular targeted drug therapy, and medical treatment of bone and soft tissue sarcoma and melanoma.",
+    "detailed_content": "Prof. Zhang studied at Boston University Medical School (2001–2003) before completing her doctoral degree in oncology at Sun Yat-sen University in 2004. She is one of Guangdong's Outstanding Young Medical Talents and Principal Investigator of 5 National Natural Science Foundation projects. She has published dozens of SCI papers as first or corresponding author in journals including Oncogene, Molecular Cancer, British Journal of Cancer and Clinical Cancer Research, and has participated in drafting 3 national medical treatment guidelines for sarcoma.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to melanoma or sarcoma at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Xing Zhang?",
+    "intro_text": "Prof. Zhang combines national guideline authorship with active clinical trial leadership in melanoma and sarcoma immunotherapy.",
+    "why_cards": [
+      {
+        "icon": "emoji_events",
+        "title": "Guangdong Outstanding Young Medical Talent",
+        "description": "Recognised as one of Guangdong Province's Outstanding Young Medical Talents, with 5 National Natural Science Foundation grants as Principal Investigator."
+      },
+      {
+        "icon": "verified",
+        "title": "National Guideline Contributor",
+        "description": "Participated in drafting and developing 3 national medical treatment guidelines for sarcoma."
+      },
+      {
+        "icon": "science",
+        "title": "Novel Cell Therapy Trial Leadership",
+        "description": "Principal Investigator on a phase I trial of Super1 TCR-T cell therapy for NY-ESO-1-positive advanced solid tumours including sarcoma and melanoma."
+      },
+      {
+        "icon": "groups",
+        "title": "National Sarcoma Society Leadership",
+        "description": "Group leader of the chemoradiotherapy group, Sarcoma Professional Committee, China Anti-Cancer Association; Chairman, Sarcoma Professional Committee, Guangdong Anti-Cancer Association."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Immunotherapy and targeted therapy for melanoma and sarcoma",
+    "description_block": "Prof. Zhang's practice integrates immunotherapy and molecular targeted treatment for melanoma, bone and soft tissue sarcoma.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Sarcoma Treatment",
+        "description": "Medical oncology and novel cell therapy for bone and soft tissue sarcoma.",
+        "specialties": [
+          {
+            "title": "Sarcoma Systemic Therapy",
+            "points": [
+              {
+                "point": "Medical treatment of bone and soft tissue sarcoma"
+              },
+              {
+                "point": "Research on ALK-ATI and c-Myc in cancer stem cell-like properties of sarcoma"
+              }
+            ]
+          },
+          {
+            "title": "TCR-T Cell Therapy Trials",
+            "points": [
+              {
+                "point": "Phase I trial of Super1 TCR-T cell therapy for NY-ESO-1-positive advanced solid tumours"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Melanoma Treatment",
+        "description": "Immunotherapy and targeted therapy for melanoma.",
+        "specialties": [
+          {
+            "title": "Melanoma Immunotherapy & Targeted Therapy",
+            "points": [
+              {
+                "point": "Immunotherapy for advanced melanoma"
+              },
+              {
+                "point": "Molecular targeted drug therapy for melanoma"
+              }
+            ]
+          },
+          {
+            "title": "Immune Checkpoint Research",
+            "points": [
+              {
+                "point": "Research on LAG-3 expression on tumour-associated cells"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Melanoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Bone Sarcoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Soft Tissue Sarcoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "NY-ESO-1-Positive Solid Tumours"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Immunotherapy and targeted therapy for melanoma and sarcoma",
+    "description_block": "Prof. Zhang's practice combines standard immunotherapy and targeted therapy with novel cell therapy trial access.",
+    "procedures_cards": [
+      {
+        "title": "Sarcoma Systemic Treatment",
+        "therapy_type": "Medical Oncology",
+        "description": "Medical oncology treatment for bone and soft tissue sarcoma.",
+        "procedures": [
+          {
+            "title": "Sarcoma Treatment Regimens",
+            "points": [
+              {
+                "point": "Systemic chemotherapy for bone and soft tissue sarcoma"
+              },
+              {
+                "point": "Molecular targeted therapy for sarcoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Melanoma Immunotherapy",
+        "therapy_type": "Medical Oncology",
+        "description": "Immunotherapy and targeted treatment for melanoma.",
+        "procedures": [
+          {
+            "title": "Melanoma Treatment Regimens",
+            "points": [
+              {
+                "point": "Immune checkpoint inhibitor therapy for melanoma"
+              },
+              {
+                "point": "Molecular targeted therapy for melanoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "TCR-T Cell Therapy Trial Access",
+        "therapy_type": "Targeted Therapy",
+        "description": "Novel engineered T-cell therapy for eligible patients with NY-ESO-1-positive tumours.",
+        "procedures": [
+          {
+            "title": "Cell Therapy Trial",
+            "points": [
+              {
+                "point": "Super1 TCR-T cell therapy for NY-ESO-1-positive advanced solid tumours"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Melanoma & Sarcoma",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, molecular profiling and treatment history for melanoma or sarcoma"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Immunotherapy and molecular research in melanoma and sarcoma",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (Corresponding Author)",
+          "points": [
+            {
+              "point": "ALK-ATI interacts with c-Myc and promotes cancer stem cell-like properties in sarcoma — Oncogene, 2020"
+            },
+            {
+              "point": "Research on LAG-3 expression on tumour-associated immune cells"
+            },
+            {
+              "point": "Publications in Molecular Cancer, British Journal of Cancer and Clinical Cancer Research on melanoma and sarcoma"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial & Guideline Leadership",
+        "publications": {
+          "title": "Selected Contributions",
+          "points": [
+            {
+              "point": "Principal Investigator — Phase I Trial of Super1 TCR-T in NY-ESO-1-Positive Advanced Solid Tumours (ClinicalTrials.gov NCT06942143)"
+            },
+            {
+              "point": "Contributor to 3 national medical treatment guidelines for sarcoma"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Zhang has published dozens of papers in journals including Oncogene and Clinical Cancer Research. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Zhang trained in clinical medicine in China and completed further study in the United States before her doctoral degree.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Medicine, Clinical Medicine",
+        "institution": "Henan Medical University, China",
+        "years": "Graduated 1994",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Overseas Study",
+        "degree_title": "Visiting Study, Medical School",
+        "institution": "Boston University, USA",
+        "years": "2001 – 2003",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "PhD, Oncology",
+        "institution": "Sun Yat-sen University, Guangzhou, China",
+        "years": "Obtained 2004",
+        "sort_order": 3
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Zhang practises melanoma and sarcoma medical oncology at SYSUCC, holding national leadership roles in sarcoma treatment standards.",
+    "current_position": "Professor & Chief Physician, Immunotherapy and Medical Oncology of Melanoma and Sarcoma",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Biotherapy Center",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Guangdong Outstanding Young Medical Talent"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Group Leader, Chemoradiotherapy Group, Sarcoma Professional Committee, CACA"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Chairman, Sarcoma Professional Committee, Guangdong Anti-Cancer Association"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Principal Investigator, 5 National Natural Science Foundation Projects"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Xing Zhang treats melanoma and bone/soft tissue sarcoma using immunotherapy, targeted therapy, and novel cell therapy trials.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Zhang consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Zhang's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Xing Zhang",
+    "items": [
+      {
+        "question": "Does Prof. Xing Zhang accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to melanoma or sarcoma at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Zhang's area of specialisation?",
+        "answer": "<p>Prof. Zhang specialises in immunotherapy and molecular targeted therapy for melanoma and bone/soft tissue sarcoma.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Zhang involved in clinical trials for sarcoma or melanoma?",
+        "answer": "<p>Yes. Prof. Zhang is Principal Investigator on a phase I trial of Super1 TCR-T cell therapy for NY-ESO-1-positive advanced solid tumours, including sarcoma and melanoma.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Has Prof. Zhang contributed to national treatment standards?",
+        "answer": "<p>Yes. Prof. Zhang has participated in drafting 3 national medical treatment guidelines for sarcoma and holds leadership roles in national and provincial sarcoma professional committees.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "slug": "dr-ying-bo-chen",
+  "first_name": "Ying-Bo",
+  "last_name": "Chen",
+  "qualification": "MD (Gastric & Abdominal Surgery)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Ying-Bo Chen – Gastric Surgery, Guangzhou | CancerFax",
+    "desc": "Prof. Ying-Bo Chen is a gastric and abdominal surgical oncologist at SYSUCC, Guangzhou, involved in landmark perioperative immunotherapy trials for gastric cancer.",
+    "keys": "prof ying-bo chen, sysucc, gastric cancer surgery, abdominal surgical oncology, guangzhou, perioperative immunotherapy"
+  },
+  "hero": {
+    "designation": "Professor, Department of Gastric Surgery, SYSUCC",
+    "badge_text": "MD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Gastric Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Abdominal Surgical Oncology"
+      },
+      {
+        "icon": "favorite",
+        "label": "Perioperative Immunotherapy"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Gastric Surgery",
+    "specialty_label": "Gastric & Abdominal Surgical Oncology",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Ying-Bo Chen is a Professor in the Department of Gastric Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, specialising in gastric and abdominal surgical oncology.",
+    "detailed_content": "Prof. Chen is a co-investigator on landmark clinical trials in gastric cancer, including a randomised phase 2 trial of perioperative toripalimab plus chemotherapy in locally advanced gastric or gastro-esophageal junction cancer, published in Nature Medicine. He has also senior-authored research on Helicobacter pylori eradication after radical gastrectomy, published in JAMA Network Open, and contributed to research on circulating tumour DNA for predicting gastric cancer recurrence after adjuvant chemotherapy.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gastric cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Ying-Bo Chen?",
+    "intro_text": "Prof. Chen combines gastric and abdominal surgical expertise with involvement in landmark perioperative treatment trials.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Landmark Perioperative Immunotherapy Trial",
+        "description": "Co-investigator on a randomised phase 2 trial of perioperative toripalimab plus chemotherapy for locally advanced gastric cancer, published in Nature Medicine (2024)."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Post-Gastrectomy Care Research",
+        "description": "Senior-authored research on Helicobacter pylori eradication after radical gastrectomy, published in JAMA Network Open (2024)."
+      },
+      {
+        "icon": "biotech",
+        "title": "Circulating Biomarker Research",
+        "description": "Contributed to research on circulating tumour DNA (ctDNA) for predicting recurrence of stage II-III gastric cancer after adjuvant chemotherapy."
+      },
+      {
+        "icon": "groups",
+        "title": "Part of a Leading Gastric Cancer Team",
+        "description": "Works within SYSUCC's Department of Gastric Surgery, one of China's most experienced gastric cancer centres."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Gastric and abdominal surgical oncology",
+    "description_block": "Prof. Chen's practice spans surgical treatment of gastric cancer and broader abdominal malignancies, alongside perioperative and post-surgical care research.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Gastric Cancer Surgery",
+        "description": "Surgical treatment of gastric cancer as part of a multidisciplinary team.",
+        "specialties": [
+          {
+            "title": "Gastric & Abdominal Surgical Oncology",
+            "points": [
+              {
+                "point": "Surgical treatment of gastric cancer"
+              },
+              {
+                "point": "Surgical management of related abdominal malignancies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Perioperative & Post-Surgical Care",
+        "description": "Research-driven approaches to perioperative treatment and post-gastrectomy management.",
+        "specialties": [
+          {
+            "title": "Perioperative Immunotherapy",
+            "points": [
+              {
+                "point": "Perioperative toripalimab plus chemotherapy for locally advanced gastric cancer (Nature Medicine, 2024)"
+              }
+            ]
+          },
+          {
+            "title": "Post-Gastrectomy Care & Recurrence Monitoring",
+            "points": [
+              {
+                "point": "Helicobacter pylori eradication after radical gastrectomy (JAMA Network Open, 2024)"
+              },
+              {
+                "point": "Circulating tumour DNA (ctDNA) for predicting recurrence after adjuvant chemotherapy"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Gastric Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Gastro-Esophageal Junction Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Abdominal Tumours"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Post-Gastrectomy Recurrence Monitoring"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical treatment and perioperative care for gastric and abdominal cancer",
+    "description_block": "Prof. Chen performs gastric and abdominal surgical procedures, integrated with perioperative systemic therapy and post-surgical monitoring.",
+    "procedures_cards": [
+      {
+        "title": "Gastric Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical resection for gastric cancer.",
+        "procedures": [
+          {
+            "title": "Surgical Resection",
+            "points": [
+              {
+                "point": "Radical gastrectomy for gastric cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Perioperative Combination Therapy",
+        "therapy_type": "Medical Oncology",
+        "description": "Immunotherapy and chemotherapy combined with surgery for locally advanced gastric cancer.",
+        "procedures": [
+          {
+            "title": "Perioperative Regimens",
+            "points": [
+              {
+                "point": "Perioperative toripalimab plus chemotherapy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Post-Gastrectomy Monitoring & Care",
+        "therapy_type": "Monitoring",
+        "description": "Post-surgical management including infection eradication and recurrence monitoring.",
+        "procedures": [
+          {
+            "title": "Post-Surgical Care",
+            "points": [
+              {
+                "point": "Helicobacter pylori eradication treatment after radical gastrectomy"
+              },
+              {
+                "point": "Circulating tumour DNA-based recurrence monitoring"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Gastric Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for gastric cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Perioperative treatment and post-surgical care research in gastric cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Perioperative toripalimab and chemotherapy in locally advanced gastric or gastro-esophageal junction cancer: a randomized phase 2 trial — Nature Medicine, 2024"
+            },
+            {
+              "point": "Anti-Helicobacter pylori treatment in patients with gastric cancer after radical gastrectomy — JAMA Network Open, 2024 (senior author)"
+            },
+            {
+              "point": "Residual circulating tumor DNA after adjuvant chemotherapy predicts recurrence of stage II-III gastric cancer — Cancer Communications, 2023"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Collaborative Research Involvement",
+        "publications": {
+          "title": "Selected Contributions",
+          "points": [
+            {
+              "point": "Contributor to SYSUCC's gastric cancer clinical and translational research programme"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Chen's research spans perioperative treatment trials and post-surgical care for gastric cancer. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Chen were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Chen practises within SYSUCC's Department of Gastric Surgery, contributing to landmark clinical trials in gastric cancer.",
+    "current_position": "Professor, Department of Gastric Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Gastric Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Co-Investigator, Perioperative Immunotherapy Trials in Gastric Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Senior Author, Post-Gastrectomy Care Research"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Collaborator, Gastric Cancer MDT, SYSUCC"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Ying-Bo Chen treats gastric cancer and related abdominal malignancies, with a research focus on perioperative treatment and post-surgical care.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Chen consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Chen's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Ying-Bo Chen",
+    "items": [
+      {
+        "question": "Does Prof. Ying-Bo Chen accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gastric cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Chen's area of specialisation?",
+        "answer": "<p>Prof. Chen specialises in gastric and abdominal surgical oncology, with active involvement in perioperative immunotherapy trials and post-surgical care research.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Chen involved in clinical trials for gastric cancer?",
+        "answer": "<p>Yes. Prof. Chen was a co-investigator on a randomised phase 2 trial of perioperative toripalimab plus chemotherapy for locally advanced gastric cancer, published in Nature Medicine in 2024.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "What follow-up care does Prof. Chen's team provide after gastrectomy?",
+        "answer": "<p>Prof. Chen's research has examined post-gastrectomy care measures, including Helicobacter pylori eradication and circulating tumour DNA-based recurrence monitoring, to support long-term outcomes after surgery.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

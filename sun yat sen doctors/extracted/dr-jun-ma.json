@@ -1,0 +1,418 @@
+{
+  "slug": "dr-jun-ma",
+  "first_name": "Jun",
+  "last_name": "Ma",
+  "qualification": "MB, MSc (Oncology), Academician of the Chinese Academy of Sciences",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Jun Ma – NPC Specialist, Guangzhou | CancerFax",
+    "desc": "Prof. Jun Ma, Academician (CAS) and Deputy President of SYSUCC, Guangzhou, leads global research on nasopharyngeal carcinoma staging and treatment.",
+    "keys": "prof jun ma, sysucc, nasopharyngeal carcinoma, npc specialist, guangzhou, radiation oncology china"
+  },
+  "hero": {
+    "designation": "Academician (Chinese Academy of Sciences) & Deputy President, SYSUCC",
+    "badge_text": "Professor of Radiation Oncology",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Nasopharyngeal Carcinoma"
+      },
+      {
+        "icon": "biotech",
+        "label": "Radiation Oncology"
+      },
+      {
+        "icon": "favorite",
+        "label": "Chemoimmunotherapy for NPC"
+      },
+      {
+        "icon": "verified",
+        "label": "TNM Staging Research"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Radiation Oncology / Key Laboratory of NPC Diagnosis & Treatment",
+    "specialty_label": "Nasopharyngeal Carcinoma — Staging, Prognosis & Comprehensive Treatment",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Jun Ma is an Academician of the Chinese Academy of Sciences and Deputy President of Sun Yat-sen University Cancer Center (SYSUCC) in Guangzhou, China. He is a Professor of Radiation Oncology and Director of the Key Laboratory of Multidisciplinary Diagnosis and Treatment of Nasopharyngeal Carcinoma (NPC).",
+    "detailed_content": "Prof. Ma's research has focused on prognosis prediction, TNM staging refinement, and comprehensive treatment strategies for nasopharyngeal carcinoma across a career spanning more than three decades. As corresponding author, he has published over 50 papers in journals including the New England Journal of Medicine, The Lancet, JAMA, The BMJ and Nature Medicine, and has led multiple phase 3 clinical trials that now inform international NPC treatment guidelines. He trained at Hunan Medical University and Sun Yat-sen University of Medical Sciences before completing a postdoctoral fellowship in Radiation Oncology at the University of Texas MD Anderson Cancer Center.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to nasopharyngeal carcinoma at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Jun Ma?",
+    "intro_text": "Prof. Ma is one of the world's leading authorities on nasopharyngeal carcinoma, combining academy-level scientific standing with decades of practice-changing clinical trial leadership.",
+    "why_cards": [
+      {
+        "icon": "emoji_events",
+        "title": "Academician, Chinese Academy of Sciences",
+        "description": "Elected in 2023 to the CAS Division of Life Science and Medicine, one of China's highest scientific honours, in recognition of his contributions to NPC research."
+      },
+      {
+        "icon": "science",
+        "title": "Practice-Changing Clinical Trials",
+        "description": "Corresponding author of multiple phase 3 randomised trials published in NEJM, The Lancet, JAMA and The BMJ that have shaped global NPC treatment protocols."
+      },
+      {
+        "icon": "verified",
+        "title": "Author of International Treatment Guidelines",
+        "description": "Co-led the International Guidelines and Atlas for Target Volume Delineation of Radiotherapy in Nasopharyngeal Carcinoma, published in The Lancet Oncology (2025) with 50 specialists from 17 countries."
+      },
+      {
+        "icon": "groups",
+        "title": "Global Leadership Roles",
+        "description": "Serves on the ASCO Asia Pacific Regional Council and co-chairs the CSCO-ASCO Nasopharyngeal Cancer Clinical Diagnosis and Treatment Guidelines Committee."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Global authority on nasopharyngeal carcinoma prognosis, staging and treatment",
+    "description_block": "Prof. Ma's clinical and research work centres on refining how nasopharyngeal carcinoma is staged, predicted and treated, spanning radiotherapy technique, systemic therapy and biomarker-driven prognostic tools.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Nasopharyngeal Carcinoma — Prognosis & Staging",
+        "description": "Development of refined staging and prognostic tools for NPC.",
+        "specialties": [
+          {
+            "title": "TNM Staging Refinement",
+            "points": [
+              {
+                "point": "Contributed to refining the 8th edition TNM classification for EBV-related NPC (Cancer Cell, 2024)"
+              },
+              {
+                "point": "Development of TNM-biomarker-based prognostic classifiers"
+              }
+            ]
+          },
+          {
+            "title": "Precision Radiotherapy Volume Design",
+            "points": [
+              {
+                "point": "Co-led the International Guidelines and Atlas for Target Volume Delineation of Radiotherapy in NPC (Lancet Oncology, 2025)"
+              },
+              {
+                "point": "Reduced-volume vs conventional-volume radiotherapy after induction chemotherapy (CA Cancer J Clin, 2025)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Systemic Treatment & Immunotherapy Innovation",
+        "description": "Clinical trial leadership combining chemotherapy, radiotherapy and immunotherapy for NPC.",
+        "specialties": [
+          {
+            "title": "Chemoimmunotherapy Combinations",
+            "points": [
+              {
+                "point": "Led the phase 3 trial adding the PD-1 antibody sintilimab to chemoradiotherapy in high-risk locally advanced NPC (The Lancet, 2024)"
+              },
+              {
+                "point": "CONTINUUM trial: induction-concurrent chemoradiotherapy with or without sintilimab (Lancet, 2024)"
+              }
+            ]
+          },
+          {
+            "title": "Induction & Adjuvant Chemotherapy Strategies",
+            "points": [
+              {
+                "point": "Gemcitabine plus cisplatin induction chemotherapy trial (New England Journal of Medicine, 2019)"
+              },
+              {
+                "point": "Metronomic capecitabine as adjuvant therapy in locoregionally advanced NPC (The Lancet, 2021)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Nasopharyngeal Carcinoma (all stages)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Locoregionally Advanced NPC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Recurrent & Metastatic NPC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Head & Neck Squamous Cell Carcinoma"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Clinical & Research Focus Areas",
+    "subHeading": "Radiotherapy planning, systemic treatment and staging for nasopharyngeal carcinoma",
+    "description_block": "Prof. Ma's clinical practice and research programme span radiotherapy technique refinement, systemic treatment combinations and staging/prognostic assessment for NPC.",
+    "procedures_cards": [
+      {
+        "title": "Precision Radiotherapy Volume Design",
+        "therapy_type": "Complex Disease",
+        "description": "Design of optimised radiotherapy target volumes for NPC based on randomised trial evidence.",
+        "procedures": [
+          {
+            "title": "Radiotherapy Planning",
+            "points": [
+              {
+                "point": "Target volume delineation for intensity-modulated radiotherapy (IMRT) in NPC"
+              },
+              {
+                "point": "Reduced-volume and neck-sparing radiotherapy protocols"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chemoradiotherapy & Immunotherapy Combination Protocols",
+        "therapy_type": "Medical Oncology",
+        "description": "Systemic treatment regimens combining chemotherapy, radiotherapy and checkpoint inhibitor immunotherapy for locoregionally advanced NPC.",
+        "procedures": [
+          {
+            "title": "Systemic Treatment Regimens",
+            "points": [
+              {
+                "point": "Concurrent chemoradiotherapy for locoregionally advanced NPC"
+              },
+              {
+                "point": "PD-1 inhibitor (sintilimab) combined with chemoradiotherapy"
+              },
+              {
+                "point": "Gemcitabine-cisplatin induction chemotherapy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "NPC Staging & Prognostic Assessment",
+        "therapy_type": "Diagnosis",
+        "description": "Staging and biomarker-based prognostic evaluation to guide treatment planning.",
+        "procedures": [
+          {
+            "title": "Staging & Biomarker Assessment",
+            "points": [
+              {
+                "point": "TNM staging assessment incorporating EBV DNA and molecular biomarkers"
+              },
+              {
+                "point": "Circulating tumour DNA (ctDNA) monitoring for relapse risk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multidisciplinary Case Review & Second Opinion",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review for complex or advanced NPC and head and neck cancer cases.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, imaging and prior treatment history for advanced NPC"
+              },
+              {
+                "point": "Multidisciplinary tumour board input on NPC and head & neck cancer cases"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Landmark trials and guideline leadership in nasopharyngeal carcinoma",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (Corresponding Author)",
+          "points": [
+            {
+              "point": "Reduced-volume vs conventional-volume radiotherapy after induction chemotherapy in NPC — CA Cancer J Clin, 2025"
+            },
+            {
+              "point": "CONTINUUM trial: induction-concurrent chemoradiotherapy with or without sintilimab in NPC — The Lancet, 2024"
+            },
+            {
+              "point": "Gemcitabine and cisplatin induction chemotherapy in nasopharyngeal carcinoma — New England Journal of Medicine, 2019"
+            },
+            {
+              "point": "Elective upper-neck vs whole-neck irradiation in NPC — The Lancet Oncology, 2022"
+            },
+            {
+              "point": "Refining the 8th edition TNM classification for EBV-related NPC — Cancer Cell, 2024"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial & Guideline Leadership",
+        "publications": {
+          "title": "Selected Trials & Guidelines",
+          "points": [
+            {
+              "point": "Principal Investigator — prospective comparison of clinical trial and real-world outcomes in NPC (ClinicalTrials.gov NCT04108338)"
+            },
+            {
+              "point": "Led the phase 3 trial of sintilimab plus chemoradiotherapy in high-risk locally advanced NPC — The Lancet, 2024"
+            },
+            {
+              "point": "Co-led the International Guidelines and Atlas for Target Volume Delineation of Radiotherapy in NPC — The Lancet Oncology, 2025"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Extensive Research Portfolio",
+      "body": "Prof. Ma has published over 50 papers as corresponding author in journals including NEJM, The Lancet, JAMA and The BMJ. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Ma trained in medicine and oncology in China before completing a postdoctoral fellowship in radiation oncology in the United States.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Medicine",
+        "institution": "Hunan Medical University, Changsha, China",
+        "years": "1980 – 1985",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "Master's Degree in Oncology",
+        "institution": "Sun Yat-sen University of Medical Sciences, Guangzhou, China",
+        "years": "1987 – 1990",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Postdoctoral Fellowship",
+        "degree_title": "Postdoctoral Fellow, Radiation Oncology",
+        "institution": "University of Texas MD Anderson Cancer Center, Houston, USA",
+        "years": "2000 – 2002",
+        "sort_order": 3
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Ma holds senior institutional leadership roles at SYSUCC alongside national and international oncology society positions.",
+    "current_position": "Academician (CAS), Professor of Radiation Oncology & Deputy President",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Key Laboratory of Multidisciplinary Diagnosis and Treatment of Nasopharyngeal Carcinoma",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Director, Key Laboratory of Multidisciplinary Diagnosis and Treatment of NPC"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Member, ASCO Asia Pacific Regional Council"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Chairman, CSCO & CACA Nasopharyngeal Carcinoma Committees"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Co-Chair, CSCO-ASCO Nasopharyngeal Cancer Treatment Guidelines Committee"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Jun Ma treats nasopharyngeal carcinoma (NPC), including locoregionally advanced, recurrent and metastatic disease, and contributes to treatment guideline development for head and neck cancers.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Ma consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Ma's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Jun Ma",
+    "items": [
+      {
+        "question": "Does Prof. Jun Ma accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to nasopharyngeal carcinoma at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What cancers does Prof. Jun Ma specialise in?",
+        "answer": "<p>Prof. Ma's clinical and research focus is nasopharyngeal carcinoma (NPC), including locoregionally advanced, recurrent, and metastatic disease, with additional contributions to head and neck cancer treatment guidelines.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Jun Ma involved in clinical trials for nasopharyngeal carcinoma?",
+        "answer": "<p>Yes. Prof. Ma has led numerous phase 3 clinical trials in NPC, including studies combining immunotherapy with chemoradiotherapy, and continues to serve as an investigator on active trials at SYSUCC.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Why is Prof. Jun Ma considered a leading authority on nasopharyngeal carcinoma?",
+        "answer": "<p>Prof. Ma is an Academician of the Chinese Academy of Sciences whose research has helped refine NPC staging systems and shape international treatment guidelines, with corresponding-author publications in journals including NEJM, The Lancet, and JAMA.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

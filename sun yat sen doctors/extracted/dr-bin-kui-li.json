@@ -1,0 +1,347 @@
+{
+  "slug": "dr-bin-kui-li",
+  "first_name": "Bin-Kui",
+  "last_name": "Li",
+  "qualification": "MD (Liver Surgery)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Bin-Kui Li – Liver Cancer Surgery | CancerFax",
+    "desc": "Prof. Bin-Kui Li is a senior liver surgeon at SYSUCC, Guangzhou, specialising in multidisciplinary treatment and prognostic research in hepatocellular carcinoma.",
+    "keys": "prof bin-kui li, sysucc, liver cancer surgery, hepatocellular carcinoma, guangzhou, liver surgery department"
+  },
+  "hero": {
+    "designation": "Director, Department of Liver Surgery, SYSUCC",
+    "badge_text": "MD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Hepatocellular Carcinoma"
+      },
+      {
+        "icon": "biotech",
+        "label": "Multidisciplinary Liver Cancer Care"
+      },
+      {
+        "icon": "favorite",
+        "label": "Prognostic Research"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Liver Surgery",
+    "specialty_label": "Multidisciplinary Treatment of Hepatocellular Carcinoma",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Bin-Kui Li is Director of the Department of Liver Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou. He treats hepatocellular carcinoma (HCC) as part of a multidisciplinary liver cancer team.",
+    "detailed_content": "Prof. Li has co-authored numerous peer-reviewed studies on hepatocellular carcinoma prognosis and treatment, including work on liver function assessment tools such as the modified albumin-bilirubin (mALBI) grade, and molecular prognostic markers including microRNA-106b. His research has also examined surgical outcomes for liver metastases, including partial hepatectomy for liver metastases originating from nasopharyngeal carcinoma.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to liver cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Bin-Kui Li?",
+    "intro_text": "Prof. Li combines surgical leadership with active research into prognostic tools that guide individualised liver cancer treatment decisions.",
+    "why_cards": [
+      {
+        "icon": "groups",
+        "title": "Director of Liver Surgery",
+        "description": "Leads the Department of Liver Surgery at SYSUCC, overseeing multidisciplinary care for hepatocellular carcinoma patients."
+      },
+      {
+        "icon": "science",
+        "title": "Liver Function Assessment Research",
+        "description": "Co-developed refinements to the modified albumin-bilirubin (mALBI) grading system used to assess liver function in HCC patients."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Molecular Prognostic Research",
+        "description": "Published research identifying molecular markers, including microRNA-106b, associated with hepatocellular carcinoma prognosis."
+      },
+      {
+        "icon": "verified",
+        "title": "Surgical Outcomes Research",
+        "description": "Studied surgical outcomes for liver metastases, including cases originating from nasopharyngeal carcinoma."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Surgical treatment and prognostic assessment of hepatocellular carcinoma",
+    "description_block": "Prof. Li's practice combines liver cancer surgery with research into prognostic tools that guide individualised treatment planning.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Hepatocellular Carcinoma Surgery",
+        "description": "Surgical treatment of primary and metastatic liver tumours.",
+        "specialties": [
+          {
+            "title": "Liver Resection Surgery",
+            "points": [
+              {
+                "point": "Surgical resection for hepatocellular carcinoma"
+              },
+              {
+                "point": "Partial hepatectomy for liver metastases, including those from nasopharyngeal carcinoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Liver Function & Prognostic Assessment",
+        "description": "Research-driven tools supporting individualised treatment decisions.",
+        "specialties": [
+          {
+            "title": "Liver Function Grading",
+            "points": [
+              {
+                "point": "Application and refinement of the modified albumin-bilirubin (mALBI) grade for liver function assessment"
+              }
+            ]
+          },
+          {
+            "title": "Molecular Prognostic Markers",
+            "points": [
+              {
+                "point": "Research on microRNA-106b as a prognostic marker in hepatocellular carcinoma"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Hepatocellular Carcinoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Liver Metastases"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Liver Function Assessment"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Prognostic & Biomarker Research"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical and multidisciplinary treatment for hepatocellular carcinoma",
+    "description_block": "Prof. Li performs liver resection procedures and directs multidisciplinary assessment for hepatocellular carcinoma and liver metastases.",
+    "procedures_cards": [
+      {
+        "title": "Liver Resection Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical resection for primary and metastatic liver tumours.",
+        "procedures": [
+          {
+            "title": "Surgical Resection Techniques",
+            "points": [
+              {
+                "point": "Partial hepatectomy for hepatocellular carcinoma"
+              },
+              {
+                "point": "Partial hepatectomy for liver metastases from other cancers"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Liver Function & Risk Assessment",
+        "therapy_type": "Diagnosis",
+        "description": "Structured evaluation of liver function to guide surgical candidacy.",
+        "procedures": [
+          {
+            "title": "Assessment Tools",
+            "points": [
+              {
+                "point": "Modified albumin-bilirubin (mALBI) grading for liver function assessment"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multidisciplinary Liver Cancer Care",
+        "therapy_type": "Multidisciplinary",
+        "description": "Coordinated surgical and systemic treatment planning within the liver cancer MDT.",
+        "procedures": [
+          {
+            "title": "Multidisciplinary Planning",
+            "points": [
+              {
+                "point": "MDT-based treatment planning for hepatocellular carcinoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Liver Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning for liver cancer.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, liver function and treatment history for hepatocellular carcinoma"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Liver function assessment and prognostic research in hepatocellular carcinoma",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "A detailed assessment of liver function in HCC patients via the modified albumin-bilirubin (mALBI) grade — American Journal of Cancer Research, 2022 (co-senior author)"
+            },
+            {
+              "point": "Upregulation of microRNA-106b is associated with poor prognosis in hepatocellular carcinoma — Diagnostic Pathology, 2014"
+            },
+            {
+              "point": "Partial hepatectomy for liver metastases from nasopharyngeal carcinoma: a comparative study and review of the literature — BMC Cancer, 2014"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Prognostic & Molecular Research",
+        "publications": {
+          "title": "Selected Studies",
+          "points": [
+            {
+              "point": "Research on allele loss and down-regulation of the heparanase gene in hepatocellular carcinoma progression"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Li's research spans liver function grading and molecular prognostic markers in hepatocellular carcinoma. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Li were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Li leads the Department of Liver Surgery at SYSUCC and conducts prognostic research alongside colleagues in the liver cancer MDT.",
+    "current_position": "Director, Department of Liver Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Liver Cancer Multidisciplinary Team (MDT)",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Director, Department of Liver Surgery"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Co-Senior Author, Liver Function Grading Research"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Collaborator, Multidisciplinary Liver Cancer Team, SYSUCC"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Bin-Kui Li treats hepatocellular carcinoma and liver metastases, with research supporting individualised assessment of liver function and prognosis.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Li consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Li's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Bin-Kui Li",
+    "items": [
+      {
+        "question": "Does Prof. Bin-Kui Li accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to liver cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Li's area of specialisation?",
+        "answer": "<p>Prof. Li specialises in the surgical and multidisciplinary treatment of hepatocellular carcinoma, with a research focus on liver function assessment and prognostic markers.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Does Prof. Li's team assess liver function before treatment?",
+        "answer": "<p>Yes. Prof. Li has contributed to refining liver function grading tools such as the modified albumin-bilirubin (mALBI) grade, which helps guide individualised treatment planning for hepatocellular carcinoma.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Does Prof. Li treat liver metastases from other cancers?",
+        "answer": "<p>Yes. Prof. Li has published research on surgical outcomes for liver metastases, including cases originating from nasopharyngeal carcinoma.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

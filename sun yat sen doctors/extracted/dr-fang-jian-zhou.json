@@ -1,0 +1,392 @@
+{
+  "slug": "dr-fang-jian-zhou",
+  "first_name": "Fang-Jian",
+  "last_name": "Zhou",
+  "qualification": "MB, MM, MD",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Fang-Jian Zhou – Urologic Cancer Surgery | CancerFax",
+    "desc": "Prof. Fang-Jian Zhou treats prostate, kidney and bladder cancer at SYSUCC, Guangzhou, pioneering nephron-sparing and modified cystectomy techniques.",
+    "keys": "prof fang-jian zhou, sysucc, urologic cancer, prostate cancer, kidney cancer, bladder cancer, guangzhou"
+  },
+  "hero": {
+    "designation": "Professor, Department of Urology, SYSUCC",
+    "badge_text": "MB, MM, MD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Prostate Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Kidney Cancer"
+      },
+      {
+        "icon": "favorite",
+        "label": "Bladder Cancer"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Urology",
+    "specialty_label": "Surgical Treatment of Genitourinary Tumours",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Fang-Jian Zhou is a Professor in the Department of Urology at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, specialising in the surgical treatment of genitourinary tumours including prostate cancer, kidney cancer and bladder cancer.",
+    "detailed_content": "Prof. Zhou's group has developed modified surgical techniques now widely adopted by peers, including a modified approach to prevent complications related to stoma and ileoureteral anastomosis in ileal conduit diversion, and a modified neourethral anastomosis technique for orthotopic neobladder reconstruction. His group has also focused on nephron-sparing surgery to preserve kidney function in patients with small renal masses, and has researched the molecular mechanisms of bladder cancer metastasis, including the role of Nkx2.8 in epithelial-mesenchymal transition.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to urologic cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Fang-Jian Zhou?",
+    "intro_text": "Prof. Zhou has developed widely adopted surgical modifications that improve outcomes and reduce complications in urologic cancer surgery.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Modified Radical Cystectomy Techniques",
+        "description": "Developed modified techniques to prevent stoma and ileoureteral anastomosis complications, and improved neourethral anastomosis for orthotopic neobladder reconstruction, both widely accepted by peers."
+      },
+      {
+        "icon": "biotech",
+        "title": "Nephron-Sparing Surgery Focus",
+        "description": "Emphasises kidney-preserving surgical techniques for small renal masses, with modifications that significantly reduce postoperative complications."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Bladder Cancer Metastasis Research",
+        "description": "Research on Nkx2.8 and epithelial-mesenchymal transition mechanisms in bladder cancer metastasis, supported by national and provincial science foundation grants."
+      },
+      {
+        "icon": "emoji_events",
+        "title": "Extensive Surgical Case Experience",
+        "description": "Contributed to numerous studies on surgical outcomes across prostate, kidney, bladder and testicular cancers over more than two decades."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Surgical treatment of genitourinary tumours",
+    "description_block": "Prof. Zhou's practice focuses on surgical innovation for prostate, kidney and bladder cancer, aiming to reduce complications and preserve function.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Bladder Cancer Surgery",
+        "description": "Modified radical cystectomy and reconstruction techniques for bladder cancer.",
+        "specialties": [
+          {
+            "title": "Modified Radical Cystectomy",
+            "points": [
+              {
+                "point": "Modified technique to prevent stoma and ileoureteral anastomosis complications"
+              },
+              {
+                "point": "Modified neourethral anastomosis for orthotopic neobladder reconstruction"
+              }
+            ]
+          },
+          {
+            "title": "Bladder Cancer Metastasis Research",
+            "points": [
+              {
+                "point": "Research on Nkx2.8 and epithelial-mesenchymal transition in bladder cancer metastasis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Kidney & Prostate Cancer Surgery",
+        "description": "Nephron-sparing and prognostic research for kidney and prostate cancer.",
+        "specialties": [
+          {
+            "title": "Nephron-Sparing Surgery",
+            "points": [
+              {
+                "point": "Modified nephron-sparing surgery for small renal masses"
+              },
+              {
+                "point": "Reduced postoperative complications through surgical technique refinement"
+              }
+            ]
+          },
+          {
+            "title": "Prostate & Testicular Cancer Surgery",
+            "points": [
+              {
+                "point": "Surgical treatment of prostate cancer"
+              },
+              {
+                "point": "Retroperitoneal lymph node dissection for testicular germ cell tumours"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Prostate Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Kidney Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Bladder Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Testicular Germ Cell Tumours"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical treatment for genitourinary tumours",
+    "description_block": "Prof. Zhou performs modified surgical techniques for bladder, kidney and prostate cancer designed to reduce complications and preserve function.",
+    "procedures_cards": [
+      {
+        "title": "Radical Cystectomy & Reconstruction",
+        "therapy_type": "Complex Disease",
+        "description": "Modified surgical techniques for bladder cancer removal and urinary diversion.",
+        "procedures": [
+          {
+            "title": "Cystectomy & Diversion Techniques",
+            "points": [
+              {
+                "point": "Modified ileal conduit diversion technique"
+              },
+              {
+                "point": "Orthotopic neobladder reconstruction with modified neourethral anastomosis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Nephron-Sparing Kidney Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Kidney-preserving surgical techniques for renal masses.",
+        "procedures": [
+          {
+            "title": "Renal Surgical Techniques",
+            "points": [
+              {
+                "point": "Nephron-sparing surgery for small renal masses"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Prostate & Testicular Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical treatment for prostate cancer and testicular germ cell tumours.",
+        "procedures": [
+          {
+            "title": "Surgical Treatment",
+            "points": [
+              {
+                "point": "Surgical treatment of prostate cancer"
+              },
+              {
+                "point": "Retroperitoneal lymph node dissection for testicular tumours"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Urologic Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for genitourinary cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Surgical innovation and metastasis research in genitourinary cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "A modified technique for neo-urethral anastomosis in orthotopic neobladder reconstruction — Urology, 2009"
+            },
+            {
+              "point": "Modified technique to prevent complications related to stoma and ileoureteral anastomosis — Urology, 2010"
+            },
+            {
+              "point": "Analysis of long-term survival in localized renal cell carcinoma: laparoscopic vs open radical nephrectomy — World Journal of Urology, 2010"
+            },
+            {
+              "point": "Expression of Bmi-1 as a prognostic marker in bladder cancer — BMC Cancer, 2009"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Additional Research Contributions",
+        "publications": {
+          "title": "Selected Studies",
+          "points": [
+            {
+              "point": "Decreased expression of dual-specificity phosphatase 9 associated with poor prognosis in clear cell renal cell carcinoma — BMC Cancer, 2011"
+            },
+            {
+              "point": "Risk factors for relapse in clinical stage I testicular nonseminomatous germ cell tumours — Medical Oncology, 2013"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Zhou's research spans surgical technique innovation and molecular mechanisms of urologic cancer. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Zhou completed his medical training, including doctoral studies, at Hunan Medical University.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Medical Bachelor",
+        "institution": "Hunan Medical University, China",
+        "years": "Obtained 1984",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "Medical Master",
+        "institution": "Hunan Medical University, China",
+        "years": "Obtained 1987",
+        "sort_order": 2
+      },
+      {
+        "phase_label": "Doctoral",
+        "degree_title": "Medical Doctor",
+        "institution": "Hunan Medical University, China",
+        "years": "Obtained 1992",
+        "sort_order": 3
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Zhou has practised urologic cancer surgery at SYSUCC, developing surgical innovations recognised nationally.",
+    "current_position": "Professor, Department of Urology",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Urology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Developer of Modified Radical Cystectomy & Reconstruction Techniques"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Recipient, Hunan Province Science and Technology Association Award (1995)"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Grant Recipient, National Natural Science Foundation of China"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Fang-Jian Zhou treats prostate cancer, kidney cancer, bladder cancer, and testicular germ cell tumours.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Zhou consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Zhou's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Fang-Jian Zhou",
+    "items": [
+      {
+        "question": "Does Prof. Fang-Jian Zhou accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to urologic cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Zhou's area of specialisation?",
+        "answer": "<p>Prof. Zhou specialises in the surgical treatment of genitourinary tumours, including prostate cancer, kidney cancer and bladder cancer.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Does Prof. Zhou perform kidney-preserving surgery?",
+        "answer": "<p>Yes. Prof. Zhou's team emphasises nephron-sparing surgical techniques for small renal masses, aiming to preserve kidney function while treating the tumour.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "What surgical innovations has Prof. Zhou developed for bladder cancer?",
+        "answer": "<p>Prof. Zhou's group developed modified techniques for ileal conduit diversion and orthotopic neobladder reconstruction that reduce complications and have been widely adopted by other surgeons.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

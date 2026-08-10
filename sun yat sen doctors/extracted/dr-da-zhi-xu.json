@@ -1,0 +1,344 @@
+{
+  "slug": "dr-da-zhi-xu",
+  "first_name": "Da-Zhi",
+  "last_name": "Xu",
+  "qualification": "MD, PhD",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Da-Zhi Xu – Gastric Cancer Surgery | CancerFax",
+    "desc": "Prof. Da-Zhi Xu specialises in gastric cancer diagnosis and treatment, with research on prognostic staging and adjuvant chemotherapy duration.",
+    "keys": "prof da-zhi xu, gastric cancer surgery, gastric and pancreatic surgery, prognostic nomogram, adjuvant chemotherapy"
+  },
+  "hero": {
+    "designation": "Professor, Gastric Cancer Surgery",
+    "badge_text": "MD, PhD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Gastric Cancer"
+      },
+      {
+        "icon": "biotech",
+        "label": "Prognostic Staging"
+      },
+      {
+        "icon": "favorite",
+        "label": "Adjuvant Chemotherapy"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Gastric Surgery",
+    "specialty_label": "Gastric Cancer Diagnosis, Staging & Treatment",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Da-Zhi Xu is a Professor specialising in gastric cancer diagnosis and treatment, with a research background in the Department of Gastric and Pancreatic Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou.",
+    "detailed_content": "Prof. Xu has co-authored research developing and validating prognostic nomograms for resectable gastric cancer using both Western (SEER) and Eastern (SYSUCC) patient populations, and has served as Principal Investigator on multicentre trials examining optimal duration of adjuvant chemotherapy (S-1) for stage II gastric cancer, as well as studies on early detection and post-operative monitoring of gastric cancer.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gastric cancer."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Da-Zhi Xu?",
+    "intro_text": "Prof. Xu brings research-driven expertise in gastric cancer staging and adjuvant treatment strategy to his clinical practice.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Prognostic Nomogram Development",
+        "description": "Co-developed and externally validated a prognostic nomogram for resectable gastric cancer using both Western (SEER) and SYSUCC patient cohorts."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Adjuvant Chemotherapy Duration Research",
+        "description": "Principal Investigator on a multicentre trial comparing 9 months versus 1 year of S-1 adjuvant chemotherapy for stage II gastric cancer."
+      },
+      {
+        "icon": "biotech",
+        "title": "Early Detection & Monitoring Research",
+        "description": "Leads research into early detection and post-operative monitoring strategies for gastric cancer using molecular diagnostic techniques."
+      },
+      {
+        "icon": "groups",
+        "title": "Multicentre Clinical Trial Leadership",
+        "description": "Coordinates multicentre studies across several hospitals in China evaluating gastric cancer treatment strategies."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Gastric cancer diagnosis, staging and adjuvant treatment strategy",
+    "description_block": "Prof. Xu's research and clinical work centre on refining prognostic assessment and optimising adjuvant treatment duration for gastric cancer.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Gastric Cancer Staging & Prognosis",
+        "description": "Tools to improve prognostic accuracy for resectable gastric cancer.",
+        "specialties": [
+          {
+            "title": "Prognostic Nomogram Development",
+            "points": [
+              {
+                "point": "Development and external validation of a prognostic nomogram for resectable gastric cancer"
+              },
+              {
+                "point": "Comparative validation against AJCC staging using SEER and SYSUCC cohorts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Adjuvant & Early Detection Strategies",
+        "description": "Optimising post-surgical treatment duration and monitoring for gastric cancer.",
+        "specialties": [
+          {
+            "title": "Adjuvant Chemotherapy Duration",
+            "points": [
+              {
+                "point": "S-1 adjuvant chemotherapy duration trial (9 months vs 1 year) for stage II gastric cancer"
+              }
+            ]
+          },
+          {
+            "title": "Early Detection & Post-Operative Monitoring",
+            "points": [
+              {
+                "point": "Molecular diagnostic approaches for early gastric cancer detection"
+              },
+              {
+                "point": "Post-operative monitoring strategies for recurrence risk"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Gastric Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Stage II Gastric Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Post-Surgical Monitoring"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Prognostic Staging"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Surgical treatment and adjuvant therapy planning for gastric cancer",
+    "description_block": "Prof. Xu's practice combines surgical treatment of gastric cancer with individualised adjuvant treatment planning informed by prognostic staging tools.",
+    "procedures_cards": [
+      {
+        "title": "Gastric Cancer Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical resection for gastric cancer.",
+        "procedures": [
+          {
+            "title": "Surgical Resection",
+            "points": [
+              {
+                "point": "Curative resection (D2 lymphadenectomy) for resectable gastric cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Adjuvant Chemotherapy Planning",
+        "therapy_type": "Medical Oncology",
+        "description": "Individualised adjuvant treatment duration based on staging and prognosis.",
+        "procedures": [
+          {
+            "title": "Adjuvant Treatment Regimens",
+            "points": [
+              {
+                "point": "S-1 based adjuvant chemotherapy for stage II gastric cancer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Post-Operative Monitoring",
+        "therapy_type": "Monitoring",
+        "description": "Structured follow-up and recurrence monitoring after gastric cancer surgery.",
+        "procedures": [
+          {
+            "title": "Follow-Up Protocols",
+            "points": [
+              {
+                "point": "Molecular and imaging-based post-operative monitoring for recurrence"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Gastric Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis, staging and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, staging and treatment history for gastric cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Prognostic staging and adjuvant treatment research in gastric cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers",
+          "points": [
+            {
+              "point": "Development and external validation of a prognostic nomogram for gastric cancer using the national cancer registry — Oncotarget, 2016"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clinical Trial Leadership",
+        "publications": {
+          "title": "Selected Trials",
+          "points": [
+            {
+              "point": "Principal Investigator — S-1 for 9 Months versus 1 Year for Stage II Gastric Cancer (ClinicalTrials.gov NCT03941561)"
+            },
+            {
+              "point": "Principal Investigator — Early Detection and Post-Operative Monitoring of Gastric Cancer (ClinicalTrials.gov NCT06232395)"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Xu's research spans prognostic staging tools and adjuvant treatment strategy for gastric cancer. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Xu were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Xu has practised in gastric cancer surgery and led multicentre research collaborations across several institutions in China.",
+    "current_position": "Professor, Gastric Cancer Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Gastric Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Principal Investigator, Multicentre Gastric Cancer Trials"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Co-Developer, Gastric Cancer Prognostic Nomogram"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Collaborator, State Key Laboratory of Oncology in South China"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Da-Zhi Xu treats gastric cancer, with a research focus on prognostic staging, adjuvant chemotherapy duration and post-operative monitoring.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Xu consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Xu's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Da-Zhi Xu",
+    "items": [
+      {
+        "question": "Does Prof. Da-Zhi Xu accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to gastric cancer, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Xu's area of specialisation?",
+        "answer": "<p>Prof. Xu specialises in gastric cancer diagnosis, staging and treatment, with a particular research interest in prognostic tools and adjuvant chemotherapy strategy.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Xu involved in clinical trials for gastric cancer?",
+        "answer": "<p>Yes. Prof. Xu has served as Principal Investigator on multicentre trials evaluating adjuvant chemotherapy duration and early detection strategies for gastric cancer.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "How does Prof. Xu's staging research help patients?",
+        "answer": "<p>Prof. Xu co-developed a prognostic nomogram for resectable gastric cancer that has been shown to more accurately predict outcomes than standard AJCC staging alone, helping guide individualised treatment decisions.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

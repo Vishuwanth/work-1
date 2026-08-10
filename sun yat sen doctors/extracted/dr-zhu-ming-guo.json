@@ -1,0 +1,385 @@
+{
+  "slug": "dr-zhu-ming-guo",
+  "first_name": "Zhu-Ming",
+  "last_name": "Guo",
+  "qualification": "MB, MM (Medicine)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Zhu-Ming Guo – Head & Neck Surgery | CancerFax",
+    "desc": "Prof. Zhu-Ming Guo is a head and neck surgeon at SYSUCC, Guangzhou, with expertise in salivary gland, thyroid and laryngeal reconstruction after cancer surgery.",
+    "keys": "prof zhu-ming guo, sysucc, head and neck surgery, thyroid carcinoma, laryngeal reconstruction, guangzhou"
+  },
+  "hero": {
+    "designation": "Professor, Department of Head and Neck Surgery, SYSUCC",
+    "badge_text": "MB, MM",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Head & Neck Tumours"
+      },
+      {
+        "icon": "biotech",
+        "label": "Salivary Gland Preservation"
+      },
+      {
+        "icon": "favorite",
+        "label": "Laryngeal Reconstruction"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Head and Neck Surgery",
+    "specialty_label": "Head & Neck Tumour Surgery with Functional Reconstruction",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Zhu-Ming Guo is a Professor in the Department of Head and Neck Surgery at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, where he has practised since graduating in 1983.",
+    "detailed_content": "Prof. Guo has published more than 50 research papers on head and neck tumours, including submandibular salivary gland transfer to prevent radiation-induced xerostomia in nasopharyngeal carcinoma patients, laryngeal framework reconstruction using titanium mesh after partial laryngectomy, and management of complications from tracheal sleeve resection for thyroid carcinoma with tracheal invasion. His work spans functional preservation and reconstructive techniques across a range of head and neck cancers.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to head and neck cancer at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Zhu-Ming Guo?",
+    "intro_text": "Prof. Guo brings four decades of experience in head and neck surgery, with particular strength in function-preserving and reconstructive techniques.",
+    "why_cards": [
+      {
+        "icon": "science",
+        "title": "Salivary Gland Preservation Technique",
+        "description": "Published 5-year outcomes on submandibular salivary gland transfer to prevent radiation-induced xerostomia in nasopharyngeal carcinoma patients."
+      },
+      {
+        "icon": "biotech",
+        "title": "Laryngeal Framework Reconstruction",
+        "description": "Developed laryngeal framework reconstruction using titanium mesh following partial laryngectomy for glottic cancer."
+      },
+      {
+        "icon": "emoji_events",
+        "title": "40+ Years of Head & Neck Surgery Experience",
+        "description": "Practising in head and neck surgery at SYSUCC since 1983, with more than 50 published research papers."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Complex Complication Management",
+        "description": "Published research on managing complications of tracheal sleeve resection for thyroid carcinoma with tracheal invasion."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Head and neck tumour surgery with functional and reconstructive technique",
+    "description_block": "Prof. Guo's practice emphasises preserving function and quality of life through reconstructive surgical technique for head and neck cancers.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Functional Preservation Surgery",
+        "description": "Techniques to preserve function during and after head and neck cancer treatment.",
+        "specialties": [
+          {
+            "title": "Salivary Gland Preservation",
+            "points": [
+              {
+                "point": "Submandibular salivary gland transfer to prevent radiation-induced xerostomia"
+              }
+            ]
+          },
+          {
+            "title": "Laryngeal Reconstruction",
+            "points": [
+              {
+                "point": "Laryngeal framework reconstruction using titanium mesh after partial laryngectomy"
+              },
+              {
+                "point": "Buried radial forearm free flap reconstruction with external flap monitoring"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Thyroid & Complex Head and Neck Tumour Management",
+        "description": "Surgical management of thyroid carcinoma and complex head and neck conditions.",
+        "specialties": [
+          {
+            "title": "Thyroid Carcinoma with Tracheal Invasion",
+            "points": [
+              {
+                "point": "Tracheal sleeve resection for papillary thyroid carcinoma with tracheal invasion"
+              },
+              {
+                "point": "Management of postoperative tracheal complications"
+              }
+            ]
+          },
+          {
+            "title": "Complex & Rare Head and Neck Tumours",
+            "points": [
+              {
+                "point": "Treatment of Kimura's disease with prognostic biomarker research"
+              },
+              {
+                "point": "Management of adenoid cystic carcinoma with hypoglossal nerve invasion"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Head & Neck Tumours"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Thyroid Carcinoma with Tracheal Invasion"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Laryngeal & Hypopharyngeal Cancer"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Second Primary Tumours after NPC Radiation"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Reconstructive and functional preservation surgery for head and neck cancer",
+    "description_block": "Prof. Guo performs surgical treatment for head and neck tumours with a focus on reconstructive and function-preserving technique.",
+    "procedures_cards": [
+      {
+        "title": "Salivary Gland Preservation Surgery",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical transfer technique to protect salivary function during radiotherapy.",
+        "procedures": [
+          {
+            "title": "Preservation Technique",
+            "points": [
+              {
+                "point": "Submandibular salivary gland transfer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Laryngeal & Hypopharyngeal Reconstruction",
+        "therapy_type": "Complex Disease",
+        "description": "Reconstructive procedures following laryngeal or hypopharyngeal cancer surgery.",
+        "procedures": [
+          {
+            "title": "Reconstructive Techniques",
+            "points": [
+              {
+                "point": "Titanium mesh laryngeal framework reconstruction"
+              },
+              {
+                "point": "Buried radial forearm free flap reconstruction for hypopharyngeal defects"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Thyroid Carcinoma with Tracheal Involvement",
+        "therapy_type": "Complex Disease",
+        "description": "Surgical management of thyroid cancer invading the trachea.",
+        "procedures": [
+          {
+            "title": "Tracheal Surgery",
+            "points": [
+              {
+                "point": "Tracheal sleeve resection for thyroid carcinoma"
+              },
+              {
+                "point": "Management of postoperative tracheal complications"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Head & Neck Cancer",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of imaging, staging and treatment history for head and neck cancer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Functional preservation and reconstructive surgery research in head and neck cancer",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (from 50+ publications)",
+          "points": [
+            {
+              "point": "Submandibular salivary gland transfer for prevention of radiation-induced xerostomia in nasopharyngeal carcinoma: 5-year outcomes — Head & Neck, 2011"
+            },
+            {
+              "point": "Laryngeal framework reconstruction using titanium mesh in glottic cancer after frontolateral vertical partial laryngectomy — The Laryngoscope, 2010"
+            },
+            {
+              "point": "Treatments for complications of tracheal sleeve resection for papillary thyroid carcinoma with tracheal invasion — European Journal of Surgical Oncology, 2014"
+            },
+            {
+              "point": "Notch-1 and Ki-67 receptor as predictors for recurrence and prognosis of Kimura's disease — International Journal of Clinical and Experimental Pathology, 2014"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Additional Research Contributions",
+        "publications": {
+          "title": "Selected Studies",
+          "points": [
+            {
+              "point": "External monitoring of buried radial forearm free flaps in hypopharyngeal reconstruction — Acta Oto-Laryngologica, 2011"
+            },
+            {
+              "point": "Survival study and treatment strategy for second primary oral cavity tumours in NPC patients after radiation — Head & Neck, 2012"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Guo has published more than 50 research papers on head and neck tumour surgery and reconstruction. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Prof. Guo trained in medicine at Sun Yat-sen University of Medical Sciences before joining SYSUCC in 1983.",
+    "is_pending": false,
+    "pending_notice": null,
+    "items": [
+      {
+        "phase_label": "Undergraduate",
+        "degree_title": "Bachelor of Medicine (MB)",
+        "institution": "Sun Yat-sen University of Medical Sciences, Guangzhou, China",
+        "years": "Obtained 1983",
+        "sort_order": 1
+      },
+      {
+        "phase_label": "Postgraduate",
+        "degree_title": "Master Degree in Medicine",
+        "institution": "Sun Yat-sen University of Medical Sciences, Guangzhou, China",
+        "years": "Obtained 1989",
+        "sort_order": 2
+      }
+    ]
+  },
+  "experience": {
+    "intro_text": "Prof. Guo has practised head and neck surgery at SYSUCC continuously since 1983.",
+    "current_position": "Professor, Department of Head and Neck Surgery",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Head and Neck Surgery",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Practising Head & Neck Surgeon at SYSUCC Since 1983"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Author of 50+ Peer-Reviewed Research Papers"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Focus on Functional Preservation & Reconstructive Surgery"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Zhu-Ming Guo treats head and neck tumours, including thyroid carcinoma with tracheal invasion, laryngeal and hypopharyngeal cancer, and complex reconstructive cases.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Guo consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Guo's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Zhu-Ming Guo",
+    "items": [
+      {
+        "question": "Does Prof. Zhu-Ming Guo accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to head and neck cancer at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Guo's area of specialisation?",
+        "answer": "<p>Prof. Guo specialises in head and neck tumour surgery, with particular expertise in functional preservation techniques and reconstructive surgery after cancer resection.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Does Prof. Guo help prevent dry mouth after nasopharyngeal carcinoma radiotherapy?",
+        "answer": "<p>Yes. Prof. Guo has published 5-year outcomes on submandibular salivary gland transfer, a surgical technique designed to reduce the risk of radiation-induced xerostomia in nasopharyngeal carcinoma patients.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "Does Prof. Guo treat thyroid cancer that has invaded the trachea?",
+        "answer": "<p>Yes. Prof. Guo has published research on managing complications of tracheal sleeve resection for papillary thyroid carcinoma with tracheal invasion, a complex surgical scenario.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

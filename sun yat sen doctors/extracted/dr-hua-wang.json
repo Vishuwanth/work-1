@@ -1,0 +1,366 @@
+{
+  "slug": "dr-hua-wang",
+  "first_name": "Hua",
+  "last_name": "Wang",
+  "qualification": "MD (Hematological Oncology)",
+  "isActive": true,
+  "dark_header": false,
+  "seo": {
+    "title": "Prof. Hua Wang – Hematological Tumor Care | CancerFax",
+    "desc": "Prof. Hua Wang treats hematological tumors at SYSUCC, Guangzhou, with molecular stratification research cited in NCCN guidelines for precision treatment.",
+    "keys": "prof hua wang, sysucc, hematological oncology, nk t-cell lymphoma, molecular stratification, guangzhou, precision treatment"
+  },
+  "hero": {
+    "designation": "Professor, Department of Hematological Oncology, SYSUCC",
+    "badge_text": "MD",
+    "badge_icon": "school",
+    "institution_text": "Sun Yat-sen University Cancer Center, Guangzhou",
+    "institution_icon": "local_hospital",
+    "chips": [
+      {
+        "icon": "science",
+        "label": "Hematological Tumors"
+      },
+      {
+        "icon": "biotech",
+        "label": "Molecular Stratification"
+      },
+      {
+        "icon": "favorite",
+        "label": "NK/T-Cell Lymphoma"
+      }
+    ],
+    "primary_cta_label": "Send Your Reports",
+    "primary_cta_url": "/upload-reports",
+    "secondary_cta_label": "Contact Us",
+    "secondary_cta_url": "/contact-us",
+    "verified_badge_label": "CancerFax Verified"
+  },
+  "info_bar": {
+    "institution_label": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "department_label": "Department of Hematological Oncology",
+    "specialty_label": "Molecular Stratification & Precision Treatment of Hematological Tumors",
+    "location_label": "Guangzhou, China",
+    "international_label": "International Case Review Supported via SYSUCC International Medical Center"
+  },
+  "about": {
+    "intro_content": "Prof. Hua Wang is a Professor in the Department of Hematological Oncology at Sun Yat-sen University Cancer Center (SYSUCC), Guangzhou, specialising in molecular stratification diagnosis and precision treatment of hematological tumors.",
+    "detailed_content": "Prof. Wang has made innovative contributions to understanding recurrence, drug resistance mechanisms, and optimisation of clinical treatment in hematological tumors, achieving 5-year survival rates that reach internationally leading levels for treated patients. Findings from his individualised treatment and prognosis research are cited in the American NCCN guidelines and are used worldwide. His research on extranodal NK/T-cell lymphoma has examined PD-L1 upregulation via the LMP1/NF-κB pathway, CD30 as a prognostic indicator, and tumour-associated macrophages as markers of poor prognosis.",
+    "callout": {
+      "type": "info",
+      "icon": "public",
+      "heading": "International Case Review",
+      "body": "CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to hematological malignancies at SYSUCC."
+    }
+  },
+  "why_consider": {
+    "section_heading": "Why Consider Prof. Hua Wang?",
+    "intro_text": "Prof. Wang's research on molecular stratification has directly shaped international treatment guidelines for hematological tumors.",
+    "why_cards": [
+      {
+        "icon": "verified",
+        "title": "Research Cited in NCCN Guidelines",
+        "description": "Findings from his individualised treatment and prognosis research for hematological tumors are cited in the American NCCN guidelines, used worldwide."
+      },
+      {
+        "icon": "emoji_events",
+        "title": "Internationally Leading Survival Outcomes",
+        "description": "Achieves 5-year survival rates for treated patients that reach internationally leading levels through molecular stratification and precision treatment."
+      },
+      {
+        "icon": "science",
+        "title": "NK/T-Cell Lymphoma Biomarker Research",
+        "description": "Published research on PD-L1, CD30 and tumour-associated macrophages as prognostic biomarkers in extranodal NK/T-cell lymphoma."
+      },
+      {
+        "icon": "menu_book",
+        "title": "Nationally Funded Research Programme",
+        "description": "Research supported by the National Nature Fund, Guangdong Nature Fund, and Guangdong Science and Technology Program."
+      }
+    ]
+  },
+  "specialization": {
+    "heading": "Areas of Specialization",
+    "subHeading": "Molecular stratification and precision treatment of hematological tumors",
+    "description_block": "Prof. Wang's practice integrates molecular diagnostics with individualised treatment planning for hematological malignancies, particularly NK/T-cell lymphoma.",
+    "group_label": "Treatment Specialties",
+    "specialities": [
+      {
+        "heading": "Molecular Stratification & Precision Treatment",
+        "description": "Individualised treatment based on molecular subtyping of hematological tumors.",
+        "specialties": [
+          {
+            "title": "Molecular Diagnosis & Individualized Treatment",
+            "points": [
+              {
+                "point": "Molecular stratification diagnosis for hematological tumors"
+              },
+              {
+                "point": "Optimisation of clinical treatment based on individual risk factors"
+              }
+            ]
+          },
+          {
+            "title": "Drug Resistance & Recurrence Research",
+            "points": [
+              {
+                "point": "Research on recurrence mechanisms in hematological tumors"
+              },
+              {
+                "point": "Investigation of drug resistance and its underlying mechanisms"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "NK/T-Cell Lymphoma Prognostic Research",
+        "description": "Biomarker research supporting risk stratification in NK/T-cell lymphoma.",
+        "specialties": [
+          {
+            "title": "Prognostic Biomarker Research",
+            "points": [
+              {
+                "point": "PD-L1 upregulation via EBV-driven LMP1/NF-κB pathway in NK/T-cell lymphoma"
+              },
+              {
+                "point": "CD30 expression as a prognostic indicator in extranodal NK/T-cell lymphoma"
+              },
+              {
+                "point": "Tumour-associated macrophage density as a prognostic marker"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "check_group_label": "Clinical Focus Areas",
+    "check_items": [
+      {
+        "icon": "check_circle",
+        "label": "Hematological Tumors"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Extranodal NK/T-Cell Lymphoma"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Treatment-Resistant Blood Cancers"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Individualized & Precision Treatment"
+      }
+    ]
+  },
+  "proceduresPerformed": {
+    "heading": "Procedures Performed",
+    "subHeading": "Molecular stratification and individualized treatment for hematological tumors",
+    "description_block": "Prof. Wang's practice integrates molecular diagnostics with individualised treatment planning to optimise outcomes for hematological tumors.",
+    "procedures_cards": [
+      {
+        "title": "Molecular Stratification Diagnosis",
+        "therapy_type": "Diagnosis",
+        "description": "Molecular subtyping to guide individualised treatment planning.",
+        "procedures": [
+          {
+            "title": "Molecular Diagnostic Assessment",
+            "points": [
+              {
+                "point": "Molecular stratification diagnosis for hematological tumors"
+              },
+              {
+                "point": "Prognostic biomarker assessment (PD-L1, CD30, tumour-associated macrophages)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Precision Treatment for Hematological Tumors",
+        "therapy_type": "Medical Oncology",
+        "description": "Individualised systemic treatment based on molecular and biomarker profile.",
+        "procedures": [
+          {
+            "title": "Individualized Treatment Planning",
+            "points": [
+              {
+                "point": "Precision treatment optimisation for hematological tumors"
+              },
+              {
+                "point": "Management of drug-resistant disease"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Recurrence Risk Monitoring",
+        "therapy_type": "Monitoring",
+        "description": "Structured follow-up informed by recurrence research.",
+        "procedures": [
+          {
+            "title": "Follow-Up & Monitoring",
+            "points": [
+              {
+                "point": "Recurrence risk monitoring based on molecular and biomarker profile"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second Opinion for Hematological Tumors",
+        "therapy_type": "Second Opinion",
+        "description": "Independent expert review of diagnosis and treatment planning.",
+        "procedures": [
+          {
+            "title": "Case Review Process",
+            "points": [
+              {
+                "point": "Review of pathology, molecular profiling and treatment history"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "researchAndPublications": {
+    "heading": "Research & Publications",
+    "subHeading": "Molecular stratification research shaping NCCN guideline citations",
+    "is_pending": false,
+    "pending_notice": null,
+    "cards": [
+      {
+        "title": "Landmark Peer-Reviewed Publications",
+        "publications": {
+          "title": "Selected Papers (from 30+ publications)",
+          "points": [
+            {
+              "point": "PD-L1 is upregulated by EBV-driven LMP1 through the NF-κB pathway and correlates with poor prognosis in NK/T-cell lymphoma — Journal of Hematology & Oncology, 2016"
+            },
+            {
+              "point": "CD30 expression is a novel prognostic indicator in extranodal NK/T-cell lymphoma, nasal type — BMC Cancer, 2014"
+            },
+            {
+              "point": "High numbers of CD68+ tumour-associated macrophages correlate with poor prognosis in extranodal NK/T-cell lymphoma, nasal type"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Grant-Funded Research Programme",
+        "publications": {
+          "title": "Selected Research Support",
+          "points": [
+            {
+              "point": "Principal Investigator, National Nature Fund research on hematological tumor stratification"
+            },
+            {
+              "point": "Principal Investigator, Guangdong Nature Fund and Guangdong Science and Technology Program grants"
+            }
+          ]
+        }
+      }
+    ],
+    "callout": {
+      "type": "info",
+      "icon": "science",
+      "heading": "Research Profile",
+      "body": "Prof. Wang's molecular stratification research is cited in NCCN guidelines and has contributed to 4 academic monographs. A fuller publication list is available on request via CancerFax."
+    }
+  },
+  "education": {
+    "intro_text": "Detailed public education-timeline records for Prof. Wang were not confirmed at the time of writing.",
+    "is_pending": true,
+    "pending_notice": "Education timeline pending confirmation with SYSUCC's International Medical Department.",
+    "items": []
+  },
+  "experience": {
+    "intro_text": "Prof. Wang has conducted molecular stratification and precision treatment research for hematological tumors at SYSUCC, with results cited internationally.",
+    "current_position": "Professor, Department of Hematological Oncology",
+    "current_institution": "Sun Yat-sen University Cancer Center (SYSUCC)",
+    "current_affiliation": "Department of Hematological Oncology",
+    "focus_items": [
+      {
+        "icon": "check_circle",
+        "label": "Selected into the Young Teacher Training Program, Sun Yat-sen University"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Author/Co-Author, 4 Academic Monographs on Hematological Oncology"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Research Cited in NCCN Guidelines"
+      },
+      {
+        "icon": "check_circle",
+        "label": "Principal Investigator, Multiple National & Provincial Research Grants"
+      }
+    ],
+    "is_pending": false,
+    "pending_notice": null
+  },
+  "conditions_section": {
+    "intro_text": "Prof. Hua Wang treats hematological tumors, including extranodal NK/T-cell lymphoma and other blood cancers requiring individualized, precision treatment.",
+    "callout": {
+      "type": "warn",
+      "icon": "link",
+      "heading": "Wire Conditions in Admin",
+      "body": "Link individual condition records through the Strapi Admin relations panel after seeding."
+    }
+  },
+  "languages_section": {
+    "intro_text": "Prof. Wang consults and publishes internationally in the following languages.",
+    "languages": [
+      {
+        "icon": "🇨🇳",
+        "label": "Mandarin Chinese"
+      },
+      {
+        "icon": "🇬🇧",
+        "label": "English"
+      }
+    ],
+    "footer_text": "CancerFax can coordinate professional medical interpreter support for international patients where required.",
+    "callout": {
+      "type": "info",
+      "icon": "translate",
+      "heading": "Interpreter Support Available",
+      "body": "CancerFax can coordinate professional medical interpreter support for international patients seeking an opinion from Prof. Wang's team."
+    }
+  },
+  "faq": {
+    "section_heading": "Frequently Asked Questions About Prof. Hua Wang",
+    "items": [
+      {
+        "question": "Does Prof. Hua Wang accept international patients?",
+        "answer": "<p>CancerFax can coordinate medical report review and consultation support for international patients seeking an opinion related to hematological tumors at Sun Yat-sen University Cancer Center, subject to hospital availability and case acceptance.</p>",
+        "sort_order": 1
+      },
+      {
+        "question": "What is Prof. Wang's area of specialisation?",
+        "answer": "<p>Prof. Wang specialises in molecular stratification diagnosis and precision treatment of hematological tumors, particularly extranodal NK/T-cell lymphoma.</p>",
+        "sort_order": 2
+      },
+      {
+        "question": "How can I request a consultation or second opinion?",
+        "answer": "<p>Submit your medical reports through CancerFax. The CancerFax team reviews the documents, prepares the case for submission, and coordinates next steps with SYSUCC's International Medical Center, subject to availability.</p>",
+        "sort_order": 3
+      },
+      {
+        "question": "Is Prof. Wang's research reflected in international treatment guidelines?",
+        "answer": "<p>Yes. Findings from Prof. Wang's individualised treatment and prognosis research for hematological tumors are cited in the American NCCN guidelines and used worldwide.</p>",
+        "sort_order": 4
+      },
+      {
+        "question": "How does molecular stratification improve treatment for blood cancers?",
+        "answer": "<p>Molecular stratification identifies subtypes and risk factors within a hematological tumor, allowing more individualized and precise treatment selection, which Prof. Wang's research has shown can improve 5-year survival outcomes.</p>",
+        "sort_order": 5
+      }
+    ]
+  }
+}

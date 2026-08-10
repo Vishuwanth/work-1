@@ -58,3 +58,17 @@ output/faq/toggles.json
 # and data/resource-checks.json (persisted check results) are deliberately NOT
 # ignored — both are meant to be committed to this private repo.
 data/.write-rate-limit-state.json
+
+# Resources tab: progress of the in-flight batch, and the detached runner's
+# stderr. Both are local runtime state — the durable record is resource-checks.json.
+data/.batch-state.json
+data/.batch.log
+
+# Half-written workbook, if an export dies between write and rename. The real
+# file (output/resources/resources-tagging.xlsx) IS committed.
+output/resources/*.tmp
+
+# Doctors tab: 3.3 MB of portraits fetched from english.sysucc.org.cn. Binaries
+# that never diff usefully, and `node scripts/fetch-doctor-photos.js` rebuilds
+# them from data/doctor-photos.json's source URLs, which IS committed.
+public/doctors/
