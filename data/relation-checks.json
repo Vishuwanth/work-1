@@ -1,0 +1,708 @@
+{
+  "treatment/3d-crt": {
+    "key": "treatment/3d-crt",
+    "contentType": "treatment",
+    "slug": "3d-crt",
+    "title": "3D-CRT: Three-Dimensional Conformal Radiation Therapy — Patient Guide",
+    "documentId": "ctmqbj1tjlu7hfyzx77lzc6d",
+    "currentRelations": [],
+    "proposedRelations": [
+      {
+        "relationType": "conditions",
+        "targetContentType": "condition",
+        "targetSlug": "lung-cancer",
+        "targetTitle": "Lung Cancer",
+        "targetDocumentId": "aa53zxjku5d8r8gs2zx04qvd",
+        "rationale": "3D-CRT is explicitly named as a standard radiotherapy technique used to treat lung cancer on this page.",
+        "writable": true
+      },
+      {
+        "relationType": "conditions",
+        "targetContentType": "condition",
+        "targetSlug": "prostate-cancer",
+        "targetTitle": "Prostate Cancer",
+        "targetDocumentId": "u3r5cx5mw780nwc3phkb88ur",
+        "rationale": "3D-CRT is explicitly named as a standard radiotherapy technique used to treat prostate cancer on this page.",
+        "writable": true
+      },
+      {
+        "relationType": "conditions",
+        "targetContentType": "condition",
+        "targetSlug": "breast-cancer",
+        "targetTitle": "Breast Cancer",
+        "targetDocumentId": "n6mt1jo142eozfqsih800n1m",
+        "rationale": "3D-CRT is explicitly named as a standard radiotherapy technique used to treat breast cancer on this page.",
+        "writable": true
+      },
+      {
+        "relationType": "conditions",
+        "targetContentType": "condition",
+        "targetSlug": "liver-cancer",
+        "targetTitle": "Liver Cancer",
+        "targetDocumentId": "v5kdmsbk2zkigtl6ajnq2lkg",
+        "rationale": "3D-CRT is explicitly named as a standard radiotherapy technique used to treat liver cancer on this page.",
+        "writable": true
+      },
+      {
+        "relationType": "treatment_modalities",
+        "targetContentType": "treatment",
+        "targetSlug": "imrt",
+        "targetTitle": "IMRT: Intensity-Modulated Radiation Therapy — Complete Patient Guide",
+        "targetDocumentId": "l02oop50k5mu8ghtf2ir2eqv",
+        "rationale": "The page has a dedicated '3D-CRT vs IMRT' comparison section, making IMRT the most directly relevant related technique.",
+        "writable": true
+      },
+      {
+        "relationType": "treatment_modalities",
+        "targetContentType": "treatment",
+        "targetSlug": "external-beam-radiation-therapy",
+        "targetTitle": "External Beam Radiation Therapy (EBRT): Complete Patient Guide",
+        "targetDocumentId": "ogoox6iqhfvptl3517rbwg4m",
+        "rationale": "3D-CRT is a foundational technique within the broader external beam radiotherapy family described on the EBRT guide.",
+        "writable": true
+      },
+      {
+        "relationType": "treatment_modalities",
+        "targetContentType": "treatment",
+        "targetSlug": "igrt",
+        "targetTitle": "Image-Guided Radiation Therapy (IGRT): Precision Radiotherapy Guide",
+        "targetDocumentId": "opbpgecf7f2e7eg4dw3oqjyo",
+        "rationale": "IGRT is the precision imaging upgrade commonly paired with CT-planned conformal techniques like 3D-CRT.",
+        "writable": true
+      },
+      {
+        "relationType": "treatment_modalities",
+        "targetContentType": "treatment",
+        "targetSlug": "vmat",
+        "targetTitle": "VMAT: Volumetric Modulated Arc Therapy — Patient Guide",
+        "targetDocumentId": "w9knfx93hs86pf448fznx6ih",
+        "rationale": "VMAT is the rotational evolution of conformal/intensity-modulated delivery patients often compare against 3D-CRT.",
+        "writable": true
+      },
+      {
+        "relationType": "treatment_modalities",
+        "targetContentType": "treatment",
+        "targetSlug": "radiation-therapy-in-china",
+        "targetTitle": "Radiation Therapy in China: Technologies, Hospitals, Costs and Treatment Access",
+        "targetDocumentId": "wmi3ryrl0vz6giorj9r8hvpl",
+        "rationale": "The page's cost and access sections cover conformal radiation availability in China, matching this country-specific radiotherapy access guide.",
+        "writable": true
+      },
+      {
+        "relationType": "topic_clusters",
+        "targetContentType": "insight",
+        "targetSlug": "advanced-radiation-therapy-cancer",
+        "targetTitle": "Advanced Radiation Therapy for Cancer: A Patient Overview",
+        "targetDocumentId": "ni5wqetod855321j948munbi",
+        "rationale": "This overview of modern radiation techniques (IMRT, VMAT, SBRT, proton) gives readers the broader radiotherapy context for 3D-CRT.",
+        "writable": true
+      },
+      {
+        "relationType": "country_pages",
+        "targetContentType": "guide",
+        "targetSlug": "cancer-treatment-cost-in-india",
+        "targetTitle": "Cancer Treatment Cost in India for Foreign Patients: Complete Guide",
+        "targetDocumentId": "w39n4at2fkgcqjoonh83lzxq",
+        "rationale": "The page's cost-comparison section explicitly discusses 3D-CRT pricing in India versus Western centres.",
+        "writable": true
+      },
+      {
+        "relationType": "country_pages",
+        "targetContentType": "guide",
+        "targetSlug": "cancer-treatment-costs-in-china",
+        "targetTitle": "Cancer Treatment Costs in China for International Patients",
+        "targetDocumentId": "k8bfyiar8q13vl5o7w9g3c81",
+        "rationale": "The page's cost-comparison section explicitly discusses 3D-CRT pricing in China versus Western centres.",
+        "writable": true
+      }
+    ],
+    "rejected": [],
+    "status": "ok",
+    "reason": "",
+    "write_status": "dry-run",
+    "checkedAt": "2026-08-10T18:14:56.825Z"
+  },
+  "ranking/car-t-hospitals-in-china": {
+    "key": "ranking/car-t-hospitals-in-china",
+    "contentType": "ranking",
+    "slug": "car-t-hospitals-in-china",
+    "title": "Top Hospitals for CAR T-cell therapy in China",
+    "documentId": "h22x1ahsl65sabdtz33y1nsx",
+    "currentRelations": [
+      {
+        "field": "author",
+        "documentId": "zwv9pzrk895o0tzz9tu5wrmp",
+        "contentType": "author",
+        "title": "Sai Sree"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "k4rowl8opwvordl4ny7n1li7",
+        "contentType": "cancer-type",
+        "title": "Leukemia"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "o7fbggtiyi2p0kam6ns7x59t",
+        "contentType": "cancer-type",
+        "title": "Lymphoma"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "me69392y9i1xsurvzfwmasjm",
+        "contentType": "cancer-type",
+        "title": "Multiple Myeloma"
+      },
+      {
+        "field": "treatments",
+        "documentId": "rdch0rfrbih645qciuwy9nd0",
+        "contentType": "treatment",
+        "title": "CAR T- Cell Therapy"
+      },
+      {
+        "field": "treatments",
+        "documentId": "fljxrhtfj1u7fouzf9oh14i5",
+        "contentType": "treatment",
+        "title": "Bone Marrow Transplant"
+      },
+      {
+        "field": "conditions",
+        "documentId": "whwfs2afwey43arow74nz6qt",
+        "contentType": "condition",
+        "title": "Leukemia"
+      },
+      {
+        "field": "conditions",
+        "documentId": "o54lzby6lgdwce7szha8x8tl",
+        "contentType": "condition",
+        "title": "Non-Hodgkin Lymphoma (NHL)"
+      },
+      {
+        "field": "conditions",
+        "documentId": "u4ypmds2yi1x3ofsmbqhe5bo",
+        "contentType": "condition",
+        "title": "Multiple Myeloma"
+      },
+      {
+        "field": "countries",
+        "documentId": "d6kd161fy17tkm9x77bwoq1g",
+        "contentType": "country",
+        "title": "China"
+      },
+      {
+        "field": "hospitals",
+        "documentId": "zihbe2ej1dy3cx5wmgos73hy",
+        "contentType": "hospital",
+        "title": "Lu Daopei Hospital"
+      },
+      {
+        "field": "hospitals",
+        "documentId": "h9w1llml78bs4o44tyn7l5nr",
+        "contentType": "hospital",
+        "title": "Institute of Hematology and Blood Diseases Hospital"
+      },
+      {
+        "field": "hospitals",
+        "documentId": "upy3jys3bm7frtd0th2qs6qz",
+        "contentType": "hospital",
+        "title": "Ruijin Hospital, Shanghai"
+      },
+      {
+        "field": "hospitals",
+        "documentId": "sgupk8amfyy8iltdv3emfngz",
+        "contentType": "hospital",
+        "title": "Beijing GoBroad Boren Hospital"
+      },
+      {
+        "field": "hospitals",
+        "documentId": "dcn2aap0ka7d7sp93cmtz1eo",
+        "contentType": "hospital",
+        "title": "The First Affiliated Hospital, Zhejiang University School of Medicine"
+      },
+      {
+        "field": "treatment_modalities",
+        "documentId": "xwoxmwbnud78523vaqido4yh",
+        "contentType": "treatment-modality",
+        "title": "CAR-T Cell Therapy"
+      }
+    ],
+    "proposedRelations": [
+      {
+        "relationType": "related_rankings",
+        "targetContentType": "ranking",
+        "targetSlug": "car-t-hospitals-india",
+        "targetTitle": "Top Hospitals for CAR T-Cell Therapy in India",
+        "targetDocumentId": "dd6p7r4xluyaqlasw2lfdjpo",
+        "rationale": "Patients comparing CAR-T destinations often weigh China against India's CAR-T hospital options.",
+        "writable": true
+      },
+      {
+        "relationType": "related_rankings",
+        "targetContentType": "ranking",
+        "targetSlug": "leukemia-hospitals-china",
+        "targetTitle": "Best Hospitals for Leukemia Treatment in China: A Patient-Focused Comparison",
+        "targetDocumentId": "fmegy4bomn90ej0by8y2j0uh",
+        "rationale": "Leukemia is one of the three cancer types this CAR-T ranking covers, so a disease-specific hospital ranking is directly useful.",
+        "writable": true
+      },
+      {
+        "relationType": "related_rankings",
+        "targetContentType": "ranking",
+        "targetSlug": "lymphoma-hospitals-china",
+        "targetTitle": "Best Hospitals for Lymphoma Treatment in China",
+        "targetDocumentId": "j8s3pkc2njuu2wts4797cgvh",
+        "rationale": "Lymphoma is a core disease covered on this page; readers comparing institutions may want the lymphoma-specific ranking.",
+        "writable": true
+      },
+      {
+        "relationType": "related_rankings",
+        "targetContentType": "ranking",
+        "targetSlug": "multiple-myeloma-hospitals-china",
+        "targetTitle": "Best Hospitals for Multiple Myeloma Treatment in China",
+        "targetDocumentId": "po4g49nhfjfrmscz2j397dxn",
+        "rationale": "Multiple myeloma is one of the diseases profiled on this page, making the myeloma-specific hospital ranking a natural next step.",
+        "writable": true
+      },
+      {
+        "relationType": "related_rankings",
+        "targetContentType": "ranking",
+        "targetSlug": "bone-marrow-transplant-hospitals-china",
+        "targetTitle": "Best Hospitals for Bone Marrow Transplant in China: Leading HSCT Centres",
+        "targetDocumentId": "u187vhgwcddu92cn0xx480o1",
+        "rationale": "The page repeatedly emphasizes CAR-T integration with stem-cell transplantation, so a BMT-focused ranking is directly relevant.",
+        "writable": true
+      },
+      {
+        "relationType": "treatments",
+        "targetContentType": "treatment",
+        "targetSlug": "car-t-cell-therapy-in-china",
+        "targetTitle": "CAR T-Cell Therapy in China",
+        "targetDocumentId": "ftst8f58jso1s938wqzpkfax",
+        "rationale": "The definitive treatment overview page for CAR-T therapy in China complements this hospital ranking.",
+        "writable": true
+      },
+      {
+        "relationType": "treatments",
+        "targetContentType": "treatment",
+        "targetSlug": "car-t-cell-therapy-for-lymphoma",
+        "targetTitle": "CAR T-Cell Therapy for Lymphoma: The Complete Patient Guide",
+        "targetDocumentId": "eynksas9zlyy225y77nh0ohn",
+        "rationale": "Several ranked hospitals are recognized for lymphoma CAR-T programs, matching this disease-specific treatment guide.",
+        "writable": true
+      },
+      {
+        "relationType": "treatments",
+        "targetContentType": "treatment",
+        "targetSlug": "car-t-cell-therapy-for-multiple-myeloma",
+        "targetTitle": "CAR T-Cell Therapy for Multiple Myeloma: Complete Patient Guide",
+        "targetDocumentId": "y8mg2oyv7kkxsd2pq379hp60",
+        "rationale": "The ranking highlights an institute with a myeloma CAR-T/cellular-therapy program, matching this treatment guide.",
+        "writable": true
+      },
+      {
+        "relationType": "treatments",
+        "targetContentType": "treatment",
+        "targetSlug": "bone-marrow-transplant-in-china",
+        "targetTitle": "Bone Marrow Transplant in China: Process, Hospitals & Cost Guide",
+        "targetDocumentId": "vzz83pxwdve0er4pcxhsuo3g",
+        "rationale": "The top-ranked hospital's CAR-T program is explicitly integrated with stem-cell transplantation, which this guide explains.",
+        "writable": true
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "faq",
+        "targetSlug": "gfzlocafh5ccphjn39e4tzgu",
+        "targetTitle": "What is the cost of CAR-T therapy in Asia?",
+        "targetDocumentId": "gfzlocafh5ccphjn39e4tzgu",
+        "rationale": "Directly answers a common cost question for patients evaluating CAR-T at these China-based hospitals.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "faq",
+        "targetSlug": "cw1k05are6qlpr8lzq6ykjg5",
+        "targetTitle": "Is CAR-T therapy available for multiple myeloma?",
+        "targetDocumentId": "cw1k05are6qlpr8lzq6ykjg5",
+        "rationale": "Answers whether CAR-T is available for multiple myeloma, relevant since one ranked institute focuses on myeloma cellular therapy.",
+        "writable": false
+      }
+    ],
+    "rejected": [
+      {
+        "raw": {
+          "relationType": "guide",
+          "targetContentType": "guide",
+          "targetSlug": "car-t-therapy-china-vs-india",
+          "rationale": "Patients evaluating this China ranking often want a direct China-vs-India CAR-T comparison for cost and eligibility."
+        },
+        "reason": "unknown-relation-type:guide"
+      },
+      {
+        "raw": {
+          "relationType": "guide",
+          "targetContentType": "guide",
+          "targetSlug": "second-opinion-cart-therapy-eligibility",
+          "rationale": "Directly addresses how to evaluate CAR-T eligibility across Chinese centres versus Western access, complementing this ranking."
+        },
+        "reason": "unknown-relation-type:guide"
+      },
+      {
+        "raw": {
+          "relationType": "guide",
+          "targetContentType": "guide",
+          "targetSlug": "second-opinion-blood-cancer-china",
+          "rationale": "Focuses on Ruijin Hospital and Peking University's hematology programs, both directly relevant to institutions on this page."
+        },
+        "reason": "unknown-relation-type:guide"
+      },
+      {
+        "raw": {
+          "relationType": "insight",
+          "targetContentType": "insight",
+          "targetSlug": "eligibility-for-car-t-therapy",
+          "rationale": "Explains the eligibility criteria patients need before any of the ranked hospitals can be considered."
+        },
+        "reason": "unknown-relation-type:insight"
+      },
+      {
+        "raw": {
+          "relationType": "insight",
+          "targetContentType": "insight",
+          "targetSlug": "car-t-clinical-trials-china",
+          "rationale": "The ranking repeatedly cites active clinical-trial protocols at these hospitals; this insight explains how international patients access them."
+        },
+        "reason": "unknown-relation-type:insight"
+      },
+      {
+        "raw": {
+          "relationType": "insight",
+          "targetContentType": "insight",
+          "targetSlug": "cost-of-car-t-therapy-worldwide",
+          "rationale": "Patients comparing these hospitals will want to understand CAR-T cost context, which this page not covering, addressed here."
+        },
+        "reason": "unknown-relation-type:insight"
+      },
+      {
+        "raw": {
+          "relationType": "insight",
+          "targetContentType": "insight",
+          "targetSlug": "car-t-for-dlbcl-in-china",
+          "rationale": "DLBCL is the principal lymphoma indication for CAR-T among the hospitals profiled here, and this insight goes deeper on eligibility and results."
+        },
+        "reason": "unknown-relation-type:insight"
+      },
+      {
+        "raw": {
+          "relationType": "insight",
+          "targetContentType": "insight",
+          "targetSlug": "car-t-for-b-cell-all-in-china",
+          "rationale": "B-ALL is a key leukemia indication for CAR-T at these centres, and this insight expands on eligibility and outcomes."
+        },
+        "reason": "unknown-relation-type:insight"
+      },
+      {
+        "raw": {
+          "relationType": "country-treatment",
+          "targetContentType": "country-treatment",
+          "targetSlug": "cancer-treatment-in-china",
+          "rationale": "Provides the broader country-level cancer treatment context for patients researching these China-based hospitals."
+        },
+        "reason": "unknown-relation-type:country-treatment"
+      }
+    ],
+    "status": "ok",
+    "reason": "",
+    "write_status": "dry-run",
+    "checkedAt": "2026-08-11T04:03:42.317Z"
+  },
+  "service/sysucc-international-patients": {
+    "key": "service/sysucc-international-patients",
+    "contentType": "service",
+    "slug": "sysucc-international-patients",
+    "title": "Sun Yat-sen University Cancer Center: International Patient Support",
+    "documentId": "kze2hz1gcffghvg9dh46d108",
+    "currentRelations": [
+      {
+        "field": "hospital",
+        "documentId": "ygf48sp92ag66w6ny1f3ehmb",
+        "contentType": "hospital",
+        "title": "Sun Yat-sen University Cancer Center"
+      },
+      {
+        "field": "country",
+        "documentId": "d6kd161fy17tkm9x77bwoq1g",
+        "contentType": "country",
+        "title": "China"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "j07fkpz60ythft0rbh4xp8sh",
+        "contentType": "cancer-type",
+        "title": "Nasopharyngeal Cancer"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "jhdnqzouw2h9v3t5vlwzikt3",
+        "contentType": "cancer-type",
+        "title": "Lung Cancer"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "o7nrwviqp6c6w6rnvifd71cq",
+        "contentType": "cancer-type",
+        "title": "Liver Cancer"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "syajnadzt8u5pi93ddcwn7av",
+        "contentType": "cancer-type",
+        "title": "Gastric Cancer"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "xw6zztlpxbcv3bwl15mwo7zo",
+        "contentType": "cancer-type",
+        "title": "Colorectal Cancer"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "yataox50jt0tbadd5kyl96d6",
+        "contentType": "cancer-type",
+        "title": "Head and Neck Cancer"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "o7fbggtiyi2p0kam6ns7x59t",
+        "contentType": "cancer-type",
+        "title": "Lymphoma"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "e84z704rkapwvp9mtih4fkkl",
+        "contentType": "cancer-type",
+        "title": "Breast Cancer"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "y2i50g69ncjitf1vj92br645",
+        "contentType": "cancer-type",
+        "title": "Pancreatic Cancer"
+      },
+      {
+        "field": "cancer_types",
+        "documentId": "qmsbgr1fuytlcjnc3qwoe5iq",
+        "contentType": "cancer-type",
+        "title": "Brain Tumor"
+      },
+      {
+        "field": "author",
+        "documentId": "zwv9pzrk895o0tzz9tu5wrmp",
+        "contentType": "author",
+        "title": "Sai Sree"
+      }
+    ],
+    "proposedRelations": [
+      {
+        "relationType": "see_also",
+        "targetContentType": "guide",
+        "targetSlug": "cancer-second-opinion-china",
+        "targetTitle": "Cancer Second Opinions in China: Zhongshan, Fudan, and Sun Yat-sen",
+        "targetDocumentId": "v00j0zea0q2d9pawb7o3eoqr",
+        "rationale": "This guide covers second opinions at Sun Yat-sen University Cancer Center directly, alongside Zhongshan and Fudan, giving broader context for this SYSUCC-specific service page.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "ranking",
+        "targetSlug": "cancer-hospitals-guangzhou",
+        "targetTitle": "Best Cancer Hospitals in Guangzhou: Leading Oncology Centres",
+        "targetDocumentId": "ggi1540614e9fueb0lqbot56",
+        "rationale": "Patients evaluating SYSUCC would benefit from seeing how it compares among other leading Guangzhou cancer hospitals.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "ranking",
+        "targetSlug": "nasopharyngeal-cancer-hospitals-china",
+        "targetTitle": "Best Hospitals for Nasopharyngeal Cancer Treatment in China",
+        "targetDocumentId": "rywji65xaxkz229s9kkmoa4x",
+        "rationale": "The page highlights nasopharyngeal cancer as a key reason to consider SYSUCC's disease-specific department structure, so this ranking gives useful comparative context.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "access",
+        "targetSlug": "nasopharyngeal-cancer-treatment-in-china",
+        "targetTitle": "Nasopharyngeal Cancer Treatment in China",
+        "targetDocumentId": "gcpmqfjhiletctzuk8dsuonw",
+        "rationale": "SYSUCC is specifically noted for concentrated nasopharyngeal cancer expertise, so this broader China treatment-access page is a natural next read.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "guide",
+        "targetSlug": "what-to-expect-at-a-chinese-cancer-hospital",
+        "targetTitle": "What to Expect at a Chinese Cancer Hospital",
+        "targetDocumentId": "robedu7ppuwpen3abvemqpz0",
+        "rationale": "Gives practical orientation for what a hospital visit in China (including SYSUCC) involves, complementing this service's journey-phase support.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "guide",
+        "targetSlug": "medical-visa-for-cancer-treatment",
+        "targetTitle": "Medical Visa for Cancer Treatment",
+        "targetDocumentId": "ipdxkm3nhd3e645qiqj8vp8v",
+        "rationale": "International patients preparing for a Guangzhou hospital visit will need visa logistics guidance, a practical step this service page references but doesn't detail.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "guide",
+        "targetSlug": "how-to-send-medical-records-to-a-chinese-cancer-hospital",
+        "targetTitle": "How to Send Medical Records to a Chinese Cancer Hospital",
+        "targetDocumentId": "gkot3qz52hrlyi52zt18ertl",
+        "rationale": "Directly supports the 'Medical Record Preparation' step CancerFax offers for SYSUCC case submission.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "faq",
+        "targetSlug": "syq2qvaeu37ixbscn0k9z6mc",
+        "targetTitle": "Does CancerFax provide medical treatment directly?",
+        "targetDocumentId": "syq2qvaeu37ixbscn0k9z6mc",
+        "rationale": "Clarifies CancerFax's non-clinical navigation role, echoing this page's repeated point that SYSUCC alone makes all clinical decisions.",
+        "writable": false
+      }
+    ],
+    "rejected": [],
+    "status": "ok",
+    "reason": "",
+    "write_status": "dry-run",
+    "checkedAt": "2026-08-11T05:46:59.556Z"
+  },
+  "service/cancer-hospitals-china-international-insurance": {
+    "key": "service/cancer-hospitals-china-international-insurance",
+    "contentType": "service",
+    "slug": "cancer-hospitals-china-international-insurance",
+    "title": "Cancer Hospitals in China That Accept International Insurance",
+    "documentId": "jw2fdaxp0pne612h8r2qg5ef",
+    "currentRelations": [
+      {
+        "field": "country",
+        "documentId": "d6kd161fy17tkm9x77bwoq1g",
+        "contentType": "country",
+        "title": "China"
+      },
+      {
+        "field": "author",
+        "documentId": "zwv9pzrk895o0tzz9tu5wrmp",
+        "contentType": "author",
+        "title": "Sai Sree"
+      },
+      {
+        "field": "related_services",
+        "documentId": "kze2hz1gcffghvg9dh46d108",
+        "contentType": "service",
+        "title": "Sun Yat-sen University Cancer Center: International Patient Support"
+      }
+    ],
+    "proposedRelations": [
+      {
+        "relationType": "hospital",
+        "targetContentType": "hospital",
+        "targetSlug": "shanghai-jiahui-international-hospital",
+        "targetTitle": "Shanghai Jiahui International Hospital",
+        "targetDocumentId": "hx4793p3p7yv3ikrqspy4z5a",
+        "rationale": "Jiahui International Cancer Center in Shanghai is one of the ten named hospitals with an active direct-billing/direct-payment insurance system discussed in this guide.",
+        "writable": true
+      },
+      {
+        "relationType": "hospital",
+        "targetContentType": "hospital",
+        "targetSlug": "royal-lee-cancer-center-guangzhou",
+        "targetTitle": "Royal Lee Cancer Center",
+        "targetDocumentId": "dl3nm69573g0e93l8mq0b65c",
+        "rationale": "Guangzhou Royal Lee is one of the ten hospitals profiled in this guide's insurance comparison table.",
+        "writable": true
+      },
+      {
+        "relationType": "hospital",
+        "targetContentType": "hospital",
+        "targetSlug": "st-stamford-modern-cancer-hospital-guangzhou",
+        "targetTitle": "St. Stamford Modern Cancer Hospital Guangzhou",
+        "targetDocumentId": "hso4e5dce3cwgpfegjebmg9n",
+        "rationale": "St. Stamford Modern Cancer Hospital Guangzhou is one of the ten hospitals profiled in this guide's insurance comparison table.",
+        "writable": true
+      },
+      {
+        "relationType": "hospital",
+        "targetContentType": "hospital",
+        "targetSlug": "arion-cancer-center-beijing-china",
+        "targetTitle": "Beijing Arion Cancer Center",
+        "targetDocumentId": "hknnmbdsay1fuobsnhffi5i3",
+        "rationale": "Beijing Arion Cancer Center is one of the ten hospitals profiled in this guide's insurance comparison table.",
+        "writable": true
+      },
+      {
+        "relationType": "hospital",
+        "targetContentType": "hospital",
+        "targetSlug": "shanghai-gobroad-cancer-hospital",
+        "targetTitle": "Shanghai GoBroad Cancer Hospital",
+        "targetDocumentId": "n2jw72czujepbo07qqdmg9f1",
+        "rationale": "Shanghai GoBroad Cancer Hospital is named in the Quick Answer as operating direct-billing/direct-payment systems and is one of the ten hospitals profiled.",
+        "writable": true
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "guide",
+        "targetSlug": "insurance-and-financing-abroad",
+        "targetTitle": "Insurance and Financing Abroad",
+        "targetDocumentId": "y5xyaqy3m4nmj515grjeghn8",
+        "rationale": "General guide on how international/domestic insurance may apply abroad directly complements this China-specific insurance verification guide.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "guide",
+        "targetSlug": "how-to-choose-a-hospital-abroad",
+        "targetTitle": "How to Choose a Hospital Abroad",
+        "targetDocumentId": "l06gkdrops9fxoq1zgm4xkui",
+        "rationale": "A patient comparing these ten hospitals for insurance support will also want broader criteria for choosing between them (accreditation, tumour board, outcomes).",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "country-treatment",
+        "targetSlug": "cancer-treatment-in-china",
+        "targetTitle": "Cancer Treatment in China",
+        "targetDocumentId": "qyzwyvjs04tono4cxl5ctm79",
+        "rationale": "Gives readers the broader country-level treatment-access picture beyond the narrow insurance-and-hospital-list focus of this page.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "guide",
+        "targetSlug": "cancer-treatment-costs-in-china",
+        "targetTitle": "Cancer Treatment Costs in China for International Patients",
+        "targetDocumentId": "k8bfyiar8q13vl5o7w9g3c81",
+        "rationale": "Patients verifying insurance coverage also need to understand the underlying treatment costs that insurance may or may not offset.",
+        "writable": false
+      },
+      {
+        "relationType": "see_also",
+        "targetContentType": "ranking",
+        "targetSlug": "cancer-hospitals-china",
+        "targetTitle": "Best Cancer Hospitals in China: Top 10 Leading Oncology Centres",
+        "targetDocumentId": "weggfo28039pksxaho7blv02",
+        "rationale": "A ranked overview of top cancer hospitals in China gives useful context alongside this insurance-focused hospital list.",
+        "writable": false
+      }
+    ],
+    "rejected": [],
+    "status": "ok",
+    "reason": "",
+    "write_status": "dry-run",
+    "checkedAt": "2026-08-11T05:48:16.566Z"
+  }
+}

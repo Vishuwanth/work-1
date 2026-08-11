@@ -64,9 +64,24 @@ data/.write-rate-limit-state.json
 data/.batch-state.json
 data/.batch.log
 
+# Relations tab: same split as Resources above — data/relation-checks.json IS
+# committed (durable review record), these two are ephemeral runtime state.
+data/.relations-batch-state.json
+data/.relations-batch.log
+
+# Relations tab: the cached content-type + corpus index (lib/relations/
+# corpus-cache.js) — a large (~4,600-row), fully-derived snapshot of prod
+# Strapi that goes stale the moment anyone edits content there. Regenerated
+# with a "Discover"/"Refresh" click; never meaningful to commit.
+data/.relations-cache.json
+
 # Half-written workbook, if an export dies between write and rename. The real
 # file (output/resources/resources-tagging.xlsx) IS committed.
 output/resources/*.tmp
+
+# Same pattern for the Relations tab's review workbook
+# (output/relations/relations-mapping.xlsx) — that file IS committed.
+output/relations/*.tmp
 
 # Doctors tab: 3.3 MB of portraits fetched from english.sysucc.org.cn. Binaries
 # that never diff usefully, and `node scripts/fetch-doctor-photos.js` rebuilds

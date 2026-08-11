@@ -1,3 +1,17 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "overrides": [
+    {
+      // lib/resources/*, lib/relations/*, lib/{credentials-store,secrets-core,ai-cli}.js,
+      // and scripts/* are deliberately plain CommonJS: they're required both by
+      // Next.js API routes and directly by `node scripts/foo.js` from the CLI,
+      // and switching them to ESM `import` would break the latter without
+      // further build tooling this app doesn't have. `no-require-imports` is a
+      // TypeScript-module-authoring rule that doesn't apply to that design.
+      "files": ["lib/**/*.js", "scripts/**/*.js"],
+      "rules": {
+        "@typescript-eslint/no-require-imports": "off"
+      }
+    }
+  ]
 }

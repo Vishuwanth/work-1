@@ -1,0 +1,1869 @@
+{
+  "generatedAt": "2026-08-11T04:03:12.710Z",
+  "sourceBackendPath": "/Users/parthivreddy/Documents/Cancerfax/vscode/Cancerfax/Cancerfax Main/cancerfax-strapi-backend",
+  "contentTypes": [
+    {
+      "apiId": "access",
+      "plural": "accesses",
+      "displayName": "Access",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "condition",
+          "cardinality": "one",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "country",
+          "cardinality": "one",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "patient_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "related_access_pages",
+          "cardinality": "many",
+          "targetApiId": "access",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "announcement",
+      "plural": "announcements",
+      "displayName": "Announcements",
+      "lastNameField": null,
+      "excerptField": "excerpt",
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": []
+    },
+    {
+      "apiId": "audience",
+      "plural": "audiences",
+      "displayName": "Audience",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "insights",
+          "cardinality": "many",
+          "targetApiId": "insight",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "guides",
+          "cardinality": "many",
+          "targetApiId": "guide",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "author",
+      "plural": "authors",
+      "displayName": "Author",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "firstName",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "doctor",
+          "cardinality": "one",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "resources",
+          "cardinality": "many",
+          "targetApiId": "resource",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "insights",
+          "cardinality": "many",
+          "targetApiId": "insight",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "guides",
+          "cardinality": "many",
+          "targetApiId": "guide",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "rankings",
+          "cardinality": "many",
+          "targetApiId": "ranking",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "biomarker",
+      "plural": "biomarkers",
+      "displayName": "Biomarker",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "cancer-type",
+      "plural": "cancer-types",
+      "displayName": "Cancer Type",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "parent",
+          "cardinality": "one",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "children",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "insights",
+          "cardinality": "many",
+          "targetApiId": "insight",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "guides",
+          "cardinality": "many",
+          "targetApiId": "guide",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "category",
+      "plural": "categories",
+      "displayName": "Categories",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "faqs",
+          "cardinality": "many",
+          "targetApiId": "faq",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "insights",
+          "cardinality": "many",
+          "targetApiId": "insight",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "clinical-trial",
+      "plural": "clinical-trials",
+      "displayName": "Clinical Trial",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "countries",
+          "cardinality": "many",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "principal_investigator",
+          "cardinality": "one",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "taxonomy_countries",
+          "cardinality": "many",
+          "targetApiId": "treatment-country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "biomarkers",
+          "cardinality": "many",
+          "targetApiId": "biomarker",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "condition",
+      "plural": "conditions",
+      "displayName": "Condition",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "condition_name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "tags",
+          "cardinality": "many",
+          "targetApiId": "tag",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "related_conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "specialist_centers",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "recommended_doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "related_articles",
+          "cardinality": "many",
+          "targetApiId": "insight",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "country_treatment_pages",
+          "cardinality": "many",
+          "targetApiId": "country-treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "journey_stages",
+          "cardinality": "many",
+          "targetApiId": "journey-stage",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "country",
+      "plural": "countries",
+      "displayName": "Country",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "country",
+      "slugField": null,
+      "relationFields": [
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_pages",
+          "cardinality": "many",
+          "targetApiId": "country-treatment",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "country-treatment",
+      "plural": "country-treatments",
+      "displayName": "Country Treatment",
+      "lastNameField": null,
+      "excerptField": "excerpt",
+      "titleField": "page_title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "country",
+          "cardinality": "one",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment",
+          "cardinality": "one",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "condition",
+          "cardinality": "one",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "featured_hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "featured_doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "featured_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "diagnostic",
+      "plural": "diagnostics",
+      "displayName": "Diagnostic",
+      "lastNameField": null,
+      "excerptField": "featuredSnippetText",
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "biomarkers",
+          "cardinality": "many",
+          "targetApiId": "biomarker",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "doctor",
+      "plural": "doctors",
+      "displayName": "Doctor",
+      "lastNameField": "last_name",
+      "excerptField": null,
+      "titleField": "first_name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "hospital",
+          "cardinality": "one",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "country",
+          "cardinality": "one",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "specialties",
+          "cardinality": "many",
+          "targetApiId": "specialty",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "taxonomy_countries",
+          "cardinality": "many",
+          "targetApiId": "treatment-country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "tags",
+          "cardinality": "many",
+          "targetApiId": "tag",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "led_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "featured_in_pages",
+          "cardinality": "many",
+          "targetApiId": "country-treatment",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "drug",
+      "plural": "drugs",
+      "displayName": "Drug",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drug_classes",
+          "cardinality": "many",
+          "targetApiId": "drug-class",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "biomarkers",
+          "cardinality": "many",
+          "targetApiId": "biomarker",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "related_drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "related_guides",
+          "cardinality": "many",
+          "targetApiId": "guide",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "drug-class",
+      "plural": "drug-classes",
+      "displayName": "Drug Class",
+      "lastNameField": null,
+      "excerptField": "mechanism_summary",
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "faq",
+      "plural": "faqs",
+      "displayName": "FAQ",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "question",
+      "slugField": null,
+      "relationFields": [
+        {
+          "field": "category",
+          "cardinality": "one",
+          "targetApiId": "category",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "tags",
+          "cardinality": "many",
+          "targetApiId": "tag",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "guide",
+      "plural": "guides",
+      "displayName": "Guides",
+      "lastNameField": null,
+      "excerptField": "featuredSnippetText",
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "topic_clusters",
+          "cardinality": "many",
+          "targetApiId": "topic-cluster",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "audiences",
+          "cardinality": "many",
+          "targetApiId": "audience",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "journey_stages",
+          "cardinality": "many",
+          "targetApiId": "journey-stage",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "hospital",
+      "plural": "hospitals",
+      "displayName": "Hospital",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "country",
+          "cardinality": "one",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "featured_in_pages",
+          "cardinality": "many",
+          "targetApiId": "country-treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "taxonomy_countries",
+          "cardinality": "many",
+          "targetApiId": "treatment-country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "specialties",
+          "cardinality": "many",
+          "targetApiId": "specialty",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "insight",
+      "plural": "insights",
+      "displayName": "Insights",
+      "lastNameField": null,
+      "excerptField": "featuredSnippetText",
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "condition",
+          "cardinality": "one",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "topic_clusters",
+          "cardinality": "many",
+          "targetApiId": "topic-cluster",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "journey_stages",
+          "cardinality": "many",
+          "targetApiId": "journey-stage",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "audiences",
+          "cardinality": "many",
+          "targetApiId": "audience",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "categories",
+          "cardinality": "many",
+          "targetApiId": "category",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "journey-stage",
+      "plural": "journey-stages",
+      "displayName": "Journey Stage",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "insights",
+          "cardinality": "many",
+          "targetApiId": "insight",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "guides",
+          "cardinality": "many",
+          "targetApiId": "guide",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "news-entry",
+      "plural": "news",
+      "displayName": "News",
+      "lastNameField": null,
+      "excerptField": "excerpt",
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": []
+    },
+    {
+      "apiId": "origin-country",
+      "plural": "origin-countries",
+      "displayName": "Origin Country",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "page",
+      "plural": "pages",
+      "displayName": "Pages",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": null,
+      "slugField": "slug",
+      "relationFields": []
+    },
+    {
+      "apiId": "partner",
+      "plural": "partners",
+      "displayName": "Partner",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": []
+    },
+    {
+      "apiId": "ranking",
+      "plural": "rankings",
+      "displayName": "Ranking",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "countries",
+          "cardinality": "many",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "related_rankings",
+          "cardinality": "many",
+          "targetApiId": "ranking",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "resource",
+      "plural": "resources",
+      "displayName": "Resource",
+      "lastNameField": null,
+      "excerptField": "excerpt",
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "resource_category",
+          "cardinality": "one",
+          "targetApiId": "resource-category",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "resource_subcategory",
+          "cardinality": "one",
+          "targetApiId": "resource-subcategory",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "resource_tags",
+          "cardinality": "many",
+          "targetApiId": "resource-tag",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "related_treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "related_conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "resource-category",
+      "plural": "resource-categories",
+      "displayName": "Resource Category",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "subcategories",
+          "cardinality": "many",
+          "targetApiId": "resource-subcategory",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "resources",
+          "cardinality": "many",
+          "targetApiId": "resource",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "resource-subcategory",
+      "plural": "resource-subcategories",
+      "displayName": "Resource Subcategory",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "resource_category",
+          "cardinality": "one",
+          "targetApiId": "resource-category",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "resources",
+          "cardinality": "many",
+          "targetApiId": "resource",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "resource-tag",
+      "plural": "resource-tags",
+      "displayName": "Resource Tag",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "tag_groups",
+          "cardinality": "many",
+          "targetApiId": "resource-tag-group",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "resources",
+          "cardinality": "many",
+          "targetApiId": "resource",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "resource-tag-group",
+      "plural": "resource-tag-groups",
+      "displayName": "Resource Tag Group",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "resource_tags",
+          "cardinality": "many",
+          "targetApiId": "resource-tag",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "service",
+      "plural": "services",
+      "displayName": "Service",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "hospital",
+          "cardinality": "one",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "country",
+          "cardinality": "one",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "related_services",
+          "cardinality": "many",
+          "targetApiId": "service",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "specialty",
+      "plural": "specialties",
+      "displayName": "Specialty",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "survivor-story",
+      "plural": "survivor-stories",
+      "displayName": "Survivor Story",
+      "lastNameField": null,
+      "excerptField": "short_quote",
+      "titleField": "patient_name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "condition",
+          "cardinality": "one",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment",
+          "cardinality": "one",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospital",
+          "cardinality": "one",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "doctor",
+          "cardinality": "one",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "country",
+          "cardinality": "one",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "tags",
+          "cardinality": "many",
+          "targetApiId": "tag",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "featured_in_pages",
+          "cardinality": "many",
+          "targetApiId": "country-treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "taxonomy_countries",
+          "cardinality": "many",
+          "targetApiId": "treatment-country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "origin_countries",
+          "cardinality": "many",
+          "targetApiId": "origin-country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "journey_stages",
+          "cardinality": "many",
+          "targetApiId": "journey-stage",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "tag",
+      "plural": "tags",
+      "displayName": "tag",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": null,
+      "relationFields": [
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "faqs",
+          "cardinality": "many",
+          "targetApiId": "faq",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "topic-cluster",
+      "plural": "topic-clusters",
+      "displayName": "Topic Cluster",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "insights",
+          "cardinality": "many",
+          "targetApiId": "insight",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "guides",
+          "cardinality": "many",
+          "targetApiId": "guide",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "treatment",
+      "plural": "treatments",
+      "displayName": "Treatment",
+      "lastNameField": null,
+      "excerptField": "featuredSnippetText",
+      "titleField": "title",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "author",
+          "cardinality": "one",
+          "targetApiId": "author",
+          "private": false,
+          "nonContent": true
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "countries",
+          "cardinality": "many",
+          "targetApiId": "country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "country_pages",
+          "cardinality": "many",
+          "targetApiId": "country-treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatment_modalities",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "cancer_types",
+          "cardinality": "many",
+          "targetApiId": "cancer-type",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "taxonomy_countries",
+          "cardinality": "many",
+          "targetApiId": "treatment-country",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "biomarkers",
+          "cardinality": "many",
+          "targetApiId": "biomarker",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drug_classes",
+          "cardinality": "many",
+          "targetApiId": "drug-class",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "topic_clusters",
+          "cardinality": "many",
+          "targetApiId": "topic-cluster",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "treatment-country",
+      "plural": "treatment-countries",
+      "displayName": "Treatment Country",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    },
+    {
+      "apiId": "treatment-modality",
+      "plural": "treatment-modalities",
+      "displayName": "Treatment Modality",
+      "lastNameField": null,
+      "excerptField": null,
+      "titleField": "name",
+      "slugField": "slug",
+      "relationFields": [
+        {
+          "field": "parent",
+          "cardinality": "one",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "children",
+          "cardinality": "many",
+          "targetApiId": "treatment-modality",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "conditions",
+          "cardinality": "many",
+          "targetApiId": "condition",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "treatments",
+          "cardinality": "many",
+          "targetApiId": "treatment",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "insights",
+          "cardinality": "many",
+          "targetApiId": "insight",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "guides",
+          "cardinality": "many",
+          "targetApiId": "guide",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "doctors",
+          "cardinality": "many",
+          "targetApiId": "doctor",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "hospitals",
+          "cardinality": "many",
+          "targetApiId": "hospital",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "drugs",
+          "cardinality": "many",
+          "targetApiId": "drug",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "clinical_trials",
+          "cardinality": "many",
+          "targetApiId": "clinical-trial",
+          "private": false,
+          "nonContent": false
+        },
+        {
+          "field": "survivor_stories",
+          "cardinality": "many",
+          "targetApiId": "survivor-story",
+          "private": false,
+          "nonContent": false
+        }
+      ]
+    }
+  ]
+}

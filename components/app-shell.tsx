@@ -13,6 +13,7 @@ import { FaqDetailDrawer } from "@/components/faq-detail-drawer";
 import { BatchPanel } from "@/components/batch-panel";
 import { ResourcesTab } from "@/components/resources-tab";
 import { DoctorsTab } from "@/components/doctors-tab";
+import { RelationsTab } from "@/components/relations-tab";
 import { ComingSoonTab } from "@/components/coming-soon-tab";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
@@ -111,6 +112,7 @@ export function AppShell({ initial }: AppShellProps) {
           <TabsTrigger value="resources">🏷️ Resources</TabsTrigger>
           <TabsTrigger value="hospitals">🏗️🦥 Hospitals</TabsTrigger>
           <TabsTrigger value="doctors">🦆 Doctors</TabsTrigger>
+          <TabsTrigger value="relations">🔗 Relations</TabsTrigger>
         </TabsList>
 
         <TabsContent value="faqs">
@@ -173,6 +175,10 @@ export function AppShell({ initial }: AppShellProps) {
 
         <TabsContent value="doctors">
           <DoctorsTab />
+        </TabsContent>
+
+        <TabsContent value="relations">
+          <RelationsTab />
         </TabsContent>
       </Tabs>
     </div>
