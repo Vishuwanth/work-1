@@ -249,7 +249,7 @@ function RelationsListPanel() {
 
   // Served from lib/relations/corpus-cache.js — a normal load reads the
   // cache (near-instant); `refresh: true` forces a live re-fetch of the
-  // ~4,600-entry corpus (~55s) and overwrites it. See the "Refresh" button.
+  // ~3,400-entry corpus (~55s) and overwrites it. See the "Refresh" button.
   const loadList = React.useCallback(async (refresh = false) => {
     setLoadingList(true);
     setListError(null);
@@ -556,7 +556,7 @@ function RelationsListPanel() {
           className={listUpdatedAt ? undefined : "ml-auto"}
           onClick={() => void loadList(true)}
           disabled={loadingList}
-          title="Re-fetches every entry from Strapi (~4,600 entries, ~55s) and overwrites the cache — use after adding or editing content."
+          title="Re-fetches every entry from Strapi (~3,400 entries, ~55s) and overwrites the cache — use after adding or editing content."
         >
           {loadingList ? "Refreshing…" : "Refresh (re-fetch from Strapi)"}
         </Button>

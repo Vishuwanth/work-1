@@ -61,7 +61,7 @@ raw → done move manually. **Needs work** keeps a row in `raw/` for another pas
 
 ## Relations tab
 
-The **🔗 Relations** tab maps how CancerFax's ~38 Strapi content types
+The **🔗 Relations** tab maps how CancerFax's ~37 Strapi content types
 (treatments, conditions, doctors, hospitals, drugs, clinical trials, rankings,
 guides, insights, resources, and more — see `docs/specs/2026-08-10-relations-mapping-design.md`
 for the full list) should link to each other. Most of these already have
@@ -74,7 +74,7 @@ page to link to.
 without an explicit, separate Write step:**
 
 1. **Discover** (Content Types tab → "Discover + refresh cache") — confirms
-   every content type is live and refreshes the corpus of ~4,600 entries.
+   every content type is live and refreshes the corpus of ~3,400 entries.
    Takes about a minute; you don't need to do this every time (see Caching
    below).
 2. **Run** — select one or more entries in the table and click **Run**. Each
@@ -112,7 +112,7 @@ without an explicit, separate Write step:**
 
 ### Caching
 
-The ~4,600-entry corpus is fetched from Strapi **once** and reused — not
+The ~3,400-entry corpus is fetched from Strapi **once** and reused — not
 refetched on every Run, Write, or tab visit (see
 `data/.relations-cache.json`, gitignored). The Relations tab shows
 `Cached · <n>m ago` so you always know how fresh it is. Refresh it explicitly

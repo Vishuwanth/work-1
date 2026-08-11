@@ -36,7 +36,7 @@
  * Content types + the corpus index come from lib/relations/corpus-cache.js
  * (cached — see its header) rather than being fetched fresh on every call.
  * A batch that only maps one or two entries used to pay the full ~55s,
- * ~4,600-row corpus fetch anyway; now it's a cache read unless `--refresh`
+ * ~3,400-row corpus fetch anyway; now it's a cache read unless `--refresh`
  * is passed or nothing has ever been cached yet. Only the entry actually
  * being mapped is still fetched live and in full (`fetchEntryByDocumentId`,
  * `populate=*`) — the model always reasons over current content, even when

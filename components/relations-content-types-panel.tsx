@@ -13,7 +13,7 @@ import type { ContentTypeInfo } from "@/lib/relation-reports";
  * and target types come from the schema registry (ground truth, generated
  * from Strapi's own schema.json files — see scripts/generate-relation-schema.js);
  * this button only re-checks each type is still live and refreshes entry
- * counts (~38 cheap requests). Manual, like the Resources tab's "Fetch live
+ * counts (~37 cheap requests). Manual, like the Resources tab's "Fetch live
  * taxonomy" — not auto-run on tab open.
  */
 export function RelationsContentTypesPanel() {
@@ -62,7 +62,7 @@ export function RelationsContentTypesPanel() {
         ) : (
           <span className="text-xs text-muted-foreground">
             Re-fetches everything live from prod and overwrites the shared cache the Relations tab and every
-            Run/Write batch reads from (~1 min for ~4,600 entries). The field/relation structure itself only
+            Run/Write batch reads from (~1 min for ~3,400 entries). The field/relation structure itself only
             changes when the schema registry is regenerated — see docs/specs.
           </span>
         )}

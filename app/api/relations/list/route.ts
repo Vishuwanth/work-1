@@ -19,7 +19,7 @@ function json(body: unknown, status = 200): Response {
  * Content types + every entry's title/slug/excerpt across all of them — no
  * full body, no current-relations lookup. Served from
  * lib/relations/corpus-cache.js by default (near-instant); pass
- * `?refresh=true` to force a live re-fetch (~55s for ~4,600 entries) and
+ * `?refresh=true` to force a live re-fetch (~55s for ~3,400 entries) and
  * overwrite the cache.
  */
 export async function GET(request: Request): Promise<Response> {

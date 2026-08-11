@@ -67,6 +67,17 @@ const OUTPUT_PATH = path.resolve(process.cwd(), 'lib/relations/schema-registry.j
  *    `seo`/`isActive`/`contact`/`address` components): no synthesizable
  *    title, zero relations declared, and never referenced as a relation
  *    target by anything else. There's no content identity here to map.
+ *  - faq — 1,180 individual Q&A snippets, by far the single largest content
+ *    type in the registry (more than resource + insight combined). Each one
+ *    is a fragment of an answer, not a page a patient reads and follows
+ *    links from — mapping "relations" onto it doesn't fit the model the
+ *    rest of this feature uses, and its sheer volume would dominate every
+ *    batch count without being valuable to map. Excluding it drops the
+ *    corpus from ~4,600 to ~3,400 entries. (Its two relation fields —
+ *    `category`, `tags` — were FAQ taxonomy, already a poor fit anyway.)
+ *    `tag.faqs`/`category.faqs`, the reverse side of that relation on other
+ *    types, are dropped automatically by the target-exclusion check below —
+ *    nothing special-cased for them.
  */
 const EXCLUDED_API_IDS = new Set([
   'contact-submission',
@@ -78,6 +89,7 @@ const EXCLUDED_API_IDS = new Set([
   'menu-item',
   'redirection',
   'location',
+  'faq',
 ]);
 
 /**
@@ -115,8 +127,9 @@ function loadSchema(backendPath, apiFolderName) {
   return JSON.parse(fs.readFileSync(schemaPath, 'utf8'));
 }
 
-// When a content type has no `uid` slug field (country, faq, tag — a
-// handful of the 39), there's no schema-declared title either. Rather than
+// When a content type has no `uid` slug field (country, tag — a couple of
+// the included types; `faq` was a third before it was excluded above),
+// there's no schema-declared title either. Rather than
 // hardcode each type's field name, prefer a short list of names this
 // codebase's own content types are already known to use, then fall back to
 // the first plain string field in schema-declaration order — still ground

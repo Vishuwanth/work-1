@@ -1,8 +1,9 @@
 # Design: AI-mapped cross-content-type relations (the Relations tab)
 
 **Date:** 2026-08-10 (revised 2026-08-11 — schema-registry rewrite, scope
-expanded from 10 to 38 content types; corpus/discovery caching added, §3.3;
-Run pacing + Excel review workbook added, §7.1 and §10.1)
+expanded from 10 to 38 content types, then `faq` excluded → 37; corpus/
+discovery caching added, §3.3; Run pacing + Excel review workbook added,
+§7.1 and §10.1)
 **Status:** as-built — written after implementation
 **Scope:** the new Relations tab of the review app, and the `lib/relations/` +
 `scripts/` code behind it. Also extracts `lib/ai-cli.js` out of
@@ -16,9 +17,9 @@ one `claude -p` transport.
 CancerFax's Strapi CMS defines content types this app had never touched
 before this feature. The first version of this design discovered 10 of them
 live by probing candidate routes; reading the actual `cancerfax-strapi-backend`
-repo's `schema.json` files directly (§3.2) found the true number: **38
-content types** worth mapping relations between — patient-facing pages
-(`treatment`, `condition`, `doctor`, `hospital`, `drug`, `clinical-trial`,
+repo's `schema.json` files directly (§3.2) found the true number: 38 content
+types worth mapping relations between — patient-facing pages (`treatment`,
+`condition`, `doctor`, `hospital`, `drug`, `clinical-trial`,
 `survivor-story`, `guide`, `insight`, `resource`, `access`, `ranking`,
 `diagnostic`, `service`, …) *and* taxonomy/hub types (`cancer-type`,
 `treatment-modality`, `biomarker`, `specialty`, `tag`, `category`, …) that
@@ -28,14 +29,21 @@ related treatments, doctors, hospitals, insights, guides, drugs, clinical
 trials, and survivor stories. Relations depend on these taxonomy types as
 much as on the "main" content types, which is why they're in scope too.
 
-Most of these 38 types already carry real Strapi **relation fields** to each
+One of those 38, `faq`, was dropped shortly after: 1,180 individual Q&A
+snippets — more than `resource` and `insight` combined — none of which is a
+page a patient reads and follows links from. It dominated every batch count
+without being valuable to map (see §3.2's exclusion list for the full
+rationale). **37 content types, ~3,400 entries** is the actual working
+scope.
+
+Most of these 37 types already carry real Strapi **relation fields** to each
 other — `treatment.conditions`, `condition.recommended_doctors`,
 `drug.related_guides`, and well over a hundred more across the registry —
 but the large majority sit empty. The schema for cross-linking content
 already exists; the content itself mostly isn't linked yet.
 
 Building that by hand means a reviewer reading, say, a treatment page and
-manually deciding which of ~4,500 other entries across 37 other content
+manually deciding which of ~3,400 other entries across 36 other content
 types it should reference. Slow, and easy to miss an obviously relevant
 condition or doctor page that exists but wasn't top of mind.
 
@@ -111,7 +119,7 @@ Run/Write batch).
 | Route | Behavior |
 |---|---|
 | `GET /api/relations/discover` | `node scripts/discover-content-types.js` — always forces a live re-fetch (§3.3), ~1 min |
-| `GET /api/relations/list` | `node scripts/list-relation-entries.js` — cache hit: near-instant. `?refresh=true` forces a live re-fetch, ~55s for ~4,600 entries |
+| `GET /api/relations/list` | `node scripts/list-relation-entries.js` — cache hit: near-instant. `?refresh=true` forces a live re-fetch, ~55s for ~3,400 entries |
 | `POST /api/relations/run` | spawns `scripts/run-relation-check.js` DETACHED, returns 202. `{ refresh: true }` in the body forces a live re-fetch first |
 | `GET/DELETE /api/relations/batch` | progress / stop, mirrors the Resources route exactly |
 | `GET /api/relations/checks` | reads `data/relation-checks.json` directly |
@@ -135,7 +143,7 @@ Run/Write batch).
 ### 3.3 Caching — fetch once, keep it
 
 The corpus fetch (§5) is the expensive part of this feature: ~55s across
-~4,600 entries in 38 content types. Before caching, **every** Run, every
+~3,400 entries in 37 content types. Before caching, **every** Run, every
 Write, and every Relations-tab page load re-paid that cost in full — mapping
 a single entry cost the same ~55s corpus fetch as mapping a hundred.
 
@@ -204,12 +212,13 @@ produce `lib/relations/schema-registry.json`. Per content type, it records:
 - `titleField` — from the `uid` (slug) field's `targetField`, i.e. whichever
   field Strapi actually slugifies from. Ground truth, not a guess; falls
   back to a short candidate list (`title`, `name`, `question`, …) only for
-  the few types with no `uid` field at all (`country`, `faq`, `tag`).
+  the few included types with no `uid` field at all (`country`, `tag` — `faq`
+  was the third, before it was excluded, §3.2 below).
 - `lastNameField` — set only when the title fallback picked `first_name`
   and a `last_name` field also exists (`doctor`), so the display title can
   join both instead of showing half a name.
 - `slugField` — `null` for the few types with no `uid` field (`country`,
-  `faq`, `tag`); `lib/relations/shared.js`'s `entrySlug()` falls back to
+  `tag`); `lib/relations/shared.js`'s `entrySlug()` falls back to
   `documentId` for these, which is what the rest of the feature's identity
   system (`${contentType}/${slug}`) actually keys on.
 - `excerptField` — best-effort short-text field, if the type has one.
@@ -225,6 +234,7 @@ target, regardless of what relations they declare):
 | Site plumbing | `menu-item`, `redirection` | Navigation/routing structure, not content with meaning to a patient. |
 | Singleton config | `cancerfax-help-config`, `global`, `resource-tag-config` | Strapi `singleType`s — one config record, not a corpus of entries. Excluded generically (`schema.kind !== 'collectionType'`), not by name. |
 | No content identity | `location` | No `uid` slug and no plain string field either (only `seo`/`isActive`/`contact`/`address` components) — nothing to title an entry with, zero relations declared, never referenced by anything else. |
+| Wrong grain | `faq` | 1,180 individual Q&A snippets — more than `resource`+`insight` combined — none of which is a page a patient reads and follows links from. Dominated every batch count without being worth mapping. Its two relation fields (`category`, `tags`) were FAQ taxonomy, not content links either. |
 
 **One relation field excluded on every type regardless of target**:
 `author` (`nonContent: true`) — who wrote a page is an editorial assignment,
@@ -263,9 +273,10 @@ still needs them to tell a relation/media subtree apart from prose when
 deep-walking a fully-populated entry for `flattenEntryText`.
 
 Live result (2026-08-11): all 38 registered types resolved, **4,592 entries
-total**. The three largest — `faq` (1,180), `resource` (742), `insight`
-(553) — are exactly why `selectCandidates` (§5) ranks rather than including
-every candidate for every prompt.
+total** — before `faq` (1,180 entries) was excluded (§3.2), leaving **37
+types and 3,436 entries**. `resource` (742) and `insight` (553) are now the
+two largest, and are exactly why `selectCandidates` (§5) ranks rather than
+including every candidate for every prompt.
 
 ---
 
@@ -278,7 +289,7 @@ Two-stage fetch, same principle as Resources' `fetchResourceList`/
   excerpt (a handful of schema-verified fields — see `pickListFields`, which
   must ask Strapi for exactly the fields a given type has: an unknown
   `fields[]` name 400s the whole request, so this can't be a fixed guessed
-  list) across all 38 types — ~4,600 entries, ~55s live. This is the pool of
+  list) across all 37 types — ~3,400 entries, ~55s live. This is the pool of
   legitimate link targets. As of §3.3 it's no longer fetched fresh on every
   batch — `lib/relations/corpus-cache.js` serves it from a persistent cache
   by default, so this cost is paid once and reused until an explicit refresh.
@@ -469,7 +480,7 @@ Resources**, not duplicated.
 ## 10. UI
 
 `components/relations-tab.tsx`: a TanStack table, one row per entry across
-all 38 content types — content type badge, title/slug (linked), current
+all 37 content types — content type badge, title/slug (linked), current
 relations as badges, proposed relations as badges (relation type → target,
 rationale on hover, outlined if report-only), write status. Search + status
 + content-type filters, page-scoped multi-select, Run/Write with the same

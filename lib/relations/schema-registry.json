@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T04:03:12.710Z",
+  "generatedAt": "2026-08-11T13:16:38.753Z",
   "sourceBackendPath": "/Users/parthivreddy/Documents/Cancerfax/vscode/Cancerfax/Cancerfax Main/cancerfax-strapi-backend",
   "contentTypes": [
     {
@@ -293,13 +293,6 @@
       "titleField": "name",
       "slugField": "slug",
       "relationFields": [
-        {
-          "field": "faqs",
-          "cardinality": "many",
-          "targetApiId": "faq",
-          "private": false,
-          "nonContent": false
-        },
         {
           "field": "insights",
           "cardinality": "many",
@@ -833,31 +826,6 @@
           "field": "drugs",
           "cardinality": "many",
           "targetApiId": "drug",
-          "private": false,
-          "nonContent": false
-        }
-      ]
-    },
-    {
-      "apiId": "faq",
-      "plural": "faqs",
-      "displayName": "FAQ",
-      "lastNameField": null,
-      "excerptField": null,
-      "titleField": "question",
-      "slugField": null,
-      "relationFields": [
-        {
-          "field": "category",
-          "cardinality": "one",
-          "targetApiId": "category",
-          "private": false,
-          "nonContent": false
-        },
-        {
-          "field": "tags",
-          "cardinality": "many",
-          "targetApiId": "tag",
           "private": false,
           "nonContent": false
         }
@@ -1571,13 +1539,6 @@
           "field": "survivor_stories",
           "cardinality": "many",
           "targetApiId": "survivor-story",
-          "private": false,
-          "nonContent": false
-        },
-        {
-          "field": "faqs",
-          "cardinality": "many",
-          "targetApiId": "faq",
           "private": false,
           "nonContent": false
         }
